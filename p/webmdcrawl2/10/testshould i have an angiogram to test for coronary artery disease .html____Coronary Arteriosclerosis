@@ -1,0 +1,851 @@
+<title>Should I have an angiogram to test for coronary artery disease?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/heart-disease/guide/what-to-do-after-a-heart-attack" onclick="return sl(this,'','lln-toolsres_1');">After a Heart Attack</a></li>
+      <li id="x57"><a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/heart-healthy-diet" onclick="return sl(this,'','lln-toolsres_2');">A Diet To Lower Cholesterol</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/heart-disease/slideshow-visual-guide-to-heart-disease" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">A Visual Guide to Heart Disease<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','lln-toolsres_4');">Test Your Cholesterol Smarts</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/heart-disease/exercising-for-a-healthy-heart" onclick="return sl(this,'','lln-toolsres_5');">Exercising for a Healthy Heart</a></li>
+      <li id="x61"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e8085e992&amp;promo=1" onclick="return sl(this,'','lln-toolsres_6');">Heart-Healthy Living With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionset.js">
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="headerLink_fmt"> 
+      <a href="/www/decision-point" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;">What is a Decision Point?</a> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionsetTOC_decsion_pt.jpg" alt="decision point" width="77" height="20" class="headerImg_fmt" />Should I have an angiogram to test for coronary artery disease?</h2> 
+     <div class="decisionPoint_fmt"> 
+      <div class="section_fmt "> 
+       <div class="arrowFirst_fmt"> 
+        <div class="leftBorder_fmt"> 
+         <div class="rounded_fmt"> 
+          <div class="vertical1_fmt"> 
+           <div class="vertical2_fmt"> 
+            <div class="vertical3_fmt"> 
+             <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Introduction</a> 
+            </div> 
+           </div> 
+          </div> 
+          <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP1Arrw" alt="arrow" /> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail1_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="hw267214-Intro"></a> 
+          <p>A coronary angiogram, also called cardiac catheterization, is a procedure in which contrast material is injected through a catheter to see the size and location of plaque that may have built up in your coronary arteries. Consider the following when making your decision:</p> 
+          <ul> 
+           <li>The American Heart Association recommends a coronary angiogram when: 
+            <ul>
+             <li>Tests, such as cardiac stress test, suggest severe coronary artery disease, especially if several risk factors are present. A stress test compares your electrocardiogram (EKG, ECG) while you rest to your EKG during the time and after your heart has been stressed.</li>
+             <li>You have severe symptoms, such as chest pain (angina), at rest or with minimal exertion.</li>
+             <li>You have an occupation involving the safety of others (pilots, bus drivers, etc.) and are considered at risk for heart attack. </li>
+            </ul></li> 
+           <li> A coronary angiogram may not be recommended when you: 
+            <ul>
+             <li><b>Absolutely do not</b> want OR your health problems make it impossible to have coronary artery bypass surgery, surgery to improve blood flow to your heart muscle, or angioplasty, a procedure which opens up blocked coronary arteries. </li>
+             <li>Can control your chest pain and other symptoms with medicines or other methods.</li>
+            </ul></li> 
+           <li>You may not want to have a coronary angiogram if you do not want to or feel that you cannot quit smoking, because you may not receive the full benefit from subsequent treatment.</li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Medical Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP2Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail2_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="hw267214-MedInfo"></a> 
+          <h4>What is a coronary angiogram?</h4> 
+          <p>A coronary angiogram can determine whether your heart arteries are narrowed, to what degree, and the location of the problem. During angiography, a thin flexible tube (catheter) is threaded through an artery of an arm or leg up into the heart and a dye is then injected into the catheter. The doctor can then see whether your coronary arteries are blocked and how your heart is beating on a TV screen. If an artery appears narrowed or blocked, angioplasty with stent placement may be done during the angiogram to open the artery, or at a later time. </p> 
+          <h4>What is coronary artery disease?</h4> 
+          <p>Coronary artery disease occurs when the coronary arteries, the blood vessels that supply oxygen-rich blood to your heart muscle, gradually become narrowed or blocked by plaque deposits. The plaque deposits decrease the space through which blood can flow. Poor blood flow can &quot;starve&quot; the heart muscle and lead to chest pain and weakened heart muscle. </p> 
+          <p>A heart attack can result when blood flow is completely blocked, usually by a blood clot forming over a ruptured plaque. </p> 
+          <h4>How will I know if I have coronary artery disease?</h4> 
+          <p>Unfortunately, symptoms of coronary artery disease often develop only after the disease has progressed to an advanced stage. These symptoms include angina and shortness of breath and can indicate that your heart muscle is not getting enough oxygen-rich blood.</p> 
+          <p>If you do not have symptoms of coronary artery disease, your doctor may suspect you have the disease if you are at high risk for developing it. Risk factors that contribute to coronary artery disease include smoking, high cholesterol, high blood pressure, and diabetes.</p> 
+          <h4>How will my doctor diagnose coronary artery disease?</h4> 
+          <p>Your doctor will ask you about your risk factors and symptoms and perform a complete physical exam. If coronary artery disease is suspected, you may have additional tests to determine the diagnosis. The most common initial tests are an electrocardiogram (EKG or ECG), chest X-ray, routine blood tests, an exercise electrocardiogram (also called a &quot;stress test&quot;), or a stress thallium test.</p> 
+          <p>If these tests indicate you have coronary artery disease or you have severe symptoms, your doctor may recommend a coronary angiogram to evaluate the severity of coronary artery disease and the exact location of any narrowing or blockages.</p> 
+          <h4>How is coronary artery disease treated?</h4> 
+          <p>Your doctor will strongly advise that you make lifestyle changes such as quitting smoking, following a heart-healthy diet, and exercising. With these measures, you may be able to halt the progression of the disease and improve the quality and length of your life. However, many people must take medicines for the rest of their lives, and a smaller portion require further treatment.</p> 
+          <p>If lifestyle changes and medicines do not work well enough, you may need angioplasty with stent placement or coronary artery bypass surgery.</p> 
+          <p>For more information, see the topic Coronary Artery Disease.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Your Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP3Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail3_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="hw267214-YourInfo"></a> 
+          <p>Your choices are:</p> 
+          <ul> 
+           <li>Do not have an angiogram and continue to treat your coronary artery disease with lifestyle changes and, if necessary, medicine.</li> 
+           <li>Have an angiogram to help determine whether angioplasty or surgery is needed.</li> 
+          </ul> 
+          <p>The decision about whether to have an angiogram takes into account your personal feelings and the medical facts.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <caption> 
+            <b>Deciding about an angiogram</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th scope="col" valign="top"> Reasons to have an angiogram</th> 
+             <th scope="col" valign="top"> Reasons not to have an angiogram</th> 
+            </tr> 
+            <tr> 
+             <td valign="top" width="50%"> 
+              <ul> 
+               <li>An angiogram will help confirm the diagnosis of coronary artery disease.</li> 
+               <li>Your symptoms are not controlled with medicine, have reduced your ability to move around without getting chest pain or short of breath, and have affected your daily life. </li> 
+               <li>An angiogram will help determine whether coronary artery bypass surgery or angioplasty are suitable for you.</li> 
+               <li>You have an occupation involving the safety of others and need to know your risk of heart attack.</li> 
+              </ul> <p>Are there other reasons you might want to have an angiogram?</p> </td> 
+             <td valign="top" width="49%"> 
+              <ul> 
+               <li>An angiogram carries rare complications, such as an allergic reaction and bleeding.</li> 
+               <li>An angiogram is an expensive test and is not available in all communities.</li> 
+               <li>An angiogram is probably not necessary if you can control your angina and other symptoms with medicines or other methods.</li> 
+               <li>Health problems make it impossible to have coronary artery bypass surgery or angioplasty<i>or</i> you are opposed to having further treatment.</li> 
+               <li>You smoke. Studies show that quality of life improves less for people who continue to smoke and the risk of death is higher after coronary artery bypass surgery or angioplasty than for those who do not smoke.<sup class="Reference">1</sup></li> 
+              </ul> <p>Are there other reasons you might not want to have an angiogram?</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p>These personal stories may help you make your decision.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Wise Health Decision</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP4Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail4_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="hw267214-WiseDecision"></a> 
+          <p> Use this worksheet to help you make your decision. After completing it, you should have a better idea of how you feel about angiography. Discuss the worksheet with your doctor.</p> 
+          <p>Circle the answer that best applies to you.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody> 
+            <tr> 
+             <td valign="top">My doctor is unsure whether or not I have angina. </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">My chest pain is affecting the quality of my life.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%"> Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">For the most part, medicines are controlling my symptoms.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I am concerned that my heart disease could go undiagnosed and I could have a heart attack sometime in the future.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> I am concerned about the cost of an angiogram. </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I smoke and do not plan on quitting, so I probably will not reap the full benefit of further treatment. </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA*</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I do not want to have surgery or angioplasty for coronary artery disease.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I am a pilot, so I need to know my risk of heart attack.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA*</td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <p> <i>*NA = Not applicable</i> </p> 
+          <p>Use the following space to list any other important concerns you have about this decision.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <tbody>
+            <tr> 
+             <td valign="top" width="98%"> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <h4>What is your overall impression?</h4> 
+          <p>Your answers in the above worksheet are meant to give you a general idea of where you stand on this decision. You may have one overriding reason to have or not have an angiogram.</p> 
+          <p>Check the box below that represents your overall impression about your decision.</p> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward having an angiogram</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="25%"> <p> <b>Leaning toward NOT having an angiogram</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <ul> 
+           <li>Coronary Artery Disease</li> 
+           <li>Angiogram</li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">References</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP5Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail5_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="hw267214-Bib"></a> 
+          <blockquote> 
+           <h3>Citations</h3> 
+           <ol> 
+            <li> <p> <a name="te7450"></a>Taira DA, et al. (2000). The impact of smoking on health-related quality of life following percutaneous coronary revascularization. <u>Circulation</u>, 102(12): 1369–1374.</p> </li> 
+           </ol> 
+          </blockquote> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt  last_fmt"> 
+       <div class="arrowLast_fmt" id="lastDiv"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;">Credits</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP6Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail6_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="hw267214-Credits"></a> 
+          <table border="0" cellpadding="5"> 
+           <tbody>
+            <tr> 
+             <td valign="top"> <b>Author</b> </td> 
+             <td>Robin Parks, MS</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Editor</b> </td> 
+             <td>Kathleen M. Ariss, MS</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Pat Truman, MATC</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+             <td>Caroline S. Rhoads, MD - Internal Medicine</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+             <td>Robert A. Kloner, MD, PhD - Cardiology</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+             <td>Ruth Schneider, MPH, RD - Diet and Nutrition</td> 
+            </tr> 
+            <tr> 
+             <td> <b>Last Updated</b> </td> 
+             <td>May 29, 2008</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: May 29, 2008
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - DecisionPoint';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1054"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/healthy-aging/medical-cost-disability-11/heart-disease" onclick="return sl(this,'','rltd-p-1054_1');">Heart Disease: What Are the Medical Costs?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','rltd-p-1054_2');">Quiz: Test Your Cholesterol Smarts</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/slideshow-living-with-a-fib" onclick="return sl(this,'','rltd-p-1054_3');">10 Tips for Living With Atrial Fibrillation</a> </li> 
+     <li id="x65"> <a href="http://men.webmd.com/erectile-dysfunction-11/myths-and-facts" onclick="return sl(this,'','rltd-p-1054_4');">Heart Problems and ED: What's the Link?</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/oral-health/answers-periodontal" onclick="return sl(this,'','rltd-p-1054_5');">Gum Disease: Linked to Heart Problems?</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/medication" onclick="return sl(this,'','rltd-p-1054_6');">Cholesterol Medications: Which Drug Is Right for You?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1054_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80b52be3" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb80</chronic_id><r_object_id>091e9c5e80b52be3</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8068fb80.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/30/2012 19:27:36</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Heart Disease Center/template_Heart Disease Health Center_091e9c5e8002329b.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002329b"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Coronary Artery Disease Tests</name><link_title>Coronary Artery Disease Tests</link_title><description>The first step in testing for coronary artery disease is a physical exam and analysis of family history. Some other tests that may follow include blood pressure, cholesterol blood test, CRP test, coronary artery calcium scan (X-ray), ECG/EKG, echocardiogram, angiogram, and more. Follow the links below to find WebMD's comprehensive coverage about how each test is used to check for coronary artery disease.</description><friendly_url>http://www.webmd.com/heart-disease/coronary-artery-disease-tests-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80008477"><link_title>Using MRI to Diagnose Heart Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/diagnosing-mri</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80009fa2"><link_title>Heart Disease Detection Goes High Tech</link_title><friendly_url>http://www.webmd.com/heart-disease/features/heart-disease-detection-goes-high-tech</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806dd8a2"><link_title>Blood Test May Detect Heart Damage Years Before Symptoms Appear</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20101207/blood-test-may-detect-heart-damage-years-before-symptoms-appear</friendly_url><thumbnail height="" width="" alt="nurse drawing blood from patient arm">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/12_2010/69x75_heart_disease_blood_test_01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80743163"><link_title>Many in U.S. Get Unneeded Heart Screening Tests</link_title><friendly_url>http://www.webmd.com/heart/news/20110203/many-in-us-get-unneeded-heart-screening-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8004c83e"><link_title>Tests for Diagnosing Heart Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-disease-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001f0b3"><link_title>Cardiac Perfusion Scan</link_title><friendly_url>http://www.webmd.com/heart-disease/cardiac-perfusion-scan</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80019c91"><link_title>Medical History and Physical Exam for Coronary Artery Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/medical-history-and-physical-examination-for-coronary-artery-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001f0bf"><link_title>Angiogram</link_title><friendly_url>http://www.webmd.com/heart-disease/angiogram</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>How does coronary artery disease develop?</link_title><friendly_url>http://answers.webmd.com/answers/1170825/how-does-coronary-artery-disease-develop</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802483f3"><link_title>Heart disease: how new research may lead to new treatments</link_title><friendly_url>http://www.webmd.com/heart-disease/features/breakthroughs-in-atherosclerosis-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805f3f63"><link_title>Atherosclerosis Overview</link_title><friendly_url>http://www.webmd.com/heart-disease/video/atherosclerosis</friendly_url><thumbnail height="48" width="48" alt="atherosclerosis">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/heart-health/heart-disease/atherosclerosis/graphics/thumbnails/final/atherosclerosis-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006952"><link_title>Tomatoes May Help Blood Vessels</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20000120/tomatoes-prevent-arteriosclerosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800062d7"><link_title>Safe, convenient heart disease tests being evaluated.</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000522/researchers-test-convenient-heart-disease-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007219"><link_title>How stress affects spouses of heart disease patients.</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000514/heart-disease-diagnosis-stressful-for-spouses</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800073b5"><link_title>Intensive Statin Therapy Protects Arteries</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040302/intensive-statin-therapy-stops-plaque-buildup</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000883d"><link_title>Diagnosing Heart Disease with Chest X-Ray</link_title><friendly_url>http://www.webmd.com/heart-disease/guide/diagnosing-chest-x-ray</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800091f0"><link_title>Living with Heart Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/guide/living-with-heart-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000b783"><link_title>MRI May Be the Future of Heart Disease Diagnosis</link_title><friendly_url>http://www.webmd.com/heart-disease/news/19991011/mri-may-be-future-of-heart-disease-diagnosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c3af"><link_title>Protein May Lead to Vaccine for Atherosclerosis</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20021001/vaccine-for-clogged-arteries</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d46d"><link_title>Exercise Plus Vitamins Fights Atherosclerosis</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040525/exercise-plus-vitamins-fights-atherosclerosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e5da"><link_title>Common Heart Drug May Block Atherosclerosis</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20010402/common-heart-drug-may-block-atherosclerosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010341"><link_title>New Computerized Scan May Spot Heart Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20050524/new-computerized-scan-may-spot-heart-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011626"><link_title>Heart Disease and Electrocardiograms, Specialized ECGs</link_title><friendly_url>http://www.webmd.com/heart-disease/electrocardiogram-ekgs</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80011629"><link_title>Heart Disease and Chest X-Rays</link_title><friendly_url>http://www.webmd.com/heart-disease/chest-xray</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80011644"><link_title>Heart Disease and Cardiac Catheterization</link_title><friendly_url>http://www.webmd.com/heart-disease/cardiac-catheterization-medref</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001182e"><link_title>Heart Disease and MRI Testing</link_title><friendly_url>http://www.webmd.com/heart-disease/guide/heart-mri</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8010eba4"><link_title>Nicotine May Be Bad for Arteries</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20070914/nicotine-may-be-bad-arteries</friendly_url><thumbnail height="" width="" alt="Nicotine Hardens Arteries">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/September07/nicotine_hardens_arteries.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8012c540"><link_title>Diagnosing Atherosclerosis</link_title><friendly_url>http://www.webmd.com/heart-disease/silent-symptoms-diagnosing-atherosclerosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80138945"><link_title>Your Arterial Lifeline</link_title><friendly_url>http://www.webmd.com/heart-disease/features/your-arterial-lifeline</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://answers.webmd.com/answers/1170825/how-does-coronary-artery-disease-develop" onclick="return sl(this,'','lln-tdrelcon_1');">How does coronary artery disease develop?</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/diagnosing-mri" onclick="return sl(this,'','lln-tdrelcon_2');">Using MRI to Diagnose Heart Disease</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/features/heart-disease-detection-goes-high-tech" onclick="return sl(this,'','lln-tdrelcon_3');">Heart Disease Detection Goes High Tech</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/heart-disease-tests" onclick="return sl(this,'','lln-tdrelcon_4');">Tests for Diagnosing Heart Disease</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/cardiac-perfusion-scan" onclick="return sl(this,'','lln-tdrelcon_5');">Cardiac Perfusion Scan</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/medical-history-and-physical-examination-for-coronary-artery-disease" onclick="return sl(this,'','lln-tdrelcon_6');">Medical History and Physical Exam for Coronary Artery Disease</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/angiogram" onclick="return sl(this,'','lln-tdrelcon_7');">Angiogram</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/heart-disease/coronary-artery-disease-tests-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Coronary Artery Disease Tests Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=443837494&tile=8768449&tug=&pug=__&site=2&affiliate=20&hcent=968&scent=948&pos=113&xpg=1675&sec=&amp;au1=1&au2=1&uri=%2fheart-disease%2fshould-i-have-an-angiogram-to-test-for-coronary-artery-disease&artid=091e9c5e8001ccd0&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_i_sex2_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'443837494',
+                    tile:'8768449',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1675";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=443837494&amp;tile=8768449&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=968&amp;scent=948&amp;pos=5001&amp;xpg=1675&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fheart-disease%2fshould-i-have-an-angiogram-to-test-for-coronary-artery-disease&amp;artid=091e9c5e8001ccd0&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_i_sex2_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=443837494&amp;amp;tile=8768449&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=968&amp;amp;scent=948&amp;amp;pos=5001&amp;amp;xpg=1675&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fheart-disease%2fshould-i-have-an-angiogram-to-test-for-coronary-artery-disease&amp;amp;artid=091e9c5e8001ccd0&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_i_sex2_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1675";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

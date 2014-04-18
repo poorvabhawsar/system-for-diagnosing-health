@@ -1,0 +1,463 @@
+<title>Psoriatic Arthritis Symptoms, Inflammation, Pain, &amp; More</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/rheumatoid-arthritis/slideshow-rheumatoid-arthritis-exercises" class="type_ss" onclick="return sl(this,'','tools-res_1');">Joint-Friendly Exercises<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-quiz" onclick="return sl(this,'','tools-res_2');">Psoriatic Arthritis Quiz</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-symptoms" onclick="return sl(this,'','tools-res_3');">Psoriatic Arthritis Symptoms</a></li>
+      <li id="x59"><a href="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-prevention" onclick="return sl(this,'','tools-res_4');">Psoriatic Arthritis Prevention</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/drug-medication/medicationawareness/default.htm" onclick="return sl(this,'','tools-res_5');">Test Your Medication IQ</a></li>
+      <li id="x61"><a href="http://www.webmd.com/rheumatoid-arthritis/life-with-ra-11/ra-diet" onclick="return sl(this,'','tools-res_6');">Eat to Beat Inflammation</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="article_rdr"> 
+    <div id="readspeaker_area" style="display: none;"> 
+     <div id="readspeaker_button1" class="rs_skip"> 
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /> </a> 
+     </div> 
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript">
+    </script> 
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:2});
+                    });
+                })();
+                </script> 
+     <div id="xp1"> 
+     </div> 
+    </div> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Psoriatic Arthritis -- Symptoms</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <h3></h3> 
+     <p>Need to learn more about psoriatic arthritis symptoms? Find out what signs and symptoms to watch for with psoriatic <a onclick="return sl(this,'','embd-lnk');" href="http://arthritis.webmd.com/default.htm">arthritis</a>, and then talk to your doctor to see if you're at risk.</p> 
+     <h3>Is psoriatic arthritis linked to psoriasis?</h3> 
+     <p> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/skin-problems-and-treatments/tc/Psoriasis-Topic-Overview">Psoriasis</a> is a chronic <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/healthy-beauty/toc-old">skin</a> problem that causes skin cells to grow too quickly, resulting in thick, white, silvery, or red patches of skin. This commonly affects skin of the scalp and over the knees and elbows, but can occur anywhere on the body.</p> 
+     <p>About 10% to 30% of people with psoriasis develop psoriatic arthritis. Psoriatic arthritis may develop at any age, but usually affects people between the ages of 30 and 50. While the cause is not known, genetic factors, along with the immune system, likely play a role in determining who will develop the disorder.</p> 
+     <p>&nbsp;</p> 
+     <h3>What are the symptoms of psoriatic arthritis?</h3> 
+     <p>Psoriatic arthritis frequently involves inflammation of the knees, ankles, and joints in the feet and hands. Usually, only a few joints are inflamed at a time. The inflamed joints become painful and swollen and sometimes hot and red. &nbsp;Joint inflammation in the fingers or toes can cause swelling of the entire digit, giving them the appearance of a cocktail sausage.</p> 
+     <p>Joint stiffness is common and is typically worse early in the morning. Less commonly, psoriatic arthritis may involve many joints of the body in a symmetrical fashion, mimicking the pattern seen in <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/rheumatoid-arthritis/default.htm">rheumatoid arthritis</a>.</p> 
+     <p>Psoriatic arthritis can also cause inflammation of the spine (spondylitis) and the sacrum, causing <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/pain-management/default.htm">pain</a> and stiffness in the low back, buttocks, neck, and upper back. In about 50% of those with spondylitis, the genetic marker HLA-B27 can be found. In rare instances, psoriatic arthritis involves the small joints at the ends of the fingers. A very destructive form of arthritis, called &quot;mutilans,&quot; can cause rapid damage to the joints of the hands and feet and loss of their function. Fortunately, this form of arthritis is rare in patients with psoriatic arthritis.</p> 
+     <p>Patients with psoriatic arthritis can also develop inflammation of the tendons (<a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/osteoarthritis/guide/arthritis-tendinitis">tendinitis</a>) and around cartilage. This inflammation may lead to an enthesopathy, which is inflammation of a tendon at the site where it inserts into the bone. Inflammation of the tendon behind the heel causes Achilles tendinitis, leading to pain with <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/fitness-exercise/walking-for-wellness">walking</a> and climbing stairs. Inflammation of the chest wall and of the cartilage that links the ribs to the breastbone (sternum) can cause <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/heart-disease/tc/chest-pain-topic-overview">chest pain</a>, as seen in <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/pain-management/costochondritis">costochondritis</a>.</p> 
+     <p>&nbsp;</p> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+     </div> 
+     <div class="right_fmt"> 
+      <span class="current_fmt">1</span> 
+      <span class="pipe_fmt">|</span> 
+      <a href="?page=2">2</a> 
+      <div class="outline_fmt right"> 
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="articlesPulldown_fmt"> 
+    <script type="text/javascript" language="javascript">
+				var externalUrlList = new Array(
+			'xxx');
+		</script> 
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)" style="padding-top:5px;">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-the-basics">What is Psoriatic Arthritis?</option><option value="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-symptoms">Symptoms</option><option value="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-diagnosis">Diagnosis</option><option value="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-treatment">Treatment</option><option value="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-prevention">Living With</option><option value="http://www.webmd.com/arthritis/psoriatic-arthritis/the-emotional-toll-of-psoriatic-arthritis">Emotional Toll</option></select>
+     <input name="submit" value="Go" alt="Go" align="top" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/articlePulldownGoBtn.gif" type="image" />
+    </form> 
+   </div> 
+   <script type="text/javascript" language="JavaScript">
+				selectNextArticle('NextTopicPulldown',s_furl);
+		</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script type="text/javascript">
+				if (document.getElementById("headerLinks_print")) {
+				setClass('headerLinks_print','headerLinks_fmt_on');
+				};
+			</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+				#url_reference {display: none};
+				</style> 
+   <style media="print">
+				#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+				#logo_rdr img { visibility: visible; }
+				.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+				</style> 
+   <script type="text/javascript">
+					var insert1 = document.getElementById("ContentPane2");
+					var urlDiv = articleUrl();
+					if (insert1) {
+						insert1.appendChild(urlDiv);
+						}
+				</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="related_reading_rdr" id="rltd-p-1161"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://arthritis.webmd.com/psoriatic-arthritis/stress-relief" onclick="return sl(this,'','rltd-p-1161_1');">Psoriatic Arthritis: 5 Tips to Beat Stress</a> </li> 
+     <li id="x63"> <a href="http://arthritis.webmd.com/psoriatic-arthritis/preventing-fatigue" onclick="return sl(this,'','rltd-p-1161_2');">Psoriatic Arthritis: 10 Fatigue-Fighting Tips</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/sleep-disorders/living-with-insomnia-11/pain-and-sleep" onclick="return sl(this,'','rltd-p-1161_3');">When Pain Interrupts Your Sleep</a> </li> 
+     <li id="x65"> <a class="type_vid" href="http://www.webmd.com/rheumatoid-arthritis/life-with-ra-10/default.htm?video=4" onclick="return sl(this,'','rltd-p-1161_4');"> 8 Joint-Friendly Exercises <i> </i></a> </li> 
+     <li id="x66"> <a href="http://arthritis.webmd.com/psoriatic-arthritis-quiz" onclick="return sl(this,'','rltd-p-1161_5');">Is Psoriatic Arthritis Limiting Your Life?</a> </li> 
+     <li id="x67" class="last"> <a href="http://arthritis.webmd.com/psoriatic-arthritis/features/coping" onclick="return sl(this,'','rltd-p-1161_6');">Psoriatic Arthritis: How to Cope</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1161_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806a7c23" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806a7b6c</chronic_id><r_object_id>091e9c5e806a7c23</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806a7b6c.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/12/2010 10:34:09</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Psoriatic Arthritis/template_Psoriatic Arthritis_091e9c5e802400f6.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e802400f6"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Joint Pain</name><link_title>Joint Pain</link_title><description>Many different conditions can cause joint pain, including osteoarthritis, rheumatoid arthritis, bursitis, gout, strains, sprains, and other injuries. Joint pain is extremely common and can range from mildly irritating to debilitating. It may go away after a few weeks or last for several weeks or months. Whatever the cause of joint pain, you can usually manage it with medication, physical therapy, or alternative treatments. The goal is to reduce pain and inflammation, and preserve joint function. Follow the links below to find WebMD's comprehensive coverage about joint pain, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/arthritis/joint-pain-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80590c0e"><link_title>Slideshow:  Tips to Keep Joints Healthy</link_title><friendly_url>http://www.webmd.com/arthritis/ss/slideshow-keep-joints-healthy</friendly_url><thumbnail height="" width="" alt="Woman rubbing shoulder">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/keep_joints_healthy_slideshow/69x75_keep_joints_healthy_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801bdd71"><link_title>Rheumatoid Arthritis A Quality of Life Quiz</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/rheumatoid-arthritis-quiz</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1078</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000c744"><link_title>Bone, Joint Woes Hit Overweight Kids</link_title><friendly_url>http://www.webmd.com/parenting/news/20060609/bone-joint-woes-hit-overweight-kids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801b54fb"><link_title>Alternatives and Supplements for Arthritis Joint Pain</link_title><friendly_url>http://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/alternatives-and-supplements-for-arthritis-joint-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8046fad8"><link_title>Explaining RA to Your Kids</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/life-with-ra-11/ra-explaining-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ff64"><link_title>Millions Not Seeking Help For Joint Pain</link_title><friendly_url>http://www.webmd.com/arthritis/news/20030508/millions-not-seeking-help-for-joint-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011f85"><link_title>Rituxan Treats Rheumatoid Arthritis</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/news/20060428/rituxan-treats-rheumatoid-arthritis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8046fbf2"><link_title>Ways to Reduce Stress and Fight RA Flares</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/life-with-ra-11/ra-managing-stress</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80010982"><link_title>Joint Pain, Aging, and Arthritis - Understand Your Pain</link_title><friendly_url>http://www.webmd.com/osteoarthritis/features/joint-pain-management-age</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001167c"><link_title>When You Should Call a Doctor About Arthritis Symptoms</link_title><friendly_url>http://www.webmd.com/arthritis/arthritis-call-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8017c2fa"><link_title>RA (Rheumatoid Arthritis) Treatment: 8 Myths</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/features/rheumatoid-arthritis-8-top-myths</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset><asset id="091e9c5e803043f8"><link_title>Swollen Joints (Joint Effusion)</link_title><friendly_url>http://www.webmd.com/arthritis/swollen-joints-joint-effusion</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e803c78f0"><link_title>Joint Pain: Causes and Pain Relief Options</link_title><friendly_url>http://www.webmd.com/pain-management/guide/joint-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800077fe"><link_title>What Is Benign Hypermobility Joint Syndrome?</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/benign-hypermobility-joint-syndrome</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8046fc78"><link_title>7 Ways to Simplify Meal Prep</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/life-with-ra-11/ra-cooking</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8046f551"><link_title>6-Week RA Exercise Plan</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/life-with-ra-11/ra-exercise-plan</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8046fa78"><link_title>Rheumatoid Arthritis and Menopause: What Women Should Know</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/life-with-ra-11/ra-menopause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8019c12f"><link_title>The Basics of Psoriatic Arthritis</link_title><friendly_url>http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-the-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007bf1"><link_title>Lupus Diagnosis and Treatments</link_title><friendly_url>http://www.webmd.com/lupus/guide/understanding-lupus-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8069e9f1"><link_title>Pill Cuts Rheumatoid Arthritis Symptoms</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/news/20101107/pill-cuts-rheumatoid-arthritis-symptoms</friendly_url><thumbnail height="" width="" alt="Woman holding hand in pain over laptop">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_pill_ra_symptoms_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80330649"><link_title>Slideshow: What You Need to Know About RA</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/ss/slideshow-ra-overview</friendly_url><thumbnail height="" width="" alt="Xray Rheumatoid Arthritis">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/ra_overview_slideshow/69x75_ra_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800113c1"><link_title>Coping With Rheumatoid Arthritis Pain</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/guide/coping-with-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e806b3f58"><link_title>Top Celebrity Health Topics of 2010</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/features/top-celebrity-health-topics-of-2010</friendly_url><thumbnail height="" width="" alt="bret michaels face">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_top_celebrity_topics_v01.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007937"><link_title>Arthritis and Lupus</link_title><friendly_url>http://www.webmd.com/lupus/joint-function-lupus</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804f5904"><link_title>Slideshow: A Visual Guide to Understanding Osteoarthritis</link_title><friendly_url>http://www.webmd.com/osteoarthritis/ss/slideshow-osteoarthritis-overview</friendly_url><thumbnail height="" width="" alt="Knee Xray">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/osteoarthritis_overview_slideshow/69x75_osteoarthritis_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e404"><link_title>Lupus (Systemic Lupus Erythematosus)-Home Treatment</link_title><friendly_url>http://www.webmd.com/lupus/guide/lupus-systemic-lupus-erythematosus-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80718cee"><link_title>10 Serious Rheumatoid Arthritis Symptoms</link_title><friendly_url>http://www.webmd.com/rheumatoid-arthritis/features/10-serious-rheumatoid-arthritis-symptoms</friendly_url><thumbnail height="" width="" alt="Arthritic hands">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/01_2011/69x75_ra_lifetime_risk_01.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset><asset id="091e9c5e806628c9"><link_title>Keep Your Joints Healthy Every Day</link_title><friendly_url>http://www.webmd.com/osteoarthritis/features/healthy-joints</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800e0141"><link_title>Melorheostosis</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/melorheostosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80025c50"><link_title>Millions of Americans in Pain</link_title><friendly_url>http://www.webmd.com/pain-management/news/20061115/pain-effects-millions-of-americans</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/arthritis/ss/slideshow-keep-joints-healthy" onclick="return sl(this,'','td-rltd-art_1');">Slideshow: Tips to Keep Joints Healthy</a></li>
+      <li><a href="http://www.webmd.com/rheumatoid-arthritis/ss/slideshow-ra-overview" onclick="return sl(this,'','td-rltd-art_2');">Slideshow: What You Need to Know About RA</a></li>
+      <li><a href="http://www.webmd.com/rheumatoid-arthritis/rheumatoid-arthritis-quiz" onclick="return sl(this,'','td-rltd-art_3');">Rheumatoid Arthritis A Quality of Life Quiz</a></li>
+      <li><a href="http://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/alternatives-and-supplements-for-arthritis-joint-pain" onclick="return sl(this,'','td-rltd-art_4');">Alternatives and Supplements for Arthritis Joint Pain</a></li>
+      <li><a href="http://www.webmd.com/rheumatoid-arthritis/life-with-ra-11/ra-explaining-pain" onclick="return sl(this,'','td-rltd-art_5');">Explaining RA to Your Kids</a></li>
+      <li><a href="http://www.webmd.com/rheumatoid-arthritis/life-with-ra-11/ra-managing-stress" onclick="return sl(this,'','td-rltd-art_6');">Ways to Reduce Stress and Fight RA Flares</a></li>
+      <li><a href="http://www.webmd.com/osteoarthritis/features/joint-pain-management-age" onclick="return sl(this,'','td-rltd-art_7');">Joint Pain, Aging, and Arthritis - Understand Your Pain</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/arthritis/joint-pain-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Joint Pain Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1822313466&tile=793290363&tug=&pug=__&site=2&affiliate=20&hcent=&scent=1194&pos=113&xpg=4054&sec=&amp;au1=&au2=&uri=%2farthritis%2fpsoriatic-arthritis%2fpsoriatic-arthritis-symptoms&artid=091e9c5e8019c1be&inst=0&amp;leaf=2392&segm=0&cc=16&tmg=2&bc=_h20_l40_m07_r52_&mcent=2390&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1822313466',
+                    tile:'793290363',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "4054";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1822313466&amp;tile=793290363&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1194&amp;pos=5001&amp;xpg=4054&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2farthritis%2fpsoriatic-arthritis%2fpsoriatic-arthritis-symptoms&amp;artid=091e9c5e8019c1be&amp;inst=0&amp;leaf=2392&amp;cc=16&amp;tmg=2&amp;bc=_h20_l40_m07_r52_&amp;mcent=2390&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1822313466&amp;amp;tile=793290363&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1194&amp;amp;pos=5001&amp;amp;xpg=4054&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2farthritis%2fpsoriatic-arthritis%2fpsoriatic-arthritis-symptoms&amp;amp;artid=091e9c5e8019c1be&amp;amp;inst=0&amp;amp;leaf=2392&amp;amp;cc=16&amp;amp;tmg=2&amp;amp;bc=_h20_l40_m07_r52_&amp;amp;mcent=2390&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4054";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

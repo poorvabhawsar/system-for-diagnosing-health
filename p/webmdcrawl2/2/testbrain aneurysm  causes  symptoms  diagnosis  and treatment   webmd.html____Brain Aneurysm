@@ -1,0 +1,656 @@
+<title>Brain Aneurysm: Causes, Symptoms, Diagnosis, and Treatment - WebMD</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/alzheimers/ss/slideshow-alzheimers-overview" class="type_ss" onclick="return sl(this,'','tools-res_1');">Caregiver's Guide to Alzheimer's<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/stroke/ss/slideshow-stroke-overview" class="type_ss" onclick="return sl(this,'','tools-res_2');">Stroke Explained in Photos<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parkinsons-disease/ss/slideshow-parkinsons-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">Parkinson's Disease Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/brain/ss/slideshow-concussions-brain-injuries" class="type_ss" onclick="return sl(this,'','tools-res_4');">What Concussions and Brain Injuries Look Like<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/default.htm" onclick="return sl(this,'','tools-res_5');">The Secret to Managing Your MS</a></li>
+      <li id="x61"><a href="http://www.webmd.com/brain/video/skull-implant" class="type_vid" onclick="return sl(this,'','tools-res_6');">Implants Aid Skull Healing<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e8c1df" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e8001d396</i_chronicle_id><r_object_id>091e9c5e80e8c1df</r_object_id><title>Topic Overview</title><object_name>brain_aneurysm-topic_overview_special_zr1055.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e8c1df</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_zr1055</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Brain Aneurysm: Causes, Symptoms, Diagnosis, and Treatment - WebMD</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is a brain aneurysm?A brain (cerebral) aneurysm is a bulging, weak area in the wall of an artery that supplies blood to the brain. In most cases, a brain aneurysm causes no symptoms and goes unnoticed. In rare cases, the brain aneurysm ruptures, releasing blood into the skull and causing a stroke.When a brain aneurysm ruptures, the result is called a subarachnoid hemorrhage. Depending on the </wbmd_desc_meta><wbmd_orig_pub_dt>01/03/2013 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is a brain aneurysm?A brain (cerebral) aneurysm is a bulging, weak area in the wall of an artery that supplies blood to the brain. In most cases, a brain aneurysm causes no symptoms and goes unnoticed. In rare cases, the brain aneurysm ruptures, releasing blood into the skull and causing a stroke.When a brain aneurysm ruptures, the result is called a subarachnoid hemorrhage. Depending on the </wbmd_desc_user><wbmd_lk_ttl>Brain Aneurysm-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>cerebral aneurysm</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e8c1df</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3053" wbmd_disp_nm="Stroke"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4094" wbmd_disp_nm="Brain &amp; Nervous System"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1018" wbmd_disp_nm="Brain &amp; Nervous System"></wbmd_c_channel_id><wbmd_c_frnd_nm>Brain-Aneurysm-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is a brain aneurysm?</section_header><section_type>SpecialSection</section_type><section_text><p> A <a chronic_id="091e9c5e8041fa4e" crossLinkId="73853" directive="friendlyurl" externalId="091e9c5e8041fa4e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml" keywordId="60487" keywordSetId="26677" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml">brain</a> (cerebral) <a chronic_id="091e9c5e8000927b" crossLinkId="2475" directive="friendlyurl" externalId="091e9c5e8000927b" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/understanding_aneurysm_basics.xml" keywordId="72701" keywordSetId="32776" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/understanding_aneurysm_basics.xml">aneurysm</a> is a bulging, weak
+		 area in the wall of an <a chronic_id="091e9c5e809d6a7d" crossLinkId="1551808" directive="friendlyurl" externalId="091e9c5e809d6a7d" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/arteries.xml" keywordId="70855" keywordSetId="31982" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/arteries.xml">artery</a> that supplies <a chronic_id="091e9c5e8056ea80" crossLinkId="1506783" directive="friendlyurl" externalId="091e9c5e8056ea80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml" keywordId="62987" keywordSetId="28544" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml">blood</a> to the brain. In most cases,
+		 a <a chronic_id="091e9c5e8001b6b7" crossLinkId="1538186" directive="friendlyurl" externalId="091e9c5e8001b6b7" href="/webmd/consumer_assets/controlled_content/healthwise/frame/Brain_aneurysm_21488.xml" keywordId="72307" keywordSetId="32643" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Brain_aneurysm_21488.xml">brain aneurysm</a> causes no symptoms and goes unnoticed. In rare cases, the
+		 brain aneurysm ruptures, releasing blood into the skull and causing a
+		 <a chronic_id="091e9c5e8001b089" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/stroke_definition_sts15140.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stroke_definition_sts15140.xml">stroke</a>.</p><p>When a brain aneurysm ruptures,
+		 the result is called a
+		 <a chronic_id="091e9c5e8001af50" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/subarachnoid_hemorrhage_definition_sts15307.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/subarachnoid_hemorrhage_definition_sts15307.xml">subarachnoid hemorrhage</a>. Depending on the severity of
+		 the hemorrhage, <a chronic_id="091e9c5e8027906b" crossLinkId="58508" directive="friendlyurl" externalId="091e9c5e8027906b" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/brain_damage_symptoms_causes_treatments.xml" keywordId="42669" keywordSetId="10403" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/brain_damage_symptoms_causes_treatments.xml">brain damage</a> or death may result.</p><p> The most common
+		 location for brain aneurysms is in the network of blood vessels at the base of
+		 the brain called the circle of Willis. </p></section_text></section_group><section_group><section_header>What causes a brain aneurysm?</section_header><section_type>SpecialSection</section_type><section_text><p>A person may inherit the tendency
+		 to form aneurysms, or aneurysms may develop because of hardening of the
+		 arteries (<a chronic_id="091e9c5e8001b0f2" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/atherosclerosis_definition_sta123334.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/atherosclerosis_definition_sta123334.xml">atherosclerosis</a>) and aging. Some risk factors that can
+		 lead to brain aneurysms can be controlled, and others can't. The following risk
+		 factors may increase your risk for an aneurysm or, if you already
+		 have an aneurysm, may increase your risk of it rupturing:</p><ul><li><b>Family history.</b> People
+			 who have a family history of brain aneurysms are more likely to have an
+			 aneurysm than those who don't. </li><li><b>Previous aneurysm.</b> People who have had a brain aneurysm are more likely to have another. </li><li><b>Gender.</b> Women are more likely to
+			 develop a brain aneurysm or to suffer a
+			 subarachnoid hemorrhage. </li><li><b>Race.</b> African Americans are more likely than whites to have a subarachnoid
+			 hemorrhage.</li><li><b><a chronic_id="091e9c5e800232f5" crossLinkId="536" directive="friendlyurl" externalId="091e9c5e800232f5" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hypertension Health Center/page_Hypertension Health Center_091e9c5e800232f5.xml" keywordId="36407" keywordSetId="8998" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hypertension Health Center/page_Hypertension Health Center_091e9c5e800232f5.xml">High blood pressure</a>.</b> The
+			 risk of subarachnoid hemorrhage is greater in people who have a history of
+			 <a chronic_id="091e9c5e8001b196" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/high_blood_pressure_hypertension_definition_sth149819.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/high_blood_pressure_hypertension_definition_sth149819.xml">high blood pressure</a>. </li><li><b><a chronic_id="091e9c5e800ab373" crossLinkId="451" directive="friendlyurl" externalId="091e9c5e800ab373" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml" keywordId="40038" keywordSetId="9788" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml">Smoking</a>.</b> In addition to being a cause of high <a chronic_id="091e9c5e802a073a" crossLinkId="59290" directive="friendlyurl" externalId="091e9c5e802a073a" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.xml" keywordId="31615" keywordSetId="8191" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.xml">blood pressure</a>, the use
+			 of cigarettes may greatly increase the chances of a brain aneurysm rupturing.
+			 </li></ul></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p>Most brain aneurysms cause no symptoms and may only be discovered during
+		 tests for another, usually unrelated, condition. In other cases, an unruptured
+		 aneurysm will cause problems by pressing on areas in the brain. When this
+		 happens, the person may suffer from severe <a chronic_id="091e9c5e8002394a" crossLinkId="189" directive="friendlyurl" externalId="091e9c5e8002394a" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml" keywordId="7522" keywordSetId="1291" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml">headaches</a>, blurred <a chronic_id="091e9c5e800302ce" crossLinkId="166" directive="friendlyurl" externalId="091e9c5e800302ce" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml" keywordId="35136" keywordSetId="1184" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml">vision</a>, changes
+		 in speech, and <a chronic_id="091e9c5e80007baa" crossLinkId="21513" directive="friendlyurl" externalId="091e9c5e80007baa" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/pain_management_neck_shoulder_pain.xml" keywordId="38409" keywordSetId="9412" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/pain_management_neck_shoulder_pain.xml">neck pain</a>, depending on what areas of the brain are affected
+		 and how bad the aneurysm is. </p><p>Symptoms of a ruptured brain aneurysm often
+		 come on suddenly. If you have any of the following symptoms or
+		 notice them in someone you know, <b>call </b><inline.emer-num></inline.emer-num><b> or other emergency services right away</b>:</p><ul><li>A sudden, severe headache that is
+				different from past headaches.</li><li>Neck pain.</li><li><a chronic_id="091e9c5e800079b6" crossLinkId="5629" directive="friendlyurl" externalId="091e9c5e800079b6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml" keywordId="38405" keywordSetId="9410" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml">Nausea</a> and
+			 vomiting.</li><li>Sensitivity to light.</li><li><a chronic_id="091e9c5e800090c5" crossLinkId="1299" directive="friendlyurl" externalId="091e9c5e800090c5" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/understanding_fainting_basics.xml" keywordId="42051" keywordSetId="10171" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/understanding_fainting_basics.xml">Fainting</a> or loss of
+			 consciousness.</li><li><a chronic_id="091e9c5e800097b9" crossLinkId="30329" directive="friendlyurl" externalId="091e9c5e800097b9" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/epilepsy/overview_types_of/understanding_seizures_basics.xml" keywordId="71184" keywordSetId="32128" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/epilepsy/overview_types_of/understanding_seizures_basics.xml">Seizures</a>.</li></ul></section_text></section_group><section_group><section_header>How is a brain aneurysm diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>Because unruptured brain aneurysms often do not
+		 cause any symptoms, many are discovered in people who are being treated for a
+		 different condition. </p><p>If your doctor believes that you
+		 have a brain aneurysm, you may have the following tests:</p><ul><li><b>Computed tomography (CT) scan.</b> A <a chronic_id="091e9c5e8001f058" crossLinkId="44946" directive="friendlyurl" externalId="091e9c5e8001f058" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/computed_tomography_ct_scan_of_the_body_medicaltest_hw233596.xml" keywordId="7212" keywordSetId="1060" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/computed_tomography_ct_scan_of_the_body_medicaltest_hw233596.xml">CT scan</a>
+			 can help identify bleeding in the brain. Sometimes a
+		 <a chronic_id="091e9c5e8001b28d" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/lumbar_puncture_definition_stl14135.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/lumbar_puncture_definition_stl14135.xml">lumbar puncture</a> may be used if your doctor suspects that you have a ruptured cerebral aneurysm with a
+		 subarachnoid hemorrhage.</li><li><b>Computed tomography <a chronic_id="091e9c5e8001f0bf" crossLinkId="1511435" directive="friendlyurl" externalId="091e9c5e8001f0bf" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/angiogram_medicaltest_hw201112.xml" keywordId="6830" keywordSetId="795" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/angiogram_medicaltest_hw201112.xml">angiogram</a> (CTA) scan.</b> CTA is a more precise method of
+			 evaluating blood vessels than a standard
+			 <a chronic_id="091e9c5e8001b485" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ct_or_cat_scan_definition_stc123812.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ct_or_cat_scan_definition_stc123812.xml">CT scan</a>. CTA uses a combination of CT scanning,
+			 special computer techniques, and
+			 <a chronic_id="091e9c5e8001b1e8" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/contrast_material_definition_stc123757.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/contrast_material_definition_stc123757.xml">contrast material</a> (dye) injected into the blood to
+			 produce images of blood vessels. </li><li><b>Magnetic resonance angiography (MRA).</b> Similar to a CTA,
+			 <a chronic_id="091e9c5e8001b22d" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_angiogram_mra_definition_stm159531.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_angiogram_mra_definition_stm159531.xml">MRA</a> uses a magnetic field and pulses of radio wave
+			 energy to provide pictures of blood vessels inside the body. As with CTA and
+			 cerebral angiography, a dye is often used during MRA to make blood vessels show
+			 up more clearly. </li><li><b><a chronic_id="091e9c5e8001f0f1" crossLinkId="43375" directive="friendlyurl" externalId="091e9c5e8001f0f1" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/angiogram_of_the_head_and_neck_medicaltest_hw201050.xml" keywordId="31020" keywordSetId="796" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/angiogram_of_the_head_and_neck_medicaltest_hw201050.xml">Cerebral angiogram</a>.</b> During
+			 this X-ray test, a catheter is inserted through a blood vessel in the groin or
+			 arm and moved up through the vessel into the brain. A dye is then injected into
+			 the cerebral artery. As with the above tests, the dye allows any problems in
+			 the artery, including aneurysms, to be seen on the X-ray. Although this test is
+			 more invasive and carries more risk than the above tests, it is the best way to
+			 locate small (less than 5 mm) brain aneurysms. </li></ul></section_text></section_group></page><page><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p> Your doctor will think about several things before
+		 deciding the best treatment for you. Things that will determine the type of
+		 treatment you receive include your age, size of the aneurysm, any additional
+		 risk factors, and your overall health. </p><p>Because the risk of a
+		 small (less than 10 mm) aneurysm rupturing is low and surgery for a brain
+		 aneurysm is often risky, your doctor may want to continue to
+		 observe your condition rather than do surgery. If your aneurysm
+		 is large or causing pain or other symptoms, though, or if you have had a previous
+		 ruptured aneurysm, your doctor may recommend surgery. </p><p> The following surgeries are used to treat both ruptured and unruptured
+		 brain aneurysms: </p><ul><li><b>Embolization.</b>
+			 During this procedure, a small tube is inserted into the affected artery and positioned near the aneurysm. For coil embolization, soft metal coils are then moved through the tube into the aneurysm, filling the aneurysm and making it less likely to rupture. In mesh embolization, mesh is placed in the aneurysm, reducing blood flow to the aneurysm and making it less likely to rupture. These procedures are less invasive and are believed to be safer than surgical clipping. But they may not work as well at reducing the risk of a later rupture. Either procedure should be done in a large hospital where many procedures like these are done.</li><li><b>Surgical clipping.</b> This surgery involves placing a small metal clip around the
+			 base of the aneurysm to isolate it from normal blood circulation. This
+			 decreases the pressure on the aneurysm and prevents it from rupturing. Whether
+			 this surgery can be done depends on the location of the aneurysm, its size, and
+			 your general health. </li></ul><p>Some aneurysms bulge in such a way that the aneurysm has to
+		 be cut out and the ends of the blood vessel stitched together, but this is very
+		 rare. Sometimes the artery is not long enough to stitch together, and a
+		 piece of another artery has to be used.</p><p> Aneurysms that have bled
+		 are very serious. In many cases, they lead to death or disability. Management
+		 includes hospitalization, intensive care to relieve pressure in the brain
+		 and maintain breathing and vital functions (such as blood pressure), and
+		 treatment to prevent rebleeding.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/brain/tc/brain-aneurysm-topic-overview" owner="false"><breadcrumb><bread piece="Brain &amp; Nervous System Health Center" prefix="www" friendlyurl="/brain/default.htm"></bread><bread piece="Brain &amp; Nervous System Related Topics" prefix="www" friendlyurl="/brain/tc/default.htm"></bread></breadcrumb><centers><Topic id="703" name="tmg" chronicid="091e9c5e8001d396" prefix="www" friendlyurl="/brain/tc/brain-aneurysm-topic-overview" type="Topic">Brain Aneurysm</Topic><Super id="740" name="super center" chronicid="091e9c5e80025343" prefix="www" friendlyurl="/brain/default.htm" type="">Brain and Nervous System</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/brain-aneurysm-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e8001d396" prefix="www" friendlyurl="/a-to-z-guides/tc/brain-aneurysm-topic-overview" type="Topic">Brain Aneurysm</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8041fa4e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/picture-of-the-brain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-brain"></target></object><object chronic_id="091e9c5e8000927b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/understanding_aneurysm_basics.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/understanding-aneurysm-basics"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/understanding-aneurysm-basics"></target></object><object chronic_id="091e9c5e809d6a7d" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/arteries.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/picture-of-the-arteries"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-arteries"></target></object><object chronic_id="091e9c5e8056ea80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/anatomy-picture-of-blood"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/anatomy-picture-of-blood"></target></object><object chronic_id="091e9c5e8001b6b7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Brain_aneurysm_21488.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/brain-aneurysm-21488"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/brain-aneurysm-21488"></target></object><object chronic_id="091e9c5e8001b089" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stroke_definition_sts15140.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/stroke-7439"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/stroke-7439"></target></object><object chronic_id="091e9c5e8001af50" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/subarachnoid_hemorrhage_definition_sts15307.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/subarachnoid-hemorrhage"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/subarachnoid-hemorrhage"></target></object><object chronic_id="091e9c5e8027906b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/brain_damage_symptoms_causes_treatments.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/brain-damage-symptoms-causes-treatments"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/brain-damage-symptoms-causes-treatments"></target></object><object chronic_id="091e9c5e8001b0f2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/atherosclerosis_definition_sta123334.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/atherosclerosis-8374"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/atherosclerosis-8374"></target></object><object chronic_id="091e9c5e800232f5" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hypertension Health Center/page_Hypertension Health Center_091e9c5e800232f5.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/default.htm" umtchronicleid="091e9c5e807bd3c1"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/high-blood-pressure-treatment-directory" umtchronicleid="091e9c5e807bd3c1"></target></object><object chronic_id="091e9c5e8001b196" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/high_blood_pressure_hypertension_definition_sth149819.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/high-blood-pressure-hypertension"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/high-blood-pressure-hypertension"></target></object><object chronic_id="091e9c5e800ab373" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/smoking-cessation/default.htm"></target></object><object chronic_id="091e9c5e802a073a" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/diastolic-and-systolic-blood-pressure-know-your-numbers"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/diastolic-and-systolic-blood-pressure-know-your-numbers"></target></object><object chronic_id="091e9c5e8002394a" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/migraines-headaches/default.htm"></target></object><object chronic_id="091e9c5e800302ce" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target><target siteid="8" name="" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target></object><object chronic_id="091e9c5e80007baa" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/pain_management_neck_shoulder_pain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/guide/neck-shoulder"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/guide/neck-shoulder"></target></object><object chronic_id="091e9c5e800079b6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-nausea-vomiting"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-nausea-vomiting"></target></object><object chronic_id="091e9c5e800090c5" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/understanding_fainting_basics.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/understanding-fainting-basics"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/understanding-fainting-basics"></target></object><object chronic_id="091e9c5e800097b9" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/epilepsy/overview_types_of/understanding_seizures_basics.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/epilepsy/understanding-seizures-basics"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/understanding-seizures-basics"></target></object><object chronic_id="091e9c5e8001f058" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/computed_tomography_ct_scan_of_the_body_medicaltest_hw233596.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/computed-tomography-ct-scan-of-the-body"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/computed-tomography-ct-scan-of-the-body"></target></object><object chronic_id="091e9c5e8001b28d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/lumbar_puncture_definition_stl14135.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/lumbar-puncture-7900"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/lumbar-puncture-7900"></target></object><object chronic_id="091e9c5e8001f0bf" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/angiogram_medicaltest_hw201112.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/angiogram"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/angiogram"></target></object><object chronic_id="091e9c5e8001b485" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ct_or_cat_scan_definition_stc123812.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/ct-or-cat-scan"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/ct-or-cat-scan"></target></object><object chronic_id="091e9c5e8001b1e8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/contrast_material_definition_stc123757.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/contrast-material"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/contrast-material"></target></object><object chronic_id="091e9c5e8001b22d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_angiogram_mra_definition_stm159531.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/magnetic-resonance-angiogram-mra"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/magnetic-resonance-angiogram-mra"></target></object><object chronic_id="091e9c5e8001f0f1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/angiogram_of_the_head_and_neck_medicaltest_hw201050.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/angiogram-of-the-head-and-neck"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/angiogram-of-the-head-and-neck"></target></object><object chronic_id="091e9c5e8001d396" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/brain_aneurysm-topic_overview_special_zr1055.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/brain-aneurysm-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/brain-aneurysm-topic-overview"></target></object><object chronic_id="091e9c5e8035f820" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/brain_aneurysm-related_information_special_aa31978spec-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/brain-aneurysm-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/brain-aneurysm-related-information"></target></object><object chronic_id="091e9c5e8001d5be" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/brain_aneurysm-references_special_aa31978spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/brain-aneurysm-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/brain-aneurysm-references"></target></object><object chronic_id="091e9c5e8001d5a1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/brain_aneurysm-credits_special_aa31978spec-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/brain-aneurysm-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/brain-aneurysm-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e8002373f" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/brain_aneurysm_special_aa31978spec.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d396" path="/webmd/consumer_assets/controlled_content/healthwise/special/brain_aneurysm-topic_overview_special_zr1055.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8035f820" path="/webmd/consumer_assets/controlled_content/healthwise/special/brain_aneurysm-related_information_special_aa31978spec-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001d5be" path="/webmd/consumer_assets/controlled_content/healthwise/special/brain_aneurysm-references_special_aa31978spec-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d5a1" path="/webmd/consumer_assets/controlled_content/healthwise/special/brain_aneurysm-credits_special_aa31978spec-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Brain Aneurysm</title><dynamic_objects><callout_title>Recommended Related to Brain &amp; Nervous System</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e806b10e4"><metadata_section><i_chronicle_id>091e9c5e806a8f65</i_chronicle_id><title>The Continuum of Rehabilitation for Persons with Traumatic Brain Injury</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>According to the Centers for Disease Control and Prevention, a traumatic brain injury (TBI) occurs when an impact to the head results in disruption of brain functioning. While post-TBI physical impairments can hinder functional independence, the behavioral, cognitive, emotional, psychosocial, and personality changes associated with TBI frequently lead to even greater problems. Comprehensive evaluation and treatment are the foundation to optimizing outcome after TBI, as the complex functions affected,...</p></section_text><link siteid="3" prefix="www" friendlyurl="/brain/features/traumatic-brain-injury-rehabilitation"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Brain Aneurysm - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>How is it treated?</h3>
+      <p> Your doctor will think about several things before deciding the best treatment for you. Things that will determine the type of treatment you receive include your age, size of the aneurysm, any additional risk factors, and your overall health. </p>
+      <p>Because the risk of a small (less than 10 mm) aneurysm rupturing is low and surgery for a brain aneurysm is often risky, your doctor may want to continue to observe your condition rather than do surgery. If your aneurysm is large or causing pain or other symptoms, though, or if you have had a previous ruptured aneurysm, your doctor may recommend surgery. </p>
+      <p> The following surgeries are used to treat both ruptured and unruptured brain aneurysms: </p>
+      <ul>
+       <li><b>Embolization.</b> During this procedure, a small tube is inserted into the affected artery and positioned near the aneurysm. For coil embolization, soft metal coils are then moved through the tube into the aneurysm, filling the aneurysm and making it less likely to rupture. In mesh embolization, mesh is placed in the aneurysm, reducing blood flow to the aneurysm and making it less likely to rupture. These procedures are less invasive and are believed to be safer than surgical clipping. But they may not work as well at reducing the risk of a later rupture. Either procedure should be done in a large hospital where many procedures like these are done.</li>
+       <li><b>Surgical clipping.</b> This surgery involves placing a small metal clip around the base of the aneurysm to isolate it from normal blood circulation. This decreases the pressure on the aneurysm and prevents it from rupturing. Whether this surgery can be done depends on the location of the aneurysm, its size, and your general health. </li>
+      </ul>
+      <p>Some aneurysms bulge in such a way that the aneurysm has to be cut out and the ends of the blood vessel stitched together, but this is very rare. Sometimes the artery is not long enough to stitch together, and a piece of another artery has to be used.</p>
+      <p> Aneurysms that have bled are very serious. In many cases, they lead to death or disability. Management includes hospitalization, intensive care to relieve pressure in the brain and maintain breathing and vital functions (such as blood pressure), and treatment to prevent rebleeding.</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/brain/tc/brain-aneurysm-topic-overview">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/brain/tc/brain-aneurysm-topic-overview">1</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">2</span>
+      <style type="text/css">
+            .pagination_fmt .center_fmt { width: 375px !important;}
+            </style>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/brain/tc/brain-aneurysm-topic-overview">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/brain/tc/brain-aneurysm-topic-overview">1</a><span class="pipe_fmt">|</span><span class="current_fmt">2</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/brain/tc/brain-aneurysm-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/brain/tc/brain-aneurysm-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/brain/tc/brain-aneurysm-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/brain/tc/brain-aneurysm-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: January 03, 2013
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/brain/tc/brain-aneurysm-topic-overview">Topic Overview</option><option value="http://www.webmd.com/brain/tc/brain-aneurysm-related-information">Related Information</option><option value="http://www.webmd.com/brain/tc/brain-aneurysm-references">References</option><option value="http://www.webmd.com/brain/tc/brain-aneurysm-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Brain Aneurysm Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/brain/tc/brain-aneurysm-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/brain-aneurysm-related-information" onclick="return sl(this,'','topicNav_2');" title="Related Information">Related Information</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/brain/tc/brain-aneurysm-references" onclick="return sl(this,'','topicNav_3');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/brain-aneurysm-credits" onclick="return sl(this,'','topicNav_4');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1018"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_ss" href="http://www.webmd.com/a-to-z-guides/dupuytrens-contracture-10/slideshow-treatment" onclick="return sl(this,'','rltd-p-1018_1');">Seizures and Dupuytren's Contracture: What's the Link?<i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/alzheimers/early-warning-signs-when-to-call-the-doctor-about-alzheimers" onclick="return sl(this,'','rltd-p-1018_2');">Early Signs of Alzheimer's</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1018_3');">What Vision Problems Look Like</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/brain/video/brain-injury-rehab" onclick="return sl(this,'','rltd-p-1018_4');">Rehab Programs After Brain Injury</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/multiple-sclerosis/your-best-life-11/ms-symptoms" onclick="return sl(this,'','rltd-p-1018_5');">Treating Relapsing MS</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/brain/video/moyamoya-cerebral-bypass" onclick="return sl(this,'','rltd-p-1018_6');">Cerebral Bypass Surgery</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1018_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80693664" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80693664</chronic_id><r_object_id>091e9c5e80693664</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e80693664.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/03/2010 14:49:33</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Brain and Nervous System Super Center/template_Brain and Nervous System Super Center_091e9c5e8002531d.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002531d"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Brain Aneurysm</name><link_title>Brain Aneurysm</link_title><description>A brain aneurysm, also called cerebral aneurysm, is a bulging, weak area in the wall of an artery that supplies blood to the brain. Most brain aneurysms cause no symptoms and are discovered during tests for another, usually unrelated, condition. When symptoms are present, they may include severe headaches, blurred vision, changes in speech, and neck pain, depending on the areas of the brain that are affected and the severity of the aneurysm. In rare cases, a cerebral aneurysm can rupture, releasing blood into the skull. If this happens, you may have a stroke or die, so even mild symptoms should be evaluated by a doctor. Follow the links below to find WebMD's comprehensive coverage about what causes cerebral aneurysm, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/brain/brain-aneurysm-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8007adcc"><link_title>Stroke Organizations</link_title><friendly_url>http://www.webmd.com/stroke/guide/stroke-resources-organizations</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802416e2"><link_title>Rep. Tubbs Jones: Aneurysm Q&amp;A</link_title><friendly_url>http://www.webmd.com/brain/news/20080821/aneurysms-common-sometimes-deadly</friendly_url><thumbnail height="" width="" alt="aneurysm_qa.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/August08/aneurysm_qa.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000dc4d"><link_title>New Imaging Tech Promises to Help Diagnose Brain Disorders</link_title><friendly_url>http://www.webmd.com/brain/news/20001212/new-imaging-tech-promises-to-help-diagnose-brain-disorders-news</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80278ec5"><link_title>Brain Hemorrhage: Causes, Symptoms, Treatments</link_title><friendly_url>http://www.webmd.com/brain/brain-hemorrhage-bleeding-causes-symptoms-treatments</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008e3d"><link_title>Symptoms of Stroke</link_title><friendly_url>http://www.webmd.com/stroke/guide/understanding-stroke-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001f08e"><link_title>Magnetic Resonance Angiogram (MRA)</link_title><friendly_url>http://www.webmd.com/heart-disease/magnetic-resonance-angiogram-mra</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001f0f1"><link_title>Angiogram of the Head and Neck</link_title><friendly_url>http://www.webmd.com/stroke/angiogram-of-the-head-and-neck</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d825"><link_title>Stroke-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/stroke/guide/stroke-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dfe3"><link_title>Stroke-What Happens</link_title><friendly_url>http://www.webmd.com/stroke/guide/stroke-what-happens</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80043d63"><link_title>Preventing Strokes Through Community Education</link_title><friendly_url>http://www.webmd.com/stroke/video/preventing-strokes</friendly_url><thumbnail height="48" width="48" alt="illustration of brain">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/brain-and-nervous-system/stroke/preventing-strokes/graphics/thumbnails/final/preventing-strokes-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007646"><link_title>Children, Headaches, and Migraines</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/your-childs-headache</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000c0fb"><link_title>Weighing Aneurysm Surgery Options</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040824/weighing-aneurysm-surgery-options</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006b08"><link_title>Family Tree Provides Marker for Stroke Risk</link_title><friendly_url>http://www.webmd.com/stroke/news/20000211/family-tree-provides-marker-stroke-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006b97"><link_title>Woody Williams,Pitcher,San Diego Padres</link_title><friendly_url>http://www.webmd.com/fitness-exercise/features/woody-williams-aneurysm-arm</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006f21"><link_title>Smoking Linked With Deadly Brain Aneurysms</link_title><friendly_url>http://www.webmd.com/smoking-cessation/news/20000216/smoking-linked-deadly-brain-aneurysms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000a9fa"><link_title>Know How to Spot a Stroke? Most Don't</link_title><friendly_url>http://www.webmd.com/men/features/know-how-to-spot-stroke-most-dont</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010230"><link_title>New Super-Sensitive MRI Gives Clearer Picture of Stroke in Action</link_title><friendly_url>http://www.webmd.com/stroke/news/20000211/new-super-sensitive-mri-gives-clearer-picture-of-stroke-in-action</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800103e1"><link_title>Why Young People Have Strokes: Unraveling the Mystery</link_title><friendly_url>http://www.webmd.com/stroke/news/20000705/why-young-people-have-strokes-unraveling-mystery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011c45"><link_title>10 Questions to Ask Your Doctor About Stroke</link_title><friendly_url>http://www.webmd.com/stroke/guide/questions-doctor-stroke</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800dd769"><link_title>Recipe for Preventing Stroke</link_title><friendly_url>http://www.webmd.com/stroke/news/20030925/recipe-for-preventing-stroke</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001007c"><link_title>Brain Aneurysms: To Operate or Not to Operate?</link_title><friendly_url>http://www.webmd.com/brain/news/20001030/brain-aneurysms-to-operate-not-to-operate</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80342621"><link_title>Stroke and Surviving Stroke: A Personal Story From Jill Bolte Taylor</link_title><friendly_url>http://www.webmd.com/stroke/features/surviving-stroke-a-personal-story</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000682b"><link_title>Surgery Is Not the Answer for Preventing All Strokes</link_title><friendly_url>http://www.webmd.com/stroke/news/20000314/surgery-not-answer-preventing-all-strokes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ff80"><link_title>Men Who Ever Smoked Need Aneurysm Test</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20050131/men-who-ever-smoked-need-aneurysm-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010445"><link_title>Experts: Men Need Aneurysm Screening</link_title><friendly_url>http://www.webmd.com/hypertension-high-blood-pressure/news/20021114/experts-men-need-aneurysm-screening</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8053a03e"><link_title>Stroke Recovery and Arm Rehab: Important Questions</link_title><friendly_url>http://www.webmd.com/stroke/features/stroke-recovery-and-rehab-10-important-questions</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80010c71"><link_title>Frequently Asked Questions About Stroke</link_title><friendly_url>http://www.webmd.com/stroke/frequently-asked-questions-about-stroke</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800090f0"><link_title>Understanding Symptoms of Aneurysm</link_title><friendly_url>http://www.webmd.com/heart-disease/understanding-aneurysm-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/stroke/guide/stroke-resources-organizations" onclick="return sl(this,'','td-rltd-art_1');">Stroke Organizations</a></li>
+      <li><a href="http://www.webmd.com/brain/brain-hemorrhage-bleeding-causes-symptoms-treatments" onclick="return sl(this,'','td-rltd-art_2');">Brain Hemorrhage: Causes, Symptoms, Treatments</a></li>
+      <li><a href="http://www.webmd.com/stroke/guide/understanding-stroke-symptoms" onclick="return sl(this,'','td-rltd-art_3');">Symptoms of Stroke</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/magnetic-resonance-angiogram-mra" onclick="return sl(this,'','td-rltd-art_4');">Magnetic Resonance Angiogram (MRA)</a></li>
+      <li><a href="http://www.webmd.com/stroke/angiogram-of-the-head-and-neck" onclick="return sl(this,'','td-rltd-art_5');">Angiogram of the Head and Neck</a></li>
+      <li><a href="http://www.webmd.com/stroke/guide/stroke-when-to-call-a-doctor" onclick="return sl(this,'','td-rltd-art_6');">Stroke-When To Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/stroke/guide/stroke-what-happens" onclick="return sl(this,'','td-rltd-art_7');">Stroke-What Happens</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/brain/brain-aneurysm-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Brain Aneurysm Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2102998783&amp;tile=386690082&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5000&amp;xpg=3053&amp;sec=4094&amp;au1=1&amp;au2=1&amp;uri=%2fbrain%2ftc%2fbrain-aneurysm-topic-overview&amp;artid=091e9c5e8001d396&amp;inst=0&amp;leaf=703&amp;cc=16&amp;tmg=1&amp;bc=_cust4_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2102998783&amp;amp;tile=386690082&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5000&amp;amp;xpg=3053&amp;amp;sec=4094&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fbrain%2ftc%2fbrain-aneurysm-topic-overview&amp;amp;artid=091e9c5e8001d396&amp;amp;inst=0&amp;amp;leaf=703&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_cust4_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3053";
+			var secTopId = "4094";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2102998783&amp;tile=386690082&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5001&amp;xpg=3053&amp;sec=4094&amp;au1=1&amp;au2=1&amp;uri=%2fbrain%2ftc%2fbrain-aneurysm-topic-overview&amp;artid=091e9c5e8001d396&amp;inst=0&amp;leaf=703&amp;cc=16&amp;tmg=1&amp;bc=_cust4_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2102998783&amp;amp;tile=386690082&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=3053&amp;amp;sec=4094&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fbrain%2ftc%2fbrain-aneurysm-topic-overview&amp;amp;artid=091e9c5e8001d396&amp;amp;inst=0&amp;amp;leaf=703&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_cust4_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3053";
+			var secTopId = "4094";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

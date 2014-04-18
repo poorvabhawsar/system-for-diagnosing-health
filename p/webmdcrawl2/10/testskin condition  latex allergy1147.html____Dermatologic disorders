@@ -1,0 +1,618 @@
+<title>Skin Condition: Latex Allergy</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/shingles-chickenpox" onclick="return sl(this,'','tools-res_1');"> What Causes Shingles?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent1209&amp;ch=18" onclick="return sl(this,'','tools-res_2');">Signs of Gum Disease</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://teens.webmd.com/rm-quiz-teen-acne" onclick="return sl(this,'','tools-res_3');">Teen Acne: Myths and Facts</a></li>
+      <li id="x59"><a href="https://www.webmd.com/lupus/d2n-coping-with-lupus-11/default.htm?scene=morning&amp;vid=5" onclick="return sl(this,'','tools-res_4');">Skin Care for Lupus</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/skin-problems-and-treatments/psoriasis/psoriasis-health-check/psoriasis-hc" onclick="return sl(this,'','tools-res_5');">Psoriasis? Assess Your Symptoms</a></li>
+      <li id="x61"><a href="http://www.webmd.com/skin-problems-and-treatments/teen-acne-10/clear-skin-slideshow" class="type_ss" onclick="return sl(this,'','tools-res_6');">16 Tips for Clear Skin<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="readspeaker_area" style="display: none;"> 
+     <div id="readspeaker_button1" class="rs_skip"> 
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /> </a> 
+     </div> 
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript">
+    </script> 
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:3});
+                    });
+                })();
+                </script> 
+     <div id="xp1"> 
+     </div> 
+    </div> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Latex Allergy</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <h3>How Is Latex Allergy Diagnosed?</h3> 
+     <p>A latex allergy is diagnosed in people who:</p> 
+     <ul> 
+      <li>Have experienced signs or symptoms of allergic reaction (skin rash, hives, eye tearing or irritation, wheezing, itching, difficulty breathing) when exposed to latex or natural rubber products.</li> 
+      <li>Do not have signs or symptoms of latex allergy but are known to be at risk for latex allergy and have a positive skin test to latex.</li> 
+     </ul> 
+     <p xmlns:xalan="http://xml.apache.org/xalan">Skin testing for latex allergy should only be done with the close supervision of an allergy specialist because of the risk of severe reactions.</p> 
+     <h3>How Is Latex Allergy Treated?</h3> 
+     <p>Allergic reactions may be treated by removal of the latex product and drug treatment according to the type of symptoms developing. If the symptoms are irritant contact dermatitis, topically applied corticosteroid drugs may be enough to treat symptoms. Severe reactions should be treated with epinephrine, intravenous fluids, and other support by hospital or emergency personnel.</p> 
+     <p>If you have a latex allergy, it is important for you to wear a <i>MedicAlert</i> bracelet and carry an emergency epinephrine syringe.</p> 
+     <p>There is no cure for a latex allergy, so the best treatment for this condition is prevention.</p> 
+     <h3>How Can I Make My Home Safe From Latex?</h3> 
+     <p>If you're at risk for serious reactions to latex, you must make many lifestyle changes to ensure a latex-safe environment. While it may require leading a more protected and isolated life, you can continue certain activities when precautions are taken. Here are some tips:</p> 
+     <ul> 
+      <li>Use basic latex alternatives (see below).</li> 
+      <li>Keep all shoes, boots, and sneakers in covered containers.</li> 
+      <li>Never travel alone. Always travel with another person, especially to doctor appointments where you might accidentally come into contact with latex.</li> 
+      <li>Plan in advance to ensure latex avoidance at any family function or party.</li> 
+     </ul> 
+     <p>Because a latex allergy becomes worse with each exposure, you should avoid products containing latex. While it is difficult to obtain full and accurate information on the latex content of products, you may become better informed by checking with suppliers before buying a product.</p> 
+     <p>The following list highlights some (but not all) of the latex products you should avoid in the home:</p> 
+     <ul> 
+      <li>Rubber sink stoppers and sink mats</li> 
+      <li>Rubber or rubber-grip utensils</li> 
+      <li>Rubber electrical cords or water hoses</li> 
+      <li>Bath mats and floor rugs that have rubber backing</li> 
+      <li>Toothbrushes with rubber grips or handles</li> 
+      <li>Rubber tub toys</li> 
+      <li>Sanitary napkins (that contain rubber)</li> 
+      <li>Condoms/diaphragms</li> 
+      <li>Diapers that contain rubber</li> 
+      <li>Adult undergarments that contain rubber</li> 
+      <li>Waterproof bed pads containing rubber</li> 
+      <li>Undergarments, socks, and other clothing with elastic bands that contain rubber</li> 
+      <li>Adhesives such as glue, paste, art supplies, glue pens</li> 
+      <li>Older Barbie dolls and other dolls that are made of rubber</li> 
+      <li>Rubber bands, mouse and keyboard cords, desktop and chair pads, rubber stamps</li> 
+      <li>Mouse and wrist pads containing rubber</li> 
+      <li>Keyboards and calculators with rubber keys or switches</li> 
+      <li>Pens with comfort grip or any rubber coating</li> 
+      <li>Remote controllers for TVs or VCRs with rubber grips or keys</li> 
+      <li>Camera, telescope or binocular eye pieces</li> 
+      <li>Bathing caps and elastic in bathing suits</li> 
+     </ul> 
+     <p>&nbsp;</p> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <script type="text/javascript">
+var pagination_title=new Array();
+var pagination_current=2;
+
+pagination_title[1]="";
+pagination_title[2]="How Is Latex Allergy Diagnosed?";
+pagination_title[3]="What Latex Products Should I Avoid Outside the Home?";
+</script> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+      <div class="outline_fmt"> 
+       <a href="http://www.webmd.com/skin-problems-and-treatments/latex-allergy">&lt; Previous Page</a> 
+      </div> 
+     </div> 
+     <div class="right_fmt"> 
+      <a href="http://www.webmd.com/skin-problems-and-treatments/latex-allergy">1</a> 
+      <span class="pipe_fmt">|</span> 
+      <span class="current_fmt">2</span> 
+      <span class="pipe_fmt">|</span> 
+      <a href="?page=3" title="Page 3">3</a> 
+      <div class="outline_fmt right"> 
+       <a href="?page=3">Next Page <span class="symbol_fmt">&gt;</span></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "editorial";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'WebMD Medical Reference';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9">
+   <div id="ed-cntrcross" class="featured-articles"> 
+    <div class="editorial pos_1"> 
+     <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/your_guide_to_skin_and_complexion_care_slideshow/110x70_your_guide_to_skin_and_complexion_care_slideshow.jpg" alt="women wearing mud masks" class="icon" /> 
+     <div class="feature"> 
+      <h3> <a href="http://www.webmd.com/beauty/face/ss/slideshow-complexion-care" onclick="return sl(this,'','ed-cntrcross_1-1');">Anti-Aging: It's Never Too Late </a> </h3> 
+      <p>Maximize your skincare routine to look younger now.</p> 
+      <p class="more_link"> <a href="http://www.webmd.com/beauty/face/ss/slideshow-complexion-care" onclick="return sl(this,'','ed-cntrcross_1-m');" class="type_ss">Learn More<i> </i></a> </p> 
+     </div> 
+     <div class="features"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/beauty/beautiful-smile-12/photogenic-smile" onclick="return sl(this,'','ed-cntrcross_1-2');">Look Good in Every Photo</a> </li> 
+       <li> <a href="http://www.webmd.com/beauty/rm-quiz-eczema-beauty-1" onclick="return sl(this,'','ed-cntrcross_1-3');">How to Care for Dry, Red Skin</a> </li> 
+       <li> <a href="http://www.webmd.com/beauty/wrinkles/ss/slideshow-reducing-wrinkles" onclick="return sl(this,'','ed-cntrcross_1-4');">Surprising Ways to Reduce Wrinkles</a> </li> 
+       <li> <a href="http://www.webmd.com/beauty/eyes/banish-the-bags-under-your-eyes" onclick="return sl(this,'','ed-cntrcross_1-5');">Banish the Bags Under Your Eyes</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1028"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" onclick="return sl(this,'','rltd-p-1028_1');">Skin Allergies? Don't Forget This Essential Item</a> </li> 
+     <li id="x63"> <a href="http://teens.webmd.com/rm-quiz-teen-acne" onclick="return sl(this,'','rltd-p-1028_2');">Myths and Facts About Teen Acne</a> </li> 
+     <li id="x64"> <a class="type_vid" href="http://lupus.webmd.com/d2n-coping-with-lupus-11/default.htm?scene=morning&amp;vid=5" onclick="return sl(this,'','rltd-p-1028_3');">Skin Care for Lupus<i> </i></a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/diabetes-skin-conditions" onclick="return sl(this,'','rltd-p-1028_4');">Diabetes? Prevent Common Skin Conditions</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/parenting/features/teaching-your-teen-about-skin-care" onclick="return sl(this,'','rltd-p-1028_5');">Skin Care Tips for Teens</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0610&amp;ch=8" onclick="return sl(this,'','rltd-p-1028_6');">What to Do About Yellowish Teeth</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1028_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806954d1" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806954d1</chronic_id><r_object_id>091e9c5e806954d1</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806954d1.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/04/2010 11:11:52</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Skin Problems Health Center/template_Skin Problems and Treatments Health Center_091e9c5e80033cdc.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80033cdc"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Contact Dermatitis</name><link_title>Contact Dermatitis</link_title><description>Contact dermatitis is a skin reaction caused by contact with an allergen or an irritant. Common causes of contact dermatitis include poison ivy, metals, chemicals, cosmetic, soaps, and water. Follow the links below to find WebMD's comprehensive coverage about the types of contact dermatitis, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/skin-problems-and-treatments/contact-dermatitis-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e804287b3"><link_title>Picture of Allergic Contact Dermatitis</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-allergic-contact-dermatitis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8042cda9"><link_title>Picture of Nickel Contact Dermatitis</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-nickel-contact-dermatitis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8042cdf7"><link_title>Picture of Nickel Contact Dermatitis from Necklace</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-nickel-contact-dermatitis-necklace</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is anaphylaxis?</link_title><friendly_url>http://answers.webmd.com/answers/1178912/what-is-anaphylaxis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What does allergic contact dermatitis look like?</link_title><friendly_url>http://answers.webmd.com/answers/1180359/what-does-allergic-contact-dermatitis-look</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80744ad6"><link_title>FAQ: Pesky Rashes From Plants</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20110204/faq-pesky-rashes-from-plants</friendly_url><thumbnail height="" width="" alt="assorted plants">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/02_2011/69x75_plants_skin_problems_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8036979c"><link_title>Snorting Trouble</link_title><friendly_url>http://www.webmd.com/allergies/video/recreations-drugs-sinus-damage</friendly_url><thumbnail height="48" width="48" alt="Jordan S. Josephson, MD">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/allergies/miscellaneous/recreations-drugs-sinus-damage/graphics/thumbnails/final/recreations-drugs-sinus-damage-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80010a29"><link_title>Contact Dermatitis</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/contact-dermatitis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e806295d7"><link_title>Dangerous Allergies</link_title><friendly_url>http://www.webmd.com/allergies/video/preparing-for-allergy-emergencies</friendly_url><thumbnail height="48" width="48" alt="child passed out">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/allergies/miscellaneous/preparing-for-allergy-emergencies/graphics/thumbnails/final/preparing-for-allergy-emergencies-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e806451a3"><link_title>Household Skin Irritants: Most Popular Questions</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/america-asks-10/popular-questions</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80616e66"><link_title>Household Irritants: Skin-Friendly Cleaning Tips for Your Family</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/america-asks-10/cleaning-tips</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8062e64e"><link_title>Surprising Household Irritants</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/features/surprising-irritants</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8061875c"><link_title>The Dirty Dozen: The 12 Most Common Skin Irritants</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/features/dirty-dozen</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8062f324"><link_title>Combating Common Skin Irritants</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/skin-irritants</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800079e8"><link_title>Prevention of Anaphylaxis</link_title><friendly_url>http://www.webmd.com/allergies/understanding-anaphylaxis-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008f85"><link_title>Allergies and Anaphylaxis</link_title><friendly_url>http://www.webmd.com/allergies/guide/anaphylaxis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800090cd"><link_title>Understanding Treatment of Anaphylaxis</link_title><friendly_url>http://www.webmd.com/allergies/understanding-anaphylaxis-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800090cf"><link_title>Understanding Anaphylaxis &#45;&#45; Symptoms</link_title><friendly_url>http://www.webmd.com/allergies/understanding-anaphylaxis-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80218189"><link_title>Severe Allergic Reaction (Anaphylactic Shock)</link_title><friendly_url>http://www.webmd.com/first-aid/severe-allergic-reaction-anaphylactic-shock</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80e35e6d"><link_title>When to Use Auto-Injectors</link_title><friendly_url>http://www.webmd.com/allergies/guide/allergies-when-to-use-auto-injector</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80428b43"><link_title>Picture of Allergic Contact Dermatitis on Arm</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-allergic-contact-dermatitis-arm</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d714"><link_title>Allergies in Children: Giving an Epinephrine Shot to a Child</link_title><friendly_url>http://www.webmd.com/allergies/giving-a-child-an-epinephrine-shot</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d74d"><link_title>Allergies: Giving Yourself an Epinephrine Shot</link_title><friendly_url>http://www.webmd.com/allergies/giving-yourself-an-epinephrine-shot</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e221"><link_title>Poison Ivy, Oak, or Sumac-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/allergies/tc/poison-ivy-oak-or-sumac-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8049068b"><link_title>Anaphylaxis</link_title><friendly_url>http://www.webmd.com/allergies/anaphylaxis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007c3f"><link_title>The Basics of Anaphylaxis</link_title><friendly_url>http://www.webmd.com/allergies/understanding-anaphylaxis-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What are emergency measures for anaphylaxis?</link_title><friendly_url>http://answers.webmd.com/answers/1175873/what-are-emergency-measures-for-anaphylaxis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What are the signs of anaphylaxis?</link_title><friendly_url>http://answers.webmd.com/answers/1175872/what-are-the-signs-of-anaphylaxis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What causes anaphylaxis?</link_title><friendly_url>http://answers.webmd.com/answers/1178913/what-causes-anaphylaxis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What does nickel contact dermatitis look like?</link_title><friendly_url>http://answers.webmd.com/answers/1180468/what-does-nickel-contact-dermatitis-look</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-allergic-contact-dermatitis" onclick="return sl(this,'','td-rltd-art_1');">Picture of Allergic Contact Dermatitis</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-nickel-contact-dermatitis" onclick="return sl(this,'','td-rltd-art_2');">Picture of Nickel Contact Dermatitis</a></li>
+      <li><a href="http://answers.webmd.com/answers/1178912/what-is-anaphylaxis" onclick="return sl(this,'','td-rltd-art_3');">What is anaphylaxis?</a></li>
+      <li><a href="http://www.webmd.com/allergies/video/recreations-drugs-sinus-damage" onclick="return sl(this,'','td-rltd-art_4');">Snorting Trouble</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/contact-dermatitis" onclick="return sl(this,'','td-rltd-art_5');">Contact Dermatitis</a></li>
+      <li><a href="http://www.webmd.com/allergies/video/preparing-for-allergy-emergencies" onclick="return sl(this,'','td-rltd-art_6');">Dangerous Allergies</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/america-asks-10/popular-questions" onclick="return sl(this,'','td-rltd-art_7');">Household Skin Irritants: Most Popular Questions</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/skin-problems-and-treatments/contact-dermatitis-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Contact Dermatitis Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1382668288&tile=629758569&tug=&pug=__&site=2&affiliate=20&hcent=1028&scent=&pos=113&xpg=6067&sec=1625|1625|4209&amp;au1=1&au2=1&uri=%2fskin-problems-and-treatments%2flatex-allergy&artid=091e9c5e80007be5&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_t886_i_cust4_l23_j30_a080_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1382668288',
+                    tile:'629758569',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "6067";
+      var secTopId = "1625|1625|4209";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1382668288&amp;tile=629758569&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1028&amp;scent=&amp;pos=5001&amp;xpg=6067&amp;sec=1625|1625|4209&amp;au1=1&amp;au2=1&amp;uri=%2fskin-problems-and-treatments%2flatex-allergy&amp;artid=091e9c5e80007be5&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_t886_i_cust4_l23_j30_a080_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1382668288&amp;amp;tile=629758569&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1028&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=6067&amp;amp;sec=1625|1625|4209&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fskin-problems-and-treatments%2flatex-allergy&amp;amp;artid=091e9c5e80007be5&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_t886_i_cust4_l23_j30_a080_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "6067";
+			var secTopId = "1625|1625|4209";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

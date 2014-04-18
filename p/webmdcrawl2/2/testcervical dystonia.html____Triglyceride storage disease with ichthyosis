@@ -1,0 +1,451 @@
+<title>Cervical Dystonia</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/alzheimers/ss/slideshow-alzheimers-overview" class="type_ss" onclick="return sl(this,'','tools-res_1');">Caregiver's Guide to Alzheimer's<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/stroke/ss/slideshow-stroke-overview" class="type_ss" onclick="return sl(this,'','tools-res_2');">Stroke Explained in Photos<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parkinsons-disease/ss/slideshow-parkinsons-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">Parkinson's Disease Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/brain/ss/slideshow-concussions-brain-injuries" class="type_ss" onclick="return sl(this,'','tools-res_4');">What Concussions and Brain Injuries Look Like<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/default.htm" onclick="return sl(this,'','tools-res_5');">The Secret to Managing Your MS</a></li>
+      <li id="x61"><a href="http://www.webmd.com/brain/video/skull-implant" class="type_vid" onclick="return sl(this,'','tools-res_6');">Implants Aid Skull Healing<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Cervical Dystonia</h2> 
+     <div class="symptomatic_fmt"> 
+      <h3></h3> 
+      <p> <b>Important</b> <br />It is possible that the main title of the report Cervical <a href="http://www.webmd.com/brain/dystonia-causes-types-symptoms-and-treatments" onclick="return sl(this,'','embd-lnk');">Dystonia</a> is not the name you expected. Please check the <a href="http://www.webmd.com/brain/spasmodic-torticollis-11089" onclick="return sl(this,'','embd-lnk');">synonyms</a> listing to find the alternate name(s) and <a href="http://www.webmd.com/brain/spasmodic-torticollis-11089" onclick="return sl(this,'','embd-lnk');">disorder subdivision(s)</a> covered by this report.<br /></p> 
+      <h3>Synonyms</h3> 
+      <ul> 
+       <li>torticollis</li> 
+       <li>spasmodic wryneck</li> 
+       <li>spasmodic torticollis</li> 
+       <li>focal dystoniaidiopathic cervical dystonia</li> 
+      </ul> 
+      <h3>Disorder Subdivisions</h3> 
+      <ul> 
+       <li>None</li> 
+      </ul> 
+      <h3>General Discussion</h3> 
+      <p>Cervical dystonia, also known as <a href="http://www.webmd.com/brain/spasmodic-torticollis-11089" onclick="return sl(this,'','embd-lnk');">spasmodic torticollis</a>, is a rare neurological disorder characterized by involuntary muscle <a href="http://www.webmd.com/baby/guide/normal-labor-and-delivery-process" onclick="return sl(this,'','embd-lnk');">contractions</a> in the neck that cause abnormal movements and postures of the neck and head. In some cases, these abnormal contractions may be sustained or continuous; in others, they may be present as spasms that can resemble tremor. The severity of cervical dystonia can vary, but the disorder can cause significant pain and discomfort as well as difficulty due to the abnormal postures. Cervical dystonia typically begins in middle age, and rarely begins in adolescence and young adulthood. The cause of cervical dystonia is unknown, although a genetic susceptibility is thought to underlie some cases. If cervical dystonia begins in infancy or early childhood, secondary causes should be investigated. <br /><br /> Cervical dystonia is the most common form of focal dystonia that presents in an office setting. Dystonia is generally characterized by involuntary muscle contractions that force the body into abnormal, sometimes painful, movements and positions (postures). Cervical dystonia is a form of dystonia that involves the neck area. Symptoms may vary among affected individuals, including the age at onset, intensity, presence of pain, and degree of disability.</p> 
+      <h3>Resources</h3> 
+      <p> <b>WE MOVE (Worldwide Education and Awareness for Movement Disorders)</b> <br /> 5731 Mosholu Avenue<br /> Bronx, NY 10471<br /> USA<br /> Tel: (347)843-6132<br /> Fax: (718)601-5112<br /> Email: wemove@wemove.org<br /> Internet: http://www.wemove.org<br /><br /><b>Dystonia Medical Research Foundation</b><br /> 1 East Wacker Drive, Suite 2810 East Wacker Drive<br /> Suite 2810<br /> Chicago, IL 60601-1905<br /> United States<br /> Tel: (312)755-0198<br /> Fax: (312)803-0138<br /> Tel: (800)377-3978<br /> Email: dystonia@dystonia-foundation.org<br /> Internet: http://www.dystonia-foundation.org<br /><br /><b>National Spasmodic Torticollis Association</b><br /> 9920 Talbert Avenue<br /> Fountain Valley, CA 92708<br /> Tel: (714)378-9837<br /> Fax: (714)378-9830<br /> Tel: (800)487-8385<br /> Email: NSTAmail@aol.com<br /> Internet: http://www.torticollis.org<br /><br /><b>NIH/National Institute of Neurological Disorders and <a href="http://www.webmd.com/stroke/default.htm" onclick="return sl(this,'','embd-lnk');">Stroke</a></b><br /> P.O. Box 5801<br /> Bethesda, MD 20824<br /> Tel: (301)496-5751<br /> Fax: (301)402-2186<br /> Tel: (800)352-9424<br /> TDD: (301)468-5981<br /> Internet: http://www.ninds.nih.gov/<br /><br /><b>Dystonia Society</b><br /> 89 Albert Embankment, 2nd Floor<br /> Vauxhall<br /> London, SE1 7TP<br /> United Kingdom<br /> Tel: 08454586211<br /> Fax: 08454586311<br /> Tel: 08454586322<br /> Email: angie@dystonia.org.uk<br /> Internet: http://www.dystonia.org.uk<br /><br /><b>MUMS National Parent-to-Parent Network</b><br /> 150 Custer Court<br /> Green Bay, WI 54301-1243<br /> USA<br /> Email: mums@netnet.net<br /> Internet: http://www.netnet.net/mums/<br /><br /><b>Dystonia Europe</b><br /> Square de Meeus 37 - 4th Floor<br /> Brussels, 1000<br /> Belgium<br /> Tel: 447736625450<br /> Email: sec@dystonia-europe.org<br /> Internet: http://www.dystonia-europe.org<br /><br /><b>Genetic and Rare Diseases (GARD) Information Center</b><br /> PO Box 8126<br /> Gaithersburg, MD 20898-8126<br /> Tel: (301)251-4925<br /> Fax: (301)251-4911<br /> Tel: (888)205-2311<br /> TDD: (888)205-3223<br /> Internet: http://rarediseases.info.nih.gov/GARD/<br /><br /><b>Spasmodic Torticollis ST/Dystonia, Inc.</b><br /> PO Box 28<br /> Mukwonago, WI 53149<br /> Tel: (262)560-9534<br /> Fax: (262)560-9535<br /> Tel: (888)445-4588<br /> Email: info@spasmodictorticollis.org<br /> Internet: http://www.spasmodictorticollis.org<br /><br /><b>American Dystonia Society</b><br /> 17 Suffolk Lane<br /> Suite 1<br /> Princeton Junction, NJ 08550<br /> Tel: (310)237-5478<br /> Fax: (609)275-5663<br /> Email: info@dystonia.us<br /> Internet: http://www.dystonia.us<br /><br /></p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="verifiedBox_rdr"> 
+    <div class="verifiedBoxTop_lt_fmt"> 
+    </div> 
+    <div class="verifiedBoxMiddle_lt_fmt"> 
+     <h2>For a Complete Report: </h2> 
+     <p>This is an abstract of a report from the National Organization for Rare Disorders (NORD). A copy of the complete report can be downloaded free from the NORD website for registered users. The complete report contains additional information including symptoms, causes, affected population, related disorders, standard and investigational therapies (if available), and references from medical literature. For a full-text version of this topic, go to www.rarediseases.org and click on Rare Disease Database under &quot;Rare Disease Information&quot;.</p> 
+     <div class="dottedline_fmt"> 
+     </div> 
+    </div> 
+    <div class="verifiedBoxMiddle_symptomatic_fmt"> 
+     <blockquote> 
+      <div class="Sizeminus"> 
+       <p>The information provided in this report is not intended for diagnostic purposes. It is provided for informational purposes only. NORD recommends that affected individuals seek the advice or counsel of their own personal physicians.</p> 
+       <p>It is possible that the title of this topic is not the name you selected. Please check the Synonyms listing to find the alternate name(s) and Disorder Subdivision(s) covered by this report</p> 
+       <p>This disease entry is based upon medical information available through the date at the end of the topic. Since NORD's resources are limited, it is not possible to keep every entry in the Rare Disease Database completely current and accurate. Please check with the agencies listed in the Resources section for the most current information about this disorder.</p> 
+       <p>For additional information and assistance about rare disorders, please contact the National Organization for Rare Disorders at P.O. Box 1968, Danbury, CT 06813-1968; phone (203) 744-0100; web site www.rarediseases.org or email orphan@rarediseases.org<br /></p> 
+       <p>Last Updated: &nbsp;2/4/2013<br />Copyright &nbsp;1986, 1987, 1990, 1991, 1993, 1996, 1998, 1999, 2000, 2001, 2002, 2007, 2010, 2013&nbsp;National Organization for Rare Disorders, Inc.</p> 
+      </div> 
+     </blockquote> 
+    </div> 
+    <div class="verifiedBoxBottom_fmt"> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from the National Organization of Rare Disorders</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: February 25, 2014
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - Nord';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1018"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_ss" href="http://www.webmd.com/a-to-z-guides/dupuytrens-contracture-10/slideshow-treatment" onclick="return sl(this,'','rltd-p-1018_1');">Seizures and Dupuytren's Contracture: What's the Link?<i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/alzheimers/early-warning-signs-when-to-call-the-doctor-about-alzheimers" onclick="return sl(this,'','rltd-p-1018_2');">Early Signs of Alzheimer's</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1018_3');">What Vision Problems Look Like</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/brain/video/brain-injury-rehab" onclick="return sl(this,'','rltd-p-1018_4');">Rehab Programs After Brain Injury</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/multiple-sclerosis/your-best-life-11/ms-symptoms" onclick="return sl(this,'','rltd-p-1018_5');">Treating Relapsing MS</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/brain/video/moyamoya-cerebral-bypass" onclick="return sl(this,'','rltd-p-1018_6');">Cerebral Bypass Surgery</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1018_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80693664" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80693664</chronic_id><r_object_id>091e9c5e80693664</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e80693664.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/03/2010 14:49:33</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Brain and Nervous System Super Center/template_Brain and Nervous System Super Center_091e9c5e8002531d.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002531d"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Torticollis</name><link_title>Torticollis</link_title><description>Torticollis is a condition in which a person's head is tilted down to one side with difficulty moving the head to the other side.  It can be congenital or acquired. Follow the links below to find WebMD's comprehensive coverage about torticollis, its causes, symptoms, treatment, and much more.</description><friendly_url>http://www.webmd.com/parenting/baby/torticollis-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8001d6d7"><link_title>Congenital Torticollis-Topic Overview</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/congenital-torticollis-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80286b29"><link_title>Dystonia: Causes, Types, Symptoms, and Treatments</link_title><friendly_url>http://www.webmd.com/brain/dystonia-causes-types-symptoms-and-treatments</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ec82"><link_title>Dystonia</link_title><friendly_url>http://www.webmd.com/parkinsons-disease/dystonia-10997</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e626"><link_title>Neck Problems and Injuries-Topic Overview</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/neck-problems-and-injuries-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-torticollis-topic-overview" onclick="return sl(this,'','td-rltd-art_1');">Congenital Torticollis-Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/brain/dystonia-causes-types-symptoms-and-treatments" onclick="return sl(this,'','td-rltd-art_2');">Dystonia: Causes, Types, Symptoms, and Treatments</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/dystonia-10997" onclick="return sl(this,'','td-rltd-art_3');">Dystonia</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/neck-problems-and-injuries-topic-overview" onclick="return sl(this,'','td-rltd-art_4');">Neck Problems and Injuries-Topic Overview</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/parenting/baby/torticollis-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Torticollis Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2012937212&amp;tile=835710940&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5000&amp;xpg=4094&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fbrain%2fspasmodic-torticollis-11089&amp;artid=091e9c5e8001ee1b&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_h_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2012937212&amp;amp;tile=835710940&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5000&amp;amp;xpg=4094&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fbrain%2fspasmodic-torticollis-11089&amp;amp;artid=091e9c5e8001ee1b&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_h_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4094";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2012937212&amp;tile=835710940&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5001&amp;xpg=4094&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fbrain%2fspasmodic-torticollis-11089&amp;artid=091e9c5e8001ee1b&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_h_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2012937212&amp;amp;tile=835710940&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=4094&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fbrain%2fspasmodic-torticollis-11089&amp;amp;artid=091e9c5e8001ee1b&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_h_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4094";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

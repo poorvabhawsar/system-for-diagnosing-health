@@ -1,0 +1,96 @@
+<title>Bipolar Disorder Assessment: Dealing With Ups and Downs?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5"></div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9">
+   <div id="healthcheck" class="healthcheck startscreen"> 
+    <div class="toolbar"> 
+     <ul> 
+      <li><a href="#" class="retake"><i></i>Retake Assessment</a></li> 
+      <li><a href="#" class="email"><i></i>Email Results</a></li> 
+      <li><a href="#" class="print"><i></i>Print Results</a></li> 
+     </ul> 
+    </div> 
+    <form class="content"> 
+     <section class="section clearfix"> 
+      <div class="header"> 
+       <h2>Dealing With the Ups and Downs<br /> of Bipolar Disorder?</h2> 
+      </div> 
+      <div class="body clearfix"> 
+       <!-- Start screen content, you can put your own code here if you need to. --> 
+       <!-- CHANGE --> 
+       <!--p>Descriptive text</p--> 
+       <!-- Make sure your button or whatever is used to start the assessment has the "next" class on it so that the functionality can be bound to it. --> 
+       <a href="#" class="webmd-btn webmd-btn-pr webmd-btn-m next">Get Started</a> 
+       <h3>Answer a few questions and find out:</h3> 
+       <ul> 
+        <li class="check two-line">If symptoms of bipolar disorder could be affecting you.</li> 
+        <li class="clipboard two-line">Information about treating and living with bipolar disorder.</li> 
+        <li class="download two-line">Tips on managing your condition, if you've been diagnosed.</li> 
+       </ul> 
+       <!-- If there is no start screen... --> 
+       <!--div class="loading_large">Loading ...</div--> 
+       <!-- /CHANGE --> 
+      </div> 
+     </section> 
+     <div class="npnav"> 
+      <a href="#" class="prev" id="hc-prevbtn"><span>Back</span></a> 
+      <a href="#" class="next loading" id="hc-nextbtn"><span>Continue</span><i class="spinner"></i></a> 
+     </div> 
+     <div class="progress"> 
+      <!-- Progress bar --> 
+      <div class="progress-fill"></div> 
+     </div> 
+    </form> 
+   </div> 
+  </div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19">
+   <div id="sources" class="attribution_footer"> 
+    <p id="reviewer_text">Reviewed by Joseph Goldberg, MD on March 14, 2013</p> 
+    <div id="view_sources"> 
+     <a class="hidden" href="">View Sources</a> 
+     <div id="sources_list" class="hidden"> 
+      <p>Canadian Network for Mood and Anxiety Treatments (CANMAT) guidelines for the management of patients with bipolar disorder: consensus and controversies, <i>Bipolar Disorders</i>, April 2005.</p> 
+      <p>Practice parameters for the assessment and treatment of children and adolescents with bipolar disorder, <i>Journal of the American Academy of Child and Adolescent Psychiatry</i>, January 1997.</p> 
+      <p>Goldberg, J. <i>Journal of Clinical Psychiatr</i>y, December 2012.</p> 
+      <p>Akiskal, H. <i>Psychopharmacology Bulletin</i>, November 2007.</p> 
+      <p>Suppes, T. <i>Journal of Clinical Psychiatr</i>y, July 2005; Medscape Psychiatry &amp; Mental Health, May 5, 2006.</p> 
+      <p>Ward, S. <i>Journal of Midwifery &amp; Women's Health</i>, January-February 2007.</p> 
+      <p>Thase, M. Medscape Psychiatry &amp; Mental Health, Apr. 10, 2006.</p> 
+      <p>Korn, M. Medscape Conference Coverage,May 24, 2002.</p> 
+      <p>Medscape: &quot;Mood disorder: bipolar disorder.&quot;</p> 
+      <p>Kupka, R. <i>Journal of Clinical Psychiatry</i>, December 2003.</p> 
+      <p>UpToDate: &quot;Rapid cycling bipolar disorder in adults: Treatment of major depression,&quot; Oct. 28, 2012.</p> 
+      <p>Schneck, C. <i>Journal of Clinical Psychiatry</i>, supplement 11, 2006.</p> 
+      <p>National Institute of Mental Health: &quot;The Numbers Count: Mental Disorders in America,&quot; &quot;Bipolar Disorder.&quot;</p> 
+      <p>National Alliance for the Mentally Ill: &quot;Bipolar Coping Strategies.&quot;</p> 
+     </div> 
+    </div> 
+    <div id="view_disclaimer"> 
+     <a href="" id="disclaimer_button" class="hidden">This tool does not provide medical advice. See additional information:</a> 
+     <div id="disclaimer_text" class="hidden"> 
+      <p>THIS TOOL DOES NOT PROVIDE MEDICAL ADVICE. &nbsp;It is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis or treatment. Never ignore professional medical advice in seeking treatment because of something you have read on the WebMD Site. If you think you may have a medical emergency, immediately call your doctor or dial 911.</p> 
+     </div> 
+    </div> 
+    <p id="copyright_text">&copy; 2013 WebMD, LLC. All rights reserved.</p> 
+   </div> 
+   <script type="text/javascript">$('#view_sources a, #view_disclaimer a').click(function() {
+          $(this).toggleClass('hidden').next().toggleClass('hidden');
+          return false;
+        });</script>
+  </div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

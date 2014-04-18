@@ -1,0 +1,527 @@
+<title>Human Anatomy: Blood - Cells, Plasma, Circulation, and More</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/medication" onclick="return sl(this,'','tools-res_1');">Which Cholesterol Med Is Right for You?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/signs-of-stroke" onclick="return sl(this,'','tools-res_2');">The Warning Signs of Stroke</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/heart-disease/what-to-do-after-a-heart-attack" onclick="return sl(this,'','tools-res_3');">After a Heart Attack</a></li>
+      <li id="x59"><a href="http://www.webmd.com/heart-disease/features/wreck-heart" onclick="return sl(this,'','tools-res_4');">How to Wreck Your Heart</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/heartburn-gerd/heartburn-relief-13/diagnose" onclick="return sl(this,'','tools-res_5');">Heartburn or Heart Attack?</a></li>
+      <li id="x61"><a href="http://www.webmd.com/heart-disease/exercising-for-a-healthy-heart" onclick="return sl(this,'','tools-res_6');">Q&amp;A: Exercise for Heart Health</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/image-viewer.css" /> 
+   <div class="img_viewer_rdr"> 
+    <div class="img_viewer_related"> 
+     <h4>Blood Tests</h4> 
+     <ul> 
+      <li>Complete blood count: An analysis of the concentration of red blood cells, white blood cells, and platelets in the blood. Automated cell counters perform this test.<br /><a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/complete-blood-count-cbc">http://www.webmd.com/a-to-z-guides/complete-blood-count-cbc</a></li> 
+      <li>Blood smear: Drops of blood are smeared across a microscope slide, to be examined by an expert in a lab. Leukemia, anemia, malaria, and numerous other blood conditions can be identified with a blood smear.</li> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/blood-transfusion-blood-types">Blood type</a>: A test for compatibility before receiving a blood transfusion. The major blood types (A, B, AB, and O) are determined by the protein markers (antigens) present on the surface of red blood cells.<br /></li> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/antibody-tests">Coombs test</a>: A blood test looking for antibodies that could bind to and destroy red blood cells. Pregnant women and people with anemia may undergo Coombs testing.<br /></li> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/blood-culture">Blood culture</a>: A blood test looking for infection present in the bloodstream. If bacteria or other organisms are present, they may multiply in the tested blood, allowing their identification.<br /></li> 
+      <li>Mixing study: A blood test to identify the reason for blood being &quot;too thin&quot; (abnormally resistant to clotting). The patient's blood is mixed in a tube with normal blood, and the mixed blood's properties may provide a diagnosis.</li> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/bone-marrow-aspiration-and-biopsy">Bone marrow biopsy</a>: A thick needle is inserted into a large bone (usually in the hip), and bone marrow is drawn out for tests. Bone marrow biopsy can identify blood conditions that simple blood tests cannot.</li> 
+     </ul> 
+    </div> 
+    <div class="img_viewer_related"> 
+     <h4>Blood Treatments</h4> 
+     <ul> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/cancer/questions-answers-chemotherapy">Chemotherapy</a>: Medicines that kill cancer cells. Leukemias and lymphomas are usually treated with chemotherapy.<br /></li> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/blood-transfusion-overview">Blood transfusion</a>: A blood donor's red blood cells are separated from their plasma and packed into a small bag. Transfusing the concentrated red blood cells into a recipient replaces blood loss.<br /></li> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/blood-transfusion-overview">Platelet transfusion</a>: A blood donor's platelets are separated from the rest of blood and concentrated into a plastic bag. Platelet transfusion is generally only performed when platelet counts fall to very low levels.</li> 
+      <li>Fresh frozen plasma: A blood donor's plasma (liquid blood) is separated from the blood cells, and frozen for storage. Plasma transfusion can improve blood clotting and prevent or stop bleeding that's due to clotting problems.</li> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/clotting-factor-replacement-for-hemophilia">Cryoprecipitate</a>: Specific proteins are separated from blood and frozen in a small volume of liquid. Cryoprecipitate transfusion can replace specific blood clotting proteins when their levels are low, such as in people with hemophilia.<br /></li> 
+      <li>Anticoagulation: Medicines to &quot;thin&quot; the blood and prevent clotting in people at high risk from blood clots. Heparin, enoxaparin (Lovenox) and warfarin (Coumadin) are the medicines most often used.</li> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/heart-disease/antiplatelet-drugs">Antiplatelet drugs</a>: Aspirin and clopidogrel (Plavix) interfere with platelet function and help prevent blood clots, including those that cause heart attacks and strokes.<br /></li> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/using-antibiotics-wisely-topic-overview">Antibiotics</a>: Medicines to kill bacteria and parasites can treat blood infections caused by these organisms.<br /></li> 
+      <li> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/erythropoietin-stimulators">Erythropoietin</a>: A hormone produced by the kidney that stimulates red blood cell production. A manufactured form of erythropoietin can be given to improve the symptoms of anemia.<br /></li> 
+      <li>Bloodletting: In people with problems caused by too much blood (such as from hemochromatosis or polycythemia), occasional controlled removal of blood may be necessary.</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <script type="text/javascript">
+var pagination_title=new Array();
+var pagination_current=2;
+
+pagination_title[1]="";
+pagination_title[2]="Blood Tests";
+</script> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+      <div class="outline_fmt"> 
+       <a href="http://www.webmd.com/heart/anatomy-picture-of-blood">&lt; Previous Page</a> 
+      </div> 
+     </div> 
+     <div class="right_fmt"> 
+      <a href="http://www.webmd.com/heart/anatomy-picture-of-blood">1</a> 
+      <span class="pipe_fmt">|</span> 
+      <span class="current_fmt">2</span> 
+      <style type="text/css">
+.pagination_fmt .center_fmt { width: 375px !important;}
+</style> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt"> 
+     <div class="viewSource_fmt"> 
+      <a href="" onclick="toggle('sourceText_fmt','sources_sign_fmt'); return false;">View Article Sources <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/todaysNews_plusSign.gif" alt="Sources" align="top" border="0" id="sources_sign_fmt" /></a> 
+     </div> 
+     <div style="display:none;" id="sourceText_fmt"> 
+      <p>SOURCE<br /> Hoffman, R. Hematology: Basic Principles and Practice, 5th edition, Churchill Livingstone, 2008.</p> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+      Reviewed on March 09, 2010
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 2010 WebMD, LLC. All rights reserved.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "editorial";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'WebMD Image Collection';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1056"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/medication" onclick="return sl(this,'','rltd-p-1056_1');">Cholesterol Medicines: Which Drug Is Right for You?</a> </li> 
+     <li id="x63"> <a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e8085e992" onclick="return sl(this,'','rltd-p-1056_2');">Tips for Heart-Healthy Living with Diabetes</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/hypertension-high-blood-pressure/features/prehypertension-risks" onclick="return sl(this,'','rltd-p-1056_3');">The Dangers of Pre-Hypertension</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/heart-disease/features/can-you-reverse-heart-disease" onclick="return sl(this,'','rltd-p-1056_4');">Can You Reverse Heart Disease?</a> </li> 
+     <li id="x66"> <a class="type_ss" href="http://www.webmd.com/diet/slideshow-omega-3-health-benefits" onclick="return sl(this,'','rltd-p-1056_5');">The Truth About Omega-3<i> </i></a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/heart/features/job-stress-and-your-heart" onclick="return sl(this,'','rltd-p-1056_6');">Is Your Job Wrecking Your Heart?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1056_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=860489619&tile=2123786400&tug=&pug=__&site=2&affiliate=20&hcent=&scent=948&pos=113&xpg=1675&sec=&amp;au1=&au2=&uri=%2fheart%2fanatomy-picture-of-blood&artid=091e9c5e8056ea80&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_i_h16_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'860489619',
+                    tile:'2123786400',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1675";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=860489619&amp;tile=2123786400&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=948&amp;pos=5001&amp;xpg=1675&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fheart%2fanatomy-picture-of-blood&amp;artid=091e9c5e8056ea80&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_i_h16_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=860489619&amp;amp;tile=2123786400&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=948&amp;amp;pos=5001&amp;amp;xpg=1675&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fheart%2fanatomy-picture-of-blood&amp;amp;artid=091e9c5e8056ea80&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_i_h16_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1675";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

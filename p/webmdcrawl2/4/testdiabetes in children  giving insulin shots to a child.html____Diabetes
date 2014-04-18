@@ -1,0 +1,925 @@
+<title>Diabetes in Children: Giving Insulin Shots to a Child</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/diabetes/diabetes-health-check/diabetes-health-check-old" onclick="return sl(this,'','lln-toolsres_1');">Is Your Diabetes Under Control?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Tips: Stay Healthy With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853920" onclick="return sl(this,'','lln-toolsres_3');">How to Count Carbs With Diabetes</a></li>
+      <li id="x59"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/preventing-complications" onclick="return sl(this,'','lln-toolsres_4');">Preventing Diabetes Complications</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853926" onclick="return sl(this,'','lln-toolsres_5');">Diabetes Menu Plan</a></li>
+      <li id="x61"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/taking-care" onclick="return sl(this,'','lln-toolsres_6');">4 Every Day Tips for Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="actionset"> 
+    <div class="action_top"> 
+    </div> 
+    <div class="action_mid"> 
+     <div class="page page_1"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 1 of 6
+       </div> 
+       <a href="#6" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#2" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Diabetes in Children: Giving Insulin Shots to a Child
+       </div> 
+       <div class="as_content"> 
+        <p> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-5233-Insulin+Regular+Human+Inj.aspx?drugid=5233&amp;drugname=Insulin+Regular+Human+Inj">Insulin</a> is available only in an injectable form that is given into the fatty tissue just under the <a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-the-skin" onclick="return sl(this,'','embd-lnk');">skin</a>. Most people use insulin in an injection, or shot. While it can also be given through an <a href="http://www.webmd.com/hw-popup/insulin-pump-def" onclick="return sl(this,'hw','embd-lnk');">insulin pump</a> or jet injector, this information does not pertain to these devices. Get information from your child's doctor about how to use these properly. </p> 
+        <p>You will need to give your child's insulin injections until he or she is able to give his or her own injections. After you get over the initial <a href="http://www.webmd.com/anxiety-panic/default.htm" onclick="return sl(this,'','embd-lnk');">anxiety</a>, insulin injections will become a routine part of your day. It's easy to learn the basics of preparing the insulin (drawing it up into a syringe) and then injecting it. The new thinner, shorter needles on <a href="http://www.webmd.com/diabetes/guidelines-for-buying-and-using-diabetes-supplies" onclick="return sl(this,'','embd-lnk');">insulin syringes</a> make injections much less uncomfortable than they used to be.</p> 
+        <p>The three most important elements of success in giving insulin injections include:</p> 
+        <ul> 
+         <li>Making sure you have the right dose of insulin, especially if you are giving two types of insulin in the same syringe.</li> 
+         <li>Practicing how to give an injection.</li> 
+         <li>Storing insulin properly so that each dose will work effectively.</li> 
+        </ul> 
+        <p> <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/what.gif" alt="what.gif" align="" style="" /> </a>&nbsp;<a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">What is insulin and how is it given?</a><br /><a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">Why does my child need insulin?</a><br /><a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">How is insulin prepared and given?</a><br /><a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br /></p> 
+        <p>More information about children with <a href="http://www.webmd.com/diabetes/default.htm" onclick="return sl(this,'','embd-lnk');">diabetes</a> can be found in these topics:</p> 
+        <ul> 
+         <li> <a href="http://www.webmd.com/diabetes/tc/type-1-diabetes-children-living-with-the-disease-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 1 Diabetes: Children Living With the Disease</a> </li> 
+         <li> <a href="http://www.webmd.com/diabetes/tc/type-2-diabetes-in-children-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 2 Diabetes in Children</a> </li> 
+        </ul> 
+        <p class="NoWebPrint">Return to topic:</p> 
+        <div class="NoWebPrint"> 
+         <ul> 
+          <li> <a href="http://www.webmd.com/diabetes/insulin-for-type-1-and-type-2-diabetes" onclick="return sl(this,'','embd-lnk');">Insulin for Type 1 and Type 2 Diabetes</a> </li> 
+          <li> <a href="http://www.webmd.com/diabetes/tc/type-1-diabetes-children-living-with-the-disease-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 1 Diabetes: Children Living With the Disease</a> </li> 
+          <li> <a href="http://www.webmd.com/diabetes/tc/type-2-diabetes-in-children-home-treatment" onclick="return sl(this,'','embd-lnk');">Type 2 Diabetes in Children</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#2" class="ac_next">What is insulin and how is it given?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_2" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 2 of 6
+       </div> 
+       <a href="#1" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#3" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        What is insulin and how is it given?
+       </div> 
+       <div class="as_content"> 
+        <p>Insulin is a hormone produced in the <a href="http://www.webmd.com/hw-popup/pancreas-7713" onclick="return sl(this,'hw','embd-lnk');">pancreas</a>. It lets sugar (glucose) enter body cells, where it is used for energy. It also helps the body store extra sugar in muscle and <a href="http://www.webmd.com/digestive-disorders/picture-of-the-liver" onclick="return sl(this,'','embd-lnk');">liver</a> cells. The stored sugar can be released later and used for energy when needed.</p> 
+        <p>Insulin for injection comes in small glass bottles, or vials, and in cartridges. Both are sealed with a rubber lid. One vial or cartridge contains many doses. To remove a dose of insulin from:</p> 
+        <ul> 
+         <li> <b>A vial:</b> Use an <a href="http://www.webmd.com/diabetes/insulin-syringes" onclick="return sl(this,'','embd-lnk');">insulin syringe</a> <a href="http://www.webmd.com/diabetes/insulin-syringes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" align="" style="" /></a>. The syringe is also used to inject the insulin.</li> 
+         <li> <b>A cartridge:</b> Use a pen-shaped device called an <a href="http://www.webmd.com/hw-popup/insulin-pen" onclick="return sl(this,'hw','embd-lnk');">insulin pen</a>. The cartridge fits inside the pen and the dose of insulin is set with a dial on the outside of the pen. The pen is used to give the insulin. </li> 
+        </ul> 
+        <p>Some insulin pens work with premixed insulin cartridges, such as <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-148581-humulin+r+u-500+concentrated+inj.aspx">Humulin</a> 70/30, <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-21781-novolog+subq.aspx">NovoLog</a> Mix 70/30, and <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-13818-humalog+subq.aspx">Humalog</a> Mix 50/50.</p> 
+        <p>To give an insulin injection, the needle is inserted through the skin. The medicine is pushed from the syringe into fatty tissue just below the skin. Insulin usually is injected into the <a href="http://www.webmd.com/digestive-disorders/picture-of-the-abdomen" onclick="return sl(this,'','embd-lnk');">abdomen</a>, upper arm, buttocks, or thigh.</p> 
+        <p>Your child may need to take two types of insulin at the same time. Because most types of insulin that are prescribed to be taken at the same time can be mixed together, you can give both doses in the same syringe. </p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Insulin is a hormone made by the <a href="http://www.webmd.com/digestive-disorders/picture-of-the-pancreas" onclick="return sl(this,'','embd-lnk');">pancreas</a>.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0What');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0What');" />False
+         </form> 
+         <a name="fms_answer6"> </a> 
+         <div id="answer0What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Insulin is a hormone made by the pancreas. Insulin lets sugar (glucose) enter body cells, where it is used for energy. It also helps the body store extra sugar in muscle and liver cells. The stored sugar can be released later and used for energy when needed.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Insulin is a hormone made by the pancreas. Insulin lets sugar (glucose) enter body cells, where it is used for energy. It also helps the body store extra sugar in muscle and liver cells. The stored sugar can be released later and used for energy when needed.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>To withdraw a single dose of insulin from a vial, I need to use a syringe.</p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1What');" />True
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1What');" />False
+         </form> 
+         <a name="fms_answer6"> </a> 
+         <div id="answer1What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />To withdraw a single dose of insulin from a vial, you do need to use a syringe.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />To withdraw a single dose of insulin from a vial, you do need to use a syringe.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>To give an injection of insulin, the needle of the syringe is inserted into the skin and the medicine is pushed into the fatty tissue just under the skin.</p> </span> 
+         <form name="testKnowledge3"> 
+          <input type="radio" name="answer_2" value="0" onclick="gradeAnswer(this.value, 'answer2What');" />True
+          <br />
+          <input type="radio" name="answer_2" value="1" onclick="gradeAnswer(this.value, 'answer2What');" /> False
+         </form> 
+         <a name="fms_answer6"> </a> 
+         <div id="answer2What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />To give an injection of insulin, the needle of the syringe is inserted into the skin and the medicine is pushed into the fatty tissue just under the skin.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />To give an injection of insulin, the needle of the syringe is inserted into the skin, and the medicine is pushed into the fatty tissue just under the skin.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">Why does my child need insulin?</a><br />Return to <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">Diabetes in Children: Giving Insulin Shots to a Child</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#3" class="ac_next">Why does my child need insulin?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_3" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 3 of 6
+       </div> 
+       <a href="#2" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#4" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Why does my child need insulin?
+       </div> 
+       <div class="as_content"> 
+        <p>If your child has type 1 diabetes, his or her body no longer produces insulin. Because insulin is not available, sugar cannot enter body cells to be used for energy. As a result, the <a href="http://www.webmd.com/diabetes/blood-glucose" onclick="return sl(this,'','embd-lnk');">blood sugar</a> level rises. Insulin injections are needed to keep <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/diabetes/blood-glucose">blood sugar levels</a> within a target range when a person has type 1 diabetes.</p> 
+        <p>If your child has type 2 diabetes, either the pancreas isn't able to produce enough insulin or your child's body tissues have become <a href="http://www.webmd.com/hw-popup/insulin-resistance" onclick="return sl(this,'hw','embd-lnk');">resistant to insulin</a>. Children with type 2 diabetes may need to take medicine to control their <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> sugar.</p> 
+        <p> Your child with type 2 diabetes may need insulin if eating a balanced diet, getting regular <a href="http://www.webmd.com/fitness-exercise/default.htm" onclick="return sl(this,'','embd-lnk');">exercise</a>, and taking other medicine have not kept his or her blood sugar levels within a target range. Your child may now need insulin injections either alone or in combination with other medicine.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>In type 2 diabetes, the pancreas does not produce enough insulin or the body tissues are resistant to insulin.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0Why');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0Why');" />False
+         </form> 
+         <a name="fms_answer3"> </a> 
+         <div id="answer0Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />In type 2 diabetes, the pancreas does not produce enough insulin or the body tissues are resistant to insulin. Because insulin is not available, sugar cannot enter body cells to be used for energy. As a result, blood sugar level rises.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />In type 2 diabetes, the pancreas does not produce enough insulin or the body tissues are resistant to insulin. Because insulin is not available, sugar cannot enter body cells to be used for energy. As a result, blood sugar level rises.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">How is insulin prepared and given?</a><br />Return to <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">Diabetes in Children: Giving Insulin Shots to a Child</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#4" class="ac_next">How is insulin prepared and given?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_4" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 4 of 6
+       </div> 
+       <a href="#3" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#5" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        How is insulin prepared and given?
+       </div> 
+       <div class="as_content"> 
+        <p>Your doctor or <a href="http://www.webmd.com/hw-popup/certified-diabetes-educator-cde" onclick="return sl(this,'hw','embd-lnk');">certified diabetes educator (CDE)</a> will help you and your child learn to prepare and give insulin injections. If your child is age 10 or older, he or she may be able to give insulin with supervision. Here are some simple steps to help you and your child learn this task.</p> 
+        <h4>Get ready</h4> 
+        <p>To get ready to give an insulin injection using an insulin vial and insulin syringe, follow these steps.</p> 
+        <ol> 
+         <li>Wash your hands with soap and running water. Dry them thoroughly. If your child is going to help, wash his or her hands well.</li> 
+         <li>Gather the supplies. You will need an <a href="http://www.webmd.com/diabetes/insulin-syringes" onclick="return sl(this,'','embd-lnk');">insulin syringe</a> <a href="http://www.webmd.com/diabetes/insulin-syringes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" align="" style="" /></a>, the vial(s) of insulin, and an alcohol wipe or a cotton ball dipped in alcohol. Keep the supplies in a bag or kit so your child can carry the supplies wherever he or she goes.</li> 
+         <li>Check the <a href="http://www.webmd.com/diabetes/insulin-bottles-vials-and-cartridges" onclick="return sl(this,'hw','embd-lnk');">insulin bottle label and contents</a>. When an insulin vial is used for the first time, write the date on the bottle. On the 30th day after opening, throw the bottle with any remaining insulin away. Insulin may not work as well after 30 days of use.</li> 
+        </ol> 
+        <h4>Prepare the injection</h4> 
+        <p>The preparation will depend on whether you are giving one type of insulin or mixing two types of insulin in the injection.</p> 
+        <ul> 
+         <li> <b>To prepare an injection with a single type of insulin,</b> follow the instructions in this slideshow of <a href="http://www.webmd.com/diabetes/steps-for-preparing-a-single-dose-of-insulin" onclick="return sl(this,'','embd-lnk');">steps for preparing a single dose of insulin</a> <a href="http://www.webmd.com/diabetes/steps-for-preparing-a-single-dose-of-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/slideshow.gif" alt="slideshow.gif" align="" style="" /></a>.</li> 
+         <li> <b>To prepare an injection containing two types of insulin,</b> follow the instructions in this slideshow of <a href="http://www.webmd.com/diabetes/steps-for-preparing-a-mixed-dose-of-insulin" onclick="return sl(this,'','embd-lnk');">steps for preparing a mixed dose of insulin</a> <a href="http://www.webmd.com/diabetes/steps-for-preparing-a-mixed-dose-of-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/slideshow.gif" alt="slideshow.gif" align="" style="" /></a>.</li> 
+        </ul> 
+        <p>When you are mixing types of insulin to be given in one syringe, follow these precautions. </p> 
+        <ul> 
+         <li>If you are mixing NPH and short-acting regular insulin, you can use it right away or put it aside to be used later. Keep it away from heat and light, such as in a refrigerator.</li> 
+         <li>Insulin glargine (<a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-20815-lantus+subq.aspx">Lantus</a>) and insulin detemir (<a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-95095-levemir+subq.aspx">Levemir</a>) cannot be mixed with other types of insulin. They also cannot be given in a syringe that has been used to give another type of insulin.</li> 
+        </ul> 
+        <h4>Prepare the site</h4> 
+        <p>Before giving the injection, take the time you need to do the following:</p> 
+        <ul> 
+         <li>Choose the place (injection site). See the <a href="http://www.webmd.com/diabetes/diagram-of-insulin-injection-areas" onclick="return sl(this,'','embd-lnk');">diagram of injection areas</a> <a href="http://www.webmd.com/diabetes/diagram-of-insulin-injection-areas" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" align="" style="" /></a> for where to give insulin injections. The belly is the most common area. If you give the injections in different places on your child's body each day (rotate sites), use the same site at the same time of the day. If your child will be physically active soon after the injection, use a site that will have the least movement in the activity. The absorption of insulin is faster in an area that gets movement, which could lead to low blood sugar. For example, if you give your child an insulin shot right before he or she plays soccer, give the shot in the belly, rather than in the leg.</li> 
+         <li>An example of rotating sites: 
+          <ul>
+           <li>At <a href="http://www.webmd.com/food-recipes/most-important-meal" onclick="return sl(this,'','embd-lnk');">breakfast</a>, give the insulin into one of your child's arms.</li>
+           <li>At lunch, give the insulin into one of your child's legs.</li>
+           <li>At dinner, give the insulin into your child's abdomen.</li>
+          </ul></li> 
+         <li>Clean the site. If you use alcohol to clean the skin before you give the injection, let it dry.</li> 
+         <li>Have your child relax the muscles in the area of the injection.</li> 
+        </ul> 
+        <h4>Give the injection</h4> 
+        <p>Follow these steps for giving an insulin injection.</p> 
+        <ol> 
+         <li>Slightly pinch a fold of skin between your fingers and thumb of one hand. But if you are using a shorter insulin needle, pinching the skin is not needed. Shorter needles make it easier to inject insulin into areas with less fat, such as the upper arm.</li> 
+         <li>Hold the syringe like a pencil close to the site, keeping your fingers off the plunger. Usually the syringe is at a 90-degree angle to the skin site. If you are giving the injection to a small child with little fat, you may want to insert the needle at a 45-degree angle or use a shorter needle.</li> 
+         <li>Bend your wrist and quickly push the needle all the way into the pinched-up area. Then let go of the pinched-up area.</li> 
+         <li>Push the plunger of the syringe all the way in so the insulin goes into the fatty tissue. Count to 5 before taking the needle out, so that some of the insulin doesn't &quot;leak&quot; out.</li> 
+         <li>Take the needle out slowly at the same angle that you inserted it. If your child bleeds a little, apply pressure over the injection site with your finger, a cotton ball, or piece of gauze. Do not rub the area. </li> 
+         <li>Replace the cover over the needle. Although syringe manufacturers do not recommend it, some people reuse their syringes until the needle becomes dull or bent. If you plan to reuse your syringe, see <a href="http://www.webmd.com/a-to-z-guides/insulin-reusing-syringes-safely-topic-overview" onclick="return sl(this,'','embd-lnk');">precautions when reusing syringes</a>.</li> 
+        </ol> 
+        <p>View the slideshow on <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-into-the-stomach-using-an-insulin-pen" onclick="return sl(this,'','embd-lnk');">giving an insulin injection into the belly using an insulin pen</a> <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-into-the-stomach-using-an-insulin-pen" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/slideshow.gif" alt="slideshow.gif" align="" style="" /></a> to see photographs of a child using an insulin pen to give an injection in the belly. </p> 
+        <p>View the slideshow on <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-into-the-arm" onclick="return sl(this,'','embd-lnk');">giving an insulin injection into the arm</a> <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-into-the-arm" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/slideshow.gif" alt="slideshow.gif" align="" style="" /></a> to see photographs of a child giving an insulin injection in the arm using a syringe. </p> 
+        <h4>Cleanup and storage</h4> 
+        <p>After giving your child's injection, be sure to:</p> 
+        <ul> 
+         <li> <a href="http://www.webmd.com/a-to-z-guides/storing-insulin-and-prefilling-syringes-topic-overview" onclick="return sl(this,'','embd-lnk');">Store the insulin properly</a> so that each dose from the bottle will work effectively.</li> 
+         <li>Dispose of the used syringe and lancet. Do not throw a used syringe, needle, or lancet in a trash can. You can dispose of them in a metal container with a lid that screws on or that you tape down tightly. You also can buy special containers for disposing of used needles and syringes. You can buy a small needle clipper device that breaks the needle off the syringe and stores it safely for disposal. Talk with your local trash disposal agency or your doctor about how to get rid of the container.</li> 
+        </ul> 
+        <h4>Other tips for success and safety</h4> 
+        <p>Some tips to help you be safe and successful in giving your child insulin injections include the following:</p> 
+        <ul> 
+         <li>You and your child can practice injecting air or water into an orange until you feel comfortable with the steps for giving insulin. Then do the steps in front of a doctor or certified diabetes educator and ask him or her how you did. Practice more if you or your child needs to. If you think that you can do the task well, give your child a dose of insulin while a doctor watches. Let your child do this if he or she is ready to try.</li> 
+         <li>Teach other family members how to give insulin injections. Have at least one other person who can prepare and give your child's insulin injection in an emergency. It's a good idea to let this person give your child an injection now and then for practice. Then it will not be as unfamiliar when an emergency occurs. </li> 
+         <li>Never share syringes with another person because of the risk of getting diseases that can be transferred through blood, such as acquired immunodeficiency syndrome (AIDS) or infection of the liver (<a href="http://www.webmd.com/hepatitis/default.htm" onclick="return sl(this,'','embd-lnk');">hepatitis</a>).</li> 
+        </ul> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p>Answer the following questions to see whether you understand how to prepare and give an insulin injection. Review the slideshows of <a href="http://www.webmd.com/diabetes/steps-for-preparing-a-single-dose-of-insulin" onclick="return sl(this,'','embd-lnk');">steps for preparing a single dose of insulin</a> <a href="http://www.webmd.com/diabetes/steps-for-preparing-a-single-dose-of-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/slideshow.gif" alt="slideshow.gif" align="" style="" /></a> and <a href="http://www.webmd.com/diabetes/steps-for-preparing-a-mixed-dose-of-insulin" onclick="return sl(this,'','embd-lnk');">steps for preparing a mixed dose of insulin</a> <a href="http://www.webmd.com/diabetes/steps-for-preparing-a-mixed-dose-of-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/slideshow.gif" alt="slideshow.gif" align="" style="" /></a> before answering these questions.</p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>The first step in preparing insulin from a bottle is to roll the bottle gently between your hands.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0How');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0How');" />False
+         </form> 
+         <a name="fms_answer23"> </a> 
+         <div id="answer0How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />The first step in preparing insulin from a bottle is to roll the bottle gently between your hands. This will warm the insulin if you have been keeping the bottle in the refrigerator. Roll a bottle of cloudy insulin until the white powder has dissolved.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />The first step in preparing insulin from a bottle is to roll the bottle gently between your hands. This will warm the insulin if you have been keeping the bottle in the refrigerator. Roll a bottle of cloudy insulin until the white powder has dissolved.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>When you are preparing a cloudy and a clear insulin to give a mixed dose, which do you put into the syringe first?</p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1How');" />Cloudy insulin
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1How');" />Clear insulin
+         </form> 
+         <a name="fms_answer23"> </a> 
+         <div id="answer1How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />When you are preparing a cloudy and a clear insulin to give a mixed dose, you put the clear insulin into the syringe first. </p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />When you are preparing a cloudy and a clear insulin to give a mixed dose, you put the clear insulin into the syringe first.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br />Return to <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">Diabetes in Children: Giving Insulin Shots to a Child</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#5" class="ac_next">Where to go from here<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_5" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 5 of 6
+       </div> 
+       <a href="#4" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#6" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Where to go from here
+       </div> 
+       <div class="as_content"> 
+        <p>Now that you have read this information, you are ready to start preparing and giving insulin injections to your child.</p> 
+        <p>If you would like more information on preparing and giving insulin injections, the following resources are available:</p> 
+        <h3>Organization</h3> 
+        <table border="0"> 
+         <tbody>
+          <tr> 
+           <td colspan="2"> <b>American Diabetes Association (ADA)</b> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">1701 North Beauregard Street</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">Alexandria, VA&nbsp;&nbsp;22311</td> 
+          </tr> 
+          <tr> 
+           <td>Phone: </td> 
+           <td>1-800-DIABETES (1-800-342-2383)</td> 
+          </tr> 
+          <tr> 
+           <td>Email: </td> 
+           <td>AskADA@diabetes.org</td> 
+          </tr> 
+          <tr> 
+           <td>Web Address: </td> 
+           <td>www.diabetes.org</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">&nbsp;</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2"> <p>The American Diabetes Association (ADA) is a national organization for health professionals and consumers. Almost every state has a local office. ADA sets the standards for the care of people with diabetes. Its focus is on research for the prevention and treatment of all types of diabetes. ADA provides patient and professional education mainly through its publications, which include the monthly magazine <i>Diabetes Forecast</i>, books, brochures, cookbooks and meal planning guides, and pamphlets. ADA also provides information for parents about caring for a child with diabetes.</p> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="2"> <br /> </td> 
+          </tr> 
+         </tbody>
+        </table> 
+        <p> </p> 
+        <p class="NoWebPrint">Return to <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/giving-an-insulin-injection-to-a-child-with-diabetes" onclick="return sl(this,'','embd-lnk');">Diabetes in Children: Giving Insulin Shots to a Child</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#6" class="ac_next">See More Popular Action Sets<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_6" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 6 of 6
+       </div> 
+       <a href="#5" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#1" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        See More Popular Action Sets
+       </div> 
+       <div id="lastslide"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="action_bot"> 
+    </div> 
+   </div> 
+   <div class="dashed_fmt"> 
+   </div> 
+   <div class="subheadSpaced_fmt"> 
+   </div> 
+   <div class="credits_fmt"> 
+    <table border="0" cellpadding="5"> 
+     <tbody>
+      <tr> 
+       <td valign="top"> <b>By</b> </td> 
+       <td>Healthwise Staff</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+       <td>John Pope, MD - Pediatrics</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+       <td>Stephen LaFranchi, MD - Pediatrics, Pediatric Endocrinology</td> 
+      </tr> 
+      <tr> 
+       <td> <b>Last Revised</b> </td> 
+       <td>December 4, 2012</td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionsets.js">
+</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: December 04, 2012
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - ActionSet';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1037"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','rltd-p-1037_1');">Diabetes? Get Tips to Avoid Health Problems</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1037_2');">Images of Diabetic Retinopathy and Other Vision Problems</a> </li> 
+     <li id="x64"> <a href="http://diabetes.webmd.com/diabetes-health-check/default.htm" onclick="return sl(this,'','rltd-p-1037_3');">Is Your Type 2 Diabetes Under Control?</a> </li> 
+     <li id="x65"> <a href="http://diabetes.webmd.com/diabetes-your-menu-6/alcohol" onclick="return sl(this,'','rltd-p-1037_4');">Dos and Don'ts: Diabetes and Alcohol Consumption</a> </li> 
+     <li id="x66"> <a href="http://diabetes.webmd.com/treating-diabetes-11/insulin-questions" onclick="return sl(this,'','rltd-p-1037_5');">Your Insulin Management Questions Answered</a> </li> 
+     <li id="x67" class="last"> <a href="http://arthritis.webmd.com/living-with-chronic-gout-11/gout-and-diabetes" onclick="return sl(this,'','rltd-p-1037_6');">Diabetes and Gout: Know the Risk Factors</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1037_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80a7df5a" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069325b</chronic_id><r_object_id>091e9c5e80a7df5a</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8069325b.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>05/30/2012 23:35:23</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Diabetes Health Center/template_Diabetes Health Center_091e9c5e800245f8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800245f8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Diabetes Home Care and Monitoring</name><link_title>Diabetes Home Care and Monitoring</link_title><description>As a diabetic, you play a major role in managing your diabetes, and this includes everything from making healthy food choices and getting exercise to regularly monitoring your blood sugar levels and taking your medications as necessary. Follow the links below to find WebMD's comprehensive coverage about diabetes home care and monitoring, from practical tips to the latest research and findings.</description><friendly_url>http://www.webmd.com/diabetes/diabetes-home-care-monitoring-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e801e5a52"><link_title>Insulin and Healthy Blood Sugar Levels - WebMD</link_title><friendly_url>http://www.webmd.com/diabetes/healthy-blood-sugar-levels-quiz</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1078</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80095b01"><link_title>Diabetes Care: Managing Your Time When You Have Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/features/diabetes-time-management</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e808dd6c8"><link_title>Take Control of Diabetes With Insulin</link_title><friendly_url>http://www.webmd.com/diabetes/treating-diabetes-11/default.htm</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008548"><link_title>Managing Your Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/managing-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801ed5d4"><link_title>Controlling Diabetes - Learn to Manage Type 2 Diabetes - WebMD</link_title><friendly_url>http://www.webmd.com/diabetes/manage-type-2-diabetes-quiz</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1078</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8096b4ff"><link_title>Diabetes Quiz: Blood Sugar Levels, Exercise, and Diet</link_title><friendly_url>http://www.webmd.com/diabetes/rm-quiz-diabetes-dos-donts</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1078</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800db079"><link_title>Diabetes Care in Special Situations</link_title><friendly_url>http://www.webmd.com/diabetes/diabetes-care-special-children</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804ceb3d"><link_title>Slideshow: Diabetes Management in 10 Minutes</link_title><friendly_url>http://www.webmd.com/diabetes/active-life/slideshow-managing-diabetes-10-tips</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800061b0"><link_title>Taking Care of Your Diabetes Every Day</link_title><friendly_url>http://www.webmd.com/diabetes/taking-care-your-diabetes-every-day</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800075ca"><link_title>How to Give Yourself an Insulin Shot for Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/guide/give-yourself-insulin-shot</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800b7433"><link_title>Diabetes Care at Home</link_title><friendly_url>http://www.webmd.com/diabetes/diabetes-care-home</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802ac3d0"><link_title>Slideshow: A Visual Guide to Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-type-2-diabetes-overview</friendly_url><thumbnail height="" width="" alt="Diabetic tools">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/type_2_diabetes_overview_slideshow/69x75_type_2_diabetes_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e108"><link_title>Type 1 Diabetes: Children Living With the Disease-Home Treatment</link_title><friendly_url>http://www.webmd.com/diabetes/tc/type-1-diabetes-children-living-with-the-disease-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e02f"><link_title>Type 1 Diabetes: Living With Complications-Home Treatment</link_title><friendly_url>http://www.webmd.com/diabetes/tc/type-1-diabetes-living-with-complications-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001df00"><link_title>Type 1 Diabetes: Living With the Disease-Home Treatment</link_title><friendly_url>http://www.webmd.com/diabetes/tc/type-1-diabetes-living-with-the-disease-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d721"><link_title>Diabetes: Giving Yourself an Insulin Shot</link_title><friendly_url>http://www.webmd.com/diabetes/giving-an-insulin-injection-to-an-adult-with-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d735"><link_title>Diabetes in Children: Checking Blood Sugar in a Child</link_title><friendly_url>http://www.webmd.com/diabetes/home-blood-sugar-monitoring-for-children-with-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001de80"><link_title>Type 1 Diabetes-Home Treatment</link_title><friendly_url>http://www.webmd.com/diabetes/tc/type-1-diabetes-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is type 2 diabetes?</link_title><friendly_url>http://answers.webmd.com/answers/1192786/what-is-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006d03"><link_title>Most Type 2 Diabetics Don't Know Disease Cause</link_title><friendly_url>http://www.webmd.com/diabetes/news/19991201/type-2-diabetics-dont-know-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c3e3"><link_title>Home Medical Monitoring Made Difficult?</link_title><friendly_url>http://www.webmd.com/diabetes/news/20010312/home-medical-monitoring-made-difficult</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e8e3"><link_title>Accurate Blood Sugar Readings Are at Your Fingertips</link_title><friendly_url>http://www.webmd.com/diabetes/news/20010709/accurate-blood-sugar-readings-are-at-your-fingertips</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ec3a"><link_title>IOM Admits Possible Link Between Agent Orange and Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/news/20001013/iom-admits-possible-link-between-agent-orange-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000efdd"><link_title>Many Insulin Users Don't Use Prescribed Dose</link_title><friendly_url>http://www.webmd.com/diabetes/news/20050105/many-insulin-users-dont-use-prescribed-dose</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000efe9"><link_title>Insulin Therapy for Early Type 2 Diabetes?</link_title><friendly_url>http://www.webmd.com/diabetes/news/20030821/insulin-for-early-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fbc1"><link_title>U.S. Diabetes Control Dangerously Poor</link_title><friendly_url>http://www.webmd.com/diabetes/news/20050518/us-diabetes-control-dangerously-poor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000feea"><link_title>Smoking May Increase Diabetes Risk</link_title><friendly_url>http://www.webmd.com/smoking-cessation/news/20050926/smoking-may-increase-diabetes-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80057ded"><link_title>Type 2 Diabetes Resources</link_title><friendly_url>http://www.webmd.com/diabetes/guide/type-2-diabetes-resources</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800aedd6"><link_title>Good Diabetes Care Is a Family Affair</link_title><friendly_url>http://www.webmd.com/diabetes/features/good-diabetes-care-family-affair</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/diabetes/active-life/slideshow-managing-diabetes-10-tips" onclick="return sl(this,'','lln-tdrelcon_1');">Slideshow: Diabetes Management in 10 Minutes</a></li>
+      <li><a href="http://www.webmd.com/diabetes/ss/slideshow-type-2-diabetes-overview" onclick="return sl(this,'','lln-tdrelcon_2');">Slideshow: A Visual Guide to Type 2 Diabetes</a></li>
+      <li><a href="http://answers.webmd.com/answers/1192786/what-is-type-2-diabetes" onclick="return sl(this,'','lln-tdrelcon_3');">What is type 2 diabetes?</a></li>
+      <li><a href="http://www.webmd.com/diabetes/healthy-blood-sugar-levels-quiz" onclick="return sl(this,'','lln-tdrelcon_4');">Insulin and Healthy Blood Sugar Levels - WebMD</a></li>
+      <li><a href="http://www.webmd.com/diabetes/features/diabetes-time-management" onclick="return sl(this,'','lln-tdrelcon_5');">Diabetes Care: Managing Your Time When You Have Diabetes</a></li>
+      <li><a href="http://www.webmd.com/diabetes/treating-diabetes-11/default.htm" onclick="return sl(this,'','lln-tdrelcon_6');">Take Control of Diabetes With Insulin</a></li>
+      <li><a href="http://www.webmd.com/diabetes/managing-diabetes" onclick="return sl(this,'','lln-tdrelcon_7');">Managing Your Diabetes</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/diabetes/diabetes-home-care-monitoring-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Diabetes Home Care and Monitoring Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1108579293&tile=1359956965&tug=&pug=_2147_&site=2&affiliate=20&hcent=1037&scent=&pos=113&xpg=1667&sec=8006&amp;au1=1&au2=&uri=%2fdiabetes%2fgiving-an-insulin-injection-to-a-child-with-diabetes&artid=091e9c5e8001d74b&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_age122_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1108579293',
+                    tile:'1359956965',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1667";
+      var secTopId = "8006";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1108579293&amp;tile=1359956965&amp;tug=&amp;pug=_2147_&amp;site=2&amp;affiliate=20&amp;hcent=1037&amp;scent=&amp;pos=5001&amp;xpg=1667&amp;sec=8006&amp;au1=1&amp;au2=&amp;uri=%2fdiabetes%2fgiving-an-insulin-injection-to-a-child-with-diabetes&amp;artid=091e9c5e8001d74b&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_age122_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1108579293&amp;amp;tile=1359956965&amp;amp;tug=&amp;amp;pug=_2147_&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1037&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1667&amp;amp;sec=8006&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fdiabetes%2fgiving-an-insulin-injection-to-a-child-with-diabetes&amp;amp;artid=091e9c5e8001d74b&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_age122_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1667";
+			var secTopId = "8006";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

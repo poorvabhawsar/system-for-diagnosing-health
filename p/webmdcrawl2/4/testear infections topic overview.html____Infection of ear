@@ -1,0 +1,400 @@
+<title>Ear Infections-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-when-to-call-a-doctor" onclick="return sl(this,'','tools-res_1');">Ear Infection Emergencies</a></li>
+      <li id="x57"><a href="http://www.webmd.com/allergies/allergy-and-sinus-symptom-evaluator/default.htm" onclick="return sl(this,'','tools-res_2');">Personalized Sinus Advice</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parenting/slideshow-childhood-illnesses-parents-should-know" class="type_ss" onclick="return sl(this,'','tools-res_3');">24 Common Childhood Illnesses<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-what-happens" onclick="return sl(this,'','tools-res_4');">Ear Infections: What Happens?</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/cold-and-flu/cold-guide/earache-cold-ear-infection" onclick="return sl(this,'','tools-res_5');">Earache Causes</a></li>
+      <li id="x61"><a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-what-increases-your-risk" onclick="return sl(this,'','tools-res_6');">Ear Infection Risk Factors</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Topic Overview</h2> 
+     <div class="subhead_fmt"> 
+      <div class="continued_fmt">
+        (continued)
+      </div> 
+     </div> 
+     <div class="hwDefinition_fmt"> 
+      <p>Most ear infections go away on their own, although antibiotics are recommended for children under the age of 2 and for children at high risk for complications. You can treat your child at home with an over-the-counter pain reliever like <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-362-acetaminophen+oral.aspx">acetaminophen</a> (such as <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-7076-tylenol+oral.aspx">Tylenol</a>), a warm washcloth or heating pad on the ear, and rest. <b>Do not give <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/mono-3-ASPIRIN+-+ORAL.aspx?drugid=1082&amp;drugname=Aspirin+Oral">aspirin</a> to anyone younger than 20</b>. Your doctor may give you eardrops that can help your child's pain. </p> 
+      <p xmlns:xalan="http://xml.apache.org/xalan">Your doctor can give your child antibiotics, but ear infections often get better without them. Talk about this with your doctor. Whether you use them will depend on how old your child is and how bad the infection is.</p> 
+      <p>Minor surgery to put tubes in the ears may help if your child has hearing problems or repeat infections. </p> 
+      <p>Sometimes after an infection, a child cannot hear well for a while. Call your doctor if this lasts for 3 to 4 months. Children need to be able to hear in order to learn how to talk.</p> 
+      <p>There are many ways to help prevent ear infections.</p> 
+      <ul> 
+       <li> Do not smoke. Ear infections happen more often to children who are around cigarette smoke. Even the fumes from tobacco smoke on your hair and clothes can affect them. </li> 
+       <li>Encourage hand-washing.</li> 
+       <li>Breast-feed your baby. </li> 
+       <li>Have your child immunized.</li> 
+       <li>Make sure your child doesn't go to sleep while sucking on a bottle. </li> 
+       <li>Try to limit the use of group child care.</li> 
+      </ul> 
+      <table cellpadding="0" cellspacing="0" width="95%"> 
+       <colgroup>
+        <col /> 
+       </colgroup>
+       <tbody>
+        <tr> 
+         <td valign="top"> <p> <b>Learning about ear infections:</b> </p> </td> 
+         <td valign="top"> 
+          <ul> 
+           <li> <a href="http://www.webmd.com/hw-popup/ear-infection-otitis-media" onclick="return sl(this,'hw','embd-lnk');">What is a middle ear infection?</a> </li> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-cause" onclick="return sl(this,'','embd-lnk');">What causes a middle ear infection?</a> </li> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-symptoms" onclick="return sl(this,'','embd-lnk');">What are the symptoms?</a> </li> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-what-happens" onclick="return sl(this,'','embd-lnk');">How long does an ear infection last?</a> </li> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-cause" onclick="return sl(this,'','embd-lnk');">Does it always occur during another illness, like a cold?</a> </li> 
+          </ul> </td> 
+        </tr> 
+        <tr> 
+         <td valign="top"> <p> <b>Being diagnosed:</b> </p> </td> 
+         <td valign="top"> 
+          <ul> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-exams-and-tests" onclick="return sl(this,'','embd-lnk');">How is an ear infection diagnosed?</a> </li> 
+          </ul> </td> 
+        </tr> 
+        <tr> 
+         <td valign="top"> <p> <b>Getting treatment:</b> </p> </td> 
+         <td valign="top"> 
+          <ul> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-treatment-overview" onclick="return sl(this,'','embd-lnk');">How soon do I need to start treatment for my child's ear infection?</a> </li> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-home-treatment" onclick="return sl(this,'','embd-lnk');">Can I treat my child's ear infection at home?</a> </li> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-medications" onclick="return sl(this,'','embd-lnk');">What medicines are used to treat an ear infection?</a> </li> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/should-i-give-my-child-antibiotics-for-an-ear-infection" onclick="return sl(this,'','embd-lnk');"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/dplink.gif" alt="dplink.gif" align="" style="" /> </a> <a href="http://www.webmd.com/cold-and-flu/ear-infection/should-i-give-my-child-antibiotics-for-an-ear-infection" onclick="return sl(this,'','embd-lnk');">Should I give my child antibiotics for an ear infection?</a></li> 
+           <li> Should I have my child treated for fluid buildup in the ear?</li> 
+          </ul> </td> 
+        </tr> 
+        <tr> 
+         <td valign="top"> <p> <b>Ongoing concerns:</b> </p> </td> 
+         <td valign="top"> 
+          <ul> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-treatment-overview" onclick="return sl(this,'','embd-lnk');">What if my child's ear infection doesn't improve?</a> </li> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-treatment-overview" onclick="return sl(this,'','embd-lnk');">What if it keeps coming back?</a> </li> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-prevention" onclick="return sl(this,'','embd-lnk');">Can an ear infection be prevented?</a> </li> 
+          </ul> </td> 
+        </tr> 
+        <tr> 
+         <td valign="top"> <p> <b>Helping a sick child:</b> </p> </td> 
+         <td valign="top"> 
+          <ul> 
+           <li> <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-home-treatment" onclick="return sl(this,'','embd-lnk');">How can I help my child feel better?</a> </li> 
+          </ul> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+      <div class="outline_fmt"> 
+       <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-topic-overview">&lt; Previous Page</a> 
+      </div> 
+     </div> 
+     <div class="right_fmt"> 
+      <a href="http://www.webmd.com/cold-and-flu/ear-infection/ear-infections-topic-overview">1</a> 
+      <span class="pipe_fmt">|</span> 
+      <span class="current_fmt">2</span> 
+      <style type="text/css">
+						.pagination_fmt .center_fmt { width: 375px !important;}
+						</style> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: April 10, 2013
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     true
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script type="text/javascript">
+				if (document.getElementById("headerLinks_print")) {
+				setClass('headerLinks_print','headerLinks_fmt_on');
+				};
+			</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+				#url_reference {display: none};
+				</style> 
+   <style media="print">
+				#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+				#logo_rdr img { visibility: visible; }
+				.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+				</style> 
+   <script type="text/javascript">
+					var insert1 = document.getElementById("ContentPane2");
+					var urlDiv = articleUrl();
+					if (insert1) {
+						insert1.appendChild(urlDiv);
+						}
+				</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1151"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/cold-and-flu/ear-infection/slideshow-anatomy-of-an-ear-infection" onclick="return sl(this,'','rltd-p-1151_1');">Photos: Anatomy of an Ear Infection</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cold-and-flu/slideshow-natural-cold-and-flu-remedies" onclick="return sl(this,'','rltd-p-1151_2');">Photos: Natural Cold Remedies That Work</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/cold-and-flu/slideshow-anatomy-of-a-sore-throat" onclick="return sl(this,'','rltd-p-1151_3');">Photos: Assess Your Sore Throat</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/cold-and-flu/cold-guide/earache-cold-ear-infection" onclick="return sl(this,'','rltd-p-1151_4');">Earache: Cold or Ear Infection?</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/cold-and-flu/ear-infection/understanding-otitis-media-basics" onclick="return sl(this,'','rltd-p-1151_5');">What Is an Ear Infection?</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/cold-and-flu/ear-infection/understanding-otitis-media-treatment" onclick="return sl(this,'','rltd-p-1151_6');">How to Treat an Ear Infection</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1151_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806afc9c" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806afc9c</chronic_id><r_object_id>091e9c5e806afc9c</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806afc9c.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/16/2010 10:50:23</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Ear Infection/template_Ear Infection_091e9c5e800d374c.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800d374c"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Child Ear Infections</name><link_title>Child Ear Infections</link_title><description>Ear infections in children are typically caused by a bacteria or a virus.  Symptoms include pain, fever, or trouble sleeping. Parents may notice children rubbing their ear. Ears may drain a yellowish fluid as well. Treatments for child ear infections may only involve home remedies and pain relievers, but some cases of ear infections require antibiotics or ear tubes if the infection is severe enough. Follow the links below to find WebMD's comprehensive coverage about how children get ear infections, how to treat them, signs of an ear infection, and much more.</description><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/child-ear-infections-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8000f0cf"><link_title>Novel Therapy Uses Bacteria to Protect Children From Ear Infections</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20010126/novel-therapy-uses-bacteria-to-protect-children-from-ear-infections</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cf7a"><link_title>Vaccine Helps Fight Ear Infections</link_title><friendly_url>http://www.webmd.com/parenting/news/20040907/vaccine-helps-fight-ear-infections</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8009f045"><link_title>Vaccine May Reduce Kids’ Ear Infections</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20070402/vaccine-may-cut-kids-ear-infections</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/Ear_Tubes_Hold_Off.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800071bc"><link_title>Some Kids More Susceptible to Ear Infections</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/19991207/some-children-susceptible-ear-infections</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011beb"><link_title>Kids' Ear Infections: Antibiotics vs. Waiting</link_title><friendly_url>http://www.webmd.com/parenting/news/20050606/kids-ear-infections-antibiotics-vs-waiting</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8019e2d8"><link_title>Ear Infection Accompanies 61% of Kids' Colds</link_title><friendly_url>http://www.webmd.com/children/news/20080314/ear-infection-in-61percent-of-kids-colds</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/March08/cold_ear_infection_link.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806afcca"><link_title>Ear Infections: Antibiotics Often Not Needed</link_title><friendly_url>http://www.webmd.com/children/news/20101115/ear-infections-antibiotics-often-not-needed</friendly_url><thumbnail height="" width="" alt="young boy getting ear checked by doctor">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_ear_infections_kids_antibiotics_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8071bc51"><link_title>Early Antibiotics Help Ear Infections in Young Children</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20110112/early-antibiotics-help-ear-infections-in-small-kids</friendly_url><thumbnail height="" width="" alt="Child getting ear exam">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/01_2011/69x75_ear_infections_antibiotics.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807397c1"><link_title>Secondhand Smoke Raises Kids’ Ear Infection Risk</link_title><friendly_url>http://www.webmd.com/children/news/20110128/secondhand-smoke-raises-kids-ear-infection-risk</friendly_url><thumbnail height="" width="" alt="young girl having ear examined">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/01_2011/69x75_secondhand_smoke_ear_infections.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ff98"><link_title>Bed-Wetting, Ear Infections? Fix the Jaw</link_title><friendly_url>http://www.webmd.com/baby/news/20030717/bed-wetting-ear-infections-fix-jaw</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800a5de3"><link_title>Obese Children: More Ear Problems?</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20070416/obese-children-more-ear-problems</friendly_url><thumbnail height="" width="" alt="ear exam">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/April07/obese_kids_ear_problems.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802d1f86"><link_title>Slideshow: Anatomy of an Ear Infection</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/ss/slideshow-ear-infection-anatomy</friendly_url><thumbnail height="" width="" alt="Boy holding ear">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/ear_infection_slideshow/69x75_ear_infection_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061afc1"><link_title>Should I have my child treated for chronic fluid behind the eardrum?</link_title><friendly_url>http://www.webmd.com/children/should-i-have-my-child-treated-for-chronic-fluid-behind-the-eardrum</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What are the symptoms of acute otitis media (middle ear infection)?</link_title><friendly_url>http://answers.webmd.com/answers/1174466/what-are-the-symptoms-of-acute</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is swimmer's ear?</link_title><friendly_url>http://answers.webmd.com/answers/1179155/what-is-swimmer-ear</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000f931"><link_title>Continuous Pacifier Use Linked to Ear Infections</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20000911/continuous-pacifier-use-linked-to-ear-infections</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006891"><link_title>All About Ear Infections</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/features/ear-infection</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80059d50"><link_title>Ear Tubes Not Always Needed</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20070118/ear-tubes-not-needed-news</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/Ear_Tubes_Hold_Off.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8042066b"><link_title>Air Quality Up, Ear Infections Down</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20091007/air-quality-up-ear-infections-down</friendly_url><thumbnail height="" width="" alt="better_air_better_ears_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/october_2009/better_air_better_ears_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e028"><link_title>Early Ear Tubes Bring Lasting Hearing Benefit</link_title><friendly_url>http://www.webmd.com/parenting/news/20050418/early-ear-tubes-bring-lasting-hearing-benefit</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f1df"><link_title>Ear Tube Delay Won't Hurt Kids' Development</link_title><friendly_url>http://www.webmd.com/parenting/news/20050810/ear-tube-delay-wont-hurt-kids-development</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d1f6"><link_title>What to Do About Ear Infections</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20010502/what-to-do-about-ear-infections</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010385"><link_title>Ear Drops Best for Swimmer's Ear</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20060331/ear-drops-best-for-swimmers-ear</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000a177"><link_title>Beware of Recreational Water Illnesses</link_title><friendly_url>http://www.webmd.com/fitness-exercise/features/beware-of-recreational-water-illnesses</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807edc6b"><link_title>Swimmer's Ear Costs U.S. Half a Billion Yearly</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20110519/swimmers-ear-costs-us-half-billion-yearly</friendly_url><thumbnail height="" width="" alt="Side view of child's ear">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/05_2011/69x75_swimmers_ear_in_us.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cb93"><link_title>Food Allergies May Be Linked to Ear Infection</link_title><friendly_url>http://www.webmd.com/allergies/news/20040622/food-allergies-may-be-linked-to-ear-infection</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007121"><link_title>ear infections &#45;&#45; daycare</link_title><friendly_url>http://www.webmd.com/asthma/news/20040510/ear-infections-asthma</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800103b1"><link_title>Cutting Antibiotics for Ear Infections</link_title><friendly_url>http://www.webmd.com/cold-and-flu/ear-infection/news/20060912/cutting-antibiotics-for-ear-infections</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/cold-and-flu/ear-infection/ss/slideshow-ear-infection-anatomy" onclick="return sl(this,'','td-rltd-art_1');">Slideshow: Anatomy of an Ear Infection</a></li>
+      <li><a href="http://answers.webmd.com/answers/1174466/what-are-the-symptoms-of-acute" onclick="return sl(this,'','td-rltd-art_2');">What are the symptoms of acute otitis media (middle ear infection)?</a></li>
+      <li><a href="http://www.webmd.com/children/should-i-have-my-child-treated-for-chronic-fluid-behind-the-eardrum" onclick="return sl(this,'','td-rltd-art_3');">Should I have my child treated for chronic fluid behind the eardrum?</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/features/ear-infection" onclick="return sl(this,'','td-rltd-art_4');">All About Ear Infections</a></li>
+      <li><a href="http://www.webmd.com/fitness-exercise/features/beware-of-recreational-water-illnesses" onclick="return sl(this,'','td-rltd-art_5');">Beware of Recreational Water Illnesses</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/cold-and-flu/ear-infection/child-ear-infections-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Child Ear Infections Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1917063149&amp;tile=1975224514&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1202&amp;pos=5000&amp;xpg=1830&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2fcold-and-flu%2fear-infection%2fear-infections-topic-overview&amp;artid=091e9c5e8001db53&amp;inst=0&amp;leaf=1440&amp;cc=16&amp;tmg=2&amp;bc=_m32_&amp;mcent=1439&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1917063149&amp;amp;tile=1975224514&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1202&amp;amp;pos=5000&amp;amp;xpg=1830&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fcold-and-flu%2fear-infection%2fear-infections-topic-overview&amp;amp;artid=091e9c5e8001db53&amp;amp;inst=0&amp;amp;leaf=1440&amp;amp;cc=16&amp;amp;tmg=2&amp;amp;bc=_m32_&amp;amp;mcent=1439&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1830";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1917063149&amp;tile=1975224514&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1202&amp;pos=5001&amp;xpg=1830&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2fcold-and-flu%2fear-infection%2fear-infections-topic-overview&amp;artid=091e9c5e8001db53&amp;inst=0&amp;leaf=1440&amp;cc=16&amp;tmg=2&amp;bc=_m32_&amp;mcent=1439&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1917063149&amp;amp;tile=1975224514&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1202&amp;amp;pos=5001&amp;amp;xpg=1830&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fcold-and-flu%2fear-infection%2fear-infections-topic-overview&amp;amp;artid=091e9c5e8001db53&amp;amp;inst=0&amp;amp;leaf=1440&amp;amp;cc=16&amp;amp;tmg=2&amp;amp;bc=_m32_&amp;amp;mcent=1439&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1830";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

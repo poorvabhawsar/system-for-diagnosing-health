@@ -1,0 +1,625 @@
+<title>Mumps-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/parenting/features/inside-look-at-the-teen-brain" onclick="return sl(this,'','tools-res_1');">What Makes Your Teen Tick?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/bedwetting-solutions-12/default.htm" onclick="return sl(this,'','tools-res_2');">How to Stop Bedwetting</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" class="type_ss" onclick="return sl(this,'','tools-res_3');">Allergy Relief: What You Need<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/children/digestion-in-children-11/constipation-treatment" onclick="return sl(this,'','tools-res_4');">Treating Constipation in Kids</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/preventative-health-vaccines" onclick="return sl(this,'','tools-res_5');">Protect Your Kids: Get Your Shots</a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-strep-symptoms" onclick="return sl(this,'','tools-res_6');">Strep Throat Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e98cbf" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e80a761e2</i_chronicle_id><r_object_id>091e9c5e80e98cbf</r_object_id><title>Topic Overview</title><object_name>mumps-topic_overview_special_hw180631.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e98cbf</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_hw180631</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Mumps-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is mumps? Mumps is a contagious viral infection that can cause painful swelling of the salivary glands,especially the parotid glands (between the ear and the jaw).  Some people with mumps won't have gland swelling.  They may feel like they have a bad cold or the flu instead.  Mumps usually goes away on its own in about 10 days.  But in some cases it can cause complications that affect the ...</wbmd_desc_meta><wbmd_orig_pub_dt>03/08/2013 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is mumps? Mumps is a contagious viral infection that can cause painful swelling of the salivary glands,especially the parotid glands (between the ear and the jaw).  Some people with mumps won't have gland swelling.  They may feel like they have a bad cold or the flu instead.  Mumps usually goes away on its own in about 10 days.  But in some cases it can cause complications that affect the ...</wbmd_desc_user><wbmd_lk_ttl>Mumps-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>measles mumps and rubella immunization,measles mumps rubella and varicella vaccine,MMR,MMR shot,MMRV,mumps,parotitis</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.1</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e98cbf</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3609" wbmd_disp_nm="Parenting"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1025" wbmd_disp_nm="Children"></wbmd_c_channel_id><wbmd_c_frnd_nm>Mumps-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="091e9c5e80d50665"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is mumps?</section_header><section_type>SpecialSection</section_type><section_text><p>Mumps is a contagious viral
+			 infection that can cause painful swelling of the
+			 <a chronic_id="091e9c5e8001b4d1" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/salivary_glands_definition_sts14221.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/salivary_glands_definition_sts14221.xml">salivary glands</a>, especially the
+			 <a chronic_id="091e9c5e8001ea1f" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/swollen_parotid_gland_multimedia_tp12688.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/swollen_parotid_gland_multimedia_tp12688.xml">parotid glands</a><a chronic_id="091e9c5e8001ea1f" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/swollen_parotid_gland_multimedia_tp12688.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/swollen_parotid_gland_multimedia_tp12688.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a> (between the ear and the jaw). Some people with mumps
+			 won't have gland swelling. They may feel like they have a bad cold or the <a chronic_id="091e9c5e80022f49" crossLinkId="521" directive="friendlyurl" externalId="091e9c5e80022f49" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cold and Flu/page_Cold and Flu Health Center_091e9c5e80022f49.xml" keywordId="7425" keywordSetId="1218" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cold and Flu/page_Cold and Flu Health Center_091e9c5e80022f49.xml">flu</a> instead.</p><p>Mumps usually goes away on its own in about 10 days. But in some cases, it can cause complications that affect the <a chronic_id="091e9c5e8041fa4e" crossLinkId="73853" directive="friendlyurl" externalId="091e9c5e8041fa4e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml" keywordId="60487" keywordSetId="26677" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml">brain</a> (<a chronic_id="091e9c5e8001af20" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/meningitis_definition_stm159376.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/meningitis_definition_stm159376.xml">meningitis</a>), the testicles (<a chronic_id="091e9c5e8001b1b1" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/orchitis_definition_sto167553.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/orchitis_definition_sto167553.xml">orchitis</a>), the ovaries (<a chronic_id="091e9c5e8001b45f" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/oophoritis_definition_sto17220.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/oophoritis_definition_sto17220.xml">oophoritis</a>), or the <a chronic_id="091e9c5e8034e371" crossLinkId="70312" directive="friendlyurl" externalId="091e9c5e8034e371" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_pancreas.xml" keywordId="58451" keywordSetId="25860" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_pancreas.xml">pancreas</a> (<a chronic_id="091e9c5e8001b52c" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/pancreatitis_definition_stp1287.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pancreatitis_definition_stp1287.xml">pancreatitis</a>).</p><p>The mumps <a chronic_id="091e9c5e807a4a1c" crossLinkId="1534853" directive="friendlyurl" externalId="091e9c5e807a4a1c" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Adult Vaccines TOC_091e9c5e807a4a1c/page_Adult Vaccines TOC_091e9c5e807a4a1c.xml" keywordId="72426" keywordSetId="9034" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Adult Vaccines TOC_091e9c5e807a4a1c/page_Adult Vaccines TOC_091e9c5e807a4a1c.xml">vaccine</a> protects against the illness. This vaccine is part of the MMR (measles, mumps, and rubella) and MMRV (measles, mumps, rubella, and varicella [chickenpox]) vaccines. Most children get the vaccine as part of their regular shots. Before the mumps vaccine existed, mumps was a common childhood disease
+			 in the United States and Canada.</p></section_text></section_group><section_group><section_header>What causes mumps?</section_header><section_type>SpecialSection</section_type><section_text><p>Mumps is spread when an
+			 infected person coughs or sneezes near you or shares food or drinks.</p><p>You can spread the virus 7 days before and for 9 days after symptoms start. You are most likely to spread the virus 1 to 2 days before and 5 days after symptoms start.</p></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p>Symptoms may include: </p><ul><li>Swelling and pain in the jaw. One or both cheeks may look swollen. </li><li>Fever.</li><li><a chronic_id="091e9c5e8002394a" crossLinkId="189" directive="friendlyurl" externalId="091e9c5e8002394a" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml" keywordId="7521" keywordSetId="1291" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml">Headache</a>, <a chronic_id="091e9c5e8014dba6" crossLinkId="52200" directive="friendlyurl" externalId="091e9c5e8014dba6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/cold_and_flu/overview_types_of/earache_cold_ear_infection.xml" keywordId="34812" keywordSetId="8701" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/cold_and_flu/overview_types_of/earache_cold_ear_infection.xml">earache</a>, <a chronic_id="091e9c5e8001e5ee" crossLinkId="49745" directive="friendlyurl" externalId="091e9c5e8001e5ee" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/sore_throat_and_other_throat_problems-topic_overview_symptom_hw101008.xml" keywordId="8318" keywordSetId="1884" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/sore_throat_and_other_throat_problems-topic_overview_symptom_hw101008.xml">sore throat</a>, and pain when
+			 you swallow or open your mouth.</li><li>Pain when you eat sour foods or
+			 drink sour liquids, such as citrus fruit or juice.</li><li>Tiredness,
+			 with aching in the muscles and joints.</li><li>Poor appetite and
+			 <a chronic_id="091e9c5e800079b6" crossLinkId="5629" directive="friendlyurl" externalId="091e9c5e800079b6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml" keywordId="38407" keywordSetId="9410" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml">vomiting</a>.</li></ul><p>It usually takes 2 to 3 weeks to get symptoms after you have been exposed to the virus. This is called the incubation period. Some people who are infected with the mumps
+			 virus don't have any symptoms.</p><p>If you have more serious symptoms, such as a stiff neck or a severe headache, painful testicles, or severe belly pain, call your doctor right away.</p></section_text></section_group><section_group><section_header>How is mumps diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>Mumps is usually diagnosed based on symptoms and a history of exposure to the virus. If needed, a <a chronic_id="091e9c5e8056ea80" crossLinkId="1506783" directive="friendlyurl" externalId="091e9c5e8056ea80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml" keywordId="62987" keywordSetId="28544" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml">blood</a> test can be done to confirm that you have mumps and rule out other illnesses.</p><p> The mumps virus can be identified with a
+			 <a chronic_id="091e9c5e8001b648" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/viral_culture_definition_stv5474.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/viral_culture_definition_stv5474.xml">viral culture</a> using a sample of urine, <a chronic_id="091e9c5e809c97c7" crossLinkId="1551689" directive="friendlyurl" externalId="091e9c5e809c97c7" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/dental_health/miscellaneous/saliva_and_your_mouth.xml" keywordId="70831" keywordSetId="31968" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/dental_health/miscellaneous/saliva_and_your_mouth.xml">saliva</a>, or
+			 <a chronic_id="091e9c5e8001b18f" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/cerebrospinal_fluid_csf_definition_stc123704.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/cerebrospinal_fluid_csf_definition_stc123704.xml">cerebrospinal fluid</a>. These tests are rarely done.</p><p>If you think that you or your child has mumps, be sure to call ahead and explain the symptoms before you go to a doctor's office. It's important to stay away from other people as much as you can so that you don't spread
+				the disease.</p></section_text></section_group><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>In most cases, people recover
+			 from mumps with rest and care at home. In complicated cases, a hospital stay
+			 may be required.</p></section_text></section_group></page><page><section_group><section_header is_continued="true">How is it treated? continued...</section_header><section_type>SpecialSection</section_type><section_text><p>If you or your child has mumps:</p><ul><li>Take medicine to help relieve fever or headache, if needed. Follow all instructions on the label. If you give medicine to a baby, follow your doctor's advice about what amount to give. <b>Do not give <a chronic_id="" crossLinkId="62757" directive="friendlyurl" externalId="3" href="http://www.webmd.com/drugs/mono-3-ASPIRIN+-+ORAL.aspx?drugid=1082&amp;drugname=Aspirin+Oral" keywordId="51236" keywordSetId="18875" object_type="" path="/webmdhttp://www.webmd.com/drugs/mono-3-ASPIRIN+-+ORAL.aspx?drugid=1082&amp;drugname=Aspirin+Oral">aspirin</a> to anyone younger than 20</b> because of the risk of <a chronic_id="091e9c5e8001af74" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/reye_syndrome_definition_str2377.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/reye_syndrome_definition_str2377.xml">Reye syndrome</a>.</li><li>Use ice or a heat pack (whichever feels better) on swollen, painful areas. Put a thin towel under the ice or heat to
+			 protect the <a chronic_id="091e9c5e80396037" crossLinkId="70837" directive="friendlyurl" externalId="091e9c5e80396037" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.xml" keywordId="60205" keywordSetId="26541" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.xml">skin</a>. </li><li>Drink extra fluids to help reduce fever and prevent
+			 <a chronic_id="091e9c5e8001b102" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/dehydration_in_children_definition_not60109.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/dehydration_in_children_definition_not60109.xml">dehydration</a>. </li><li>Suck on ice chips or flavored ice pops. Eat soft foods that don't require chewing.
+			 </li><li>Don't eat sour foods or drink sour liquids.</li></ul><p>Anyone who has mumps should stay out of school, <a chronic_id="091e9c5e80a9072d" crossLinkId="1563063" directive="friendlyurl" externalId="091e9c5e80a9072d" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/womens_health/pregnancy_app/getting_ready/choosing_child_care.xml" keywordId="33058" keywordSetId="8384" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/womens_health/pregnancy_app/getting_ready/choosing_child_care.xml">day care</a>, work, and public
+		 places until 5 days after the
+		 salivary glands first start to swell.<sup class="Reference"><a bookmark="zj1660" chronic_id="091e9c5e80a761e6" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-references_special_hw180629-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-references_special_hw180629-bib.xml">1</a></sup></p><p> In general, you don't need to separate the sick person from the rest of the family. By the time mumps is diagnosed, most household
+		 members have already been exposed.</p></section_text></section_group><section_group><section_header>Why is it important to prevent mumps?</section_header><section_type>SpecialSection</section_type><section_text><p>Getting your child vaccinated is important, because mumps can sometimes cause serious problems. It's also important because mumps is a contagious disease, and <a chronic_id="091e9c5e8001b377" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/outbreak_definition_sto17245.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/outbreak_definition_sto17245.xml">outbreaks</a> can easily occur. </p><p>False claims in the news have made some parents concerned about a link between <a chronic_id="091e9c5e8001b449" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/autism_definition_sta123364.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/autism_definition_sta123364.xml">autism</a> and vaccines. But studies have found <b>no</b> link between them.<sup class="Reference"><a bookmark="abk5898" chronic_id="091e9c5e80a761e6" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-references_special_hw180629-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-references_special_hw180629-bib.xml">2</a></sup></p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/children/tc/mumps-topic-overview" owner="false"><breadcrumb><bread piece="Children's Health" prefix="www" friendlyurl="/children/default.htm"></bread><bread piece="Children's Health Related Topics" prefix="www" friendlyurl="/children/tc/default.htm"></bread></breadcrumb><centers><Topic id="1262" name="tmg" chronicid="091e9c5e80a761e2" prefix="www" friendlyurl="/children/tc/mumps-topic-overview" type="Topic">Mumps</Topic><Super id="859" name="super center" chronicid="091e9c5e80024767" prefix="www" friendlyurl="/children/default.htm" type="">Children's Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/children/tc/mumps-topic-overview" owner="false"><breadcrumb><bread piece="Children's Health" prefix="www" friendlyurl="/children/default.htm"></bread><bread piece="Children's Health Related Topics" prefix="www" friendlyurl="/children/tc/default.htm"></bread></breadcrumb><centers><Topic id="11180" name="tmg" chronicid="091e9c5e80a761e2" prefix="www" friendlyurl="/children/tc/mumps-topic-overview" type="Topic">Mumps</Topic><Super id="11177" name="super center" chronicid="091e9c5e8068d722" prefix="www" friendlyurl="/children/default.htm" type="">Children</Super></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001b4d1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/salivary_glands_definition_sts14221.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/salivary-glands-7544"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/salivary-glands-7544"></target></object><object chronic_id="091e9c5e8001ea1f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/swollen_parotid_gland_multimedia_tp12688.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/oral-health/swollen-parotid-gland"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/oral-health/swollen-parotid-gland"></target></object><object chronic_id="091e9c5e80022f49" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cold and Flu/page_Cold and Flu Health Center_091e9c5e80022f49.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/cold-and-flu/default.htm"></target><target siteid="8" name="" prefix="www" friendlyurl="/cold-and-flu/default.htm" umtchronicleid="091e9c5e8068ab56"></target></object><object chronic_id="091e9c5e8041fa4e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/picture-of-the-brain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-brain"></target></object><object chronic_id="091e9c5e8001af20" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/meningitis_definition_stm159376.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/meningitis-7840"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/meningitis-7840"></target></object><object chronic_id="091e9c5e8001b1b1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/orchitis_definition_sto167553.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/orchitis"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/orchitis"></target></object><object chronic_id="091e9c5e8001b45f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/oophoritis_definition_sto17220.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/oophoritis"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/oophoritis"></target></object><object chronic_id="091e9c5e8034e371" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_pancreas.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-pancreas"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-pancreas"></target></object><object chronic_id="091e9c5e8001b52c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pancreatitis_definition_stp1287.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/pancreatitis"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/pancreatitis"></target></object><object chronic_id="091e9c5e807a4a1c" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Adult Vaccines TOC_091e9c5e807a4a1c/page_Adult Vaccines TOC_091e9c5e807a4a1c.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/vaccines/default.htm"></target></object><object chronic_id="091e9c5e8002394a" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/migraines-headaches/default.htm"></target></object><object chronic_id="091e9c5e8014dba6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/cold_and_flu/overview_types_of/earache_cold_ear_infection.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/cold-guide/earache-cold-ear-infection"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/cold-guide/earache-cold-ear-infection"></target></object><object chronic_id="091e9c5e8001e5ee" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/sore_throat_and_other_throat_problems-topic_overview_symptom_hw101008.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/tc/sore-throat-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/tc/sore-throat-topic-overview"></target></object><object chronic_id="091e9c5e800079b6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-nausea-vomiting"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-nausea-vomiting"></target></object><object chronic_id="091e9c5e8056ea80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/anatomy-picture-of-blood"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/anatomy-picture-of-blood"></target></object><object chronic_id="091e9c5e8001b648" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/viral_culture_definition_stv5474.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/viral-culture"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/viral-culture"></target></object><object chronic_id="091e9c5e809c97c7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/dental_health/miscellaneous/saliva_and_your_mouth.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/oral-health/what-is-saliva"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/oral-health/what-is-saliva"></target></object><object chronic_id="091e9c5e8001b18f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/cerebrospinal_fluid_csf_definition_stc123704.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/cerebrospinal-fluid-csf"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/cerebrospinal-fluid-csf"></target></object><object chronic_id="091e9c5e8001af74" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/reye_syndrome_definition_str2377.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/reyes-syndrome"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/reyes-syndrome"></target></object><object chronic_id="091e9c5e80396037" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/picture-of-the-skin"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/picture-of-the-skin"></target></object><object chronic_id="091e9c5e8001b102" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/dehydration_in_children_definition_not60109.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/dehydration-in-children-10154"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/dehydration-in-children-10154"></target></object><object chronic_id="091e9c5e80a9072d" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/womens_health/pregnancy_app/getting_ready/choosing_child_care.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/choosing-child-care"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/choosing-child-care"></target></object><object chronic_id="091e9c5e80a761e6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-references_special_hw180629-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/mumps-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/mumps-references"></target></object><object chronic_id="091e9c5e8001b377" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/outbreak_definition_sto17245.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/outbreak"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/outbreak"></target></object><object chronic_id="091e9c5e8001b449" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/autism_definition_sta123364.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/autism"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/autism"></target></object><object chronic_id="091e9c5e80a761e2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-topic_overview_special_hw180631.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/mumps-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/mumps-topic-overview"></target></object><object chronic_id="091e9c5e80a761e3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-frequently_asked_questions_special_abn0843.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/mumps-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/mumps-frequently-asked-questions"></target></object><object chronic_id="091e9c5e80a761e4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-other_places_to_get_help_special_hw180629-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/mumps-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/mumps-other-places-to-get-help"></target></object><object chronic_id="091e9c5e80a761e5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-related_information_special_hw180629-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/mumps-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/mumps-related-information"></target></object><object chronic_id="091e9c5e80a761e6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-references_special_hw180629-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/mumps-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/mumps-references"></target></object><object chronic_id="091e9c5e80a761e7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-credits_special_hw180629-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/mumps-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/mumps-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e80a76423" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/mumps_special_hw180629.wxml"></topic_outline><expanded_objects><object chronic_id="091e9c5e80d50665" path="/webmd/consumer_assets/editorial/short_text/call_outs/fully_programmed/health_care_reform/aca_preventive_screenings_newborns.wxml"><webmd_rendition_expanded><content_expanded><wbmd_asset_expanded object_type="wbmd_cons_shrt_txt" id="091e9c5e80d50c03"><metadata_section_expanded><i_chronicle_id>091e9c5e80d50665</i_chronicle_id><r_object_id>091e9c5e80d50c03</r_object_id><title>ACA Preventive Screenings - Newborns</title><object_name>aca_preventive_screenings_newborns.xml</object_name><content_template>consumer_article_ProgCallout.xml</content_template><r_object_id>091e9c5e80d50c03</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="104" wbmd_disp_nm="Article within Article"></wbmd_bus_ref><wbmd_cpyrt></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl></wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta></wbmd_desc_meta><wbmd_orig_pub_dt>nulldate</wbmd_orig_pub_dt><wbmd_desc_user></wbmd_desc_user><wbmd_lk_ttl></wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords></wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80d50c03</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4241" wbmd_disp_nm="Health Insurance and Affordable Care Act"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="8006" wbmd_disp_nm="Cymbalta - 8006"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><r_object_id>091e9c5e80d50c03</r_object_id><wbmd_c_cons_parent_obj_id></wbmd_c_cons_parent_obj_id><wbmd_c_cons_term></wbmd_c_cons_term><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_channel_id>1074</wbmd_c_channel_id></metadata_section_expanded><content_section_expanded><prog_callout><callout_title_bar>Did You Know?</callout_title_bar><component><component_title></component_title><component_thumbnail></component_thumbnail><component_thumbnail_link></component_thumbnail_link><component_text><p>Under the Affordable Care Act, many health insurance plans will provide free children’s preventive care services, including checkups, vaccinations and screening tests. <a href="http://www.webmd.com/health-insurance/insurance-plans/free-preventive-care-newborns" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/health-insurance/insurance-plans/free-preventive-care-newborns">Learn more</a>.</p><p><a href="http://www.webmd.com/health-insurance/default.htm" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/health-insurance/default.htm"><b>Health Insurance Center</b></a></p></component_text><break_section>0</break_section></component></prog_callout></content_section_expanded></wbmd_asset_expanded></content_expanded><friendlyurls_expanded></friendlyurls_expanded><referenced_objects_expanded></referenced_objects_expanded><container_hierarchy></container_hierarchy><expanded_objects_expanded></expanded_objects_expanded></webmd_rendition_expanded></object></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e80a761e2" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-topic_overview_special_hw180631.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e80a761e3" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-frequently_asked_questions_special_abn0843.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e80a761e4" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-other_places_to_get_help_special_hw180629-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e80a761e5" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-related_information_special_hw180629-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e80a761e6" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-references_special_hw180629-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e80a761e7" path="/webmd/consumer_assets/controlled_content/healthwise/special/mumps-credits_special_hw180629-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Mumps</title></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Mumps - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What is mumps?</h3>
+      <p>Mumps is a contagious viral infection that can cause painful swelling of the <a href="http://www.webmd.com/hw-popup/salivary-glands-7544" onclick="return sl(this,'hw','embd-lnk');">salivary glands</a>, especially the <a href="http://www.webmd.com/oral-health/swollen-parotid-gland" onclick="return sl(this,'','embd-lnk');">parotid glands</a> <a href="http://www.webmd.com/oral-health/swollen-parotid-gland" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a> (between the ear and the jaw). Some people with mumps won't have gland swelling. They may feel like they have a bad cold or the <a href="http://www.webmd.com/cold-and-flu/default.htm" onclick="return sl(this,'','embd-lnk');">flu</a> instead.</p>
+      <p xmlns:xalan="http://xml.apache.org/xalan">Mumps usually goes away on its own in about 10 days. But in some cases, it can cause complications that affect the <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a> (<a href="http://www.webmd.com/hw-popup/meningitis-7840" onclick="return sl(this,'hw','embd-lnk');">meningitis</a>), the testicles (<a href="http://www.webmd.com/hw-popup/orchitis" onclick="return sl(this,'hw','embd-lnk');">orchitis</a>), the ovaries (<a href="http://www.webmd.com/hw-popup/oophoritis" onclick="return sl(this,'hw','embd-lnk');">oophoritis</a>), or the <a href="http://www.webmd.com/digestive-disorders/picture-of-the-pancreas" onclick="return sl(this,'','embd-lnk');">pancreas</a> (<a href="http://www.webmd.com/hw-popup/pancreatitis" onclick="return sl(this,'hw','embd-lnk');">pancreatitis</a>).</p>
+      <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" />
+      <div class="aia_rdr rs_skip">
+       <div class="aia_top_fmt"> 
+       </div>
+       <div class="aia_border_fmt">
+        <div class="aia_title_bar_fmt">
+         <h4>Did You Know?</h4>
+         <div class="clearing_fmt"> 
+         </div>
+        </div>
+        <div class="aia_section_fmt">
+         <div class="aia_content_fmt">
+          <p>Under the Affordable Care Act, many health insurance plans will provide free children’s preventive care services, including checkups, vaccinations and screening tests. <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/health-insurance/insurance-plans/free-preventive-care-newborns">Learn more</a>.</p>
+          <p><a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/health-insurance/default.htm"><b>Health Insurance Center</b></a></p>
+         </div>
+        </div>
+        <div class="clearing_fmt"> 
+        </div>
+        <div class="clearing_fmt"> 
+        </div>
+       </div>
+       <div class="aia_bot_fmt"> 
+       </div>
+      </div>
+      <p>The mumps <a href="http://www.webmd.com/vaccines/default.htm" onclick="return sl(this,'','embd-lnk');">vaccine</a> protects against the illness. This vaccine is part of the MMR (measles, mumps, and rubella) and MMRV (measles, mumps, rubella, and varicella [chickenpox]) vaccines. Most children get the vaccine as part of their regular shots. Before the mumps vaccine existed, mumps was a common childhood disease in the United States and Canada.</p>
+      <h3>What causes mumps?</h3>
+      <p>Mumps is spread when an infected person coughs or sneezes near you or shares food or drinks.</p>
+      <p>You can spread the virus 7 days before and for 9 days after symptoms start. You are most likely to spread the virus 1 to 2 days before and 5 days after symptoms start.</p>
+      <h3>What are the symptoms?</h3>
+      <p>Symptoms may include: </p>
+      <ul>
+       <li>Swelling and pain in the jaw. One or both cheeks may look swollen. </li>
+       <li>Fever.</li>
+       <li><a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">Headache</a>, <a href="http://www.webmd.com/cold-and-flu/cold-guide/earache-cold-ear-infection" onclick="return sl(this,'','embd-lnk');">earache</a>, <a href="http://www.webmd.com/cold-and-flu/tc/sore-throat-topic-overview" onclick="return sl(this,'','embd-lnk');">sore throat</a>, and pain when you swallow or open your mouth.</li>
+       <li>Pain when you eat sour foods or drink sour liquids, such as citrus fruit or juice.</li>
+       <li>Tiredness, with aching in the muscles and joints.</li>
+       <li>Poor appetite and <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting" onclick="return sl(this,'','embd-lnk');">vomiting</a>.</li>
+      </ul>
+      <p>It usually takes 2 to 3 weeks to get symptoms after you have been exposed to the virus. This is called the incubation period. Some people who are infected with the mumps virus don't have any symptoms.</p>
+      <p>If you have more serious symptoms, such as a stiff neck or a severe headache, painful testicles, or severe belly pain, call your doctor right away.</p>
+      <h3>How is mumps diagnosed?</h3>
+      <p>Mumps is usually diagnosed based on symptoms and a history of exposure to the virus. If needed, a <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> test can be done to confirm that you have mumps and rule out other illnesses.</p>
+      <p> The mumps virus can be identified with a <a href="http://www.webmd.com/hw-popup/viral-culture" onclick="return sl(this,'hw','embd-lnk');">viral culture</a> using a sample of urine, <a href="http://www.webmd.com/oral-health/what-is-saliva" onclick="return sl(this,'','embd-lnk');">saliva</a>, or <a href="http://www.webmd.com/hw-popup/cerebrospinal-fluid-csf" onclick="return sl(this,'hw','embd-lnk');">cerebrospinal fluid</a>. These tests are rarely done.</p>
+      <p>If you think that you or your child has mumps, be sure to call ahead and explain the symptoms before you go to a doctor's office. It's important to stay away from other people as much as you can so that you don't spread the disease.</p>
+      <h3>How is it treated?</h3>
+      <p>In most cases, people recover from mumps with rest and care at home. In complicated cases, a hospital stay may be required.</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/children/tc/mumps-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/children/tc/mumps-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/children/tc/mumps-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/children/tc/mumps-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/children/tc/mumps-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/children/tc/mumps-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: March 08, 2013
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/children/tc/mumps-topic-overview">Topic Overview</option><option value="http://www.webmd.com/children/tc/mumps-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/children/tc/mumps-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/children/tc/mumps-related-information">Related Information</option><option value="http://www.webmd.com/children/tc/mumps-references">References</option><option value="http://www.webmd.com/children/tc/mumps-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Mumps Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/children/tc/mumps-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/children/tc/mumps-frequently-asked-questions" onclick="return sl(this,'','topicNav_2');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/children/tc/mumps-other-places-to-get-help" onclick="return sl(this,'','topicNav_3');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/children/tc/mumps-related-information" onclick="return sl(this,'','topicNav_4');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/children/tc/mumps-references" onclick="return sl(this,'','topicNav_5');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/children/tc/mumps-credits" onclick="return sl(this,'','topicNav_6');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-859"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/parenting/bedwetting-solutions-12/bedwetting-stress-anxiety" onclick="return sl(this,'','rltd-p-859_1');">Can Stress Lead to Bedwetting?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/healthy-aging/drug-costs-12/save-money-prescription-drugs" onclick="return sl(this,'','rltd-p-859_2');">How to Save Money on Prescriptions</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/parenting/answers-health/answers-sick-from-school" onclick="return sl(this,'','rltd-p-859_3');">When Is a Child Too Sick for School?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0812&amp;ch=3" onclick="return sl(this,'','rltd-p-859_4');">How Important Is Fluoride for Kids' Teeth?</a> </li> 
+     <li id="x66"> <a href="http://children.webmd.com/digestion-in-children-11/fiber-rich-lunch" onclick="return sl(this,'','rltd-p-859_5');">Fiber-Rich Lunch Ideas for Kids</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0001" onclick="return sl(this,'','rltd-p-859_6');">What Causes Ringworm?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-859_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1262788026&amp;tile=656845865&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5000&amp;xpg=3609&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fchildren%2ftc%2fmumps-topic-overview&amp;artid=091e9c5e80a761e2&amp;inst=0&amp;leaf=1262&amp;cc=16&amp;tmg=1&amp;bc=_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1262788026&amp;amp;tile=656845865&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5000&amp;amp;xpg=3609&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fchildren%2ftc%2fmumps-topic-overview&amp;amp;artid=091e9c5e80a761e2&amp;amp;inst=0&amp;amp;leaf=1262&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3609";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1262788026&amp;tile=656845865&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5001&amp;xpg=3609&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fchildren%2ftc%2fmumps-topic-overview&amp;artid=091e9c5e80a761e2&amp;inst=0&amp;leaf=1262&amp;cc=16&amp;tmg=1&amp;bc=_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1262788026&amp;amp;tile=656845865&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5001&amp;amp;xpg=3609&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fchildren%2ftc%2fmumps-topic-overview&amp;amp;artid=091e9c5e80a761e2&amp;amp;inst=0&amp;amp;leaf=1262&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3609";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

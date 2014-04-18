@@ -1,0 +1,483 @@
+<title>Heart Failure Symptoms</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tool-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/heart-disease/heart-failure/checking-your-weight-when-you-have-heart-failure" onclick="return sl(this,'','tool-res_1');">Heart Failure: Check Your Weight</a></li>
+      <li id="x57"><a href="http://www.webmd.com/heart-disease/heart-failure/eating-less-sodium-when-you-have-heart-failure" onclick="return sl(this,'','tool-res_2');">Heart Failure? Eat Less Sodium</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/heart-disease/slideshow-foods-to-save-your-heart" class="type_ss" onclick="return sl(this,'','tool-res_3');">24 Foods to Help Your Heart<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/a-to-z-guides/wound-care-10/calling-911" onclick="return sl(this,'','tool-res_4');">Before You Call 911</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/hypertension-high-blood-pressure/slideshow-lowering-blood-pressure-exercise-tips" class="type_ss" onclick="return sl(this,'','tool-res_5');">Ways to Lower Hypertension<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/heart-disease/heart-failure/watching-your-fluid-intake-when-you-have-heart-failure" onclick="return sl(this,'','tool-res_6');">How to Monitor Fluids</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tool-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="article_rdr"> 
+    <div id="readspeaker_area" style="display: none;"> 
+     <div id="readspeaker_button1" class="rs_skip"> 
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /> </a> 
+     </div> 
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript">
+    </script> 
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:1});
+                    });
+                })();
+                </script> 
+     <div id="xp1"> 
+     </div> 
+    </div> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Heart Failure Symptoms</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <h3>What Are Heart Failure Symptoms?</h3> 
+     <p>You may not have any heart failure symptoms, or the symptoms may be mild to severe. Symptoms can be constant or can come and go. <a href="http://www.webmd.com/heart-disease/heart-failure/default.htm" onclick="return sl(this,'','embd-lnk');">Heart failure</a> symptoms are related to the changes that occur to your heart and body, and the severity depends on how weak your heart is. The symptoms can include:</p> 
+     <ul type="disc"> 
+      <li> <b>Congested lungs.</b> A weak heart causes fluid to back up in the lungs. This can cause shortness of breath with exercise or difficulty breathing at rest or when lying flat in bed. Lung congestion can also cause a dry, hacking cough or wheezing.</li> 
+      <li> <b>Fluid and water retention.</b> A weak heart pumps less blood to your kidneys and causes fluid and water retention, resulting in swollen ankles, legs, and abdomen (called edema) and <a href="http://www.webmd.com/diet/old-diet-toc" onclick="return sl(this,'','embd-lnk');">weight gain</a>. This can also cause an increased need to urinate during the night as your body attempts to get rid of this excess fluid. Bloating in your stomach may cause a loss of appetite or nausea.</li> 
+      <li> <a href="http://www.webmd.com/brain/tc/dizziness-lightheadedness-and-vertigo-topic-overview" onclick="return sl(this,'','embd-lnk');"> <b>Dizziness</b> </a> <b>, fatigue, and weakness.</b> Less blood to your major organs and muscles makes you feel tired and weak. Less blood to the brain can cause dizziness or confusion.</li> 
+      <li> <b>Rapid or irregular heartbeats.</b> The heart beats faster to pump enough blood to the body. This can cause a fast or irregular heartbeat.</li> 
+     </ul> 
+     <p xmlns:xalan="http://xml.apache.org/xalan">If you have heart failure, you may have one or all of these symptoms or you may have none of them. In addition, your symptoms may not be related to how weak your heart is; you may have many symptoms but your heart function may be only mildly weakened. Or you may have a more severely damaged heart but have few symptoms.</p> 
+     <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" /> 
+     <div class="aia_rdr rs_skip"> 
+      <div class="aia_top_fmt"> 
+      </div> 
+      <div class="aia_border_fmt"> 
+       <div class="aia_title_bar_fmt"> 
+        <h4>Recommended Related to Heart Failure</h4> 
+        <div class="clearing_fmt"> 
+        </div> 
+       </div> 
+       <p class="aia_read_full_fmt"> <a href="http://www.webmd.com/heart-disease/heart-failure/heart-failure-recognizing-burnout-caregiver" onclick="return sl(this,'','aia-related');">Heart Failure and Caregiver Burnout</a> </p> 
+       <div class="aia_section_fmt"> 
+        <div class="aia_content_fmt"> 
+         <p>Caregiver burnout is a state of physical, emotional, and mental exhaustion that may be accompanied by a change in attitude -- from positive and caring to negative and unconcerned. Burnout can occur when caregivers don't get the help they need, or if they try to do more than they are able -- either physically or financially. Caregivers who are &quot;burned out&quot; may experience fatigue, stress, anxiety, and depression. Many caregivers also feel guilty if they spend time on themselves rather than on their...</p> 
+        </div> 
+       </div> 
+       <p class="aia_read_full_fmt"> <a href="http://www.webmd.com/heart-disease/heart-failure/heart-failure-recognizing-burnout-caregiver" onclick="return sl(this,'','aia-related');">Read the Heart Failure and Caregiver Burnout article &gt; &gt;</a> </p> 
+       <div class="clearing_fmt"> 
+       </div> 
+      </div> 
+      <div class="aia_bot_fmt"> 
+      </div> 
+     </div> 
+     <script type="text/javascript">$(function(){
+  if(typeof(s_sponsor_program) != 'undefined' ){
+    /* remove aia if in a sponsored program */
+    if(s_sponsor_program != ""){$(".aia_rdr").remove()}
+  }
+});</script> 
+     <h3>How Can I Lessen My Heart Failure Symptoms?</h3> 
+     <p>To lessen symptoms of heart failure:</p> 
+     <ul> 
+      <li> <b>Maintain fluid balance.</b> Your doctor may ask you to keep a record of the amount of fluids you drink or eat and how often you go to the bathroom. Remember, the more fluid you carry in your blood vessels, the harder your heart must work to pump excess fluid through your body. Limiting your fluid intake to less than two liters per day will help decrease the workload of your heart and prevent symptoms from recurring.</li> 
+      <li> <b>Limit how much salt (sodium) you eat.</b> </li> 
+      <li> <b>Monitor your weight and lose weight if needed.</b> Learn what your &quot;dry&quot; or &quot;ideal&quot; weight is. This is your weight without extra fluid. Your goal is to keep your weight within four pounds of your dry weight. Weigh yourself at the same time each day, preferably in the morning, in similar clothing, after urinating but before eating, and on the same scale. Record your weight in a diary or calendar. If you gain 2 pounds in one day or 5 pounds in one week, call your doctor. Your doctor may want to adjust your medications.</li> 
+      <li> <b>Monitor your symptoms.</b> Call your doctor if new symptoms occur or if your symptoms worsen. Do <em>not</em> wait for your symptoms to become so severe that you need to seek emergency treatment.</li> 
+      <li> <b>Take your medications as prescribed.</b> Drugs are used to improve your heart's ability to pump blood, decrease stress on your heart, decrease the progression of heart failure, and prevent fluid retention. Many heart failure drugs are used to decrease the release of harmful hormones. These drugs will cause your blood vessels to dilate or relax (thereby lowering your blood pressure).</li> 
+     </ul> 
+     <p>&nbsp;</p> 
+    </div> 
+   </div> 
+   <link type="text/css" rel="stylesheet" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/contextual_related_links.css" /> 
+   <div class="other_context_links_rdr contextual_links_fmt"> 
+    <h4></h4> 
+    <p> <b> <a href="http://www.webmd.com/hypertension-high-blood-pressure/hypertension-health-check/default.htm" onclick="return sl(this,'','embd-lnk');">Is Your Blood Pressure in Check?</a> </b> </p> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="articlesPulldown_fmt"> 
+    <script type="text/javascript" language="javascript">
+				var externalUrlList = new Array(
+			'xxx');
+		</script> 
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)" style="padding-top:5px;">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/heart-disease/heart-failure/heart-failure-overview">Overview </option><option value="http://www.webmd.com/heart-disease/heart-failure/heart-failure-symptoms">Symptoms </option><option value="http://www.webmd.com/heart-disease/heart-failure/heart-failure-diagnosis">Diagnosis </option><option value="http://www.webmd.com/heart-disease/heart-failure/heart-failure-treatment">Treatment &amp; Care </option><option value="http://www.webmd.com/heart-disease/heart-failure/living-with-heart-failure">Living &amp; Managing </option><option value="http://www.webmd.com/heart-disease/heart-failure/faq-heart-failure">FAQ </option></select>
+     <input name="submit" value="Go" alt="Go" align="top" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/articlePulldownGoBtn.gif" type="image" />
+    </form> 
+   </div> 
+   <script type="text/javascript" language="JavaScript">
+				selectNextArticle('NextTopicPulldown',s_furl);
+		</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt"> 
+     <div class="viewSource_fmt"> 
+      <a href="" onclick="toggle('sourceText_fmt','sources_sign_fmt'); return false;">View Article Sources <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/todaysNews_plusSign.gif" alt="Sources" align="top" border="0" id="sources_sign_fmt" /></a> 
+     </div> 
+     <div style="display:none;" id="sourceText_fmt"> 
+      <p>SOURCES:<br /> The Cleveland Clinic Heart and Vascular Institute.<br /> American College of Cardiology.<br /> American Heart Association.</p> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+      Reviewed by 
+     <a onclick="return sl(this,'','prog-lnk');" href="http://www.webmd.com/thomas-maddox">Thomas M. Maddox, MD</a> on May 28, 2012
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 2012 WebMD, LLC. All rights reserved.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script type="text/javascript">
+				if (document.getElementById("headerLinks_print")) {
+				setClass('headerLinks_print','headerLinks_fmt_on');
+				};
+			</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+				#url_reference {display: none};
+				</style> 
+   <style media="print">
+				#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+				#logo_rdr img { visibility: visible; }
+				.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+				</style> 
+   <script type="text/javascript">
+					var insert1 = document.getElementById("ContentPane2");
+					var urlDiv = articleUrl();
+					if (insert1) {
+						insert1.appendChild(urlDiv);
+						}
+				</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1055"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/smoking-cessation/quit-smoking-10/slideshow-tips-quit-smoking" onclick="return sl(this,'','rltd-p-1055_1');">Quit Smoking: Help for the First Hard Days</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cholesterol-management/cholesterol-health-check/default.htm" onclick="return sl(this,'','rltd-p-1055_2');">Cholesterol Concerns? Assess Yourself</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/diet/slideshow-omega-3-health-benefits" onclick="return sl(this,'','rltd-p-1055_3');">The Truth About Omega-3</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/hypertension-high-blood-pressure/slideshow-lowering-blood-pressure-exercise-tips" onclick="return sl(this,'','rltd-p-1055_4');">See Simple Ways to Lower Blood Pressure </a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/heart-disease/slideshow-foods-to-save-your-heart" onclick="return sl(this,'','rltd-p-1055_5');">24 Foods That Can Save Your Heart</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/sleep-disorders/sleep-apnea/treating-sleep-apnea/dangers" onclick="return sl(this,'','rltd-p-1055_6');">Heart Disease: A Risk of Sleep Apnea?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1055_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=399772138&tile=1481050870&tug=&pug=__&site=2&affiliate=20&hcent=968&scent=948&pos=113&xpg=4030&sec=4030&amp;au1=1&au2=8|18|17|16|15&uri=%2fheart-disease%2fheart-failure%2fheart-failure-symptoms&artid=091e9c5e800ab28c&inst=0&amp;leaf=1387&segm=0&cc=16&tmg=2&bc=_i_j10_k_diet_&mcent=1386&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'399772138',
+                    tile:'1481050870',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "4030";
+      var secTopId = "4030";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=399772138&amp;tile=1481050870&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=968&amp;scent=948&amp;pos=5001&amp;xpg=4030&amp;sec=4030&amp;au1=1&amp;au2=8|18|17|16|15&amp;uri=%2fheart-disease%2fheart-failure%2fheart-failure-symptoms&amp;artid=091e9c5e800ab28c&amp;inst=0&amp;leaf=1387&amp;cc=16&amp;tmg=2&amp;bc=_i_j10_k_diet_&amp;mcent=1386&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=399772138&amp;amp;tile=1481050870&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=968&amp;amp;scent=948&amp;amp;pos=5001&amp;amp;xpg=4030&amp;amp;sec=4030&amp;amp;au1=1&amp;amp;au2=8|18|17|16|15&amp;amp;uri=%2fheart-disease%2fheart-failure%2fheart-failure-symptoms&amp;amp;artid=091e9c5e800ab28c&amp;amp;inst=0&amp;amp;leaf=1387&amp;amp;cc=16&amp;amp;tmg=2&amp;amp;bc=_i_j10_k_diet_&amp;amp;mcent=1386&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4030";
+			var secTopId = "4030";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

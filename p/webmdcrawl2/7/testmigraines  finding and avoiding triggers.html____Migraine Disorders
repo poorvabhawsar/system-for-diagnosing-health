@@ -1,0 +1,873 @@
+<title>Migraines: Finding and Avoiding Triggers</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/migraines-headaches/guide/ocular-migraine-basics" onclick="return sl(this,'','tools-res_1');">Ocular Migraines</a></li>
+      <li id="x57"><a href="http://www.webmd.com/pain-management/chronic-pain-11/slideshow-pain-tips" class="type_ss" onclick="return sl(this,'','tools-res_2');">10 Tips to Curb Chronic Pain<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/migraines-headaches/slideshow-migraine-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">Migraines: A Visual Guide<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/migraines-headaches/slideshow-surprising-headache-triggers" class="type_ss" onclick="return sl(this,'','tools-res_4');">Surprising Headache Triggers<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/migraines-headaches/guide/migraine-phases" onclick="return sl(this,'','tools-res_5');">The Four Phases of a Migraine</a></li>
+      <li id="x61"><a href="http://www.webmd.com/migraines-headaches/guide/hormones-headaches" onclick="return sl(this,'','tools-res_6');">Migraines, Headaches, and Hormones</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="actionset"> 
+    <div class="action_top"> 
+    </div> 
+    <div class="action_mid"> 
+     <div class="page page_1"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 1 of 6
+       </div> 
+       <a href="#6" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#2" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Migraines: Finding and Avoiding Triggers
+       </div> 
+       <div class="as_content"> 
+        <p>The best way to manage <a href="http://www.webmd.com/hw-popup/migraine-headaches" onclick="return sl(this,'hw','embd-lnk');">migraine headaches</a> is to avoid them. And to avoid them, you need to know what things (or triggers) bring them on. By finding and avoiding your triggers, you can limit how often you get migraines and how bad they are.</p> 
+        <p>Try to avoid as many triggers as you can. Triggers add up, so the fewer you have at one time, the better your chance of preventing a <a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">migraine</a>.</p> 
+        <p>To manage your migraines:</p> 
+        <ul> 
+         <li>Use a <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa164142.pdf">headache diary</a><span class="NoWebPrint"><a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa164142.pdf"></a></span><span class="NoWebPrint"><span class="Size1">(What is a <a href="http://www.webmd.com/hw-popup/pdf-document" onclick="return sl(this,'hw','embd-lnk');">PDF</a> document?)</span></span> to find your <a href="http://www.webmd.com/migraines-headaches/avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">migraine triggers</a>.</li> 
+         <li>Make sure you <a href="http://www.webmd.com/sleep-disorders/default.htm" onclick="return sl(this,'','embd-lnk');">sleep</a>, <a href="http://www.webmd.com/fitness-exercise/default.htm" onclick="return sl(this,'','embd-lnk');">exercise</a>, and eat on a regular schedule.</li> 
+         <li> Don't eat foods that are likely to trigger a migraine.</li> 
+         <li>Manage <a href="http://www.webmd.com/hw-popup/stress" onclick="return sl(this,'hw','embd-lnk');">stress</a>.</li> 
+         <li>Avoid <a href="http://www.webmd.com/smoking-cessation/default.htm" onclick="return sl(this,'','embd-lnk');">smoking</a> and <a href="http://www.webmd.com/hw-popup/secondhand-smoke" onclick="return sl(this,'hw','embd-lnk');">secondhand smoke</a>.</li> 
+        </ul> 
+        <p> <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/what.gif" alt="what.gif" align="" style="" /> </a>&nbsp;<a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">What are common migraine triggers?</a><br /><a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">Why identify and avoid migraine triggers?</a><br /><a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">How do you identify and avoid headache triggers?</a><br /><a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br /></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#2" class="ac_next">What are common migraine triggers?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_2" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 2 of 6
+       </div> 
+       <a href="#1" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#3" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        What are common migraine triggers?
+       </div> 
+       <div class="as_content"> 
+        <p>Migraines may be triggered by food, stress, and changes in your daily routine.</p> 
+        <h4>The most common migraine triggers are:</h4> 
+        <ul> 
+         <li>Stress (either during a stressful time or right after stress subsides).</li> 
+         <li> <a href="http://www.webmd.com/hw-popup/menstrual-cycle" onclick="return sl(this,'hw','embd-lnk');">Menstrual cycle</a> in women.</li> 
+         <li>Changes in your routine, such as how much you exercise or how much you sleep.</li> 
+         <li> <a href="http://www.webmd.com/food-recipes/guide/fasting" onclick="return sl(this,'','embd-lnk');">Fasting</a> or skipping meals.</li> 
+         <li>Changes in the weather, heat, or high humidity.</li> 
+         <li>Bright lights, glare, or reflected sunlight.</li> 
+         <li>Foods, such as chocolate.</li> 
+         <li>Alcohol—all alcohol, or one type of alcohol in particular, like beer or wine.</li> 
+         <li>Odors such as perfume, paint, dust, and certain flowers.</li> 
+        </ul> 
+        <h4>Other migraine triggers include:</h4> 
+        <ul> 
+         <li>Strong emotions, such as <a href="http://www.webmd.com/hw-popup/depression" onclick="return sl(this,'hw','embd-lnk');">depression</a> or <a href="http://www.webmd.com/hw-popup/anxiety-disorders" onclick="return sl(this,'hw','embd-lnk');">anxiety</a>.</li> 
+         <li>Pushing yourself too hard when you exercise.</li> 
+         <li>Aspartame.</li> 
+         <li>Monosodium glutamate (MSG).</li> 
+         <li>Nitrates, which are found in cured meats such as hot dogs, bacon, and cold cuts.</li> 
+         <li>Tyramines, which are found in pickled or marinated foods, aged cheeses, and yeast.</li> 
+         <li>Smoking or being around someone who smokes.</li> 
+         <li>Excessive <a href="http://www.webmd.com/balance/caffeine-myths-and-facts" onclick="return sl(this,'','embd-lnk');">caffeine</a> or caffeine withdrawal.</li> 
+         <li> <a href="http://www.webmd.com/sex/birth-control/birth-control-pills" onclick="return sl(this,'','embd-lnk');">Birth control pills</a> and hormone therapy.</li> 
+         <li>Medicines that expand (dilate) the <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> vessels (vasodilators), such as nifedipine, and nitrates.</li> 
+         <li>Overuse of headache pain medicines, leading to <a href="http://www.webmd.com/hw-popup/rebound-headache" onclick="return sl(this,'hw','embd-lnk');">rebound headaches</a>.</li> 
+        </ul> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Skipping meals, drinking red wine, sleeping in very late, seeing reflected sunlight in your car's side-view mirror, and rainy days could all be migraine triggers.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0What');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0What');" />False
+         </form> 
+         <a name="fms_answer5"> </a> 
+         <div id="answer0What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />A migraine trigger is anything that can lead to a headache and symptoms such as nausea and sensitivity to light and sound. Triggers vary from person to person and from headache to headache in the same person. The triggers listed are common migraine triggers in many people.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />A migraine trigger is anything that can lead to a headache and symptoms such as nausea and sensitivity to light and sound. Triggers vary from person to person and from headache to headache in the same person. The triggers listed are common migraine triggers in many people.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a> <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">Why identify and avoid migraine triggers?</a><br />Return to <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">Migraines: Finding and Avoiding Triggers</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#3" class="ac_next">Why identify and avoid migraine triggers?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_3" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 3 of 6
+       </div> 
+       <a href="#2" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#4" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Why identify and avoid migraine triggers?
+       </div> 
+       <div class="as_content"> 
+        <p>Finding out your triggers and avoiding them can help you have fewer migraines and can improve the quality of your life.</p> 
+        <p>Keeping a headache diary might seem boring and pointless at first. But by listing things such as what you eat and drink and when you exercise, you may see a pattern to your headaches. This will help you know what to avoid so that you can have fewer migraines.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Knowing what triggers your migraines can help improve the quality of your life.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0Why');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0Why');" />False
+         </form> 
+         <a name="fms_answer2"> </a> 
+         <div id="answer0Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Finding out what leads to a migraine helps you avoid the trigger and reduce the number of headaches you have. You may miss less work and school and improve the quality of your life.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Finding out what leads to a migraine helps you avoid the trigger and reduce the number of headaches you experience. You may miss less work and school and improve the quality of your life.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a> <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">How do you identify and avoid headache triggers?</a><br />Return to <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">Migraines: Finding and Avoiding Triggers</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#4" class="ac_next">How do you identify and avoid headache triggers?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_4" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 4 of 6
+       </div> 
+       <a href="#3" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#5" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        How do you identify and avoid headache triggers?
+       </div> 
+       <div class="as_content"> 
+        <p>You can find out what your triggers are by keeping a headache diary and trying to follow a routine every day.</p> 
+        <h4>Use a headache diary</h4> 
+        <p>In a <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa164142.pdf">headache diary</a><span class="NoWebPrint"><a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa164142.pdf"></a></span><span class="NoWebPrint"><span class="Size1">(What is a <a href="http://www.webmd.com/hw-popup/pdf-document" onclick="return sl(this,'hw','embd-lnk');">PDF</a> document?)</span></span>, you write down:</p> 
+        <ul> 
+         <li>What you eat and drink.</li> 
+         <li>What type of exercise you do and when you do it.</li> 
+         <li>The overall state of your health.</li> 
+         <li>What the weather is like (hot or cold, rainy).</li> 
+         <li>Other things that might affect your headaches, such as strong feelings or stressful events.</li> 
+         <li>When you get a headache and how bad it is.</li> 
+         <li>What medicine you take when you get a headache, and how well it works.</li> 
+        </ul> 
+        <p> Over time, you may see a pattern to your headaches. For example, maybe you get a headache after you drink wine or eat a certain food.</p> 
+        <p>It may take only a few months before you can find your headache triggers. When you find your triggers, you can take steps to avoid them.</p> 
+        <h4>Keep to a daily routine</h4> 
+        <p>Doing the same things every day and at the same times can help you find triggers. If you change your routine and get a migraine, then you may have found a trigger. To keep a routine, try to:</p> 
+        <ul> 
+         <li> <b>Get regular exercise.</b> If you do have a migraine while you exercise, write down the activity you were doing, the weather, and what you ate that day.</li> 
+         <li> <b>Keep regular sleep patterns.</b> Sleeping too much or too little can trigger migraines. If you do get a headache when your sleep pattern has changed, this may be a trigger that you can control.</li> 
+         <li> <b>Watch what you eat.</b> Many foods—such as cheese, red wine, chocolate, and foods or drinks with caffeine—are migraine triggers.</li> 
+         <li> <b>Eat regularly.</b> Skipping meals leads to migraines in many people. Try to eat on a regular schedule, and have <a href="http://www.webmd.com/parenting/tc/healthy-eating-for-children-topic-overview" onclick="return sl(this,'','embd-lnk');">healthy snacks</a> if you get hungry.</li> 
+         <li> <b>Drink plenty of fluids</b>, enough so that your urine is light yellow or clear like water. This is especially important when you exercise. Not getting enough water can trigger a headache.</li> 
+         <li> <b>Manage your stress</b> as best you can. Many people get a migraine <b>after</b> a stressful event is over. You may not be able to control stressful events, but you may be able to control how you react to them. <a href="http://www.webmd.com/a-to-z-guides/progressive-muscle-relaxation-topic-overview" onclick="return sl(this,'','embd-lnk');">Relaxation exercises</a> or <a href="http://www.webmd.com/hw-popup/biofeedback" onclick="return sl(this,'hw','embd-lnk');">biofeedback</a> may help reduce your stress level.</li> 
+        </ul> 
+        <p>You can't control some triggers, such as changes in the weather and in your hormones (during <a href="http://www.webmd.com/baby/default.htm" onclick="return sl(this,'','embd-lnk');">pregnancy</a> or menstrual cycles). But knowing that these things trigger your migraines may help you have a plan in place when you are around your triggers.</p> 
+        <p>Triggers add up, so if you can limit your triggers, you may be able to prevent a headache or reduce the pain when you get one. For example, if it's hot outside (and hot weather is a trigger for you), make sure to drink enough water so that you don't get dehydrated. While you're in the heat, you also may want to avoid any foods that you know are triggers for you.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Keeping a daily headache diary can help you find triggers such as foods, stress, changes in your sleep patterns, hormonal changes, weather changes, or medicines.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0How');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0How');" />False
+         </form> 
+         <a name="fms_answer11"> </a> 
+         <div id="answer0How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br /> To find your triggers, you need to keep a record of your migraines. This includes information about things that may have led to each headache. Knowing your triggers can help you learn to avoid them and can reduce the number of migraines you have.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br /> To find your triggers, you need to keep a record of your migraines. This includes information about things that may have led to each headache. Knowing your triggers can help you learn to avoid them and can reduce the number of migraines you have.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a> <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br />Return to <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">Migraines: Finding and Avoiding Triggers</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#5" class="ac_next">Where to go from here<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_5" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 5 of 6
+       </div> 
+       <a href="#4" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#6" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Where to go from here
+       </div> 
+       <div class="as_content"> 
+        <p>Now that you have read this information, you are ready to start finding and avoiding migraine triggers.</p> 
+        <h4>Talk with your doctor</h4> 
+        <p> If you have questions about this information, print it out and take it with you when you visit your doctor. You may want to use a highlighter to mark areas or make notes in the margins of pages where you have questions.</p> 
+        <p>Take your headache diary with you when you visit your doctor. Be sure to let your doctor know if you are seeing changes in your symptoms.</p> 
+        <p>Talk with your doctor about what might be triggers for you. Discuss ways you can avoid those triggers.</p> 
+        <p>If you would like more information that may help you to find and avoid headache triggers, the following resources are available:</p> 
+        <h3>Organization</h3> 
+        <table border="0"> 
+         <tbody>
+          <tr> 
+           <td colspan="2"> <b>National Headache Foundation (NHF)</b> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">820 North Orleans</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">Suite 411</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">Chicago, IL&nbsp;&nbsp;60610</td> 
+          </tr> 
+          <tr> 
+           <td>Phone: </td> 
+           <td>1-888-NHF-5552 (1-888-643-5552)</td> 
+          </tr> 
+          <tr> 
+           <td>Phone: </td> 
+           <td>(312) 274-2650</td> 
+          </tr> 
+          <tr> 
+           <td>Email: </td> 
+           <td>info@headaches.org</td> 
+          </tr> 
+          <tr> 
+           <td>Web Address: </td> 
+           <td>www.headaches.org</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">&nbsp;</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2"> <p>The National Headache Foundation is a nonprofit organization dedicated to three major goals: educating the public that headaches are serious disorders and that sufferers need understanding and continuity of care; promoting research into potential headache causes and treatments; and serving as an information resource for sufferers, their families, and doctors who treat them. The NHF can provide lists of local doctors specializing in headache treatment. It also has a monthly newsletter and many pamphlets on a variety of topics related to the different headache syndromes.</p> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="2"> <br /> </td> 
+          </tr> 
+         </tbody>
+        </table> 
+        <p> </p> 
+        <p class="NoWebPrint">Return to topic:</p> 
+        <div class="NoWebPrint"> 
+         <p> <a href="http://www.webmd.com/migraines-headaches/tc/migraine-headaches-topic-overview" onclick="return sl(this,'','embd-lnk');">Migraine Headaches</a> </p> 
+        </div> 
+        <p class="NoWebPrint">Return to <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/migraines-headaches/identifying-and-avoiding-migraine-triggers" onclick="return sl(this,'','embd-lnk');">Migraines: Finding and Avoiding Triggers</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#6" class="ac_next">See More Popular Action Sets<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_6" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 6 of 6
+       </div> 
+       <a href="#5" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#1" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        See More Popular Action Sets
+       </div> 
+       <div id="lastslide"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="action_bot"> 
+    </div> 
+   </div> 
+   <div class="dashed_fmt"> 
+   </div> 
+   <div class="subheadSpaced_fmt"> 
+   </div> 
+   <div class="credits_fmt"> 
+    <table border="0" cellpadding="5"> 
+     <tbody>
+      <tr> 
+       <td valign="top"> <b>By</b> </td> 
+       <td>Healthwise Staff</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+       <td>Anne C. Poinier, MD - Internal Medicine</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+       <td>Colin Chalk, MD, CM, FRCPC - Neurology</td> 
+      </tr> 
+      <tr> 
+       <td> <b>Last Revised</b> </td> 
+       <td>June 10, 2011</td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionsets.js">
+</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: June 10, 2011
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - ActionSet';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1080"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/migraines-headaches/guide/migraines-headaches-symptoms" onclick="return sl(this,'','rltd-p-1080_1');">Common Migraine Symptoms</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/migraines-headaches/guide/hormones-headaches" onclick="return sl(this,'','rltd-p-1080_2');">Migraines, Headaches and Hormones</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/pain-management/chronic-pain-11/slideshow-pain-tips" onclick="return sl(this,'','rltd-p-1080_3');">10 Tips to Reduce Chronic Pain</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/migraines-headaches/guide/cluster-headaches" onclick="return sl(this,'','rltd-p-1080_4');">Who Gets Cluster Headaches?</a> </li> 
+     <li id="x66"> <a class="type_ss" href="http://www.webmd.com/pain-management/ss/slideshow-acupuncture-overview" onclick="return sl(this,'','rltd-p-1080_5');"> Acupuncture for Pain Relief<i> </i></a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/drug-medication/medicationawareness/default.htm" onclick="return sl(this,'','rltd-p-1080_6');">Be Smart About Your Headache Medications</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1080_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806b009e" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806b009e</chronic_id><r_object_id>091e9c5e806b009e</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806b009e.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/16/2010 11:42:48</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/MigrainesHeadaches Health Center/template_Migraines and Headaches Health Center_091e9c5e800238f0.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800238f0"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Migraine Triggers</name><link_title>Migraine Triggers</link_title><description>Migraines can be triggered by a variety of things: foods, weather, stress, activities, exercise, odors, sleepiness, hormones, and much more. Many people use a diary to keep track of their activities to determine their migraine triggers.  Learning relaxation/stress-reducing techniques and getting enough sleep are two things that can  help decrease your migraines. Follow the links below to find WebMD's comprehensive coverage about how migraines are caused, how to find your triggers, how to prevent migraines, and much more.</description><friendly_url>http://www.webmd.com/migraines-headaches/migraine-triggers-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80635259"><link_title>Slideshow: A Visual Guide to Migraine Headaches</link_title><friendly_url>http://www.webmd.com/migraines-headaches/ss/slideshow-migraine-overview</friendly_url><thumbnail height="" width="" alt="Woman with migraine headache">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/migraine_overview_slideshow/69x75_migraine_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80342281"><link_title>Slideshow: Surprising Headache and Migraine Triggers</link_title><friendly_url>http://www.webmd.com/migraines-headaches/ss/slideshow-surprising-headache-triggers</friendly_url><thumbnail height="" width="" alt="Office manager yelling and pointing">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/headache_triggers_slideshow/69x75_headache_triggers_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008e49"><link_title>Smoking and Headache Triggers</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/triggers-smoking</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001655b"><link_title>Fighting Food-Related Headaches</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/food-related-headaches</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800074dc"><link_title>Migraines, Headaches, and Caffeine</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/triggers-caffeine</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001163a"><link_title>Medication Headaches</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/medication-headaches</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000762a"><link_title>Prevent Migraines and Headaches by Managing Stress</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/migraines-headaches-managing-stress</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802f0ffa"><link_title>Warm Weather May Trigger Migraines</link_title><friendly_url>http://www.webmd.com/migraines-headaches/news/20090309/warm-weather-may-trigger-migraines</friendly_url><thumbnail height="" width="" alt="weather_triggers_headaches.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/March_2009/weather_triggers_headaches.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007644"><link_title>Migraines, Headaches, and Hormones</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/hormones-headaches</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000646e"><link_title>An Overview of Headache Treatments</link_title><friendly_url>http://www.webmd.com/migraines-headaches/understanding-headache-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007198"><link_title>How to Prevent Migraines: Medications and Lifestyle Tips</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/understanding-migraine-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000cd29"><link_title>Improve Sleep Habits to Cut Migraines</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/20060623/improve-sleep-habits-to-cut-migraines</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8015bd44"><link_title>Migraine Triggers: Your Personal Checklist</link_title><friendly_url>http://www.webmd.com/migraines-headaches/migraine-triggers-your-personal-checklist</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8015bdbd"><link_title>Do Your Sleep Habits Trigger Migraines?</link_title><friendly_url>http://www.webmd.com/migraines-headaches/features/do-your-sleep-habits-trigger-migraines</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80008e51"><link_title>Frequently Asked Questions About Food Triggers, Migraines, and Headaches</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/triggers-specific-foods</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80291003"><link_title>Weather as a Headache and Migraine Trigger</link_title><friendly_url>http://www.webmd.com/migraines-headaches/headache-and-migraine-trigger-weather</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80535355"><link_title>Slideshow: Surprising Reasons You're in Pain</link_title><friendly_url>http://www.webmd.com/pain-management/ss/slideshow-reasons-for-pain</friendly_url><thumbnail height="" width="" alt="woman holding neck">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/surprising_reasons_for_pain_slideshow/69x75_surprising_reasons_for_pain_slideshow_1.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000762c"><link_title>Migraine Headache Diary</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/headache-diary</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001bbf6"><link_title>Personal stories about migraine medications</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/personal-stories-about-migraine-medications</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d6f5"><link_title>Headaches: Finding and Avoiding Triggers</link_title><friendly_url>http://www.webmd.com/migraines-headaches/identifying-and-avoiding-tension-headache-triggers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008e66"><link_title>Exercise and Headaches</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/triggers-exercise</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80010924"><link_title>Tips for Avoiding Migraine Triggers</link_title><friendly_url>http://www.webmd.com/migraines-headaches/avoiding-migraine-triggers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800125cf"><link_title>Antidepressants and Other Drugs to Treat Headaches</link_title><friendly_url>http://www.webmd.com/migraines-headaches/other-drugs-to-treat-headaches</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008b08"><link_title>Coping With Migraines and Headaches</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/learning-cope-migraines-headaches</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007614"><link_title>Diagnosing Migraines and Headaches With an EEG</link_title><friendly_url>http://www.webmd.com/migraines-headaches/making-diagnosis-eeg</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007616"><link_title>Diagnosing Migraines and Headaches With MRI</link_title><friendly_url>http://www.webmd.com/migraines-headaches/making-diagnosis-mri</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800082e9"><link_title>Preventing Headaches</link_title><friendly_url>http://www.webmd.com/migraines-headaches/understanding-headache-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008e56"><link_title>Headache and Migraine Organizations</link_title><friendly_url>http://www.webmd.com/migraines-headaches/migraines-headaches-resources</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000a48f"><link_title>Getting Rid of That Aching Back</link_title><friendly_url>http://www.webmd.com/back-pain/features/getting-rid-of-that-aching-back-feature</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/migraines-headaches/ss/slideshow-migraine-overview" onclick="return sl(this,'','td-rltd-art_1');">Slideshow: A Visual Guide to Migraine Headaches</a></li>
+      <li><a href="http://www.webmd.com/migraines-headaches/ss/slideshow-surprising-headache-triggers" onclick="return sl(this,'','td-rltd-art_2');">Slideshow: Surprising Headache and Migraine Triggers</a></li>
+      <li><a href="http://www.webmd.com/migraines-headaches/guide/triggers-smoking" onclick="return sl(this,'','td-rltd-art_3');">Smoking and Headache Triggers</a></li>
+      <li><a href="http://www.webmd.com/migraines-headaches/guide/food-related-headaches" onclick="return sl(this,'','td-rltd-art_4');">Fighting Food-Related Headaches</a></li>
+      <li><a href="http://www.webmd.com/migraines-headaches/guide/triggers-caffeine" onclick="return sl(this,'','td-rltd-art_5');">Migraines, Headaches, and Caffeine</a></li>
+      <li><a href="http://www.webmd.com/migraines-headaches/guide/medication-headaches" onclick="return sl(this,'','td-rltd-art_6');">Medication Headaches</a></li>
+      <li><a href="http://www.webmd.com/migraines-headaches/guide/migraines-headaches-managing-stress" onclick="return sl(this,'','td-rltd-art_7');">Prevent Migraines and Headaches by Managing Stress</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/migraines-headaches/migraine-triggers-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Migraine Triggers Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=43466161&tile=1044090992&tug=&pug=__&site=2&affiliate=20&hcent=903&scent=&pos=113&xpg=1826&sec=&amp;au1=1&au2=1&uri=%2fmigraines-headaches%2fidentifying-and-avoiding-migraine-triggers&artid=091e9c5e8001d6f9&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_r52_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'43466161',
+                    tile:'1044090992',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1826";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=43466161&amp;tile=1044090992&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=903&amp;scent=&amp;pos=5001&amp;xpg=1826&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fmigraines-headaches%2fidentifying-and-avoiding-migraine-triggers&amp;artid=091e9c5e8001d6f9&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=43466161&amp;amp;tile=1044090992&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=903&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1826&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fmigraines-headaches%2fidentifying-and-avoiding-migraine-triggers&amp;amp;artid=091e9c5e8001d6f9&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1826";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

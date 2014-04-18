@@ -1,0 +1,593 @@
+<title>SAM-e-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/depression/guide/depression-chronic-pain" onclick="return sl(this,'','lln-toolsres_1');">Depression and Chronic Pain</a></li>
+      <li id="x57"><a href="http://www.webmd.com/depression/depression-assessment/depression-health-check" onclick="return sl(this,'','lln-toolsres_2');">Check Your Depression Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/depression/guide/alternative-therapies-depression" onclick="return sl(this,'','lln-toolsres_3');">Home Remedies for Depression?</a></li>
+      <li id="x59"><a href="http://www.webmd.com/depression/guide/depression-types" onclick="return sl(this,'','lln-toolsres_4');">Depression Types</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/anxiety-panic/guide/mental-health-panic-disorder" onclick="return sl(this,'','lln-toolsres_5');">Panic Disorder</a></li>
+      <li id="x61"><a href="http://www.webmd.com/depression/guide/untreated-depression-effects" onclick="return sl(this,'','lln-toolsres_6');">Effects of Untreated Depression</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80ea1770"><metadata_section><i_chronicle_id>091e9c5e8001d07f</i_chronicle_id><r_object_id>091e9c5e80ea1770</r_object_id><title>Topic Overview</title><object_name>sam-e-topic_overview_special_tp21253.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80ea1770</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_tp21253</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>SAM-e-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>SAM-e is a supplement used to help treat depression and other conditions such as OA and liver disease. Learn more from WebMD.</wbmd_desc_meta><wbmd_orig_pub_dt>06/29/2011 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>SAM-e is a supplement used to help treat depression and other conditions such as OA and liver disease. Learn more from WebMD.</wbmd_desc_user><wbmd_lk_ttl>SAM-e-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Alternative medicine, complementary and alternative medicine, Complementary medicine, S-adenosyl methionine, S-adenosyl-L-methionine, S-adenosyl-methionine, S-adenosylmethionine, SAMe</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>F33</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80ea1770</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1663" wbmd_disp_nm="Depression"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1032" wbmd_disp_nm="Depression"></wbmd_c_channel_id><wbmd_c_frnd_nm>SAM-e-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is SAM-e?</section_header><section_type>SpecialSection</section_type><section_text><p>SAM-e is short for
+			 S-adenosylmethionine, a substance that occurs naturally in the cells of plants,
+			 animals, and humans. SAM-e is not an herb. Because the body produces less SAM-e
+			 with age, some people think that SAM-e may be a helpful supplement for certain
+			 diseases. In the United States, it is sold as a <a chronic_id="091e9c5e80aed9f5" crossLinkId="1559572" directive="friendlyurl" externalId="091e9c5e80aed9f5" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/prevention/supplement_faqs.xml" keywordId="34623" keywordSetId="8663" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/prevention/supplement_faqs.xml">dietary supplement</a>.</p></section_text></section_group><section_group><section_header>What is SAM-e used for?</section_header><section_type>SpecialSection</section_type><section_text><p> In the United States,
+			 people use SAM-e to treat <a chronic_id="091e9c5e80732fb0" crossLinkId="65" directive="friendlyurl" externalId="091e9c5e80732fb0" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.xml" keywordId="7244" keywordSetId="1082" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.xml">depression</a> or to preserve emotional well-being.
+			 Studies show that SAM-e may help with <a chronic_id="" crossLinkId="31695" directive="friendlyurl" externalId="B50DFC0E198F4D76" href="http://www.webmd.com/depression/guide/depression-symptoms-and-types" keywordId="40482" keywordSetId="9877" object_type="" path="/webmdhttp://www.webmd.com/depression/guide/depression-symptoms-and-types">symptoms of depression</a> in the short term,
+			 but more studies are needed to compare SAM-e with no treatment and with
+			 conventional treatment.<sup class="Reference"><a bookmark="as1184" chronic_id="091e9c5e8001d522" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-references_special_ty1564spec-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-references_special_ty1564spec-bib.xml">1</a></sup></p><p> SAM-e may also
+			 help to relieve pain in
+			 <a chronic_id="091e9c5e8001b501" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/osteoarthritis_definition_sto167524.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/osteoarthritis_definition_sto167524.xml">osteoarthritis</a> and <a chronic_id="091e9c5e80007e29" crossLinkId="1560181" directive="friendlyurl" externalId="091e9c5e80007e29" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/Skin_Conditions_Pruritus.xml" keywordId="36800" keywordSetId="9069" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/Skin_Conditions_Pruritus.xml">itching</a> in intrahepatic
+			 cholestasis, a <a chronic_id="091e9c5e80348a30" crossLinkId="73851" directive="friendlyurl" externalId="091e9c5e80348a30" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/liver_2.xml" keywordId="42791" keywordSetId="10464" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/liver_2.xml">liver</a> disease.<sup class="Reference"><a bookmark="as1184" chronic_id="091e9c5e8001d522" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-references_special_ty1564spec-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-references_special_ty1564spec-bib.xml">1</a></sup></p></section_text></section_group><section_group><section_header>Is SAM-e safe?</section_header><section_type>SpecialSection</section_type><section_text><p>SAM-e can have many side effects,
+			 including: </p><ul><li><a chronic_id="091e9c5e800079b6" crossLinkId="5629" directive="friendlyurl" externalId="091e9c5e800079b6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml" keywordId="38405" keywordSetId="9410" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml">Nausea</a>.</li><li><a chronic_id="091e9c5e80007ea0" crossLinkId="5461" directive="friendlyurl" externalId="091e9c5e80007ea0" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_diarrhea.xml" keywordId="7253" keywordSetId="1090" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_diarrhea.xml">Diarrhea</a>.</li><li><a chronic_id="091e9c5e8002394a" crossLinkId="189" directive="friendlyurl" externalId="091e9c5e8002394a" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml" keywordId="7521" keywordSetId="1291" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml">Headache</a>.</li><li><a chronic_id="091e9c5e8003c115" crossLinkId="452" directive="friendlyurl" externalId="091e9c5e8003c115" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.xml" keywordId="31072" keywordSetId="8074" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.xml">Anxiety</a>.</li><li>Gas.</li><li>Swings
+				from depression to intense energy (<a chronic_id="091e9c5e8001b3bf" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/mania_definition_ty6997.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/mania_definition_ty6997.xml">mania</a>). </li></ul><p>People diagnosed with <a chronic_id="091e9c5e8003202d" crossLinkId="153" directive="friendlyurl" externalId="091e9c5e8003202d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Bipolar Disorder Health Center Template/page_Bipolar Disorder Health Center_091e9c5e8003202d.xml" keywordId="6966" keywordSetId="882" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Bipolar Disorder Health Center Template/page_Bipolar Disorder Health Center_091e9c5e8003202d.xml">bipolar</a> disorder should not take
+			 SAM-e.</p><p>The U.S. Food and Drug Administration (FDA) does not
+			 regulate dietary <a chronic_id="091e9c5e806d2071" crossLinkId="1515199" directive="friendlyurl" externalId="091e9c5e806d2071" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Vitamins and Supplements Lifestyle Guide_091e9c5e806d2071/page_Vitamins and Supplements Lifestyle Guide_091e9c5e806d2071.xml" keywordId="40266" keywordSetId="9847" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Vitamins and Supplements Lifestyle Guide_091e9c5e806d2071/page_Vitamins and Supplements Lifestyle Guide_091e9c5e806d2071.xml">supplements</a> in the same way it regulates medicines. A dietary
+			 supplement can be sold with limited or no research on how well it works.
+			 </p><p>Always tell your doctor if you are using a dietary supplement or
+			 if you are thinking about combining a dietary supplement with your conventional
+			 medical treatment. It may not be safe to forgo your conventional medical
+			 treatment and rely only on a dietary supplement. This is especially important
+			 for women who are <a chronic_id="091e9c5e80c2b07d" crossLinkId="507" directive="friendlyurl" externalId="091e9c5e80c2b07d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Baby_091e9c5e80c2b07d/page_Health and Baby_091e9c5e80c2b07d.xml" keywordId="39176" keywordSetId="1742" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Baby_091e9c5e80c2b07d/page_Health and Baby_091e9c5e80c2b07d.xml">pregnant</a> or breast-feeding. </p><p>When using dietary
+			 supplements, keep in mind the following:</p><ul><li> Like conventional medicines, dietary
+				supplements may cause side effects, trigger allergic reactions, or interact
+				with prescription and nonprescription medicines or other supplements you might
+				be taking. A side effect or interaction with another medicine or supplement may
+				make other health conditions worse. </li><li> Dietary supplements may not
+				be standardized in their manufacturing. This means that how well they work or
+				any side effects they cause may differ among brands or even within different
+				lots of the same brand. The form you buy in health food or grocery stores may
+				not be the same as the form used in research.</li><li> The long-term
+				effects of most dietary supplements, other than vitamins and minerals, are not
+				known. Many dietary supplements are not used long-term.</li></ul></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/depression/tc/sam-e-topic-overview" owner="false"><breadcrumb><bread piece="Mental Health Center" prefix="www" friendlyurl="/mental-health/default.htm"></bread><bread piece="Depression Health Center" prefix="www" friendlyurl="/depression/default.htm"></bread><bread piece="Depression Related Topics" prefix="www" friendlyurl="/depression/tc/default.htm"></bread></breadcrumb><centers><Topic id="1095" name="tmg" chronicid="091e9c5e8001d07f" prefix="www" friendlyurl="/depression/tc/sam-e-topic-overview" type="Topic">SAM-e</Topic><Health id="1020" name="health center" chronicid="091e9c5e80732fb0" prefix="www" friendlyurl="/depression/default.htm" type="">Depression</Health><Super id="964" name="super center" chronicid="091e9c5e800249f0" prefix="www" friendlyurl="/mental-health/default.htm" type="">Mental Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/depression/tc/sam-e-topic-overview" owner="false"><breadcrumb><bread piece="Depression Health Center" prefix="www" friendlyurl="/depression/default.htm"></bread><bread piece="Depression Related Topics" prefix="www" friendlyurl="/depression/tc/default.htm"></bread></breadcrumb><centers><Topic id="11068" name="tmg" chronicid="091e9c5e8001d07f" prefix="www" friendlyurl="/depression/tc/sam-e-topic-overview" type="Topic">SAM-e</Topic><Health id="11065" name="health center" chronicid="091e9c5e80732fb0" prefix="www" friendlyurl="/depression/default.htm" type="">Depression</Health></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e80aed9f5" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/prevention/supplement_faqs.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/vitamins-and-supplements/lifestyle-guide-11/supplement-faq"></target></object><object chronic_id="091e9c5e80732fb0" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/default.htm" umtchronicleid="091e9c5e806934ca"></target><target siteid="8" name="" prefix="www" friendlyurl="/depression/default.htm" umtchronicleid="091e9c5e806934ca"></target></object><object chronic_id="091e9c5e8001d522" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-references_special_ty1564spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/sam-e-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/sam-e-references"></target></object><object chronic_id="091e9c5e8001b501" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/osteoarthritis_definition_sto167524.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/osteoarthritis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/osteoarthritis"></target></object><object chronic_id="091e9c5e80007e29" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/Skin_Conditions_Pruritus.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/skin-conditions-pruritus"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/skin-conditions-pruritus"></target></object><object chronic_id="091e9c5e80348a30" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/liver_2.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-liver"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-liver"></target></object><object chronic_id="091e9c5e800079b6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-nausea-vomiting"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-nausea-vomiting"></target></object><object chronic_id="091e9c5e80007ea0" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_diarrhea.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-diarrhea"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-diarrhea"></target></object><object chronic_id="091e9c5e8002394a" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/migraines-headaches/default.htm"></target></object><object chronic_id="091e9c5e8003c115" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/anxiety-panic/default.htm"></target></object><object chronic_id="091e9c5e8001b3bf" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/mania_definition_ty6997.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/mania"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/mania"></target></object><object chronic_id="091e9c5e8003202d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Bipolar Disorder Health Center Template/page_Bipolar Disorder Health Center_091e9c5e8003202d.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/bipolar-disorder/default.htm"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/bipolar-i-disorder-directory" umtchronicleid="091e9c5e8071d3a3"></target></object><object chronic_id="091e9c5e806d2071" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Vitamins and Supplements Lifestyle Guide_091e9c5e806d2071/page_Vitamins and Supplements Lifestyle Guide_091e9c5e806d2071.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/vitamins-and-supplements/lifestyle-guide-11/default.htm"></target></object><object chronic_id="091e9c5e80c2b07d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Baby_091e9c5e80c2b07d/page_Health and Baby_091e9c5e80c2b07d.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/default.htm" umtchronicleid="091e9c5e80688ded"></target><target siteid="8" name="" prefix="www" friendlyurl="/baby/default.htm" umtchronicleid="091e9c5e80688ded"></target></object><object chronic_id="091e9c5e8001d07f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-topic_overview_special_tp21253.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/sam-e-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/sam-e-topic-overview"></target></object><object chronic_id="091e9c5e8001d19d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-related_information_special_ty1564spec-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/sam-e-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/sam-e-related-information"></target></object><object chronic_id="091e9c5e8001d522" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-references_special_ty1564spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/sam-e-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/sam-e-references"></target></object><object chronic_id="091e9c5e8001d52c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-credits_special_ty1564spec-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/sam-e-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/sam-e-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e800236bc" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/sam-e_special_ty1564spec.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d07f" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-topic_overview_special_tp21253.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d19d" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-related_information_special_ty1564spec-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001d522" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-references_special_ty1564spec-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d52c" path="/webmd/consumer_assets/controlled_content/healthwise/special/sam-e-credits_special_ty1564spec-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>SAM-e</title><dynamic_objects><callout_title>Recommended Related to Depression</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e803b8f1e"><metadata_section><i_chronicle_id>091e9c5e801fc41a</i_chronicle_id><title>Vacation Depression: How to Cope</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>We love our vacations &#45;&#45; those great escapes from the humdrum and the
+hassles. But if you're depressed, the annual vacation may seem like yet another
+obstacle &#45;&#45; especially with soaring gas prices and an unstable economy.
+Vacation depression is a fact of life for many people.
+You feel guilty spending the money &#45;&#45; and pushing yourself to plan the trip
+becomes a burden. Every flat tire, delayed flight, and tantrum (child or
+adult) is simply draining. When your vacation ends, there's the depressing
+return...</p></section_text><link siteid="3" prefix="www" friendlyurl="/depression/features/vacation-depression"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>SAM-e - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What is SAM-e?</h3>
+      <p>SAM-e is short for S-adenosylmethionine, a substance that occurs naturally in the cells of plants, animals, and humans. SAM-e is not an herb. Because the body produces less SAM-e with age, some people think that SAM-e may be a helpful supplement for certain diseases. In the United States, it is sold as a <a href="http://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/supplement-faq" onclick="return sl(this,'','embd-lnk');">dietary supplement</a>.</p>
+      <h3>What is SAM-e used for?</h3>
+      <p> In the United States, people use SAM-e to treat <a href="http://www.webmd.com/depression/default.htm" onclick="return sl(this,'','embd-lnk');">depression</a> or to preserve emotional well-being. Studies show that SAM-e may help with <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/depression/guide/depression-symptoms-and-types">symptoms of depression</a> in the short term, but more studies are needed to compare SAM-e with no treatment and with conventional treatment.<sup class="Reference"><a href="http://www.webmd.com/depression/tc/sam-e-references#as1184" onclick="return sl(this,'','embd-lnk');">1</a></sup></p>
+      <p> SAM-e may also help to relieve pain in <a href="http://www.webmd.com/hw-popup/osteoarthritis" onclick="return sl(this,'hw','embd-lnk');">osteoarthritis</a> and <a href="http://www.webmd.com/skin-problems-and-treatments/guide/skin-conditions-pruritus" onclick="return sl(this,'','embd-lnk');">itching</a> in intrahepatic cholestasis, a <a href="http://www.webmd.com/digestive-disorders/picture-of-the-liver" onclick="return sl(this,'','embd-lnk');">liver</a> disease.<sup class="Reference"><a href="http://www.webmd.com/depression/tc/sam-e-references#as1184" onclick="return sl(this,'','embd-lnk');">1</a></sup></p>
+      <h3>Is SAM-e safe?</h3>
+      <p>SAM-e can have many side effects, including: </p>
+      <ul>
+       <li><a href="http://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting" onclick="return sl(this,'','embd-lnk');">Nausea</a>.</li>
+       <li><a href="http://www.webmd.com/digestive-disorders/digestive-diseases-diarrhea" onclick="return sl(this,'','embd-lnk');">Diarrhea</a>.</li>
+       <li><a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">Headache</a>.</li>
+       <li><a href="http://www.webmd.com/anxiety-panic/default.htm" onclick="return sl(this,'','embd-lnk');">Anxiety</a>.</li>
+       <li>Gas.</li>
+       <li>Swings from depression to intense energy (<a href="http://www.webmd.com/hw-popup/mania" onclick="return sl(this,'hw','embd-lnk');">mania</a>). </li>
+      </ul>
+      <p>People diagnosed with <a href="http://www.webmd.com/bipolar-disorder/default.htm" onclick="return sl(this,'','embd-lnk');">bipolar</a> disorder should not take SAM-e.</p>
+      <p>The U.S. Food and Drug Administration (FDA) does not regulate dietary <a href="http://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/default.htm" onclick="return sl(this,'','embd-lnk');">supplements</a> in the same way it regulates medicines. A dietary supplement can be sold with limited or no research on how well it works. </p>
+      <p>Always tell your doctor if you are using a dietary supplement or if you are thinking about combining a dietary supplement with your conventional medical treatment. It may not be safe to forgo your conventional medical treatment and rely only on a dietary supplement. This is especially important for women who are <a href="http://www.webmd.com/baby/default.htm" onclick="return sl(this,'','embd-lnk');">pregnant</a> or breast-feeding. </p>
+      <p>When using dietary supplements, keep in mind the following:</p>
+      <ul>
+       <li> Like conventional medicines, dietary supplements may cause side effects, trigger allergic reactions, or interact with prescription and nonprescription medicines or other supplements you might be taking. A side effect or interaction with another medicine or supplement may make other health conditions worse. </li>
+       <li> Dietary supplements may not be standardized in their manufacturing. This means that how well they work or any side effects they cause may differ among brands or even within different lots of the same brand. The form you buy in health food or grocery stores may not be the same as the form used in research.</li>
+       <li> The long-term effects of most dietary supplements, other than vitamins and minerals, are not known. Many dietary supplements are not used long-term.</li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/depression/tc/sam-e-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/depression/tc/sam-e-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/depression/tc/sam-e-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/depression/tc/sam-e-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: June 29, 2011
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/depression/tc/sam-e-topic-overview">Topic Overview</option><option value="http://www.webmd.com/depression/tc/sam-e-related-information">Related Information</option><option value="http://www.webmd.com/depression/tc/sam-e-references">References</option><option value="http://www.webmd.com/depression/tc/sam-e-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>SAM-e Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/depression/tc/sam-e-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/depression/tc/sam-e-related-information" onclick="return sl(this,'','topicNav_2');" title="Related Information">Related Information</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/depression/tc/sam-e-references" onclick="return sl(this,'','topicNav_3');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/depression/tc/sam-e-credits" onclick="return sl(this,'','topicNav_4');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1032"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/depression/guide/optimizing-depression-medicines" onclick="return sl(this,'','rltd-p-1032_1');">What Is Major Depression?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/depression/managing-the-side-effects-of-antidepressants" onclick="return sl(this,'','rltd-p-1032_2');">Dealing With Antidepressant Side Effects</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/depression/guide/major-depression" onclick="return sl(this,'','rltd-p-1032_3');">Major Depression</a> </li> 
+     <li id="x65"> <a href="http://men.webmd.com/erectile-dysfunction-11/myths-and-facts" onclick="return sl(this,'','rltd-p-1032_4');">Erectile Dysfunction: Myths &amp; Facts</a> </li> 
+     <li id="x66"> <a href="http://teens.webmd.com/features/teen-depression" onclick="return sl(this,'','rltd-p-1032_5');">Teens &amp; Depression: Not Just a Bad Mood</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/depression/guide/causes-depression" onclick="return sl(this,'','rltd-p-1032_6');">Causes of Depression</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1032_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1372791858&amp;tile=1507776098&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1020&amp;scent=964&amp;pos=5000&amp;xpg=1663&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fdepression%2ftc%2fsam-e-topic-overview&amp;artid=091e9c5e8001d07f&amp;inst=0&amp;leaf=1095&amp;cc=16&amp;tmg=1&amp;bc=_f33_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1372791858&amp;amp;tile=1507776098&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1020&amp;amp;scent=964&amp;amp;pos=5000&amp;amp;xpg=1663&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fdepression%2ftc%2fsam-e-topic-overview&amp;amp;artid=091e9c5e8001d07f&amp;amp;inst=0&amp;amp;leaf=1095&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_f33_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1663";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1372791858&amp;tile=1507776098&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1020&amp;scent=964&amp;pos=5001&amp;xpg=1663&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fdepression%2ftc%2fsam-e-topic-overview&amp;artid=091e9c5e8001d07f&amp;inst=0&amp;leaf=1095&amp;cc=16&amp;tmg=1&amp;bc=_f33_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1372791858&amp;amp;tile=1507776098&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1020&amp;amp;scent=964&amp;amp;pos=5001&amp;amp;xpg=1663&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fdepression%2ftc%2fsam-e-topic-overview&amp;amp;artid=091e9c5e8001d07f&amp;amp;inst=0&amp;amp;leaf=1095&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_f33_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1663";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,644 @@
+<title>Black Lung Disease-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/lung/lung-disease-health-check/default.htm" onclick="return sl(this,'','tools-res_1');">Assess Your COPD Risk</a></li>
+      <li id="x57"><a href="http://www.webmd.com/lung/slideshow-bronchitis-overview" class="type_ss" onclick="return sl(this,'','tools-res_2');">Bronchitis: A Visual Overview<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/lung/copd/slideshow-energy-boosting-foods" class="type_ss" onclick="return sl(this,'','tools-res_3');">Energy-Boosting Foods for COPD<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/lung/copd/copd-myth-fact-quiz" onclick="return sl(this,'','tools-res_4');">Test Your COPD IQ</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/healthy-home-health-check/default.htm" onclick="return sl(this,'','tools-res_5');">Assess the Health of Your Home</a></li>
+      <li id="x61"><a href="http://www.webmd.com/asthma/slideshow-10-worst-cities-for-asthma" class="type_ss" onclick="return sl(this,'','tools-res_6');">10 Worst Cities for Asthma<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e8b855" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e8001d662</i_chronicle_id><r_object_id>091e9c5e80e8b855</r_object_id><title>Topic Overview</title><object_name>black_lung_disease-topic_overview_special_tp21206.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e8b855</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_tp21206</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Black Lung Disease-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is black lung disease?Black lung disease is a common name for any lung disease developing from inhaling coal dust. This name comes from the fact that those with the disease have lungs that look black instead of pink. Medically, it is a type of pneumoconiosis called coal workers' pneumoconiosis. There are two forms: simple, which is known as coal workers' pneumoconiosis (CWP); and ...</wbmd_desc_meta><wbmd_orig_pub_dt>04/10/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is black lung disease?Black lung disease is a common name for any lung disease developing from inhaling coal dust. This name comes from the fact that those with the disease have lungs that look black instead of pink. Medically, it is a type of pneumoconiosis called coal workers' pneumoconiosis. There are two forms: simple, which is known as coal workers' pneumoconiosis (CWP); and ...</wbmd_desc_user><wbmd_lk_ttl>Black Lung Disease-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>black lung, coal miner's lung disease, coal miner's pneumoconiosis, coal miners' lung, coal worker's pneumoconiosis, coal workers' pneumoconiosis, CWP</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>J44</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e8b855</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4292" wbmd_disp_nm="Lung Disease (COPD)"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="8" wbmd_disp_nm="Employee/Work related"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1072" wbmd_disp_nm="Lung Disease/Respiratory Problems"></wbmd_c_channel_id><wbmd_c_frnd_nm>Black-Lung-Disease-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is black lung disease?</section_header><section_type>SpecialSection</section_type><section_text><p>
+		 Black <a chronic_id="091e9c5e803c43a7" crossLinkId="71454" directive="friendlyurl" externalId="091e9c5e803c43a7" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/lung_diseases_overview.xml" keywordId="60245" keywordSetId="26554" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/lung_diseases_overview.xml">lung disease</a> is a common name for any <a chronic_id="091e9c5e803c50fe" crossLinkId="72327" directive="friendlyurl" externalId="091e9c5e803c50fe" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml" keywordId="60504" keywordSetId="26698" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml">lung</a> disease that develops from
+		 inhaling coal dust. This name comes from the fact that those with the disease
+		 have lungs that look black instead of pink. Medically, it is a type of
+		 <a chronic_id="091e9c5e8001b168" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/pneumoconiosis_definition_ug1567.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pneumoconiosis_definition_ug1567.xml">pneumoconiosis</a> called coal workers' pneumoconiosis (CWP).
+		 There are two forms: simple CWP
+		  and complicated CWP, which also involves progressive massive fibrosis
+		 (PMF).</p><p>The inhalation and accumulation of coal dust into the lungs
+		 increases the risk of developing
+		 chronic
+		 <a chronic_id="091e9c5e8001b5f0" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/bronchitis_definition_stb117149.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/bronchitis_definition_stb117149.xml">bronchitis</a> and <a chronic_id="091e9c5e8001af85" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/chronic_obstructive_pulmonary_disease_copd_definition_stc123675.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/chronic_obstructive_pulmonary_disease_copd_definition_stc123675.xml">chronic obstructive pulmonary disease (COPD)</a>.</p></section_text></section_group><section_group><section_header>What causes coal workers' pneumoconiosis (CWP)?</section_header><section_type>SpecialSection</section_type><section_text><p>The inhalation and accumulation of coal dust causes coal workers'
+		 pneumoconiosis (CWP). This stems from working in a coal mine, coal trimming
+		 (loading and stowing coal for storage), mining or milling graphite, and
+		 manufacturing carbon electrodes (used in certain types of large furnaces) and
+		 carbon black (a compound used in many items, such as tires and other rubber
+		 goods). Because CWP is a reaction to accumulated dust in the lungs, it may
+		 appear and get worse during your exposure to the dust or after your exposure
+		 has ceased.</p><p>The severity of CWP depends on the type of coal dust, how much dust was in the air, and how long you have been exposed to it.</p></section_text></section_group><section_group><section_header>Is CWP the same thing as chronic obstructive pulmonary disease (COPD)?</section_header><section_type>SpecialSection</section_type><section_text><p>No. Although CWP may share many of the symptoms of
+		 <a chronic_id="091e9c5e803dbc41" crossLinkId="72272" directive="friendlyurl" externalId="091e9c5e803dbc41" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/what_is_emphysema.xml" keywordId="34876" keywordSetId="8717" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/what_is_emphysema.xml">emphysema</a> and/or chronic bronchitis (which are also known as
+		 <a chronic_id="091e9c5e8001af85" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/chronic_obstructive_pulmonary_disease_copd_definition_stc123675.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/chronic_obstructive_pulmonary_disease_copd_definition_stc123675.xml">COPD</a>), CWP is not COPD and is not treated like
+		 COPD.</p></section_text></section_group><section_group><section_header>What is the course of CWP?</section_header><section_type>SpecialSection</section_type><section_text><p>CWP starts with the inhalation and accumulation of coal dust in the
+		 lungs. For many, there are no symptoms or noticeable effect on quality of life.
+		 There may be a cough and sputum (mucus) from inhalation of coal dust, but this
+		 may be more a matter of dust-induced bronchitis. As CWP progresses and is complicated by
+		 PMF, a cough and shortness of breath develop, along with sputum and moderate to
+		 severe airway obstruction. Quality of life decreases. Complications of CWP
+		 include
+		 <a chronic_id="091e9c5e8001b607" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/cor_pulmonale_definition_stc123749.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/cor_pulmonale_definition_stc123749.xml">cor pulmonale</a>.</p><p><a chronic_id="091e9c5e800ab373" crossLinkId="451" directive="friendlyurl" externalId="091e9c5e800ab373" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml" keywordId="40038" keywordSetId="9788" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml">Smoking</a> does not increase
+		 the prevalence of CWP, nor does it affect the development of CWP. But it may
+		 add to lung damage and contribute to the development of COPD. Coal workers who
+		 smoke are at much greater risk of developing COPD than nonsmoking coal
+		 workers.</p></section_text></section_group><section_group><section_header>How does CWP affect your lungs?</section_header><section_type>SpecialSection</section_type><section_text><p>When coal dust accumulates in the lungs, a coal
+		 macule may form. A coal macule is a combination of coal dust and
+		 <a chronic_id="091e9c5e8001b232" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/macrophages_definition_stm159289.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/macrophages_definition_stm159289.xml">macrophages</a>. As the disease progresses, macules can
+		 develop into a coal nodule, an abnormality of the lung tissue. In time, a type
+		 of emphysema and fibrosis may develop.</p><p><a chronic_id="091e9c5e803a2bfc" crossLinkId="70886" directive="friendlyurl" externalId="091e9c5e803a2bfc" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/benign_lung_tumors_and_nodules.xml" keywordId="60219" keywordSetId="26545" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/benign_lung_tumors_and_nodules.xml">Lung nodules</a> wider than
+		 <span class="Measurement">1 cm (0.4 in.)</span> have been
+		 accepted as evidence of progressive massive fibrosis (PMF), although some
+		 organizations say a minimum width of
+		 <span class="Measurement">2 cm (0.8 in.)</span> is necessary.
+		 Nodules may grow to a large size and hinder or stop the airflow in the lungs'
+		 airways.</p></section_text></section_group></page><page><section_group><section_header>How is CWP diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>CWP is diagnosed through an occupational history and chest X-rays. Lung
+		 function tests may be used to determine how badly the lungs are damaged.</p><p>Occupational history is very important to the diagnosis of CWP—if
+		 a person has not been exposed to coal dust, he or she cannot have CWP. The
+		 occupational history should include not only recent and past full-time
+		 employment, but also summer jobs, student jobs, military history, and
+		 short-term jobs.</p><p>The diagnosis of CWP has legal public health
+		 implications, since some states require that all cases be reported.</p></section_text></section_group><section_group><section_header>Can CWP be prevented?</section_header><section_type>SpecialSection</section_type><section_text><p>CWP can be prevented by controlling dust and having good ventilation in the workplace.</p></section_text></section_group><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>There
+		 is no proven effective treatment for CWP, although complications can be
+		 treated.</p><p>There are several U.S. laws regarding CWP and its
+		 treatment, and the government may help pay for treatment. But to be eligible,
+		 you must be totally and permanently disabled by this disease. Most miners aren't eligible for federal black lung benefits. For information on organizations
+		 dealing with mining and black lung disease, see the Other Places to Get Help
+		 section of this topic.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/lung/tc/black-lung-disease-topic-overview" owner="false"><breadcrumb><bread piece="Lung Disease &amp; Respiratory Health Center" prefix="www" friendlyurl="/lung/default.htm"></bread><bread piece="Lung Health Related Topics" prefix="www" friendlyurl="/lung/tc/default.htm"></bread></breadcrumb><centers><Topic id="8138" name="tmg" chronicid="091e9c5e8001d662" prefix="www" friendlyurl="/lung/tc/black-lung-disease-topic-overview" type="Topic">Black Lung Disease</Topic><Health id="2892" name="health center" chronicid="091e9c5e803c0c52" prefix="www" friendlyurl="/lung/default.htm" type="">Lung</Health></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/black-lung-disease-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e8001d662" prefix="www" friendlyurl="/a-to-z-guides/tc/black-lung-disease-topic-overview" type="Topic">Black Lung Disease</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e803c43a7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/lung_diseases_overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/lung-diseases-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/lung-diseases-overview"></target></object><object chronic_id="091e9c5e803c50fe" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/picture-of-the-lungs"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-lungs"></target></object><object chronic_id="091e9c5e8001b168" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pneumoconiosis_definition_ug1567.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/pneumoconiosis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/pneumoconiosis"></target></object><object chronic_id="091e9c5e8001b5f0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/bronchitis_definition_stb117149.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/bronchitis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/bronchitis"></target></object><object chronic_id="091e9c5e8001af85" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/chronic_obstructive_pulmonary_disease_copd_definition_stc123675.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/chronic-obstructive-pulmonary-disease-copd"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/chronic-obstructive-pulmonary-disease-copd"></target></object><object chronic_id="091e9c5e803dbc41" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/what_is_emphysema.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/what-is-emphysema"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/what-is-emphysema"></target></object><object chronic_id="091e9c5e8001b607" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/cor_pulmonale_definition_stc123749.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/cor-pulmonale"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/cor-pulmonale"></target></object><object chronic_id="091e9c5e800ab373" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/smoking-cessation/default.htm"></target></object><object chronic_id="091e9c5e8001b232" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/macrophages_definition_stm159289.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/macrophages"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/macrophages"></target></object><object chronic_id="091e9c5e803a2bfc" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/benign_lung_tumors_and_nodules.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/benign-lung-tumors-and-nodules"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/benign-lung-tumors-and-nodules"></target></object><object chronic_id="091e9c5e8001d662" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/black_lung_disease-topic_overview_special_tp21206.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/tc/black-lung-disease-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/black-lung-disease-topic-overview"></target></object><object chronic_id="091e9c5e801d9763" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/black_lung_disease-other_places_to_get_help_special_ug1566spec-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/tc/black-lung-disease-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/black-lung-disease-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001d105" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/black_lung_disease-related_information_special_ug1566spec-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/tc/black-lung-disease-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/black-lung-disease-related-information"></target></object><object chronic_id="091e9c5e80e68b3b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/black_lung_disease-references_special_ug1566spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/tc/black-lung-disease-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/black-lung-disease-references"></target></object><object chronic_id="091e9c5e8001d538" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/black_lung_disease-credits_special_ug1566spec-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/tc/black-lung-disease-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/black-lung-disease-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e800236eb" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/black_lung_disease_special_ug1566spec.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d662" path="/webmd/consumer_assets/controlled_content/healthwise/special/black_lung_disease-topic_overview_special_tp21206.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e801d9763" path="/webmd/consumer_assets/controlled_content/healthwise/special/black_lung_disease-other_places_to_get_help_special_ug1566spec-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d105" path="/webmd/consumer_assets/controlled_content/healthwise/special/black_lung_disease-related_information_special_ug1566spec-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e80e68b3b" path="/webmd/consumer_assets/controlled_content/healthwise/special/black_lung_disease-references_special_ug1566spec-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d538" path="/webmd/consumer_assets/controlled_content/healthwise/special/black_lung_disease-credits_special_ug1566spec-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Black Lung Disease</title><dynamic_objects><callout_title>Recommended Related to Lung Disease/Respiratory Problems</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80a6f604"><metadata_section><i_chronicle_id>091e9c5e803a2bfc</i_chronicle_id><title>Benign Lung Tumors and Nodules</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>If you've received the news that your lung contains something "suspicious," this may be a source of great distress. The first thing that may come to mind is a dreaded word: cancer. In many cases, though, a lung nodule turns out to be benign. This means that it isn't cancer. A hard part is waiting and not knowing. Here's information that may make your wait just a little bit easier.</p></section_text><link siteid="3" prefix="www" friendlyurl="/lung/benign-lung-tumors-and-nodules"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Black Lung Disease - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What is black lung disease?</h3>
+      <p> Black <a href="http://www.webmd.com/lung/lung-diseases-overview" onclick="return sl(this,'','embd-lnk');">lung disease</a> is a common name for any <a href="http://www.webmd.com/lung/picture-of-the-lungs" onclick="return sl(this,'','embd-lnk');">lung</a> disease that develops from inhaling coal dust. This name comes from the fact that those with the disease have lungs that look black instead of pink. Medically, it is a type of <a href="http://www.webmd.com/hw-popup/pneumoconiosis" onclick="return sl(this,'hw','embd-lnk');">pneumoconiosis</a> called coal workers' pneumoconiosis (CWP). There are two forms: simple CWP and complicated CWP, which also involves progressive massive fibrosis (PMF).</p>
+      <p xmlns:xalan="http://xml.apache.org/xalan">The inhalation and accumulation of coal dust into the lungs increases the risk of developing chronic <a href="http://www.webmd.com/hw-popup/bronchitis" onclick="return sl(this,'hw','embd-lnk');">bronchitis</a> and <a href="http://www.webmd.com/hw-popup/chronic-obstructive-pulmonary-disease-copd" onclick="return sl(this,'hw','embd-lnk');">chronic obstructive pulmonary disease (COPD)</a>.</p>
+      <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" />
+      <div class="aia_rdr rs_skip">
+       <div class="aia_top_fmt"> 
+       </div>
+       <div class="aia_border_fmt">
+        <div class="aia_title_bar_fmt">
+         <h4>Recommended Related to Lung Disease/Respiratory Problems</h4>
+         <div class="clearing_fmt"> 
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/lung/benign-lung-tumors-and-nodules" onclick="return sl(this,'','aia-related');">Benign Lung Tumors and Nodules</a></p>
+        <div class="aia_section_fmt">
+         <div class="aia_content_fmt">
+          <p>If you've received the news that your lung contains something &quot;suspicious,&quot; this may be a source of great distress. The first thing that may come to mind is a dreaded word: cancer. In many cases, though, a lung nodule turns out to be benign. This means that it isn't cancer. A hard part is waiting and not knowing. Here's information that may make your wait just a little bit easier.</p>
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/lung/benign-lung-tumors-and-nodules" onclick="return sl(this,'','aia-related');">Read the Benign Lung Tumors and Nodules article &gt; &gt;</a></p>
+        <div class="clearing_fmt"> 
+        </div>
+       </div>
+       <div class="aia_bot_fmt"> 
+       </div>
+      </div>
+      <script type="text/javascript">$(function(){
+  if(typeof(s_sponsor_program) != 'undefined' ){
+    /* remove aia if in a sponsored program */
+    if(s_sponsor_program != ""){$(".aia_rdr").remove()}
+  }
+});</script>
+      <h3>What causes coal workers' pneumoconiosis (CWP)?</h3>
+      <p>The inhalation and accumulation of coal dust causes coal workers' pneumoconiosis (CWP). This stems from working in a coal mine, coal trimming (loading and stowing coal for storage), mining or milling graphite, and manufacturing carbon electrodes (used in certain types of large furnaces) and carbon black (a compound used in many items, such as tires and other rubber goods). Because CWP is a reaction to accumulated dust in the lungs, it may appear and get worse during your exposure to the dust or after your exposure has ceased.</p>
+      <p>The severity of CWP depends on the type of coal dust, how much dust was in the air, and how long you have been exposed to it.</p>
+      <h3>Is CWP the same thing as chronic obstructive pulmonary disease (COPD)?</h3>
+      <p>No. Although CWP may share many of the symptoms of <a href="http://www.webmd.com/lung/copd/what-is-emphysema" onclick="return sl(this,'','embd-lnk');">emphysema</a> and/or chronic bronchitis (which are also known as <a href="http://www.webmd.com/hw-popup/chronic-obstructive-pulmonary-disease-copd" onclick="return sl(this,'hw','embd-lnk');">COPD</a>), CWP is not COPD and is not treated like COPD.</p>
+      <h3>What is the course of CWP?</h3>
+      <p>CWP starts with the inhalation and accumulation of coal dust in the lungs. For many, there are no symptoms or noticeable effect on quality of life. There may be a cough and sputum (mucus) from inhalation of coal dust, but this may be more a matter of dust-induced bronchitis. As CWP progresses and is complicated by PMF, a cough and shortness of breath develop, along with sputum and moderate to severe airway obstruction. Quality of life decreases. Complications of CWP include <a href="http://www.webmd.com/hw-popup/cor-pulmonale" onclick="return sl(this,'hw','embd-lnk');">cor pulmonale</a>.</p>
+      <p><a href="http://www.webmd.com/smoking-cessation/default.htm" onclick="return sl(this,'','embd-lnk');">Smoking</a> does not increase the prevalence of CWP, nor does it affect the development of CWP. But it may add to lung damage and contribute to the development of COPD. Coal workers who smoke are at much greater risk of developing COPD than nonsmoking coal workers.</p>
+      <h3>How does CWP affect your lungs?</h3>
+      <p>When coal dust accumulates in the lungs, a coal macule may form. A coal macule is a combination of coal dust and <a href="http://www.webmd.com/hw-popup/macrophages" onclick="return sl(this,'hw','embd-lnk');">macrophages</a>. As the disease progresses, macules can develop into a coal nodule, an abnormality of the lung tissue. In time, a type of emphysema and fibrosis may develop.</p>
+      <p><a href="http://www.webmd.com/lung/benign-lung-tumors-and-nodules" onclick="return sl(this,'','embd-lnk');">Lung nodules</a> wider than <span class="Measurement">1 cm (0.4 in.)</span> have been accepted as evidence of progressive massive fibrosis (PMF), although some organizations say a minimum width of <span class="Measurement">2 cm (0.8 in.)</span> is necessary. Nodules may grow to a large size and hinder or stop the airflow in the lungs' airways.</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/lung/tc/black-lung-disease-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/lung/tc/black-lung-disease-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/lung/tc/black-lung-disease-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/lung/tc/black-lung-disease-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/lung/tc/black-lung-disease-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: April 10, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/lung/tc/black-lung-disease-topic-overview">Topic Overview</option><option value="http://www.webmd.com/lung/tc/black-lung-disease-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/lung/tc/black-lung-disease-related-information">Related Information</option><option value="http://www.webmd.com/lung/tc/black-lung-disease-references">References</option><option value="http://www.webmd.com/lung/tc/black-lung-disease-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Black Lung Disease Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/lung/tc/black-lung-disease-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/lung/tc/black-lung-disease-other-places-to-get-help" onclick="return sl(this,'','topicNav_2');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/lung/tc/black-lung-disease-related-information" onclick="return sl(this,'','topicNav_3');" title="Related Information">Related Information</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/lung/tc/black-lung-disease-references" onclick="return sl(this,'','topicNav_4');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/lung/tc/black-lung-disease-credits" onclick="return sl(this,'','topicNav_5');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1072"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_vid" href="http://www.webmd.com/lung/video/cystic-fibrosis-breath-test" onclick="return sl(this,'','rltd-p-1072_1');">Cystic Fibrosis Breath Test<i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/asthma/asthma-health-check/default.htm" onclick="return sl(this,'','rltd-p-1072_2');">Asthma Concerns? Get Personalized Tips</a> </li> 
+     <li id="x64"> <a class="type_vid" href="http://www.webmd.com/lung/video/pulmonary-hypertension" onclick="return sl(this,'','rltd-p-1072_3');">Watermelon to Treat Pulmonary Hypertension?<i> </i></a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/smoking-cessation/quit-smoking-11/slideshow-tips-quit-smoking" onclick="return sl(this,'','rltd-p-1072_4');">Quit-Smoking: 14 Tips for the First Hard Days</a> </li> 
+     <li id="x66"> <a class="type_vid" href="http://www.webmd.com/lung/video/living-with-copd" onclick="return sl(this,'','rltd-p-1072_5');">Real Stories: Living With COPD<i> </i></a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/lung/copd/copd-breathlessness-9/how-to-use-inhaler" onclick="return sl(this,'','rltd-p-1072_6');">Are You Using Your Inhaler Correctly?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1072_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=76657076&amp;tile=99460995&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2892&amp;scent=&amp;pos=5000&amp;xpg=4292&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2flung%2ftc%2fblack-lung-disease-topic-overview&amp;artid=091e9c5e8001d662&amp;inst=0&amp;leaf=8138&amp;cc=16&amp;tmg=1&amp;bc=_j44_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=76657076&amp;amp;tile=99460995&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2892&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=4292&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2flung%2ftc%2fblack-lung-disease-topic-overview&amp;amp;artid=091e9c5e8001d662&amp;amp;inst=0&amp;amp;leaf=8138&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_j44_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4292";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=76657076&amp;tile=99460995&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2892&amp;scent=&amp;pos=5001&amp;xpg=4292&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2flung%2ftc%2fblack-lung-disease-topic-overview&amp;artid=091e9c5e8001d662&amp;inst=0&amp;leaf=8138&amp;cc=16&amp;tmg=1&amp;bc=_j44_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=76657076&amp;amp;tile=99460995&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2892&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=4292&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2flung%2ftc%2fblack-lung-disease-topic-overview&amp;amp;artid=091e9c5e8001d662&amp;amp;inst=0&amp;amp;leaf=8138&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_j44_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4292";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

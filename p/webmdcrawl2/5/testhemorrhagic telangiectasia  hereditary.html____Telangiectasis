@@ -1,0 +1,560 @@
+<title>Hemorrhagic Telangiectasia, Hereditary</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/parenting/features/inside-look-at-the-teen-brain" onclick="return sl(this,'','tools-res_1');">What Makes Your Teen Tick?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/bedwetting-solutions-12/default.htm" onclick="return sl(this,'','tools-res_2');">How to Stop Bedwetting</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" class="type_ss" onclick="return sl(this,'','tools-res_3');">Allergy Relief: What You Need<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/children/digestion-in-children-11/constipation-treatment" onclick="return sl(this,'','tools-res_4');">Treating Constipation in Kids</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/preventative-health-vaccines" onclick="return sl(this,'','tools-res_5');">Protect Your Kids: Get Your Shots</a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-strep-symptoms" onclick="return sl(this,'','tools-res_6');">Strep Throat Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Hemorrhagic Telangiectasia, Hereditary</h2> 
+     <div class="symptomatic_fmt"> 
+      <h3></h3> 
+      <p> <b>Important</b> <br />It is possible that the main title of the report Hemorrhagic Telangiectasia, Hereditary is not the name you expected. Please check the <a href="http://www.webmd.com/children/hemorrhagic-telangiectasia-hereditary" onclick="return sl(this,'','embd-lnk');">synonyms</a> listing to find the alternate name(s) and <a href="http://www.webmd.com/children/hemorrhagic-telangiectasia-hereditary" onclick="return sl(this,'','embd-lnk');">disorder subdivision(s)</a> covered by this report.<br /></p> 
+      <h3>Synonyms</h3> 
+      <ul> 
+       <li>HHT</li> 
+       <li>Osler-Weber Rendu Syndrome</li> 
+       <li>Rendu-Osler-Weber Syndrome</li> 
+      </ul> 
+      <h3>Disorder Subdivisions</h3> 
+      <ul> 
+       <li>Hereditary Hemorrhagic Telangiectasia Type I</li> 
+       <li>Hereditary Hemorrhagic Telangiectasia Type II</li> 
+       <li>Hereditary Hemorrhagic Telangiectasia Type III</li> 
+      </ul> 
+      <h3>General Discussion</h3> 
+      <p>Hereditary hemorrhagic telangiectasia (HHT or Osler-Weber-Rendu syndrome) is a rare inherited disorder characterized by malformations of various <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> vessels (vascular dysplasia), usually resulting in excessive bleeding (hemorrhaging). Chronic nosebleeds are often the first apparent symptom associated with hereditary hemorrhagic telangiectasia. Malformation of various blood vessels may result in abnormalities affecting various organ systems of the body including the <a href="http://www.webmd.com/lung/picture-of-the-lungs" onclick="return sl(this,'','embd-lnk');">lungs</a>, <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a>, and <a href="http://www.webmd.com/digestive-disorders/picture-of-the-liver" onclick="return sl(this,'','embd-lnk');">liver</a>. Hereditary hemorrhagic telangiectasia is inherited as an autosomal dominant trait.</p> 
+      <h3>Resources</h3> 
+      <p> <b>March of Dimes <a href="http://www.webmd.com/baby/tc/birth-defects-testing-what-are-birth-defects-tests" onclick="return sl(this,'','embd-lnk');">Birth Defects</a> Foundation</b> <br /> 1275 Mamaroneck Avenue<br /> White Plains, NY 10605<br /> Tel: (914)997-4488<br /> Fax: (914)997-4763<br /> Tel: (888)663-4637<br /> Email: Askus@marchofdimes.com<br /> Internet: http://www.marchofdimes.com<br /><br /><b>HHT Foundation International, Inc.</b><br /> P.O. Box 329<br /> Monkton, MD 21111<br /> United States<br /> Tel: (410)357-9932<br /> Fax: (410)357-0655<br /> Tel: (800)448-6389<br /> Email: hhtinfo@hht.org<br /> Internet: http://www.hht.org<br /><br /><b>NIH/National <a href="http://www.webmd.com/heart/picture-of-the-heart" onclick="return sl(this,'','embd-lnk');">Heart</a>, Lung and Blood Institute</b><br /> P.O. Box 30105<br /> Bethesda, MD 20892-0105<br /> Tel: (301)592-8573<br /> Fax: (301)251-1223<br /> Email: nhlbiinfo@rover.nhlbi.nih.gov<br /> Internet: http://www.nhlbi.nih.gov/<br /><br /><b>MUMS National Parent-to-Parent Network</b><br /> 150 Custer Court<br /> Green Bay, WI 54301-1243<br /> USA<br /> Email: mums@netnet.net<br /> Internet: http://www.netnet.net/mums/<br /><br /><b>Genetic and Rare Diseases (GARD) Information Center</b><br /> PO Box 8126<br /> Gaithersburg, MD 20898-8126<br /> Tel: (301)251-4925<br /> Fax: (301)251-4911<br /> Tel: (888)205-2311<br /> TDD: (888)205-3223<br /> Internet: http://rarediseases.info.nih.gov/GARD/<br /><br /><b>Madisons Foundation</b><br /> PO Box 241956<br /> Los Angeles, CA 90024<br /> Tel: (310)264-0826<br /> Fax: (310)264-4766<br /> Email: getinfo@madisonsfoundation.org<br /> Internet: http://www.madisonsfoundation.org<br /><br /></p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="verifiedBox_rdr"> 
+    <div class="verifiedBoxTop_lt_fmt"> 
+    </div> 
+    <div class="verifiedBoxMiddle_lt_fmt"> 
+     <h2>For a Complete Report: </h2> 
+     <p>This is an abstract of a report from the National Organization for Rare Disorders (NORD). A copy of the complete report can be downloaded free from the NORD website for registered users. The complete report contains additional information including symptoms, causes, affected population, related disorders, standard and investigational therapies (if available), and references from medical literature. For a full-text version of this topic, go to www.rarediseases.org and click on Rare Disease Database under &quot;Rare Disease Information&quot;.</p> 
+     <div class="dottedline_fmt"> 
+     </div> 
+    </div> 
+    <div class="verifiedBoxMiddle_symptomatic_fmt"> 
+     <blockquote> 
+      <div class="Sizeminus"> 
+       <p>The information provided in this report is not intended for diagnostic purposes. It is provided for informational purposes only. NORD recommends that affected individuals seek the advice or counsel of their own personal physicians.</p> 
+       <p>It is possible that the title of this topic is not the name you selected. Please check the Synonyms listing to find the alternate name(s) and Disorder Subdivision(s) covered by this report</p> 
+       <p>This disease entry is based upon medical information available through the date at the end of the topic. Since NORD's resources are limited, it is not possible to keep every entry in the Rare Disease Database completely current and accurate. Please check with the agencies listed in the Resources section for the most current information about this disorder.</p> 
+       <p>For additional information and assistance about rare disorders, please contact the National Organization for Rare Disorders at P.O. Box 1968, Danbury, CT 06813-1968; phone (203) 744-0100; web site www.rarediseases.org or email orphan@rarediseases.org<br /></p> 
+       <p>Last Updated: &nbsp;4/2/2008<br />Copyright &nbsp;1986, 1988, 1989, 1994, 1995, 1996, 1997, 1999, 2000, 2001, 2002, 2003&nbsp;National Organization for Rare Disorders, Inc.</p> 
+      </div> 
+     </blockquote> 
+    </div> 
+    <div class="verifiedBoxBottom_fmt"> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from the National Organization of Rare Disorders</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: February 25, 2014
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - Nord';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-859"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/parenting/bedwetting-solutions-12/bedwetting-stress-anxiety" onclick="return sl(this,'','rltd-p-859_1');">Can Stress Lead to Bedwetting?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/healthy-aging/drug-costs-12/save-money-prescription-drugs" onclick="return sl(this,'','rltd-p-859_2');">How to Save Money on Prescriptions</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/parenting/answers-health/answers-sick-from-school" onclick="return sl(this,'','rltd-p-859_3');">When Is a Child Too Sick for School?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0812&amp;ch=3" onclick="return sl(this,'','rltd-p-859_4');">How Important Is Fluoride for Kids' Teeth?</a> </li> 
+     <li id="x66"> <a href="http://children.webmd.com/digestion-in-children-11/fiber-rich-lunch" onclick="return sl(this,'','rltd-p-859_5');">Fiber-Rich Lunch Ideas for Kids</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0001" onclick="return sl(this,'','rltd-p-859_6');">What Causes Ringworm?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-859_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e808b8d13" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb82</chronic_id><r_object_id>091e9c5e808b8d13</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8068fb82.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/12/2011 11:02:27</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Childrens Health Portal Template/template_Childrens Health Portal Template_091e9c5e80024677.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80024677"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Viral Infections</name><link_title>Viral Infections</link_title><description>Viruses cause all types of infections and diseases. Some of the most common viral infections are the common cold, the flu, and warts. Some of the more severe diseases that viruses cause are HIV/AIDS, smallpox, and hemorrhagic fevers like Ebola and Marburg. In order for viruses to cause an infection, they must take their genetic material and hijack normal, living cells to produce more viruses with the same genetic material. Since viruses live inside cells of the body, they are hard to kill. But there are vaccines that can protect humans from many viral infections. Learn more about various viral infections and vaccines.</description><friendly_url>http://www.webmd.com/a-to-z-guides/viral-infections-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80739cab"><link_title>Bacterial vs. Viral Infections: Causes and Treatments</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/bacterial-and-viral-infections</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001f0c6"><link_title>Viral Tests</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/viral-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What are bacterial and viral infections?</link_title><friendly_url>http://answers.webmd.com/answers/1198130/what-are-bacterial-and-viral-infections</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80178272"><link_title>New Virus Tied to 3 Transplant Deaths</link_title><friendly_url>http://www.webmd.com/news/20080206/new-virus-tied-to-3-transplant-deaths</friendly_url><thumbnail height="" width="" alt="New Arenavirus and Transplants">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/February08/new_arenavirus_and_transplants.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id=""><link_title>How are bacterial and viral infections diagnosed?</link_title><friendly_url>http://answers.webmd.com/answers/1198132/how-are-bacterial-and-viral-infections</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>How are bacterial and viral infections treated?</link_title><friendly_url>http://answers.webmd.com/answers/1198133/how-are-bacterial-and-viral-infections</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What are the differences between bacteria and viruses?</link_title><friendly_url>http://answers.webmd.com/answers/1198131/what-are-the-differences-between-bacteria</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80336f54"><link_title>Epstein-Barr Virus Linked to MS</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20090504/epstein-barr-virus-linked-to-ms</friendly_url><thumbnail height="75" width="69" alt="virus">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/May_2009/EpsteinBarrMSLink.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e418"><link_title>Epstein-Barr Virus May Trigger MS</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20060410/epstein-barr-virus-may-trigger-ms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007fda"><link_title>Ebola Hemorrhagic Fever Facts</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/ebola-hemorrhagic</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8062e648"><link_title>Virus Linked to Chronic Fatigue Syndrome</link_title><friendly_url>http://www.webmd.com/chronic-fatigue-syndrome/news/20100823/virus-linked-to-chronic-fatigue-syndrome</friendly_url><thumbnail height="" width="" alt="chronic_fatigue_virus_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/08_2010/chronic_fatigue_virus_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e808c92f5"><link_title>Virus Theory for Chronic Fatigue Syndrome Discredited</link_title><friendly_url>http://www.webmd.com/chronic-fatigue-syndrome/news/20110922/virus-theory-chronic-fatigue-syndrome-discredited</friendly_url><thumbnail height="" width="" alt="Letter representations of virus over broken chain ">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/09_2011/69x75_xmrv_no_link_cfs.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e804228b4"><link_title>Retrovirus Linked to Chronic Fatigue Syndrome</link_title><friendly_url>http://www.webmd.com/chronic-fatigue-syndrome/news/20091008/retrovirus-linked-to-chronic-fatigue-syndrome</friendly_url><thumbnail height="" width="" alt="retrovirus_chronic_fatigue_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/october_2009/retrovirus_chronic_fatigue_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80128a0e"><link_title>Gene May Help Herpes Virus Enter Cells</link_title><friendly_url>http://www.webmd.com/genital-herpes/news/20050725/gene-may-help-herpes-virus-enter-cells</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007e9a"><link_title>Answers About West Nile Virus</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/west-nile-virus-faq</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801936fb"><link_title>Why Flu Virus Thrives in Winter</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20080303/why-flu-virus-thrives-in-winter</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/March08/flu_spreads_cold_air.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80444731"><link_title>Kids Shed H1N1 Swine Flu Virus 6 Days After Fever</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20091029/kids-shed-h1n1-virus-6-days-after-fever</friendly_url><thumbnail height="" width="" alt="influenza_press_conference.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/october_2009/influenza_press_conference.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80422b6b"><link_title>Picture of Varicella-Zoster Virus Infection on Chest Wall</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-varicella-zoster-virus-infection-chest-wall</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008552"><link_title>Marburg Hemorrhagic Fever Facts</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/marburg-hemorrhagic-fever</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007f3b"><link_title>Side Effects of the Smallpox Vaccine</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/smallpox-vaccination-effects</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8010021f"><link_title>Virus Linked to Throat Cancer Trend</link_title><friendly_url>http://www.webmd.com/sexual-conditions/hpv-genital-warts/news/20070827/hpv-linked-to-throat-cancer-trend</friendly_url><thumbnail height="" width="" alt="HPV Vaccine Infected Women">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/August07/hpv_vaccine_infected_women.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806bd4fb"><link_title>An Overview of Smallpox</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/smallpox-causes-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e808c6e5b"><link_title>Rotavirus Vaccine Has Cut Hospitalization of Kids</link_title><friendly_url>http://www.webmd.com/children/vaccines/news/20110921/rotavirus-vaccine-has-cut-hospitalization-of-kids</friendly_url><thumbnail height="" width="" alt="Rotavirus">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/09_2011/69x75_vaccine_cuts_rotavirus_infection.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8010dd51"><link_title>Stomach Bug Could Trigger CFS</link_title><friendly_url>http://www.webmd.com/chronic-fatigue-syndrome/news/20070913/stomach-virus-could-trigger-cfs</friendly_url><thumbnail height="" width="" alt="Chronic Fatigue Syndrome Virus">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/September07/chronic_fatigue_syndrome_virus.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802d2fae"><link_title>RSV: Winter Virus Common Cause of Illness</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20090204/rsv-winter-virus-common-cause-of-illness</friendly_url><thumbnail height="" width="" alt="rsv_big_winter_problem.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/Febuuary_2009/rsv_big_winter_problem.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e804ba59e"><link_title>Viral Hepatitis: 8 Self-Defense Tips for Travelers</link_title><friendly_url>http://www.webmd.com/hepatitis/features/viral-hepatitis-8-self-defense-tips-for-travelers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80673d43"><link_title>Virus Behind Oral Cancer Epidemic</link_title><friendly_url>http://www.webmd.com/cancer/news/20101013/virus-behind-oral-cancer-epidemic</friendly_url><thumbnail height="" width="" alt="woman having throat examined by doctor">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/10_2010/69x75_hpv_epidemic_oral_cancer_01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e808928ca"><link_title>West Nile Virus in 15 States</link_title><friendly_url>http://www.webmd.com/parenting/news/20110816/west-nile-virus-in-15-states</friendly_url><thumbnail height="" width="" alt="Mosquito">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/08_2011/69x75_west_nile_update.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e803ea350"><link_title>Virus Linked to Prostate Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20090908/virus-linked-to-prostate-cancer</friendly_url><thumbnail height="" width="" alt="virus_causes_prostate_cancer.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/September_2009/virus_causes_prostate_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c663"><link_title>Sexually Transmitted Virus Boosts Risk of Cervical Cancer</link_title><friendly_url>http://www.webmd.com/sexual-conditions/hpv-genital-warts/news/19991124/sexually-transmitted-virus-boosts-risk-of-cervical-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-varicella-zoster-virus-infection-chest-wall" onclick="return sl(this,'','td-rltd-art_1');">Picture of Varicella-Zoster Virus Infection on Chest Wall</a></li>
+      <li><a href="http://answers.webmd.com/answers/1198130/what-are-bacterial-and-viral-infections" onclick="return sl(this,'','td-rltd-art_2');">What are bacterial and viral infections?</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/bacterial-and-viral-infections" onclick="return sl(this,'','td-rltd-art_3');">Bacterial vs. Viral Infections: Causes and Treatments</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/viral-test" onclick="return sl(this,'','td-rltd-art_4');">Viral Tests</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/ebola-hemorrhagic" onclick="return sl(this,'','td-rltd-art_5');">Ebola Hemorrhagic Fever Facts</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/west-nile-virus-faq" onclick="return sl(this,'','td-rltd-art_6');">Answers About West Nile Virus</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/marburg-hemorrhagic-fever" onclick="return sl(this,'','td-rltd-art_7');">Marburg Hemorrhagic Fever Facts</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/a-to-z-guides/viral-infections-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Viral Infections Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1608766601&tile=416858079&tug=&pug=__&site=2&affiliate=20&hcent=&scent=859&pos=113&xpg=3609&sec=&amp;au1=&au2=1&uri=%2fchildren%2fhemorrhagic-telangiectasia-hereditary&artid=091e9c5e8001ec4c&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_age1_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1608766601',
+                    tile:'416858079',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "3609";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1608766601&amp;tile=416858079&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5001&amp;xpg=3609&amp;sec=&amp;au1=&amp;au2=1&amp;uri=%2fchildren%2fhemorrhagic-telangiectasia-hereditary&amp;artid=091e9c5e8001ec4c&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1608766601&amp;amp;tile=416858079&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5001&amp;amp;xpg=3609&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=1&amp;amp;uri=%2fchildren%2fhemorrhagic-telangiectasia-hereditary&amp;amp;artid=091e9c5e8001ec4c&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3609";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

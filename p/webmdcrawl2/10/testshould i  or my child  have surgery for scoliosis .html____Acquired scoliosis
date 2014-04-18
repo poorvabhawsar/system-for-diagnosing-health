@@ -1,0 +1,856 @@
+<title>Should I (or my child) have surgery for scoliosis?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/back-pain/ss/slideshow-low-back-pain-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_1');">Low Back Pain Causes<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/back-pain/ss/slideshow-visual-guide-to-sciatica" class="type_ss" onclick="return sl(this,'','lln-toolsres_2');">Is Your Back Pain Sciatica?<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/pain-management/video/disc-herniation" class="type_vid" onclick="return sl(this,'','lln-toolsres_3');">Herniated Disk: What Happens<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/back-pain/rm-quiz-low-back-pain" onclick="return sl(this,'','lln-toolsres_4');">Lower Back Pain Quiz</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/pain-management/rm-quiz-everyday-aches-pains" onclick="return sl(this,'','lln-toolsres_5');">Everyday Aches and Pains Quiz</a></li>
+      <li id="x61"><a href="http://www.webmd.com/pain-management/chronic-pain-health-check/default.htm" onclick="return sl(this,'','lln-toolsres_6');">Get Chronic Pain Coping Tips</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionset.js">
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="headerLink_fmt"> 
+      <a href="/www/decision-point" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;">What is a Decision Point?</a> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionsetTOC_decsion_pt.jpg" alt="decision point" width="77" height="20" class="headerImg_fmt" />Should I (or my child) have surgery for scoliosis?</h2> 
+     <div class="decisionPoint_fmt"> 
+      <div class="section_fmt "> 
+       <div class="arrowFirst_fmt"> 
+        <div class="leftBorder_fmt"> 
+         <div class="rounded_fmt"> 
+          <div class="vertical1_fmt"> 
+           <div class="vertical2_fmt"> 
+            <div class="vertical3_fmt"> 
+             <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Introduction</a> 
+            </div> 
+           </div> 
+          </div> 
+          <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP1Arrw" alt="arrow" /> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail1_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa115911-Intro"></a> 
+          <p>Surgery for scoliosis is only done to correct severe <a href="http://www.webmd.com/back-pain/spinal-curves-and-scoliosis" onclick="return sl(this,'hw','embd-lnk');">spinal curves</a>. Most cases of scoliosis are not severe and do not require surgery. Consider the following when making your decision on whether you or your child should have surgery for scoliosis:</p> 
+          <ul> 
+           <li>If your spinal curve is less than 25 degrees, have checkups by a doctor every 4 to 6 months to see whether the curve is getting worse. Treatment is not needed. </li> 
+           <li> If your spinal curve is between 25 and 40 degrees, treatment may be necessary and may involve bracing. Some doctors may use brace treatment for curves up to 45 degrees. Bracing is usually effective in preventing a spinal curve from getting worse, but it cannot correct a curve. Bracing will not help an adult's scoliosis.</li> 
+           <li>If your child has a spinal curve greater than 40 degrees, or if you have a spinal curve greater than 50 degrees, and if the curve is likely to get worse, you may want to choose surgery.</li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Medical Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP2Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail2_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa115911-MedInfo"></a> 
+          <h4>What is scoliosis?</h4> 
+          <p>Scoliosis is a condition in which the spine curves abnormally from side to side, rather than being straight. The spine may also be twisted (rotated). Scoliosis involves spinal curves, greater than 10 degrees, that are usually S-shaped or C-shaped. </p> 
+          <p>Scoliosis occurs most often in girls who are 10 to 16 years old. In the general population, about 1 out of 100 people (1%) have some type of scoliosis.<sup class="Reference"><a href="http://www.webmd.com/back-pain/should-i-or-my-child-have-surgery-for-scoliosis#ue5742" onclick="return sl(this,'','embd-lnk');">1</a></sup></p> 
+          <p>See an illustration of scoliosis .</p> 
+          <h4>What kind of surgery is done for scoliosis?</h4> 
+          <p>The main type of surgery for scoliosis is a spinal fusion. In this procedure, the curved part of the backbone is straightened with rods, wires, hooks, or screws. Then small pieces of bone are put over the spine. These pieces of bone will grow together with the spine, fusing it into proper position. </p> 
+          <p> <a href="http://www.webmd.com/back-pain/spinal-instrumentation-without-fusion" onclick="return sl(this,'hw','embd-lnk');">Instrumentation without fusion</a> is a technique in which metal rods are attached to the spine to stabilize a spinal curve without fusing the vertebrae together. This is only done in small children when fusion of the spine, which stops growth in that area of the spine, is not desirable. The child usually has to wear a brace full-time after having this surgery.</p> 
+          <h4>What are the risks of surgery for scoliosis?</h4> 
+          <p>New problems that could develop from surgery for scoliosis include the following:</p> 
+          <ul> 
+           <li>Problems associated with back surgery, such as nerve damage, lung problems, or spinal cord damage.</li> 
+           <li>In a child, spinal fusion will stop growth in the area of the spine that is fused.</li> 
+           <li>General complications from surgery, such as blood clots or infection or complications from anesthesia. The risk of these complications is higher in older adults.</li> 
+          </ul> 
+          <p>Talk to your doctor about your or your child's chances of having problems from surgery. </p> 
+          <p>Other problems include lost time at work or school for recovery and the possible need to wear a body cast or brace for a few months after surgery.</p> 
+          <h4>What are the risks of not having surgery for scoliosis?</h4> 
+          <p>A severe spinal curve that is progressing and is not treated with surgery is likely to get worse.</p> 
+          <p>As scoliosis gets worse, the bones of the spine rotate toward the inner part of the curve. If the upper part of the spine is affected (thoracic curve), the ribs may crowd together on one side of the body and become widely separated on the other side. The curve may force the space between the spinal bones to narrow. The spinal bones may also become thicker on the outer edge of the curve.</p> 
+          <p>In severe curves, the misshapen ribs may reduce the amount of air the lungs can hold and may cause the heart to work harder to pump blood through the compressed lung tissue. Over time, this may lead to heart failure.</p> 
+          <p>Scoliosis that is present at birth or that develops in infants may be worse in the long run than scoliosis that develops later in life. If an infant or young child with a severe spinal curve does not have surgery, it is likely that the spinal curve will get worse. This is because the more growing the skeleton has to do, the worse the curve may become.</p> 
+          <h4>How effective is surgery for scoliosis?</h4> 
+          <p>Surgery for scoliosis effectively prevents further curvature of the spine and usually can make the curvature less severe. Surgery may also help decrease pain and allow people with scoliosis to do more daily activities than they would otherwise. </p> 
+          <p>Each person's scoliosis is different. Talk to your doctor about what impact surgery for scoliosis is likely to have on you. </p> 
+          <p>If you need more information, see the topic Scoliosis.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Your Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP3Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail3_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa115911-YourInfo"></a> 
+          <p>Your choices are:</p> 
+          <ul> 
+           <li>Wait to see if your spinal curve gets worse.</li> 
+           <li>Use a brace to control scoliosis. This is an option for children only.</li> 
+           <li>Have surgery to treat scoliosis.</li> 
+          </ul> 
+          <p>The decision about whether to have surgery for scoliosis takes into account your personal feelings and the medical facts.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0"> 
+           <caption> 
+            <b>Deciding about surgery for scoliosis</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th scope="col"> Reasons to have surgery for scoliosis</th> 
+             <th scope="col"> Reasons not to have surgery for scoliosis</th> 
+            </tr> 
+            <tr> 
+             <td scope="col" valign="top" width="50%"> 
+              <ul> 
+               <li>You (or your child) have severe scoliosis that is irreversible and caused by a disease or an unknown factor.</li> 
+               <li>Your child has a spinal curve greater than 40 degrees that is progressing or expected to progress. (Some doctors may brace curves up to 45 degrees in children.)</li> 
+               <li>You have a spinal curve greater than 50 degrees that is progressing or expected to progress. </li> 
+               <li>You (or your child) have severe scoliosis, and other treatment, such as bracing, cannot be used or has failed.</li> 
+              </ul> <p>Are there other reasons you might want to have surgery for scoliosis?</p> </td> 
+             <td scope="col" valign="top" width="50%"> 
+              <ul> 
+               <li>Your scoliosis is caused by another factor that can be treated.</li> 
+               <li>You (or your child) have a spinal curve that is less than 25 degrees and will have examinations by a doctor every 4 to 6 months to watch for curve progression.</li> 
+               <li>You have moderate scoliosis but suffer from back pain, which may not be relieved by surgery for scoliosis.</li> 
+               <li>Your general health places you at significant risk from having any kind of surgery.</li> 
+              </ul> <p>Are there other reasons you might not want to have surgery for scoliosis?</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p>These personal stories may help you make your decision.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Wise Health Decision</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP4Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail4_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa115911-WiseDecision"></a> 
+          <p> Use this worksheet to help you make your decision. After completing it, you should have a better idea of how you feel about surgery for scoliosis. Discuss the worksheet with your doctor.</p> 
+          <p>Circle the answer that best applies to you.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody> 
+            <tr> 
+             <td valign="top">Scoliosis has a major impact on my life.</td> 
+             <td align="center" valign="top" width="9%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%"> Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I (or my child) have scoliosis caused by another factor that can be treated.</td> 
+             <td align="center" valign="top" width="9%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I (or my child) have a severe spinal curve, and I want to wait to see if it progresses.</td> 
+             <td align="center" valign="top" width="9%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I have a spinal curve greater than 50 degrees that is progressing.</td> 
+             <td align="center" valign="top" width="9%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA*</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>My child has a spinal curve greater than 40 degrees that is progressing.</p> </td> 
+             <td align="center" valign="top" width="9%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I (or my child) have a spinal curve less than 25 degrees.</td> 
+             <td align="center" valign="top" width="9%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I am comfortable with having surgery.</td> 
+             <td align="center" valign="top" width="9%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">My home or work situation allows me to take the time necessary to recover after surgery.</td> 
+             <td align="center" valign="top" width="9%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">Bracing or another treatment for scoliosis has been effective.</td> 
+             <td align="center" valign="top" width="9%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I (or my child) have severe scoliosis that is irreversible and caused by a disease or an unknown factor.</td> 
+             <td align="center" valign="top" width="9%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA</td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <p> <i>*NA = Not applicable</i> </p> 
+          <p>Use the following space to list any other important concerns you have about this decision.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <tbody>
+            <tr> 
+             <td valign="top" width="98%"> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <h4>What is your overall impression?</h4> 
+          <p>Your answers in the above worksheet are meant to give you a general idea of where you stand on this decision. You may have one overriding reason to have or not have surgery for scoliosis.</p> 
+          <p>Check the box below that represents your overall impression about your decision.</p> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward having surgery</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="25%"> <p> <b>Leaning toward NOT having surgery</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">References</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP5Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail5_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa115911-Bib"></a> 
+          <blockquote> 
+           <h3>Citations</h3> 
+           <ol> 
+            <li> <p> <a name="ue5742"></a>Hu SS, et al. (2006). Scoliosis section of Disorders, diseases and injuries of the spine. In HB Skinner, ed., <u>Current Diagnosis and Treatment in Orthopedics</u>, 4th ed., chap. 5, pp. 255–269. New York: Lange Medical/McGraw-Hill.</p> </li> 
+           </ol> 
+          </blockquote> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt  last_fmt"> 
+       <div class="arrowLast_fmt" id="lastDiv"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;">Credits</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP6Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail6_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa115911-Credits"></a> 
+          <table border="0" cellpadding="5"> 
+           <tbody>
+            <tr> 
+             <td valign="top"> <b>Author</b> </td> 
+             <td>Kathleen M. Ariss, MS</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Daniel Greer</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Tracy Landauer</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+             <td>Michael J. Sexton, MD - Pediatrics</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+             <td>Thomas S. Renshaw, MD - Orthopedics</td> 
+            </tr> 
+            <tr> 
+             <td> <b>Last Updated</b> </td> 
+             <td>August 27, 2009</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: August 27, 2009
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - DecisionPoint';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1010"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_vid" href="http://www.webmd.com/pain-management/video/corrective-exercises" onclick="return sl(this,'','rltd-p-1010_1');">Exercises for Chronic Pain <i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/back-pain/guide/back-pain-injection-treatments" onclick="return sl(this,'','rltd-p-1010_2');">Injections for Back Pain: What You Need to Know</a> </li> 
+     <li id="x64"> <a class="type_vid" href="http://www.webmd.com/back-pain/video/abcs-of-back-pain" onclick="return sl(this,'','rltd-p-1010_3');">Back Pain: What You Need to Know<i> </i></a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/fibromyalgia/ss/slideshow-fibromyalgia-overview" onclick="return sl(this,'','rltd-p-1010_4');">What Fibromyalgia Looks Like</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/back-pain/features/back-pain-remedies-and-tips" onclick="return sl(this,'','rltd-p-1010_5');">12 Tips to Ease Back Pain</a> </li> 
+     <li id="x67" class="last"> <a class="type_vid" href="http://www.webmd.com/back-pain/video/water-knife-surgery" onclick="return sl(this,'','rltd-p-1010_6');">Water Knife Surgery for Back Pain<i> </i></a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1010_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80d3bc82" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806a4ecd</chronic_id><r_object_id>091e9c5e80d3bc82</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e806a4ecd.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>08/21/2013 15:08:37</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Back Pain Center/template_Back Pain Center_091e9c5e80022eb9.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80022eb9"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Scoliosis</name><link_title>Scoliosis</link_title><description>Scoliosis is a lateral curvature in the normally straight vertical line of the spine. When viewed from the side, the spine shows a mild roundness in the upper back and inward curvature of the lower back. The most common type of scoliosis is idiopathic; it is present at birth and may be inherited. Other types include neuromuscular scoliosis and degenerative scoliosis. Idiopathic scoliosis usually affects those ages 10-16, progressing during the growth years. Some clues that a child may have scoliosis include uneven shoulders, a prominent shoulder blade, uneven waist, or leaning to one side. Diagnosis includes a bone exam and an X-ray to evaluate the magnitude of the curve. Treatment for scoliosis includes back braces, and in more severe cases, surgery that involves joining the vertebrae together permanently (spinal fusion). Follow the links below to find WebMD's comprehensive coverage of scoliosis, what it looks like, its symptoms, treatment, and much more.</description><friendly_url>http://www.webmd.com/a-to-z-guides/scoliosis-directory</friendly_url></topic_dir><related_assets><asset id=""><link_title>What causes scoliosis?</link_title><friendly_url>http://answers.webmd.com/answers/1192410/what-causes-scoliosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e806d04d5"><link_title>DNA Test Predicts Scoliosis Progression</link_title><friendly_url>http://www.webmd.com/children/news/20101130/dna-test-predicts-scoliosis-progression</friendly_url><thumbnail height="" width="" alt="scoliosis illustration">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_dna_test_scoliosis_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000be0e"><link_title>Adult Scoliosis Surgery Eases Back Pain</link_title><friendly_url>http://www.webmd.com/back-pain/news/20030227/surgery-helps-adults-with-scoliosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e0d3"><link_title>Adult Scoliosis Treatment Mostly Unnecessary</link_title><friendly_url>http://www.webmd.com/back-pain/news/20030205/scoliosis-outlook-not-so-grim</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80008104"><link_title>An Overview of Scoliosis</link_title><friendly_url>http://www.webmd.com/osteoarthritis/guide/arthritis-scoliosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802c8390"><link_title>Actor Shailene Woodley has learned to take her scoliosis in stride</link_title><friendly_url>http://www.webmd.com/pain-management/features/actress-shailene-woodley-takes-scoliosis-in-stride_</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001b7e9"><link_title>Anterior approach for scoliosis surgery</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/anterior-approach-for-scoliosis-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001b89a"><link_title>Personal stories about surgery for scoliosis</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/personal-stories-about-surgery-for-scoliosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001bd25"><link_title>Risser sign</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/risser-sign</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dd20"><link_title>Scoliosis-Health Tools</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e373"><link_title>Scoliosis-Medications</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-medications</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80019f4f"><link_title>Brace (Orthotic) Treatment for Scoliosis</link_title><friendly_url>http://www.webmd.com/back-pain/brace-orthotic-treatment-for-scoliosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dbd6"><link_title>Scoliosis-Other Treatment</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-other-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d9bf"><link_title>Scoliosis-Surgery</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001de36"><link_title>Scoliosis-Cause</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d9cf"><link_title>Scoliosis-Exams and Tests</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dbed"><link_title>Scoliosis-Home Treatment</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001db35"><link_title>Scoliosis-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e089"><link_title>Scoliosis-Prevention</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8013f122"><link_title>Scoliosis-Related Information</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d946"><link_title>Scoliosis-Symptoms</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e172"><link_title>Scoliosis-Treatment Overview</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e0de"><link_title>Scoliosis-What Increases Your Risk</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-what-increases-your-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001c725"><link_title>How Common Is Scoliosis?</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/how-common-is-scoliosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001da34"><link_title>Scoliosis-Topic Overview</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e101"><link_title>Scoliosis-What Happens</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-what-happens</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e35e"><link_title>Scoliosis-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/back-pain/tc/scoliosis-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80019d7e"><link_title>Scoliosis</link_title><friendly_url>http://www.webmd.com/back-pain/scoliosis-9352</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>How can scoliosis be prevented?</link_title><friendly_url>http://answers.webmd.com/answers/1192414/how-can-scoliosis-be-prevented</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What can I do to treat scoliosis at home?</link_title><friendly_url>http://answers.webmd.com/answers/1192412/what-can-i-do-to-treat</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://answers.webmd.com/answers/1192410/what-causes-scoliosis" onclick="return sl(this,'','lln-tdrelcon_1');">What causes scoliosis?</a></li>
+      <li><a href="http://www.webmd.com/osteoarthritis/guide/arthritis-scoliosis" onclick="return sl(this,'','lln-tdrelcon_2');">An Overview of Scoliosis</a></li>
+      <li><a href="http://www.webmd.com/pain-management/features/actress-shailene-woodley-takes-scoliosis-in-stride_" onclick="return sl(this,'','lln-tdrelcon_3');">Actor Shailene Woodley has learned to take her scoliosis in stride</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/anterior-approach-for-scoliosis-surgery" onclick="return sl(this,'','lln-tdrelcon_4');">Anterior approach for scoliosis surgery</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/personal-stories-about-surgery-for-scoliosis" onclick="return sl(this,'','lln-tdrelcon_5');">Personal stories about surgery for scoliosis</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/risser-sign" onclick="return sl(this,'','lln-tdrelcon_6');">Risser sign</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/scoliosis-health-tools" onclick="return sl(this,'','lln-tdrelcon_7');">Scoliosis-Health Tools</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/a-to-z-guides/scoliosis-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Scoliosis Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1175546514&tile=932601762&tug=&pug=__&site=2&affiliate=20&hcent=972&scent=&pos=113&xpg=1661&sec=&amp;au1=1&au2=1&uri=%2fback-pain%2fshould-i-or-my-child-have-surgery-for-scoliosis&artid=091e9c5e8001ccc0&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_a080_h16_r52_age1_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1175546514',
+                    tile:'932601762',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1661";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1175546514&amp;tile=932601762&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=972&amp;scent=&amp;pos=5001&amp;xpg=1661&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fback-pain%2fshould-i-or-my-child-have-surgery-for-scoliosis&amp;artid=091e9c5e8001ccc0&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_a080_h16_r52_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1175546514&amp;amp;tile=932601762&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=972&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1661&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fback-pain%2fshould-i-or-my-child-have-surgery-for-scoliosis&amp;amp;artid=091e9c5e8001ccc0&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_a080_h16_r52_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1661";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

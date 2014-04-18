@@ -1,0 +1,555 @@
+<title>Quiz: Myths and Facts About Your Baby's Eczema </title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <script type="text/javascript">
+/* ========== Rich Media Quiz Program Object ========== */
+
+$(function() {
+	if (typeof webmd.p.rmq === "undefined") {
+		webmd.p.rmq = webmd.object(webmd.m.richMediaQuiz);
+	}
+
+	if (typeof webmd.p.rmq.slideData === "undefined") {
+		webmd.p.rmq.slideData = [
+			{type: "question", scored: true, correct: "a"},
+			{type: "answer"},
+			{type: "question", scored: true, correct: "a"},
+			{type: "answer"},
+			{type: "question", scored: true, correct: "b"},
+			{type: "answer"},
+			{type: "question", scored: true, correct: "a"},
+			{type: "answer"},
+			{type: "question", scored: true, correct: "b"},
+			{type: "answer"},
+			{type: "question", scored: true, correct: "b"},
+			{type: "answer"},
+			{type: "question", scored: true, correct: "b"},
+			{type: "answer"},
+			{type: "question", scored: true, correct: "b"},
+			{type: "answer"},
+			{type: "results"}
+		]
+	}
+
+	webmd.p.rmq.scoreRanks = [
+		{ pct: 33, resultMsgId : 3 },
+		{ pct: 67, resultMsgId : 2 },
+		{ pct: 100, resultMsgId : 1 }
+	]
+
+	webmd.p.rmq.init();
+});
+</script> 
+   <div class="rich_media_quiz"> 
+    <div id="quiz_header"> 
+     <h2>Quiz: Myths and Facts About Your Baby's Eczema</h2> 
+     <div id="quiz_progress"> 
+      <span class="cur_prog_title">&nbsp;</span>&nbsp;
+      <span class="cur_prog_num">1</span>&nbsp;of&nbsp;
+      <span class="tot_prog_num">&nbsp;</span>
+     </div> 
+    </div> 
+    <div id="quiz_scorebox"> 
+     <div class="score_text">
+      Current Score:&nbsp;
+      <span class="score_num_correct">&nbsp;</span>
+      <span class="score_num_incorrect"></span>
+     </div> 
+    </div> 
+    <form name="rmq" action="http://sdcstaging.webmd.com/sdclive/processor.aspx" method="post" target="sdc_submit" onsubmit="return false;"> 
+     <input type="hidden" name="redirectUrl" value="about:blank" id="redirectUrl" /> 
+     <input type="hidden" name="system_formId" value="" /> 
+     <input type="hidden" name="system_firstLandingPage" value="" /> 
+     <input type="hidden" name="env" value="desktop" /> 
+     <div id="quiz_slides"> 
+      <div id="preload_animation" style="width:100%; text-align:center;"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/videoloading_noscroll.gif" alt="Loading..Please Wait" border="0" /> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg" alt="slide image" /> 
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Your baby can get eczema at day care. </b> </h3> 
+         <ul class="radio_inputs"> 
+          <li> <input type="radio" name="q1" value="a" id="q1a" /> <label for="q1a"> Myth </label> </li> 
+          <li> <input type="radio" name="q1" value="b" id="q1b" /> <label for="q1b"> Fact </label> </li> 
+         </ul> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous">Previous</a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue">Continue</a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg" alt="slide image" />
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Your baby can get eczema at day care. </b> </h3> 
+         <ul class="quiz_answers"> 
+          <li class="user_answer"> <strong>Your Answer: </strong> <span class="answer_text"> </span> </li> 
+          <li class="correct_answer"> <strong>Correct Answer: </strong> <span class="answer_text"> </span> </li> 
+         </ul> 
+         <div class="answer_expl"> 
+          <div class="expl_content"> 
+           <p> Eczema is a common skin problem that can make your baby's skin red, itchy, and sore. But your little bundle of joy didn't catch this rash from anybody, and she can't give it to anyone else. Babies and children with eczema often have relatives with it. Or they have family members with asthma, hay fever, or other allergies. Scientists think it could be passed down from parents' genes, but no one is sure why some children get it. </p> 
+           <p> &nbsp; </p> 
+          </div> 
+         </div> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous"> <span class="jawsonly">Previous</span> </a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue"> <span class="jawsonly">Continue</span> </a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg" alt="slide image" /> 
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Babies who have eczema have it for life. </b> </h3> 
+         <ul class="radio_inputs"> 
+          <li> <input type="radio" name="q2" value="a" id="q2a" /> <label for="q2a"> Myth </label> </li> 
+          <li> <input type="radio" name="q2" value="b" id="q2b" /> <label for="q2b"> Fact </label> </li> 
+         </ul> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous">Previous</a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue">Continue</a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg" alt="slide image" />
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Babies who have eczema have it for life. </b> </h3> 
+         <ul class="quiz_answers"> 
+          <li class="user_answer"> <strong>Your Answer: </strong> <span class="answer_text"> </span> </li> 
+          <li class="correct_answer"> <strong>Correct Answer: </strong> <span class="answer_text"> </span> </li> 
+         </ul> 
+         <div class="answer_expl"> 
+          <div class="expl_content"> 
+           <p> There's no cure for eczema, but that doesn't mean your baby will have sore and itchy skin forever. It tends to get better with time. In fact, eczema goes away in some children by the time they turn 2. About half of children who get eczema outgrow it. And for those who do have eczema as adults, it is usually milder than when they were children. </p> 
+           <p> &nbsp; </p> 
+          </div> 
+         </div> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous"> <span class="jawsonly">Previous</span> </a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue"> <span class="jawsonly">Continue</span> </a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a> 
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> What you eat while breastfeeding can affect eczema.&nbsp; </b> </h3> 
+         <ul class="radio_inputs"> 
+          <li> <input type="radio" name="q3" value="a" id="q3a" /> <label for="q3a"> Myth </label> </li> 
+          <li> <input type="radio" name="q3" value="b" id="q3b" /> <label for="q3b"> Fact </label> </li> 
+         </ul> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous">Previous</a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue">Continue</a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a>
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> What you eat while breastfeeding can affect eczema.&nbsp; </b> </h3> 
+         <ul class="quiz_answers"> 
+          <li class="user_answer"> <strong>Your Answer: </strong> <span class="answer_text"> </span> </li> 
+          <li class="correct_answer"> <strong>Correct Answer: </strong> <span class="answer_text"> </span> </li> 
+         </ul> 
+         <div class="answer_expl"> 
+          <div class="expl_content"> 
+           <p> Eczema got better in breastfed babies when their mothers stopped drinking milk and eating eggs, some studies have shown. Also, babies who were breastfed for at least 4 months were less likely to get eczema, especially if their moms didn't drink milk, other studies have shown. </p> 
+           <p> &nbsp; </p> 
+           <p> But if you're concerned that what you or your baby is eating may be adding to their eczema, talk with your doctor and your baby’s pediatrician. Although you may want to switch things up, most eczema in babies isn’t related to breast milk or formula. </p> 
+           <p> &nbsp; </p> 
+          </div> 
+         </div> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous"> <span class="jawsonly">Previous</span> </a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue"> <span class="jawsonly">Continue</span> </a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a> 
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Not bathing your baby as much will help their skin. </b> </h3> 
+         <ul class="radio_inputs"> 
+          <li> <input type="radio" name="q4" value="a" id="q4a" /> <label for="q4a"> Myth </label> </li> 
+          <li> <input type="radio" name="q4" value="b" id="q4b" /> <label for="q4b"> Fact </label> </li> 
+         </ul> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous">Previous</a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue">Continue</a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a>
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Not bathing your baby as much will help their skin. </b> </h3> 
+         <ul class="quiz_answers"> 
+          <li class="user_answer"> <strong>Your Answer: </strong> <span class="answer_text"> </span> </li> 
+          <li class="correct_answer"> <strong>Correct Answer: </strong> <span class="answer_text"> </span> </li> 
+         </ul> 
+         <div class="answer_expl"> 
+          <div class="expl_content"> 
+           <p> Short daily baths with lukewarm water and mild cleanser can help keep away infection and be soothing to your baby. Don't use much soap, though. And avoid bubble baths and harsh or scented soaps that will irritate her skin. After bathing your baby, rinse her off twice to remove all soap. Then apply cream or ointment within 3 minutes to lock in moisture. </p> 
+           <p> &nbsp; </p> 
+          </div> 
+         </div> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous"> <span class="jawsonly">Previous</span> </a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue"> <span class="jawsonly">Continue</span> </a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a> 
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Drooling can make your baby's eczema worse. </b> </h3> 
+         <ul class="radio_inputs"> 
+          <li> <input type="radio" name="q5" value="a" id="q5a" /> <label for="q5a"> Myth </label> </li> 
+          <li> <input type="radio" name="q5" value="b" id="q5b" /> <label for="q5b"> Fact </label> </li> 
+         </ul> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous">Previous</a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue">Continue</a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a>
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Drooling can make your baby's eczema worse. </b> </h3> 
+         <ul class="quiz_answers"> 
+          <li class="user_answer"> <strong>Your Answer: </strong> <span class="answer_text"> </span> </li> 
+          <li class="correct_answer"> <strong>Correct Answer: </strong> <span class="answer_text"> </span> </li> 
+         </ul> 
+         <div class="answer_expl"> 
+          <div class="expl_content"> 
+           <p> It's not unusual for babies to get rashes on their chins and cheeks from drooling. But if your baby has eczema, that saliva can really irritate her sensitive skin. What can you do? Put an ointment like petroleum jelly on her chin, cheeks, and neck to create a barrier between the drool and her skin. </p> 
+           <p> &nbsp; </p> 
+           <p> &nbsp; </p> 
+          </div> 
+         </div> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous"> <span class="jawsonly">Previous</span> </a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue"> <span class="jawsonly">Continue</span> </a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a> 
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Cotton clothing is best for babies with eczema.&nbsp; </b> </h3> 
+         <ul class="radio_inputs"> 
+          <li> <input type="radio" name="q6" value="a" id="q6a" /> <label for="q6a"> Myth </label> </li> 
+          <li> <input type="radio" name="q6" value="b" id="q6b" /> <label for="q6b"> Fact </label> </li> 
+         </ul> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous">Previous</a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue">Continue</a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a>
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Cotton clothing is best for babies with eczema.&nbsp; </b> </h3> 
+         <ul class="quiz_answers"> 
+          <li class="user_answer"> <strong>Your Answer: </strong> <span class="answer_text"> </span> </li> 
+          <li class="correct_answer"> <strong>Correct Answer: </strong> <span class="answer_text"> </span> </li> 
+         </ul> 
+         <div class="answer_expl"> 
+          <div class="expl_content"> 
+           <p> Loose clothing made from cotton and other natural materials will feel better on your baby's skin. Don't dress her in wool or anything scratchy. Wash her clothes before she wears them, and use mild detergents and soaps that don't have perfumes, dyes, or alcohol. Look for things that are labeled &quot;fragrance-free&quot; (not &quot;unscented&quot;), &quot;hypoallergenic,&quot; and &quot;for sensitive skin.&quot; </p> 
+           <p> &nbsp; </p> 
+          </div> 
+         </div> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous"> <span class="jawsonly">Previous</span> </a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue"> <span class="jawsonly">Continue</span> </a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a> 
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Your baby's eczema is likely to be worse in the winter. </b> </h3> 
+         <ul class="radio_inputs"> 
+          <li> <input type="radio" name="q7" value="a" id="q7a" /> <label for="q7a"> Myth </label> </li> 
+          <li> <input type="radio" name="q7" value="b" id="q7b" /> <label for="q7b"> Fact </label> </li> 
+         </ul> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous">Previous</a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue">Continue</a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a>
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Your baby's eczema is likely to be worse in the winter. </b> </h3> 
+         <ul class="quiz_answers"> 
+          <li class="user_answer"> <strong>Your Answer: </strong> <span class="answer_text"> </span> </li> 
+          <li class="correct_answer"> <strong>Correct Answer: </strong> <span class="answer_text"> </span> </li> 
+         </ul> 
+         <div class="answer_expl"> 
+          <div class="expl_content"> 
+           <p> Think about how chapped your lips can become in the winter when the air is dry. That dry air also affects your baby's eczema. Using a humidifier won't help much, though. The best thing to do is keep her skin moist by applying a thick cream or ointment. Your baby's skin should get better in the summer when there's naturally more moisture in the air. </p> 
+           <p> &nbsp; </p> 
+          </div> 
+         </div> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous"> <span class="jawsonly">Previous</span> </a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue"> <span class="jawsonly">Continue</span> </a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a> 
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Babies with eczema are likely to have other allergies. </b> </h3> 
+         <ul class="radio_inputs"> 
+          <li> <input type="radio" name="q8" value="a" id="q8a" /> <label for="q8a"> Myth </label> </li> 
+          <li> <input type="radio" name="q8" value="b" id="q8b" /> <label for="q8b"> Fact </label> </li> 
+         </ul> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous">Previous</a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue">Continue</a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div class="slide_media"> 
+         <a class="slide_image_source" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/rich_media_quiz/topic/rmq_baby_eczema_myths_and_facts/getty_rf_photo_of_infant_wrapped_towel.jpg">slide image</a>
+        </div> 
+        <div class="slide_text"> 
+         <h3> <b> Babies with eczema are likely to have other allergies. </b> </h3> 
+         <ul class="quiz_answers"> 
+          <li class="user_answer"> <strong>Your Answer: </strong> <span class="answer_text"> </span> </li> 
+          <li class="correct_answer"> <strong>Correct Answer: </strong> <span class="answer_text"> </span> </li> 
+         </ul> 
+         <div class="answer_expl"> 
+          <div class="expl_content"> 
+           <p> Babies and children with eczema may be more likely to have allergies or asthma, but eczema doesn't cause them. Half of children with eczema have asthma, and two-thirds of kids with eczema get hay fever. </p> 
+           <p> &nbsp; </p> 
+          </div> 
+         </div> 
+         <div class="slide_controls"> 
+          <ul> 
+           <li> <a href="#" class="quiz_prev" title="Previous"> <span class="jawsonly">Previous</span> </a> </li> 
+           <li> <a href="#" class="quiz_next" title="Continue"> <span class="jawsonly">Continue</span> </a> </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide"> 
+       <div class="slide_content"> 
+        <div id="quiz_total_pct"> 
+         <strong>Your Score:&nbsp;</strong> 
+         <span class="score_pct">&nbsp;</span> 
+         <span class="score_text">&nbsp;You correctly answered <span class="score_num_correct">&nbsp;</span>&nbsp;out of&nbsp;<span class="score_num_total">&nbsp;</span>&nbsp;questions.</span> 
+        </div> 
+        <div id="quiz_total_rank"> 
+         <strong>Your Score:&amp;nbsp;</strong> 
+         <span class="score_rank">&nbsp;</span> 
+         <span class="score_text">&nbsp;You correctly answered <span class="score_num_correct">&nbsp;</span>&nbsp;out of&nbsp;<span class="score_num_total">&nbsp;</span>&nbsp;questions.</span> 
+        </div> 
+        <div class="slide_media"> 
+        </div> 
+        <div class="quiz_results" id="results_1"> 
+         <p> Great job! You know a lot about eczema and how to help keep your baby's skin soothed. </p> 
+        </div> 
+        <div class="quiz_results" id="results_2"> 
+         <p> Not bad! You didn't make any rash decisions about your answers. </p> 
+        </div> 
+        <div class="quiz_results" id="results_3"> 
+         <p> Don't let your results get you down. Study up on eczema and take the quiz again for a more soothing outcome. </p> 
+        </div> 
+        <div id="results_controls"> 
+         <a href="#" class="quiz_retake" title="Retake Quiz"> <span class="jawsonly">Retake Quiz</span> </a> 
+         <a href="#" class="quiz_print" title="Print My Results">Print My Results</a> 
+         <div class="rmq_clear"> 
+         </div> 
+        </div> 
+        <div class="more_reading_rdr"> 
+         <h3>Read More on Eczema</h3> 
+         <ul> 
+          <li> <i onclick="return sl(this,'','rmq-rltd_1');"> <a href="http://www.webmd.com/parenting/baby/ss/slideshow-baby-skin-care" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/parenting/baby/ss/slideshow-baby-skin-care" class="type_ss">Baby Skin Care Slide Show: Simple Tips to Keep Baby's Skin Healthy<i> </i></a>&nbsp; </i> </li> 
+          <li> <i onclick="return sl(this,'','rmq-rltd_2');"> <a href="http://www.webmd.com/skin-problems-and-treatments/eczema/ss/slideshow-eczema-overview" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/skin-problems-and-treatments/eczema/ss/slideshow-eczema-overview" class="type_ss">Slideshow: A Visual Guide to Eczema<i> </i></a> </i> </li> 
+          <li> <i onclick="return sl(this,'','rmq-rltd_3');"> <a href="http://www.webmd.com/skin-problems-and-treatments/eczema/treatment-11/slideshow-eczema" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/skin-problems-and-treatments/eczema/treatment-11/slideshow-eczema" class="type_ss">Slideshow: Living and Dealing With Eczema<i> </i></a> </i> </li> 
+         </ul> 
+         <p> &nbsp; </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </form> 
+    <div id="quiz_footer"> 
+    </div> 
+   </div> 
+   <iframe id="sdc_iframe" name="sdc_iframe" title="sdc_iframe" width="1" height="1" marginwidth="0" marginheight="0" style="margin:0; display: none;" frameborder="0" scrolling="no" src="about:blank"> </iframe> 
+   <iframe id="sdc_submit" name="sdc_submit" title="sdc_submit" width="1" height="1" marginwidth="0" marginheight="0" style="margin:0; display: none;" frameborder="0" scrolling="0" src="about:blank"> </iframe> 
+   <div class="quiz_footer"> 
+    <p>Reviewed by <a onclick="return sl(this,'nw','review-lnk');" href="http://www.webmd.com/brunilda-nazario">Brunilda Nazario, MD</a> on December 19, 2013</p> 
+    <div> 
+     <p class="sources_noprint"> <a href="" onclick="toggle('sources_fmt', 'sources_sign_fmt'); return false;">Sources: <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/todaysNews_plusSign.gif" alt="Sources" align="top" id="sources_sign_fmt" border="0" /></a> </p>
+     <div style="display: none;" id="sources_fmt"> 
+      <p> IMAGE PROVIDED BY: </p> 
+      <p> Getty / FUSE </p> 
+      <p> SOURCES: </p> 
+      <p> American Academy of Dermatology: &quot;Atopic Dermatitis: Diagnosis, Treatment, and Outcome,&quot; &quot;Different Kinds of Eczema,&quot; &quot;Itchy Skin,&quot; &quot;Stop Itchy Skin Before It Starts.&quot; </p> 
+      <p> American Academy of Pediatricians: &quot;Eczema.&quot; </p> 
+      <p> Cant, A. J., <i> British Medical Journal, </i>1986. </p> 
+      <p> Children's Health Network: &quot;Newborn Skin Rashes and Birthmarks.&quot; </p> 
+      <p> Cleveland Clinic: &quot;Understanding Eczema.&quot; </p> 
+      <p> Kids Health: &quot;Eczema,&quot; &quot;Eek, It's Eczema.&quot; </p> 
+      <p> National Eczema Association: &nbsp;&quot;All About Atopic Dermatitis,&quot; &quot;Infant and Toddler Eczema.&quot; </p> 
+      <p> University of Maryland Medical Center: &quot;Eczema.&quot; </p> 
+     </div> 
+     <p></p> 
+    </div> 
+    <div> 
+     <p class="sources_noprint">This tool does not provide medical advice. <a href="" onclick="toggle('disclaimer_fmt','disclaimer_sign_fmt'); return false;"><span style="font-weight: bold;">See additional information: </span><img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/todaysNews_plusSign.gif" alt="See additional information" align="top" id="disclaimer_sign_fmt" border="0" /></a></p>
+     <div style="display:none;" id="disclaimer_fmt">
+      <p>THIS TOOL DOES NOT PROVIDE MEDICAL ADVICE. &nbsp;It is intended for general informational purposes only and does not address individual circumstances. It is not a substitute for professional medical advice, diagnosis or treatment and should not be relied on to make decisions about your health. Never ignore professional medical advice in seeking treatment because of something you have read on the WebMD Site. If you think you may have a medical emergency, immediately call your doctor or dial 911.</p>
+     </div>
+     <p></p> 
+    </div> 
+    <p class="tool_copyright"> &copy; 2014 WebMD, LLC. All rights reserved. </p> 
+   </div>
+   <script type="text/javascript">
+if(typeof webmd.p.rmq === "undefined"){
+	webmd.p.rmq = webmd.object(webmd.m.richMediaQuiz);
+}
+webmd.p.rmq.sdc = {
+	project: "EczemaMythsRMQ", form: "EczemaMythsRMQ"
+};</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20">
+   <script type="text/javascript">
+
+$(function(){
+	$(document).bind("fAfter",function(event){
+		console.log('checking for results');
+		var rmq,slideData;
+		rmq = webmd.p.rmq;       
+		slideData = rmq.slideData[rmq.current];
+		if (slideData.type === "results" && typeof(triggerSW) != "undefined"){
+			triggerSW();
+		}
+	});
+});
+
+</script>
+  </div> 
+ </div> 
+</div>

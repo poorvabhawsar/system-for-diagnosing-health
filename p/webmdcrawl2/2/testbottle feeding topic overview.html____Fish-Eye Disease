@@ -1,0 +1,584 @@
+<title>Bottle-Feeding-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Essentials for Baby</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0002" class="type_ss" onclick="return sl(this,'','tools-res_1');">Fungal Infections in Babies<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/answers-health/answers-baby-sleep-habits" onclick="return sl(this,'','tools-res_2');">Helping Baby Sleep </a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parenting/baby/features/6-serious-symptoms-in-babies-never-to-ignore" onclick="return sl(this,'','tools-res_3');">6 Serious Baby Symptoms</a></li>
+      <li id="x59"><a href="http://www.webmd.com/parenting/baby/video/introducing-new-foods-to-baby" class="type_vid" onclick="return sl(this,'','tools-res_4');">Baby Food Options<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/eye-health/eye-vision-tv/default.htm?vid=vd-3007-cntv-ed-2002" class="type_vid" onclick="return sl(this,'','tools-res_5');">Your Baby's Vision<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-cry-to-sleep" onclick="return sl(this,'','tools-res_6');">Should Baby 'Cry It Out'?</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e70967"><metadata_section><i_chronicle_id>091e9c5e8001cfab</i_chronicle_id><r_object_id>091e9c5e80e70967</r_object_id><title>Topic Overview</title><object_name>bottle-feeding-topic_overview_special_tp16808.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e70967</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_tp16808</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Bottle-Feeding-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Note: This topic discusses bottle - feeding formula. For information about bottle - feeding your baby breast milk, see the topic Breast - Feeding.When is bottle - feeding formula the right choice for my baby?Your reasons for wanting to bottle - feed your baby formula are personal. You are the only one who can make the best decision for you and your baby. If you think you will have or are having ..</wbmd_desc_meta><wbmd_orig_pub_dt>08/07/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Note: This topic discusses bottle - feeding formula. For information about bottle - feeding your baby breast milk, see the topic Breast - Feeding.When is bottle - feeding formula the right choice for my baby?Your reasons for wanting to bottle - feed your baby formula are personal. You are the only one who can make the best decision for you and your baby. If you think you will have or are having ..</wbmd_desc_user><wbmd_lk_ttl>Bottle-Feeding-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>baby care, infant care</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.11</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e70967</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3545" wbmd_disp_nm="Parenting - Newborn &amp; Infant"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="3" wbmd_disp_nm="Female"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="5" wbmd_disp_nm="Healthy Living / Eating"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1162" wbmd_disp_nm="Parenting - Baby (0-12 months)"></wbmd_c_channel_id><wbmd_c_frnd_nm>Bottle-Feeding-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>Is this topic for you?</section_header><section_type>SpecialSection</section_type><section_text><p>This topic discusses using
+			 a bottle to feed formula to your baby. To learn about using a bottle to feed
+			 breast milk to your baby or to learn about breast-feeding,
+			 see the topic
+			 <a chronic_id="091e9c5e8001d4c4" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/breast-feeding-topic_overview_special_hw91690.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/breast-feeding-topic_overview_special_hw91690.xml">Breast-Feeding</a>.</p></section_text></section_group><section_group><section_header>When is bottle-feeding with formula the best choice for your baby?</section_header><section_type>SpecialSection</section_type><section_text><p>If you are having a hard time
+			 breast-feeding and are trying to decide whether to switch to using formula,
+			 know that the first few weeks of breast-feeding are the most challenging. You
+			 may want to talk to your doctor to help you make your
+			 choice. Some moms choose to both breast-feed and bottle-feed their
+			 babies. </p><p>You may not be able
+			 to breast-feed for different health reasons, such as if you've had breast
+			 surgery or if you have certain infections. While breast milk is the
+			 ideal food for babies, your baby can get good nutrition from formula. Formulas
+			 are designed to give babies all the calories and nutrients they need until they
+			 are 6 months old. (Babies born early or with health problems may drink formula
+			 even longer.) 
+			  </p></section_text></section_group><section_group><section_header>What are your choices for infant formula?</section_header><section_type>SpecialSection</section_type><section_text><p>There are many types of infant
+			 formulas for you to choose from. Most of the time, parents start with formulas
+			 made from cow's milk, such as Enfamil, Good Start, and Similac. </p><p>Talk to your doctor before you try other types of formulas,
+			 including:</p><ul><li> Soy formulas.
+				These formulas are good for babies who have trouble with cow's milk formulas.
+				They are also used by parents who are vegetarians and don't want to feed their
+				baby animal products.</li><li>Lactose-free formulas.
+				These formulas are used for babies who are
+				<a chronic_id="091e9c5e8001b3a2" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/lactose_intolerance_definition_stl158044.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/lactose_intolerance_definition_stl158044.xml">lactose-intolerant</a>, which means that they can't digest
+				lactose, a natural sugar found in foods with cow's milk. Most of the time,
+				lactose intolerance starts in later childhood or adulthood. It is rare in
+				babies.</li><li>Hypoallergenic or protein hydrolysate formulas. These are for babies who have trouble
+				with cow's milk and soy formulas.</li></ul><p> Formulas for toddlers are also available. These formulas have extra
+			 nutrients, and you can use them to help your child make the switch to whole
+			 milk. But healthy babies and toddlers don't really need them. 
+			 </p></section_text></section_group><section_group><section_header>How do you feed formula to your baby?</section_header><section_type>SpecialSection</section_type><section_text><p>When you make formula, use safe water and be sure your hands and equipment are clean. Follow the advice of your doctor and read the label on the
+			 formula package. Make sure the formula is not too hot or too cold when you give it to
+			 your baby.</p><p>The length of time between feedings
+			 varies. It depends on the amount of formula your baby drank during the previous
+			 feeding. As you get to know your baby, you will be able to notice his or her
+			 signs of hunger and fullness. Don't hesitate to call your doctor if you are
+			 worried about whether your baby is eating enough.</p></section_text></section_group></page><page><section_group><section_header>When is it okay to start giving your
+			 baby whole milk?</section_header><section_type>SpecialSection</section_type><section_text><p>When your baby is 12 months old, he or she can start to drink whole-fat
+			 cow's milk. Other kinds of milk, such as goat's milk, fat-free milk, 1% milk, or 2%
+			 milk, don't have as many nutrients as whole-fat milk. It is best not to give
+			 your baby these kinds of milk if you can give whole-fat milk instead.</p></section_text></section_group><section_group><section_header>Frequently Asked Questions</section_header><section_type>SpecialSection</section_type><section_text><table cellpadding="0" cellspacing="0"><col><tr><td valign="top"><p><b>Learning about bottle-feeding:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001cfab" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-topic_overview_special_tp16808.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-topic_overview_special_tp16808.xml">Why might I choose to bottle-feed my baby?</a></li><li><a chronic_id="091e9c5e80e719cc" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/infant_formulas-topic_overview_special_hw148684-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/infant_formulas-topic_overview_special_hw148684-sec.xml">What types of infant formulas are there?</a></li><li><a chronic_id="091e9c5e8001ce44" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-promoting_healthy_growth_and_development_special_tp16805.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-promoting_healthy_growth_and_development_special_tp16805.xml">How do I feed my baby formula?</a></li><li><a chronic_id="091e9c5e8001d4da" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-what_is_expected_special_tp16804.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-what_is_expected_special_tp16804.xml">How much formula should I feed my baby?</a></li><li><a chronic_id="091e9c5e80e67d37" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/choosing_baby_bottles_and_nipples-topic_overview_special_tj8045-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/choosing_baby_bottles_and_nipples-topic_overview_special_tj8045-sec.xml">How can I choose baby bottles and nipples?</a></li></ul></td></tr><tr><td valign="top"><p><b>Concerns:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001cdf8" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-when_to_call_a_doctor_special_tp16806.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-when_to_call_a_doctor_special_tp16806.xml">When should I call a doctor?</a></li><li><a chronic_id="091e9c5e8001d048" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-routine_checkups_special_tp16807.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-routine_checkups_special_tp16807.xml">What kinds of routine checkups does my baby need?</a></li><li><a chronic_id="091e9c5e8001c3de" directive="friendlyurl" document-type="Frame" href="/webmd/consumer_assets/controlled_content/healthwise/frame/safe_water_for_mixing_infant_formula_frame_tj8037.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/frame/safe_water_for_mixing_infant_formula_frame_tj8037.xml">Is it safe to use tap water for mixing formula?</a></li></ul></td></tr></table></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-topic-overview" owner="false"><breadcrumb><bread piece="Health &amp; Parenting Center" prefix="www" friendlyurl="/parenting/default.htm"></bread><bread piece="Health &amp; Baby Center" prefix="www" friendlyurl="/parenting/baby/default.htm"></bread><bread piece="Health &amp; Baby Related Topics" prefix="www" friendlyurl="/parenting/baby/tc/default.htm"></bread></breadcrumb><centers><Topic id="2790" name="tmg" chronicid="091e9c5e8001cfab" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-topic-overview" type="Topic">Bottle-Feeding</Topic><Health id="2786" name="health center" chronicid="091e9c5e80c3c634" prefix="www" friendlyurl="/parenting/baby/default.htm" type="">Baby Center</Health><Super id="1190" name="super center" chronicid="091e9c5e80c3d141" prefix="www" friendlyurl="/parenting/default.htm" type="">Health &amp; Parenting</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e8001cfab" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-topic-overview" type="Topic">Bottle-Feeding</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001d4c4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/breast-feeding-topic_overview_special_hw91690.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/breast-feeding-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/breast-feeding-topic-overview"></target></object><object chronic_id="091e9c5e8001b3a2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/lactose_intolerance_definition_stl158044.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/lactose-intolerance"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/lactose-intolerance"></target></object><object chronic_id="091e9c5e8001cfab" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-topic_overview_special_tp16808.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-topic-overview"></target></object><object chronic_id="091e9c5e80e719cc" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/infant_formulas-topic_overview_special_hw148684-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/infant-formulas-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/infant-formulas-topic-overview"></target></object><object chronic_id="091e9c5e8001ce44" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-promoting_healthy_growth_and_development_special_tp16805.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-promoting-healthy-growth-and-development"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-promoting-healthy-growth-and-development"></target></object><object chronic_id="091e9c5e8001d4da" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-what_is_expected_special_tp16804.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-what-is-expected"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-what-is-expected"></target></object><object chronic_id="091e9c5e80e67d37" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/choosing_baby_bottles_and_nipples-topic_overview_special_tj8045-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/choosing-baby-bottles-and-nipples-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/choosing-baby-bottles-and-nipples-topic-overview"></target></object><object chronic_id="091e9c5e8001cdf8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-when_to_call_a_doctor_special_tp16806.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001d048" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-routine_checkups_special_tp16807.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-routine-checkups"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-routine-checkups"></target></object><object chronic_id="091e9c5e8001c3de" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/frame/safe_water_for_mixing_infant_formula_frame_tj8037.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/safe-water-for-mixing-infant-formula"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/safe-water-for-mixing-infant-formula"></target></object><object chronic_id="091e9c5e8001cfab" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-topic_overview_special_tp16808.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-topic-overview"></target></object><object chronic_id="091e9c5e8001d4da" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-what_is_expected_special_tp16804.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-what-is-expected"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-what-is-expected"></target></object><object chronic_id="091e9c5e8001ce44" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-promoting_healthy_growth_and_development_special_tp16805.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-promoting-healthy-growth-and-development"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-promoting-healthy-growth-and-development"></target></object><object chronic_id="091e9c5e8001cdf8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-when_to_call_a_doctor_special_tp16806.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001d048" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-routine_checkups_special_tp16807.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-routine-checkups"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-routine-checkups"></target></object><object chronic_id="091e9c5e80521372" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-other_places_to_get_help_special_hw97537-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001d52b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-related_information_special_hw97537-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-related-information"></target></object><object chronic_id="091e9c5e8001cdd0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-references_special_hw97537-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-references"></target></object><object chronic_id="091e9c5e8001cebf" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-credits_special_hw97537-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/bottle-feeding-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/bottle-feeding-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e8002377b" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/bottle-feeding_special_hw97537.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cfab" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-topic_overview_special_tp16808.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What is Expected</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d4da" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-what_is_expected_special_tp16804.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Promoting Healthy Growth and Development</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001ce44" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-promoting_healthy_growth_and_development_special_tp16805.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>When to Call a Doctor</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cdf8" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-when_to_call_a_doctor_special_tp16806.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Routine Checkups</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d048" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-routine_checkups_special_tp16807.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e80521372" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-other_places_to_get_help_special_hw97537-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d52b" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-related_information_special_hw97537-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001cdd0" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-references_special_hw97537-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001cebf" path="/webmd/consumer_assets/controlled_content/healthwise/special/bottle-feeding-credits_special_hw97537-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Bottle-Feeding</title><dynamic_objects><callout_title>Recommended Related to Parenting - Baby (0-12 months)</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80abcf00"><metadata_section><i_chronicle_id>091e9c5e80437129</i_chronicle_id><title>Baby Development: Your 6-Month-Old</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>You may find it hard to believe, but you’ve made it halfway through your infant’s first year! In just six short months, your baby has started to learn how to communicate and to eat solid foods. 
+This portion of WebMD’s month-by-month guide provides a few of the baby milestones you can expect your child to achieve in the sixth month.</p></section_text><link siteid="3" prefix="www" friendlyurl="/parenting/baby/baby-development-6-month-old"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Bottle-Feeding - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>When is it okay to start giving your baby whole milk?</h3>
+      <p>When your baby is 12 months old, he or she can start to drink whole-fat cow's milk. Other kinds of milk, such as goat's milk, fat-free milk, 1% milk, or 2% milk, don't have as many nutrients as whole-fat milk. It is best not to give your baby these kinds of milk if you can give whole-fat milk instead.</p>
+      <h3>Frequently Asked Questions</h3>
+      <table cellpadding="0" cellspacing="0">
+       <colgroup>
+        <col />
+       </colgroup>
+       <tbody>
+        <tr>
+         <td valign="top"><p><b>Learning about bottle-feeding:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-topic-overview" onclick="return sl(this,'','embd-lnk');">Why might I choose to bottle-feed my baby?</a></li>
+           <li><a href="http://www.webmd.com/a-to-z-guides/infant-formulas-topic-overview" onclick="return sl(this,'','embd-lnk');">What types of infant formulas are there?</a></li>
+           <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-promoting-healthy-growth-and-development" onclick="return sl(this,'','embd-lnk');">How do I feed my baby formula?</a></li>
+           <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-what-is-expected" onclick="return sl(this,'','embd-lnk');">How much formula should I feed my baby?</a></li>
+           <li><a href="http://www.webmd.com/a-to-z-guides/choosing-baby-bottles-and-nipples-topic-overview" onclick="return sl(this,'','embd-lnk');">How can I choose baby bottles and nipples?</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td valign="top"><p><b>Concerns:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-when-to-call-a-doctor" onclick="return sl(this,'','embd-lnk');">When should I call a doctor?</a></li>
+           <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-routine-checkups" onclick="return sl(this,'','embd-lnk');">What kinds of routine checkups does my baby need?</a></li>
+           <li><a href="http://www.webmd.com/parenting/baby/safe-water-for-mixing-infant-formula" onclick="return sl(this,'hw','embd-lnk');">Is it safe to use tap water for mixing formula?</a></li>
+          </ul></td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-topic-overview">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-topic-overview">1</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">2</span>
+      <style type="text/css">
+            .pagination_fmt .center_fmt { width: 375px !important;}
+            </style>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-topic-overview">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-topic-overview">1</a><span class="pipe_fmt">|</span><span class="current_fmt">2</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/parenting/baby/tc/bottle-feeding-topic-overview'
+			});
+            
+			topics.push({
+			title : 'What is Expected',
+			href : 'http://www.webmd.com/parenting/baby/tc/bottle-feeding-what-is-expected'
+			});
+            
+			topics.push({
+			title : 'Promoting Healthy Growth and Development',
+			href : 'http://www.webmd.com/parenting/baby/tc/bottle-feeding-promoting-healthy-growth-and-development'
+			});
+            
+			topics.push({
+			title : 'When to Call a Doctor',
+			href : 'http://www.webmd.com/parenting/baby/tc/bottle-feeding-when-to-call-a-doctor'
+			});
+            
+			topics.push({
+			title : 'Routine Checkups',
+			href : 'http://www.webmd.com/parenting/baby/tc/bottle-feeding-routine-checkups'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/parenting/baby/tc/bottle-feeding-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/parenting/baby/tc/bottle-feeding-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/parenting/baby/tc/bottle-feeding-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/parenting/baby/tc/bottle-feeding-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: August 07, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/parenting/baby/tc/bottle-feeding-topic-overview">Topic Overview</option><option value="http://www.webmd.com/parenting/baby/tc/bottle-feeding-what-is-expected">What is Expected</option><option value="http://www.webmd.com/parenting/baby/tc/bottle-feeding-promoting-healthy-growth-and-development">Promoting Healthy Growth and Development</option><option value="http://www.webmd.com/parenting/baby/tc/bottle-feeding-when-to-call-a-doctor">When to Call a Doctor</option><option value="http://www.webmd.com/parenting/baby/tc/bottle-feeding-routine-checkups">Routine Checkups</option><option value="http://www.webmd.com/parenting/baby/tc/bottle-feeding-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/parenting/baby/tc/bottle-feeding-related-information">Related Information</option><option value="http://www.webmd.com/parenting/baby/tc/bottle-feeding-references">References</option><option value="http://www.webmd.com/parenting/baby/tc/bottle-feeding-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Bottle-Feeding Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-what-is-expected" onclick="return sl(this,'','topicNav_2');" title="What is Expected">What is Expected</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-promoting-healthy-growth-and-development" onclick="return sl(this,'','topicNav_3');" title="Promoting Healthy Growth and Development">Promoting Healthy Growth and Development</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-when-to-call-a-doctor" onclick="return sl(this,'','topicNav_4');" title="When to Call a Doctor">When to Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-routine-checkups" onclick="return sl(this,'','topicNav_5');" title="Routine Checkups">Routine Checkups</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-other-places-to-get-help" onclick="return sl(this,'','topicNav_6');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-related-information" onclick="return sl(this,'','topicNav_7');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-references" onclick="return sl(this,'','topicNav_8');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/bottle-feeding-credits" onclick="return sl(this,'','topicNav_9');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80686b64" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80686b64</chronic_id><r_object_id>091e9c5e80686b64</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e80686b64.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>10/27/2010 15:03:15</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Baby Template/template_Baby Template_091e9c5e802f00d8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e802f00d8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Bottle Feeding</name><link_title>Bottle Feeding</link_title><description>Whether you use breast milk or formula, bottle feeding comes with many decisions: Should you bottle feed exclusively, what formula is best for your baby, what type of bottles and nipples should you use, and so many more. Don't worry, you don't have to make these important decisions alone. Follow the links below to find WebMD's comprehensive coverage about bottle feeding, how to do it, and much more.</description><friendly_url>http://www.webmd.com/parenting/baby/bottle-feeding-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e800a402e"><link_title>Should You Sterilize Your Baby's Bottles?</link_title><friendly_url>http://www.webmd.com/parenting/baby/should-you-sterilize-your-babys-bottles</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8030caf7"><link_title>Rocket Fuel Chemical Perchlorate Found in Infant Formula</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20090403/rocket-fuel-chemical-in-infant-formula</friendly_url><thumbnail height="75" width="69" alt="rocket_fuel_baby_formula.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/April_2009/rocket_fuel_baby_formula.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c7dc"><link_title>Metal in Infant Formula Prompts Recall</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20060222/metal-in-infant-formula-prompts-recall</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807574e1"><link_title>Choosing Baby Bottles and Nipples</link_title><friendly_url>http://www.webmd.com/parenting/baby/video/baby-bottle-basics</friendly_url><thumbnail height="48" width="48" alt="mother tests bottle temperature">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/parenting/miscellaneous/baby-bottle-basics/graphics/thumbnails/final/baby-bottle-basics-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e807574df"><link_title>Baby Bottle and Formula Problems</link_title><friendly_url>http://www.webmd.com/parenting/baby/video/bottle-feeding-worries</friendly_url><thumbnail height="48" width="48" alt="baby bottle feeding">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/parenting/miscellaneous/bottle-feeding-worries/graphics/thumbnails/final/bottle-feeding-worries-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e807574e0"><link_title>Choosing an Infant Formula</link_title><friendly_url>http://www.webmd.com/parenting/baby/video/formula-feeding</friendly_url><thumbnail height="48" width="48" alt="bottle with formula">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/parenting/miscellaneous/formula-feeding/graphics/thumbnails/final/formula-feeding-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801dfb26"><link_title>Glass vs. Plastic Baby Bottles</link_title><friendly_url>http://www.webmd.com/parenting/baby/baby-bottles</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80561f76"><link_title>12 Health Rules You Can Bend - Sterilizing Baby Bottle Nipples and Pacifiers</link_title><friendly_url>http://www.webmd.com/women/features/health-rules-you-can-bend-baby-bottles</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807da59a"><link_title>Bottle Feeding at Age 2 Raises Obesity Risk</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20110505/bottle-feeding-at-age-2-raises-obesity-risk</friendly_url><thumbnail height="" width="" alt="toddler drinking from bottle">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/05_2011/69x75_bottle_feeding_obesity_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80005f6b"><link_title>Soy; Not for Infant Allergies</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20040722/soy-formulas-may-not-prevent-infant-allergies</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b777"><link_title>New Formulas May Help Infant Vision</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20020318/new-formulas-may-help-infant-vision</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802f6f40"><link_title>Bottle Feeding &amp; Formula: Expert Q &amp; A</link_title><friendly_url>http://www.webmd.com/parenting/baby/bottle-feeding-9/expert-answers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802f6f68"><link_title>Choosing Baby Bottles and Gear</link_title><friendly_url>http://www.webmd.com/parenting/baby/bottle-feeding-9/choosing-a-bottle</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e806a6821"><link_title>Predigested Formula May Prevent Diabetes in at-Risk Infants</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20101111/predigested-formula-may-prevent-diabetes-in-at-risk-infants</friendly_url><thumbnail height="" width="" alt="baby boy with bottle">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_infant_diet_diabetes_v01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001d048"><link_title>Bottle-Feeding-Routine Checkups</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/bottle-feeding-routine-checkups</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ce44"><link_title>Bottle-Feeding-Promoting Healthy Growth and Development</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/bottle-feeding-promoting-healthy-growth-and-development</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d4da"><link_title>Bottle-Feeding-What is Expected</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/bottle-feeding-what-is-expected</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061b357"><link_title>Feeding Your Infant-Topic Overview</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/feeding-your-infant-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801c5fb1"><link_title>Group: Few Reasons to Use Soy Formula</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20080505/bringing-up-baby-with-soy-formula</friendly_url><thumbnail height="" width="" alt="no benefit soy formula">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/May08/no_benefit_soy_formula.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8006486e"><link_title>A Formula for Babies and Pets</link_title><friendly_url>http://www.webmd.com/parenting/baby/features/a-formula-for-babies-and-pets</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80260270"><link_title>FDA: Don’t Use Chinese Infant Formula</link_title><friendly_url>http://www.webmd.com/children/news/20080912/fda-dont-use-chinese-infant-formula</friendly_url><thumbnail height="" width="" alt="fda_chinese_infant_formula_warning_istock.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/September08/fda_chinese_infant_formula_warning_istock.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8027fe94"><link_title>Canada Banning Bisphenol A Baby Bottles</link_title><friendly_url>http://www.webmd.com/children/news/20081021/canada-banning-bisphenol-a-baby-bottles</friendly_url><thumbnail height="" width="" alt="canada_bans_bisphenol_a_baby_bottles9.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/October08/canada_bans_bisphenol_a_baby_bottles9.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802a1a7b"><link_title>FAQ: Melamine in U.S. Baby Formula</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20081126/melamine-in-us-baby-formula</friendly_url><thumbnail height="" width="" alt="baby bottle">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/November08/Melamine-Infant-Formula-FAQ_istock.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802ef9b3"><link_title>Baby Bottle Makers Ditch BPA</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20090306/baby-bottle-makers-ditch-bpa</friendly_url><thumbnail height="" width="" alt="bpa_out_baby_bottles.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/March_2009/bpa_out_baby_bottles.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805cbec5"><link_title>Why Won’t Baby Eat?</link_title><friendly_url>http://www.webmd.com/parenting/baby/why-wont-baby-eat</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804c1bff"><link_title>FDA on BPA: 'Some Concern,' No Ban</link_title><friendly_url>http://www.webmd.com/diet/news/20100115/fda-on-bpa-some-concern-no-ban</friendly_url><thumbnail height="" width="" alt="69x75_bpa_and_heart_disease.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/01_2010/69x75_bpa_and_heart_disease.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805cbe64"><link_title>The ABCs of Formulas</link_title><friendly_url>http://www.webmd.com/parenting/baby/features/abcs-of-formula</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000a6aa"><link_title>A Mother's Dilemma</link_title><friendly_url>http://www.webmd.com/parenting/baby/features/mothers-dilemma</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/should-you-sterilize-your-babys-bottles" onclick="return sl(this,'','td-rltd-art_1');">Should You Sterilize Your Baby's Bottles?</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/video/baby-bottle-basics" onclick="return sl(this,'','td-rltd-art_2');">Choosing Baby Bottles and Nipples</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/video/bottle-feeding-worries" onclick="return sl(this,'','td-rltd-art_3');">Baby Bottle and Formula Problems</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/video/formula-feeding" onclick="return sl(this,'','td-rltd-art_4');">Choosing an Infant Formula</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/baby-bottles" onclick="return sl(this,'','td-rltd-art_5');">Glass vs. Plastic Baby Bottles</a></li>
+      <li><a href="http://www.webmd.com/women/features/health-rules-you-can-bend-baby-bottles" onclick="return sl(this,'','td-rltd-art_6');">12 Health Rules You Can Bend - Sterilizing Baby Bottle Nipples and Pacifiers</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/bottle-feeding-9/expert-answers" onclick="return sl(this,'','td-rltd-art_7');">Bottle Feeding &amp; Formula: Expert Q &amp; A</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/parenting/baby/bottle-feeding-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Bottle Feeding Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1401901981&amp;tile=2017438457&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2786&amp;scent=1190&amp;pos=5000&amp;xpg=3545&amp;sec=&amp;au1=3&amp;au2=&amp;uri=%2fparenting%2fbaby%2ftc%2fbottle-feeding-topic-overview&amp;artid=091e9c5e8001cfab&amp;inst=0&amp;leaf=2790&amp;cc=16&amp;tmg=1&amp;bc=_age11_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1401901981&amp;amp;tile=2017438457&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2786&amp;amp;scent=1190&amp;amp;pos=5000&amp;amp;xpg=3545&amp;amp;sec=&amp;amp;au1=3&amp;amp;au2=&amp;amp;uri=%2fparenting%2fbaby%2ftc%2fbottle-feeding-topic-overview&amp;amp;artid=091e9c5e8001cfab&amp;amp;inst=0&amp;amp;leaf=2790&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age11_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3545";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1401901981&amp;tile=2017438457&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2786&amp;scent=1190&amp;pos=5001&amp;xpg=3545&amp;sec=&amp;au1=3&amp;au2=&amp;uri=%2fparenting%2fbaby%2ftc%2fbottle-feeding-topic-overview&amp;artid=091e9c5e8001cfab&amp;inst=0&amp;leaf=2790&amp;cc=16&amp;tmg=1&amp;bc=_age11_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1401901981&amp;amp;tile=2017438457&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2786&amp;amp;scent=1190&amp;amp;pos=5001&amp;amp;xpg=3545&amp;amp;sec=&amp;amp;au1=3&amp;amp;au2=&amp;amp;uri=%2fparenting%2fbaby%2ftc%2fbottle-feeding-topic-overview&amp;amp;artid=091e9c5e8001cfab&amp;amp;inst=0&amp;amp;leaf=2790&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age11_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3545";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

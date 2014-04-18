@@ -1,0 +1,418 @@
+<title>Mental Health Disorders Center: Types, Symptoms, Treatments, Tests, and Causes</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/depression/ss/slideshow-help-depression-treatment-work" onclick="return sl(this,'','prm-hc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/help_depression_treatment_work_pamlab_slideshow/getty_rf_photo_of_bike_rider_at_sunset.jpg" alt="bike rider at sunset" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/depression/ss/slideshow-help-depression-treatment-work" onclick="return sl(this,'','prm-hc_1');">Depression Treatment</a> </h2> 
+        <a href="http://www.webmd.com/depression/ss/slideshow-help-depression-treatment-work" onclick="return sl(this,'','prm-hc_1');" class="type_ss">Tips to help your medication work for you.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/balance/diet-exercise-stress-10/slideshow-stress" data-alt="Two women blowing bubble gum" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/10_fast_stress_busting_pickmeups_truvia_slideshow/getty_rm_photo_of_two_women_chewing_gum_blowing_bubbles.jpg" onclick="return sl(this,'','prm-hc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/balance/diet-exercise-stress-10/slideshow-stress" onclick="return sl(this,'','prm-hc_2');">10 Stress Busters</a> </h2> 
+        <a href="http://www.webmd.com/balance/diet-exercise-stress-10/slideshow-stress" onclick="return sl(this,'','prm-hc_2');" class="type_ss">Quick ways to reduce your tension.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/depression/ss/slideshow-depression-myths" data-alt="depressed woman waiting on train" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/myths_and_facts_about_depression_slideshow/493x335_myths_and_facts_about_depression_slideshow.jpg" onclick="return sl(this,'','prm-hc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/depression/ss/slideshow-depression-myths" onclick="return sl(this,'','prm-hc_3');">Depression Myths</a> </h2> 
+        <a href="http://www.webmd.com/depression/ss/slideshow-depression-myths" onclick="return sl(this,'','prm-hc_3');" class="type_ss">Learn the truth about folk remedies, symptoms, and risk factors.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="teaser_fmt"> 
+    <h3>Mental Health Overview</h3> 
+    <p>Millions of Americans live with various types of mental illness and mental health problems, such as social anxiety, obsessive compulsive disorder, drug addiction, and personality disorders. Treatment options include medication and psychotherapy. </p> 
+   </div> 
+   <div class="guideDropdown_rdr"> 
+    <form action="" id="qform1" onsubmit="window.location=guideNavDropdown.options[guideNavDropdown.options.selectedIndex].value; return false;"> 
+     <h4>Select a Health Center:</h4> 
+     <select name="guideNavDropdown" id="guideNavDropdown" class="listBox_fmt"> <option value="http://www.webmd.com/add-adhd/default.htm">ADHD</option> <option value="http://www.webmd.com/anxiety-panic/default.htm">Anxiety/Panic</option> <option value="http://www.webmd.com/bipolar-disorder/default.htm">Bipolar Disorder</option> <option value="http://www.webmd.com/depression/old-toc1">Depression</option> <option value="http://www.webmd.com/schizophrenia/default.htm">Schizophrenia</option> </select> 
+     <button onclick="wmdTrack('prm-dd-hc');" type="submit" name="goSingle" class="btn"> </button> 
+     <div class="clearing"> 
+     </div> 
+    </form> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="subheaderBar_rdr">
+    Latest Headlines
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainEditorial_rdr"> 
+    <a href="http://www.webmd.com/mental-health/news/20140318/medical-marijuana-veterans-ptsd" onclick="return sl(this,'','head-hc_1_1');"> <img class="mainEditorial_photo_fmt" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/default.jpg
+		" border="0" alt="" height="75" width="69" /> </a> 
+    <div class="mainEditorial_photo_text_fmt"> 
+     <a href="http://www.webmd.com/mental-health/news/20140318/medical-marijuana-veterans-ptsd" onclick="return sl(this,'','head-hc_1_1');">Health Highlights: March 18, 2014</a> 
+     <br />Way Cleared for Study on Medical Marijuana for Veterans with PTSD
+    </div> 
+    <p class="mainEditorial_read_link_fmt"> <a href="http://www.webmd.com/mental-health/news/20140318/medical-marijuana-veterans-ptsd" onclick="return sl(this,'','head-hc_1_1');"> Read Full Article </a> </p> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainLinks_rdr latestHeadlines_fmt"> 
+    <h4 class="latestHeadlinesTitle_fmt">Top Stories</h4> 
+    <ul> 
+     <li> <a href="http://www.webmd.com/mental-health/news/20140317/does-self-esteem-affect-seniors-health" onclick="return sl(this,'','head-hc_1_2');">Does Self-Esteem Affect Seniors' Health?</a> </li> 
+     <li> <a href="http://www.webmd.com/mental-health/news/20140307/study-finds-doctors-prescribing-more-sedatives" onclick="return sl(this,'','head-hc_1_3');">Study Finds Doctors Prescribing More Sedatives</a> </li> 
+     <li> <a href="http://www.webmd.com/children/news/20130516/1-in-5-us-kids-has-a-mental-health-disorder-cdc" onclick="return sl(this,'','head-hc_2_1');">CDC: 1 in 5 U.S. Kids Has a Mental Health Disorder</a> </li> 
+     <li> <a href="http://www.webmd.com/depression/antidepressants-9/new-antidepressants" onclick="return sl(this,'','head-hc_2_2');">It Could Be Time to Change Your Antidepressant </a> </li> 
+     <li> <a href="http://www.webmd.com/mental-health/features/work-it-out-work-stress" onclick="return sl(this,'','head-hc_2_3');">Dealing With Job Stress</a> </li> 
+     <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/mental-health/news-features" onclick="return sl(this,'','head-hc_2_more-articles');">More Articles</a> </li> 
+    </ul> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/aca-state-promo-core.js"></script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aca-state-promo-cw.css" /> 
+   <div class="aca-state-promo-cw"> 
+    <h4>Health Insurance in Your State</h4> 
+    <div class="bg"> 
+     <p>Learn about plans, benefits, and costs in your state's Marketplace.</p> 
+     <div id="names-dropdown-container"> 
+      <select name="names-dropdown" id="names-dropdown"> <option value="">Choose a state or territory</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IO">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="DC">Washington, D.C.</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> <option value="">--------</option> <option value="AS">American Samoa</option> <option value="GU">Guam</option> <option value="MP">Northern Mariana Islands</option> <option value="PR">Puerto Rico</option> <option value="VI">Virgin Islands</option> </select> 
+     </div> 
+    </div> 
+    <span class="jawsonly">From WebMD</span> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=778598044&amp;tile=845178196&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=964&amp;pos=5000&amp;xpg=2950&amp;sec=2950&amp;au1=1&amp;au2=1&amp;uri=%2fmental-health%2fdefault&amp;artid=091e9c5e800249f0&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_f31_f20_f1_gen1_cust4_f41_f33_age2_sex2_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=778598044&amp;amp;tile=845178196&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=964&amp;amp;pos=5000&amp;amp;xpg=2950&amp;amp;sec=2950&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fmental-health%2fdefault&amp;amp;artid=091e9c5e800249f0&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_f31_f20_f1_gen1_cust4_f41_f33_age2_sex2_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2950";
+			var secTopId = "2950";
+		</script>
+   <div class="cwpad_09"> 
+    <div class="mainEditorialContainer_rdr" id="lvng-with"> 
+     <div class="mainEditorial_top_fmt"> 
+      <h2>Living With Mental Illness</h2> 
+     </div> 
+     <div class="mainEditorialPadding_fmt"> 
+      <div class="mainEditorialContent_fmt"> 
+       <div class="mainEditorial_rdr mainEditorialTopOne_rdr"> 
+        <div class="iconBlock_fmt"> 
+         <div class="icon_fmt"> 
+          <a href="http://www.webmd.com/depression/guide/link-to-other-mental-illnesses" onclick="return sl(this,'','lvng-with_1_img');"> <img class="mainEditorial_photo_fmt" src="http://img.webmd.com/dtmcms/live//webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/October08/your_8_point_health_bailout_package.jpg" alt="your_8_point_health_bailout_package.jpg" border="0" /> </a> 
+         </div> 
+        </div> 
+        <div class="mainEditorial_photo_text_fmt"> 
+         <a href="http://www.webmd.com/depression/guide/link-to-other-mental-illnesses" onclick="return sl(this,'','lvng-with_1_link');">Depression and Mental Illnesses </a> 
+        </div> 
+        <div class="clearBoth_fmt"> 
+        </div> 
+       </div> 
+       <div class="moduleSpacer_rdr"> 
+       </div> 
+       <div class="mainEditorialLinks_fmt"> 
+        <ul> 
+         <li> <a href="http://www.webmd.com/mental-health/mental-illness-children" onclick="return sl(this,'','lvng-with_2_link');">Mental Illness in Children </a> </li> 
+         <li> <a href="http://www.webmd.com/anxiety-panic/understanding-posttraumatic-stress-disorder-treatment" onclick="return sl(this,'','lvng-with_3_link');">Understanding PTSD </a> </li> 
+         <li> <a href="http://www.webmd.com/depression/features/natural-treatments" onclick="return sl(this,'','lvng-with_4_link');">Natural Depression Treatments</a> </li> 
+         <li> <a href="http://www.webmd.com/depression/guide/link-to-other-mental-illnesses" onclick="return sl(this,'','lvng-with_5_link');">Depression and Mental Illnesses</a> </li> 
+        </ul> 
+        <div class="clearBoth_fmt"> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/healthy-aging/drug-costs-12/save-money-prescription-drugs" onclick="return sl(this,'','tools-res_1');">How to Save Big on Rx Drugs</a></li>
+      <li id="x57"><a href="http://www.webmd.com/osteoarthritis/managing-oa-pain-10/everyday-exercises-for-oa-slideshow" class="type_ss" onclick="return sl(this,'','tools-res_2');">Easy Exercises for OA Relief<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/depression/slideshow-depression-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">What Is Depression?<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/a-to-z-guides/ss/slideshow-commonly-abused-drugs" class="type_ss" onclick="return sl(this,'','tools-res_4');">Most Commonly Abused Drugs<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/depression/video/unemployment-depression" class="type_vid" onclick="return sl(this,'','tools-res_5');">Unemployment and Depression<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/diet/emotional-eating" onclick="return sl(this,'','tools-res_6');">What Triggers Emotional Eating?</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div id="comm-grp" class="stacked_promo"> 
+    <h2>WebMD Health Community<br /><a href="    * http://exchanges.webmd.com/" title="See All Health Communities">Community. Experts. Support.</a></h2> 
+    <div class="promo_group"> 
+     <h3>Expert Blogs</h3> 
+     <ul> 
+      <li> <a href="http://blogs.webmd.com/health-reform-101/2013/09/mental-health-benefits-under-obamacare.html" onclick="return sl(this,'','comm-grp_1-1');">Mental Health Benefits Under Obamacare <i> </i></a> </li> 
+      <li> <a href="http://blogs.webmd.com/breaking-news/2013/06/president-obama-hosts-conference-on-mental-health.html" onclick="return sl(this,'','comm-grp_1-2');">President Obama Hosts Conference on Mental Health <i> </i></a> </li> 
+      <li> <a href="http://blogs.webmd.com/art-of-relationships/2013/05/personal-change-takes-time.html" onclick="return sl(this,'','comm-grp_1-3');">Personal Change Takes Time <i> </i></a> </li> 
+      <li> <a href="http://blogs.webmd.com/mental-health/2012/05/mood-swings-of-a-bipolar-friendship.html" onclick="return sl(this,'','comm-grp_1-4');">Mood Swings of a Bipolar Friendship <i> </i></a> </li> 
+     </ul> 
+    </div> 
+    <div class="promo_group"> 
+     <h3>Community</h3> 
+     <ul> 
+      <li> <a href="http://exchanges.webmd.com/depression-exchange" onclick="return sl(this,'','comm-grp_2-1');">WebMD Depression Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/bipolar-disorder-exchange" onclick="return sl(this,'','comm-grp_2-2');">WebMD Bipolar Disorder Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/anxiety-and-panic-disorders-exchange" onclick="return sl(this,'','comm-grp_2-3');">WebMD Anxiety and Panic Disorders Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/self-harm-exchange" onclick="return sl(this,'','comm-grp_2-4');">Self-Harm Support <i> </i></a> </li> 
+      <li id="comm-grp_last_link"> <a href="http://exchanges.webmd.com/" onclick="return sl(this,'','comm-grp_2-5');">See All Communities <i> </i></a> </li> 
+     </ul> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="top_search_rdr" id="top-twlv"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top Search Terms for Mental Health</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/mental-health/mental-health-types-illness" onclick="return sl(this,'','top-twlv_1');">Mental Illnesses</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/parenting/features/salvia-faq" onclick="return sl(this,'','top-twlv_2');">Salvia</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/mental-health/guide-to-psychiatry-and-counseling" onclick="return sl(this,'','top-twlv_3');">Guide to Counseling</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/mental-health/mental-health-adjustment-disorder" onclick="return sl(this,'','top-twlv_4');">Adjustment Disorder</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/sexual-addiction" onclick="return sl(this,'','top-twlv_5');">Sex Addiction</a> 
+      </div> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/mental-health/personality-disorders-directory" onclick="return sl(this,'','top-twlv_6');">Personality Disorders</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/mental-health/tc/borderline-personality-disorder-topic-overview" onclick="return sl(this,'','top-twlv_7');">Borderline Personality Disorder</a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/mental-health/dissociative-identity-disorder-multiple-personality-disorder" onclick="return sl(this,'','top-twlv_8');">Multiple Personality Disorder</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sex-relationships/features/signs-of-a-codependent-relationship" onclick="return sl(this,'','top-twlv_9');">Codependency</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/mental-health/drug-abuse-addiction" onclick="return sl(this,'','top-twlv_10');">Addiction</a> 
+      </div> 
+      <div class="top_search_number">
+       11
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/mental-health/features/harmless-pack-rat-or-compulsive-hoarder" onclick="return sl(this,'','top-twlv_11');">Hoarding</a> 
+      </div> 
+      <div class="top_search_number">
+       12
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/mental-health/signs-of-eating-disorders" onclick="return sl(this,'','top-twlv_12');">Eating Disorders</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20">
+   <!--
+updated 07/13/11 at 6:40 EWS
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80b66e39" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e800085eb</i_chronicle_id><r_object_id>091e9c5e80b66e39</r_object_id><title>Types of Mental Illness</title><object_name>mental_health_types_mental_illness.xml</object_name><content_template>consumer_article_Health_Ref.xml</content_template><r_object_id>091e9c5e80b66e39</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e8097910c</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>01/01/2012 00:00:00</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>01/01/2013 00:00:00</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80019138</r_object_id><wbmd_bus_comp_nm>WebMD</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e802a487f" directive="imageurl" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 2012 WebMD, LLC. All rights reserved.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>/content/article/60/67134</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="7" wbmd_disp_nm="Disease &amp; Condition - Types"></wbmd_med_ref_type><wbmd_wdw_ttl>Mental Health: Types of Mental Illness</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>06/05/2012 00:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e804aeeb1</r_object_id><wbmd_publ_name>WebMD Medical Reference</wbmd_publ_name><wbmd_publ_type>1</wbmd_publ_type><wbmd_publ_display>WebMD Medical Reference</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Learn more from WebMD about the different types of mental illness.</wbmd_desc_meta><wbmd_orig_pub_dt>02/07/2003 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Learn more from WebMD about the different types of mental illness.</wbmd_desc_user><wbmd_lk_ttl>Types of Mental Illness</wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e808d969a</r_object_id><wbmd_first_nm>Joseph</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Goldberg</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>mental illness, type, disorder, mood disorder, depression, bipolar, mood disorder, manic depression, anxiety, OCD, PTSD, social phobia, phobia, dementia, personality disorder, panic, stress, psychotic, schizophrenia, eating disorder, tics, tourette's, anorexia, bulimia, binge eating disorder, addiction, drugs, alcohol, antisocial</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>F31</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>F20</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>F50</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>F10</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>gen.1</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>F40</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>F41</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>F42</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>F43</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>F33</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>Age.234</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd></wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80b66e39</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="2950" wbmd_disp_nm="Mental Health"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1674" wbmd_disp_nm="Emotional Wellness"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1078" wbmd_disp_nm="Mental Health"></wbmd_c_channel_id><wbmd_c_frnd_nm>mental-health-types-illness</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_health_ref><title>Types of Mental Illness</title><pages><page><section_group><section_header></section_header><section_text><p align="left">There are many different conditions that are recognized as mental illnesses. The more common types include:</p><ul><li><b><a chronic_id="" crosslinkid="452" directive="friendlyurl" externalid="091e9c5e8003c115" href="http://www.webmd.com/anxiety-panic/default.htm" keywordid="16502" keywordsetid="4405" object_type="" path="/webmdhttp://www.webmd.com/anxiety-panic/default.htm">Anxiety</a> disorders:</b> People with anxiety disorders respond to certain objects or situations with fear and dread, as well as with physical signs of anxiety or nervousness, such as a rapid heartbeat and <a chronic_id="091e9c5e80099369" crossLinkId="1559765" directive="friendlyurl" externalId="091e9c5e80099369" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/hyperhidrosis.xml" keywordId="70980" keywordSetId="32064" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/hyperhidrosis.xml">sweating</a>. An anxiety disorder is diagnosed if the person's response is not appropriate for the situation, if the person cannot control the response, or if the anxiety interferes with normal functioning. Anxiety disorders include <a chronic_id="091e9c5e80008063" crossLinkId="21972" directive="friendlyurl" externalId="091e9c5e80008063" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mental_health_general_anxiety_disorder.xml" keywordId="28744" keywordSetId="7204" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mental_health_general_anxiety_disorder.xml">generalized anxiety</a> disorder, post-traumatic <a chronic_id="" crosslinkid="31404" directive="friendlyurl" externalid="28D4BA6B118C4013" href="http://www.webmd.com/balance/stress-management/" keywordid="24836" keywordsetid="6466" object_type="" path="/webmdhttp://www.webmd.com/balance/stress-management/">stress</a> disorder (<a chronic_id="" crosslinkid="21988" directive="friendlyurl" externalid="091e9c5e80008fbe" href="http://www.webmd.com/anxiety-panic/guide/post-traumatic-stress-disorder" keywordid="27689" keywordsetid="7202" object_type="" path="/webmdhttp://www.webmd.com/anxiety-panic/guide/post-traumatic-stress-disorder">PTSD</a>), obsessive-compulsive disorder (OCD), panic disorder, <a chronic_id="" crosslinkid="49366" directive="friendlyurl" externalid="091e9c5e8001ae77" href="http://www.webmd.com/anxiety-panic/tc/social-anxiety-disorder-topic-overview" keywordid="28638" keywordsetid="7242" object_type="" path="/webmdhttp://www.webmd.com/anxiety-panic/tc/social-anxiety-disorder-topic-overview">social anxiety</a> disorder, and specific <a chronic_id="" crosslinkid="8105" directive="friendlyurl" externalid="091e9c5e800074da" href="http://www.webmd.com/anxiety-panic/specific-phobias" keywordid="23770" keywordsetid="6128" object_type="" path="/webmdhttp://www.webmd.com/anxiety-panic/specific-phobias">phobias</a>.</li><li><b><a chronic_id="091e9c5e8034993b" crossLinkId="70372" directive="friendlyurl" externalId="091e9c5e8034993b" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mood_disorders.xml" keywordId="58679" keywordSetId="25962" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mood_disorders.xml">Mood disorders</a>:</b> These disorders, also called affective disorders, involve persistent feelings of sadness or periods of feeling overly happy, or fluctuations from extreme happiness to extreme sadness. The most common mood disorders are <a chronic_id="" crosslinkid="65" directive="friendlyurl" externalid="091e9c5e80023197" href="http://www.webmd.com/depression/default.htm" keywordid="19021" keywordsetid="4951" object_type="" path="/webmdhttp://www.webmd.com/depression/default.htm">depression</a>, <a chronic_id="" crosslinkid="20349" directive="friendlyurl" externalid="091e9c5e80008f45" href="http://www.webmd.com/bipolar-disorder/guide/hypomania-mania-symptoms" keywordid="28733" keywordsetid="7493" object_type="" path="/webmdhttp://www.webmd.com/bipolar-disorder/guide/hypomania-mania-symptoms">mania</a>, and <a chronic_id="" crosslinkid="153" directive="friendlyurl" externalid="091e9c5e8003202d" href="http://www.webmd.com/bipolar-disorder/default.htm" keywordid="16859" keywordsetid="4509" object_type="" path="/webmdhttp://www.webmd.com/bipolar-disorder/default.htm">bipolar</a> disorder.</li><li><b><a chronic_id="" crosslinkid="30902" directive="friendlyurl" externalid="091e9c5e80007eec" href="http://www.webmd.com/schizophrenia/guide/mental-health-psychotic-disorders" keywordid="27933" keywordsetid="7254" object_type="" path="/webmdhttp://www.webmd.com/schizophrenia/guide/mental-health-psychotic-disorders">Psychotic disorders</a>:</b> Psychotic disorders involve distorted awareness and thinking. Two of the most common symptoms of psychotic disorders are hallucinations &#45;&#45; the experience of images or sounds that are not real, such as hearing voices &#45;&#45; and delusions, which are false beliefs that the ill person accepts as true, despite evidence to the contrary. <a chronic_id="" crosslinkid="537" directive="friendlyurl" externalid="091e9c5e80024948" href="http://www.webmd.com/schizophrenia/default.htm" keywordid="24490" keywordsetid="6349" object_type="" path="/webmdhttp://www.webmd.com/schizophrenia/default.htm">Schizophrenia</a> is an example of a psychotic disorder.</li><li><b>Eating disorders:</b> Eating disorders involve extreme emotions, attitudes, and behaviors involving <a chronic_id="" crosslinkid="29571" directive="friendlyurl" externalid="091e9c5e8001d084" href="http://www.webmd.com/diet/tc/healthy-weight-what-is-a-healthy-weight" keywordid="27492" keywordsetid="5333" object_type="" path="/webmdhttp://www.webmd.com/diet/tc/healthy-weight-what-is-a-healthy-weight">weight</a> and food. <a chronic_id="" crosslinkid="442" directive="friendlyurl" externalid="091e9c5e800be3af" href="http://www.webmd.com/mental-health/anorexia-nervosa/default.htm" keywordid="16480" keywordsetid="4397" object_type="" path="/webmdhttp://www.webmd.com/mental-health/anorexia-nervosa/default.htm">Anorexia</a> nervosa, <a chronic_id="" crosslinkid="31188" directive="friendlyurl" externalid="B10EE91508CC4F64" href="http://www.webmd.com/mental-health/bulimia-nervosa/" keywordid="17066" keywordsetid="4579" object_type="" path="/webmdhttp://www.webmd.com/mental-health/bulimia-nervosa/">bulimia</a> nervosa and binge eating disorder are the most common eating disorders.</li><li><b>Impulse control and <a chronic_id="" crosslinkid="26970" directive="friendlyurl" externalid="091e9c5e8001e744" href="http://www.webmd.com/mental-health/alcohol-abuse/tc/alcohol-and-drug-problems-topic-overview" keywordid="16110" keywordsetid="4315" object_type="" path="/webmdhttp://www.webmd.com/mental-health/alcohol-abuse/tc/alcohol-and-drug-problems-topic-overview">addiction</a> disorders:</b> People with impulse control disorders are unable to resist urges, or impulses, to perform acts that could be harmful to themselves or others. Pyromania (starting fires), kleptomania (stealing), and compulsive gambling are examples of impulse control disorders. Alcohol and <a chronic_id="" crosslinkid="31476" directive="friendlyurl" externalid="09D1C68D81D74991" href="http://www.webmd.com/drugs/index-drugs.aspx" keywordid="26899" keywordsetid="7054" object_type="" path="/webmdhttp://www.webmd.com/drugs/index-drugs.aspx">drug<span style=" text-decoration: underline;">s</span></a> are common objects of addictions. Often, people with these disorders become so involved with the objects of their addiction that they begin to ignore responsibilities and <a chronic_id="" crosslinkid="86" directive="friendlyurl" externalid="091e9c5e8004ca7f" href="http://www.webmd.com/sex-relationships/guide/default.htm" keywordid="28580" keywordsetid="7055" object_type="" path="/webmdhttp://www.webmd.com/sex-relationships/guide/default.htm">relationships</a>.</li><li><b>Personality disorders:</b> People with personality disorders have extreme and inflexible personality traits that are distressing to the person and/or cause problems in work, school, or social relationships. In addition, the person's patterns of thinking and behavior significantly differ from the expectations of society and are so rigid that they interfere with the person's normal functioning. Examples include <a chronic_id="" crosslinkid="1325" directive="friendlyurl" externalid="091e9c5e8001ec92" href="http://www.webmd.com/mental-health/antisocial-personality-disorder" keywordid="16490" keywordsetid="4401" object_type="" path="/webmdhttp://www.webmd.com/mental-health/antisocial-personality-disorder">antisocial personality disorder</a>, obsessive-compulsive personality disorder, and <a chronic_id="091e9c5e80007c61" crossLinkId="8505" directive="friendlyurl" externalId="091e9c5e80007c61" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mental_health_paranoid_personality_disorder.xml" keywordId="27920" keywordSetId="7246" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mental_health_paranoid_personality_disorder.xml">paranoid personality disorder</a>.</li></ul><p align="left">Other, less common types of mental illnesses include:</p><ul><li><b><a chronic_id="" crosslinkid="805" directive="friendlyurl" externalid="091e9c5e80008fdc" href="http://www.webmd.com/mental-health/mental-health-adjustment-disorder" keywordid="27962" keywordsetid="7276" object_type="" path="/webmdhttp://www.webmd.com/mental-health/mental-health-adjustment-disorder">Adjustment disorder</a>:</b> Adjustment disorder occurs when a person develops emotional or behavioral symptoms in response to a stressful event or situation. The stressors may include natural disasters, such as an earthquake or tornado; events or crises, such as a car accident or the diagnosis of a major illness; or interpersonal problems, such as a <a chronic_id="" crosslinkid="3033" directive="friendlyurl" externalid="091e9c5e8010168c" href="http://children.webmd.com/kids-coping-divorce" keywordid="27937" keywordsetid="7257" object_type="" path="/webmdhttp://children.webmd.com/kids-coping-divorce">divorce</a>, death of a loved one, loss of a job, or a problem with substance abuse. Adjustment disorder usually begins within three months of the event or situation and ends within six months after the stressor stops or is eliminated.</li><li><b>Dissociative disorders:</b> People with these disorders suffer severe disturbances or changes in memory, consciousness, identity, and general awareness of themselves and their surroundings. These disorders usually are associated with overwhelming stress, which may be the result of traumatic events, accidents, or disasters that may be experienced or witnessed by the individual. <a chronic_id="091e9c5e801b9a92" crossLinkId="54607" directive="friendlyurl" externalId="091e9c5e801b9a92" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/dissociative_identity_disorder_multiple_personality_disorder.xml" keywordId="30467" keywordSetId="7954" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/dissociative_identity_disorder_multiple_personality_disorder.xml">Dissociative identity disorder</a>, formerly called multiple personality disorder, or "split personality," and depersonalization disorder are examples of dissociative disorders.</li><li><b>Factitious disorders:</b> Factitious disorders are conditions in which physical and/or emotional symptoms are created in order to place the individual in the role of a patient or a person in need of help.</li><li><b>Sexual and gender disorders:</b> These include disorders that affect sexual desire, performance, and behavior. Sexual dysfunction, gender identity disorder, and the paraphilias are examples of sexual and gender disorders.</li><li><b><a chronic_id="091e9c5e80a6d8d7" crossLinkId="1554188" directive="friendlyurl" externalId="091e9c5e80a6d8d7" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/somatoform_disorders.xml" keywordId="71294" keywordSetId="32189" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/somatoform_disorders.xml">Somatoform disorders</a>:</b> A person with a somatoform disorder, formerly known as psychosomatic disorder, experiences physical symptoms of an illness, even though a doctor can find no medical cause for the symptoms.</li><li><b><a chronic_id="" crosslinkid="58581" directive="friendlyurl" externalid="091e9c5e802803b0" href="http://www.webmd.com/brain/tic-disorders-and_twitches" keywordid="42704" keywordsetid="10422" object_type="" path="/webmdhttp://www.webmd.com/brain/tic-disorders-and_twitches">Tic disorders</a>:</b> People with tic disorders make sounds or display body movements that are repeated, quick, sudden, and/or uncontrollable. (Sounds that are made involuntarily are called vocal tics.) <a chronic_id="" crosslinkid="43907" directive="friendlyurl" externalid="091e9c5e8001ac82" href="http://www.webmd.com/mental-health/tc/tourettes-disorder-topic-overview" keywordid="27910" keywordsetid="7238" object_type="" path="/webmdhttp://www.webmd.com/mental-health/tc/tourettes-disorder-topic-overview">Tourette's syndrome</a> is an example of a tic disorder.</li></ul></section_text></section_group></page><page><section_group><section_header is_continued="true"> continued...</section_header><section_text><p align="left">Other diseases or conditions, including various <a chronic_id="" crosslinkid="491" directive="friendlyurl" externalid="091e9c5e800251e7" href="http://www.webmd.com/sleep-disorders/default.htm" keywordid="24711" keywordsetid="6421" object_type="" path="/webmdhttp://www.webmd.com/sleep-disorders/default.htm">sleep</a>-related problems and many forms of <a chronic_id="" crosslinkid="21268" directive="friendlyurl" externalid="091e9c5e8001055b" href="http://www.webmd.com/alzheimers/guide/alzheimers-dementia" keywordid="26432" keywordsetid="6852" object_type="" path="/webmdhttp://www.webmd.com/alzheimers/guide/alzheimers-dementia">dementia</a>, including <a chronic_id="" crosslinkid="133" directive="friendlyurl" externalid="091e9c5e80022e7f" href="http://www.webmd.com/alzheimers/default.htm" keywordid="16336" keywordsetid="4363" object_type="" path="/webmdhttp://www.webmd.com/alzheimers/default.htm">Alzheimer's</a> disease, are sometimes classified as mental illnesses, because they involve the <a chronic_id="091e9c5e8041fa4e" crossLinkId="73853" directive="friendlyurl" externalId="091e9c5e8041fa4e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml" keywordId="60486" keywordSetId="26676" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml">brain</a>.</p><p align="left"> </p><p align="left"> </p></section_text></section_group></page></pages><citations><p>SOURCES: American Psychological Association. American Academy of Child &amp; Adolescent Psychiatry.</p></citations></cons_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/mental-health/mental-health-types-illness" owner="false"><breadcrumb><bread piece="Mental Health Center" prefix="www" friendlyurl="/mental-health/default.htm"></bread></breadcrumb><centers><Super id="964" name="super center" chronicid="091e9c5e800249f0" prefix="www" friendlyurl="/mental-health/default.htm" type="">Mental Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/mental-health-types-illness" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e80099369" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/hyperhidrosis.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/skin-problems-and-treatments/hyperhidrosis2"></target><target siteid="8" name="" prefix="www" friendlyurl="/skin-problems-and-treatments/hyperhidrosis2"></target></object><object chronic_id="091e9c5e80008063" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mental_health_general_anxiety_disorder.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/anxiety-panic/guide/generalized-anxiety-disorder"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/generalized-anxiety-disorder"></target></object><object chronic_id="091e9c5e8034993b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mood_disorders.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/mental-health/mood-disorders"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/mood-disorders"></target></object><object chronic_id="091e9c5e80007c61" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mental_health_paranoid_personality_disorder.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/mental-health/paranoid-personality-disorder"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/paranoid-personality-disorder"></target></object><object chronic_id="091e9c5e801b9a92" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/dissociative_identity_disorder_multiple_personality_disorder.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/mental-health/dissociative-identity-disorder-multiple-personality-disorder"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/dissociative-identity-disorder-multiple-personality-disorder"></target></object><object chronic_id="091e9c5e80a6d8d7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/somatoform_disorders.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/mental-health/somatoform-disorders-symptoms-types-treatment"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/somatoform-disorders-symptoms-types-treatment"></target></object><object chronic_id="091e9c5e8041fa4e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/brain/picture-of-the-brain"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-brain"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><module_data><relatedLinks>Off</relatedLinks><articleLinkView>Page Refresh</articleLinkView><articleTitle chronic_id="091e9c5e800085eb" directive="friendlyurl" object_type="wbmd_cons_article" wbmd_lookup_type="" wbmd_storage_value=""></articleTitle></module_data></webmd_rendition>
+--> 
+   <div class="article_snippet_rdr">
+    <h3>Types of Mental Illness</h3>
+    <div class="snippet_fmt" id="art-snp">
+     <p align="left" xmlns:xalan="http://xml.apache.org/xalan">There are many different conditions that are recognized as mental illnesses. The more common types include:</p>
+     <ul xmlns:xalan="http://xml.apache.org/xalan">
+      <li><b>Anxiety disorders:</b> People with anxiety disorders respond to certain objects or situations with fear and dread, as well as with physical signs of anxiety or nervousness, such as a rapid heartbeat and sweating. An anxiety disorder is diagnosed if the person's response is not appropriate for the situation, if the person cannot control the response, or if the anxiety interferes with normal functioning. Anxiety disorders include generalized anxiety disorder, post-traumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), panic disorder, social anxiety disorder, and specific phobias.</li>
+      <li><b>Mood disorders:</b> These disorders, also called affective disorders, involve persistent feelings of sadness or periods of feeling overly happy, or fluctuations from extreme happiness to extreme sadness. The most common mood disorders are depression, mania, and bipolar disorder.</li>
+      <li><b>Psychotic disorders:</b> Psychotic disorders involve distorted awareness and thinking. Two of the most common symptoms of psychotic disorders are hallucinations -- the experience of images or sounds that are not real, such as hearing voices -- and delusions, which are false beliefs that the ill person accepts as true, despite evidence to the contrary. Schizophrenia is an example of a psychotic disorder.</li>
+      <li><b>Eating disorders:</b> Eating disorders involve extreme emotions, attitudes, and behaviors involving weight and food. Anorexia nervosa, bulimia nervosa and binge eating disorder are the most common eating disorders.</li>
+      <li><b>Impulse control and addiction disorders:</b> People with impulse control disorders are unable to resist urges, or impulses, to perform acts that could be harmful to themselves or others. Pyromania (starting fires), kleptomania (stealing), and compulsive gambling are examples of impulse control disorders. Alcohol and drug<span style=" text-decoration: underline;">s</span> are common objects of addictions. Often, people with these disorders become so involved with the objects of their addiction that they begin to ignore responsibilities and relationships.</li>
+      <li><b>Personality disorders:</b> People with personality disorders have extreme and inflexible personality traits that are distressing to the person and/or cause problems in work, school, or social relationships. In addition, the person's patterns of thinking and behavior significantly differ from the expectations of society and are so rigid that they interfere with the person's normal functioning. Examples include antisocial personality disorder, obsessive-compulsive personality disorder, and paranoid personality disorder.</li>
+     </ul>
+    </div>
+    <div class="snippet_link">
+     <a href="http://www.webmd.com/mental-health/mental-health-types-illness" onclick="return sl(this,'','art-snp_1');">Types of Mental Illness</a>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+ </div> 
+</div>

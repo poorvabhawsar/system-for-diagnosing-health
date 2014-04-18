@@ -1,0 +1,847 @@
+<title>Should I have disease-modifying therapy for multiple sclerosis?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/ms-treatment" onclick="return sl(this,'','lln-toolsres_1');">The Secret to Managing Your MS</a></li>
+      <li id="x57"><a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/flare-ups" onclick="return sl(this,'','lln-toolsres_2');">Fighting MS Flare-Ups</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/multiple-sclerosis/guide/diagnosing-ms-mri" onclick="return sl(this,'','lln-toolsres_3');">MS Tests: What an MRI Detects</a></li>
+      <li id="x59"><a href="http://www.webmd.com/multiple-sclerosis/guide/multiple-sclerosis-faq" onclick="return sl(this,'','lln-toolsres_4');">FAQs About MS</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/multiple-sclerosis/guide/multiple-sclerosis-alternative-therapies" onclick="return sl(this,'','lln-toolsres_5');">Alternative MS Therapies</a></li>
+      <li id="x61"><a href="http://www.webmd.com/multiple-sclerosis/guide/multiple-sclerosis-support-resources" onclick="return sl(this,'','lln-toolsres_6');">MS Support and Resources</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionset.js">
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="headerLink_fmt"> 
+      <a href="/www/decision-point" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;">What is a Decision Point?</a> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionsetTOC_decsion_pt.jpg" alt="decision point" width="77" height="20" class="headerImg_fmt" />Should I have disease-modifying therapy for multiple sclerosis?</h2> 
+     <div class="decisionPoint_fmt"> 
+      <div class="section_fmt "> 
+       <div class="arrowFirst_fmt"> 
+        <div class="leftBorder_fmt"> 
+         <div class="rounded_fmt"> 
+          <div class="vertical1_fmt"> 
+           <div class="vertical2_fmt"> 
+            <div class="vertical3_fmt"> 
+             <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Introduction</a> 
+            </div> 
+           </div> 
+          </div> 
+          <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP1Arrw" alt="arrow" /> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail1_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tf2571-Intro"></a> 
+          <p>Your decision about whether to treat multiple sclerosis (MS) with medications-called disease-modifying therapy-will depend largely on your doctor's recommendation and your own views about the benefits and drawbacks of treatment. Disease-modifying means treatment to delay, change, or interrupt the natural course or progression of a disease.</p> 
+          <p xmlns:xalan="http://xml.apache.org/xalan">Consider the following when making your decision:</p> 
+          <ul> 
+           <li> The National Multiple Sclerosis Society and most neurologists usually recommend starting treatment with either interferon beta or glatiramer acetate when MS is diagnosed. Most experts now agree that permanent damage to the nervous system may occur early on, even while your symptoms are still quite mild. Early treatment may help prevent or delay this damage. The National MS Society also says that treatment with medicine may be considered after the first attack in some people who are at a high risk for MS (before MS is definitely diagnosed).<sup class="Reference"><a href="http://www.webmd.com/multiple-sclerosis/should-i-have-disease-modifying-therapy-for-multiple-sclerosis#zt1405" onclick="return sl(this,'','embd-lnk');">1</a></sup></li> 
+           <li>Mitoxantrone (Novantrone) is considered when other treatments fail to control symptoms or progression of the disease. Natalizumab (Tysabri) is recommended when other medicines for MS do not work or if the side effects of another medicine for MS are severe.</li> 
+           <li>MS is unpredictable. Doctors cannot know with certainty whether you will progress to a more severe form of the disease. A small number of people with MS have only mild disease and do well without treatment, but most get worse over time.</li> 
+           <li>Interferon beta, glatiramer acetate, or natalizumab can reduce the frequency and severity of attacks of relapsing-remitting MS and may reduce or delay disability. However, doctors cannot predict whether the medications will work for you.</li> 
+           <li>Disease-modifying medications for MS may have significant side effects. The side effects are different for each medicine. Some may cause flu-like symptoms such as fever, chills, fatigue, and muscle aches. Others may cause allergic reactions to the shot, infections (some can be serious), headaches, tiredness, and joint pain. One medication can even damage your heart (mitoxantrone). Another may cause a serious and life-threatening disease called PML. This medicine (natalizumab) is tightly controlled because of this side effect.</li> 
+           <li> These medications are expensive; your cost will depend on your insurance coverage. However, some foundations and other organizations pay for MS treatment for those who cannot afford it; financial costs alone should not keep you from considering treatment.</li> 
+           <li>Not much is known about the safety of using disease-modifying therapy during pregnancy or breast-feeding. If you are pregnant, planning on becoming pregnant soon, or breast-feeding, talk to your doctor.</li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Medical Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP2Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail2_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tf2571-MedInfo"></a> 
+          <h4>What is multiple sclerosis?</h4> 
+          <p>Multiple sclerosis (MS) is a disease of the central nervous system (CNS) that can cause problems with muscle control and strength, balance, vision, and sensation (such as numbness or tingling in your feet or hands).</p> 
+          <p>The symptoms of MS are caused by inflammation of the CNS and the destruction of myelin , the coating that surrounds and protects nerve fibers (axons). The resulting damage disrupts the normal flow of nerve impulses through the brain, spinal cord, and nerves that control how a person moves and feels.</p> 
+          <p>In general, MS follows one of four courses, which are called:</p> 
+          <ul> 
+           <li>Relapsing-remitting.</li> 
+           <li>Secondary progressive.</li> 
+           <li>Primary progressive.</li> 
+           <li>Progressive relapsing.</li> 
+          </ul> 
+          <p> The severity of MS differs from person to person and can vary within one person over time. Some people have only mild problems with vision or sensation, while others have severe problems with movement, causing disability.</p> 
+          <h4>How is multiple sclerosis diagnosed?</h4> 
+          <p>Health professionals diagnose the disease when damage typical of MS has occurred to more than one area of the brain or spinal cord at more than one point in time. This means that you have had at least two episodes of signs and symptoms that could be caused by MS, such as weakness or clumsiness, vision problems, tingling or numbness, or balance problems that a neurologist can verify.</p> 
+          <p> Each episode must have lasted at least 24 hours, and the episodes should have occurred at least 1 month apart. If you have MS, a magnetic resonance imaging (MRI) test usually shows damage (lesions or plaques) in more than one area of the brain or spinal cord. </p> 
+          <h4>How effective are medications for MS?</h4> 
+          <p>Medications cannot cure MS at this time. They do not stop disease activity or progression, and they do not reverse nervous system damage that has already occurred. However, medications may reduce relapses and delay disability in many people with relapsing forms of MS. Studies have shown that:</p> 
+          <ul> 
+           <li>For people with relapsing-remitting MS, interferon beta (Avonex, Rebif, or Betaseron) can reduce the severity of relapses, and decrease their frequency by about one-third. They may also delay disability in some people, and decrease the occurrence of new areas of damage (lesions).<sup class="Reference"><a href="http://www.webmd.com/multiple-sclerosis/should-i-have-disease-modifying-therapy-for-multiple-sclerosis#zt1402" onclick="return sl(this,'','embd-lnk');">2</a></sup></li> 
+           <li>Glatiramer acetate (Copaxone) can make relapses less severe. It can also decrease their frequency by about one-third, like the interferon beta drugs. But less is known about the effect on MS lesions or on the development of disability. Doctors often use glatiramer acetate in milder cases of MS.<sup class="Reference"><a href="http://www.webmd.com/multiple-sclerosis/should-i-have-disease-modifying-therapy-for-multiple-sclerosis#zt1402" onclick="return sl(this,'','embd-lnk');">2</a></sup></li> 
+           <li>Mitoxantrone (Novantrone) can also slow disease progression and decrease relapse rates in people with relapsing-remitting and secondary progressive MS, but with a greater chance of side effects.<sup class="Reference"><a href="http://www.webmd.com/multiple-sclerosis/should-i-have-disease-modifying-therapy-for-multiple-sclerosis#zt1403" onclick="return sl(this,'','embd-lnk');">3</a></sup></li> 
+           <li>Natalizumab (Tysabri) can decrease relapse rates in people with relapsing-remitting MS. It can also decrease the chance that a person with MS will be permanently disabled.<sup class="Reference"><a href="http://www.webmd.com/multiple-sclerosis/should-i-have-disease-modifying-therapy-for-multiple-sclerosis#zh1169" onclick="return sl(this,'','embd-lnk');">4</a>, </sup><sup class="Reference"><a href="http://www.webmd.com/multiple-sclerosis/should-i-have-disease-modifying-therapy-for-multiple-sclerosis#zh1170" onclick="return sl(this,'','embd-lnk');">5</a></sup> Natalizumab (Tysabri) is typically used when other medicines for MS do not work or if the side effects of another medicine for MS are severe. This is because it may cause a serious and life-threatening disease called PML. Natalizumab is tightly controlled because of this possible side effect.</li> 
+           <li>Early treatment, beginning as soon as relapsing MS is diagnosed, seems to be most effective and is recommended by the National Multiple Sclerosis Society. The National MS Society also says that treatment with medicine may be considered after the first attack in some people who are at a high risk for MS (before MS is definitely diagnosed).<sup class="Reference"><a href="http://www.webmd.com/multiple-sclerosis/should-i-have-disease-modifying-therapy-for-multiple-sclerosis#zt1405" onclick="return sl(this,'','embd-lnk');">1</a></sup></li> 
+          </ul> 
+          <p>If you need more information, see the topic Multiple Sclerosis.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Your Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP3Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail3_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tf2571-YourInfo"></a> 
+          <p>Your choices are:</p> 
+          <ul> 
+           <li>Take disease-modifying medications as soon as you are diagnosed with MS. Research shows that treatment at diagnosis may result in fewer and less severe relapses and may delay damage to the nervous system.</li> 
+           <li>Wait to see how the disease progresses.</li> 
+          </ul> 
+          <p>The decision about whether to take medications for MS takes into account your personal feelings and the medical facts.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <caption> 
+            <b>Deciding whether to take medications</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th scope="col" valign="top"> Reasons to take disease-modifying medications</th> 
+             <th scope="col" valign="top"> Reasons not to take disease-modifying medications</th> 
+            </tr> 
+            <tr> 
+             <td valign="top" width="50%"> 
+              <ul> 
+               <li>Experts recommend treatment as soon as MS is diagnosed, because early treatment may result in fewer and less severe relapses and may delay damage to your central nervous system; waiting may be harmful.</li> 
+               <li>Most people will have repeated attacks of symptoms.</li> 
+               <li>These treatments are the only ones proven to reduce the frequency and severity of attacks (relapses) and to delay disability.</li> 
+               <li>Side effects from the medications frequently stop in many people after 2 to 3 months of treatment.</li> 
+               <li>Many people get used to injecting themselves with medication.</li> 
+               <li> Insurance may cover most or all of the cost of medication.</li> 
+               <li> Even when symptoms are mild, permanent damage may occur.</li> 
+              </ul> <p>Are there other reasons you might want to take medications for MS?</p> </td> 
+             <td valign="top" width="50%"> 
+              <ul> 
+               <li>It's hard to predict who will respond well to medication.</li> 
+               <li>A few people may have an initial episode of symptoms and then not have another for months or years.</li> 
+               <li>A small number of people have only mild symptoms and do well without medication.</li> 
+               <li>Some of the medications can have significant side effects, including flu-like symptoms and depression, that may be debilitating for some people.</li> 
+               <li>These medications require you to give yourself a shot one or more times a week. </li> 
+               <li>Treatment can cost up to $15,000 a year, and not everyone has insurance that will pay for medication. </li> 
+               <li>Medication may become less effective after several years of use.</li> 
+               <li>Most medications are not recommended around the time of conception or when you are pregnant or breast-feeding.</li> 
+              </ul> <p>Are there other reasons you might not want to take medications for MS?</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p>These personal stories may help you make your decision.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Wise Health Decision</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP4Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail4_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tf2571-WiseDecision"></a> 
+          <p> Use this worksheet to help you make your decision. After completing it, you should have a better idea of how you feel about taking disease-modifying medication. Discuss the worksheet with your doctor.</p> 
+          <p>Circle the answer that best applies to you.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody> 
+            <tr> 
+             <td valign="top">I want to follow the advice of experts, who say that early treatment might reduce relapses and delay disability.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%"> Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> I am willing to take medication even though there is no way to predict whether it will work for me.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> I have only had one attack of symptoms and want to wait to see if I have any more relapses before taking medication.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> I am worried about the side effects of the medications. </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> I am willing to accept side effects if the medications might help me.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I am comfortable giving myself a shot one or more times a week. </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>My insurance will cover most or all of the cost of treatment.</p> </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <p>Use the following space to list any other important concerns you have about this decision.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <tbody>
+            <tr> 
+             <td valign="top" width="98%"> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <h4>What is your overall impression?</h4> 
+          <p>Your answers in the above worksheet are meant to give you a general idea of where you stand on this decision. You may have one overriding reason to use or not use disease-modifying medications for MS.</p> 
+          <p>Check the box below that represents your overall impression about your decision.</p> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward taking medication</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="25%"> <p> <b>Leaning toward NOT taking medication</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">References</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP5Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail5_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tf2571-Bib"></a> 
+          <blockquote> 
+           <h3>Citations</h3> 
+           <ol> 
+            <li> <p> <a name="zt1405"></a>National Clinical Advisory Board of the National Multiple Sclerosis Society (2007). <u>Disease Management Consensus Statement</u>. New York: National Multiple Sclerosis Society. Available online: http://www.nationalmssociety.org/site/PageServer?pagename=HOM_PRO_expert_opinion_papers.</p> </li> 
+            <li> <p> <a name="zt1402"></a>Sadiq SA (2005). Multiple sclerosis. In LP Rowland, ed., <u>Merritt's Neurology</u>, 11th ed., pp. 941–963. Philadelphia: Lippincott Williams and Wilkins.</p> </li> 
+            <li> <p> <a name="zt1403"></a>Nicholas R, Chataway J (2006). Multiple sclerosis, search date January 2006. Online version of <u>BMJ Clinical Evidence</u>. Also available online: http://www.clinicalevidence.com.</p> </li> 
+            <li> <p> <a name="zh1169"></a>Polman CH, et al. (2006). A randomized, placebo-controlled trial of natalizumab for relapsing multiple sclerosis. <u>New England Journal of Medicine</u>, 354(9): 899–910.</p> </li> 
+            <li> <p> <a name="zh1170"></a>Rudick RA, et al. (2006). Natalizumab plus interferon beta-1a for relapsing multiple sclerosis. <u>New England Journal of Medicine</u>, 354(9): 911–923.</p> </li> 
+           </ol> 
+          </blockquote> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt  last_fmt"> 
+       <div class="arrowLast_fmt" id="lastDiv"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;">Credits</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP6Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail6_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tf2571-Credits"></a> 
+          <table border="0" cellpadding="5"> 
+           <tbody>
+            <tr> 
+             <td valign="top"> <b>Author</b> </td> 
+             <td>Marianne Flagg</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+             <td>Adam Husney, MD - Family Medicine</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+             <td>Anne C. Poinier, MD - Internal Medicine</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+             <td>Colin Chalk, MD, CM, FRCPC - Neurology</td> 
+            </tr> 
+            <tr> 
+             <td> <b>Last Updated</b> </td> 
+             <td>February 18, 2010</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: February 18, 2010
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - DecisionPoint';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1082"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/ms-treatment" onclick="return sl(this,'','rltd-p-1082_1');">The Secret to Managing Your MS</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/flare-ups" onclick="return sl(this,'','rltd-p-1082_2');">Fight MS Flare-Ups</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/multiple-sclerosis/video/robots-disabled-home" onclick="return sl(this,'','rltd-p-1082_3');">Robots for the Disabled Home</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/multiple-sclerosis/multiple-sclerosis-understanding-the-differences-in-ms" onclick="return sl(this,'','rltd-p-1082_4');">Types of MS</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/urinary-incontinence-oab/oab-treatment-11/questions-for-doctor" onclick="return sl(this,'','rltd-p-1082_5');">Talking With Your Doctor About Overactive Bladder</a> </li> 
+     <li id="x67" class="last"> <a href="http://exchanges.webmd.com/multiple-sclerosis-exchange" onclick="return sl(this,'','rltd-p-1082_6');">Join the Discussion in the Multiple Sclerosis Community</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1082_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80abc8d0" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806a5389</chronic_id><r_object_id>091e9c5e80abc8d0</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e806a5389.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>06/30/2012 00:13:31</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/MS Template/template_Multiple Sclerosis Center_091e9c5e8002472d.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002472d"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Multiple Sclerosis Treatment</name><link_title>Multiple Sclerosis Treatment</link_title><description>MS treatment seeks to reduce symptoms and decrease the rate of progression of the disease. Early treatment is the key to managing MS because it helps prevent irreparable damage to the nerves. Disease-modifying therapies, ongoing treatments that you will take indefinitely, and medications that treat advanced MS are the main types of medications used. Physical and occupational therapy are also usually recommended. Follow the links below to find WebMD's comprehensive coverage about how MS treatments help relieve symptoms, prevent nervous system damage, and much more.</description><friendly_url>http://www.webmd.com/multiple-sclerosis/multiple-sclerosis-treatment-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e805a3668"><link_title>Put On a Happy Face: Community TV</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/exchange-tv-chronic-illness/transcript-self-esteem</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e805a3717"><link_title>Put On a Happy Face Part 2: Community TV</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/exchange-tv-chronic-illness/transcript-self-esteem-2</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80011878"><link_title>Turkey's Twist on Treating Multiple Sclerosis</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20051103/turkeys-twist-on-treating-multiple-sclerosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8020bcfa"><link_title>Could Caffeine Stop MS in Its Tracks?</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20080630/could-caffeine-stop-ms-in-its-tracks</friendly_url><thumbnail height="" width="" alt="coffee_prevents_ms.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/June08/coffee_prevents_ms.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802189a5"><link_title>Exploring Advances in MS Treatments</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/video/future-ms-treatment</friendly_url><thumbnail height="48" width="48" alt="lab needle">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/brain-and-nervous-system/multiple-sclerosis/future-ms-treatment/graphics/thumbnails/final/future-ms-treatment-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804c824b"><link_title>New Oral MS Drugs May Be on the Horizon</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20100120/new-oral-ms-drugs-may-be-on-the-horizon</friendly_url><thumbnail height="" width="" alt="new_drugs_for_ms_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/01_2010/new_drugs_for_ms_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8078d0cc"><link_title>Stem Cell Transplants May Treat Aggressive MS</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20110321/stem-cell-transplants-may-treat-aggressive-ms</friendly_url><thumbnail height="" width="" alt="mature woman ">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/03_2011/69x75_stem_cells_transplants_ms_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8064abe2"><link_title>Asthma Drug Albuterol May Help Treat MS</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20100913/asthma-drug-albuterol-may-help-treat-ms</friendly_url><thumbnail height="" width="" alt="senior man with ms holding cane">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/09_2010/69x75_asthma_medication_for_ms_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8033547c"><link_title>2 New Drugs May Fight Multiple Sclerosis</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20090430/2-new-drugs-may-fight-multiple-sclerosis</friendly_url><thumbnail height="75" width="69" alt="new_ms_tx.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/April_2009/new_ms_tx.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007dd3"><link_title>Multiple Sclerosis and Baclofen Therapy</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/intrathecal-baclofen-pump</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8018eb34"><link_title>FDA Warns of Tysabri Liver Risk</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20080227/fda-warns-of-tysabri-liver-risk</friendly_url><thumbnail height="" width="" alt="Tysabri Liver Damage Warning">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/February08/tysabri_liver_damage_warning.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8022aa21"><link_title>MS Drug Tysabri Tied to Brain Infection</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20080801/ms-drug-tysabri-tied-to-brain-infection</friendly_url><thumbnail height="" width="" alt="brain_infections_tysabri.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/August08/brain_infections_tysabri.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802e9c2c"><link_title>Experimental MS Drug May Aid Walking</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20090226/experimental-ms-drug-may-aid-walking</friendly_url><thumbnail height="" width="" alt="heart_rate_heart_attack.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/Febuuary_2009/heart_rate_heart_attack.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8043135e"><link_title>FDA Panel: New MS Drug Helps Walking</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20091016/fda-panel-new-ms-drug-helps-walking</friendly_url><thumbnail height="" width="" alt="acorda_fda_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/october_2009/acorda_fda_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80008014"><link_title>Occupational Therapy for Multiple Sclerosis</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/guide/multiple-sclerosis-occupational-therapy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800092ba"><link_title>Adapting Your Home for Multiple Sclerosis</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/guide/multiple-sclerosis-adapting-your-home</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8017e195"><link_title>Rituximab Shows Promise for MS</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20080213/rituximab-shows-promise-for-ms</friendly_url><thumbnail height="" width="" alt="Rituxan Helps MS">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/February08/rituxan_helps_ms.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801f38c6"><link_title>Cancer Drug Helps Hard-to-Treat MS</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20080611/cancer-drug-helps-hard-to-treat-ms</friendly_url><thumbnail height="" width="" alt="Cyclophosphamide Helps MS">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/June08/cyclophosphamide_helps_ms.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e804cbb55"><link_title>MS Drug Ampyra Gets FDA Nod</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20100122/ms-drug-ampyra-gets-fda-nod</friendly_url><thumbnail height="" width="" alt="new_ms_drug.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/01_2010/new_ms_drug.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8047df37"><link_title>Marijuana Eases Spasticity in MS Patients</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20091204/marijuana-eases-spasticity-in-ms-patients</friendly_url><thumbnail height="" width="" alt="cannabis_helps_ms_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/december_2009/cannabis_helps_ms_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e803cbe21"><link_title>Blood Pressure Drug May Help Treat MS</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20090817/blood-pressure-drug-may-help-treat-ms</friendly_url><thumbnail height="75" width="69" alt="bp_drug_for_ms_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/August_2009/bp_drug_for_ms_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007dc9"><link_title>Multiple Sclerosis and Novantrone Therapy</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/novantrone-therapy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007f0a"><link_title>Controlling the Muscle Spasms of Multiple Sclerosis</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/guide/controlling-muscle-spasms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008ecd"><link_title>Managing the Tremors of Multiple Sclerosis</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/guide/managing-related-tremors</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008026"><link_title>Treating Multiple Sclerosis with Imuran</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/imuran-therapy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007f08"><link_title>Treating Multiple Sclerosis With IV Steroids</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/treating-iv-steroids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007e1a"><link_title>Multiple Sclerosis and Cytoxan Therapy</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/cytoxan-therapy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801783d0"><link_title>Tysabri May Be Linked to Melanoma</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20080206/tysabri-linked-to-melanoma</friendly_url><thumbnail height="" width="" alt="Tysabri and Melanoma">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/February08/tysabri_and_melanoma.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80201ff7"><link_title>MS Drug Clears Hurdle</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/news/20080620/ms-drug-clears-hurdle</friendly_url><thumbnail height="" width="" alt="new_ms_drug.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/June08/new_ms_drug.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80615e44"><link_title>Ampyra for Those With Multiple Sclerosis</link_title><friendly_url>http://www.webmd.com/multiple-sclerosis/guide/ampyria-for-multiple-sclerosis-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/a-to-z-guides/exchange-tv-chronic-illness/transcript-self-esteem" onclick="return sl(this,'','lln-tdrelcon_1');">Put On a Happy Face: Community TV</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/exchange-tv-chronic-illness/transcript-self-esteem-2" onclick="return sl(this,'','lln-tdrelcon_2');">Put On a Happy Face Part 2: Community TV</a></li>
+      <li><a href="http://www.webmd.com/multiple-sclerosis/video/future-ms-treatment" onclick="return sl(this,'','lln-tdrelcon_3');">Exploring Advances in MS Treatments</a></li>
+      <li><a href="http://www.webmd.com/multiple-sclerosis/intrathecal-baclofen-pump" onclick="return sl(this,'','lln-tdrelcon_4');">Multiple Sclerosis and Baclofen Therapy</a></li>
+      <li><a href="http://www.webmd.com/multiple-sclerosis/guide/multiple-sclerosis-occupational-therapy" onclick="return sl(this,'','lln-tdrelcon_5');">Occupational Therapy for Multiple Sclerosis</a></li>
+      <li><a href="http://www.webmd.com/multiple-sclerosis/guide/multiple-sclerosis-adapting-your-home" onclick="return sl(this,'','lln-tdrelcon_6');">Adapting Your Home for Multiple Sclerosis</a></li>
+      <li><a href="http://www.webmd.com/multiple-sclerosis/novantrone-therapy" onclick="return sl(this,'','lln-tdrelcon_7');">Multiple Sclerosis and Novantrone Therapy</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/multiple-sclerosis/multiple-sclerosis-treatment-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Multiple Sclerosis Treatment Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1205036631&tile=2090273811&tug=&pug=__&site=2&affiliate=20&hcent=1025&scent=740&pos=113&xpg=1827&sec=&amp;au1=1&au2=1&uri=%2fmultiple-sclerosis%2fshould-i-have-disease-modifying-therapy-for-multiple-sclerosis&artid=091e9c5e8001cd02&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_sex3_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1205036631',
+                    tile:'2090273811',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1827";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1205036631&amp;tile=2090273811&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1025&amp;scent=740&amp;pos=5001&amp;xpg=1827&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fmultiple-sclerosis%2fshould-i-have-disease-modifying-therapy-for-multiple-sclerosis&amp;artid=091e9c5e8001cd02&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_sex3_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1205036631&amp;amp;tile=2090273811&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1025&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=1827&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fmultiple-sclerosis%2fshould-i-have-disease-modifying-therapy-for-multiple-sclerosis&amp;amp;artid=091e9c5e8001cd02&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_sex3_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1827";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

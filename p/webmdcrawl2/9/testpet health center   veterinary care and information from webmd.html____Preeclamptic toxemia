@@ -1,0 +1,293 @@
+<title>Pet Health Center | Veterinary Care and Information from WebMD</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://pets.webmd.com/ss/slideshow-flea-and-tick-overview" class="type_ss" onclick="return sl(this,'','tools-res_1');">Getting Rid of Fleas and Ticks<i> </i></a></li>
+      <li id="x57"><a href="http://pets.webmd.com/dogs/ss/slideshow-behaviorial-problems-in-dogs" class="type_ss" onclick="return sl(this,'','tools-res_2');">Why Can't My Dog Behave?<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://pets.webmd.com/cats/ss/slideshow-foods-your-cat-should-never-eat" class="type_ss" onclick="return sl(this,'','tools-res_3');">Foods Cats Should Never Eat<i> </i></a></li>
+      <li id="x59"><a href="http://pets.webmd.com/dogs/features/dogs-and-life-span-which-breeds-live-longest" onclick="return sl(this,'','tools-res_4');">How Long Will Your Dog Live?</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://pets.webmd.com/features/pet-health-housebreaking" onclick="return sl(this,'','tools-res_5');">Housetraining How-Tos</a></li>
+      <li id="x61"><a href="http://pets.webmd.com/ss/slideshow-surprising-things-about-dogs-and-cats" class="type_ss" onclick="return sl(this,'','tools-res_6');">Surprising Facts About Pets<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!-- spacer --> 
+   <div class="pets_toc_rdr" id="main-promo"> 
+    <img src="http://img.webmd.com/dtmcms/live//webmd/consumer_assets/site_images/modules/pets_main_toc.jpg" width="494" height="342" border="0" alt="Healthy Pets" /> 
+    <ul> 
+     <li><a href="http://pets.webmd.com/dogs/default.htm" title="Healthy Dogs" onclick="return sl(this,'','main-promo_1');"> </a></li> 
+     <li><a href="http://pets.webmd.com/cats/default.htm" title="Healthy Cats" onclick="return sl(this,'','main-promo_2');"> </a></li> 
+    </ul> 
+   </div> 
+  </div> 
+ </div> 
+ <div id="ContentPane6"></div> 
+ <div id="ContentPane7"></div> 
+ <div id="ContentPane8">
+  <div class="latest_headlines_rdr" id="Pet Dish"> 
+   <div class="lh_header"> 
+    <h2>Pet Care Essentials</h2> 
+   </div> 
+   <script type="text/javascript"><!--
+/* Create a feed to match the center_ID variable with the RSS FeedID to pass to the URL */
+var rssFeeds = [
+{"centerName": "ADD/ADHD","centerID": "1178","feedID": "1001"},
+{"centerName": "Allergies","centerID": "893","feedID": "1004"},
+{"centerName": "Alzheimer's","centerID": "1030","feedID": "1005"},
+{"centerName": "Anxiety & Panic Disorders","centerID": "648","feedID": "1007"},
+{"centerName": "Arthritis","centerID": "1194","feedID": "1008"},
+{"centerName": "Asthma","centerID": "947","feedID": "1009"},
+{"centerName": "Back Pain","centerID": "972","feedID": "1010"},
+{"centerName": "Bipolar Disorder","centerID": "694","feedID": "1013"},
+{"centerName": "Breast Cancer","centerID": "1074","feedID": "1020"},
+{"centerName": "Cancer","centerID": "848","feedID": "1022"},
+{"centerName": "Cholesterol Management","centerID": "1017","feedID": "1026"},
+{"centerName": "Cold & Flu","centerID": "1202","feedID": "1029"},
+{"centerName": "Crohn's Disease","centerID": "1018","feedID": "1119"},
+{"centerName": "Depression","centerID": "1020","feedID": "1032"},
+{"centerName": "Diabetes","centerID": "1037","feedID": "1033"},
+{"centerName": "Hearth Health","centerID": "948","feedID": "1056"},
+{"centerName": "Heartburn/GERD","centerID": "1134","feedID": "1057"},
+{"centerName": "Hypertension/High Blood Pressure","centerID": "1011","feedID": "1063"},
+{"centerName": "Incontinence/OAB","centerID": "961","feedID": "1112"},
+{"centerName": "Lupus","centerID": "829","feedID": "1073"},
+{"centerName": "Menopause","centerID": "789","feedID": "1077"},
+{"centerName": "Migraines/Headaches","centerID": "903","feedID": "1080"},
+{"centerName": "Oral Health","centerID": "872","feedID": "1085"},
+{"centerName": "Osteoporosis","centerID": "1166","feedID": "1088"},
+{"centerName": "Skin Problems & Treatments","centerID": "1028","feedID": "1105"},
+{"centerName": "Sleep Disorders","centerID": "1206","feedID": "1106"}
+];
+
+var feedID = "";
+feedURL = document.getElementById('rssFeedLink');
+for (i=0;i<rssFeeds.length;i++) {
+curCenter = rssFeeds[i].centerID;
+if (curCenter == center_id) {
+feedID = rssFeeds[i].feedID;
+feedURL.href = feedURL.href + "?cid=" + feedID;
+break;
+}
+}
+
+//--></script> 
+   <div class="lh_feature_story"> 
+    <div class="lh_feature_story_thumbnail"> 
+     <a href="http://pets.webmd.com/cats/features/why-cats-whiskers" onclick="return sl(this,'','Pet Dish_1_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/default.jpg" alt="" border="0" /> </a> 
+    </div> 
+    <div class="lh_feature_story_desc"> 
+     <p> <a href="http://pets.webmd.com/cats/features/why-cats-whiskers" onclick="return sl(this,'','Pet Dish_1_1');">Why Do Cats Have Whiskers?</a> </p> 
+     <p>What do cats’ whiskers do? How do they work? Find out at WebMD.</p> 
+     <ul> 
+      <li> <a href="http://pets.webmd.com/cats/features/why-cats-whiskers" onclick="return sl(this,'','Pet Dish_1_1');">Read Full Article</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="lh_links"> 
+    <h3>Top Stories from WebMD</h3> 
+    <div class="mainLinks_more_fmt"> 
+     <a href="news-features">More Articles</a> 
+    </div> 
+    <ul> 
+     <li> <a href="http://pets.webmd.com/first-aid-pet-emergencies" onclick="return sl(this,'','Pet Dish_1_2');">First Aid Techniques Every Pet Owner Should Know</a> </li> 
+     <li> <a href="http://pets.webmd.com/features/pet-training-101" onclick="return sl(this,'','Pet Dish_1_3');">Clicker Training for Dogs and Cats</a> </li> 
+     <li> <a href="http://pets.webmd.com/dogs/my-dog-shivering-trembling" onclick="return sl(this,'','Pet Dish_1_4');">Why Dogs Tremble</a> </li> 
+     <li> <a href="http://pets.webmd.com/news/20131216/cat-human-bond-may-go-back-more-than-5000-years" onclick="return sl(this,'','Pet Dish_1_5');">Cat-Human Bond May Go Back 5,000 Years </a> </li> 
+     <li> <a href="http://pets.webmd.com/features/to-rescue" onclick="return sl(this,'','Pet Dish_1_6');">Pet Emergencies: Be Prepared</a> </li> 
+    </ul> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <script class="oas_template" id="oas_top_stories" type="text/html">
+    <a onclick="return sl(this,'','Pet Dish_1_{link_position_plus_one}');" href="{href}">{alt}</a>
+  </script> 
+   <script type="text/javascript">
+webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_stories'] = ['x08','x09','x10','x11','x12','x13','x14','x15'];
+</script> 
+  </div> 
+  <div class="moduleSpacer_rdr"> 
+  </div>
+  <div class="slideshowLinks_rdr" id="pet-slides"> 
+   <div class="tabsback_fmt"> 
+    <div class="tabstart_fmt"> 
+    </div> 
+    <div class="tab_fmt">
+     Pet Health Slideshows
+    </div> 
+    <div class="tabend_fmt"> 
+    </div> 
+   </div> 
+   <div class="showWell"> 
+    <ul class="showList"> 
+     <li> <a class="img" href="http://pets.webmd.com/dogs/ss/slideshow-behaviorial-problems-in-dogs" onclick="return sl(this,'','pet-slides_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/thumbnails/health_tools/thumbnail_behavior_problems_in_dogs_slideshow.jpg" alt="Behavior Problems in Dogs Slideshow" height="79" width="79" border="0" /> <span class="txt">12 Dog Behavior Issues</span> </a> </li> 
+     <li> <a class="img" href="http://pets.webmd.com/dogs/ss/slideshow-foods-your-dog-should-never-eat" onclick="return sl(this,'','pet-slides_2');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/thumbnails/health_tools/thumbnail_surprises_about_dogs_and_cats_slideshow.jpg" alt="Surprising Things about Dogs and Cats" height="79" width="79" border="0" /> <span class="txt">Gassy Dog? Here's Why</span> </a> </li> 
+     <li> <a class="img" href="http://pets.webmd.com/dogs/slideshow-foods-your-dog-should-never-eat" onclick="return sl(this,'','pet-slides_3');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/thumbnails/health_tools/thumbnail_foods_harmful_to_dogs_slideshow.jpg" alt="Foods Harmful to Dogs Slideshow" height="79" width="79" border="0" /> <span class="txt">Foods Your Dog Should Never Eat</span> </a> </li> 
+     <li> <a class="img" href="http://pets.webmd.com/cats/slideshow-foods-your-cat-should-never-eat" onclick="return sl(this,'','pet-slides_4');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/thumbnails/health_tools/thumbnail_foods_harmful_to_cats_slideshow.jpg" alt="Foods Harmful to Cats Slideshow" height="79" width="79" border="0" /> <span class="txt">Foods Your Cat Should Never Eat</span> </a> </li> 
+     <li> <a class="img" href="http://pets.webmd.com/dogs/slideshow-best-dog-breed-for-your-health" onclick="return sl(this,'','pet-slides_5');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/thumbnails/health_tools/thumbnail_best_dog_breed_for_your_health_slideshow.jpg" alt="Best Dog Breed for Your Health Slideshow" height="79" width="79" border="0" /> <span class="txt">Best Dog Breeds for Your Lifestyle</span> </a> </li> 
+     <li> <a class="img" href="http://pets.webmd.com/cats/ss/slideshow-taking-care-of-kitten" onclick="return sl(this,'','pet-slides_6');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/thumbnails/health_tools/thumbnail_behavior_problems_in_cats_slideshow.jpg" alt="Behavior Problems in Cats Slideshow" height="79" width="79" border="0" /> <span class="txt">How to Raise the Perfect Kitty</span> </a> </li> 
+    </ul> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+    <div class="more"> 
+     <a href="http://www.webmd.com/a-to-z-guides/slideshows/default.htm" onclick="return sl(this,'','pet-slides_more');">More Slideshows</a> 
+     <div style="height:1px;font-size:1%;clear:both;margin:0;padding:0;"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="tabsbot_fmt"> 
+   </div> 
+  </div> 
+  <div class="moduleSpacer_rdr"> 
+  </div>
+ </div> 
+ <div id="ContentPane9"></div> 
+ <div id="ContentPane10"></div> 
+ <div id="ContentPane11">
+  <div class="subheaderBar_rdr"> 
+   <h3>WebMD Pet Health Community</h3> 
+  </div> 
+  <div class="moduleSpacer_rdr"> 
+  </div> 
+  <div class="jointheconversation_rdr"> 
+   <div class="content_fmt"> 
+    <div class="content_holder_fmt"> 
+     <div class="editorialImg_fmt"> 
+      <a href="http://exchanges.webmd.com/pet-health-exchange/groupstory/7304414" onclick="comm-pets_img"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/thumbnails/experts/77x84/77x84_weigner_drew.jpg" border="0" alt="Drew Weigner, DVM, ABVP" /> </a> 
+     </div> 
+     <div class="editorialText_fmt"> 
+      <p class="editorialHeading_fmt"> <span class="caps_fmt">THE <a href="http://www.webmd.com/avma" onclick="return sl(this,'','comm-pets_1');">AVMA</a> VET IS IN:</span> <a href="http://exchanges.webmd.com/pet-health-exchange/groupstory/7304414" onclick="return sl(this,'','comm-pets_2');">Drew Weigner, DVM, ABVP</a></p> 
+      <p class="editorialHeading_fmt"><span class="capsbg_fmt">Q.</span> <a href="http://forums.webmd.com/3/pet-health-exchange/forum/5296/0" onclick="return sl(this,'','comm-pets_3');">Do indoor cats need vaccinations?</a></p> 
+      <ul> 
+       <li><a href="http://exchanges.webmd.com/pet-health-exchange" onclick="return sl(this,'','comm-pets_4');">Post your questions.</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div>
+  <div id="communityGroup_rdr"> 
+   <div class="communityGroup_fmt"> 
+    <div class="dottedDividerFirst_fmt"> 
+    </div> 
+    <div class="titleArea_fmt"> 
+     <h4>Join the Discussion</h4> 
+     <ul> 
+      <li> <a href="http://forums.webmd.com/3/pet-health-exchange/forum/5783/0" onclick="return sl(this, '', 'comm-convo2_1_1');">Can Stress Make Dogs Vomit?</a> </li> 
+     </ul> 
+    </div> 
+    <ul> 
+     <li> <a href="http://forums.webmd.com/3/pet-health-exchange/forum/5793/0" onclick="return sl(this, '', 'comm-convo2_1_2');">My Cat Won't Eat</a> </li> 
+     <li> <a href="http://forums.webmd.com/3/pet-health-exchange/forum/5768" onclick="return sl(this, '', 'comm-convo2_1_3');">Can I Give My Dog Aspirin?</a> </li> 
+     <li> <a href="http://exchanges.webmd.com/pet-health-exchange" onclick="return sl(this, '', 'comm-convo2_1_4');">Pet Health Community </a> </li> 
+    </ul> 
+   </div> 
+   <div class="communityGroup_fmt"> 
+    <div class="dottedDivider_fmt"> 
+    </div> 
+    <div class="titleArea_fmt"> 
+     <h4>Expert Q&amp;As</h4> 
+     <ul> 
+      <li> <a href="http://pets.webmd.com/dogs/guide/choosing-doggie-daycares-and-kennels" onclick="return sl(this, '', 'comm-convo2_2_1');">Choosing Doggie Daycare</a> </li> 
+     </ul> 
+    </div> 
+    <ul> 
+     <li> <a href="http://pets.webmd.com/cats/guide/overweight-cats-diets-and-associated-health-risks" onclick="return sl(this, '', 'comm-convo2_2_2');">How to Help Your Cat Lose Weight</a> </li> 
+     <li> <a href="http://pets.webmd.com/cats/guide/expert-qa" onclick="return sl(this, '', 'comm-convo2_2_3');">More Cat Q&amp;As</a> </li> 
+     <li> <a href="http://pets.webmd.com/dogs/guide/expert-qa" onclick="return sl(this, '', 'comm-convo2_2_4');">More Dog Q&amp;As</a> </li> 
+    </ul> 
+   </div> 
+  </div> 
+  <div class="mainContentSectionFooter_fmt"> 
+  </div> 
+  <div class="moduleSpacer_rdr"> 
+  </div> 
+ </div> 
+ <div id="ContentPane12">
+  <div id="newsletters_rdr"> 
+   <h4>Healthy Pets Newsletter</h4> 
+   <h5>Stay informed and motivated with the latest must-read information, delivered right to your inbox.</h5> 
+   <form id="newsletterFormMulti" name="newsletterFormMulti" method="GET" action="" onsubmit="alert('Could not subscribe to newsletter: an error has occurred.'); return false;"> 
+    <ul> 
+     <li><label><input name="nls" type="checkbox" value="78" /> <strong>Healthy Dogs Newsletter:</strong> Helpful tips for what every dog owner should know. </label></li> 
+     <li><label><input name="nls" type="checkbox" value="77" /> <strong>Healthy Cats Newsletter:</strong> Find out the secrets to a happy and healthy cat. </label></li> 
+    </ul> 
+    <div class="newsletterText"></div> 
+    <label class="privacy_label"><input type="checkbox" name="privacy" id="privacy" class="privacy" />I have read and agree to WebMD's <a href="http://www.webmd.com/about-webmd-policies/about-privacy-policy">Privacy Policy</a>.</label> 
+    <input name="email" type="text" class="newsletterEmail" title="Enter Email Address" value="" /> 
+    <button type="submit" name="submit" class="newsletterSubmit">Submit</button> 
+   </form> 
+  </div> 
+  <script type="text/javascript">
+// When the page is ready load the newsletter javascript, then run it
+$(function(){
+    webmd.load({js:image_server_url + '/webmd/consumer_assets/site_images/javascript/newsletter.js',
+                load:function(){
+                    $('#newsletters_rdr').each(function(){
+                        var m = new webmd.m.newsletter.Module();
+                        m.omnitureModule='nl-multi';
+                        m.init(this, {});
+                    });
+                }});
+});
+</script>
+ </div> 
+ <div id="ContentPane13"></div> 
+ <div id="ContentPane14"></div> 
+ <div id="ContentPane15"></div> 
+ <div id="ContentPane16"></div> 
+ <div id="ContentPane17"></div> 
+ <div id="ContentPane18">
+  <div class="centerAd_r1_rdr"> 
+   <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+    <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2088411657&amp;tile=190869368&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=2934&amp;pos=5000&amp;xpg=1697&amp;sec=1696&amp;au1=&amp;au2=&amp;uri=%2fpets%2fdefault&amp;artid=091e9c5e80381236&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_diet_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2088411657&amp;amp;tile=190869368&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=2934&amp;amp;pos=5000&amp;amp;xpg=1697&amp;amp;sec=1696&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fpets%2fdefault&amp;amp;artid=091e9c5e80381236&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_diet_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+    <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+   </div> 
+  </div> 
+  <div class="moduleSpacer_rdr"> 
+  </div> 
+  <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1697";
+			var secTopId = "1696";
+		</script>
+ </div> 
+ <div id="ContentPane19"></div> 
+ <div id="ContentPane20"></div> 
+</div>

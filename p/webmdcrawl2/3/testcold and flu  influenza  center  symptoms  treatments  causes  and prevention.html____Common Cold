@@ -1,0 +1,413 @@
+<title>Cold and Flu (Influenza) Center: Symptoms, Treatments, Causes, and Prevention</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/cold-and-flu/rm-quiz-nighttime-cough" onclick="return sl(this,'','prm-hc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/nighttime_cough_rmq/493x335_nighttime_cough_rmq.jpg" alt="teen girl coughing" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/cold-and-flu/rm-quiz-nighttime-cough" onclick="return sl(this,'','prm-hc_1');">Calm Your Nighttime Cough</a> </h2> 
+        <a href="http://www.webmd.com/cold-and-flu/rm-quiz-nighttime-cough" onclick="return sl(this,'','prm-hc_1');">Do you know how?<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/cold-and-flu/look-good-feel-good-13/default.htm" data-alt="winter-skin_hc_493x335_A.jpg" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/promos/2013/winter-skin_hc_493x335_A.jpg" onclick="return sl(this,'','prm-hc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/cold-and-flu/look-good-feel-good-13/default.htm" onclick="return sl(this,'','prm-hc_2');">Suffering from a Cold?</a> </h2> 
+        <a href="http://www.webmd.com/cold-and-flu/look-good-feel-good-13/default.htm" onclick="return sl(this,'','prm-hc_2');">Learn how to still look your best.<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/cold-and-flu/prevention-relief-13/slideshow-cold-flu-tips" data-alt="man with cold on couch" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/cold_flu_tips_slideshow/getty_rf_photo_of_sick_man_on_couch.jpg" onclick="return sl(this,'','prm-hc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/cold-and-flu/prevention-relief-13/slideshow-cold-flu-tips" onclick="return sl(this,'','prm-hc_3');">Survive Cold &amp; Flu Season</a> </h2> 
+        <a href="http://www.webmd.com/cold-and-flu/prevention-relief-13/slideshow-cold-flu-tips" onclick="return sl(this,'','prm-hc_3');" class="type_ss">Simple tips to fight germs and treat symptoms.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="teaser_fmt"> 
+    <h3>Cold and Flu Overview</h3> 
+    <p>The common cold, including chest cold and head cold, and seasonal flu are caused by viruses. Use over-the-counter cold medications to relieve symptoms including sore throat, runny nose, congestion, and cough. Flu symptoms are similar, but include fever, headache and muscle soreness. See a doctor who may prescribe antiviral medications Relenza or Tamiflu.</p> 
+   </div>
+   <div class="guideDropdown_rdr"> 
+    <form action="" id="qform1" onsubmit="window.location=guideNavDropdown.options[guideNavDropdown.options.selectedIndex].value; return false;"> 
+     <h4>Select A Guide:</h4> 
+     <select name="guideNavDropdown" id="guideNavDropdown" class="listBox_fmt"> <option value="http://www.webmd.com/cold-and-flu/cold-guide/default.htm">Cold</option> <option value="http://www.webmd.com/cold-and-flu/flu-guide/default.htm">Flu</option> </select> 
+     <button onclick="wmdTrack('prm-dd-hc');" type="submit" name="goSingle" class="btn"> </button> 
+     <div class="clearing"> 
+     </div> 
+    </form> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="latest_headlines_rdr" id="head-hc"> 
+    <div class="lh_header"> 
+     <span class="lh_rss"> <a href="http://rssfeeds.webmd.com/rss/rss.aspx" class="lh_rss_link" id="rssFeedLink" onclick="return sl(this,'','head-p_rss');">Get News Updates</a> | <a href="http://www.webmd.com/rss/default.htm">RSS Help</a></span> 
+     <h2>latest headlines</h2> 
+    </div> 
+    <script type="text/javascript"><!--
+/* Create a feed to match the center_ID variable with the RSS FeedID to pass to the URL */
+var rssFeeds = [
+    {"centerName": "ADD/ADHD","centerID": "1178","feedID": "1001"},
+    {"centerName": "Allergies","centerID": "893","feedID": "1004"},
+    {"centerName": "Alzheimer's","centerID": "1030","feedID": "1005"},
+    {"centerName": "Anxiety & Panic Disorders","centerID": "648","feedID": "1007"},
+    {"centerName": "Arthritis","centerID": "1194","feedID": "1008"},
+    {"centerName": "Asthma","centerID": "947","feedID": "1009"},
+    {"centerName": "Back Pain","centerID": "972","feedID": "1010"},
+    {"centerName": "Bipolar Disorder","centerID": "694","feedID": "1013"},
+    {"centerName": "Breast Cancer","centerID": "1074","feedID": "1020"},
+    {"centerName": "Cancer","centerID": "848","feedID": "1022"},
+    {"centerName": "Cholesterol Management","centerID": "1017","feedID": "1026"},
+    {"centerName": "Cold & Flu","centerID": "1202","feedID": "1029"},
+    {"centerName": "Crohn's Disease","centerID": "1018","feedID": "1119"},
+    {"centerName": "Depression","centerID": "1020","feedID": "1032"},
+    {"centerName": "Diabetes","centerID": "1037","feedID": "1033"},
+    {"centerName": "Hearth Health","centerID": "948","feedID": "1056"},
+    {"centerName": "Heartburn/GERD","centerID": "1134","feedID": "1057"},
+    {"centerName": "Hypertension/High Blood Pressure","centerID": "1011","feedID": "1063"},
+    {"centerName": "Incontinence/OAB","centerID": "961","feedID": "1112"},
+    {"centerName": "Lupus","centerID": "829","feedID": "1073"},
+    {"centerName": "Menopause","centerID": "789","feedID": "1077"},
+    {"centerName": "Migraines/Headaches","centerID": "903","feedID": "1080"},
+    {"centerName": "Oral Health","centerID": "872","feedID": "1085"},
+    {"centerName": "Osteoporosis","centerID": "1166","feedID": "1088"},
+    {"centerName": "Skin Problems & Treatments","centerID": "1028","feedID": "1105"},
+    {"centerName": "Sleep Disorders","centerID": "1206","feedID": "1106"}
+];
+
+var feedID = "";
+    feedURL = document.getElementById('rssFeedLink');
+    for (i=0;i<rssFeeds.length;i++) {				
+        curCenter = rssFeeds[i].centerID;
+        if (curCenter == center_id) {
+        feedID = rssFeeds[i].feedID;
+        feedURL.href = feedURL.href + "?cid=" + feedID;
+        break;
+        }
+    }
+
+//--></script> 
+    <div class="lh_feature_story"> 
+     <div class="lh_feature_story_thumbnail"> 
+      <a href="http://www.webmd.com/cold-and-flu/news/20140319/common-cold-meds-may-pose-health-threats" onclick="return sl(this,'','head-hc_1_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/healthday/2013/10/cashier7101.jpg" alt="" border="0" /> </a> 
+     </div> 
+     <div class="lh_feature_story_desc"> 
+      <p> <a href="http://www.webmd.com/cold-and-flu/news/20140319/common-cold-meds-may-pose-health-threats" onclick="return sl(this,'','head-hc_1_1');">Common Cold Meds May Pose Health Threats</a> </p> 
+      <p>Interaction of two ingredients could cause serious side effects, researchers say.</p> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/cold-and-flu/news/20140319/common-cold-meds-may-pose-health-threats" onclick="return sl(this,'','head-hc_1_1');">Read Full Article</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="lh_links"> 
+     <h3>Top Stories</h3> 
+     <ul> 
+      <li> <a href="http://www.webmd.com/cold-and-flu/news/20140317/offices-with-open-floor-plans-tied-to-more-sick-days" onclick="return sl(this,'','head-hc_1_2');">Offices With Open Floor Plans Tied to More Sick Days</a> </li> 
+      <li> <a href="http://www.webmd.com/cold-and-flu/news/20140220/flu-hitting-younger-adults-hard-vaccination-helps-cdc" onclick="return sl(this,'','head-hc_1_3');">Flu Hitting Younger Adults Hard, Vaccination Helps: CDC</a> </li> 
+      <li> <a href="http://www.webmd.com/cold-and-flu/cough-11/strep-throat-tonsillitis" onclick="return sl(this,'','head-hc_1_4');">10 Ways to Ease a Sore Throat</a> </li> 
+      <li> <a class="type_ss_old" href="http://www.webmd.com/cold-and-flu/ear-infection/slideshow-anatomy-of-an-ear-infection" onclick="return sl(this,'','head-hc_1_5');">Recognizing Signs of Ear Infection<i> </i></a> </li> 
+      <li> <a class="type_vid_old" href="http://www.webmd.com/cold-and-flu/video/myths-and-facts-about-snot" onclick="return sl(this,'','head-hc_1_6');">The Truth About Snot<i> </i></a> </li> 
+      <li> <a href="http://www.webmd.com/cold-and-flu/features/cough-relief-how-lose-bad-cough" onclick="return sl(this,'','head-hc_1_7');">How to Lose a Bad Cough</a> </li> 
+      <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/cold-and-flu/news-features" onclick="return sl(this,'','head-hc_2_more-articles');">More Articles</a> </li> 
+     </ul> 
+     <div class="moduleSpacer_rdr"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/aca-state-promo-core.js"></script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aca-state-promo-cw.css" /> 
+   <div class="aca-state-promo-cw"> 
+    <h4>Health Insurance in Your State</h4> 
+    <div class="bg"> 
+     <p>Learn about plans, benefits, and costs in your state's Marketplace.</p> 
+     <div id="names-dropdown-container"> 
+      <select name="names-dropdown" id="names-dropdown"> <option value="">Choose a state or territory</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IO">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="DC">Washington, D.C.</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> <option value="">--------</option> <option value="AS">American Samoa</option> <option value="GU">Guam</option> <option value="MP">Northern Mariana Islands</option> <option value="PR">Puerto Rico</option> <option value="VI">Virgin Islands</option> </select> 
+     </div> 
+    </div> 
+    <span class="jawsonly">From WebMD</span> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=932502452&amp;tile=1732786282&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1202&amp;pos=5000&amp;xpg=4068&amp;sec=4068&amp;au1=1&amp;au2=1&amp;uri=%2fcold-and-flu%2fdefault&amp;artid=091e9c5e80022f49&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_vac_cust4_j10_r05_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=932502452&amp;amp;tile=1732786282&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1202&amp;amp;pos=5000&amp;amp;xpg=4068&amp;amp;sec=4068&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fcold-and-flu%2fdefault&amp;amp;artid=091e9c5e80022f49&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_vac_cust4_j10_r05_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4068";
+			var secTopId = "4068";
+		</script>
+   <div id="comm-grp" class="stacked_promo"> 
+    <h2>WebMD Cold, Flu, &amp; Cough Community<br /><a href="http://exchanges.webmd.com/cold-and-flu-exchange" title="See All Cold and Flu Communities">Community. Experts. Support.</a></h2> 
+    <div class="promo_group"> 
+     <h3>Discussions</h3> 
+     <ul> 
+      <li> <a href="http://forums.webmd.com/3/cold-and-flu-exchange/forum/3972" onclick="return sl(this,'','comm-grp_1-1');">OTC Drugs Aren't Working for My Cold <i> </i></a> </li> 
+      <li> <a href="http://forums.webmd.com/3/cold-and-flu-exchange/forum/3963" onclick="return sl(this,'','comm-grp_1-2');">My Child Always Has a Cold! <i> </i></a> </li> 
+     </ul> 
+    </div> 
+    <div class="promo_group"> 
+     <h3>Expert Blogs</h3> 
+     <ul> 
+      <li> <a href="http://blogs.webmd.com/all-ears/2010/09/strep-is-always-going-around.html" onclick="return sl(this,'','comm-grp_2-1');">Strep Is Always Going Around <i> </i></a> </li> 
+      <li id="comm-grp_last_link"> <a href="http://exchanges.webmd.com/" onclick="return sl(this,'','comm-grp_2-2');">See All Communities <i> </i></a> </li> 
+     </ul> 
+    </div> 
+   </div>
+   <div class="top_search_rdr" id="top-twlv"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top Search Terms for Cold, Flu, &amp; Cough</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cold-and-flu/tc/coughs-topic-overview" onclick="return sl(this,'','top-twlv_1');">Cough</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cold-and-flu/tc/sore-throat-topic-overview" onclick="return sl(this,'','top-twlv_2');">Sore Throat </a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cold-and-flu/cold-guide/starve-cold-feed-fever" onclick="return sl(this,'','top-twlv_3');">Fever</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/understanding-pneumonia-treatment" onclick="return sl(this,'','top-twlv_4');">Pneumonia</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/pain-management/swollen-glands" onclick="return sl(this,'','top-twlv_5');">Swollen Glands </a> 
+      </div> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/understanding-bronchitis-basics" onclick="return sl(this,'','top-twlv_6');">Bronchitis</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/walking-pneumonia" onclick="return sl(this,'','top-twlv_7');">Walking Pneumonia </a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/allergies/features/could-it-be-an-allergy" onclick="return sl(this,'','top-twlv_8');">Cold or Allergies? </a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/oral-health/understanding-strep-throat-basics" onclick="return sl(this,'','top-twlv_9');">Strep Throat</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cold-and-flu/cold-guide/cold-becomes-sinus-infection" onclick="return sl(this,'','top-twlv_10');">Sinus Infection</a> 
+      </div> 
+      <div class="top_search_number">
+       11
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cold-and-flu/cold-guide/flu-cold-symptoms" onclick="return sl(this,'','top-twlv_11');">Cold or Flu?</a> 
+      </div> 
+      <div class="top_search_number">
+       12
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/a-to-z-guides/dehydration-adults" onclick="return sl(this,'','top-twlv_12');">Dehydration</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/allergies/picture-of-the-sinuses" onclick="return sl(this,'','tools-res_1');">What Sinuses Look Like</a></li>
+      <li id="x57"><a href="http://www.webmd.com/cold-and-flu/slideshow-anatomy-of-a-sore-throat" class="type_ss" onclick="return sl(this,'','tools-res_2');">Anatomy of a Sore Throat<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/allergies/slideshow-eye-allergies" class="type_ss" onclick="return sl(this,'','tools-res_3');">All About Eye Allergies<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cold-and-flu/health-tips-10/cold-comfort" onclick="return sl(this,'','tools-res_4');">15 Immune-Boosting Foods</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/cold-and-flu/ear-infection/ss/slideshow-ear-infection-anatomy" class="type_ss" onclick="return sl(this,'','tools-res_5');">Inside an Ear Infection<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-treat-child-cold-flu" onclick="return sl(this,'','tools-res_6');">When Your Child Has a Cold</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20">
+   <!--
+updated 07/13/11 at 6:40 EWS
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80b328d2" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e8014c349</i_chronicle_id><r_object_id>091e9c5e80b328d2</r_object_id><title>Flu or Cold Symptoms?</title><object_name>flu_cold_symptoms.xml</object_name><content_template>consumer_article_Health_Ref.xml</content_template><r_object_id>091e9c5e80b328d2</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e8097910c</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>01/01/2012 00:00:00</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>01/01/2013 00:00:00</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80019138</r_object_id><wbmd_bus_comp_nm>WebMD</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e802a487f" directive="imageurl" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 2012 WebMD, LLC. All rights reserved.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="2" wbmd_disp_nm="Disease &amp; Condition - Symptoms"></wbmd_med_ref_type><wbmd_wdw_ttl>Flu or Cold? Know the Differences</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>09/03/2011 00:00:00</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>08/27/2012 00:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e804aeeb1</r_object_id><wbmd_publ_name>WebMD Medical Reference</wbmd_publ_name><wbmd_publ_type>1</wbmd_publ_type><wbmd_publ_display>WebMD Medical Reference</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Do you have flu or cold symptoms? Learn more about the two and how to tell the difference.</wbmd_desc_meta><wbmd_orig_pub_dt>01/01/2007 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Do you have flu or cold symptoms? Learn more about the two and how to tell the difference. </wbmd_desc_user><wbmd_lk_ttl>Are They Flu or Cold Symptoms?</wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e80a740d2</r_object_id><wbmd_first_nm>Kimball</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Johnson</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id chronic_id="091e9c5e80bf7653" directive="friendlyurl" path="/webmd/consumer_assets/editorial/articles/biographies/j/johnson_kimball.xml" object_type="wbmd_cons_article"></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>cold symptoms, common cold symptoms, flu symptoms, cold, flu, headache, sore throat, body aches, congestion, runny nose, fever, treatment, medication, drug</wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>J10</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>R52</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>Age.1</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80b328d2</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4066" wbmd_disp_nm="Cold"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="2" wbmd_disp_nm="Newly Diagnosed"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="11" wbmd_disp_nm="All USA"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4067" wbmd_disp_nm="Flu"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1029" wbmd_disp_nm="Cold &amp; Flu"></wbmd_c_channel_id><wbmd_c_frnd_nm>flu-cold-symptoms</wbmd_c_frnd_nm><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_health_ref><title>Flu or Cold Symptoms?</title><pages><page><section_group><section_header></section_header><section_text><p>When you wake up sneezing, coughing, and have that achy, feverish, can't move a muscle feeling, how do you know whether you have <a href="http://www.webmd.com/cold-and-flu/cold-guide/cold-symptoms-types" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/cold-and-flu/cold-guide/cold-symptoms-types">cold symptoms</a> or the flu?</p><p>It's important to know the difference between flu and cold <a href="http://symptoms.webmd.com/default.htm" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://symptoms.webmd.com/default.htm">symptoms</a>. A cold is a milder respiratory illness than the flu. While cold symptoms can make you feel bad for a few days, <a href="http://www.webmd.com/cold-and-flu/flu-guide/flu-symptoms-types" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/cold-and-flu/flu-guide/flu-symptoms-types">flu symptoms</a> can make you feel quite ill for a few days to weeks. The flu can also result in serious health problems such as <a href="http://www.webmd.com/a-to-z-guides/pneumonia-topic-overview" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/a-to-z-guides/pneumonia-topic-overview">pneumonia</a> and hospitalizations.</p></section_text></section_group><section_group><section_header>What are common cold symptoms?</section_header><section_text><p>Cold symptoms usually begin with a <a chronic_id="091e9c5e8001e5ee" crosslinkid="29068" directive="friendlyurl" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/Sore_Throat-Topic_Overview.xml" keywordid="24749" keywordsetid="6435" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/Sore_Throat-Topic_Overview.xml">sore throat</a>, which usually goes away after a day or two. Nasal symptoms, runny nose, and congestion follow, along with a <a chronic_id="091e9c5e8001e44e" crosslinkid="23486" directive="friendlyurl" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/Coughs-Topic_Overview.xml" keywordid="26687" keywordsetid="4892" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/Coughs-Topic_Overview.xml">cough</a> by the fourth and fifth days. Fever is uncommon in adults, but a slight fever is possible. Children are more likely to have a fever with a cold.</p><p>With cold symptoms, the nose teems with watery nasal secretions for the first few days. Later, these become thicker and darker. Dark mucus is natural and does not usually mean you have developed a bacterial infection, such as a sinus infection.</p><p>Several hundred different viruses may cause your cold symptoms.</p></section_text></section_group><section_group><section_header>How long do cold symptoms last?</section_header><section_text><p>Cold symptoms usually last for about a week. During the first three days that you have cold symptoms, you are contagious. This means you can pass the cold to others, so stay home and get some much-needed rest.</p><p>If cold symptoms do not seem to be improving after a week, you may have a bacterial infection, which means you may need antibiotics.</p><p>Sometimes you may mistake cold symptoms for allergic rhinitis (hay fever) or a sinus infection. If cold symptoms begin quickly and are improving after a week, then it is usually a cold, not allergy. If your cold symptoms do not seem to be getting better after a week, check with your doctor to see if you have developed an allergy or <a chronic_id="091e9c5e80008997" crosslinkid="31099" directive="friendlyurl" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/allergies/miscellaneous/allergies_sinusitis.xml" keywordid="24667" keywordsetid="6404" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/allergies/miscellaneous/allergies_sinusitis.xml">sinusitis</a>.</p></section_text></section_group><section_group><section_header>What are common flu symptoms?</section_header><section_text><p>Flu symptoms are usually more severe than cold symptoms and come on quickly. Symptoms of <span style=" background-color: #ffffff;">flu </span>include sore throat, fever, <a href="http://www.webmd.com/migraines-headaches/default.htm" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/migraines-headaches/default.htm">headache</a>, muscle aches and soreness, congestion, and cough. Swine flu in particular is also associated with vomiting and diarrhea.</p><p>Most flu symptoms gradually improve over two to five days, but it's not uncommon to feel run down for a week or more. A common complication of the flu is pneumonia, particularly in the young, elderly, or people with lung or heart problems. If you notice shortness of breath, let your doctor know. Another common sign of pneumonia is fever that comes back after having been gone for a day or two.</p><p>Just like cold viruses, flu viruses enter your body through the mucous membranes of the nose, eyes, or mouth. Every time you touch your hand to one of these areas, you could be infecting yourself with a virus, which makes it very important to keep hands germ-free with frequent washing to prevent both flu and cold symptoms.</p></section_text></section_group></page><page><section_group><section_header>Is it flu or cold symptoms?</section_header><section_text><p>How do you know if you have flu or cold symptoms? Take your temperature, say many experts. Flu symptoms often mimic cold symptoms with nasal congestion, cough, aches, and malaise. But a common cold rarely has symptoms of fever above 101 degrees. With flu symptoms, you will probably have a fever initially with the flu virus and you will feel miserable. Body and muscle aches are also more common with the flu. This table can help determine if you have cold or flu symptoms.</p><table border="0" cellpadding="5"><tr><td valign="top"><p><b>Symptoms</b></p></td><td valign="top"><p><b>Cold</b></p></td><td valign="top"><p><b>Flu</b></p></td></tr><tr><td valign="top"><p>Fever</p></td><td valign="top"><p>Sometimes, usually mild</p></td><td valign="top"><p>Usual; higher (100-102 F; occasionally higher, especially in young children); lasts 3 to 4 days</p></td></tr><tr><td valign="top"><p>Headache</p></td><td valign="top"><p>Occasionally</p></td><td valign="top"><p>Common</p></td></tr><tr><td valign="top"><p>General Aches, Pains</p></td><td valign="top"><p>Slight</p></td><td valign="top"><p>Usual; often severe</p></td></tr><tr><td valign="top"><p>Fatigue, Weakness</p></td><td valign="top"><p>Sometimes</p></td><td valign="top"><p>Usual; can last 2 to 3 weeks</p></td></tr><tr><td valign="top"><p>Extreme Exhaustion</p></td><td valign="top"><p>Never</p></td><td valign="top"><p>Usual; at the beginning of the illness</p></td></tr><tr><td valign="top"><p>Stuffy Nose</p></td><td valign="top"><p>Common</p></td><td valign="top"><p>Sometimes</p></td></tr><tr><td valign="top"><p>Sneezing</p></td><td valign="top"><p>Usual</p></td><td valign="top"><p>Sometimes</p></td></tr><tr><td valign="top"><p>Sore Throat</p></td><td valign="top"><p>Common</p></td><td valign="top"><p>Sometimes</p></td></tr><tr><td valign="top"><p>Chest Discomfort, Cough</p></td><td valign="top"><p>Mild to moderate; hacking cough</p></td><td valign="top"><p>Common; can become severe</p></td></tr><tr><td valign="top"><p><b>Complications</b></p></td><td valign="top"><p>Sinus congestion; middle <a chronic_id="" crosslinkid="31233" directive="friendlyurl" externalid="12DEF215409640E1" href="http://www.webmd.com/cold-and-flu/ear-infection/" keywordid="26672" keywordsetid="5086" object_type="" path="/webmdhttp://www.webmd.com/cold-and-flu/ear-infection/">ear infection</a></p></td><td valign="top"><p>Sinusitis, <a chronic_id="091e9c5e80009206" crosslinkid="5708" directive="friendlyurl" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/understanding_bronchitis_basics.xml" keywordid="17015" keywordsetid="4568" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/understanding_bronchitis_basics.xml">bronchitis</a>, ear infection, pneumonia; can be life-threatening</p></td></tr><tr><td valign="top"><p><b>Prevention</b></p></td><td valign="top"><p>Wash hands often; avoid close contact with anyone with a cold</p></td><td valign="top"><p><span style=" background-color: #ffffff;">Wash hands often; avoid close contact with anyone who has flu symptoms; get the annual flu vaccine</span></p></td></tr><tr><td valign="top"><p><b>Treatment</b></p></td><td valign="top"><p>Decongestants; pain reliever/fever reducer medicines</p></td><td valign="top"><p><span style=" background-color: #ffffff;">Decongestants, pain relievers, or fever reducers are available over the counter; over-the-counter cough and cold medicines should not be given to young children; prescription antiviral drugs for flu may be given in some cases; call your doctor for more information about treatment.</span></p></td></tr></table><p>Usually, the time of year will give you some sense of what you're dealing with. The standard flu season runs from fall to spring of the next year.</p><p> </p></section_text></section_group><section_group><section_header>When do I call the doctor with flu or cold symptoms?</section_header><section_text><p>If you already have flu or cold symptoms, it's important to call your doctor if you also have any of the following severe symptoms:</p><ul type="disc"><li><b>Persistent fever:</b> This can be a sign of another bacterial infection that should be treated.</li><li><b>Painful swallowing:</b> Although a sore throat from a cold or flu can cause mild discomfort, severe pain could mean <a href="http://www.webmd.com/a-to-z-guides/strep-throat-topic-overview" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/a-to-z-guides/strep-throat-topic-overview">strep throat</a>, which requires treatment by a doctor.</li><li><b>Persistent coughing:</b> When a cough doesn't go away after two or three weeks, it could be bronchitis, which may need an antibiotic. Postnasal drip or sinusitis can also result in a persistent cough. In addition, asthma is another cause of persistent coughing.</li><li><b>Persistent congestion and headaches:</b> When colds and <a href="http://www.webmd.com/allergies/guide/allergies-overview" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/allergies/guide/allergies-overview">allergies cause</a> congestion and blockage of sinus passages, they can lead to a sinus infection (sinusitis). If you have pain around the eyes and face with thick nasal discharge after a week, you may have a bacterial infection and possibly need an antibiotic. Most sinus infections, however, do not need an antibiotic.</li></ul><p>In some cases, you may need to get emergency medical attention right away. In adults, signs of a crisis include:</p><ul><li>Severe chest pain</li><li>Severe headache</li><li>Shortness of breath</li><li>Dizziness</li><li>Confusion</li><li>Persistent vomiting</li></ul><p>In children, additional signs of an emergency are:</p><ul><li>Difficulty breathing or rapid breathing</li><li>Bluish skin color</li><li>Not drinking enough fluids</li><li>Lethargy and failure to interact normally</li><li>Extreme irritability or distress</li><li>Symptoms that were improving and then suddenly worsen</li><li>Fever with a rash</li></ul></section_text></section_group></page><page><section_group><section_header>Can I prevent flu or cold symptoms?</section_header><section_text><p>The most important prevention measure for preventing colds and flu is frequent hand washing. Hand washing by rubbing the hands with warm soapy water for at least 20 seconds helps to slough germs off the <a href="http://www.webmd.com/skin-beauty/default.htm" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/skin-beauty/default.htm">skin</a>.</p><p>In addition to hand washing to prevent flu or cold symptoms, you can also get a flu vaccine to prevent seasonal influenza. Seasonal flu activity in the United States generally peaks between late December and early March. Within two weeks of getting a flu vaccine, antibodies develop in the body and provide protection against flu. Children receiving the vaccine for the first time need two doses delivered one month apart.</p><p>Antiviral medicine may also help prevent flu if you have been exposed to someone with flu symptoms.</p></section_text></section_group></page></pages><citations><p>SOURCES: </p><p>FDA: "Colds and Flu: Time Only Sure Cure." </p><p>American Lung Association: "A Survival Guide for Preventing and Treating Influenza and the Common Cold." </p><p>CDC: "Questions and Answers: Cold versus Flu." "Questions and Answers: Swine Flu and You," "Key Facts about Swine Influenza (Swine Flu)."</p><p>National Jewish Medical and Research Center: "Is It a Cold or the Flu?" </p><p>UpToDate: "Clinical Manifestations and Diagnosis of Influenza in Adults," " The Common Cold in Adults: Diagnosis and Clinical Features." </p></citations><related_links_type>Other</related_links_type><related_links_header></related_links_header><related_links_text><p><a href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Is It a Cold or Is It the Flu How to tell_091e9c5e804098e7/page_Is It a Cold or Is It the Flu How to tell_091e9c5e804098e7.xml" directive="friendlyurl" chronic_id="091e9c5e804098e7" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Is It a Cold or Is It the Flu How to tell_091e9c5e804098e7/page_Is It a Cold or Is It the Flu How to tell_091e9c5e804098e7.xml"><b>Is It a Cold or Is It the Flu?</b></a></p></related_links_text></cons_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/cold-and-flu/cold-guide/flu-cold-symptoms" owner="false"><breadcrumb><bread piece="Cold, Flu, &amp; Cough Health Center" prefix="www" friendlyurl="/cold-and-flu/default.htm"></bread><bread piece="Cold Guide" prefix="www" friendlyurl="/cold-and-flu/cold-guide/default.htm"></bread></breadcrumb><centers><Super id="1202" name="super center" chronicid="091e9c5e8068ab56" prefix="www" friendlyurl="/cold-and-flu/default.htm" type="">Cold and Flu</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/cold-and-flu/cold-guide/flu-cold-symptoms" owner="false"><breadcrumb><bread piece="Cold &amp; Flu Health Center" prefix="www" friendlyurl="/cold-and-flu/default.htm"></bread><bread piece="Cold Guide" prefix="www" friendlyurl="/cold-and-flu/cold-guide/default.htm"></bread></breadcrumb><centers><Topic id="11055" name="tmg" chronicid="" prefix="www" friendlyurl="/cold-and-flu/cold-guide/default.htm" type="Guide">Cold Guide</Topic><Super id="11054" name="super center" chronicid="091e9c5e8068ab56" prefix="www" friendlyurl="/cold-and-flu/default.htm" type="">Cold and Flu</Super></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e80bf7653" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/j/johnson_kimball.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/kimball-johnson"></target><target siteid="8" name="" prefix="www" friendlyurl="/kimball-johnson"></target></object><object chronic_id="091e9c5e8001e5ee" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/sore_throat_and_other_throat_problems-topic_overview_symptom_hw101008.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/cold-and-flu/tc/sore-throat-topic-overview"></target><target siteid="8" name="" prefix="www" friendlyurl="/cold-and-flu/tc/sore-throat-topic-overview"></target></object><object chronic_id="091e9c5e8001e44e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/coughs_age_12_and_older-topic_overview_symptom_hw85335.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/cold-and-flu/tc/coughs-topic-overview"></target><target siteid="8" name="" prefix="www" friendlyurl="/cold-and-flu/tc/coughs-topic-overview"></target></object><object chronic_id="091e9c5e80008997" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/allergies/miscellaneous/allergies_sinusitis.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/allergies/guide/allergies-sinusitis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/allergies/guide/allergies-sinusitis"></target></object><object chronic_id="091e9c5e80009206" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/understanding_bronchitis_basics.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/lung/understanding-bronchitis-basics"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/understanding-bronchitis-basics"></target></object><object chronic_id="091e9c5e804098e7" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Is It a Cold or Is It the Flu How to tell_091e9c5e804098e7/page_Is It a Cold or Is It the Flu How to tell_091e9c5e804098e7.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/cold-and-flu/slideshow-cold-or-flu" status="deleted"></target><target siteid="8" name="" prefix="www" friendlyurl="/cold-and-flu/slideshow-cold-or-flu" umtchronicleid="091e9c5e8068e3f5" status="deleted"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><module_data><relatedLinks>Off</relatedLinks><articleLinkView>Page Refresh</articleLinkView><articleTitle chronic_id="091e9c5e8014c349" directive="friendlyurl" object_type="wbmd_cons_article" wbmd_lookup_type="" wbmd_storage_value=""></articleTitle></module_data></webmd_rendition>
+--> 
+   <div class="article_snippet_rdr">
+    <h3>Flu or Cold Symptoms?</h3>
+    <div class="snippet_fmt" id="art-snp">
+     <p xmlns:xalan="http://xml.apache.org/xalan">When you wake up sneezing, coughing, and have that achy, feverish, can't move a muscle feeling, how do you know whether you have cold symptoms or the flu?</p>
+     <p xmlns:xalan="http://xml.apache.org/xalan">It's important to know the difference between flu and cold symptoms. A cold is a milder respiratory illness than the flu. While cold symptoms can make you feel bad for a few days, flu symptoms can make you feel quite ill for a few days to weeks. The flu can also result in serious health problems such as pneumonia and hospitalizations.</p>
+    </div>
+    <div class="snippet_link">
+     <a href="http://www.webmd.com/cold-and-flu/cold-guide/flu-cold-symptoms" onclick="return sl(this,'','art-snp_1');">Flu or Cold Symptoms?</a>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+ </div> 
+</div>

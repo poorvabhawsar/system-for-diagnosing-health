@@ -1,0 +1,745 @@
+<title>Supraventricular Tachycardia-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/heart-disease/guide/what-to-do-after-a-heart-attack" onclick="return sl(this,'','lln-toolsres_1');">After a Heart Attack</a></li>
+      <li id="x57"><a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/heart-healthy-diet" onclick="return sl(this,'','lln-toolsres_2');">A Diet To Lower Cholesterol</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/heart-disease/slideshow-visual-guide-to-heart-disease" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">A Visual Guide to Heart Disease<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','lln-toolsres_4');">Test Your Cholesterol Smarts</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/heart-disease/exercising-for-a-healthy-heart" onclick="return sl(this,'','lln-toolsres_5');">Exercising for a Healthy Heart</a></li>
+      <li id="x61"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e8085e992&amp;promo=1" onclick="return sl(this,'','lln-toolsres_6');">Heart-Healthy Living With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80ea45b4"><metadata_section><i_chronicle_id>091e9c5e8001ce95</i_chronicle_id><r_object_id>091e9c5e80ea45b4</r_object_id><title>Topic Overview</title><object_name>supraventricular_tachycardia-topic_overview_special_ps1687.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80ea45b4</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_ps1687</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Supraventricular Tachycardia-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Atrial fibrillation is the most common type of supraventricular tachycardia. For information on this condition, see the topic Atrial Fibrillation. If you have ventricular tachycardia, see the topic Ventricular Tachycardia.What is supraventricular tachycardia?Supraventricular tachycardia (SVT) is an abnormal fast heart rhythm that starts in the upper chambers, or the atria, of the heart. ...</wbmd_desc_meta><wbmd_orig_pub_dt>08/09/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Atrial fibrillation is the most common type of supraventricular tachycardia. For information on this condition, see the topic Atrial Fibrillation. If you have ventricular tachycardia, see the topic Ventricular Tachycardia.What is supraventricular tachycardia?Supraventricular tachycardia (SVT) is an abnormal fast heart rhythm that starts in the upper chambers, or the atria, of the heart. ...</wbmd_desc_user><wbmd_lk_ttl>Supraventricular Tachycardia-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Abnormal Heart Rhythms, abnormal heartbeat (arrhythmia), Arrhythmia, Cardiac Arrhythmia, Cardiovascular Disease, cardiovascular disorder, fast pulse, Heart arrhythmia, Heart Arrhythmias, Heart Rhythm Abnormalities, heart rhythm problems, paroxysmal supraventricular tachycardia, psvt, racing heartbeat, rapid pulse, SVT, tachycardia, tachycardia (fast heart rate)</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>sex.3</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80ea45b4</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1675" wbmd_disp_nm="Heart Disease"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4030" wbmd_disp_nm="Heart Failure"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1054" wbmd_disp_nm="Heart Disease"></wbmd_c_channel_id><wbmd_c_frnd_nm>Supraventricular-Tachycardia-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>SpecialSection</section_type><section_text><p><img align="left" alt="card_02.jpg" height="130" src="/webmd/consumer_assets/site_images/media/medical/hw/card_02.jpg" type="medical" width="130" directive="imageurl" chronic_id="091e9c5e80019bce" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/medical/hw/card_02.jpg"></p></section_text></section_group><section_group><section_header>What is supraventricular tachycardia?</section_header><section_type>SpecialSection</section_type><section_text><p>Supraventricular <a chronic_id="091e9c5e8001ce95" crossLinkId="43688" directive="friendlyurl" externalId="091e9c5e8001ce95" href="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-topic_overview_special_ps1687.xml" keywordId="72429" keywordSetId="32679" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-topic_overview_special_ps1687.xml">tachycardia</a> (SVT) means that from time to time your
+			 <a chronic_id="091e9c5e803739e7" crossLinkId="70400" directive="friendlyurl" externalId="091e9c5e803739e7" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.xml" keywordId="58691" keywordSetId="25969" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.xml">heart</a> beats very fast for a reason other than <a chronic_id="091e9c5e80c1b43d" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80c1b43d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml" keywordId="35030" keywordSetId="8746" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml">exercise</a>, <a chronic_id="091e9c5e8074ad24" crossLinkId="1579934" directive="friendlyurl" externalId="091e9c5e8074ad24" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/first_aid/Fever_Facts.xml" keywordId="35365" keywordSetId="8799" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/first_aid/Fever_Facts.xml">high fever</a>, or stress.
+			 For most people who have SVT, the heart still works normally to pump <a chronic_id="091e9c5e8056ea80" crossLinkId="1506783" directive="friendlyurl" externalId="091e9c5e8056ea80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml" keywordId="62987" keywordSetId="28544" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml">blood</a> through the body.</p><p>Types of SVT include:</p><ul><li>Atrioventricular nodal reentrant tachycardia
+				(AVNRT). </li><li>Atrioventricular reciprocating tachycardia (AVRT),
+				including
+				Wolff-Parkinson-White syndrome. </li></ul><p>During an episode of SVT, the heart's electrical system
+			 doesn't work right, causing the heart to beat very fast. The heart beats at
+			 least 100 beats a minute and may reach 300 beats a minute. After treatment
+			 or on its own, the heart usually returns to a normal rate of 60 to 100 beats a
+			 minute. </p><p>SVT may start and end quickly, and you may not have
+			 symptoms. SVT becomes a problem when it happens often, lasts a long time, or
+			 causes symptoms.</p><p>SVT also is called paroxysmal supraventricular
+			 tachycardia (PSVT) or paroxysmal atrial tachycardia (PAT). </p></section_text></section_group><section_group><section_header>What causes SVT?</section_header><section_type>SpecialSection</section_type><section_text><p>Most episodes of SVT are caused by
+			 faulty <a chronic_id="091e9c5e8001eae0" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/the_heart_and_its_electrical_system_multimedia_zm2272.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/the_heart_and_its_electrical_system_multimedia_zm2272.xml">electrical connections in the heart</a><a chronic_id="091e9c5e8001eae0" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/the_heart_and_its_electrical_system_multimedia_zm2272.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/the_heart_and_its_electrical_system_multimedia_zm2272.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>. </p><p>SVT also can be
+			 caused by certain medicines. Examples include very high levels of the heart medicine <a chronic_id="" crossLinkId="64163" directive="friendlyurl" externalId="4358" href="http://www.webmd.com/drugs/drug-4358-digoxin+oral.aspx" keywordId="52641" keywordSetId="7586" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-4358-digoxin+oral.aspx">digoxin</a> or the <a chronic_id="091e9c5e803c50fe" crossLinkId="72327" directive="friendlyurl" externalId="091e9c5e803c50fe" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml" keywordId="60504" keywordSetId="26698" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml">lung</a> medicine theophylline.</p><p>Some types of SVT may run in families, such as
+			 Wolff-Parkinson-White syndrome. Other types of SVT may be caused by certain health problems, medicines, or surgery.</p></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p>Some people with SVT have no
+			 symptoms. Others may have:</p><ul><li><a chronic_id="091e9c5e8001b430" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/palpitations_definition_stp1297.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/palpitations_definition_stp1297.xml">Palpitations</a>, a
+				feeling that the heart is racing or pounding.</li><li> A pounding
+				<a chronic_id="091e9c5e80298d83" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/pulse_heart_rate_definition_zd1519.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pulse_heart_rate_definition_zd1519.xml">pulse</a>. </li><li>A dizzy feeling or may feel
+				lightheaded. </li></ul><p>Other symptoms include near-<a chronic_id="091e9c5e800090c5" crossLinkId="1299" directive="friendlyurl" externalId="091e9c5e800090c5" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/understanding_fainting_basics.xml" keywordId="42051" keywordSetId="10171" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/understanding_fainting_basics.xml">fainting</a> or fainting (<a chronic_id="091e9c5e8001b64e" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/syncope_definition_sts15320.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/syncope_definition_sts15320.xml">syncope</a>), shortness of breath, <a chronic_id="091e9c5e80521096" crossLinkId="1514340" directive="friendlyurl" externalId="091e9c5e80521096" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/whats_causing_my_chest_pain.xml" keywordId="32938" keywordSetId="8361" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/whats_causing_my_chest_pain.xml">chest pain</a>, throat
+			 tightness, and <a chronic_id="091e9c5e80099369" crossLinkId="1559765" directive="friendlyurl" externalId="091e9c5e80099369" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/hyperhidrosis.xml" keywordId="70978" keywordSetId="32063" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/hyperhidrosis.xml">sweating</a>.</p></section_text></section_group><section_group><section_header>How is SVT diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>Your doctor will diagnose
+			 SVT by asking you questions about your health and symptoms, doing a physical
+			 exam, and perhaps giving you tests. Your doctor:</p><ul><li>Will ask if anything triggers the fast heart
+				rate, how long it lasts, if it starts and stops suddenly, and if the beats are
+				regular or irregular. </li><li>May do a test called an
+				<a chronic_id="091e9c5e8001b439" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/electrocardiogram_ekg_or_ecg_definition_ste122045.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/electrocardiogram_ekg_or_ecg_definition_ste122045.xml">electrocardiogram</a> (<a chronic_id="091e9c5e8001f105" crossLinkId="42063" directive="friendlyurl" externalId="091e9c5e8001f105" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/electrocardiogram_medicaltest_hw213248.xml" keywordId="7316" keywordSetId="1134" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/electrocardiogram_medicaltest_hw213248.xml">EKG</a>, ECG). This test measures the
+				heart's electrical activity and can record SVT episodes. </li></ul><p>If you do not have an episode of SVT while you're at the
+			 doctor's office, your doctor probably will ask you to wear a portable <a chronic_id="" crossLinkId="42063" directive="friendlyurl" externalId="091e9c5e8001f105" href="http://www.webmd.com/heart-disease/electrocardiogram" keywordId="7320" keywordSetId="1136" object_type="" path="/webmdhttp://www.webmd.com/heart-disease/electrocardiogram">electrocardiogram</a> (EKG), also called an <a chronic_id="091e9c5e8001f11a" crossLinkId="43386" directive="friendlyurl" externalId="091e9c5e8001f11a" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/ambulatory_electrocardiogram_medicaltest_aa10253.xml" keywordId="6816" keywordSetId="784" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/ambulatory_electrocardiogram_medicaltest_aa10253.xml">ambulatory electrocardiogram</a>. When
+			 you have an episode, the device will record it. </p><p>Your doctor also
+			 may do tests to find the cause of the SVT. These may include blood tests, a
+			 chest
+			 <a chronic_id="091e9c5e8001b0d1" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/x-ray_definition_tu6485.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/x-ray_definition_tu6485.xml">X-ray</a>, and an
+			 <a chronic_id="091e9c5e8001b14c" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/echocardiogram_echo_definition_ste122026.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/echocardiogram_echo_definition_ste122026.xml">echocardiogram</a>, which shows the heart in motion.
+			 </p></section_text></section_group></page><page><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>Some SVTs don't cause
+			 symptoms, and you may not need treatment. If you do have symptoms, your doctor
+			 probably will recommend treatment. </p><p>To treat sudden episodes of
+			 SVT, your doctor may:</p><ul><li>Prescribe a medicine to take when the SVT
+				occurs.</li><li> Show you how you can slow your heart rate on your own. You
+				may be able to do this by coughing, gagging, or putting your face in ice-cold
+				water. These are called vagal maneuvers. </li></ul><p>If these treatments don't work, you may have to go to your
+			 doctor's office or the emergency room. You may get a fast-acting medicine such
+			 as adenosine or <a chronic_id="" crossLinkId="31431" directive="friendlyurl" externalId="7086" href="http://www.webmd.com/drugs/drug-7086-Verapamil+Oral.aspx?drugid=7086&amp;drugname=Verapamil+Oral" keywordId="8580" keywordSetId="2080" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-7086-Verapamil+Oral.aspx?drugid=7086&amp;drugname=Verapamil+Oral">verapamil</a>. If the SVT is serious, you may have
+			 <a chronic_id="091e9c5e8001b344" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/electrical_cardioversion_definition_te7478.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/electrical_cardioversion_definition_te7478.xml">electrical cardioversion</a>, which uses an electrical
+			 current to reset the heart rhythm. </p><p>If you often have episodes of
+			 SVT, you may need to: </p><ul><li>Take medicine every day to prevent the
+				episodes or slow your heart rate.</li><li> Try <a chronic_id="091e9c5e80490607" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/catheter_ablation_definition_zx3965.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/catheter_ablation_definition_zx3965.xml">catheter ablation</a>. This
+				procedure destroys a tiny part of the heart that causes the problem. </li></ul></section_text></section_group><section_group><section_header>What can you do at home to prevent SVT?</section_header><section_type>SpecialSection</section_type><section_text><p>You can try some things at home to help prevent SVT by avoiding the things that trigger it.</p><ul><li>Limit or do not drink alcohol.</li><li> Limit <a chronic_id="091e9c5e802336fb" crossLinkId="56579" directive="friendlyurl" externalId="091e9c5e802336fb" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/overview_types_of/caffeine_myths_and_facts.xml" keywordId="42462" keywordSetId="10306" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/overview_types_of/caffeine_myths_and_facts.xml">caffeine</a>. Even
+				decaffeinated teas or coffee can cause SVT in some people. </li><li>Don't
+				smoke. </li><li>Avoid over-the-counter <a chronic_id="091e9c5e80012395" crossLinkId="22325" directive="friendlyurl" externalId="091e9c5e80012395" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/allergies/miscellaneous/decongestants.xml" keywordId="33827" keywordSetId="8552" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/allergies/miscellaneous/decongestants.xml">decongestants</a>, herbal remedies, <a chronic_id="091e9c5e80bd1618" crossLinkId="440" directive="friendlyurl" externalId="091e9c5e80bd1618" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet future toc_091e9c5e80bd1618/page_Diet future toc_091e9c5e80bd1618.xml" keywordId="34605" keywordSetId="2098" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet future toc_091e9c5e80bd1618/page_Diet future toc_091e9c5e80bd1618.xml">diet</a>
+				pills, and "pep" pills. </li><li>Don't use illegal <a chronic_id="" crossLinkId="31476" directive="friendlyurl" externalId="09D1C68D81D74991" href="http://www.webmd.com/drugs/index-drugs.aspx" keywordId="34730" keywordSetId="8684" object_type="" path="/webmdhttp://www.webmd.com/drugs/index-drugs.aspx">drugs</a>, such as <a chronic_id="" crossLinkId="63614" directive="friendlyurl" externalId="1383" href="http://www.webmd.com/drugs/drug-1383-cocaine+top.aspx" keywordId="33319" keywordSetId="8441" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-1383-cocaine+top.aspx">cocaine</a>,
+				ecstasy, or <a chronic_id="" crossLinkId="66346" directive="friendlyurl" externalId="8676" href="http://www.webmd.com/drugs/drug-8676-methamphetamine+oral.aspx" keywordId="54819" keywordSetId="22389" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-8676-methamphetamine+oral.aspx">methamphetamine</a>. </li></ul><p>To find your triggers, keep a diary of your heart rate and
+			 your symptoms. You might find, for example, that <a chronic_id="091e9c5e800ab373" crossLinkId="451" directive="friendlyurl" externalId="091e9c5e800ab373" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml" keywordId="40038" keywordSetId="9788" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml">smoking</a> or caffeine causes
+			 your SVT episodes. </p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-overview" owner="false"><breadcrumb><bread piece="Heart Health Center" prefix="www" friendlyurl="/heart/default.htm"></bread><bread piece="Heart Disease Health Center" prefix="www" friendlyurl="/heart-disease/default.htm"></bread><bread piece="Heart Disease Related Topics" prefix="www" friendlyurl="/heart-disease/tc/default.htm"></bread></breadcrumb><centers><Topic id="899" name="tmg" chronicid="091e9c5e8001ce95" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-overview" type="Topic">Supraventricular Tachycardia</Topic><Health id="968" name="health center" chronicid="091e9c5e80688800" prefix="www" friendlyurl="/heart-disease/default.htm" type="">Heart Disease</Health><Super id="948" name="super center" chronicid="091e9c5e80027294" prefix="www" friendlyurl="/heart/default.htm" type="">Heart Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-overview" owner="false"><breadcrumb><bread piece="Heart Disease Health Center" prefix="www" friendlyurl="/heart-disease/default.htm"></bread><bread piece="Heart Disease Related Topics" prefix="www" friendlyurl="/heart-disease/tc/default.htm"></bread></breadcrumb><centers><Topic id="11108" name="tmg" chronicid="091e9c5e8001ce95" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-overview" type="Topic">Supraventricular Tachycardia</Topic><Health id="11105" name="health center" chronicid="091e9c5e80688800" prefix="www" friendlyurl="/heart-disease/default.htm" type="">Heart Disease</Health></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001ce95" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-topic_overview_special_ps1687.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-overview"></target></object><object chronic_id="091e9c5e803739e7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/picture-of-the-heart"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-heart"></target></object><object chronic_id="091e9c5e80c1b43d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target></object><object chronic_id="091e9c5e8074ad24" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/first_aid/Fever_Facts.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/first-aid/fevers-causes-symptoms-treatments"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/fevers-causes-symptoms-treatments"></target></object><object chronic_id="091e9c5e8056ea80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/anatomy-picture-of-blood"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/anatomy-picture-of-blood"></target></object><object chronic_id="091e9c5e8001eae0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/the_heart_and_its_electrical_system_multimedia_zm2272.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/the-heart-and-its-electrical-system"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/the-heart-and-its-electrical-system"></target></object><object chronic_id="091e9c5e803c50fe" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/picture-of-the-lungs"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-lungs"></target></object><object chronic_id="091e9c5e8001b430" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/palpitations_definition_stp1297.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/palpitations-7713"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/palpitations-7713"></target></object><object chronic_id="091e9c5e80298d83" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pulse_heart_rate_definition_zd1519.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/pulse"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/pulse"></target></object><object chronic_id="091e9c5e800090c5" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/understanding_fainting_basics.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/understanding-fainting-basics"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/understanding-fainting-basics"></target></object><object chronic_id="091e9c5e8001b64e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/syncope_definition_sts15320.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/syncope"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/syncope"></target></object><object chronic_id="091e9c5e80521096" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/whats_causing_my_chest_pain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/guide/whats-causing-my-chest-pain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/guide/whats-causing-my-chest-pain"></target></object><object chronic_id="091e9c5e80099369" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/hyperhidrosis.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/hyperhidrosis2"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/hyperhidrosis2"></target></object><object chronic_id="091e9c5e8001b439" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/electrocardiogram_ekg_or_ecg_definition_ste122045.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/electrocardiogram-ekg-or-ecg"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/electrocardiogram-ekg-or-ecg"></target></object><object chronic_id="091e9c5e8001f105" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/electrocardiogram_medicaltest_hw213248.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/electrocardiogram"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/electrocardiogram"></target></object><object chronic_id="091e9c5e8001f11a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/ambulatory_electrocardiogram_medicaltest_aa10253.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/ambulatory-electrocardiogram"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/ambulatory-electrocardiogram"></target></object><object chronic_id="091e9c5e8001b0d1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/x-ray_definition_tu6485.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/x-ray"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/x-ray"></target></object><object chronic_id="091e9c5e8001b14c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/echocardiogram_echo_definition_ste122026.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/echocardiogram-echo"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/echocardiogram-echo"></target></object><object chronic_id="091e9c5e8001b344" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/electrical_cardioversion_definition_te7478.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/electrical-cardioversion"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/electrical-cardioversion"></target></object><object chronic_id="091e9c5e80490607" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/catheter_ablation_definition_zx3965.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/catheter-ablation"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/catheter-ablation"></target></object><object chronic_id="091e9c5e802336fb" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/overview_types_of/caffeine_myths_and_facts.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/balance/caffeine-myths-and-facts"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/caffeine-myths-and-facts"></target></object><object chronic_id="091e9c5e80012395" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/allergies/miscellaneous/decongestants.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/allergies/guide/decongestants"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/allergies/guide/decongestants"></target></object><object chronic_id="091e9c5e80bd1618" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet future toc_091e9c5e80bd1618/page_Diet future toc_091e9c5e80bd1618.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diet/default.htm" umtchronicleid="091e9c5e8068a387"></target><target siteid="8" name="" prefix="www" friendlyurl="/diet/default.htm" umtchronicleid="091e9c5e8068a387"></target></object><object chronic_id="091e9c5e800ab373" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/smoking-cessation/default.htm"></target></object><object chronic_id="091e9c5e8001ce95" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-topic_overview_special_ps1687.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-overview"></target></object><object chronic_id="091e9c5e80490874" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-health_tools_special_ps1684-healthtools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-health-tools"></target></object><object chronic_id="091e9c5e8001d67d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-frequently_asked_questions_special_te7203.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-frequently-asked-questions"></target></object><object chronic_id="091e9c5e8001d3aa" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-cause_special_ps1722.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-cause"></target></object><object chronic_id="091e9c5e8001cd71" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-symptoms_special_ps1727.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-symptoms"></target></object><object chronic_id="091e9c5e8001cdd5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-what_increases_your_risk_special_ps1743.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001cd8f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-when_to_call_a_doctor_special_ps1746.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001cd54" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-exams_and_tests_special_ps1764.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-exams-and-tests"></target></object><object chronic_id="091e9c5e8001cffe" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-treatment_overview_special_ps1778.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-treatment-overview"></target></object><object chronic_id="091e9c5e8001d3ed" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-ongoing_concerns_special_ps1737.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-ongoing-concerns"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-ongoing-concerns"></target></object><object chronic_id="091e9c5e8001ce94" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-prevention_special_ps1785.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-prevention"></target></object><object chronic_id="091e9c5e8001d4ff" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-living_with_tachycardia_special_ps1788.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-living-with-tachycardia"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-living-with-tachycardia"></target></object><object chronic_id="091e9c5e8001d1e9" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-medications_special_ps1796.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-medications"></target></object><object chronic_id="091e9c5e8001cee6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-surgery_special_tp17606.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-surgery"></target></object><object chronic_id="091e9c5e8001d26d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-other_treatment_special_ps1825.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-other-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-other-treatment"></target></object><object chronic_id="091e9c5e8001d4b7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-other_places_to_get_help_special_ps1684-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001d64c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-related_information_special_ps1684-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-related-information"></target></object><object chronic_id="091e9c5e8001d43a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-references_special_ps1684-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-references"></target></object><object chronic_id="091e9c5e8001d5e5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-credits_special_ps1684-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/supraventricular-tachycardia-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e80023782" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/supraventricular_tachycardia_special_ps1684.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001ce95" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-topic_overview_special_ps1687.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e80490874" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-health_tools_special_ps1684-healthtools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d67d" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-frequently_asked_questions_special_te7203.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Cause</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d3aa" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-cause_special_ps1722.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cd71" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-symptoms_special_ps1727.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Increases Your Risk</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cdd5" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-what_increases_your_risk_special_ps1743.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>When to Call a Doctor</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cd8f" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-when_to_call_a_doctor_special_ps1746.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cd54" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-exams_and_tests_special_ps1764.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cffe" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-treatment_overview_special_ps1778.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Ongoing Concerns</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d3ed" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-ongoing_concerns_special_ps1737.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Prevention</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001ce94" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-prevention_special_ps1785.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Living With Tachycardia</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d4ff" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-living_with_tachycardia_special_ps1788.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Medications</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d1e9" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-medications_special_ps1796.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Surgery</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cee6" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-surgery_special_tp17606.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Treatment</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d26d" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-other_treatment_special_ps1825.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001d4b7" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-other_places_to_get_help_special_ps1684-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d64c" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-related_information_special_ps1684-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001d43a" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-references_special_ps1684-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d5e5" path="/webmd/consumer_assets/controlled_content/healthwise/special/supraventricular_tachycardia-credits_special_ps1684-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Supraventricular Tachycardia</title><dynamic_objects><callout_title>Recommended Related to Heart Disease</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e8027c1ce"><metadata_section><i_chronicle_id>091e9c5e8007f969</i_chronicle_id><title>Sex After a Heart Attack</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>As a psychologist who has counseled heart patients for more than thirty
+years, Wayne Sotile, PhD, knows exactly how much they worry about sex after a
+heart attack.
+"And if they're not anxious, believe me, their partner's anxious," he
+says.
+Couples worry about triggering a second heart attack, or even that a patient
+could die in the bedroom. But Sotile and cardiologists tell WebMD that
+sex isn't nearly as risky as many patients believe. With a touch of
+reassurance, heart patients can once...</p></section_text><link siteid="3" prefix="www" friendlyurl="/heart-disease/features/sex-after-a-heart-attack"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Supraventricular Tachycardia - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>How is it treated?</h3>
+      <p>Some SVTs don't cause symptoms, and you may not need treatment. If you do have symptoms, your doctor probably will recommend treatment. </p>
+      <p>To treat sudden episodes of SVT, your doctor may:</p>
+      <ul>
+       <li>Prescribe a medicine to take when the SVT occurs.</li>
+       <li> Show you how you can slow your heart rate on your own. You may be able to do this by coughing, gagging, or putting your face in ice-cold water. These are called vagal maneuvers. </li>
+      </ul>
+      <p>If these treatments don't work, you may have to go to your doctor's office or the emergency room. You may get a fast-acting medicine such as adenosine or <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-7086-Verapamil+Oral.aspx?drugid=7086&amp;drugname=Verapamil+Oral">verapamil</a>. If the SVT is serious, you may have <a href="http://www.webmd.com/hw-popup/electrical-cardioversion" onclick="return sl(this,'hw','embd-lnk');">electrical cardioversion</a>, which uses an electrical current to reset the heart rhythm. </p>
+      <p>If you often have episodes of SVT, you may need to: </p>
+      <ul>
+       <li>Take medicine every day to prevent the episodes or slow your heart rate.</li>
+       <li> Try <a href="http://www.webmd.com/hw-popup/catheter-ablation" onclick="return sl(this,'hw','embd-lnk');">catheter ablation</a>. This procedure destroys a tiny part of the heart that causes the problem. </li>
+      </ul>
+      <h3>What can you do at home to prevent SVT?</h3>
+      <p>You can try some things at home to help prevent SVT by avoiding the things that trigger it.</p>
+      <ul>
+       <li>Limit or do not drink alcohol.</li>
+       <li> Limit <a href="http://www.webmd.com/balance/caffeine-myths-and-facts" onclick="return sl(this,'','embd-lnk');">caffeine</a>. Even decaffeinated teas or coffee can cause SVT in some people. </li>
+       <li>Don't smoke. </li>
+       <li>Avoid over-the-counter <a href="http://www.webmd.com/allergies/guide/decongestants" onclick="return sl(this,'','embd-lnk');">decongestants</a>, herbal remedies, <a href="http://www.webmd.com/diet/default.htm" onclick="return sl(this,'','embd-lnk');">diet</a> pills, and &quot;pep&quot; pills. </li>
+       <li>Don't use illegal <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/index-drugs.aspx">drugs</a>, such as <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-1383-cocaine+top.aspx">cocaine</a>, ecstasy, or <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-8676-methamphetamine+oral.aspx">methamphetamine</a>. </li>
+      </ul>
+      <p>To find your triggers, keep a diary of your heart rate and your symptoms. You might find, for example, that <a href="http://www.webmd.com/smoking-cessation/default.htm" onclick="return sl(this,'','embd-lnk');">smoking</a> or caffeine causes your SVT episodes. </p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-overview">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-overview">1</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">2</span>
+      <style type="text/css">
+            .pagination_fmt .center_fmt { width: 375px !important;}
+            </style>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-overview">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-overview">1</a><span class="pipe_fmt">|</span><span class="current_fmt">2</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-health-tools'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Cause',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-cause'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-symptoms'
+			});
+            
+			topics.push({
+			title : 'What Increases Your Risk',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-what-increases-your-risk'
+			});
+            
+			topics.push({
+			title : 'When to Call a Doctor',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-when-to-call-a-doctor'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Ongoing Concerns',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-ongoing-concerns'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-prevention'
+			});
+            
+			topics.push({
+			title : 'Living With Tachycardia',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-living-with-tachycardia'
+			});
+            
+			topics.push({
+			title : 'Medications',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-medications'
+			});
+            
+			topics.push({
+			title : 'Surgery',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-surgery'
+			});
+            
+			topics.push({
+			title : 'Other Treatment',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-other-treatment'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: August 09, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-overview">Topic Overview</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-health-tools">Health Tools</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-cause">Cause</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-symptoms">Symptoms</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-what-increases-your-risk">What Increases Your Risk</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-when-to-call-a-doctor">When to Call a Doctor</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-ongoing-concerns">Ongoing Concerns</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-prevention">Prevention</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-living-with-tachycardia">Living With Tachycardia</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-medications">Medications</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-surgery">Surgery</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-other-treatment">Other Treatment</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-related-information">Related Information</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-references">References</option><option value="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Supraventricular Tachycardia Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-frequently-asked-questions" onclick="return sl(this,'','topicNav_3');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-cause" onclick="return sl(this,'','topicNav_4');" title="Cause">Cause</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-symptoms" onclick="return sl(this,'','topicNav_5');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-what-increases-your-risk" onclick="return sl(this,'','topicNav_6');" title="What Increases Your Risk">What Increases Your Risk</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-when-to-call-a-doctor" onclick="return sl(this,'','topicNav_7');" title="When to Call a Doctor">When to Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-exams-and-tests" onclick="return sl(this,'','topicNav_8');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-treatment-overview" onclick="return sl(this,'','topicNav_9');" title="Treatment Overview">Treatment Overview</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-ongoing-concerns" onclick="return sl(this,'','topicNav_10');" title="Ongoing Concerns">Ongoing Concerns</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-prevention" onclick="return sl(this,'','topicNav_11');" title="Prevention">Prevention</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-living-with-tachycardia" onclick="return sl(this,'','topicNav_12');" title="Living With Tachycardia">Living With Tachycardia</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-medications" onclick="return sl(this,'','topicNav_13');" title="Medications">Medications</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-surgery" onclick="return sl(this,'','topicNav_14');" title="Surgery">Surgery</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-other-treatment" onclick="return sl(this,'','topicNav_15');" title="Other Treatment">Other Treatment</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-other-places-to-get-help" onclick="return sl(this,'','topicNav_16');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-related-information" onclick="return sl(this,'','topicNav_17');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-references" onclick="return sl(this,'','topicNav_18');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/supraventricular-tachycardia-credits" onclick="return sl(this,'','topicNav_19');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1054"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/healthy-aging/medical-cost-disability-11/heart-disease" onclick="return sl(this,'','rltd-p-1054_1');">Heart Disease: What Are the Medical Costs?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','rltd-p-1054_2');">Quiz: Test Your Cholesterol Smarts</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/slideshow-living-with-a-fib" onclick="return sl(this,'','rltd-p-1054_3');">10 Tips for Living With Atrial Fibrillation</a> </li> 
+     <li id="x65"> <a href="http://men.webmd.com/erectile-dysfunction-11/myths-and-facts" onclick="return sl(this,'','rltd-p-1054_4');">Heart Problems and ED: What's the Link?</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/oral-health/answers-periodontal" onclick="return sl(this,'','rltd-p-1054_5');">Gum Disease: Linked to Heart Problems?</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/medication" onclick="return sl(this,'','rltd-p-1054_6');">Cholesterol Medications: Which Drug Is Right for You?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1054_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80b52be3" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb80</chronic_id><r_object_id>091e9c5e80b52be3</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8068fb80.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/30/2012 19:27:36</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Heart Disease Center/template_Heart Disease Health Center_091e9c5e8002329b.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002329b"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Heart Palpitations</name><link_title>Heart Palpitations</link_title><description>Heart palpitations can be the result of stress or too much caffeine. They can also be a sign of a heart problem such as a heart rhythm disorder. While infrequent palpitations may not be a sign of something serious, any unusual heart rhythms that recur should be evaluated by a doctor. Follow the links below to find WebMD's comprehensive coverage about how palpitations are caused, treatments for palpitations, and much more.</description><friendly_url>http://www.webmd.com/heart/heart-palpitations-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e801ece29"><link_title>Heart Arrhythmia Quiz</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-arrhythmia-quiz</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1078</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What causes an arrhythmia?</link_title><friendly_url>http://answers.webmd.com/answers/1176669/what-causes-an-arrhythmia</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006ef7"><link_title>Irregular Heartbeats, Sudden Death Shocked by Device</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000209/irregular-heartbeats-sudden-death-shocked-by-device</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800091b8"><link_title>Abnormal Heart Rhythms and Implantable Cardioverter Defibrillators (ICD)</link_title><friendly_url>http://www.webmd.com/heart-disease/guide/abnormal-rhythms-icd</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000c209"><link_title>Fish Oil Prevents Deadly Heart Rhythms</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-failure/news/20030527/fish-oil-prevents-deadly-heart-rhythms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8070d67c"><link_title>Study: Overuse of Implanted Cardiac Defibrillators</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20110104/study-overuse-of-implanted-cardiac-defibrillators</friendly_url><thumbnail height="" width="" alt="concerned elderly woman">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/01_2011/69x75_many_icds_not_necessary_01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80727714"><link_title>Alcohol May Raise Risk of Irregular Heart Rhythm</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/news/20110119/alcohol-may-raise-risk-of-irregular-heart-rhythm</friendly_url><thumbnail height="" width="" alt="glass of beer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/01_2011/69x75_alcohol_atrial_fibrillation_01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80775db4"><link_title>Atrial Fibrillation May Have Link to Dementia</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/news/20110307/atrial-fibrillation-may-have-link-to-dementia</friendly_url><thumbnail height="" width="" alt="senior woman in hospital with nurse">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/03_2011/69x75_stroke_dementia_risk_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802181f7"><link_title>Palpitations Treatment</link_title><friendly_url>http://www.webmd.com/first-aid/palpitations-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000ae91"><link_title>The Basics of Atrial Flutter</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/atrial-flutter</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000ae56"><link_title>Heart Rhytym Disorders</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-rythym-disorders</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800092c6"><link_title>Heart Disease and Irregular Heartbeats</link_title><friendly_url>http://www.webmd.com/heart-disease/guide/heart-disease-abnormal-heart-rhythm</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80db8b2d"><link_title>Atrial Fibrillation (AFib) Myths and Facts</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/features/afib-myths-facts</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80db2531"><link_title>The Facts About Cardioversion</link_title><friendly_url>http://www.webmd.com/heart-disease/facts-about-cardioversion</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e806b7deb"><link_title>Slideshow:  A Visual Guide to Atrial Fibrillation</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/ss/slideshow-af-overview</friendly_url><thumbnail height="" width="" alt="Atrial fibrillation">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/atrial_fibrillation/69x75_atrial_fibrillation.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80222b37"><link_title>Heart Rhythm Disorders Illustrated Guide</link_title><friendly_url>http://www.webmd.com/heart-disease/healthtool-heart-rhythm-disorders-illustrated-guide</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1004</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008e28"><link_title>Atrial Fibrillation and Heart Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/heart-disease-atrial-fibrillation-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007d5d"><link_title>Antiarrhythmics Drugs to Treat Heart Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/guide/medicine-antiarrhythmics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008eca"><link_title>Treating Heart Arrhythmias with Ablation</link_title><friendly_url>http://www.webmd.com/heart-disease/guide/treating-arrhythmias-ablation</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d53d"><link_title>Atrial Fibrillation-Ongoing Concerns</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/tc/atrial-fibrillation-ongoing-concerns</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d130"><link_title>Atrial Fibrillation-Surgery</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/tc/atrial-fibrillation-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061aff3"><link_title>Change in Heartbeat-Emergencies</link_title><friendly_url>http://www.webmd.com/heart-disease/tc/change-in-heartbeat-emergencies</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061afeb"><link_title>Change in Heartbeat-Check Your Symptoms</link_title><friendly_url>http://www.webmd.com/heart-disease/tc/change-in-heartbeat-check-your-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001aa6d"><link_title>Antiarrhythmic Medicines for Fast Heart Rates</link_title><friendly_url>http://www.webmd.com/heart-disease/antiarrhythmic-medications-for-fast-heart-rates</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001cdfa"><link_title>Atrial Fibrillation-Medications</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/atrial-fibrillation-medications</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ce12"><link_title>Atrial Fibrillation-Exams and Tests</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/atrial-fibrillation-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001cee1"><link_title>Bradycardia (Slow Heart Rate)-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/heart-disease/tc/bradycardia-slow-heart-rate-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d03f"><link_title>Atrial Fibrillation-Other Treatment</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/atrial-fibrillation-other-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d131"><link_title>Atrial Fibrillation-Living With Atrial Fibrillation</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/atrial-fibrillation-living-with-atrial-fibrillation</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d2ce"><link_title>Atrial Fibrillation-Prevention</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/atrial-fibrillation-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/heart-disease/atrial-fibrillation/ss/slideshow-af-overview" onclick="return sl(this,'','lln-tdrelcon_1');">Slideshow: A Visual Guide to Atrial Fibrillation</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/healthtool-heart-rhythm-disorders-illustrated-guide" onclick="return sl(this,'','lln-tdrelcon_2');">Heart Rhythm Disorders Illustrated Guide</a></li>
+      <li><a href="http://answers.webmd.com/answers/1176669/what-causes-an-arrhythmia" onclick="return sl(this,'','lln-tdrelcon_3');">What causes an arrhythmia?</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/heart-arrhythmia-quiz" onclick="return sl(this,'','lln-tdrelcon_4');">Heart Arrhythmia Quiz</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/guide/abnormal-rhythms-icd" onclick="return sl(this,'','lln-tdrelcon_5');">Abnormal Heart Rhythms and Implantable Cardioverter Defibrillators (ICD)</a></li>
+      <li><a href="http://www.webmd.com/first-aid/palpitations-treatment" onclick="return sl(this,'','lln-tdrelcon_6');">Palpitations Treatment</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/atrial-fibrillation/atrial-flutter" onclick="return sl(this,'','lln-tdrelcon_7');">The Basics of Atrial Flutter</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/heart/heart-palpitations-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Heart Palpitations Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1240347892&amp;tile=1568241631&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=968&amp;scent=948&amp;pos=5000&amp;xpg=1675&amp;sec=4030&amp;au1=1&amp;au2=1&amp;uri=%2fheart-disease%2ftc%2fsupraventricular-tachycardia-overview&amp;artid=091e9c5e8001ce95&amp;inst=0&amp;leaf=899&amp;cc=16&amp;tmg=1&amp;bc=_sex3_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1240347892&amp;amp;tile=1568241631&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=968&amp;amp;scent=948&amp;amp;pos=5000&amp;amp;xpg=1675&amp;amp;sec=4030&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fheart-disease%2ftc%2fsupraventricular-tachycardia-overview&amp;amp;artid=091e9c5e8001ce95&amp;amp;inst=0&amp;amp;leaf=899&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_sex3_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1675";
+			var secTopId = "4030";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1240347892&amp;tile=1568241631&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=968&amp;scent=948&amp;pos=5001&amp;xpg=1675&amp;sec=4030&amp;au1=1&amp;au2=1&amp;uri=%2fheart-disease%2ftc%2fsupraventricular-tachycardia-overview&amp;artid=091e9c5e8001ce95&amp;inst=0&amp;leaf=899&amp;cc=16&amp;tmg=1&amp;bc=_sex3_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1240347892&amp;amp;tile=1568241631&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=968&amp;amp;scent=948&amp;amp;pos=5001&amp;amp;xpg=1675&amp;amp;sec=4030&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fheart-disease%2ftc%2fsupraventricular-tachycardia-overview&amp;amp;artid=091e9c5e8001ce95&amp;amp;inst=0&amp;amp;leaf=899&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_sex3_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1675";
+			var secTopId = "4030";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

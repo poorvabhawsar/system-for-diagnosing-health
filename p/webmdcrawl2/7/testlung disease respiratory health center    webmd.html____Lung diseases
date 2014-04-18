@@ -1,0 +1,384 @@
+<title>Lung Disease Respiratory Health Center -- WebMD</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/lung/rm-quiz-myths-facts-copd" onclick="return sl(this,'','prm-hc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/copd_rmq/493x335_copd_rmq.jpg" alt="woman with copd" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/lung/rm-quiz-myths-facts-copd" onclick="return sl(this,'','prm-hc_1');">COPD</a> </h2> 
+        <a href="http://www.webmd.com/lung/rm-quiz-myths-facts-copd" onclick="return sl(this,'','prm-hc_1');" class="type_quiz">How much do you know?<i><span class="jawsonly">Quiz</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/asthma/asthma-health-check/default.htm" data-alt="woman with asthma inhaler" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/health_checks/asthma_healthcheck/493x335_asthma_healthcheck.jpg" onclick="return sl(this,'','prm-hc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/asthma/asthma-health-check/default.htm" onclick="return sl(this,'','prm-hc_2');">Have Asthma?</a> </h2> 
+        <a href="http://www.webmd.com/asthma/asthma-health-check/default.htm" onclick="return sl(this,'','prm-hc_2');">Get personalized tips.<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/smoking-cessation/ss/slideshow-13-best-quit-smoking-tips-ever" data-alt="ashtray" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/quit_smoking_slideshow/493x335_quit_smoking_slideshow.jpg" onclick="return sl(this,'','prm-hc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/smoking-cessation/ss/slideshow-13-best-quit-smoking-tips-ever" onclick="return sl(this,'','prm-hc_3');">Quit Smoking</a> </h2> 
+        <a href="http://www.webmd.com/smoking-cessation/ss/slideshow-13-best-quit-smoking-tips-ever" onclick="return sl(this,'','prm-hc_3');" class="type_ss">13 of the best tips.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="teaser_fmt"> 
+    <h3>Lung Disease and Respiratory Health Overview</h3> 
+    <p>Lung disease ranges from bronchitis and pneumonia to pulmonary hypertension. Lung function tests and X-rays are used to diagnosis the problem. Many symptoms can be eased with proper treatment. </p> 
+   </div>
+   <div class="guideDropdown_rdr"> 
+    <form action="" id="qform1" onsubmit="window.location=guideNavDropdown.options[guideNavDropdown.options.selectedIndex].value; return false;"> 
+     <h4>Select a Topic</h4> 
+     <select name="guideNavDropdown" id="guideNavDropdown" class="listBox_fmt"> <option value="http://www.webmd.com/lung/lung-diseases-overview">Lung Diseases</option> <option value="http://www.webmd.com/asthma/default.htm">Asthma</option> <option value="http://www.webmd.com/a-to-z-guides/understanding-bronchitis-basics">Bronchitis</option> <option value="http://www.webmd.com/lung/copd/default.htm">COPD</option> <option value="http://www.webmd.com/children/guide/understanding-cystic-fibrosis-basics">Cystic Fibrosis</option> <option value="http://www.webmd.com/lung-cancer/default.htm">Lung Cancer</option> <option value="http://www.webmd.com/a-to-z-guides/understanding-pneumonia-basics">Pneumonia</option> </select> 
+     <button onclick="wmdTrack('prm-dd-mc');" type="submit" name="goSingle" class="btn"> </button> 
+     <div class="clearing"> 
+     </div> 
+    </form> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="subheaderBar_rdr">
+    Latest Headlines
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainEditorial_rdr"> 
+    <a href="http://www.webmd.com/lung/news/20140320/tuberculosis-in-us-hits-record-low-cdc" onclick="return sl(this,'','head-hc_1_1');"> <img class="mainEditorial_photo_fmt" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/healthday/2013/07/chestxray_mic083ml.jpg" border="0" alt="" width="69" /> </a> 
+    <div class="mainEditorial_photo_text_fmt"> 
+     <a href="http://www.webmd.com/lung/news/20140320/tuberculosis-in-us-hits-record-low-cdc" onclick="return sl(this,'','head-hc_1_1');">Tuberculosis in U.S. Hits Record Low: CDC</a> 
+     <br />Improved screening of immigrants contributes to decline in tuberculosis
+    </div> 
+    <p class="mainEditorial_read_link_fmt"> <a href="http://www.webmd.com/lung/news/20140320/tuberculosis-in-us-hits-record-low-cdc" onclick="return sl(this,'','head-hc_1_1');"> Read Full Article </a> </p> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainLinks_rdr latestHeadlines_fmt"> 
+    <h4 class="latestHeadlinesTitle_fmt">Top Stories</h4> 
+    <ul> 
+     <li> <a href="http://www.webmd.com/lung/copd/news/20100616/copd-patients-may-be-overtreated-with-steroids" onclick="return sl(this,'','head-hc_2_1');">COPD Patients May Be Overtreated With Steroids</a> </li> 
+     <li> <a href="http://www.webmd.com/lung/copd/copd-breathlessness-9/big-picture" onclick="return sl(this,'','head-hc_2_2');">COPD: Tips to Help You Cope</a> </li> 
+     <li> <a href="http://www.webmd.com/a-to-z-guides/asbestos-exposure" onclick="return sl(this,'','head-hc_2_3');">Older Homes and Asbestos Exposure Risk</a> </li> 
+     <li> <a href="http://www.webmd.com/lung/copd/copd-breathlessness-9/questions-answers" onclick="return sl(this,'','head-hc_2_4');">Living With COPD: 10 FAQs</a> </li> 
+     <li> <a href="http://www.webmd.com/lung/lung-function-tests" onclick="return sl(this,'','head-hc_2_5');">A Guide to Lung Function Tests</a> </li> 
+     <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/lung/news-features" onclick="return sl(this,'','head-hc_2_more-articles');">More Articles</a> </li> 
+    </ul> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/aca-state-promo-core.js"></script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aca-state-promo-cw.css" /> 
+   <div class="aca-state-promo-cw"> 
+    <h4>Health Insurance in Your State</h4> 
+    <div class="bg"> 
+     <p>Learn about plans, benefits, and costs in your state's Marketplace.</p> 
+     <div id="names-dropdown-container"> 
+      <select name="names-dropdown" id="names-dropdown"> <option value="">Choose a state or territory</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IO">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="DC">Washington, D.C.</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> <option value="">--------</option> <option value="AS">American Samoa</option> <option value="GU">Guam</option> <option value="MP">Northern Mariana Islands</option> <option value="PR">Puerto Rico</option> <option value="VI">Virgin Islands</option> </select> 
+     </div> 
+    </div> 
+    <span class="jawsonly">From WebMD</span> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1261802212&amp;tile=1752865318&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2892&amp;scent=&amp;pos=5000&amp;xpg=4292&amp;sec=&amp;au1=1&amp;au2=15&amp;uri=%2flung%2fdefault&amp;artid=091e9c5e803c0c52&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_j44_cust4_h16_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1261802212&amp;amp;tile=1752865318&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2892&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=4292&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=15&amp;amp;uri=%2flung%2fdefault&amp;amp;artid=091e9c5e803c0c52&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_j44_cust4_h16_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4292";
+			var secTopId = "";
+		</script>
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/lung/lung-disease-health-check/default.htm" onclick="return sl(this,'','tools-res_1');">Assess Your COPD Risk</a></li>
+      <li id="x57"><a href="http://www.webmd.com/lung/slideshow-bronchitis-overview" class="type_ss" onclick="return sl(this,'','tools-res_2');">Bronchitis: A Visual Overview<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/lung/copd/slideshow-energy-boosting-foods" class="type_ss" onclick="return sl(this,'','tools-res_3');">Energy-Boosting Foods for COPD<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/lung/copd/copd-myth-fact-quiz" onclick="return sl(this,'','tools-res_4');">Test Your COPD IQ</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/healthy-home-health-check/default.htm" onclick="return sl(this,'','tools-res_5');">Assess the Health of Your Home</a></li>
+      <li id="x61"><a href="http://www.webmd.com/asthma/slideshow-10-worst-cities-for-asthma" class="type_ss" onclick="return sl(this,'','tools-res_6');">10 Worst Cities for Asthma<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="subheaderBar_rdr" id="comm-html"> 
+    <h3>Community &amp; Resources</h3> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="communityGroup_rdr" id="comm-grp"> 
+    <div class="communityGroup_fmt"> 
+     <div class="dottedDividerFirst_fmt"> 
+     </div> 
+     <div class="titleArea_fmt"> 
+      <h4>Discussions</h4> 
+      <h5> <a href="http://exchanges.webmd.com/pams-emphysema-and-chronic-lung-disease-community" onclick="return sl(this, '', 'comm-grp_1_1');">More Discussions</a> </h5> 
+     </div> 
+     <ul> 
+      <li> <a href="http://forums.webmd.com/3/lung-cancer-exchange/forum/51" onclick="return sl(this, '', 'comm-grp_1_2');">Dealing With COPD and Lung Cancer</a> </li> 
+     </ul> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+    <div class="communityGroup_fmt"> 
+     <div class="dottedDivider_fmt"> 
+     </div> 
+     <div class="titleArea_fmt"> 
+      <h4>Expert Blog</h4> 
+      <h5> <a href="http://exchanges.webmd.com/webmd-exchanges/blogs" onclick="return sl(this, '', 'comm-grp_2_1');">More Blogs</a> </h5> 
+     </div> 
+     <ul> 
+      <li> <a href="http://blogs.webmd.com/health-ehome/2010/03/up-in-smoke-are-flame-retardants.html" onclick="return sl(this, '', 'comm-grp_2_2');">Are Flame Retardants Causing More Harm Than Good?</a> </li> 
+     </ul> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+    <div class="communityGroup_fmt"> 
+     <div class="dottedDivider_fmt"> 
+     </div> 
+     <div class="titleArea_fmt"> 
+      <h4>Community</h4> 
+      <h5> <a href="http://exchanges.webmd.com/default.htm" onclick="return sl(this, '', 'comm-grp_3_1');">Join the Discussion</a> </h5> 
+     </div> 
+     <ul> 
+      <li> <a href="http://exchanges.webmd.com/asthma-exchange" onclick="return sl(this, '', 'comm-grp_3_2');">WebMD Asthma Community</a> </li> 
+      <li> <a href="http://exchanges.webmd.com/smoking-cessation-exchange" onclick="return sl(this, '', 'comm-grp_3_3');">WebMD Smoking Cessation Community</a> </li> 
+     </ul> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="mainContentSectionFooter_fmt"> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="top_search_rdr" id="top-twelve-lung"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top Search Terms for Lung Disease &amp; Respiratory Health</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/copd/default.htm" onclick="return sl(this,'','top-twelve-lung_1');">COPD</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/a-to-z-guides/pulmonary-hypertension-1" onclick="return sl(this,'','top-twelve-lung_2');">Pulmonary Hypertension</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/lung-function-tests" onclick="return sl(this,'','top-twelve-lung_3');">Lung Function Tests</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/understanding-pneumonia-basics" onclick="return sl(this,'','top-twelve-lung_4');">Pneumonia</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/understanding-bronchitis-basics" onclick="return sl(this,'','top-twelve-lung_5');">Bronchitis</a> 
+      </div> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/pulmonary-fibrosis" onclick="return sl(this,'','top-twelve-lung_6');">Pulmonary Fibrosis</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/interstitial-lung-disease" onclick="return sl(this,'','top-twelve-lung_7');">Interstitial Lung Disease</a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/understanding-sarcoidosis-basics" onclick="return sl(this,'','top-twelve-lung_8');">Sarcoidosis</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/guide/understanding-cystic-fibrosis-basics" onclick="return sl(this,'','top-twelve-lung_9');">Cystic Fibrosis</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/understanding-pleurisy-basics" onclick="return sl(this,'','top-twelve-lung_10');">Pleurisy</a> 
+      </div> 
+      <div class="top_search_number">
+       11
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/pulmonary-vascular-disease" onclick="return sl(this,'','top-twelve-lung_11');">Pulmonary Vascular Disease</a> 
+      </div> 
+      <div class="top_search_number">
+       12
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/pleural-effusion-symptoms-causes-treatments" onclick="return sl(this,'','top-twelve-lung_12');">Pleural Effusion</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,596 @@
+<title>Diabetic Ketoacidosis (DKA) Causes, Diagnosis &amp; Treatments</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/diabetes/diabetes-health-check/diabetes-health-check-old" onclick="return sl(this,'','lln-toolsres_1');">Is Your Diabetes Under Control?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Tips: Stay Healthy With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853920" onclick="return sl(this,'','lln-toolsres_3');">How to Count Carbs With Diabetes</a></li>
+      <li id="x59"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/preventing-complications" onclick="return sl(this,'','lln-toolsres_4');">Preventing Diabetes Complications</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853926" onclick="return sl(this,'','lln-toolsres_5');">Diabetes Menu Plan</a></li>
+      <li id="x61"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/taking-care" onclick="return sl(this,'','lln-toolsres_6');">4 Every Day Tips for Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e8fafa" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e8001d412</i_chronicle_id><r_object_id>091e9c5e80e8fafa</r_object_id><title>Topic Overview</title><object_name>diabetic_ketoacidosis_dka-topic_overview_special_tp21136.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e8fafa</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_tp21136</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Diabetic Ketoacidosis (DKA) Causes, Diagnosis &amp; Treatments</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is diabetic ketoacidosis (DKA)?Diabetic ketoacidosis (DKA) is a life - threatening condition that develops when cells in the body are unable to get the sugar (glucose) they need for energy, such as when you have diabetes and do not take enough insulin. Without insulin, the body cannot use sugar for energy. When the cells do not receive sugar, the body begins to break down fat for energy. When</wbmd_desc_meta><wbmd_orig_pub_dt>05/21/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is diabetic ketoacidosis (DKA)?Diabetic ketoacidosis (DKA) is a life - threatening condition that develops when cells in the body are unable to get the sugar (glucose) they need for energy, such as when you have diabetes and do not take enough insulin. Without insulin, the body cannot use sugar for energy. When the cells do not receive sugar, the body begins to break down fat for energy. When</wbmd_desc_user><wbmd_lk_ttl>Diabetic Ketoacidosis (DKA)-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>diabetic coma, diabetic ketoacidosis, DKA, hyperglycemic coma</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>E10</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e8fafa</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3629" wbmd_disp_nm="Diabetes - Type 1"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1033" wbmd_disp_nm="Diabetes"></wbmd_c_channel_id><wbmd_c_frnd_nm>Diabetic-Ketoacidosis-DKA-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is diabetic ketoacidosis (DKA)?</section_header><section_type>SpecialSection</section_type><section_text><p>Diabetic
+			 ketoacidosis (DKA) is a life-threatening condition that develops when cells in
+			 the body are unable to get the sugar (glucose) they need for energy, such as
+			 when you have
+			 <a chronic_id="091e9c5e8001b17f" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/diabetes_definition_std120744.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/diabetes_definition_std120744.xml">diabetes</a> and do not get enough <a chronic_id="" crossLinkId="65592" directive="friendlyurl" externalId="5233" href="http://www.webmd.com/drugs/drug-5233-Insulin+Regular+Human+Inj.aspx?drugid=5233&amp;drugname=Insulin+Regular+Human+Inj" keywordId="54068" keywordSetId="21659" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-5233-Insulin+Regular+Human+Inj.aspx?drugid=5233&amp;drugname=Insulin+Regular+Human+Inj">insulin</a>. Without
+			 insulin, the body cannot use sugar for energy. When the cells do not receive
+			 sugar, the body begins to break down fat and muscle for energy. When this
+			 happens,
+			 <a chronic_id="091e9c5e8001b052" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ketones_definition_stk151092.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ketones_definition_stk151092.xml">ketones</a>, or fatty acids, are produced and enter the
+			 bloodstream, causing the chemical imbalance (metabolic acidosis) called
+			 diabetic ketoacidosis. </p></section_text></section_group><section_group><section_header>What causes DKA?</section_header><section_type>SpecialSection</section_type><section_text><p>Ketoacidosis can be caused by not
+			 getting enough insulin, having a severe infection or other illness, becoming
+			 severely
+			 <a chronic_id="091e9c5e8001b063" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/dehydration_definition_std120726.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/dehydration_definition_std120726.xml">dehydrated</a>, or some combination of these things. It
+			 can occur in people who have little or no
+			 <a chronic_id="091e9c5e8001b512" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/insulin_definition_sti150726.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/insulin_definition_sti150726.xml">insulin</a> in their bodies (mostly people with
+			 <a chronic_id="091e9c5e8001b475" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/type_1_diabetes_definition_stt11221.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/type_1_diabetes_definition_stt11221.xml">type 1 diabetes</a> but it can happen with
+			 <a chronic_id="091e9c5e8001af15" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/type_2_diabetes_definition_stt11174.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/type_2_diabetes_definition_stt11174.xml">type 2 diabetes</a>) when their <a chronic_id="091e9c5e8001f039" crossLinkId="1582276" directive="friendlyurl" externalId="091e9c5e8001f039" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/blood_glucose_medicaltest_hw8252.xml" keywordId="42505" keywordSetId="10316" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/blood_glucose_medicaltest_hw8252.xml">blood sugar levels</a> are
+			 high. </p></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p>Your blood sugar may be
+			 quite high before you notice symptoms, which include:</p><ul><li>Flushed, hot, <a chronic_id="091e9c5e80034d7a" crossLinkId="480" directive="friendlyurl" externalId="091e9c5e80034d7a" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Skin Problems and Treatments TOC Page/page_Skin Problems and Treatments Health Center_091e9c5e80034d7a.xml" keywordId="7294" keywordSetId="1117" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Skin Problems and Treatments TOC Page/page_Skin Problems and Treatments Health Center_091e9c5e80034d7a.xml">dry skin</a>.</li><li>Blurred
+				<a chronic_id="091e9c5e800302ce" crossLinkId="166" directive="friendlyurl" externalId="091e9c5e800302ce" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml" keywordId="35136" keywordSetId="1184" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml">vision</a>.</li><li>Feeling thirsty.</li><li>Drowsiness or difficulty
+				waking up. Young children may lack interest in their normal
+				activities.</li><li>Rapid, deep breathing.</li><li>A strong, fruity
+				breath odor. </li><li>Loss of appetite, belly pain, and
+				<a chronic_id="091e9c5e800079b6" crossLinkId="5629" directive="friendlyurl" externalId="091e9c5e800079b6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml" keywordId="38407" keywordSetId="9410" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml">vomiting</a>.</li><li>Confusion.</li></ul><p>When diabetic ketoacidosis is severe, you may have
+			 a hard time breathing, your <a chronic_id="091e9c5e8041fa4e" crossLinkId="73853" directive="friendlyurl" externalId="091e9c5e8041fa4e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml" keywordId="60487" keywordSetId="26677" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml">brain</a> may swell (cerebral <a chronic_id="091e9c5e8043b0d5" crossLinkId="73258" directive="friendlyurl" externalId="091e9c5e8043b0d5" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/edema_overview.xml" keywordId="34841" keywordSetId="8710" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/edema_overview.xml">edema</a>), and there is a
+			 risk of <a chronic_id="091e9c5e8027d4dc" crossLinkId="58551" directive="friendlyurl" externalId="091e9c5e8027d4dc" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/coma_types_causes_treatments_prognosis.xml" keywordId="42682" keywordSetId="10411" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/coma_types_causes_treatments_prognosis.xml">coma</a> and even death. </p></section_text></section_group><section_group><section_header>How is DKA diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>Laboratory tests, including
+			 blood and urine tests, are used to confirm a diagnosis of
+			 diabetic ketoacidosis. Urine dipstick tests for
+			 ketones are available for home use. Keep some nearby in case your blood sugar
+			 level becomes high.</p></section_text></section_group><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>When
+			 ketoacidosis is severe, it must be treated in the hospital, often in an
+			 intensive care unit. Treatment involves giving insulin and fluids through a
+			 vein and closely watching certain chemicals in the blood (<a chronic_id="091e9c5e8001af7e" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/electrolytes_and_electrolyte_imbalances_definition_ste122049.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/electrolytes_and_electrolyte_imbalances_definition_ste122049.xml">electrolytes</a>). It can take several days for your blood
+			 sugar level to return to a target range. </p></section_text></section_group><section_group><section_header>Who is at risk for DKA?</section_header><section_type>SpecialSection</section_type><section_text><p>If you have type 1
+			 diabetes, you are at risk for DKA if you do not get enough insulin, have a
+			 severe infection or other illness, or become severely dehydrated. In some cases
+			 DKA can be the first sign of diabetes. </p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-topic-overview" owner="false"><breadcrumb><bread piece="Diabetes Health Center" prefix="www" friendlyurl="/diabetes/default.htm"></bread><bread piece="Diabetes Related Topics" prefix="www" friendlyurl="/diabetes/tc/default.htm"></bread></breadcrumb><centers><Topic id="1125" name="tmg" chronicid="091e9c5e8001d412" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-topic-overview" type="Topic">Diabetic Ketoacidosis (DKA)</Topic><Health id="1037" name="health center" chronicid="" prefix="www" friendlyurl="/diabetes/default.htm" type="">Diabetes</Health></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-topic-overview" owner="false"><breadcrumb><bread piece="Diabetes Health Center" prefix="www" friendlyurl="/diabetes/default.htm"></bread><bread piece="Diabetes Related Topics" prefix="www" friendlyurl="/diabetes/tc/default.htm"></bread></breadcrumb><centers><Topic id="11078" name="tmg" chronicid="091e9c5e8001d412" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-topic-overview" type="Topic">Diabetic Ketoacidosis (DKA)</Topic><Health id="11075" name="health center" chronicid="091e9c5e80686ee4" prefix="www" friendlyurl="/diabetes/default.htm" type="">Diabetes</Health></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001b17f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/diabetes_definition_std120744.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/diabetes"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/diabetes"></target></object><object chronic_id="091e9c5e8001b052" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ketones_definition_stk151092.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/ketones"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/ketones"></target></object><object chronic_id="091e9c5e8001b063" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/dehydration_definition_std120726.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/dehydration"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/dehydration"></target></object><object chronic_id="091e9c5e8001b512" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/insulin_definition_sti150726.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/insulin"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/insulin"></target></object><object chronic_id="091e9c5e8001b475" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/type_1_diabetes_definition_stt11221.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/type-1-diabetes"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/type-1-diabetes"></target></object><object chronic_id="091e9c5e8001af15" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/type_2_diabetes_definition_stt11174.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/type-2-diabetes"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/type-2-diabetes"></target></object><object chronic_id="091e9c5e8001f039" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/blood_glucose_medicaltest_hw8252.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diabetes/blood-glucose"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diabetes/blood-glucose"></target></object><object chronic_id="091e9c5e80034d7a" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Skin Problems and Treatments TOC Page/page_Skin Problems and Treatments Health Center_091e9c5e80034d7a.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/default.htm" umtchronicleid="091e9c5e80693c26"></target><target siteid="8" name="" prefix="www" friendlyurl="/skin-problems-and-treatments/default.htm" umtchronicleid="091e9c5e80693c26"></target></object><object chronic_id="091e9c5e800302ce" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target><target siteid="8" name="" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target></object><object chronic_id="091e9c5e800079b6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-nausea-vomiting"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-nausea-vomiting"></target></object><object chronic_id="091e9c5e8041fa4e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/picture-of-the-brain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-brain"></target></object><object chronic_id="091e9c5e8043b0d5" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/edema_overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/heart-failure/edema-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/edema-overview"></target></object><object chronic_id="091e9c5e8027d4dc" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/coma_types_causes_treatments_prognosis.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/coma-types-causes-treatments-prognosis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/coma-types-causes-treatments-prognosis"></target></object><object chronic_id="091e9c5e8001af7e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/electrolytes_and_electrolyte_imbalances_definition_ste122049.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/electrolytes-and-electrolyte-imbalances"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/electrolytes-and-electrolyte-imbalances"></target></object><object chronic_id="091e9c5e8001d412" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/diabetic_ketoacidosis_dka-topic_overview_special_tp21136.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-topic-overview"></target></object><object chronic_id="091e9c5e80e655c9" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/diabetic_ketoacidosis_dka-other_places_to_get_help_special_aa21118spec-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001d1c3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/diabetic_ketoacidosis_dka-related_information_special_aa21118spec-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-related-information"></target></object><object chronic_id="091e9c5e80299055" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/diabetic_ketoacidosis_dka-references_special_aa21118spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-references"></target></object><object chronic_id="091e9c5e8001d094" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/diabetic_ketoacidosis_dka-credits_special_aa21118spec-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diabetes/tc/diabetic-ketoacidosis-dka-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e800237dd" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/diabetic_ketoacidosis_dka_special_aa21118spec.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d412" path="/webmd/consumer_assets/controlled_content/healthwise/special/diabetic_ketoacidosis_dka-topic_overview_special_tp21136.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e80e655c9" path="/webmd/consumer_assets/controlled_content/healthwise/special/diabetic_ketoacidosis_dka-other_places_to_get_help_special_aa21118spec-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d1c3" path="/webmd/consumer_assets/controlled_content/healthwise/special/diabetic_ketoacidosis_dka-related_information_special_aa21118spec-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e80299055" path="/webmd/consumer_assets/controlled_content/healthwise/special/diabetic_ketoacidosis_dka-references_special_aa21118spec-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d094" path="/webmd/consumer_assets/controlled_content/healthwise/special/diabetic_ketoacidosis_dka-credits_special_aa21118spec-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Diabetic Ketoacidosis (DKA)</title><dynamic_objects><callout_title>Recommended Related to Diabetes</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80a0f312"><metadata_section><i_chronicle_id>091e9c5e80710b82</i_chronicle_id><title>Is Stevia a Good Substitute for Sugar?</title><wbmd_c_art_thmbnl directive="imageurl" chronic_id="091e9c5e806f9723" path="/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/Features/magazine/2011/69x75_stevia.jpg" object_type="wbmd_cons_img"></wbmd_c_art_thmbnl></metadata_section><section_text><p>In every issue of WebMD the Magazine, we ask our experts to answer readers' questions about a wide range of topics. In our January-February 2011 issue, we asked WebMD's Diabetes Expert, Michael Dansinger, MD, whether stevia, a new natural sweetener, is a good sugar substitute for people with diabetes.   </p></section_text><link siteid="3" prefix="www" friendlyurl="/diabetes/features/stevia-good-substitute-sugar"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Diabetic Ketoacidosis (DKA) - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What is diabetic ketoacidosis (DKA)?</h3>
+      <p>Diabetic ketoacidosis (DKA) is a life-threatening condition that develops when cells in the body are unable to get the sugar (glucose) they need for energy, such as when you have <a href="http://www.webmd.com/hw-popup/diabetes" onclick="return sl(this,'hw','embd-lnk');">diabetes</a> and do not get enough <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-5233-Insulin+Regular+Human+Inj.aspx?drugid=5233&amp;drugname=Insulin+Regular+Human+Inj">insulin</a>. Without insulin, the body cannot use sugar for energy. When the cells do not receive sugar, the body begins to break down fat and muscle for energy. When this happens, <a href="http://www.webmd.com/hw-popup/ketones" onclick="return sl(this,'hw','embd-lnk');">ketones</a>, or fatty acids, are produced and enter the bloodstream, causing the chemical imbalance (metabolic acidosis) called diabetic ketoacidosis. </p>
+      <h3>What causes DKA?</h3>
+      <p>Ketoacidosis can be caused by not getting enough insulin, having a severe infection or other illness, becoming severely <a href="http://www.webmd.com/hw-popup/dehydration" onclick="return sl(this,'hw','embd-lnk');">dehydrated</a>, or some combination of these things. It can occur in people who have little or no <a href="http://www.webmd.com/hw-popup/insulin" onclick="return sl(this,'hw','embd-lnk');">insulin</a> in their bodies (mostly people with <a href="http://www.webmd.com/hw-popup/type-1-diabetes" onclick="return sl(this,'hw','embd-lnk');">type 1 diabetes</a> but it can happen with <a href="http://www.webmd.com/hw-popup/type-2-diabetes" onclick="return sl(this,'hw','embd-lnk');">type 2 diabetes</a>) when their <a href="http://www.webmd.com/diabetes/blood-glucose" onclick="return sl(this,'','embd-lnk');">blood sugar levels</a> are high. </p>
+      <h3>What are the symptoms?</h3>
+      <p>Your blood sugar may be quite high before you notice symptoms, which include:</p>
+      <ul>
+       <li>Flushed, hot, <a href="http://www.webmd.com/skin-problems-and-treatments/default.htm" onclick="return sl(this,'','embd-lnk');">dry skin</a>.</li>
+       <li>Blurred <a href="http://www.webmd.com/eye-health/default.htm" onclick="return sl(this,'','embd-lnk');">vision</a>.</li>
+       <li>Feeling thirsty.</li>
+       <li>Drowsiness or difficulty waking up. Young children may lack interest in their normal activities.</li>
+       <li>Rapid, deep breathing.</li>
+       <li>A strong, fruity breath odor. </li>
+       <li>Loss of appetite, belly pain, and <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting" onclick="return sl(this,'','embd-lnk');">vomiting</a>.</li>
+       <li>Confusion.</li>
+      </ul>
+      <p>When diabetic ketoacidosis is severe, you may have a hard time breathing, your <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a> may swell (cerebral <a href="http://www.webmd.com/heart-disease/heart-failure/edema-overview" onclick="return sl(this,'','embd-lnk');">edema</a>), and there is a risk of <a href="http://www.webmd.com/brain/coma-types-causes-treatments-prognosis" onclick="return sl(this,'','embd-lnk');">coma</a> and even death. </p>
+      <h3>How is DKA diagnosed?</h3>
+      <p>Laboratory tests, including blood and urine tests, are used to confirm a diagnosis of diabetic ketoacidosis. Urine dipstick tests for ketones are available for home use. Keep some nearby in case your blood sugar level becomes high.</p>
+      <h3>How is it treated?</h3>
+      <p>When ketoacidosis is severe, it must be treated in the hospital, often in an intensive care unit. Treatment involves giving insulin and fluids through a vein and closely watching certain chemicals in the blood (<a href="http://www.webmd.com/hw-popup/electrolytes-and-electrolyte-imbalances" onclick="return sl(this,'hw','embd-lnk');">electrolytes</a>). It can take several days for your blood sugar level to return to a target range. </p>
+      <h3>Who is at risk for DKA?</h3>
+      <p>If you have type 1 diabetes, you are at risk for DKA if you do not get enough insulin, have a severe infection or other illness, or become severely dehydrated. In some cases DKA can be the first sign of diabetes. </p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: May 21, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-topic-overview">Topic Overview</option><option value="http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-related-information">Related Information</option><option value="http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-references">References</option><option value="http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Diabetic Ketoacidosis (DKA) Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-other-places-to-get-help" onclick="return sl(this,'','topicNav_2');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-related-information" onclick="return sl(this,'','topicNav_3');" title="Related Information">Related Information</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-references" onclick="return sl(this,'','topicNav_4');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/diabetes/tc/diabetic-ketoacidosis-dka-credits" onclick="return sl(this,'','topicNav_5');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1037"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','rltd-p-1037_1');">Diabetes? Get Tips to Avoid Health Problems</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1037_2');">Images of Diabetic Retinopathy and Other Vision Problems</a> </li> 
+     <li id="x64"> <a href="http://diabetes.webmd.com/diabetes-health-check/default.htm" onclick="return sl(this,'','rltd-p-1037_3');">Is Your Type 2 Diabetes Under Control?</a> </li> 
+     <li id="x65"> <a href="http://diabetes.webmd.com/diabetes-your-menu-6/alcohol" onclick="return sl(this,'','rltd-p-1037_4');">Dos and Don'ts: Diabetes and Alcohol Consumption</a> </li> 
+     <li id="x66"> <a href="http://diabetes.webmd.com/treating-diabetes-11/insulin-questions" onclick="return sl(this,'','rltd-p-1037_5');">Your Insulin Management Questions Answered</a> </li> 
+     <li id="x67" class="last"> <a href="http://arthritis.webmd.com/living-with-chronic-gout-11/gout-and-diabetes" onclick="return sl(this,'','rltd-p-1037_6');">Diabetes and Gout: Know the Risk Factors</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1037_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=260153057&amp;tile=1851747382&amp;tug=&amp;pug=_2148_&amp;site=2&amp;affiliate=20&amp;hcent=1037&amp;scent=&amp;pos=5000&amp;xpg=3629&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fdiabetes%2ftc%2fdiabetic-ketoacidosis-dka-topic-overview&amp;artid=091e9c5e8001d412&amp;inst=0&amp;leaf=1125&amp;cc=16&amp;tmg=1&amp;bc=_e10_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=260153057&amp;amp;tile=1851747382&amp;amp;tug=&amp;amp;pug=_2148_&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1037&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=3629&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fdiabetes%2ftc%2fdiabetic-ketoacidosis-dka-topic-overview&amp;amp;artid=091e9c5e8001d412&amp;amp;inst=0&amp;amp;leaf=1125&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_e10_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3629";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=260153057&amp;tile=1851747382&amp;tug=&amp;pug=_2148_&amp;site=2&amp;affiliate=20&amp;hcent=1037&amp;scent=&amp;pos=5001&amp;xpg=3629&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fdiabetes%2ftc%2fdiabetic-ketoacidosis-dka-topic-overview&amp;artid=091e9c5e8001d412&amp;inst=0&amp;leaf=1125&amp;cc=16&amp;tmg=1&amp;bc=_e10_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=260153057&amp;amp;tile=1851747382&amp;amp;tug=&amp;amp;pug=_2148_&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1037&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=3629&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fdiabetes%2ftc%2fdiabetic-ketoacidosis-dka-topic-overview&amp;amp;artid=091e9c5e8001d412&amp;amp;inst=0&amp;amp;leaf=1125&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_e10_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3629";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,656 @@
+<title>Preventing Falls in Older Adults: Safety Tips</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/health-insurance/al/alabama-health-insurance-marketplace" onclick="return sl(this,'','tools-res_1');">Ala. Health Insurance Marketplace</a></li>
+      <li id="x57"><a href="http://www.webmd.com/healthy-aging/video/healthy-nutrition-as-we-age" class="type_vid" onclick="return sl(this,'','tools-res_2');">Healthy Nutrition as We Age<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/healthy-aging/ss/slideshow-avoid-caregiver-burnout" class="type_ss" onclick="return sl(this,'','tools-res_3');">Coping Tips for Caregivers<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/arthritis/ss/slideshow-keep-joints-healthy" class="type_ss" onclick="return sl(this,'','tools-res_4');">Tips for Healthy Joints<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/vitamins-and-supplements/answers-nutrients/answers-vitamin-d" onclick="return sl(this,'','tools-res_5');">Why Is Vitamin D So Critical?</a></li>
+      <li id="x61"><a href="http://www.webmd.com/urinary-incontinence-oab/coping-12/slideshow-incontinence-embarrassment" class="type_ss" onclick="return sl(this,'','tools-res_6');">Incontinence: Tips for Coping<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e9ff76"><metadata_section><i_chronicle_id>091e9c5e8001d285</i_chronicle_id><r_object_id>091e9c5e80e9ff76</r_object_id><title>Topic Overview</title><object_name>preventing_falls_in_older_adults-topic_overview_special_tp21184.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e9ff76</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_tp21184</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Preventing Falls in Older Adults: Safety Tips</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Injuries from falls may be more likely among older adults and in people who have had a stroke or have multiple sclerosis or osteoporosis. The following tips can help you avoid falls.Take care of yourselfIf you are very weak or dizzy, have someone help you get out of bed, walk, and bathe.Exercise regularly to improve your strength, muscle tone, and sense of balance.Call your health professional ...</wbmd_desc_meta><wbmd_orig_pub_dt>08/26/2011 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Injuries from falls may be more likely among older adults and in people who have had a stroke or have multiple sclerosis or osteoporosis. The following tips can help you avoid falls.Take care of yourselfIf you are very weak or dizzy, have someone help you get out of bed, walk, and bathe.Exercise regularly to improve your strength, muscle tone, and sense of balance.Call your health professional ...</wbmd_desc_user><wbmd_lk_ttl>Preventing Falls in Older Adults-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>accident prevention, disease and injury prevention, dizziness, dizzy, falls, hypnotics, injury prevention, preventing accidents, preventing injuries, prevention, safety, sleeping pills, weakness, whirling feeling</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.23</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e9ff76</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1738" wbmd_disp_nm="Healthy Seniors"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="1" wbmd_disp_nm="Prevention"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1053" wbmd_disp_nm="Healthy Seniors"></wbmd_c_channel_id><wbmd_c_frnd_nm>Preventing-Falls-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>SpecialSection</section_type><section_text><p> Every year, thousands of older adults fall and hurt themselves. Falls are one of the main causes of injury and loss of independence in people ages 65 and older.</p><p>There are many reasons older people fall. They may lose their footing when stepping off a street curb. Or they may fall after getting dizzy from taking medicines. Some falls may be related to the effects of aging, such as muscle weakness or delayed reflexes. Or falls may be related to the results of a <a chronic_id="091e9c5e8001b089" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/stroke_definition_sts15140.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stroke_definition_sts15140.xml">stroke</a>.</p><p>Experts agree that some falls in older adults can be prevented. But since each person's risks are a bit different, talk to your doctor about which of the tips below might help you.</p></section_text></section_group><section_group><section_header>Take care of yourself</section_header><section_type>SpecialSection</section_type><section_text><ul><li>Keep your bones strong. Talk to your doctor to be sure you are getting enough <a chronic_id="091e9c5e8001b4d6" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/vitamin_d_definition_stv5436.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/vitamin_d_definition_stv5436.xml">vitamin D</a> and <a chronic_id="091e9c5e8001b197" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/calcium_definition_stc123615.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/calcium_definition_stc123615.xml">calcium</a>.</li><li>Have your <a chronic_id="091e9c5e800302ce" crossLinkId="166" directive="friendlyurl" externalId="091e9c5e800302ce" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml" keywordId="35136" keywordSetId="1184" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml">vision</a>
+				and hearing checked each year or anytime you notice a
+				change. If you have trouble seeing and hearing, you might
+				not be able to avoid objects that make you lose your balance.</li><li> Call your
+				doctor if you have <a chronic_id="091e9c5e80008ebe" crossLinkId="1560132" directive="friendlyurl" externalId="091e9c5e80008ebe" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/miscellaneous/understanding_corns_calluses_basics.xml" keywordId="72589" keywordSetId="32735" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/miscellaneous/understanding_corns_calluses_basics.xml">calluses</a> or corns on your <a chronic_id="091e9c5e80586577" crossLinkId="1507667" directive="friendlyurl" externalId="091e9c5e80586577" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml" keywordId="62993" keywordSetId="28548" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml">feet</a> that
+				need to be removed or if you have sores that are not healing. If you wear loose-fitting shoes because of foot problems, you can lose your balance and fall.</li><li>If you tend to feel lightheaded when you stand up quickly, take the time to get up slowly from your bed or chair. When you wake up, it may help to sit up first and count slowly to 10 before you try to stand up. And after you stand up, stay still for a few seconds before you move.</li><li>If you are very weak or dizzy, don't try to walk around. Instead, see your doctor as soon as possible.</li><li>Call your
+				doctor if you are dizzy and lose your balance. You may
+				have a health problem that needs treatment, such as a <a chronic_id="091e9c5e8001b1bf" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/blood_pressure_definition_stb117053.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/blood_pressure_definition_stb117053.xml">blood pressure</a> or inner ear problem. Or you may be having a side effect from a medicine that you take.</li><li> Be sure you are <a chronic_id="091e9c5e807f12c2" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/drinking_enough_water-topic_overview_special_abk5467.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/drinking_enough_water-topic_overview_special_abk5467.xml">drinking enough water</a>, especially if the weather is hot.</li></ul></section_text></section_group><section_group><section_header>Take extra care if you live alone</section_header><section_type>SpecialSection</section_type><section_text><ul><li>If you live alone, think about
+				wearing an alarm device that will bring help in case you fall and can't get up.
+				Or carry a cordless or cell phone with you from room to room. Then you can
+				quickly call for help if you need it.</li><li>Set up a plan to make contact once a day with a family member or friend. Have one person who knows where you are.</li><li>Learn <a chronic_id="091e9c5e80a75f52" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/how_to_get_up_safely_after_a_fall-topic_overview_special_abl3082.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/how_to_get_up_safely_after_a_fall-topic_overview_special_abl3082.xml">how to get up from a fall</a>. Try this when you have someone with you. If you can get up alone, practice this often enough to feel comfortable. If you can't get up by yourself, see a <a chronic_id="091e9c5e8001b2ff" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/physical_therapist_pt_definition_tv7085.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/physical_therapist_pt_definition_tv7085.xml">physical therapist</a> for help.</li></ul></section_text></section_group></page><page><section_group><section_header>Learn ways to keep your balance</section_header><section_type>SpecialSection</section_type><section_text><ul><li>Learn to do <a chronic_id="091e9c5e805213ad" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_exercises_for_strength_and_balance-get_started_special_av2501.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_exercises_for_strength_and_balance-get_started_special_av2501.xml">a few exercises</a> for strength and balance. Practicing these each day can help you stay active and independent.</li><li>Wear
+				low-heeled shoes that fit well and give your feet good support. Use footwear
+				with nonskid soles. Repair or replace worn heels and soles.</li><li>If you use a walker or cane, make sure it is fitted to you. Put rubber tips on it.</li><li>If you have pets, keep them in one place
+				at night. Train your pets not to jump or get underfoot.
+				Think about buying a collar with a bell for your pet so you will know
+				when your pet is nearby.</li></ul></section_text></section_group><section_group><section_header>Learn about your medicines</section_header><section_type>SpecialSection</section_type><section_text><ul><li>Know the side
+				effects of the medicines that you take. Ask your
+				doctor if the medicines you take can
+				affect your balance. For instance, sleeping pills
+				and some medicines for <a chronic_id="091e9c5e8003c115" crossLinkId="452" directive="friendlyurl" externalId="091e9c5e8003c115" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.xml" keywordId="31072" keywordSetId="8074" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.xml">anxiety</a> can affect your
+				balance.</li><li>If you take two or more medicines, talk to your doctor
+				about how they work together. Sometimes combinations of medicines can
+				cause dizziness or sleepiness. Either of these can lead to
+				a fall.</li></ul></section_text></section_group><section_group><section_header>Make your home safer</section_header><section_type>SpecialSection</section_type><section_text><ul><li>Remove or fix things you could trip
+				over, such as raised doorway thresholds, throw rugs, or loose carpet.
+				</li><li>Keep paths clear of electrical cords and
+				clutter. </li><li>Use nonskid floor wax, and wipe up
+				spills right away.</li><li>Keep your house well
+				lit. Use night-lights (or keep the overhead light on at
+				night) in hallways and
+				bathrooms.</li><li>Put sturdy handrails on stairways.
+				Make sure you have a light at the top and bottom of the
+				stairs. </li><li>Store things on
+				lower shelves so you don't have to climb or reach high.</li><li>Keep a phone and a flashlight by your bed.
+				Check the flashlight batteries often to make sure they still
+				work.</li></ul><p>For a complete list of hazards to look for
+		 and fix at home, see this
+		 <a chronic_id="091e9c5e80521301" directive="friendlyurl" href="/webmd/consumer_assets/site_images/media/pdf/hw/form_av2494.pdf" object_type="wbmd_cons_article" path="/webmd/consumer_assets/site_images/media/pdf/hw/form_av2494.pdf" type="eform">checklist for preventing falls</a><span class="NoWebPrint"><a chronic_id="091e9c5e80521301" directive="friendlyurl" href="/webmd/consumer_assets/site_images/media/pdf/hw/form_av2494.pdf" object_type="wbmd_cons_article" path="/webmd/consumer_assets/site_images/media/pdf/hw/form_av2494.pdf" type="eform"></a></span><span class="NoWebPrint"><span class="Size1">(What is a <a chronic_id="091e9c5e8001b058" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/pdf_document_definition_tx4405.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pdf_document_definition_tx4405.xml">PDF</a> document?)</span></span>.</p></section_text></section_group><section_group><section_header>Stay safe while bathing</section_header><section_type>SpecialSection</section_type><section_text><ul><li> Install grab handles and nonskid mats in
+				the tub and shower. </li><li>Use
+				a shower chair or bath bench. You can also try using a hand-held shower head.</li><li>Get into a tub or shower by putting the weaker leg in first.
+				Get out of a tub or shower with your strong side first. </li></ul></section_text></section_group><section_group><section_header>Prevent outdoor falls</section_header><section_type>SpecialSection</section_type><section_text><ul><li>When you go outdoors, keep your hands free by using a <a chronic_id="091e9c5e80583331" crossLinkId="1507498" directive="friendlyurl" externalId="091e9c5e80583331" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.xml" keywordId="62991" keywordSetId="28547" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.xml">shoulder</a> bag, a fanny pack, or a backpack.</li><li>If you wear bifocal or trifocal glasses, you may have problems as you step off curbs or climb stairs. See about getting glasses with a single prescription that you can wear when you walk.</li><li>Find out about 24-hour drugstores and grocery stores near you that can take orders over the telephone and make deliveries to your home. Use these services, especially when the weather is bad.</li><li>If you live in an area that gets snow and ice in the
+				winter, have a family member or friend sprinkle salt or sand on slippery steps and sidewalks.</li></ul></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/healthy-aging/tc/preventing-falls-topic-overview" owner="false"><breadcrumb><bread piece="50+: Live Better, Longer" prefix="www" friendlyurl="/healthy-aging/default.htm"></bread><bread piece="Healthy Aging Related Topics" prefix="www" friendlyurl="/healthy-aging/tc/default.htm"></bread></breadcrumb><centers><Topic id="1255" name="tmg" chronicid="091e9c5e8001d285" prefix="www" friendlyurl="/healthy-aging/tc/preventing-falls-topic-overview" type="Topic">Preventing Falls in Older Adults</Topic><Health id="1249" name="health center" chronicid="091e9c5e8002f283" prefix="www" friendlyurl="/healthy-aging/default.htm" type="">Healthy Seniors</Health></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/preventing-falls-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e8001d285" prefix="www" friendlyurl="/a-to-z-guides/tc/preventing-falls-topic-overview" type="Topic">Preventing Falls in Older Adults</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001b089" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stroke_definition_sts15140.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/stroke-7439"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/stroke-7439"></target></object><object chronic_id="091e9c5e8001b4d6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/vitamin_d_definition_stv5436.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/vitamin-d"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/vitamin-d"></target></object><object chronic_id="091e9c5e8001b197" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/calcium_definition_stc123615.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/calcium"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/calcium"></target></object><object chronic_id="091e9c5e800302ce" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target><target siteid="8" name="" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target></object><object chronic_id="091e9c5e80008ebe" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/miscellaneous/understanding_corns_calluses_basics.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/understanding-corns-calluses-basics"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/understanding-corns-calluses-basics"></target></object><object chronic_id="091e9c5e80586577" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target></object><object chronic_id="091e9c5e8001b1bf" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/blood_pressure_definition_stb117053.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/blood-pressure"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/blood-pressure"></target></object><object chronic_id="091e9c5e807f12c2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/drinking_enough_water-topic_overview_special_abk5467.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/drinking-enough-water-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/drinking-enough-water-topic-overview"></target></object><object chronic_id="091e9c5e80a75f52" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/how_to_get_up_safely_after_a_fall-topic_overview_special_abl3082.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/healthy-aging/tc/how-to-get-up-safely-after-a-fall-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/how-to-get-up-safely-after-a-fall-topic-overview"></target></object><object chronic_id="091e9c5e8001b2ff" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/physical_therapist_pt_definition_tv7085.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/physical-therapist-pt"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/physical-therapist-pt"></target></object><object chronic_id="091e9c5e805213ad" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_exercises_for_strength_and_balance-get_started_special_av2501.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/tc/quick-tips-improving-your-balance-get-started"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/fitness-exercise/tc/quick-tips-improving-your-balance-get-started"></target></object><object chronic_id="091e9c5e8003c115" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/anxiety-panic/default.htm"></target></object><object chronic_id="091e9c5e8001b058" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pdf_document_definition_tx4405.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/pdf-document"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/pdf-document"></target></object><object chronic_id="091e9c5e80583331" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/picture-of-the-shoulder"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-shoulder"></target></object><object chronic_id="091e9c5e8001d285" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_in_older_adults-topic_overview_special_tp21184.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/healthy-aging/tc/preventing-falls-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/preventing-falls-topic-overview"></target></object><object chronic_id="091e9c5e80a762ed" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_in_older_adults-other_places_to_get_help_special_ug2329spec-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/healthy-aging/tc/preventing-falls-in-older-adults-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/preventing-falls-in-older-adults-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001d088" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_in_older_adults-related_information_special_ug2329spec-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/healthy-aging/tc/preventing-falls-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/preventing-falls-related-information"></target></object><object chronic_id="091e9c5e80a762ee" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_in_older_adults-references_special_ug2329spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/healthy-aging/tc/preventing-falls-in-older-adults-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/preventing-falls-in-older-adults-references"></target></object><object chronic_id="091e9c5e8001d318" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_in_older_adults-credits_special_ug2329spec-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/healthy-aging/tc/preventing-falls-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/preventing-falls-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e800236cb" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/preventing_falls_in_older_adults_special_ug2329spec.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d285" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_in_older_adults-topic_overview_special_tp21184.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e80a762ed" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_in_older_adults-other_places_to_get_help_special_ug2329spec-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d088" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_in_older_adults-related_information_special_ug2329spec-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e80a762ee" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_in_older_adults-references_special_ug2329spec-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d318" path="/webmd/consumer_assets/controlled_content/healthwise/special/preventing_falls_in_older_adults-credits_special_ug2329spec-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Preventing Falls in Older Adults</title><dynamic_objects><callout_title>Recommended Related to Healthy Seniors</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e808e530f"><metadata_section><i_chronicle_id>091e9c5e803e36a5</i_chronicle_id><title>Over 40, Fit, and Ready to Bare Arms</title><wbmd_c_art_thmbnl directive="imageurl" chronic_id="091e9c5e803e3722" path="/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/September_2009/buff_arms_over_40_2.jpg" object_type="wbmd_cons_img"></wbmd_c_art_thmbnl></metadata_section><section_text><p>Madonna and Michelle Obama seem to have little in common. But together, they have awakened American women of a certain age to the allure of tight, toned arms. They've sent the message that those arms and toned, taut bodies may be within reach for other 40-somethings and older.
+That message has been helped along by a legion of other celebrities who have passed their 40th birthday, yet remain virtually flab-free. The list includes Sarah Jessica Parker, Ellen Barkin, and Mary Tyler Moore.
+But leading...</p></section_text><link siteid="3" prefix="www" friendlyurl="/healthy-aging/guide/over-40-fit-and-ready-to-bare-arms"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Preventing Falls in Older Adults - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>Learn ways to keep your balance</h3>
+      <ul>
+       <li>Learn to do <a href="http://www.webmd.com/fitness-exercise/tc/quick-tips-improving-your-balance-get-started" onclick="return sl(this,'','embd-lnk');">a few exercises</a> for strength and balance. Practicing these each day can help you stay active and independent.</li>
+       <li>Wear low-heeled shoes that fit well and give your feet good support. Use footwear with nonskid soles. Repair or replace worn heels and soles.</li>
+       <li>If you use a walker or cane, make sure it is fitted to you. Put rubber tips on it.</li>
+       <li>If you have pets, keep them in one place at night. Train your pets not to jump or get underfoot. Think about buying a collar with a bell for your pet so you will know when your pet is nearby.</li>
+      </ul>
+      <h3>Learn about your medicines</h3>
+      <ul>
+       <li>Know the side effects of the medicines that you take. Ask your doctor if the medicines you take can affect your balance. For instance, sleeping pills and some medicines for <a href="http://www.webmd.com/anxiety-panic/default.htm" onclick="return sl(this,'','embd-lnk');">anxiety</a> can affect your balance.</li>
+       <li>If you take two or more medicines, talk to your doctor about how they work together. Sometimes combinations of medicines can cause dizziness or sleepiness. Either of these can lead to a fall.</li>
+      </ul>
+      <h3>Make your home safer</h3>
+      <ul>
+       <li>Remove or fix things you could trip over, such as raised doorway thresholds, throw rugs, or loose carpet. </li>
+       <li>Keep paths clear of electrical cords and clutter. </li>
+       <li>Use nonskid floor wax, and wipe up spills right away.</li>
+       <li>Keep your house well lit. Use night-lights (or keep the overhead light on at night) in hallways and bathrooms.</li>
+       <li>Put sturdy handrails on stairways. Make sure you have a light at the top and bottom of the stairs. </li>
+       <li>Store things on lower shelves so you don't have to climb or reach high.</li>
+       <li>Keep a phone and a flashlight by your bed. Check the flashlight batteries often to make sure they still work.</li>
+      </ul>
+      <p>For a complete list of hazards to look for and fix at home, see this <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_av2494.pdf">checklist for preventing falls</a><span class="NoWebPrint"><a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_av2494.pdf"></a></span><span class="NoWebPrint"><span class="Size1">(What is a <a href="http://www.webmd.com/hw-popup/pdf-document" onclick="return sl(this,'hw','embd-lnk');">PDF</a> document?)</span></span>.</p>
+      <h3>Stay safe while bathing</h3>
+      <ul>
+       <li> Install grab handles and nonskid mats in the tub and shower. </li>
+       <li>Use a shower chair or bath bench. You can also try using a hand-held shower head.</li>
+       <li>Get into a tub or shower by putting the weaker leg in first. Get out of a tub or shower with your strong side first. </li>
+      </ul>
+      <h3>Prevent outdoor falls</h3>
+      <ul>
+       <li>When you go outdoors, keep your hands free by using a <a href="http://www.webmd.com/pain-management/picture-of-the-shoulder" onclick="return sl(this,'','embd-lnk');">shoulder</a> bag, a fanny pack, or a backpack.</li>
+       <li>If you wear bifocal or trifocal glasses, you may have problems as you step off curbs or climb stairs. See about getting glasses with a single prescription that you can wear when you walk.</li>
+       <li>Find out about 24-hour drugstores and grocery stores near you that can take orders over the telephone and make deliveries to your home. Use these services, especially when the weather is bad.</li>
+       <li>If you live in an area that gets snow and ice in the winter, have a family member or friend sprinkle salt or sand on slippery steps and sidewalks.</li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/healthy-aging/tc/preventing-falls-topic-overview">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/healthy-aging/tc/preventing-falls-topic-overview">1</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">2</span>
+      <style type="text/css">
+            .pagination_fmt .center_fmt { width: 375px !important;}
+            </style>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/healthy-aging/tc/preventing-falls-topic-overview">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/healthy-aging/tc/preventing-falls-topic-overview">1</a><span class="pipe_fmt">|</span><span class="current_fmt">2</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/healthy-aging/tc/preventing-falls-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/healthy-aging/tc/preventing-falls-in-older-adults-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/healthy-aging/tc/preventing-falls-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/healthy-aging/tc/preventing-falls-in-older-adults-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/healthy-aging/tc/preventing-falls-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: August 26, 2011
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/healthy-aging/tc/preventing-falls-topic-overview">Topic Overview</option><option value="http://www.webmd.com/healthy-aging/tc/preventing-falls-in-older-adults-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/healthy-aging/tc/preventing-falls-related-information">Related Information</option><option value="http://www.webmd.com/healthy-aging/tc/preventing-falls-in-older-adults-references">References</option><option value="http://www.webmd.com/healthy-aging/tc/preventing-falls-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Preventing Falls in Older Adults Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/healthy-aging/tc/preventing-falls-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/healthy-aging/tc/preventing-falls-in-older-adults-other-places-to-get-help" onclick="return sl(this,'','topicNav_2');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/healthy-aging/tc/preventing-falls-related-information" onclick="return sl(this,'','topicNav_3');" title="Related Information">Related Information</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/healthy-aging/tc/preventing-falls-in-older-adults-references" onclick="return sl(this,'','topicNav_4');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/healthy-aging/tc/preventing-falls-credits" onclick="return sl(this,'','topicNav_5');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1053"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/healthy-aging/severe-hearing-loss-10/cochlear-implants" onclick="return sl(this,'','rltd-p-1053_1');">Understanding Cochlear Implants</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/healthy-aging/medical-cost-disability-11/slideshow" onclick="return sl(this,'','rltd-p-1053_2');">11 Most Expensive Medical Conditions</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/healthy-aging/video/weight-lifting-seniors" onclick="return sl(this,'','rltd-p-1053_3');">Weight Lifting for Seniors</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/healthy-aging/video/secret-longevity" onclick="return sl(this,'','rltd-p-1053_4');">Longevity Clues in DNA</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/vaccines/what-you-should-know-11/shingles-chickenpox" onclick="return sl(this,'','rltd-p-1053_5');">Shingles and Chicken Pox: What's the Link?</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/vitamins-and-supplements/nutrition-vitamins-11/default.htm?vid=vd-1307-atsp-0001&amp;ch=12" onclick="return sl(this,'','rltd-p-1053_6');">What Foods Are Included on a 'Soft' Diet?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1053_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e8083f0d7" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069a348</chronic_id><r_object_id>091e9c5e8083f0d7</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8069a348.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>06/21/2011 11:30:12</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Aging Health Center/template_Aging Health Center_091e9c5e8002c937.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002c937"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Preventing Falls</name><link_title>Preventing Falls</link_title><description>Falls can cause injury in people of any age &#45;&#45; baby to senior. Many falls occur because of dizziness or inability to find your balance. Vertigo, blood sugar levels, and inner ear problems can play a role. To prevent falls, safety is key. Modify your home as needed to help prevent falls. For babies, always be sure that baby's room is safe and all furniture is appropriate for baby's size. Always see your doctor about ongoing dizziness issues. Follow the links below to find WebMD's comprehensive coverage about how to prevent falls, why people fall, treatments for injuries due to a fall, and much more.</description><friendly_url>http://www.webmd.com/brain/preventing-falls-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8019df65"><link_title>Escalators Shaky Ground for Some Elders</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20080314/escalators-shaky-ground-for-some-seniors</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/March08/elderly_more_escalator_injuries.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800077df"><link_title>Seniors' Falling Injuries Are Preventable</link_title><friendly_url>http://www.webmd.com/healthy-aging/features/falling-injuries-preventable</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000a32f"><link_title>Caution: Slippery Falls Ahead</link_title><friendly_url>http://www.webmd.com/healthy-aging/features/caution-slippery-falls-ahead</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80417aaf"><link_title>Vitamin D May Help Prevent Falls</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20091002/vitamin-d-may-help-prevent-falls</friendly_url><thumbnail height="" width="" alt="vitamin_d_prevents_falls_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/october_2009/vitamin_d_prevents_falls_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8019715f"><link_title>Falls Common After Age 65</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20080306/falls-common-after-age-65</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/March08/self_reported_falls.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8038fc6e"><link_title>Safer Tubs Needed for Fewer Bath Injuries</link_title><friendly_url>http://www.webmd.com/children/news/20090714/safer-tubs-for-fewer-bath-time-injuries</friendly_url><thumbnail height="75" width="69" alt="kids_bath_injuries_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/july_2009/kids_bath_injuries_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b811"><link_title>High Chair Falls Injure Thousands of Kids Each Year</link_title><friendly_url>http://www.webmd.com/parenting/news/20010501/high-chair-falls-injure-thousands-of-kids-each-year</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802ffc65"><link_title>Fisher-Price High Chairs Recalled on Fall Hazard</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20090325/fall-risk-spurs-high-chair-recall</friendly_url><thumbnail height="75" width="69" alt="high_chair_recall.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/March_2009/high_chair_recall.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805cf8a6"><link_title>Tests Predict Falls in Parkinson's Patients</link_title><friendly_url>http://www.webmd.com/parkinsons-disease/news/20100623/tests-predict-falls-in-parkinsons-patients</friendly_url><thumbnail height="" width="" alt="tests_predict_falls_from_parkinsons_disease.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/06_2010/tests_predict_falls_from_parkinsons_disease.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800079fa"><link_title>Prevent Falls And Maintain Balance With Parkinson's Disease</link_title><friendly_url>http://www.webmd.com/parkinsons-disease/guide/preventing-falls</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8034c486"><link_title>Ears to Blame for Falls?</link_title><friendly_url>http://www.webmd.com/brain/news/20090522/ears-to-blame-for-falls</friendly_url><thumbnail height="75" width="69" alt="balance_problems_cause_falls.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/May_2009/balance_problems_cause_falls.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011391"><link_title>Conquering Fear of Falling</link_title><friendly_url>http://www.webmd.com/healthy-aging/features/conquering-fear-of-falling</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8058379f"><link_title>People With Fibromyalgia Prone to Falls</link_title><friendly_url>http://www.webmd.com/fibromyalgia/news/20100507/people-with-fibromyalgia-prone-falls</friendly_url><thumbnail height="" width="" alt="fibromyalgia_balance.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/05_2010/fibromyalgia_balance.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806628c6"><link_title>Multitasking Adds to Parkinson’s Fall Risk</link_title><friendly_url>http://www.webmd.com/parkinsons-disease/news/20100930/multitasking-adds-to-parkinsons-fall-risk</friendly_url><thumbnail height="" width="" alt="senior man walking with nurse aid">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/09_2010/69x75_parkinsons_falls_talking_walking_03.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806be3cf"><link_title>Musical Exercise Program Cuts Falls in Elderly</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20101122/musical-exercise-program-cuts-falls-in-elderly</friendly_url><thumbnail height="" width="" alt="senior man playing the piano">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_exercise_piano_music_falls_v01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806f2c43"><link_title>Exercise, Vitamin D Reduce Risk of Falls in Elderly</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20101220/exercise-vitamin-d-reduce-risk-falls-elderly</friendly_url><thumbnail height="" width="" alt="elderly woman">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/12_2010/69x75_falls_elderly_exercise_vitamin_d_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806449c3"><link_title>Helping the Elderly Avoid Falls</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20100908/helping-the-elderly-avoid-falls</friendly_url><thumbnail height="" width="" alt="fallen woman">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/09_2010/69x75_indoor_outdoor_fall_risk_05.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8010c6a5"><link_title>Osteoporosis Myth: The Truth About Broken Bones</link_title><friendly_url>http://www.webmd.com/osteoporosis/osteoporosis-myth-broken-bones-from-falls-are-not-related-to-osteoporosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801e85d0"><link_title>Fall From Bunk Bed Can Land Kid in ER</link_title><friendly_url>http://www.webmd.com/children/news/20080602/fall-from-bunk-bed-can-land-kid-in-er</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800065f8"><link_title>Few Get Osteoporosis Drugs Falls</link_title><friendly_url>http://www.webmd.com/osteoporosis/news/20031002/few-osteoporosis-drugs</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800110fc"><link_title>Fall Prevention Strategies</link_title><friendly_url>http://www.webmd.com/osteoporosis/guide/fall-prevention-strategies</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8053a8bd"><link_title>Osteopenia and Osteoporosis: Preventing Falls at Home</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/wound-care-10/avoiding-falls</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8022234c"><link_title>How to Prevent Falls</link_title><friendly_url>http://www.webmd.com/healthy-aging/healthtool-prevent-falls</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1004</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8054386a"><link_title>Home Safety Tips for People With Limited Mobility</link_title><friendly_url>http://www.webmd.com/women/home-health-and-safety-9/avoid-falls</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80008d02"><link_title>Preventing Slips and Falls in the Elderly</link_title><friendly_url>http://www.webmd.com/healthy-aging/guide/prevent-slips-falls</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800e018b"><link_title>Aging Well: Making Your Home Fall-Proof</link_title><friendly_url>http://www.webmd.com/healthy-aging/making-your-home-fall-proof</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d088"><link_title>Preventing Falls in Older Adults-Related Information</link_title><friendly_url>http://www.webmd.com/healthy-aging/tc/preventing-falls-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801ef818"><link_title>Osteoporosis: Fracture Prevention: 6 Tips to Fight Fractures, Slips, and Falls</link_title><friendly_url>http://www.webmd.com/osteoporosis/features/fractures</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80085bb7"><link_title>New Clues to Chronic Dizziness</link_title><friendly_url>http://www.webmd.com/brain/news/20070220/new-clues-chronic-dizziness</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/February07/chronic_dizziness_causes.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8027b0e3"><link_title>Janet Jackson's Vestibular Migraines: FAQ</link_title><friendly_url>http://www.webmd.com/migraines-headaches/news/20081015/janet-jacksons-vestibular-migraines-faq</friendly_url><thumbnail height="" width="" alt="janet_jacksons_migraines.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/October08/janet_jacksons_migraines.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/healthy-aging/healthtool-prevent-falls" onclick="return sl(this,'','td-rltd-art_1');">How to Prevent Falls</a></li>
+      <li><a href="http://www.webmd.com/healthy-aging/features/falling-injuries-preventable" onclick="return sl(this,'','td-rltd-art_2');">Seniors' Falling Injuries Are Preventable</a></li>
+      <li><a href="http://www.webmd.com/healthy-aging/features/caution-slippery-falls-ahead" onclick="return sl(this,'','td-rltd-art_3');">Caution: Slippery Falls Ahead</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/guide/preventing-falls" onclick="return sl(this,'','td-rltd-art_4');">Prevent Falls And Maintain Balance With Parkinson's Disease</a></li>
+      <li><a href="http://www.webmd.com/healthy-aging/features/conquering-fear-of-falling" onclick="return sl(this,'','td-rltd-art_5');">Conquering Fear of Falling</a></li>
+      <li><a href="http://www.webmd.com/osteoporosis/osteoporosis-myth-broken-bones-from-falls-are-not-related-to-osteoporosis" onclick="return sl(this,'','td-rltd-art_6');">Osteoporosis Myth: The Truth About Broken Bones</a></li>
+      <li><a href="http://www.webmd.com/osteoporosis/guide/fall-prevention-strategies" onclick="return sl(this,'','td-rltd-art_7');">Fall Prevention Strategies</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/brain/preventing-falls-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Preventing Falls Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1432895665&amp;tile=449919167&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1249&amp;scent=&amp;pos=5000&amp;xpg=1738&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fhealthy-aging%2ftc%2fpreventing-falls-topic-overview&amp;artid=091e9c5e8001d285&amp;inst=0&amp;leaf=1255&amp;cc=16&amp;tmg=1&amp;bc=_age23_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1432895665&amp;amp;tile=449919167&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1249&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=1738&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fhealthy-aging%2ftc%2fpreventing-falls-topic-overview&amp;amp;artid=091e9c5e8001d285&amp;amp;inst=0&amp;amp;leaf=1255&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age23_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1738";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1432895665&amp;tile=449919167&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1249&amp;scent=&amp;pos=5001&amp;xpg=1738&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fhealthy-aging%2ftc%2fpreventing-falls-topic-overview&amp;artid=091e9c5e8001d285&amp;inst=0&amp;leaf=1255&amp;cc=16&amp;tmg=1&amp;bc=_age23_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1432895665&amp;amp;tile=449919167&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1249&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1738&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fhealthy-aging%2ftc%2fpreventing-falls-topic-overview&amp;amp;artid=091e9c5e8001d285&amp;amp;inst=0&amp;amp;leaf=1255&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age23_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1738";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

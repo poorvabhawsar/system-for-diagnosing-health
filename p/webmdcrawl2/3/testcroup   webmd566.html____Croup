@@ -1,0 +1,668 @@
+<title>Croup | WebMD</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/parenting/features/inside-look-at-the-teen-brain" onclick="return sl(this,'','tools-res_1');">What Makes Your Teen Tick?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/bedwetting-solutions-12/default.htm" onclick="return sl(this,'','tools-res_2');">How to Stop Bedwetting</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" class="type_ss" onclick="return sl(this,'','tools-res_3');">Allergy Relief: What You Need<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/children/digestion-in-children-11/constipation-treatment" onclick="return sl(this,'','tools-res_4');">Treating Constipation in Kids</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/preventative-health-vaccines" onclick="return sl(this,'','tools-res_5');">Protect Your Kids: Get Your Shots</a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-strep-symptoms" onclick="return sl(this,'','tools-res_6');">Strep Throat Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e8081b390"><metadata_section><i_chronicle_id>091e9c5e8001ae94</i_chronicle_id><r_object_id>091e9c5e8081b390</r_object_id><title>Topic Overview</title><object_name>Croup-Topic_Overview.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e8081b390</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>mini_hw31908</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Croup | WebMD</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378505</r_object_id><publ_i_chronicle_id>091e9c5e80019163</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Mini</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Croup is a common respiratory problem characterized by a harsh, barking cough. Learn the symptoms and treatments of croup in children.</wbmd_desc_meta><wbmd_orig_pub_dt>08/04/2010 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Croup is a common respiratory problem characterized by a harsh, barking cough. Learn the symptoms and treatments of croup in children.</wbmd_desc_user><wbmd_lk_ttl>Croup-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>croup symptoms, breathing difficulty, breathing disorders, breathing problems, Cough, Coughing, Coughs, difficulty breathing, lung diseases, lung problems, pulmonary disorder, pulmonary problems, respiratory disorder, croup, child, children, kid, kids,respiratory, respriation, breathing, problems, trouble </wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>A08.0</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>R05</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>Age.1</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e8081b390</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3609" wbmd_disp_nm="Parenting"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1025" wbmd_disp_nm="Children"></wbmd_c_channel_id><wbmd_c_frnd_nm>Croup-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>Overview</section_type><section_text><a name="hw31908"></a><h4>What is croup?</h4><p>Croup is a common
+			 <a bookmark="tp12432-sec" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/Respiratory_system_in_a_child__tp12432.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/Respiratory_system_in_a_child__tp12432.xml">respiratory</a><a bookmark="tp12432-sec" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/Respiratory_system_in_a_child__tp12432.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/Respiratory_system_in_a_child__tp12432.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a> problem in young children. It tends to
+			 occur in the fall and winter. Its main symptom is a harsh, barking cough. <a chronic_id="091e9c5e8001ae94" crossLinkId="48872" directive="friendlyurl" externalId="091e9c5e8001ae94" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Topic_Overview.xml" keywordId="7203" keywordSetId="1054" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Topic_Overview.xml">Croup</a>
+			 causes swelling and narrowing in the voice box, windpipe, and breathing tubes
+			 that lead to the <a chronic_id="091e9c5e803c50fe" crossLinkId="72327" directive="friendlyurl" externalId="091e9c5e803c50fe" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml" keywordId="60505" keywordSetId="26698" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml">lungs</a>. This can make it hard for your child to breathe.</p><p>An attack of croup can be scary, but it is rarely serious. Children
+			 usually get better in several days with rest and care at home. </p><h4>What causes croup?</h4><p>Croup usually occurs a few days
+			 after the start of a cold and is usually caused by the same viruses that cause
+			 the <a chronic_id="091e9c5e80022f49" crossLinkId="521" directive="friendlyurl" externalId="091e9c5e80022f49" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cold and Flu/page_Cold and Flu Health Center_091e9c5e80022f49.xml" keywordId="33353" keywordSetId="1010" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cold and Flu/page_Cold and Flu Health Center_091e9c5e80022f49.xml">common cold</a>. Croup is contagious. The germs that cause it can be passed
+			 from one person to another through coughing and sneezing and through close
+			 contact. Regular hand-washing and limiting contact with others can help prevent
+			 spreading croup to others.</p><p>As children grow older and their lungs
+			 and windpipes mature, they are less likely to get croup. Getting a <a chronic_id="091e9c5e800074f2" crossLinkId="1508168" directive="friendlyurl" externalId="091e9c5e800074f2" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/cold_and_flu/overview_types_of/fact_sheet_flu_vaccines.xml" keywordId="35420" keywordSetId="8813" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/cold_and_flu/overview_types_of/fact_sheet_flu_vaccines.xml">flu shot</a>
+			 each year may help your child fight off some of the viruses that can lead to
+			 croup.</p><h4>What are the symptoms?</h4><p>Symptoms of croup are
+			 caused by narrowed airways. They include a barking cough; a raspy, hoarse
+			 voice; and a harsh, crowing noise when breathing in. The cough is very
+			 distinctive, so you'll know it when you hear it. It is often compared to the
+			 sound of a barking seal. Sometimes children breathe fast and need to sit up to
+			 breathe better. </p><p>Symptoms of croup often improve during the day
+			 and get worse at night. Sometimes children have croup attacks that wake them up
+			 in the middle of the night for a couple of nights in a row, but the illness
+			 usually improves gradually in 2 to 5 days. </p><h4>How is croup diagnosed?</h4><p>Your doctor will probably
+			 be able to tell whether your child has croup by examining him or her and asking
+			 about symptoms. Sometimes doctors can identify the distinctive barking cough of
+			 croup over the phone. </p><p>Because croup can make breathing harder,
+			 your doctor may place a small clip called a
+			 <a bookmark="tn6482-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Pulse_oximeter.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Pulse_oximeter.xml">pulse oximeter</a> on your child's finger, toe, or earlobe
+			 to check if enough oxygen is reaching the <a chronic_id="091e9c5e8056ea80" crossLinkId="1506783" directive="friendlyurl" externalId="091e9c5e8056ea80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml" keywordId="62987" keywordSetId="28544" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml">blood</a>.</p><h4>How is it treated?</h4><p>Even though your child's
+			 coughing and troubled breathing can be frightening, home treatment usually
+			 eases the symptoms.</p><ul><li>Try to stay calm during an attack, and soothe your child.
+				Crying can make the swelling in the windpipe worse and make it even harder to
+				breathe.</li><li>Breathing in moist air seems to help during a croup attack.
+				Fill your bathroom with steam from the hot water faucets, and sit in the room
+				with your child for 10 minutes. Or hold your child directly over a
+				<a bookmark="zj1490-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Humidifiers_and_vaporizers__zj1490.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Humidifiers_and_vaporizers__zj1490.xml">humidifier</a>, and let the vapor blow directly in his or
+				her face. </li><li>Breathing cool night air also seems to help sometimes. Dress
+				your child in warm clothes, and go outside for 10 minutes. </li><li>If symptoms improve with these methods, put your child back in
+				bed with the humidifier blowing nearby. Do not smoke, especially in the house.
+				If the symptoms happen during the middle of the night, it is a good idea to
+				<a chronic_id="091e9c5e800251e7" crossLinkId="491" directive="friendlyurl" externalId="091e9c5e800251e7" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml" keywordId="40012" keywordSetId="1872" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml">sleep</a> in or near your child's room until morning. </li><li>Be sure to keep your child well hydrated. Offer water,
+				flavored ice treats (such as Popsicles), or crushed ice drinks several times
+				each hour.</li></ul></section_text></section_group></page><page><section_group><section_header is_continued="true"> continued...</section_header><section_type>Overview</section_type><section_text><p>If your child’s symptoms don't get better after 30
+			 minutes, call or see your doctor. If the attack is in the middle of the night
+			 and you are very worried, consider taking your child to the emergency
+			 room.</p><p>If your child has
+			 <a bookmark="sts14662-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Severe_difficulty_breathing_in_children.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Severe_difficulty_breathing_in_children.xml">severe difficulty breathing</a>, <b>call</b><inline.emer-num></inline.emer-num><b>or other emergency services immediately</b>. </p><p>If your child has severe
+			 croup or has not responded to home treatment, medicines may be used to decrease
+			 airway swelling. These are usually given in a doctor's office or an emergency
+			 room. In rare cases, a child needs to stay in the hospital for
+			 treatment.</p><p><b>Frequently Asked Questions</b></p><table cellpadding="0" cellspacing="0"><col><tr><td valign="top"><p><b>Learning about croup:</b></p></td><td valign="top"><ul><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Topic_Overview.xml" directive="friendlyurl" chronic_id="091e9c5e8001ae94" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Topic_Overview.xml">What is croup?</a></li><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Symptoms.xml" directive="friendlyurl" chronic_id="091e9c5e8001ac69" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Symptoms.xml">What are the symptoms?</a></li><li><a bookmark="ue5428-sec" document-type="Frame" href="/webmd/consumer_assets/controlled_content/healthwise/frame/Other_conditions_with_symptoms_similar_to_croup.xml" directive="friendlyurl" chronic_id="091e9c5e8001bd00" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Other_conditions_with_symptoms_similar_to_croup.xml">What can cause similar symptoms?</a></li><li><a bookmark="ue5429-sec" document-type="Frame" href="/webmd/consumer_assets/controlled_content/healthwise/frame/Who_is_affected_by_croup.xml" directive="friendlyurl" chronic_id="091e9c5e8001b85e" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Who_is_affected_by_croup.xml">Who is affected by croup?</a></li></ul></td></tr><tr><td valign="top"><p><b>Being diagnosed:</b></p></td><td valign="top"><ul><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Exams_and_Tests.xml" directive="friendlyurl" chronic_id="091e9c5e8001abaf" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Exams_and_Tests.xml">How is croup diagnosed?</a></li></ul></td></tr><tr><td valign="top"><p><b>Getting treatment:</b></p></td><td valign="top"><ul><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Treatment_Overview.xml" directive="friendlyurl" chronic_id="091e9c5e8001acc8" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Treatment_Overview.xml">How is croup treated?</a></li><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Home_Treatment.xml" directive="friendlyurl" chronic_id="091e9c5e8001ac0a" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Home_Treatment.xml">What kinds of home treatment can help?</a></li><li><a bookmark="ue5432" document-type="Actionset" href="/webmd/consumer_assets/controlled_content/healthwise/actionset/Managing_an_episode_of_croup.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/actionset/Managing_an_episode_of_croup.xml"><img alt="actionset.gif" border="0" height="27" src="/webmd/consumer_assets/site_images/media/interface/actionset.gif" type="interface" width="78" directive="imageurl" chronic_id="091e9c5e80019c58" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/actionset.gif"></a><a bookmark="ue5432" document-type="Actionset" href="/webmd/consumer_assets/controlled_content/healthwise/actionset/Managing_an_episode_of_croup.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/actionset/Managing_an_episode_of_croup.xml">How can I help manage a croup attack?</a></li></ul></td></tr></table></section_text></section_group></page></pages><citations></citations></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/children/tc/croup-topic-overview" owner="false"><breadcrumb><bread piece="Children's Health" prefix="www" friendlyurl="/children/default.htm"></bread><bread piece="Children's Health Related Topics" prefix="www" friendlyurl="/children/tc/default.htm"></bread></breadcrumb><centers><Topic id="1262" name="tmg" chronicid="091e9c5e8001ae94" prefix="www" friendlyurl="/children/tc/croup-topic-overview" type="Topic">Croup</Topic><Super id="859" name="super center" chronicid="091e9c5e80024767" prefix="www" friendlyurl="/children/default.htm" type="">Children's Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/children/tc/croup-topic-overview" owner="false"><breadcrumb><bread piece="Children's Health" prefix="www" friendlyurl="/children/default.htm"></bread><bread piece="Children's Health Related Topics" prefix="www" friendlyurl="/children/tc/default.htm"></bread></breadcrumb><centers><Topic id="11180" name="tmg" chronicid="091e9c5e8001ae94" prefix="www" friendlyurl="/children/tc/croup-topic-overview" type="Topic">Croup</Topic><Super id="11177" name="super center" chronicid="091e9c5e8068d722" prefix="www" friendlyurl="/children/default.htm" type="">Children</Super></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001ae94" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Topic_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-topic-overview"></target></object><object chronic_id="091e9c5e803c50fe" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/picture-of-the-lungs"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-lungs"></target></object><object chronic_id="091e9c5e80022f49" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cold and Flu/page_Cold and Flu Health Center_091e9c5e80022f49.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/cold-and-flu/default.htm"></target><target siteid="8" name="" prefix="www" friendlyurl="/cold-and-flu/default.htm" umtchronicleid="091e9c5e8068ab56"></target></object><object chronic_id="091e9c5e800074f2" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/cold_and_flu/overview_types_of/fact_sheet_flu_vaccines.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/flu-guide/fact-sheet-vaccines"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/flu-guide/fact-sheet-vaccines"></target></object><object chronic_id="091e9c5e8056ea80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/anatomy-picture-of-blood"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/anatomy-picture-of-blood"></target></object><object chronic_id="091e9c5e800251e7" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target><target siteid="8" name="" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target></object><object chronic_id="091e9c5e8001ac69" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Symptoms.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-symptoms"></target></object><object chronic_id="091e9c5e8001bd00" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Other_conditions_with_symptoms_similar_to_croup.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/other-conditions-with-symptoms-similar-to-croup"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/other-conditions-with-symptoms-similar-to-croup"></target></object><object chronic_id="091e9c5e8001b85e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Who_is_affected_by_croup.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/who-is-affected-by-croup"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/who-is-affected-by-croup"></target></object><object chronic_id="091e9c5e8001abaf" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Exams_and_Tests.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-exams-and-tests"></target></object><object chronic_id="091e9c5e8001acc8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Treatment_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-treatment-overview"></target></object><object chronic_id="091e9c5e8001ac0a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Home_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-home-treatment"></target></object><object chronic_id="091e9c5e8001ae94" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Topic_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-topic-overview"></target></object><object chronic_id="091e9c5e8001abb9" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Health_Tools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-health-tools"></target></object><object chronic_id="091e9c5e8001ac69" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Symptoms.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-symptoms"></target></object><object chronic_id="091e9c5e8001abaf" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Exams_and_Tests.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-exams-and-tests"></target></object><object chronic_id="091e9c5e8001acc8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Treatment_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-treatment-overview"></target></object><object chronic_id="091e9c5e8001ac0a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Home_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-home-treatment"></target></object><object chronic_id="091e9c5e8001ae6d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Related_Information.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-related-information"></target></object><object chronic_id="091e9c5e8001ade0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-References.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-references"></target></object><object chronic_id="091e9c5e8001aee3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/croup-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/croup-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e8002365b" path="/webmd/consumer_assets/controlled_content/healthwise/toc/mini/Croup-TOC.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>Overview</section_type><section_link directive="article" chronic_id="091e9c5e8001ae94" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Topic_Overview.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e8001abb9" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Health_Tools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>Symptoms</section_type><section_link directive="article" chronic_id="091e9c5e8001ac69" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Symptoms.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>ExamsAndTests</section_type><section_link directive="article" chronic_id="091e9c5e8001abaf" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Exams_and_Tests.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>TreatmentOverview</section_type><section_link directive="article" chronic_id="091e9c5e8001acc8" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Treatment_Overview.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Home Treatment</section_title><section_type>HomeTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001ac0a" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Home_Treatment.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001ae6d" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Related_Information.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001ade0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-References.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001aee3" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Croup-Credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Croup</title><dynamic_objects><callout_title>Recommended Related to Children</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e70625"><metadata_section><i_chronicle_id>091e9c5e80a75ea1</i_chronicle_id><title>Superior Vena Cava Syndrome in Children</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>Superior vena cava syndrome in a child is a serious medical emergency because the child's windpipe can become blocked.
+Superior vena cava syndrome (SVCS) in children can be life-threatening. This is because the trachea (windpipe) can quickly become blocked. In adults, the windpipe is fairly stiff, but in children, it is softer and can more easily be squeezed shut. Also, a child's windpipe is narrower, so any amount of swelling can cause breathing problems. Squeezing of the trachea is called superior...</p></section_text><link siteid="3" prefix="www" friendlyurl="/cancer/tc/ncicdr0000352193-superior-vena-cava-syndrome-in-children"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Croup - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <a name="hw31908"></a>
+      <h4>What is croup?</h4>
+      <p>Croup is a common respiratory problem in young children. It tends to occur in the fall and winter. Its main symptom is a harsh, barking cough. <a href="http://www.webmd.com/children/tc/croup-topic-overview" onclick="return sl(this,'','embd-lnk');">Croup</a> causes swelling and narrowing in the voice box, windpipe, and breathing tubes that lead to the <a href="http://www.webmd.com/lung/picture-of-the-lungs" onclick="return sl(this,'','embd-lnk');">lungs</a>. This can make it hard for your child to breathe.</p>
+      <p>An attack of croup can be scary, but it is rarely serious. Children usually get better in several days with rest and care at home. </p>
+      <h4>What causes croup?</h4>
+      <p>Croup usually occurs a few days after the start of a cold and is usually caused by the same viruses that cause the <a href="http://www.webmd.com/cold-and-flu/default.htm" onclick="return sl(this,'','embd-lnk');">common cold</a>. Croup is contagious. The germs that cause it can be passed from one person to another through coughing and sneezing and through close contact. Regular hand-washing and limiting contact with others can help prevent spreading croup to others.</p>
+      <p>As children grow older and their lungs and windpipes mature, they are less likely to get croup. Getting a <a href="http://www.webmd.com/cold-and-flu/flu-guide/fact-sheet-vaccines" onclick="return sl(this,'','embd-lnk');">flu shot</a> each year may help your child fight off some of the viruses that can lead to croup.</p>
+      <h4>What are the symptoms?</h4>
+      <p>Symptoms of croup are caused by narrowed airways. They include a barking cough; a raspy, hoarse voice; and a harsh, crowing noise when breathing in. The cough is very distinctive, so you'll know it when you hear it. It is often compared to the sound of a barking seal. Sometimes children breathe fast and need to sit up to breathe better. </p>
+      <p>Symptoms of croup often improve during the day and get worse at night. Sometimes children have croup attacks that wake them up in the middle of the night for a couple of nights in a row, but the illness usually improves gradually in 2 to 5 days. </p>
+      <h4>How is croup diagnosed?</h4>
+      <p>Your doctor will probably be able to tell whether your child has croup by examining him or her and asking about symptoms. Sometimes doctors can identify the distinctive barking cough of croup over the phone. </p>
+      <p>Because croup can make breathing harder, your doctor may place a small clip called a pulse oximeter on your child's finger, toe, or earlobe to check if enough oxygen is reaching the <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a>.</p>
+      <h4>How is it treated?</h4>
+      <p>Even though your child's coughing and troubled breathing can be frightening, home treatment usually eases the symptoms.</p>
+      <ul>
+       <li>Try to stay calm during an attack, and soothe your child. Crying can make the swelling in the windpipe worse and make it even harder to breathe.</li>
+       <li>Breathing in moist air seems to help during a croup attack. Fill your bathroom with steam from the hot water faucets, and sit in the room with your child for 10 minutes. Or hold your child directly over a humidifier, and let the vapor blow directly in his or her face. </li>
+       <li>Breathing cool night air also seems to help sometimes. Dress your child in warm clothes, and go outside for 10 minutes. </li>
+       <li>If symptoms improve with these methods, put your child back in bed with the humidifier blowing nearby. Do not smoke, especially in the house. If the symptoms happen during the middle of the night, it is a good idea to <a href="http://www.webmd.com/sleep-disorders/default.htm" onclick="return sl(this,'','embd-lnk');">sleep</a> in or near your child's room until morning. </li>
+       <li>Be sure to keep your child well hydrated. Offer water, flavored ice treats (such as Popsicles), or crushed ice drinks several times each hour.</li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/children/tc/croup-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/children/tc/croup-health-tools'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/children/tc/croup-symptoms'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/children/tc/croup-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/children/tc/croup-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/children/tc/croup-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/children/tc/croup-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/children/tc/croup-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/children/tc/croup-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: August 04, 2010
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/children/tc/croup-topic-overview">Topic Overview</option><option value="http://www.webmd.com/children/tc/croup-health-tools">Health Tools</option><option value="http://www.webmd.com/children/tc/croup-symptoms">Symptoms</option><option value="http://www.webmd.com/children/tc/croup-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/children/tc/croup-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/children/tc/croup-home-treatment">Home Treatment</option><option value="http://www.webmd.com/children/tc/croup-related-information">Related Information</option><option value="http://www.webmd.com/children/tc/croup-references">References</option><option value="http://www.webmd.com/children/tc/croup-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Croup Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/children/tc/croup-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/children/tc/croup-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/children/tc/croup-symptoms" onclick="return sl(this,'','topicNav_3');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/children/tc/croup-exams-and-tests" onclick="return sl(this,'','topicNav_4');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/children/tc/croup-treatment-overview" onclick="return sl(this,'','topicNav_5');" title="Treatment Overview">Treatment Overview</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/children/tc/croup-home-treatment" onclick="return sl(this,'','topicNav_6');" title="Home Treatment">Home Treatment</a></li>
+      <li><a href="http://www.webmd.com/children/tc/croup-related-information" onclick="return sl(this,'','topicNav_7');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/children/tc/croup-references" onclick="return sl(this,'','topicNav_8');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/children/tc/croup-credits" onclick="return sl(this,'','topicNav_9');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Mini';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-859"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/parenting/bedwetting-solutions-12/bedwetting-stress-anxiety" onclick="return sl(this,'','rltd-p-859_1');">Can Stress Lead to Bedwetting?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/healthy-aging/drug-costs-12/save-money-prescription-drugs" onclick="return sl(this,'','rltd-p-859_2');">How to Save Money on Prescriptions</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/parenting/answers-health/answers-sick-from-school" onclick="return sl(this,'','rltd-p-859_3');">When Is a Child Too Sick for School?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0812&amp;ch=3" onclick="return sl(this,'','rltd-p-859_4');">How Important Is Fluoride for Kids' Teeth?</a> </li> 
+     <li id="x66"> <a href="http://children.webmd.com/digestion-in-children-11/fiber-rich-lunch" onclick="return sl(this,'','rltd-p-859_5');">Fiber-Rich Lunch Ideas for Kids</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0001" onclick="return sl(this,'','rltd-p-859_6');">What Causes Ringworm?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-859_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e808b8d13" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb82</chronic_id><r_object_id>091e9c5e808b8d13</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8068fb82.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/12/2011 11:02:27</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Childrens Health Portal Template/template_Childrens Health Portal Template_091e9c5e80024677.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80024677"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Croup</name><link_title>Croup</link_title><description>Croup is a common respiratory  problem in young children. It tends to occur in the fall and winter. Its main symptom is a harsh, barking cough. Croup causes swelling and narrowing in the voice box, windpipe, and breathing tubes that lead to the lungs. This can make it hard for your child to breathe. An attack of croup can be scary, but it is rarely serious. Children usually get better in several days with rest and care at home. Follow the links below to find WebMD's comprehensive coverage about how croup is contracted, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/children/croup-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8000dc7e"><link_title>Study Shows Link Between a Virus and Croup</link_title><friendly_url>http://www.webmd.com/news/20050822/study-shows-link-between-virus-croup</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000df72"><link_title>Don't Expose Infants to Coughers, Says CDC</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20050127/dont-expose-infants-to-coughers-says-cdc</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c109"><link_title>Do Cough Medicines Work in Kids?</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20040706/do-cough-medicines-work-in-kids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800a4281"><link_title>Does Your Baby Have a Breathing Problem?</link_title><friendly_url>http://www.webmd.com/parenting/baby/your-newborn-babys-breathing-noises</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e803852f9"><link_title>Are OTC Drugs Safe for Kids?</link_title><friendly_url>http://www.webmd.com/children/features/making-sense-otc-drug-use-kids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e054"><link_title>Steroid Calms Kids With Mild Croup</link_title><friendly_url>http://www.webmd.com/parenting/news/20040922/steroid-calms-kids-with-mild-croup</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cba1"><link_title>Humidity May Not Help Kids With Croup</link_title><friendly_url>http://www.webmd.com/parenting/news/20060314/humidity-may-not-help-kids-with-croup</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f327"><link_title>Croup Vaccine Shown Safe in First Test</link_title><friendly_url>http://www.webmd.com/parenting/news/20040826/croup-vaccine-shown-safe-in-first-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80122af5"><link_title>Infant Cough, Cold Drugs Withdrawn</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20071012/infant-cough-cold-drugs-withdrawn</friendly_url><thumbnail height="" width="" alt="Infant Cold Meds Withdrawn">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/October_07/infant_cold_meds_withdrawn.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8016f17d"><link_title>Pediatric ER Trips Tied to Cold Drugs</link_title><friendly_url>http://www.webmd.com/children/news/20080128/pediatric-er-trips-tied-to-cold-drugs</friendly_url><thumbnail height="" width="" alt="Pediatric ER Visits Cold Meds">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/January08/pediatric_er_visits_cold_meds.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8014ffc1"><link_title>Children and Colds</link_title><friendly_url>http://www.webmd.com/cold-and-flu/cold-guide/children_colds</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800079b0"><link_title>Medicine to Treat Your Cold or Flu</link_title><friendly_url>http://www.webmd.com/cold-and-flu/which-medicine-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001abaf"><link_title>Croup-Exams and Tests</link_title><friendly_url>http://www.webmd.com/children/tc/croup-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001abb9"><link_title>Croup-Health Tools</link_title><friendly_url>http://www.webmd.com/children/tc/croup-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ac0a"><link_title>Croup-Home Treatment</link_title><friendly_url>http://www.webmd.com/children/tc/croup-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ac69"><link_title>Croup-Symptoms</link_title><friendly_url>http://www.webmd.com/children/tc/croup-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001acc8"><link_title>Croup-Treatment Overview</link_title><friendly_url>http://www.webmd.com/children/tc/croup-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800092b0"><link_title>The Basics of Croup</link_title><friendly_url>http://www.webmd.com/children/guide/understanding-croup-basic-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800092c8"><link_title>Symptoms of Croup</link_title><friendly_url>http://www.webmd.com/children/understanding-croup-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000756a"><link_title>Treating Croup</link_title><friendly_url>http://www.webmd.com/children/understanding-croup-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ae6d"><link_title>Croup-Related Information</link_title><friendly_url>http://www.webmd.com/children/tc/croup-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d720"><link_title>Croup: Managing a Croup Attack</link_title><friendly_url>http://www.webmd.com/children/managing-an-episode-of-croup</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e49f"><link_title>Respiratory Problems, Age 11 and Younger-Topic Overview</link_title><friendly_url>http://www.webmd.com/children/tc/respiratory-problems-age-11-and-younger-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000d28e"><link_title>Cough Medicines a Bust?</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060109/cough-medicines-bust</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8014b8c7"><link_title>Honey May Soothe Kids' Coughs</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20071203/honey-may-soothe-kids-coughs</friendly_url><thumbnail height="" width="" alt="Honey Helps Kids Coughs">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/December07/honey_helps_kids_coughs.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8012e43d"><link_title>Some Kids' Cough Syrups Recalled</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20071030/some-kids-cough-syrups-recalled</friendly_url><thumbnail height="" width="" alt="Kids Cold Meds Recalled">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/October_07/kids_cold_meds_recalled.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8003b506"><link_title>Chronic Cough Can Be Depressing</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20061211/chronic-cough-depressing</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000db2b"><link_title>Chocolate Ingredient May Calm Coughs</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20041124/chocolate-ingredient-may-calm-coughs</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000799d"><link_title>Symptoms of the Flu</link_title><friendly_url>http://www.webmd.com/cold-and-flu/understanding-flu-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008b1b"><link_title>When To See a Doctor for a Cold or Flu</link_title><friendly_url>http://www.webmd.com/cold-and-flu/when-see-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/your-newborn-babys-breathing-noises" onclick="return sl(this,'','td-rltd-art_1');">Does Your Baby Have a Breathing Problem?</a></li>
+      <li><a href="http://www.webmd.com/children/features/making-sense-otc-drug-use-kids" onclick="return sl(this,'','td-rltd-art_2');">Are OTC Drugs Safe for Kids?</a></li>
+      <li><a href="http://www.webmd.com/cold-and-flu/cold-guide/children_colds" onclick="return sl(this,'','td-rltd-art_3');">Children and Colds</a></li>
+      <li><a href="http://www.webmd.com/cold-and-flu/which-medicine-help" onclick="return sl(this,'','td-rltd-art_4');">Medicine to Treat Your Cold or Flu</a></li>
+      <li><a href="http://www.webmd.com/children/tc/croup-exams-and-tests" onclick="return sl(this,'','td-rltd-art_5');">Croup-Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/children/tc/croup-health-tools" onclick="return sl(this,'','td-rltd-art_6');">Croup-Health Tools</a></li>
+      <li><a href="http://www.webmd.com/children/tc/croup-home-treatment" onclick="return sl(this,'','td-rltd-art_7');">Croup-Home Treatment</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/children/croup-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Croup Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=550833541&amp;tile=1947956680&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5000&amp;xpg=3609&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2fchildren%2ftc%2fcroup-topic-overview&amp;artid=091e9c5e8001ae94&amp;inst=0&amp;leaf=1262&amp;cc=16&amp;tmg=1&amp;bc=_cust4_a080_r05_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=550833541&amp;amp;tile=1947956680&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5000&amp;amp;xpg=3609&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fchildren%2ftc%2fcroup-topic-overview&amp;amp;artid=091e9c5e8001ae94&amp;amp;inst=0&amp;amp;leaf=1262&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_cust4_a080_r05_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3609";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=550833541&amp;tile=1947956680&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5001&amp;xpg=3609&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2fchildren%2ftc%2fcroup-topic-overview&amp;artid=091e9c5e8001ae94&amp;inst=0&amp;leaf=1262&amp;cc=16&amp;tmg=1&amp;bc=_cust4_a080_r05_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=550833541&amp;amp;tile=1947956680&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5001&amp;amp;xpg=3609&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fchildren%2ftc%2fcroup-topic-overview&amp;amp;artid=091e9c5e8001ae94&amp;amp;inst=0&amp;amp;leaf=1262&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_cust4_a080_r05_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3609";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

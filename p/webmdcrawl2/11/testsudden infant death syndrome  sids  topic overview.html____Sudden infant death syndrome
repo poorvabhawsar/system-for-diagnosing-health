@@ -1,0 +1,564 @@
+<title>Sudden Infant Death Syndrome (SIDS)-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Essentials for Baby</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0002" class="type_ss" onclick="return sl(this,'','tools-res_1');">Fungal Infections in Babies<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/answers-health/answers-baby-sleep-habits" onclick="return sl(this,'','tools-res_2');">Helping Baby Sleep </a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parenting/baby/features/6-serious-symptoms-in-babies-never-to-ignore" onclick="return sl(this,'','tools-res_3');">6 Serious Baby Symptoms</a></li>
+      <li id="x59"><a href="http://www.webmd.com/parenting/baby/video/introducing-new-foods-to-baby" class="type_vid" onclick="return sl(this,'','tools-res_4');">Baby Food Options<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/eye-health/eye-vision-tv/default.htm?vid=vd-3007-cntv-ed-2002" class="type_vid" onclick="return sl(this,'','tools-res_5');">Your Baby's Vision<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-cry-to-sleep" onclick="return sl(this,'','tools-res_6');">Should Baby 'Cry It Out'?</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e66b9a"><metadata_section><i_chronicle_id>091e9c5e8001ce08</i_chronicle_id><r_object_id>091e9c5e80e66b9a</r_object_id><title>Topic Overview</title><object_name>sudden_infant_death_syndrome_sids-topic_overview_special_hw266674.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e66b9a</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_hw266674</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Sudden Infant Death Syndrome (SIDS)-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is sudden infant death syndrome (SIDS)?Sometimes a baby who seems healthy dies during sleep. This is called sudden infant death syndrome or SIDS. SIDS is also known as crib death. In most cases, a parent or caregiver puts the baby down to sleep and returns later to find the baby has died. It’s no one’s fault. SIDS can happen even when you do everything right. Although SIDS is rare, it is </wbmd_desc_meta><wbmd_orig_pub_dt>05/16/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is sudden infant death syndrome (SIDS)?Sometimes a baby who seems healthy dies during sleep. This is called sudden infant death syndrome or SIDS. SIDS is also known as crib death. In most cases, a parent or caregiver puts the baby down to sleep and returns later to find the baby has died. It’s no one’s fault. SIDS can happen even when you do everything right. Although SIDS is rare, it is </wbmd_desc_user><wbmd_lk_ttl>Sudden Infant Death Syndrome (SIDS)-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>cot death, SIDS, sudden infant death syndrome</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.11</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e66b9a</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3545" wbmd_disp_nm="Parenting - Newborn &amp; Infant"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="7007" wbmd_disp_nm="Grief &amp; Death (Sensitive Topic)"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1162" wbmd_disp_nm="Parenting - Baby (0-12 months)"></wbmd_c_channel_id><wbmd_c_frnd_nm>Sudden-Infant-Death-Syndrome-SIDS-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is sudden infant death syndrome (SIDS)?</section_header><section_type>SpecialSection</section_type><section_text><p>Sometimes a baby who seems healthy dies during sleep. This is called
+			 sudden infant death syndrome or SIDS.</p><p> In most cases, a parent or caregiver places the baby down to sleep and
+			 returns later to find the baby has died. It's no one's fault. SIDS can happen
+			 even when you do everything right.</p><p>Although SIDS is rare, it is
+			 one of the most common causes of death in babies between 1 and 12 months of
+			 age. Most babies who die of SIDS are between the ages of 2 and 4 months.</p></section_text></section_group><section_group><section_header>What causes SIDS?</section_header><section_type>SpecialSection</section_type><section_text><p>Doctors don't know what causes
+			 SIDS. It seems to happen more often in
+			 <a chronic_id="091e9c5e801071d6" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/premature_infant_definition_za1270.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/premature_infant_definition_za1270.xml">premature</a> and low-birth-weight babies. It also is seen
+			 more often in babies whose mothers didn't get medical care during the
+			 pregnancy and in babies whose mothers smoke. SIDS may also be more likely in
+			 babies who were part of a multiple pregnancy (for example, twins or triplets)
+			 or whose mothers are younger than 20.</p><p>When babies sleep on their
+			 bellies, they may not breathe well. Not too long ago, side sleeping was said to
+			 be okay. But babies placed on their sides can easily roll onto their bellies
+			 and could have trouble breathing.</p><p>Researchers are studying the
+			 possibility that SIDS may be caused by problems with how well the brain
+			 controls breathing, heart rate and rhythm, and temperature during the first
+			 few months of life. More research on this is needed.</p></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p>SIDS has no symptoms or
+			 warning signs. Babies who die of SIDS seem healthy before being put to bed.
+			 They show no signs of struggle and are often found in the same position as when
+			 they were placed in the bed.</p></section_text></section_group><section_group><section_header>How is SIDS diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>SIDS is named the cause of
+			 death only when no other cause is found. To find out why a baby died, medical
+			 experts review the baby's and parents' medical histories, study the area where
+			 the baby died, and do an
+			 <a chronic_id="091e9c5e8001b0ed" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/autopsy_definition_sta15493.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/autopsy_definition_sta15493.xml">autopsy</a>.</p></section_text></section_group><section_group><section_header>What can you do to reduce the risk of SIDS?</section_header><section_type>SpecialSection</section_type><section_text><p>Doing certain things may help protect a
+			 baby from SIDS and/or other deaths related to sleep:<sup class="Reference"><a bookmark="ta3183" chronic_id="091e9c5e8001d0d9" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-references_special_hw194381-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-references_special_hw194381-bib.xml">1</a></sup></p><ul><li>The most important thing you can do is to
+				<b>always place your baby to sleep on his or her back</b>
+				rather than on the stomach or side.</li><li>Don't use tobacco, alcohol, or drugs while you are
+				pregnant. And don't expose your baby to <a chronic_id="091e9c5e8001b31a" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/secondhand_smoke_definition_sts14447.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/secondhand_smoke_definition_sts14447.xml">secondhand smoke</a> during or after your pregnancy.</li><li>For the first 6 months, have your baby sleep in a crib, cradle, or bassinet in
+				the same room where you sleep. The American Academy of Pediatrics recommends that you don't ever sleep with your baby in the same bed, especially if you smoke or have used alcohol, illegal drugs, or medicine that
+			 makes you sleep very soundly (sedatives). Never sleep
+			 with a baby on a couch or armchair. 
+				</li><li>Keep soft items and loose bedding out of the crib. Items such as blankets, stuffed animals, toys, and  pillows could suffocate or trap your baby. Dress your baby in sleepers instead of using blankets.</li><li>Make sure that your baby's crib has a firm
+					 mattress (with a fitted sheet). Don't
+					 use bumper pads or other products that attach to crib slats or sides. They could suffocate or trap your baby.</li><li>Keep the room at a comfortable temperature so that your baby can sleep in lightweight clothes without a blanket. Usually, the
+			 temperature is about right if an adult can wear a long-sleeved T-shirt and
+			 pants without feeling cold. Make sure that your baby doesn't get too warm.
+			 Your baby is likely too warm if he or she
+			 sweats or tosses and turns a lot.</li><li>Breast-feed your baby and have your baby immunized.</li><li>Consider giving your baby a pacifier at nap
+				time and bedtime.  This may help prevent SIDS, though experts don't know why.
+				If you
+				breast-feed, wait until your baby is about a month old
+				before you start giving him or her a pacifier.</li></ul></section_text></section_group></page><page><section_group><section_header is_continued="true">What can you do to reduce the risk of SIDS? continued...</section_header><section_type>SpecialSection</section_type><section_text><p> There
+			 is no sure way to prevent SIDS, and no exam or test can predict whether a baby is likely to die of SIDS. Don't rely on breathing (apnea) monitors, special mattresses, or other devices marketed as a
+		  way to reduce your baby's risk of SIDS. None of these items have been proved to lower the risk of SIDS. The American Academy of Pediatrics does not advise their use.</p><p>Remember, SIDS is rare. Be as safe as you can, but don't let
+		  fear keep you from enjoying your baby. Tell your baby's caregivers what you expect
+			 them to do. Don't assume that they know what to do to help keep your infant safe during sleep.</p></section_text></section_group><section_group><section_header>How can a family cope after losing a baby to SIDS?</section_header><section_type>SpecialSection</section_type><section_text><p>Each member of your family may respond to the loss of the baby in a
+			 different way. These different ways of coping with the baby's death can strain a marriage
+			 and a family. Along with feeling grief, family members may be struggling with feelings
+			 of guilt. Support from family, friends, your doctor, and possibly other health professionals is very important for everyone. You might find it helpful to:</p><ul><li> Join a grief support group. Ask your doctor
+				if one for parents who have lost babies to SIDS is available in
+				your area.</li><li>Get help from a counselor, a psychologist, or a psychiatrist. Many families
+				benefit from group counseling to help them deal with the tensions that arise
+				after the loss of a baby.</li><li>Talk with a close family member, a friend,
+				or a clergy member.</li></ul></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/parenting/baby/tc/sudden-infant-death-syndrome-sids-overview" owner="false"><breadcrumb><bread piece="Health &amp; Parenting Center" prefix="www" friendlyurl="/parenting/default.htm"></bread><bread piece="Health &amp; Baby Center" prefix="www" friendlyurl="/parenting/baby/default.htm"></bread><bread piece="Health &amp; Baby Related Topics" prefix="www" friendlyurl="/parenting/baby/tc/default.htm"></bread></breadcrumb><centers><Topic id="2790" name="tmg" chronicid="091e9c5e8001ce08" prefix="www" friendlyurl="/parenting/baby/tc/sudden-infant-death-syndrome-sids-overview" type="Topic">Sudden Infant Death Syndrome (SIDS)</Topic><Health id="2786" name="health center" chronicid="091e9c5e80c3c634" prefix="www" friendlyurl="/parenting/baby/default.htm" type="">Baby Center</Health><Super id="1190" name="super center" chronicid="091e9c5e80c3d141" prefix="www" friendlyurl="/parenting/default.htm" type="">Health &amp; Parenting</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/sudden-infant-death-syndrome-sids-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e8001ce08" prefix="www" friendlyurl="/a-to-z-guides/tc/sudden-infant-death-syndrome-sids-overview" type="Topic">Sudden Infant Death Syndrome (SIDS)</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e801071d6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/premature_infant_definition_za1270.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/premature-infant"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/premature-infant"></target></object><object chronic_id="091e9c5e8001b0ed" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/autopsy_definition_sta15493.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/autopsy"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/autopsy"></target></object><object chronic_id="091e9c5e8001d0d9" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-references_special_hw194381-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/sudden-infant-death-syndrome-sids-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/sudden-infant-death-syndrome-sids-references"></target></object><object chronic_id="091e9c5e8001b31a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/secondhand_smoke_definition_sts14447.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/secondhand-smoke"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/secondhand-smoke"></target></object><object chronic_id="091e9c5e8001ce08" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-topic_overview_special_hw266674.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/sudden-infant-death-syndrome-sids-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/sudden-infant-death-syndrome-sids-overview"></target></object><object chronic_id="091e9c5e802d960d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-health_tools_special_hw194381-healthtools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/sudden-infant-death-syndrome-sids-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/sudden-infant-death-syndrome-sids-health-tools"></target></object><object chronic_id="091e9c5e808f6965" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-frequently_asked_questions_special_abl0415.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/sudden-infant-death-syndrome-sids-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/sudden-infant-death-syndrome-sids-frequently-asked-questions"></target></object><object chronic_id="091e9c5e8001d14f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-other_places_to_get_help_special_hw194381-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/sudden-infant-death-syndrome-sids-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/sudden-infant-death-syndrome-sids-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001cf06" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-related_information_special_hw194381-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/sudden-infant-death-syndrome-sids-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/sudden-infant-death-syndrome-sids-related-information"></target></object><object chronic_id="091e9c5e8001d0d9" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-references_special_hw194381-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/sudden-infant-death-syndrome-sids-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/sudden-infant-death-syndrome-sids-references"></target></object><object chronic_id="091e9c5e8001cebd" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-credits_special_hw194381-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/sudden-infant-death-syndrome-sids-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/sudden-infant-death-syndrome-sids-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e8002373c" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/sudden_infant_death_syndrome_sids_special_hw194381.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001ce08" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-topic_overview_special_hw266674.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e802d960d" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-health_tools_special_hw194381-healthtools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e808f6965" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-frequently_asked_questions_special_abl0415.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001d14f" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-other_places_to_get_help_special_hw194381-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001cf06" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-related_information_special_hw194381-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001d0d9" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-references_special_hw194381-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001cebd" path="/webmd/consumer_assets/controlled_content/healthwise/special/sudden_infant_death_syndrome_sids-credits_special_hw194381-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Sudden Infant Death Syndrome (SIDS)</title></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Sudden Infant Death Syndrome (SIDS) - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What can you do to reduce the risk of SIDS? continued...</h3>
+      <p> There is no sure way to prevent SIDS, and no exam or test can predict whether a baby is likely to die of SIDS. Don't rely on breathing (apnea) monitors, special mattresses, or other devices marketed as a way to reduce your baby's risk of SIDS. None of these items have been proved to lower the risk of SIDS. The American Academy of Pediatrics does not advise their use.</p>
+      <p>Remember, SIDS is rare. Be as safe as you can, but don't let fear keep you from enjoying your baby. Tell your baby's caregivers what you expect them to do. Don't assume that they know what to do to help keep your infant safe during sleep.</p>
+      <h3>How can a family cope after losing a baby to SIDS?</h3>
+      <p>Each member of your family may respond to the loss of the baby in a different way. These different ways of coping with the baby's death can strain a marriage and a family. Along with feeling grief, family members may be struggling with feelings of guilt. Support from family, friends, your doctor, and possibly other health professionals is very important for everyone. You might find it helpful to:</p>
+      <ul>
+       <li> Join a grief support group. Ask your doctor if one for parents who have lost babies to SIDS is available in your area.</li>
+       <li>Get help from a counselor, a psychologist, or a psychiatrist. Many families benefit from group counseling to help them deal with the tensions that arise after the loss of a baby.</li>
+       <li>Talk with a close family member, a friend, or a clergy member.</li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-overview">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-overview">1</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">2</span>
+      <style type="text/css">
+            .pagination_fmt .center_fmt { width: 375px !important;}
+            </style>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-overview">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-overview">1</a><span class="pipe_fmt">|</span><span class="current_fmt">2</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-health-tools'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: May 16, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-overview">Topic Overview</option><option value="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-health-tools">Health Tools</option><option value="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-related-information">Related Information</option><option value="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-references">References</option><option value="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Sudden Infant Death Syndrome (SIDS) Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-frequently-asked-questions" onclick="return sl(this,'','topicNav_3');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-other-places-to-get-help" onclick="return sl(this,'','topicNav_4');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-related-information" onclick="return sl(this,'','topicNav_5');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-references" onclick="return sl(this,'','topicNav_6');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-credits" onclick="return sl(this,'','topicNav_7');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80686b64" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80686b64</chronic_id><r_object_id>091e9c5e80686b64</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e80686b64.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>10/27/2010 15:03:15</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Baby Template/template_Baby Template_091e9c5e802f00d8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e802f00d8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Sudden Infant Death Syndrome (SIDS)</name><link_title>SIDS</link_title><description>SIDS, or sudden infant death syndrome, is the sudden death without explanation of a baby less than 1 year old. Follow the links below to find WebMD's comprehensive coverage about how SIDS occurs, how to prevent it, and much more.</description><friendly_url>http://www.webmd.com/parenting/baby/sids-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8000c68a"><link_title>Could a Test Predict the Risk of SIDS?</link_title><friendly_url>http://www.webmd.com/parenting/news/20000726/could-test-predict-risk-of-sids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011702"><link_title>Clue to Sudden Infant Death Syndrome</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20061031/clue-to-sudden-infant-death-syndrome</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800eeb8f"><link_title>Newborn Hearing Test May Predict SIDS</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20070727/newborn-hearing-test-may-predict-sids</friendly_url><thumbnail height="" width="" alt="Hearing Test Predicts SIDS">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/July07/hearing_test_predicts_sids.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e804de265"><link_title>Low Serotonin Levels May Be Key to SIDS</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20100202/low-serotonin-levels-may-be-key-to-sids</friendly_url><thumbnail height="" width="" alt="get_older_less_sleep_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/02_2010/serotonin_linked_to_sids_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011003"><link_title>Longer SIDS Risk for Premature Babies</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20060207/longer-sids-risk-premature-babies</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e382"><link_title>SIDS: Genetics May Play a Role</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20040819/sids-genetics-may-play-role</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f5ee"><link_title>Nicotine's Link to SIDS Uncovered</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20020909/nicotines-link-to-sids-uncovered</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c508"><link_title>Genetic Link to SIDS Found</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20030117/genetic-link-to-sids-found</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806ef571"><link_title>Increase in SIDS on New Year’s Day</link_title><friendly_url>http://www.webmd.com/parenting/news/20101217/increase-sids-new-years-day</friendly_url><thumbnail height="" width="" alt="man feeding baby while holding beer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/12_2010/69x75_sids_alcohol_new_years_01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80005f73"><link_title>Preventing SIDS: New Advice for Parents</link_title><friendly_url>http://www.webmd.com/parenting/news/19990101/preventing-sids-sleep-positioning</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006ef9"><link_title>Home Monitors No Predictor for SIDS</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20010501/home-monitors-sids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c3d3"><link_title>Firm Mattresses May Reduce SIDS</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20030512/firm-mattresses-may-reduce-sids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ca19"><link_title>SIDS Risk Doubles For Black Babies</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20021007/sids-risk-doubles-for-black-babies</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d4eb"><link_title>Different Sleep Position Raises Risk of SIDS</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20030305/different-sleep-position-ups-sids-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d937"><link_title>Is Your Day Care Safe for Sleeping Babies?</link_title><friendly_url>http://www.webmd.com/parenting/news/20010511/is-your-day-care-safe-for-sleeping-babies</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800113dd"><link_title>New Tip to Help Babies Avoid SIDS</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20060117/new-tip-to-help-babies-avoid-sids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011aa5"><link_title>Pacifiers May Protect Babies From SIDS</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20051208/pacifiers-may-protect-babies-from-sids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001202f"><link_title>Bacteria That Causes Stomach Ulcers: A Culprit in SIDS?</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20001027/bacteria-that-causes-stomach-ulcers-culprit-in-sids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80273cb4"><link_title>Fan in Baby's Room May Lower SIDS Risk</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20081006/sleeping-with-fan-may-lower-sids-risk</friendly_url><thumbnail height="" width="" alt="sids_prevention_better_ventilation.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/October08/sids_prevention_better_ventilation.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80481e75"><link_title>Not All Parents Put Babies to Sleep on Back</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20091207/not-all-parents-pub-babies-to-sleep-on-back</friendly_url><thumbnail height="" width="" alt="back_to_sleep_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/december_2009/back_to_sleep_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80661b9d"><link_title>Infant Sleep Positioners Pose Suffocation Risk</link_title><friendly_url>http://www.webmd.com/fda/infant-sleep-positioners-pose-suffocation-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8020e14c"><link_title>Sudden Infant Death Syndrome: New Clue</link_title><friendly_url>http://www.webmd.com/children/news/20080703/sudden-infant-death-new-clue</friendly_url><thumbnail height="" width="" alt="Possible Crib Death Cause">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/July08/possible_crib_death_cause.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80019ec8"><link_title>Sudden Infant Death Helpline</link_title><friendly_url>http://www.webmd.com/parenting/baby/sudden-infant-death-helpline</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80490642"><link_title>Sudden Infant Death Syndrome</link_title><friendly_url>http://www.webmd.com/parenting/baby/sudden-infant-death-syndrome</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802d960d"><link_title>Sudden Infant Death Syndrome (SIDS)-Health Tools</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d14f"><link_title>Sudden Infant Death Syndrome (SIDS)-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001cf06"><link_title>Sudden Infant Death Syndrome (SIDS)-Related Information</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d387"><link_title>Growth and Development, Ages 1 to 12 Months-Promoting Healthy Growth and Development</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/growth-and-development-ages-1-to-12-months-promoting-healthy-growth-and-development</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800062ef"><link_title>Air Pollution: SIDS Risk</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20040607/air-pollution-linked-higher-sids-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007079"><link_title>Checklist May Help You Identify If Your Baby Has SIDS Risk</link_title><friendly_url>http://www.webmd.com/parenting/news/20000229/checklist-may-help-you-identify-if-your-baby-has-sids-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/fda/infant-sleep-positioners-pose-suffocation-risk" onclick="return sl(this,'','td-rltd-art_1');">Infant Sleep Positioners Pose Suffocation Risk</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/sudden-infant-death-helpline" onclick="return sl(this,'','td-rltd-art_2');">Sudden Infant Death Helpline</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/sudden-infant-death-syndrome" onclick="return sl(this,'','td-rltd-art_3');">Sudden Infant Death Syndrome</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-health-tools" onclick="return sl(this,'','td-rltd-art_4');">Sudden Infant Death Syndrome (SIDS)-Health Tools</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-other-places-to-get-help" onclick="return sl(this,'','td-rltd-art_5');">Sudden Infant Death Syndrome (SIDS)-Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/sudden-infant-death-syndrome-sids-related-information" onclick="return sl(this,'','td-rltd-art_6');">Sudden Infant Death Syndrome (SIDS)-Related Information</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/growth-and-development-ages-1-to-12-months-promoting-healthy-growth-and-development" onclick="return sl(this,'','td-rltd-art_7');">Growth and Development, Ages 1 to 12 Months-Promoting Healthy Growth and Development</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/parenting/baby/sids-directory" onclick="return sl(this,'','td-rltd-art_all');">See All SIDS Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=293198698&amp;tile=1045916210&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2786&amp;scent=1190&amp;pos=5000&amp;xpg=3545&amp;sec=7007&amp;au1=1&amp;au2=&amp;uri=%2fparenting%2fbaby%2ftc%2fsudden-infant-death-syndrome-sids-overview&amp;artid=091e9c5e8001ce08&amp;inst=0&amp;leaf=2790&amp;cc=16&amp;tmg=1&amp;bc=_age11_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=293198698&amp;amp;tile=1045916210&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2786&amp;amp;scent=1190&amp;amp;pos=5000&amp;amp;xpg=3545&amp;amp;sec=7007&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fparenting%2fbaby%2ftc%2fsudden-infant-death-syndrome-sids-overview&amp;amp;artid=091e9c5e8001ce08&amp;amp;inst=0&amp;amp;leaf=2790&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age11_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3545";
+			var secTopId = "7007";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=293198698&amp;tile=1045916210&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2786&amp;scent=1190&amp;pos=5001&amp;xpg=3545&amp;sec=7007&amp;au1=1&amp;au2=&amp;uri=%2fparenting%2fbaby%2ftc%2fsudden-infant-death-syndrome-sids-overview&amp;artid=091e9c5e8001ce08&amp;inst=0&amp;leaf=2790&amp;cc=16&amp;tmg=1&amp;bc=_age11_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=293198698&amp;amp;tile=1045916210&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2786&amp;amp;scent=1190&amp;amp;pos=5001&amp;amp;xpg=3545&amp;amp;sec=7007&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fparenting%2fbaby%2ftc%2fsudden-infant-death-syndrome-sids-overview&amp;amp;artid=091e9c5e8001ce08&amp;amp;inst=0&amp;amp;leaf=2790&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age11_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3545";
+			var secTopId = "7007";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

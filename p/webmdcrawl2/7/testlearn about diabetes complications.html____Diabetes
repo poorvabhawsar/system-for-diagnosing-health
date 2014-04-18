@@ -1,0 +1,359 @@
+<title>Learn About Diabetes Complications </title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/diabetes/diabetes-health-check/diabetes-health-check-old" onclick="return sl(this,'','lln-toolsres_1');">Is Your Diabetes Under Control?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Tips: Stay Healthy With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853920" onclick="return sl(this,'','lln-toolsres_3');">How to Count Carbs With Diabetes</a></li>
+      <li id="x59"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/preventing-complications" onclick="return sl(this,'','lln-toolsres_4');">Preventing Diabetes Complications</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853926" onclick="return sl(this,'','lln-toolsres_5');">Diabetes Menu Plan</a></li>
+      <li id="x61"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/taking-care" onclick="return sl(this,'','lln-toolsres_6');">4 Every Day Tips for Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="readspeaker_area" style="display: none;"> 
+     <div id="readspeaker_button1" class="rs_skip"> 
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /> </a> 
+     </div> 
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript">
+    </script> 
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:2});
+                    });
+                })();
+                </script> 
+     <div id="xp1"> 
+     </div> 
+    </div> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Diabetes Complications</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <h3>Gastroparesis</h3> 
+     <p>Diabetes increases your risk of gastroparesis. With gastroparesis, the nerves to the stomach are damaged and stop working properly. This causes the stomach to take too long to empty its contents and makes it difficult to manage blood glucose levels. Sometimes, changing your diet can help. There are some medications and treatments for gastroparesis.</p> 
+     <p>Talk to your doctor about ways to prevent diabetes complications. Ask for information on early warning signs so you can seek treatment when it is most effective.</p> 
+     <h3>Erectile Dysfunction</h3> 
+     <p>Diabetes increases the chance of developing erectile dysfunction, or impotence. For some men, adopting a healthier lifestyle, such as quitting smoking, exercising regularly, and reducing stress, may be all that is needed to resolve erectile dysfunction. In this health topic, you'll also learn why it's important to talk to your health care provider about your erectile dysfunction, as your doctor can recommend other remedies -- including medications, a vacuum constriction device (VCD), and other erectile dysfunction aids -- that can help.</p> 
+     <h3>Skin Problems</h3> 
+     <p>As many as a third of people with diabetes will have a skin condition related to their disease at some time in their lives. High levels of glucose in the blood provide an excellent breeding ground for bacteria and fungi and can reduce the body's ability to heal itself. Fortunately, most skin conditions can be prevented and successfully treated if caught early. If your skin is not cared for properly with type 2 diabetes, a minor skin condition can turn into a serious problem with potentially severe consequences.</p> 
+     <h3>Infection</h3> 
+     <p>Type 2 diabetes slows down your body's ability to fight infection. High blood glucose leads to high levels of sugar in your body's tissues. When this happens, bacteria grow and infections can develop more quickly. Common sites of infection are your bladder, kidneys, vagina, gums, feet, and skin. Early treatment of infections can prevent more serious complications.</p> 
+     <h3>Dental Problems in Diabetes</h3> 
+     <p>People with diabetes face a higher than normal risk of serious dental and oral health problems. The more uncontrolled the blood sugar, the more likely dental and oral health problems will arise. This is because uncontrolled diabetes impairs white blood cells, which are the body's main defense against infections that can occur in the mouth. Whether you have diabetes or not, be sure to see your dentist for regular cleanings and checkups to prevent serious dental problems.</p> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <script type="text/javascript">
+var pagination_title=new Array();
+var pagination_current=2;
+
+pagination_title[1]="";
+pagination_title[2]="Gastroparesis";
+</script> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+      <div class="outline_fmt"> 
+       <a href="http://www.webmd.com/heart-disease/diabetes-complications">&lt; Previous Page</a> 
+      </div> 
+     </div> 
+     <div class="right_fmt"> 
+      <a href="http://www.webmd.com/heart-disease/diabetes-complications">1</a> 
+      <span class="pipe_fmt">|</span> 
+      <span class="current_fmt">2</span> 
+      <style type="text/css">
+.pagination_fmt .center_fmt { width: 375px !important;}
+</style> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt"> 
+     <div class="viewSource_fmt"> 
+      <a href="" onclick="toggle('sourceText_fmt','sources_sign_fmt'); return false;">View Article Sources <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/todaysNews_plusSign.gif" alt="Sources" align="top" border="0" id="sources_sign_fmt" /></a> 
+     </div> 
+     <div style="display:none;" id="sourceText_fmt"> 
+      <p>SOURCE: American Diabetes Association.</p> 
+     </div> 
+    </div> 
+    <div class="sources_fmt"> 
+     <div class="reviewedBy_fmt">
+       Reviewed by 
+      <a onclick="return sl(this,'','prog-lnk');" href="http://www.webmd.com/michael-dansinger-md">Michael Dansinger, MD</a> on December 23, 2013
+     </div> 
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 2013 WebMD, LLC. All rights reserved.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "editorial";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'WebMD Medical Reference';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80a7df5a" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069325b</chronic_id><r_object_id>091e9c5e80a7df5a</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8069325b.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>05/30/2012 23:35:23</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Diabetes Health Center/template_Diabetes Health Center_091e9c5e800245f8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800245f8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Gastroparesis</name><link_title>Gastroparesis</link_title><description>In gastroparesis, the stomach cannot fully empty itself of food. This could be due to diabetes, high blood pressure, infections, medications, and more. You may feel nauseated, bloated, and you may experience heartburn or an abnormally decreased appetite. There are also other symptoms. Because leftover food in the stomach can cause complications, you should seek treatments to manage the condition. These may include diet changes and medications that aid digestion. Follow the links below to find WebMD's comprehensive coverage about what causes gastroparesis, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/digestive-disorders/gastroparesis-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8035ee80"><link_title>The Stomach (Human Anatomy): Picture, Function, Definition, Conditions, and More</link_title><friendly_url>http://www.webmd.com/digestive-disorders/picture-of-the-stomach</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What are the symptoms of gastroparesis?</link_title><friendly_url>http://answers.webmd.com/answers/1199854/what-are-the-symptoms-of-gastroparesis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007423"><link_title>Understanding Gastroparesis</link_title><friendly_url>http://www.webmd.com/digestive-disorders/digestive-disorders-gastroparesis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804f1ef7"><link_title>Slideshow: Diabetes and Exercise</link_title><friendly_url>http://www.webmd.com/diabetes/peripheral-neuropathy-8/slideshow-managing-diabetes-with-exercise</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007f41"><link_title>Diabetic Eye Disease</link_title><friendly_url>http://www.webmd.com/diabetes/diabetic-eye-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800c52f4"><link_title>Gastroparesis and Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/gastroparesis-and-other-stomach-problems</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804ceb3d"><link_title>Slideshow: Diabetes Management in 10 Minutes</link_title><friendly_url>http://www.webmd.com/diabetes/active-life/slideshow-managing-diabetes-10-tips</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802ac3d0"><link_title>Slideshow: A Visual Guide to Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-type-2-diabetes-overview</friendly_url><thumbnail height="" width="" alt="Diabetic tools">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/type_2_diabetes_overview_slideshow/69x75_type_2_diabetes_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001cfb1"><link_title>Gastroparesis-Topic Overview</link_title><friendly_url>http://www.webmd.com/diabetes/tc/gastroparesis-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ce0f"><link_title>Gastroparesis-Related Information</link_title><friendly_url>http://www.webmd.com/diabetes/tc/gastroparesis-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>Can antiperspirants cause kidney disease?</link_title><friendly_url>http://answers.webmd.com/answers/1198439/can-antiperspirants-cause-kidney-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is peripheral neuropathy?</link_title><friendly_url>http://answers.webmd.com/answers/1196515/what-is-peripheral-neuropathy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is type 2 diabetes?</link_title><friendly_url>http://answers.webmd.com/answers/1192786/what-is-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>How is gastroparesis diagnosed?</link_title><friendly_url>http://answers.webmd.com/answers/1199855/how-is-gastroparesis-diagnosed</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What are the problems of gastroparesis?</link_title><friendly_url>http://answers.webmd.com/answers/1199857/what-are-the-problems-of-gastroparesis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What causes gastroparesis?</link_title><friendly_url>http://answers.webmd.com/answers/1199853/what-causes-gastroparesis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>Can chemotherapy cause diabetic neuropathy?</link_title><friendly_url>http://answers.webmd.com/answers/648758/can-chemotherapy-cause-diabetic-neuropathy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8027bb65"><link_title>Transplant Surgery Abroad Rife With Risks</link_title><friendly_url>http://www.webmd.com/news/20081016/transplant-surgery-abroad-rife-with-risks</friendly_url><thumbnail height="" width="" alt="kidney_transplants_abroad_risky.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/October08/kidney_transplants_abroad_risky.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006e63"><link_title>Inadequate Hand-Washing Found Among Health Care Workers</link_title><friendly_url>http://www.webmd.com/news/19991115/inadequate-hand-washing-found-health-care-workers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f371"><link_title>High Cholesterol Raises Kidney Risks</link_title><friendly_url>http://www.webmd.com/news/20030721/high-cholesterol-raises-kidney-risks</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801a8038"><link_title>Kidney Disease Hospitalizations Soar</link_title><friendly_url>http://www.webmd.com/news/20080327/kidney-disease-hospitalizations-soar</friendly_url><thumbnail height="" width="" alt="More Have Kidney Disease">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/March08/more_have_kidney_disease.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8051647f"><link_title>Long-Term Health Risks Low for Kidney Donors</link_title><friendly_url>http://www.webmd.com/news/20100309/low-long-term-health-risk-for-kidney-donors</friendly_url><thumbnail height="" width="" alt="survivor_of_kidney_donors.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/03_2010/survivor_of_kidney_donors.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80012255"><link_title>Organ Donation &#45;&#45; New Technique Could Make Pigs Better Donors</link_title><friendly_url>http://www.webmd.com/news/20030115/pig-sperm-transfers-human-genes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d5f7"><link_title>Less-Invasive Procedure Brings More Kidney Donations</link_title><friendly_url>http://www.webmd.com/news/20000411/less-invasive-procedure-brings-more-kidney-donations</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800084ed"><link_title>Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006d03"><link_title>Most Type 2 Diabetics Don't Know Disease Cause</link_title><friendly_url>http://www.webmd.com/diabetes/news/19991201/type-2-diabetics-dont-know-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000da2d"><link_title>Another Danger for Smokers: Kidney Disease</link_title><friendly_url>http://www.webmd.com/smoking-cessation/news/20001016/another-danger-for-smokers-kidney-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ec3a"><link_title>IOM Admits Possible Link Between Agent Orange and Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/news/20001013/iom-admits-possible-link-between-agent-orange-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000efdd"><link_title>Many Insulin Users Don't Use Prescribed Dose</link_title><friendly_url>http://www.webmd.com/diabetes/news/20050105/many-insulin-users-dont-use-prescribed-dose</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000efe9"><link_title>Insulin Therapy for Early Type 2 Diabetes?</link_title><friendly_url>http://www.webmd.com/diabetes/news/20030821/insulin-for-early-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/digestive-disorders/picture-of-the-stomach" onclick="return sl(this,'','lln-tdrelcon_1');">The Stomach (Human Anatomy): Picture, Function, Definition, Conditions, and More</a></li>
+      <li><a href="http://www.webmd.com/diabetes/peripheral-neuropathy-8/slideshow-managing-diabetes-with-exercise" onclick="return sl(this,'','lln-tdrelcon_2');">Slideshow: Diabetes and Exercise</a></li>
+      <li><a href="http://answers.webmd.com/answers/1199854/what-are-the-symptoms-of-gastroparesis" onclick="return sl(this,'','lln-tdrelcon_3');">What are the symptoms of gastroparesis?</a></li>
+      <li><a href="http://www.webmd.com/digestive-disorders/digestive-disorders-gastroparesis" onclick="return sl(this,'','lln-tdrelcon_4');">Understanding Gastroparesis</a></li>
+      <li><a href="http://www.webmd.com/diabetes/diabetic-eye-disease" onclick="return sl(this,'','lln-tdrelcon_5');">Diabetic Eye Disease</a></li>
+      <li><a href="http://www.webmd.com/diabetes/gastroparesis-and-other-stomach-problems" onclick="return sl(this,'','lln-tdrelcon_6');">Gastroparesis and Diabetes</a></li>
+      <li><a href="http://www.webmd.com/diabetes/tc/gastroparesis-topic-overview" onclick="return sl(this,'','lln-tdrelcon_7');">Gastroparesis-Topic Overview</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/digestive-disorders/gastroparesis-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Gastroparesis Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

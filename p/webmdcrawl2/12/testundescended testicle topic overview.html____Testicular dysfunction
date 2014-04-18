@@ -1,0 +1,526 @@
+<title>Undescended Testicle-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Essentials for Baby</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0002" class="type_ss" onclick="return sl(this,'','tools-res_1');">Fungal Infections in Babies<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/answers-health/answers-baby-sleep-habits" onclick="return sl(this,'','tools-res_2');">Helping Baby Sleep </a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parenting/baby/features/6-serious-symptoms-in-babies-never-to-ignore" onclick="return sl(this,'','tools-res_3');">6 Serious Baby Symptoms</a></li>
+      <li id="x59"><a href="http://www.webmd.com/parenting/baby/video/introducing-new-foods-to-baby" class="type_vid" onclick="return sl(this,'','tools-res_4');">Baby Food Options<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/eye-health/eye-vision-tv/default.htm?vid=vd-3007-cntv-ed-2002" class="type_vid" onclick="return sl(this,'','tools-res_5');">Your Baby's Vision<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-cry-to-sleep" onclick="return sl(this,'','tools-res_6');">Should Baby 'Cry It Out'?</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e67f05"><metadata_section><i_chronicle_id>091e9c5e807f106b</i_chronicle_id><r_object_id>091e9c5e80e67f05</r_object_id><title>Topic Overview</title><object_name>undescended_testicle-topic_overview_special_rt1113.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e67f05</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_rt1113</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Undescended Testicle-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is an undescended testicle? As a baby boy grows inside his mother,he develops testicles.  Early in his development,his testicles are in his belly.  Normally,before he is born,his testicles move down into his scrotum,the sac that hangs below the penis.  When one testicle does not move into the scrotum as it should,the baby has an undescended testicle.  In rare cases,both testicles are ...</wbmd_desc_meta><wbmd_orig_pub_dt>12/28/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is an undescended testicle? As a baby boy grows inside his mother,he develops testicles.  Early in his development,his testicles are in his belly.  Normally,before he is born,his testicles move down into his scrotum,the sac that hangs below the penis.  When one testicle does not move into the scrotum as it should,the baby has an undescended testicle.  In rare cases,both testicles are ...</wbmd_desc_user><wbmd_lk_ttl>Undescended Testicle-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>absent testicle,absent testicles,anorchidism,cryptorchidism,ectopic testicle,infant testicle problems,infant testicular disorder,male genital organs,male genitalia,male genitals,missing testicle,missing testicles,one testicle,orchiopexy,retractile testicle,single testicle,surgery for undescended testicle,undescended testicle,undescended testicle release,undescended testicle surgery</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.11</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e67f05</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3545" wbmd_disp_nm="Parenting - Newborn &amp; Infant"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1025" wbmd_disp_nm="Children"></wbmd_c_channel_id><wbmd_c_frnd_nm>Undescended-Testicle-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is an undescended testicle?</section_header><section_type>SpecialSection</section_type><section_text><p>As a baby boy
+			 grows inside his mother, he develops
+			 <a chronic_id="091e9c5e8001b0af" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/testicles_definition_stt11336.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/testicles_definition_stt11336.xml">testicles</a>. Early in his development, his testicles are
+			 in his belly. Normally, before he is born, his testicles move down into his
+			 <a chronic_id="091e9c5e8001b21b" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/scrotum_definition_sts14273.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/scrotum_definition_sts14273.xml">scrotum</a>, the sac that hangs below the penis. When one
+			 testicle does not move into the scrotum as it should, the baby has an
+			 <a chronic_id="091e9c5e8001eb1b" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/undescended_testicle_multimedia_zm2279.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/undescended_testicle_multimedia_zm2279.xml">undescended testicle</a><a chronic_id="091e9c5e8001eb1b" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/undescended_testicle_multimedia_zm2279.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/undescended_testicle_multimedia_zm2279.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>. In rare cases, both testicles
+			 are undescended.</p><p> It is most common in baby boys who
+			 were born before their due date or who were very small at birth.</p><p>Doctors don't really know what causes an undescended testicle. This common condition runs in some families (can be
+			 inherited).</p><p>Most of the time, the testicle descends (drops) on
+			 its own by the time the baby is 3 months old. If your baby's testicle hasn't dropped by the time he is 6 months of age, your doctor may suggest
+			 treatment. </p></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p>An undescended
+			 testicle doesn't cause pain or other symptoms. The scrotum may look a little
+			 smoother or less developed on one side, or the side without a testicle may look
+			 smaller and flatter. You can't feel the testicle in the scrotum on the side where it hasn't descended. </p></section_text></section_group><section_group><section_header>How is an undescended testicle diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>At
+			 newborn and well-baby visits, your doctor will check your baby's scrotum.</p><ul><li>If the testicle can be felt but it is not in
+				the scrotum, the doctor will probably want to check your baby again at 3 to 6
+				months of age. By this time, the testicle may have moved into place on its own.
+				</li><li>Sometimes the doctor can't feel the testicle at all. It could
+				still be in the baby's belly, it could be too small to feel, or it could be
+				absent. The doctor may recommend a type of
+				surgery called
+				<a chronic_id="091e9c5e8001b124" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/laparoscopy_definition_stl158061.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/laparoscopy_definition_stl158061.xml">laparoscopy</a> to see if he or she can find the testicle.
+				Laparoscopy requires only a small cut below the belly button, which heals
+				quickly. </li><li>If both testicles are undescended and can't be felt in the
+				groin, the doctor will do a blood hormone test to find out if the testicles are
+				absent. This means having no testicles at all. It is very rare to have two absent testicles.</li></ul><p>Some other conditions are closely related to undescended testicles, such as an ectopic or retractile testicle. In both of these conditions, the testicle is in an abnormal position in the groin or scrotum.  Your
+			 doctor will take care to make the correct diagnosis so your child can get the
+			 right treatment. </p></section_text></section_group></page><page><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>Usually doctors recommend a
+			 <a chronic_id="091e9c5e8001b359" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/watchful_waiting_definition_d22520553.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/watchful_waiting_definition_d22520553.xml">wait-and-see</a> approach for newborns. If the testicle
+			 hasn't dropped on its own within 6 months, your doctor may
+			 recommend surgery (orchiopexy or orchidopexy).  Surgery is done when the baby is 9 to
+			 15 months old. It is safe and effective and has few risks.  Most babies recover quickly.</p><p>When babies have a testicle that can't be felt, doctors may do a different surgery that needs only a small
+			 cut (laparoscopy).</p><p>Another treatment is hormone therapy. It may cause the testicle to drop down into the scrotum. If it works, surgery isn't needed. But it doesn't always work, and it may cause side effects.</p></section_text></section_group><section_group><section_header>Why is it important to treat an undescended testicle?</section_header><section_type>SpecialSection</section_type><section_text><p>Treatment is important, because having an undescended testicle increases
+			 the risk of:</p><ul><li><a chronic_id="091e9c5e8001b0fb" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/infertility_definition_sti150787.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/infertility_definition_sti150787.xml">Infertility</a>.
+				Damage to a testicle's sperm-making ability can begin as early as 12 months of age. That's why many
+				doctors advise treating an undescended testicle by the time a baby is 1 year
+				old and no later than age 2. Treatment helps lower the chance of infertility.</li><li><a chronic_id="091e9c5e8001b416" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/testicular_cancer_definition_zr1067.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/testicular_cancer_definition_zr1067.xml">Cancer of the testicles</a>. Men who were born with undescended testicles have a higher rate of testicular cancer than other men. But this cancer is rare. It can be cured if found early. If you are a young man who was born with an undescended testicle, talk with your
+				doctor about what you should do. </li></ul></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/parenting/baby/tc/undescended-testicle-topic-overview" owner="false"><breadcrumb><bread piece="Health &amp; Parenting Center" prefix="www" friendlyurl="/parenting/default.htm"></bread><bread piece="Health &amp; Baby Center" prefix="www" friendlyurl="/parenting/baby/default.htm"></bread><bread piece="Health &amp; Baby Related Topics" prefix="www" friendlyurl="/parenting/baby/tc/default.htm"></bread></breadcrumb><centers><Topic id="2790" name="tmg" chronicid="091e9c5e807f106b" prefix="www" friendlyurl="/parenting/baby/tc/undescended-testicle-topic-overview" type="Topic">Undescended Testicle</Topic><Health id="2786" name="health center" chronicid="091e9c5e80c3c634" prefix="www" friendlyurl="/parenting/baby/default.htm" type="">Baby Center</Health><Super id="1190" name="super center" chronicid="091e9c5e80c3d141" prefix="www" friendlyurl="/parenting/default.htm" type="">Health &amp; Parenting</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/undescended-testicle-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e807f106b" prefix="www" friendlyurl="/a-to-z-guides/tc/undescended-testicle-topic-overview" type="Topic">Undescended Testicle</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001b0af" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/testicles_definition_stt11336.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/testicles"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/testicles"></target></object><object chronic_id="091e9c5e8001b21b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/scrotum_definition_sts14273.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/scrotum"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/scrotum"></target></object><object chronic_id="091e9c5e8001eb1b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/undescended_testicle_multimedia_zm2279.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/undescended-testicles"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/undescended-testicles"></target></object><object chronic_id="091e9c5e8001b124" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/laparoscopy_definition_stl158061.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/laparoscopy"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/laparoscopy"></target></object><object chronic_id="091e9c5e8001b359" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/watchful_waiting_definition_d22520553.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/watchful-waiting-surveillance"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/watchful-waiting-surveillance"></target></object><object chronic_id="091e9c5e8001b0fb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/infertility_definition_sti150787.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/infertility"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/infertility"></target></object><object chronic_id="091e9c5e8001b416" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/testicular_cancer_definition_zr1067.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/testicular-cancer"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/testicular-cancer"></target></object><object chronic_id="091e9c5e807f106b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-topic_overview_special_rt1113.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/undescended-testicle-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/undescended-testicle-topic-overview"></target></object><object chronic_id="091e9c5e807f106c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-frequently_asked_questions_special_abk4531.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/undescended-testicle-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/undescended-testicle-frequently-asked-questions"></target></object><object chronic_id="091e9c5e807f106d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-other_places_to_get_help_special_rt1112-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/undescended-testicle-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/undescended-testicle-other-places-to-get-help"></target></object><object chronic_id="091e9c5e807f106e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-related_information_special_rt1112-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/undescended-testicle-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/undescended-testicle-related-information"></target></object><object chronic_id="091e9c5e807f106f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-references_special_rt1112-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/undescended-testicle-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/undescended-testicle-references"></target></object><object chronic_id="091e9c5e807f1070" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-credits_special_rt1112-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/undescended-testicle-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/undescended-testicle-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e807f1622" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/undescended_testicle_special_rt1112.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e807f106b" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-topic_overview_special_rt1113.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e807f106c" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-frequently_asked_questions_special_abk4531.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e807f106d" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-other_places_to_get_help_special_rt1112-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e807f106e" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-related_information_special_rt1112-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e807f106f" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-references_special_rt1112-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e807f1070" path="/webmd/consumer_assets/controlled_content/healthwise/special/undescended_testicle-credits_special_rt1112-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Undescended Testicle</title><dynamic_objects><callout_title>Recommended Related to Children</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e803ab48e"><metadata_section><i_chronicle_id>091e9c5e800ec00b</i_chronicle_id><title>Your Child's Nutrition: The Power of Parents</title><wbmd_c_art_thmbnl directive="imageurl" chronic_id="091e9c5e800be2ac" path="/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/Features/food/food_kidwithberries.jpg" object_type="wbmd_cons_img"></wbmd_c_art_thmbnl></metadata_section><section_text><p>Mom has plenty on her plate these days, including the high-ranking job as
+senior manager of her children's nutrition.
+In most families, "mom buys the food that's in the house. Mom puts food
+on the table. Mom has the pivotal role in what the kids eat," says Marilyn
+Tanner-Blasier, RD, LD, a spokeswoman for the American Dietetic
+Association.
+Dads influence their child's nutrition, too, and it's not just what's
+cooking in the kitchen. Both parents set the pattern for the family's
+lifestyle....</p></section_text><link siteid="3" prefix="www" friendlyurl="/children/features/your-childs-nutrition-power-parents"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Undescended Testicle - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>How is it treated?</h3>
+      <p>Usually doctors recommend a <a href="http://www.webmd.com/hw-popup/watchful-waiting-surveillance" onclick="return sl(this,'hw','embd-lnk');">wait-and-see</a> approach for newborns. If the testicle hasn't dropped on its own within 6 months, your doctor may recommend surgery (orchiopexy or orchidopexy). Surgery is done when the baby is 9 to 15 months old. It is safe and effective and has few risks. Most babies recover quickly.</p>
+      <p>When babies have a testicle that can't be felt, doctors may do a different surgery that needs only a small cut (laparoscopy).</p>
+      <p>Another treatment is hormone therapy. It may cause the testicle to drop down into the scrotum. If it works, surgery isn't needed. But it doesn't always work, and it may cause side effects.</p>
+      <h3>Why is it important to treat an undescended testicle?</h3>
+      <p>Treatment is important, because having an undescended testicle increases the risk of:</p>
+      <ul>
+       <li><a href="http://www.webmd.com/hw-popup/infertility" onclick="return sl(this,'hw','embd-lnk');">Infertility</a>. Damage to a testicle's sperm-making ability can begin as early as 12 months of age. That's why many doctors advise treating an undescended testicle by the time a baby is 1 year old and no later than age 2. Treatment helps lower the chance of infertility.</li>
+       <li><a href="http://www.webmd.com/hw-popup/testicular-cancer" onclick="return sl(this,'hw','embd-lnk');">Cancer of the testicles</a>. Men who were born with undescended testicles have a higher rate of testicular cancer than other men. But this cancer is rare. It can be cured if found early. If you are a young man who was born with an undescended testicle, talk with your doctor about what you should do. </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/parenting/baby/tc/undescended-testicle-topic-overview">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/parenting/baby/tc/undescended-testicle-topic-overview">1</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">2</span>
+      <style type="text/css">
+            .pagination_fmt .center_fmt { width: 375px !important;}
+            </style>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/parenting/baby/tc/undescended-testicle-topic-overview">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/parenting/baby/tc/undescended-testicle-topic-overview">1</a><span class="pipe_fmt">|</span><span class="current_fmt">2</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/parenting/baby/tc/undescended-testicle-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/parenting/baby/tc/undescended-testicle-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/parenting/baby/tc/undescended-testicle-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/parenting/baby/tc/undescended-testicle-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/parenting/baby/tc/undescended-testicle-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/parenting/baby/tc/undescended-testicle-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: December 28, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/parenting/baby/tc/undescended-testicle-topic-overview">Topic Overview</option><option value="http://www.webmd.com/parenting/baby/tc/undescended-testicle-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/parenting/baby/tc/undescended-testicle-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/parenting/baby/tc/undescended-testicle-related-information">Related Information</option><option value="http://www.webmd.com/parenting/baby/tc/undescended-testicle-references">References</option><option value="http://www.webmd.com/parenting/baby/tc/undescended-testicle-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Undescended Testicle Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/undescended-testicle-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/undescended-testicle-frequently-asked-questions" onclick="return sl(this,'','topicNav_2');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/undescended-testicle-other-places-to-get-help" onclick="return sl(this,'','topicNav_3');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/undescended-testicle-related-information" onclick="return sl(this,'','topicNav_4');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/undescended-testicle-references" onclick="return sl(this,'','topicNav_5');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/undescended-testicle-credits" onclick="return sl(this,'','topicNav_6');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=861591492&amp;tile=160564352&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2786&amp;scent=1190&amp;pos=5000&amp;xpg=3545&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fparenting%2fbaby%2ftc%2fundescended-testicle-topic-overview&amp;artid=091e9c5e807f106b&amp;inst=0&amp;leaf=2790&amp;cc=16&amp;tmg=1&amp;bc=_age11_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=861591492&amp;amp;tile=160564352&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2786&amp;amp;scent=1190&amp;amp;pos=5000&amp;amp;xpg=3545&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fparenting%2fbaby%2ftc%2fundescended-testicle-topic-overview&amp;amp;artid=091e9c5e807f106b&amp;amp;inst=0&amp;amp;leaf=2790&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age11_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3545";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=861591492&amp;tile=160564352&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2786&amp;scent=1190&amp;pos=5001&amp;xpg=3545&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fparenting%2fbaby%2ftc%2fundescended-testicle-topic-overview&amp;artid=091e9c5e807f106b&amp;inst=0&amp;leaf=2790&amp;cc=16&amp;tmg=1&amp;bc=_age11_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=861591492&amp;amp;tile=160564352&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2786&amp;amp;scent=1190&amp;amp;pos=5001&amp;amp;xpg=3545&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fparenting%2fbaby%2ftc%2fundescended-testicle-topic-overview&amp;amp;artid=091e9c5e807f106b&amp;amp;inst=0&amp;amp;leaf=2790&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age11_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3545";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

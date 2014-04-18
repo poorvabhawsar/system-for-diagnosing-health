@@ -1,0 +1,350 @@
+<title>Epilepsy: Symptoms &amp; Types</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/epilepsy/guide/types-of-seizures-their-symptoms" onclick="return sl(this,'','lln-toolsres_1');">6 Most Common Types of Seizures</a></li>
+      <li id="x57"><a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','lln-toolsres_2');">Epilepsy Medications</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/epilepsy/guide/epilepsy-seizure-symptoms" onclick="return sl(this,'','lln-toolsres_3');">Symptoms of Epilepsy</a></li>
+      <li id="x59"><a href="http://www.webmd.com/epilepsy/guide/your-changing-hormones" onclick="return sl(this,'','lln-toolsres_4');">Hormones and Epilepsy</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/epilepsy/guide/diagnosing-epilepsy" onclick="return sl(this,'','lln-toolsres_5');">Tests for Epilepsy</a></li>
+      <li id="x61"><a href="http://www.webmd.com/epilepsy/guide/ketogenic-diet" onclick="return sl(this,'','lln-toolsres_6');">Ketogenic Diet and Epilepsy </a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <h2>Symptoms &amp; Types</h2> 
+     <div class="dotted_footer_fmt"> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <p>To understand epilepsy and seizures, familiarize yourself with the major types as well as epilepsy signs and symptoms. We’ve got basic information.</p> 
+     <h2>Symptoms</h2> 
+     <div class="chapterList_fmt"> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/epilepsy-seizure-symptoms" onclick="return sl(this,'','dyn-gdchptrart_1');">Epilepsy Seizure Symptoms</a> 
+      </div> 
+      <p>Learn the warning signs that someone is having a seizure.</p> 
+     </div> 
+     <h2>Types</h2> 
+     <div class="chapterList_fmt"> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/types-epilepsy" onclick="return sl(this,'','dyn-gdchptrart_1');">Types of Epilepsy</a> 
+      </div> 
+      <p>There are several types of epilepsy, each with different causes, symptoms and treatments. Learn about idiopathic epilepsy, symptomatic epilepsy, and other types.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/types-of-seizures-their-symptoms" onclick="return sl(this,'','dyn-gdchptrart_2');">Types of Seizures</a> 
+      </div> 
+      <p>Six types of seizures are most common. Learn the symptoms of myoclonic seizures.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/photosensitive-epilepsy-symptoms-causes-treatment" onclick="return sl(this,'','dyn-gdchptrart_3');">Photosensitive Epilepsy</a> 
+      </div> 
+      <p>Learn what photosensitive epilepsy is and how it's treated.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/what-is-benign-rolandic-epilepsy" onclick="return sl(this,'','dyn-gdchptrart_4');">Benign Rolandic Epilepsy</a> 
+      </div> 
+      <p>Benign rolandic epilepsy is one form of epilepsy. With this condition, seizures affect the face and sometimes the body.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/what-is-juvenile-myoclonic-epilepsy" onclick="return sl(this,'','dyn-gdchptrart_5');">Juvenile Myoclonic Epilepsy</a> 
+      </div> 
+      <p>Juvenile myoclonic epilepsy is among the most common forms of epilepsy. One of every 14 people with epilepsy have juvenile myoclonic epilepsy.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/abdominal-epilepsy-in-children-and-adults" onclick="return sl(this,'','dyn-gdchptrart_6');">Abdominal Epilepsy</a> 
+      </div> 
+      <p>Abdominal epilepsy is an exceptionally rare syndrome of epilepsy that's more likely to occur in children. With abdominal epilepsy, seizure activity causes abdominal symptoms.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/understanding-absence-seizure-basics" onclick="return sl(this,'','dyn-gdchptrart_7');">Absence Seizures</a> 
+      </div> 
+      <p>Affecting about two of every 1,000 people, absence (formerly called petit mal) seizures are caused by abnormal and intense electrical activity in the brain.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/understanding-temporal-lobe-seizure-basics" onclick="return sl(this,'','dyn-gdchptrart_8');">Temporal Lobe Seizures</a> 
+      </div> 
+      <p>Temporal lobe, or psychomotor, seizures are caused by abnormal electrical activity in an area of the brain known as the temporal lobe. This abnormal activity results in temporary changes in movement, sensation, or autonomic function (such as heart rate and salivation).</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/understanding-temporal-lobe-seizure-basics" onclick="return sl(this,'','dyn-gdchptrart_9');">Temporal Lobe Seizures</a> 
+      </div> 
+      <p>Learn what photosensitive epilepsy is and how it's treated.</p> 
+     </div> 
+     <h2>Epilepsy in Women</h2> 
+     <div class="chapterList_fmt"> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/women-epilepsy-overview" onclick="return sl(this,'','dyn-gdchptrart_1');">Epilepsy and Women</a> 
+      </div> 
+      <p>More than one million women of child-bearing age in the U.S. have a seizure disorder. Not only do they have to cope with seizures, they must also deal with the impact the disorder can have on their reproductive health.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/women-pregnancy-epilepsy" onclick="return sl(this,'','dyn-gdchptrart_2');">Women, Pregnancy, and Epilepsy</a> 
+      </div> 
+      <p>Fortunately, most women with epilepsy give birth to normal, healthy babies, if you take precautions, your chance of having a healthy child is greater than 90%.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/birth-control-women-epilepsy" onclick="return sl(this,'','dyn-gdchptrart_3');">Birth Control for Women With Epilepsy</a> 
+      </div> 
+      <p>If you are a woman who has epilepsy, there are some important things you should know before using birth control or planning a pregnancy.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/parenting-concerns-women-epilepsy" onclick="return sl(this,'','dyn-gdchptrart_4');">New Moms With Epilepsy</a> 
+      </div> 
+      <p>Now that you've had your baby, you probably have a number of concerns and questions. And you may or may not have to make some lifestyle changes to keep your baby safe and healthy.</p> 
+     </div> 
+     <h2>Epilepsy in Children and Teens</h2> 
+     <div class="chapterList_fmt"> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/epilepsy-in-children" onclick="return sl(this,'','dyn-gdchptrart_1');">Epilepsy in Children</a> 
+      </div> 
+      <p>Watching your child have his or her first seizure was probably one of the most frightening moments of your life. Finding out that your child has epilepsy may have been another one.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/epilepsy-teens" onclick="return sl(this,'','dyn-gdchptrart_2');">Epilepsy and Teens</a> 
+      </div> 
+      <p>Teenage years are often a time when standing out is the last thing a child wants. A lot of kids feel painfully awkward, and it can be worse for teenagers with epilepsy.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/caring-child-epilepsy" onclick="return sl(this,'','dyn-gdchptrart_3');">Caring for a Child with Epilepsy</a> 
+      </div> 
+      <p>The challenges of parenting are compounded if your child has epilepsy. Not only do you have the normal concerns about raising a child, but now you have to address emotional concerns both you and your child may have about living with epilepsy.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/childhood-epilepsy-bad-behavior" onclick="return sl(this,'','dyn-gdchptrart_4');">Handling Bad Behavior in a Child With Epilepsy</a> 
+      </div> 
+      <p>Remember, children with epilepsy should be treated just like any other child whenever possible. Just as kids with epilepsy can go to school, play sports, and go on dates, they can also get yelled at by their parents when they step out of line.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/children-school" onclick="return sl(this,'','dyn-gdchptrart_5');">Epilepsy and Your Child's School</a> 
+      </div> 
+      <p>The best way to prevent misunderstandings about epilepsy at school is to step in early. At the beginning of the year, go talk to your child's teacher and school nurse.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/epilepsy/guide/children-sports-safety" onclick="return sl(this,'','dyn-gdchptrart_6');">Your Child, Sports, and Epilepsy</a> 
+      </div> 
+      <p>Some children with epilepsy worry that they won't be able to play sports. A lot of parents have the mistaken impression that sports are too dangerous.</p> 
+     </div> 
+     <div id="remoteAd_rdr"> 
+      <div class="centerAd_r1_rdr"> 
+       <div class="centerAd_BG_fmt"> 
+        <div class="conta" style="color:#737373; clear:both; display:none;">
+         Continue reading below...
+        </div> 
+        <div class="remoteAd_top_fmt"> 
+        </div> 
+        <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+         <div class="ad_placeholder"> 
+         </div> 
+        </div> 
+        <div class="remoteAd_bottom_fmt"> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="moduleSpacer_rdr"> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1137394993&tile=464790346&tug=&pug=__&site=2&affiliate=20&hcent=927&scent=740&pos=113&xpg=1812&sec=&amp;au1=1&au2=1&uri=%2fepilepsy%2fguide%2fepilepsy-symptoms-types&artid=091e9c5e80016dbe&inst=0&amp;leaf=1126&segm=0&cc=97&tmg=3&bc=__&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1137394993',
+                    tile:'464790346',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1812";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1137394993&amp;tile=464790346&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=927&amp;scent=740&amp;pos=5001&amp;xpg=1812&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fepilepsy%2fguide%2fepilepsy-symptoms-types&amp;artid=091e9c5e80016dbe&amp;inst=0&amp;leaf=1126&amp;cc=97&amp;tmg=3&amp;bc=__&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1137394993&amp;amp;tile=464790346&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=927&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=1812&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fepilepsy%2fguide%2fepilepsy-symptoms-types&amp;amp;artid=091e9c5e80016dbe&amp;amp;inst=0&amp;amp;leaf=1126&amp;amp;cc=97&amp;amp;tmg=3&amp;amp;bc=__&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1812";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,613 @@
+<title>Labyrinthitis and Vestibular Neuritis-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/alzheimers/ss/slideshow-alzheimers-overview" class="type_ss" onclick="return sl(this,'','tools-res_1');">Caregiver's Guide to Alzheimer's<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/stroke/ss/slideshow-stroke-overview" class="type_ss" onclick="return sl(this,'','tools-res_2');">Stroke Explained in Photos<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parkinsons-disease/ss/slideshow-parkinsons-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">Parkinson's Disease Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/brain/ss/slideshow-concussions-brain-injuries" class="type_ss" onclick="return sl(this,'','tools-res_4');">What Concussions and Brain Injuries Look Like<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/default.htm" onclick="return sl(this,'','tools-res_5');">The Secret to Managing Your MS</a></li>
+      <li id="x61"><a href="http://www.webmd.com/brain/video/skull-implant" class="type_vid" onclick="return sl(this,'','tools-res_6');">Implants Aid Skull Healing<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e96e05" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e807f117f</i_chronicle_id><r_object_id>091e9c5e80e96e05</r_object_id><title>Topic Overview</title><object_name>labyrinthitis_and_vestibular_neuritis-topic_overview_special_hw265597.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e96e05</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_hw265597</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Labyrinthitis and Vestibular Neuritis-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is labyrinthitis? Labyrinthitis (say "lab-uh-rin-THY-tus") is a problem deep inside the inner ear.  It happens when the labyrinth,a part of the inner ear that helps control your balance,gets swollen and inflamed.  The inflammation may cause sudden vertigo.  This makes you feel like you're spinning or whirling.  Labyrinthitis may also cause temporary hearing loss or a ringing sound in your ...</wbmd_desc_meta><wbmd_orig_pub_dt>10/03/2011 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is labyrinthitis? Labyrinthitis (say "lab-uh-rin-THY-tus") is a problem deep inside the inner ear.  It happens when the labyrinth,a part of the inner ear that helps control your balance,gets swollen and inflamed.  The inflammation may cause sudden vertigo.  This makes you feel like you're spinning or whirling.  Labyrinthitis may also cause temporary hearing loss or a ringing sound in your ...</wbmd_desc_user><wbmd_lk_ttl>Labyrinthitis and Vestibular Neuritis-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>labyrinthitis,ringing in the ears,ringing in the ears (tinnitus),spinning feeling,tinnitus,vertigo,vértigo,vestibular neuritis,vestibular neuronitis</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>R52</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e96e05</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1830" wbmd_disp_nm="Ear Disorders"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1037" wbmd_disp_nm="Ear Disorders"></wbmd_c_channel_id><wbmd_c_frnd_nm>Labyrinthitis-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is labyrinthitis?</section_header><section_type>SpecialSection</section_type><section_text><p><a chronic_id="091e9c5e8001afb0" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/labyrinthitis_definition_stl158116.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/labyrinthitis_definition_stl158116.xml">Labyrinthitis</a>
+			 (say "lab-uh-rin-THY-tus") is a problem deep inside the inner ear. It happens
+			 when the labyrinth, a part of the inner ear that helps control your balance,
+			 gets swollen and
+			 <a chronic_id="091e9c5e8001b4ec" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/inflammation_definition_sti150782.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/inflammation_definition_sti150782.xml">inflamed</a>. </p><p>The inflammation may cause
+			 sudden
+			 <a chronic_id="091e9c5e8001b56f" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/vertigo_definition_stv5384.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/vertigo_definition_stv5384.xml">vertigo</a>. This makes you feel like you're spinning or
+			 whirling. <a chronic_id="091e9c5e807f117f" crossLinkId="48435" directive="friendlyurl" externalId="091e9c5e807f117f" href="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-topic_overview_special_hw265597.xml" keywordId="72816" keywordSetId="32867" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-topic_overview_special_hw265597.xml">Labyrinthitis</a> may also cause temporary <a chronic_id="091e9c5e8062f329" crossLinkId="1511625" directive="friendlyurl" externalId="091e9c5e8062f329" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/ear_nose_and_throat/miscellaneous/hearing_loss.xml" keywordId="7528" keywordSetId="1296" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/ear_nose_and_throat/miscellaneous/hearing_loss.xml">hearing loss</a> or a ringing
+			 sound in your ears.</p><p>Your doctor may also call this <a chronic_id="091e9c5e8001b3b2" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/vestibular_neuritis_definition_stv5313.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/vestibular_neuritis_definition_stv5313.xml">vestibular neuritis</a>. The two problems have the same symptoms and are treated the same way. </p><p>See pictures of the inner ear showing the
+			 <a chronic_id="091e9c5e8001eb70" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/labyrinthitis_inflammation_of_the_inner_ear_multimedia_tp12412.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/labyrinthitis_inflammation_of_the_inner_ear_multimedia_tp12412.xml">labyrinth</a><a chronic_id="091e9c5e8001eb70" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/labyrinthitis_inflammation_of_the_inner_ear_multimedia_tp12412.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/labyrinthitis_inflammation_of_the_inner_ear_multimedia_tp12412.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>  and an inflamed <a chronic_id="091e9c5e8001e8de" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/vestibular_neuritis_multimedia_tp13199.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/vestibular_neuritis_multimedia_tp13199.xml">vestibular nerve</a><a chronic_id="091e9c5e8001e8de" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/vestibular_neuritis_multimedia_tp13199.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/vestibular_neuritis_multimedia_tp13199.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>.</p></section_text></section_group><section_group><section_header>What causes labyrinthitis?</section_header><section_type>SpecialSection</section_type><section_text><p>The cause of
+			 labyrinthitis is not clear. Labyrinthitis can happen after a
+			 <a chronic_id="091e9c5e8001b24a" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/viral_infection_definition_stv15687.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/viral_infection_definition_stv15687.xml">viral infection</a> or, more rarely, after an infection
+			 caused by
+			 <a chronic_id="091e9c5e8001b083" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/bacterial_infection_definition_stb117002.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/bacterial_infection_definition_stb117002.xml">bacteria</a>. It is often triggered by an
+			 <a chronic_id="091e9c5e8001b2b7" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/upper_respiratory_tract_infection_uri_definition_ug2381.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/upper_respiratory_tract_infection_uri_definition_ug2381.xml">upper respiratory infection</a>, such as the <a chronic_id="091e9c5e80022f49" crossLinkId="521" directive="friendlyurl" externalId="091e9c5e80022f49" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cold and Flu/page_Cold and Flu Health Center_091e9c5e80022f49.xml" keywordId="7425" keywordSetId="1218" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cold and Flu/page_Cold and Flu Health Center_091e9c5e80022f49.xml">flu</a> or a
+			 cold. Less often, it may start after a middle <a chronic_id="" crossLinkId="31233" directive="friendlyurl" externalId="12DEF215409640E1" href="http://www.webmd.com/cold-and-flu/ear-infection/" keywordId="34798" keywordSetId="1122" object_type="" path="/webmdhttp://www.webmd.com/cold-and-flu/ear-infection/">ear infection</a>.</p><p>The infection inflames the vestibular nerve. This causes the nerve to send incorrect signals to the <a chronic_id="091e9c5e8041fa4e" crossLinkId="73853" directive="friendlyurl" externalId="091e9c5e8041fa4e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml" keywordId="60487" keywordSetId="26677" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml">brain</a> that the body is moving. But your
+			 other senses (such as <a chronic_id="091e9c5e800302ce" crossLinkId="166" directive="friendlyurl" externalId="091e9c5e800302ce" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml" keywordId="35136" keywordSetId="1184" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml">vision</a>) don't detect the same movement. The confusion in
+			 signals can make you feel that the room is spinning or that you have lost your
+			 balance (vertigo).</p></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p> The main symptom of
+			 labyrinthitis is vertigo. Vertigo is not the same as feeling
+			 <a chronic_id="091e9c5e8001af2d" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/dizziness_definition_std120899.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/dizziness_definition_std120899.xml">dizzy</a>. Dizziness means that you feel unsteady or
+			 lightheaded. But vertigo makes you feel like you're spinning or whirling.
+			 It may make it hard for you to walk. Symptoms of vertigo and dizziness may be caused by many problems other than
+			 labyrinthitis. </p><p>With labyrinthitis, the vertigo begins without
+			 warning. It often starts 1 to 2 weeks after you've had the flu or a cold. It
+			 may be severe enough to make you vomit or make you feel sick to your <a chronic_id="091e9c5e8035ee80" crossLinkId="70401" directive="friendlyurl" externalId="091e9c5e8035ee80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_stomach.xml" keywordId="58694" keywordSetId="25972" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_stomach.xml">stomach</a>. Vertigo slowly goes away over a few days to weeks. But for a month or longer,
+			 you may still get <a chronic_id="091e9c5e80b1d2c0" crossLinkId="1560214" directive="friendlyurl" externalId="091e9c5e80b1d2c0" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/vertigo.xml" keywordId="72687" keywordSetId="2081" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/vertigo.xml">vertigo symptoms</a> if you suddenly move your head a certain
+			 way. </p><p>Labyrinthitis may also cause hearing loss and a ringing sound
+			 in your ears (<a chronic_id="091e9c5e8001b4c7" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/tinnitus_definition_stt11136.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/tinnitus_definition_stt11136.xml">tinnitus</a>). Most often, these symptoms don't last for
+			 more than a few weeks. </p></section_text></section_group><section_group><section_header>How is labyrinthitis diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>Your doctor can
+			 tell if you have labyrinthitis by doing a <a chronic_id="091e9c5e80377b97" crossLinkId="70371" directive="friendlyurl" externalId="091e9c5e80377b97" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml" keywordId="58671" keywordSetId="25958" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml">physical exam</a> and asking about your
+			 symptoms and past health. Your doctor will look for signs of viral
+			 infections that can trigger labyrinthitis.</p><p> If the cause of your
+			 vertigo is not clear, your doctor may do other tests, such as electronystagmography or an <a chronic_id="091e9c5e8001b209" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_imaging_mri_definition_stm159519.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_imaging_mri_definition_stm159519.xml">MRI</a> to rule out other
+			 problems. </p></section_text></section_group><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>Most of the time, labyrinthitis
+			 goes away on its own. This normally takes several weeks. If the cause is a
+			 bacterial infection, your doctor will give you antibiotics. But most cases are
+			 caused by viral infections, which can't be cured with antibiotics. </p><p>Your doctor may prescribe <a chronic_id="091e9c5e8001b4cd" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/corticosteroids_definition_stc123754.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/corticosteroids_definition_stc123754.xml">steroid medicines</a>, which may help you get better sooner. He or she may also give you other medicines, such as antiemetics, <a chronic_id="091e9c5e805034d6" crossLinkId="1505298" directive="friendlyurl" externalId="091e9c5e805034d6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/allergies/miscellaneous/antihistamines_for_allergies.xml" keywordId="31057" keywordSetId="8069" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/allergies/miscellaneous/antihistamines_for_allergies.xml">antihistamines</a>, and sedatives, to help control the <a chronic_id="091e9c5e800079b6" crossLinkId="5629" directive="friendlyurl" externalId="091e9c5e800079b6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml" keywordId="38405" keywordSetId="9410" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml">nausea</a> and vomiting caused by
+			 vertigo. </p><p>Vertigo usually gets better as your body adjusts (<a chronic_id="091e9c5e8001b47b" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/compensation_definition_stc123727.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/compensation_definition_stc123727.xml">compensation</a>). Medicines like antihistamines can help your symptoms, but they may make it take longer for vertigo to go away. It's best to only use medicines when they are needed and for as little time as possible.</p><p>Staying active can help you get better. Check with your doctor about trying balance exercises at home. These include simple head movements and keeping your balance while standing and sitting. They may reduce symptoms of vertigo. </p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/brain/tc/labyrinthitis-topic-overview" owner="false"><breadcrumb><bread piece="Brain &amp; Nervous System Health Center" prefix="www" friendlyurl="/brain/default.htm"></bread><bread piece="Brain &amp; Nervous System Related Topics" prefix="www" friendlyurl="/brain/tc/default.htm"></bread></breadcrumb><centers><Topic id="703" name="tmg" chronicid="091e9c5e807f117f" prefix="www" friendlyurl="/brain/tc/labyrinthitis-topic-overview" type="Topic">Labyrinthitis and Vestibular Neuritis</Topic><Super id="740" name="super center" chronicid="091e9c5e80025343" prefix="www" friendlyurl="/brain/default.htm" type="">Brain and Nervous System</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/labyrinthitis-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e807f117f" prefix="www" friendlyurl="/a-to-z-guides/tc/labyrinthitis-topic-overview" type="Topic">Labyrinthitis and Vestibular Neuritis</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001afb0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/labyrinthitis_definition_stl158116.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/labyrinthitis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/labyrinthitis"></target></object><object chronic_id="091e9c5e8001b4ec" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/inflammation_definition_sti150782.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/inflammation"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/inflammation"></target></object><object chronic_id="091e9c5e8001b56f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/vertigo_definition_stv5384.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/vertigo"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/vertigo"></target></object><object chronic_id="091e9c5e807f117f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-topic_overview_special_hw265597.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/labyrinthitis-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/labyrinthitis-topic-overview"></target></object><object chronic_id="091e9c5e8062f329" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/ear_nose_and_throat/miscellaneous/hearing_loss.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/hearing-loss-causes-symptoms-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/hearing-loss-causes-symptoms-treatment"></target></object><object chronic_id="091e9c5e8001b3b2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/vestibular_neuritis_definition_stv5313.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/vestibular-neuronitis-7266"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/vestibular-neuronitis-7266"></target></object><object chronic_id="091e9c5e8001eb70" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/labyrinthitis_inflammation_of_the_inner_ear_multimedia_tp12412.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/ear-infection/labyrinthitis-inflammation-of-the-inner-ear"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/labyrinthitis-inflammation-of-the-inner-ear"></target></object><object chronic_id="091e9c5e8001e8de" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/vestibular_neuritis_multimedia_tp13199.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/vestibular-neuronitis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/vestibular-neuronitis"></target></object><object chronic_id="091e9c5e8001b24a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/viral_infection_definition_stv15687.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/viral-infection"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/viral-infection"></target></object><object chronic_id="091e9c5e8001b083" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/bacterial_infection_definition_stb117002.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/bacterial-infection"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/bacterial-infection"></target></object><object chronic_id="091e9c5e8001b2b7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/upper_respiratory_tract_infection_uri_definition_ug2381.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/upper-respiratory-tract-infection-uri"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/upper-respiratory-tract-infection-uri"></target></object><object chronic_id="091e9c5e80022f49" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cold and Flu/page_Cold and Flu Health Center_091e9c5e80022f49.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/cold-and-flu/default.htm"></target><target siteid="8" name="" prefix="www" friendlyurl="/cold-and-flu/default.htm" umtchronicleid="091e9c5e8068ab56"></target></object><object chronic_id="091e9c5e8041fa4e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/picture-of-the-brain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-brain"></target></object><object chronic_id="091e9c5e800302ce" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target><target siteid="8" name="" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target></object><object chronic_id="091e9c5e8001af2d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/dizziness_definition_std120899.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/dizziness"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/dizziness"></target></object><object chronic_id="091e9c5e8035ee80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_stomach.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-stomach"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-stomach"></target></object><object chronic_id="091e9c5e80b1d2c0" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/vertigo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/vertigo-symptoms-causes-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/vertigo-symptoms-causes-treatment"></target></object><object chronic_id="091e9c5e8001b4c7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/tinnitus_definition_stt11136.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/tinnitus"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/tinnitus"></target></object><object chronic_id="091e9c5e80377b97" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target></object><object chronic_id="091e9c5e8001b209" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_imaging_mri_definition_stm159519.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/magnetic-resonance-imaging-mri"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/magnetic-resonance-imaging-mri"></target></object><object chronic_id="091e9c5e8001b4cd" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/corticosteroids_definition_stc123754.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/corticosteroids"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/corticosteroids"></target></object><object chronic_id="091e9c5e805034d6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/allergies/miscellaneous/antihistamines_for_allergies.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/allergies/guide/antihistamines-for-allergies"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/allergies/guide/antihistamines-for-allergies"></target></object><object chronic_id="091e9c5e800079b6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-nausea-vomiting"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-nausea-vomiting"></target></object><object chronic_id="091e9c5e8001b47b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/compensation_definition_stc123727.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/compensation"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/compensation"></target></object><object chronic_id="091e9c5e807f117f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-topic_overview_special_hw265597.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/labyrinthitis-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/labyrinthitis-topic-overview"></target></object><object chronic_id="091e9c5e807f1180" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-health_tools_special_hw265594-healthtools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/labyrinthitis-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/labyrinthitis-health-tools"></target></object><object chronic_id="091e9c5e807f1181" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-frequently_asked_questions_special_abk7621.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/labyrinthitis-and-vestibular-neuritis-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/labyrinthitis-and-vestibular-neuritis-frequently-asked-questions"></target></object><object chronic_id="091e9c5e807f1182" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-other_places_to_get_help_special_hw265594-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/labyrinthitis-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/labyrinthitis-other-places-to-get-help"></target></object><object chronic_id="091e9c5e807f1185" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-related_information_special_hw265594-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/labyrinthitis-related-information" status="deleted"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/labyrinthitis-related-information" status="deleted"></target></object><object chronic_id="091e9c5e807f1186" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-references_special_hw265594-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/labyrinthitis-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/labyrinthitis-references"></target></object><object chronic_id="091e9c5e807f1187" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-credits_special_hw265594-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/labyrinthitis-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/labyrinthitis-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e807f15e7" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/labyrinthitis_and_vestibular_neuritis_special_hw265594.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e807f117f" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-topic_overview_special_hw265597.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e807f1180" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-health_tools_special_hw265594-healthtools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e807f1181" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-frequently_asked_questions_special_abk7621.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e807f1182" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-other_places_to_get_help_special_hw265594-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e807f1185" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-related_information_special_hw265594-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e807f1186" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-references_special_hw265594-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e807f1187" path="/webmd/consumer_assets/controlled_content/healthwise/special/labyrinthitis_and_vestibular_neuritis-credits_special_hw265594-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Labyrinthitis and Vestibular Neuritis</title><dynamic_objects><callout_title>Recommended Related to Ear Disorders</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80bd9956"><metadata_section><i_chronicle_id>091e9c5e80bd9956</i_chronicle_id><title>How to Talk With Your Doctor About Tinnitus</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>
+  How to Talk With Your Doctor About Tinnitus
+
+Have you noticed a buzzing, ringing, hissing, or clicking sound that only you can hear? If so, you may have tinnitus. It can be mild or loud, and affect one or both ears.  
+Tinnitus is not a disease. It's a problem in your hearing system. It's usually not a sign of anything serious, though you should see your doctor to get it checked out.
+
+  What Your Doctor Needs to Know About Tinnitus
+
+How tinnitus affects your life is important for diagnosis...</p></section_text><link siteid="3" prefix="www" friendlyurl="/a-to-z-guides/tinnitus-questions"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Labyrinthitis and Vestibular Neuritis - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What is labyrinthitis?</h3>
+      <p><a href="http://www.webmd.com/hw-popup/labyrinthitis" onclick="return sl(this,'hw','embd-lnk');">Labyrinthitis</a> (say &quot;lab-uh-rin-THY-tus&quot;) is a problem deep inside the inner ear. It happens when the labyrinth, a part of the inner ear that helps control your balance, gets swollen and <a href="http://www.webmd.com/hw-popup/inflammation" onclick="return sl(this,'hw','embd-lnk');">inflamed</a>. </p>
+      <p xmlns:xalan="http://xml.apache.org/xalan">The inflammation may cause sudden <a href="http://www.webmd.com/hw-popup/vertigo" onclick="return sl(this,'hw','embd-lnk');">vertigo</a>. This makes you feel like you're spinning or whirling. <a href="http://www.webmd.com/brain/tc/labyrinthitis-topic-overview" onclick="return sl(this,'','embd-lnk');">Labyrinthitis</a> may also cause temporary <a href="http://www.webmd.com/a-to-z-guides/hearing-loss-causes-symptoms-treatment" onclick="return sl(this,'','embd-lnk');">hearing loss</a> or a ringing sound in your ears.</p>
+      <p>Your doctor may also call this <a href="http://www.webmd.com/hw-popup/vestibular-neuronitis-7266" onclick="return sl(this,'hw','embd-lnk');">vestibular neuritis</a>. The two problems have the same symptoms and are treated the same way. </p>
+      <p>See pictures of the inner ear showing the <a href="http://www.webmd.com/cold-and-flu/ear-infection/labyrinthitis-inflammation-of-the-inner-ear" onclick="return sl(this,'','embd-lnk');">labyrinth</a> <a href="http://www.webmd.com/cold-and-flu/ear-infection/labyrinthitis-inflammation-of-the-inner-ear" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a> and an inflamed <a href="http://www.webmd.com/a-to-z-guides/vestibular-neuronitis" onclick="return sl(this,'','embd-lnk');">vestibular nerve</a> <a href="http://www.webmd.com/a-to-z-guides/vestibular-neuronitis" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>.</p>
+      <h3>What causes labyrinthitis?</h3>
+      <p>The cause of labyrinthitis is not clear. Labyrinthitis can happen after a <a href="http://www.webmd.com/hw-popup/viral-infection" onclick="return sl(this,'hw','embd-lnk');">viral infection</a> or, more rarely, after an infection caused by <a href="http://www.webmd.com/hw-popup/bacterial-infection" onclick="return sl(this,'hw','embd-lnk');">bacteria</a>. It is often triggered by an <a href="http://www.webmd.com/hw-popup/upper-respiratory-tract-infection-uri" onclick="return sl(this,'hw','embd-lnk');">upper respiratory infection</a>, such as the <a href="http://www.webmd.com/cold-and-flu/default.htm" onclick="return sl(this,'','embd-lnk');">flu</a> or a cold. Less often, it may start after a middle <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/cold-and-flu/ear-infection/">ear infection</a>.</p>
+      <p>The infection inflames the vestibular nerve. This causes the nerve to send incorrect signals to the <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a> that the body is moving. But your other senses (such as <a href="http://www.webmd.com/eye-health/default.htm" onclick="return sl(this,'','embd-lnk');">vision</a>) don't detect the same movement. The confusion in signals can make you feel that the room is spinning or that you have lost your balance (vertigo).</p>
+      <h3>What are the symptoms?</h3>
+      <p> The main symptom of labyrinthitis is vertigo. Vertigo is not the same as feeling <a href="http://www.webmd.com/hw-popup/dizziness" onclick="return sl(this,'hw','embd-lnk');">dizzy</a>. Dizziness means that you feel unsteady or lightheaded. But vertigo makes you feel like you're spinning or whirling. It may make it hard for you to walk. Symptoms of vertigo and dizziness may be caused by many problems other than labyrinthitis. </p>
+      <p>With labyrinthitis, the vertigo begins without warning. It often starts 1 to 2 weeks after you've had the flu or a cold. It may be severe enough to make you vomit or make you feel sick to your <a href="http://www.webmd.com/digestive-disorders/picture-of-the-stomach" onclick="return sl(this,'','embd-lnk');">stomach</a>. Vertigo slowly goes away over a few days to weeks. But for a month or longer, you may still get <a href="http://www.webmd.com/brain/vertigo-symptoms-causes-treatment" onclick="return sl(this,'','embd-lnk');">vertigo symptoms</a> if you suddenly move your head a certain way. </p>
+      <p>Labyrinthitis may also cause hearing loss and a ringing sound in your ears (<a href="http://www.webmd.com/hw-popup/tinnitus" onclick="return sl(this,'hw','embd-lnk');">tinnitus</a>). Most often, these symptoms don't last for more than a few weeks. </p>
+      <h3>How is labyrinthitis diagnosed?</h3>
+      <p>Your doctor can tell if you have labyrinthitis by doing a <a href="http://www.webmd.com/a-to-z-guides/annual-physical-examinations" onclick="return sl(this,'','embd-lnk');">physical exam</a> and asking about your symptoms and past health. Your doctor will look for signs of viral infections that can trigger labyrinthitis.</p>
+      <p> If the cause of your vertigo is not clear, your doctor may do other tests, such as electronystagmography or an <a href="http://www.webmd.com/hw-popup/magnetic-resonance-imaging-mri" onclick="return sl(this,'hw','embd-lnk');">MRI</a> to rule out other problems. </p>
+      <h3>How is it treated?</h3>
+      <p>Most of the time, labyrinthitis goes away on its own. This normally takes several weeks. If the cause is a bacterial infection, your doctor will give you antibiotics. But most cases are caused by viral infections, which can't be cured with antibiotics. </p>
+      <p>Your doctor may prescribe <a href="http://www.webmd.com/hw-popup/corticosteroids" onclick="return sl(this,'hw','embd-lnk');">steroid medicines</a>, which may help you get better sooner. He or she may also give you other medicines, such as antiemetics, <a href="http://www.webmd.com/allergies/guide/antihistamines-for-allergies" onclick="return sl(this,'','embd-lnk');">antihistamines</a>, and sedatives, to help control the <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting" onclick="return sl(this,'','embd-lnk');">nausea</a> and vomiting caused by vertigo. </p>
+      <p>Vertigo usually gets better as your body adjusts (<a href="http://www.webmd.com/hw-popup/compensation" onclick="return sl(this,'hw','embd-lnk');">compensation</a>). Medicines like antihistamines can help your symptoms, but they may make it take longer for vertigo to go away. It's best to only use medicines when they are needed and for as little time as possible.</p>
+      <p>Staying active can help you get better. Check with your doctor about trying balance exercises at home. These include simple head movements and keeping your balance while standing and sitting. They may reduce symptoms of vertigo. </p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/brain/tc/labyrinthitis-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/brain/tc/labyrinthitis-health-tools'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/brain/tc/labyrinthitis-and-vestibular-neuritis-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/brain/tc/labyrinthitis-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/brain/tc/labyrinthitis-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/brain/tc/labyrinthitis-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/brain/tc/labyrinthitis-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: October 03, 2011
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/brain/tc/labyrinthitis-topic-overview">Topic Overview</option><option value="http://www.webmd.com/brain/tc/labyrinthitis-health-tools">Health Tools</option><option value="http://www.webmd.com/brain/tc/labyrinthitis-and-vestibular-neuritis-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/brain/tc/labyrinthitis-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/brain/tc/labyrinthitis-related-information">Related Information</option><option value="http://www.webmd.com/brain/tc/labyrinthitis-references">References</option><option value="http://www.webmd.com/brain/tc/labyrinthitis-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Labyrinthitis and Vestibular Neuritis Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/brain/tc/labyrinthitis-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/labyrinthitis-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/labyrinthitis-and-vestibular-neuritis-frequently-asked-questions" onclick="return sl(this,'','topicNav_3');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/labyrinthitis-other-places-to-get-help" onclick="return sl(this,'','topicNav_4');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/brain/tc/labyrinthitis-related-information" onclick="return sl(this,'','topicNav_5');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/labyrinthitis-references" onclick="return sl(this,'','topicNav_6');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/labyrinthitis-credits" onclick="return sl(this,'','topicNav_7');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1018"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_ss" href="http://www.webmd.com/a-to-z-guides/dupuytrens-contracture-10/slideshow-treatment" onclick="return sl(this,'','rltd-p-1018_1');">Seizures and Dupuytren's Contracture: What's the Link?<i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/alzheimers/early-warning-signs-when-to-call-the-doctor-about-alzheimers" onclick="return sl(this,'','rltd-p-1018_2');">Early Signs of Alzheimer's</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1018_3');">What Vision Problems Look Like</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/brain/video/brain-injury-rehab" onclick="return sl(this,'','rltd-p-1018_4');">Rehab Programs After Brain Injury</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/multiple-sclerosis/your-best-life-11/ms-symptoms" onclick="return sl(this,'','rltd-p-1018_5');">Treating Relapsing MS</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/brain/video/moyamoya-cerebral-bypass" onclick="return sl(this,'','rltd-p-1018_6');">Cerebral Bypass Surgery</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1018_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1615525981&amp;tile=1095732166&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5000&amp;xpg=1830&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fbrain%2ftc%2flabyrinthitis-topic-overview&amp;artid=091e9c5e807f117f&amp;inst=0&amp;leaf=703&amp;cc=16&amp;tmg=1&amp;bc=_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1615525981&amp;amp;tile=1095732166&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5000&amp;amp;xpg=1830&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fbrain%2ftc%2flabyrinthitis-topic-overview&amp;amp;artid=091e9c5e807f117f&amp;amp;inst=0&amp;amp;leaf=703&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1830";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1615525981&amp;tile=1095732166&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5001&amp;xpg=1830&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fbrain%2ftc%2flabyrinthitis-topic-overview&amp;artid=091e9c5e807f117f&amp;inst=0&amp;leaf=703&amp;cc=16&amp;tmg=1&amp;bc=_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1615525981&amp;amp;tile=1095732166&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=1830&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fbrain%2ftc%2flabyrinthitis-topic-overview&amp;amp;artid=091e9c5e807f117f&amp;amp;inst=0&amp;amp;leaf=703&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1830";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

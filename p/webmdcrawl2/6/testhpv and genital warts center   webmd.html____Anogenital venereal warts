@@ -1,0 +1,364 @@
+<title>HPV and Genital Warts Center - WebMD</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests" onclick="return sl(this,'','prm-mc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/hpv_symptoms_and_tests_ref_guide/493x335_hpv_symptoms_and_tests_ref_guide.jpg" alt="doctor and woman talking" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests" onclick="return sl(this,'','prm-mc_1');">HPV Symptoms and Tests</a> </h2> 
+        <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests" onclick="return sl(this,'','prm-mc_1');">Get the facts.<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-virus-men" data-alt="profile of man" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/hpv_infection_in_men_ref_guide/493x335_hpv_infection_in_men_ref_guide.jpg" onclick="return sl(this,'','prm-mc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-virus-men" onclick="return sl(this,'','prm-mc_2');">HPV &amp; Men</a> </h2> 
+        <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-virus-men" onclick="return sl(this,'','prm-mc_2');">Symptoms and risks.<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/genital-herpes/genital-herpes-risks-quiz" data-alt="couple reclining on beach" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/genital_herpes_rmq/493x335_genital_herpes_rmq.jpg" onclick="return sl(this,'','prm-mc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/genital-herpes/genital-herpes-risks-quiz" onclick="return sl(this,'','prm-mc_3');">Genital Herpes</a> </h2> 
+        <a href="http://www.webmd.com/genital-herpes/genital-herpes-risks-quiz" onclick="return sl(this,'','prm-mc_3');" class="type_quiz">Are you at risk?<i><span class="jawsonly">Quiz</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-mc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-mc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-mc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-mc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-mc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="teaser_fmt"> 
+    <h3>HPV/Genital Warts</h3> 
+    <p>The human papillomavirus virus (HPV) is a collection of viruses that cause warts on the hands, feet, and genitals. Some HPVs are sexually transmitted and also cause cervical cancer. An HPV vaccine may reduce your risk. </p> 
+   </div>
+   <div class="singleDropdown_rdr" id="prm-dd-mc"> 
+    <div class="contentDiv_fmt"> 
+     <label for="guideNavDropdown">Select an Article</label> 
+     <form action="" id="qform1" onsubmit="window.location=guideNavDropdown.options[guideNavDropdown.options.selectedIndex].value; return false;"> 
+      <select name="guideNavDropdown" id="guideNavDropdown" class="listBox_fmt"> <option value="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-virus-information-about-human-papillomavirus">Overview</option> <option value="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests">Symptoms &amp; Tests</option> <option value="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-treatment-is-there-hpv-cure">Treatment</option> <option value="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-vaccines-human-papillomavirus">Vaccines</option> <option value="http://www.webmd.com/sexual-conditions/hpv-genital-warts/cervical-cancer-hpv-what-women-girls-should-know">HPV &amp; Cervical Cancer</option> <option value="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-virus-men">HPV in Men</option> </select> 
+      <input onclick="return sl('','','prm-dd-mc');" type="image" name="goSingle" class="btn" alt="Go to article" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/btn_go.gif" /> 
+     </form> 
+    </div> 
+    <div class="singleDropdown_bottom_fmt"> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="subheaderBar_rdr">
+    Latest Headlines
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainEditorial_rdr"> 
+    <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/news/20140320/hpv-linked-throat-cancer-may-have-telltale-first-symptoms" onclick="return sl(this,'','head-mc_1_1');"> <img class="mainEditorial_photo_fmt" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/healthday/2013/04/dn25022mic_throat&amp;tonsils_anatomy.jpg" border="0" alt="" width="69" /> </a> 
+    <div class="mainEditorial_photo_text_fmt"> 
+     <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/news/20140320/hpv-linked-throat-cancer-may-have-telltale-first-symptoms" onclick="return sl(this,'','head-mc_1_1');">HPV-Linked Throat Cancer May Have Telltale First Symptoms</a> 
+     <br />Signs of potential trouble could be different in people without the virus, study suggests
+    </div> 
+    <p class="mainEditorial_read_link_fmt"> <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/news/20140320/hpv-linked-throat-cancer-may-have-telltale-first-symptoms" onclick="return sl(this,'','head-mc_1_1');"> Read Full Article </a> </p> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainLinks_rdr latestHeadlines_fmt"> 
+    <h4 class="latestHeadlinesTitle_fmt">Top Stories</h4> 
+    <ul> 
+     <li> <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/news/20140115/experimental-drug-shows-promise-for-genital-herpes-treatment" onclick="return sl(this,'','head-mc_1_2');">Experimental Drug Shows Promise for Genital Herpes Treatment</a> </li> 
+     <li> <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/news/20130723/single-men-show-higher-risk-of-cancer-linked-oral-hpv" onclick="return sl(this,'','head-mc_1_3');">Single Men Show Higher Risk of Cancer-Linked Oral HPV</a> </li> 
+     <li> <a href="http://www.webmd.com/parenting/news/20061025/hpv-rotavirus-join-childhood-vaccines" onclick="return sl(this,'','head-mc_2_1');">HPV, Rotavirus Join Childhood Vaccines</a> </li> 
+     <li> <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/news/20060714/thickener-prevent-hpv-infection" onclick="return sl(this,'','head-mc_2_2');">'Thickener' May Prevent HPV Infection</a> </li> 
+     <li> <a href="http://www.webmd.com/parenting/teen-abuse-cough-medicine-9/teen-peer-pressure-raising-peer-pressure-proof-child" onclick="return sl(this,'','head-mc_2_3');">Teen Sex: Help Your Teen Resist Peer Pressure</a> </li> 
+     <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/news-features" onclick="return sl(this,'','head-mc_2_more-articles');">More Articles</a> </li> 
+    </ul> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/aca-state-promo-core.js"></script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aca-state-promo-cw.css" /> 
+   <div class="aca-state-promo-cw"> 
+    <h4>Health Insurance in Your State</h4> 
+    <div class="bg"> 
+     <p>Learn about plans, benefits, and costs in your state's Marketplace.</p> 
+     <div id="names-dropdown-container"> 
+      <select name="names-dropdown" id="names-dropdown"> <option value="">Choose a state or territory</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IO">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="DC">Washington, D.C.</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> <option value="">--------</option> <option value="AS">American Samoa</option> <option value="GU">Guam</option> <option value="MP">Northern Mariana Islands</option> <option value="PR">Puerto Rico</option> <option value="VI">Virgin Islands</option> </select> 
+     </div> 
+    </div> 
+    <span class="jawsonly">From WebMD</span> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=944229859&amp;tile=391295345&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=717&amp;scent=962&amp;pos=5000&amp;xpg=1634&amp;sec=&amp;au1=1&amp;au2=14|17|16|15|13&amp;uri=%2fsexual-conditions%2fhpv-genital-warts%2fdefault&amp;artid=091e9c5e800a3576&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_vac_cust4_a33_a36_cust1_a5_a630_sex2_&amp;mcent=1323&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=944229859&amp;amp;tile=391295345&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=717&amp;amp;scent=962&amp;amp;pos=5000&amp;amp;xpg=1634&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=14|17|16|15|13&amp;amp;uri=%2fsexual-conditions%2fhpv-genital-warts%2fdefault&amp;amp;artid=091e9c5e800a3576&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_vac_cust4_a33_a36_cust1_a5_a630_sex2_&amp;amp;mcent=1323&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1634";
+			var secTopId = "";
+		</script>
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/sexual-conditions/slideshow-std-pictures-and-facts" class="type_ss" onclick="return sl(this,'','tools-res_1');">What Genital Warts Look Like<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/sex-relationships/rm-quiz-sex-fact-fiction" onclick="return sl(this,'','tools-res_2');">Sex Quiz: Fact or Fiction?</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/genital-herpes/rm-quiz-genital-herpes" onclick="return sl(this,'','tools-res_3');">Quiz: Genital Herpes Risk Factors</a></li>
+      <li id="x59"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/hpv-vaccine" onclick="return sl(this,'','tools-res_4');">Facts About the HPV Vaccine</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://teens.webmd.com/rm-quiz-safe-sex" onclick="return sl(this,'','tools-res_5');">Quiz: Are You Having Safe Sex?</a></li>
+      <li id="x61"><a href="http://www.webmd.com/sexual-conditions/std-facts-quiz" onclick="return sl(this,'','tools-res_6');">STD Quiz: Test Your Knowledge</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div id="comm-grp" class="stacked_promo"> 
+    <h2>WebMD Sexual Conditions &amp; STDs Community<br /><a href="http://exchanges.webmd.com/Sexual-Conditions-and-STDs-exchange" title="See All Sexual Conditions &amp; STDs Communities">Community. Experts. Support.</a></h2> 
+    <div class="promo_group"> 
+     <h3>Community</h3> 
+     <ul> 
+      <li> <a href="http://exchanges.webmd.com/Sexual-Conditions-and-STDs-exchange" onclick="return sl(this,'','comm-grp_1-1');" class="expert">Sexually Transmitted Diseases Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/sex-and-relationships-exchange" onclick="return sl(this,'','comm-grp_1-2');" class="expert">Sexual Health Community <i> </i></a> </li> 
+      <li id="comm-grp_last_link"> <a href="http://exchanges.webmd.com/webmd-exchanges/sex-relationships-exchanges" onclick="return sl(this,'','comm-grp_1-3');">See All Communities <i> </i></a> </li> 
+     </ul> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15">
+   <div class="top_search_rdr" id="top-twlv"> 
+    <div class="top_search_heading_fmt"> 
+     <h3> Top Search Terms for Genital Warts/HPV</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests" onclick="return sl(this,'','top-twlv_1');">Genital Warts Symptoms</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-treatment-is-there-hpv-cure" onclick="return sl(this,'','top-twlv_2');">Genital Warts Treatment</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-virus-information-about-human-papillomavirus" onclick="return sl(this,'','top-twlv_3');">HPV Virus</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-pregnancy" onclick="return sl(this,'','top-twlv_4');">HPV and Pregnancy</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-virus-men" onclick="return sl(this,'','top-twlv_5');">HPV in Men</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/tc/genital-warts-human-papillomavirus-topic-overview" onclick="return sl(this,'','top-twlv_6');">What Are Genital Warts? </a> 
+      </div> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/tc/genital-warts-human-papillomavirus-symptoms" onclick="return sl(this,'','top-twlv_7');">What Do Genital Warts Look Like? </a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests" onclick="return sl(this,'','top-twlv_8');">HPV Test</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-vaccines-human-papillomavirus" onclick="return sl(this,'','top-twlv_9');">HPV Vaccine</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sexual-conditions/electrocautery-for-genital-warts" onclick="return sl(this,'','top-twlv_10');">Removing Genital Warts</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--
+updated 07/13/11 at 6:40 EWS
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80a9ed7c" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e800a8aa0</i_chronicle_id><r_object_id>091e9c5e80a9ed7c</r_object_id><title>HPV Symptoms and Tests</title><object_name>hpv_symptoms_tests.xml</object_name><content_template>consumer_article_Health_Ref.xml</content_template><r_object_id>091e9c5e80a9ed7c</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e8097910c</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>01/01/2012 00:00:00</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>01/01/2013 00:00:00</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80019138</r_object_id><wbmd_bus_comp_nm>WebMD</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e802a487f" directive="imageurl" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 2012 WebMD, LLC. All rights reserved.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="2" wbmd_disp_nm="Disease &amp; Condition - Symptoms"></wbmd_med_ref_type><wbmd_wdw_ttl>HPV Symptoms &amp; Tests in Women &amp; Men</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>02/16/2012 00:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e804aeeb1</r_object_id><wbmd_publ_name>WebMD Medical Reference</wbmd_publ_name><wbmd_publ_type>1</wbmd_publ_type><wbmd_publ_display>WebMD Medical Reference</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Learn more about HPV, which is linked to cervical cancer and genital warts, and its causes, symptoms, diagnosis, and treatment.</wbmd_desc_meta><wbmd_orig_pub_dt>04/24/2007 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Learn more about HPV, which is linked to cervical cancer and genital warts, and its causes, symptoms, diagnosis, and treatment. </wbmd_desc_user><wbmd_lk_ttl>HPV Symptoms and Tests: Diagnosing Human Papillomavirus</wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e8095a68a</r_object_id><wbmd_first_nm>Kirk</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Shibley</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>HPV, human papillomavirus, cervical cancer, sex, wart, genital warts, pap, colposcopy, HPV test, DNA test, high risk, cause, anal cancer, diagnose, diagnosis, symptoms  </wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim><r_object_id>091e9c5e8000ac79</r_object_id><wbmd_first_nm>Kathleen</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Doheny</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id chronic_id="091e9c5e8000996b" directive="friendlyurl" path="/webmd/consumer_assets/editorial/articles/biographies/d/Doheny_Kathleen.xml" object_type="wbmd_cons_article"></wbmd_bio_obj_id><wbmd_person_suffix_group></wbmd_person_suffix_group></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>gen.2</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>gen.1</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>C21</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>C55</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>K</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>A63.0</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>sex.2</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80a9ed7c</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1634" wbmd_disp_nm="HPV / Genital Warts"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="2" wbmd_disp_nm="Newly Diagnosed"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="8" wbmd_disp_nm="&gt; 70"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="18" wbmd_disp_nm="Elder adult (61-70)"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="17" wbmd_disp_nm="Older adult (51-60)"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="16" wbmd_disp_nm="Mid-adult (41-50)"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="15" wbmd_disp_nm="Adult (31-40)"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="14" wbmd_disp_nm="Young adult (18-30)"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="13" wbmd_disp_nm="Adolescent (12-17)"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="11" wbmd_disp_nm="All USA"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1840" wbmd_disp_nm="Womens Conditions"></wbmd_c_sec_top_id><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="2946" wbmd_disp_nm="Cancer"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1131" wbmd_disp_nm="HPV/Genital Warts"></wbmd_c_channel_id><wbmd_c_frnd_nm>hpv-symptoms-tests</wbmd_c_frnd_nm><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="091e9c5e80134762"></wbmd_c_mini_article></metadata_section><content_section><cons_health_ref><title>HPV Symptoms and Tests</title><pages><page><section_group><section_header></section_header><section_text><p>Infection by genital <a chronic_id="" crosslinkid="31260" directive="friendlyurl" externalid="02AAD194F24541D7" href="http://www.webmd.com/sexual-conditions/HPV-Genital-Warts/" keywordid="21137" keywordsetid="5421" object_type="" path="/webmdhttp://www.webmd.com/sexual-conditions/HPV-Genital-Warts/">HPV</a> (human papillomavirus) is very common. At least half of people who are sexually active will contract the HPV virus at some point in their lives. Yet many will not know it and have no symptoms.</p><p>Whether symptoms occur or not can depend on the type of HPV virus involved in the infection. There are more than 100 <a chronic_id="091e9c5e800a8aa0" crosslinkid="31093" directive="friendlyurl" externalid="091e9c5e800a8aa0" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/stds/symptoms/hpv_symptoms_tests.xml" keywordid="25287" keywordsetid="6544" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/stds/symptoms/hpv_symptoms_tests.xml">types of HPV</a>. Some HPV types are associated with genital <a chronic_id="091e9c5e800072c4" crosslinkid="5425" directive="friendlyurl" externalid="091e9c5e800072c4" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/miscellaneous/understanding_common_warts_basics.xml" keywordid="26935" keywordsetid="7062" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/miscellaneous/understanding_common_warts_basics.xml">warts</a>, although the warts are not always visible.</p><p>Some types of HPV are associated with cervical and other cancers, and no warts occur, and no other symptoms may be noticed. Some HPV types also cause common warts that you can find on other areas of the body such as your hands or <a chronic_id="091e9c5e80586577" crosslinkid="1507667" directive="friendlyurl" externalid="091e9c5e80586577" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml" keywordid="62982" keywordsetid="28540" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml">feet</a>.</p><p>Many people who get genital HPV will clear it without treatment and no health problems will occur. The longer the virus is in the body, however, the higher your risk of developing health problems such as <a chronic_id="091e9c5e8001d9ff" crosslinkid="51166" directive="friendlyurl" externalid="091e9c5e8001d9ff" href="/webmd/consumer_assets/controlled_content/healthwise/major/Cervical_Cancer-Topic_Overview.xml" keywordid="18172" keywordsetid="4725" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Cervical_Cancer-Topic_Overview.xml">cervical</a> or <a chronic_id="091e9c5e8033d6cb" crosslinkid="70247" directive="friendlyurl" externalid="091e9c5e8033d6cb" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_is_anal_cancer.xml" keywordid="58663" keywordsetid="25952" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_is_anal_cancer.xml">anal cancer</a>.</p><p>Here's what you need to know about genital HPV infection, symptoms, and diagnosis:</p></section_text></section_group><section_group><section_header>HPV Symptoms</section_header><section_text><p>The HPV virus lives in mucous membranes, such as those in the genital area, or on the <a chronic_id="091e9c5e80396037" crosslinkid="70837" directive="friendlyurl" externalid="091e9c5e80396037" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.xml" keywordid="60204" keywordsetid="26540" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.xml">skin</a>. If genital warts show up, it's an indication of HPV infection. Genital warts take on many different appearances. They can be raised, flat, pink, or flesh-colored. They can even be shaped like cauliflower. Sometimes there is a single wart; other times multiple warts appear. They can be small or large. They can be on the anus, cervix, scrotum, groin, thigh, or <a chronic_id="091e9c5e80449b94" crosslinkid="73313" directive="friendlyurl" externalid="091e9c5e80449b94" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_penis.xml" keywordid="60520" keywordsetid="26705" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_penis.xml">penis</a>.</p><p>Genital warts can show up weeks or even months after sexual contact with a person infected with an HPV virus. That person may not know he or she is infected and is responsible for HPV transmission.</p><p>Some types of genital HPV infection are associated with cancer, including cervical cancer and cancer of the vulva, anus, or penis. If infection occurs with one of these virus types, precancerous changes can occur in cells in the tissue without causing any symptoms.</p></section_text></section_group><section_group><section_header>How Is HPV Infection Diagnosed?</section_header><section_text><p>The appearance of genital warts is one way HPV infection is diagnosed. A doctor simply does a visual inspection. The HPV types associated with warts, however, are not generally the types associated with cancer.</p><p>Women infected with the type of HPV that can cause cancer may first be told their <a chronic_id="091e9c5e8001f0df" crosslinkid="50831" directive="friendlyurl" externalid="091e9c5e8001f0df" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Pap_Test.xml" keywordid="66582" keywordsetid="6078" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Pap_Test.xml">Pap</a> test results are abnormal. Pap tests are the main way doctors find cervical cancer or precancerous changes in the cervix. </p><p>To find out for sure if the changes are related to HPV, a doctor may decide to perform a DNA test to detect the virus in women who have an abnormal Pap smear. This tells the doctor whether the type of HPV virus you have can cause cancer. Only certain strains of <a chronic_id="091e9c5e800a8989" crosslinkid="7644" directive="friendlyurl" externalid="091e9c5e800a8989" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/stds/overview_types_of/hpv_virus_information_about_human_papillomavirus.xml" keywordid="17715" keywordsetid="4672" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/stds/overview_types_of/hpv_virus_information_about_human_papillomavirus.xml">HPV cause</a> cancer. In fact, HPV types 16 and 18 account for 70% of all cervical cancers. This DNA test is often done on women who have Pap test abnormalities. It may also be done as part of a routine Pap test.</p></section_text></section_group></page><page><section_group><section_header is_continued="true">How Is HPV Infection Diagnosed? continued...</section_header><section_text><p>In the HPV test, a doctor takes a swab of cells from the cervix, just as for the Pap test. The cells are then analyzed in a laboratory. The test can identify 13 or 14 of the high-risk HPV types associated with cervical cancer.</p><p>This test is rarely given routinely to women under 30 because so many younger women are exposed to HPV and their bodies typically clear the infection without treatment. The DNA test could cause unnecessary worry and concern. Some experts also believe that in younger women the cervix is more susceptible to the HPV virus and that as women get older the cervix may become less susceptible.</p><p>In men, as in women, genital warts reflect HPV infection. But no specific test for the strains of HPV that cause cancer is available at this time for men.</p></section_text></section_group><section_group><section_header>When Is the Best Time to Test?</section_header><section_text><p>Combining the Pap test with the HPV test is appropriate for women aged 30 and over, according to the American College of Obstetricians and Gynecologists.</p><p>This test helps women and their doctors learn if a woman is at high risk or low risk for developing cervical cancer. If the HPV test is positive, the doctor can then decide if more testing is needed. One test that may be ordered next is a colposcopy, in which a special magnifying device is used to examine the cervix, <a chronic_id="091e9c5e803960f5" crosslinkid="72349" directive="friendlyurl" externalid="091e9c5e803960f5" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_vagina.xml" keywordid="60422" keywordsetid="26644" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_vagina.xml">vagina</a>, and vulva.</p><p>If a woman is trying to get <a chronic_id="091e9c5e80042fa3" crosslinkid="507" directive="friendlyurl" externalid="091e9c5e80042fa3" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Pregnancy and Baby Center/page_Pregnancy and Baby Center_091e9c5e80042fa3.xml" keywordid="28283" keywordsetid="6185" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Pregnancy and Baby Center/page_Pregnancy and Baby Center_091e9c5e80042fa3.xml">pregnant</a>, there's no need to have the HPV test unless her doctor orders it based on an abnormal Pap test. During the first prenatal visit, a Pap smear is taken, and if the results are suspicious of HPV infection, the doctor can order the HPV test then.</p></section_text></section_group></page></pages><citations><p>SOURCES: Barbara Levy, MD, gynecologist, St. Francis Women's Health Center, Seattle. FDA: "HPV (human papillomavirus)."  Diane Harper, MD, professor of community and family medicine and obstetrics and gynecology, Dartmouth Medical School, Hanover, N.H.  CDC: "Genital HPV Infection-CDC Fact Sheet." News release, FDA: "FDA Approves Expanded Use of HPV Test."  American College of Obstetricians and Gynecologists' Practice Bulletin on Human Papillomavirus.</p></citations><related_links_type>Other</related_links_type><related_links_header></related_links_header><related_links_text><p><a href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Slideshow Essential Screening Tests for Women_091e9c5e8042fc78/page_Slideshow Essential Screening Tests for Women_091e9c5e8042fc78.xml" directive="friendlyurl" chronic_id="091e9c5e8042fc78" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Slideshow Essential Screening Tests for Women_091e9c5e8042fc78/page_Slideshow Essential Screening Tests for Women_091e9c5e8042fc78.xml"><b>Cervical Cancer Screening and Other Essential Tests for Women</b></a></p></related_links_text></cons_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests" owner="false"><breadcrumb><bread piece="Sexual Health Center" prefix="www" friendlyurl="/sex/default.htm"></bread><bread piece="Sexual Conditions Health Center" prefix="www" friendlyurl="/sexual-conditions/default.htm"></bread><bread piece="HPV/Genital Warts Health Center" prefix="www" friendlyurl="/sexual-conditions/hpv-genital-warts/default.htm"></bread></breadcrumb><centers><Topic id="1324" name="tmg" chronicid="091e9c5e800a3576" prefix="www" friendlyurl="/sexual-conditions/hpv-genital-warts/default.htm" type="Mini">HPV/Genital Warts</Topic><Mini id="1323" name="" chronicid="091e9c5e800a3576" prefix="www" friendlyurl="/sexual-conditions/hpv-genital-warts/default.htm" type="Mini">HPV/Genital Warts</Mini><Health id="717" name="health center" chronicid="091e9c5e8068fbf6" prefix="www" friendlyurl="/sexual-conditions/default.htm" type="">Sexual Conditions</Health><Super id="962" name="super center" chronicid="091e9c5e80027414" prefix="www" friendlyurl="/sex/default.htm" type="">Sexual Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/sexual-conditions/hpv-symptoms-tests" owner="false"><breadcrumb><bread piece="Sexual Conditions Health Center" prefix="www" friendlyurl="/sexual-conditions/default.htm"></bread></breadcrumb><centers><Health id="11256" name="health center" chronicid="091e9c5e8068fbf6" prefix="www" friendlyurl="/sexual-conditions/default.htm" type="">Sexual Conditions</Health></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8000996b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/d/Doheny_Kathleen.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/kathleen-doheny"></target><target siteid="8" name="" prefix="www" friendlyurl="/kathleen-doheny"></target></object><object chronic_id="091e9c5e800a8aa0" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/stds/symptoms/hpv_symptoms_tests.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/sexual-conditions/hpv-symptoms-tests"></target></object><object chronic_id="091e9c5e800072c4" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/miscellaneous/understanding_common_warts_basics.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/skin-problems-and-treatments/understanding-common-warts-basics"></target><target siteid="8" name="" prefix="www" friendlyurl="/skin-problems-and-treatments/understanding-common-warts-basics"></target></object><object chronic_id="091e9c5e80586577" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target></object><object chronic_id="091e9c5e8001d9ff" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/cervical_cancer-topic_overview_major_tw9601.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cancer/cervical-cancer/cervical-cancer-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/cervical-cancer-topic-overview"></target></object><object chronic_id="091e9c5e8033d6cb" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_is_anal_cancer.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cancer/what-is-anal-cancer"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/what-is-anal-cancer"></target></object><object chronic_id="091e9c5e80396037" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/picture-of-the-skin"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/picture-of-the-skin"></target></object><object chronic_id="091e9c5e80449b94" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_penis.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/men/picture-of-the-penis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/men/picture-of-the-penis"></target></object><object chronic_id="091e9c5e8001f0df" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/pap_test_medicaltest_hw5266.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/women/pap-test"></target><target siteid="8" name="" prefix="www" friendlyurl="/women/pap-test"></target></object><object chronic_id="091e9c5e800a8989" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/stds/overview_types_of/hpv_virus_information_about_human_papillomavirus.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/sexual-conditions/hpv-genital-warts/hpv-virus-information-about-human-papillomavirus"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/sexual-conditions/hpv-virus-information-about-human-papillomavirus"></target></object><object chronic_id="091e9c5e803960f5" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_vagina.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/picture-of-the-vagina"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/picture-of-the-vagina"></target></object><object chronic_id="091e9c5e80042fa3" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Pregnancy and Baby Center/page_Pregnancy and Baby Center_091e9c5e80042fa3.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/baby/pregnancy-toc-old"></target><target siteid="8" name="" prefix="www" friendlyurl="/baby/default.htm" umtchronicleid="091e9c5e80688ded"></target></object><object chronic_id="091e9c5e8042fc78" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Slideshow Essential Screening Tests for Women_091e9c5e8042fc78/page_Slideshow Essential Screening Tests for Women_091e9c5e8042fc78.wxml"><target siteid="3" name="" prefix="women" friendlyurl="/slideshow-screening-tests-women" status="deleted"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e8008f425" path="/webmd/consumer_assets/editorial/articles/mini_centers/hpv_genital_warts/hpv_genital_warts.wxml"></topic_outline><expanded_objects><object chronic_id="091e9c5e80134762" path="/webmd/consumer_assets/editorial/short_text/call_outs/how-to-reveal-you-have-an-std.wxml"><webmd_rendition_expanded><content_expanded><wbmd_asset_expanded object_type="wbmd_cons_shrt_txt" id="091e9c5e8014b97e"><metadata_section_expanded><i_chronicle_id>091e9c5e80134762</i_chronicle_id><r_object_id>091e9c5e8014b97e</r_object_id><title>How to Reveal You have an STD</title><object_name>how-to-reveal-you-have-an-std</object_name><content_template>consumer_article_FreeFormShrtTxt.xml</content_template><r_object_id>091e9c5e8014b97e</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="104" wbmd_disp_nm="Article within Article"></wbmd_bus_ref><wbmd_cpyrt></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl>How to Reveal You have an STD</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e802a542e</r_object_id><wbmd_publ_name>WebMD Feature</wbmd_publ_name><wbmd_publ_display>WebMD Feature</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta></wbmd_desc_meta><wbmd_orig_pub_dt>nulldate</wbmd_orig_pub_dt><wbmd_desc_user>How to Reveal You have an STD</wbmd_desc_user><wbmd_lk_ttl></wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>How to Reveal You have an STD</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd></wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e8014b97e</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1680" wbmd_disp_nm="Health Topics A-Z"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><r_object_id>091e9c5e8014b97e</r_object_id><wbmd_c_cons_parent_obj_id></wbmd_c_cons_parent_obj_id><wbmd_c_cons_term></wbmd_c_cons_term><wbmd_c_channel_id></wbmd_c_channel_id></metadata_section_expanded><content_section_expanded><cons_freeformshrttxt><text><p><script type="text/javascript">document.write('<link href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles.css" rel="stylesheet" type="text/css" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles.css"></link>');
+</script></p><p></p><div class="aia_rdr"><div class="aia_top_fmt"></div><div class="aia_toptext_fmt">DOCTOR <em>recommended reading</em></div><div class="aia_border_fmt"><h4><a href="http://www.webmd.com/sexual-conditions/features/when-how-reveal-you-have-std" onclick="return sl(this,'','aia-title');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/sexual-conditions/features/when-how-reveal-you-have-std">How to Reveal You have an
+STD</a></h4><div class="clearing_fmt"></div><div class="aia_byline_fmt"><p>WebMD Medical Reference</p></div><div class="aia_content_fmt"><p>Opening up about an STD (particularly the ones that you cannot
+"cure," like HPV, HIV, and herpes) can be intimidating, whether you're
+20-something or 50-something. You might wonder: Why risk rejection? I'm safe if
+I always use a condom or avoid sex whenever I have an outbreak, right?</p><p>In a word: no. It's not always possible to know with complete certainty when
+an STD like herpes is transmissible. That's because herpes can "shed"
+the virus and spread even when there is no sign of an active herpes
+outbreak.</p></div><p class="aia_read_full_fmt"><a href="http://www.webmd.com/sexual-conditions/features/when-how-reveal-you-have-std" onclick="return sl(this,'','aia-more');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/sexual-conditions/features/when-how-reveal-you-have-std">Read more about how to reveal you
+have an STD</a></p></div><div class="aia_related_fmt">Related to HPV 
+
+<p><a href="http://www.webmd.com/sexual-conditions/HPV-Genital-Warts/hpv-symptoms-tests" onclick="return sl(this,'','aia-related');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/sexual-conditions/HPV-Genital-Warts/hpv-symptoms-tests">HPV symptoms</a>, <a href="http://www.webmd.com/sexual-conditions/HPV-Genital-Warts/hpv-vaccines-human-papillomavirus" onclick="return sl(this,'','aia-related');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/sexual-conditions/HPV-Genital-Warts/hpv-vaccines-human-papillomavirus">HPV vaccine</a>, <a href="http://www.webmd.com/sexual-conditions/HPV-Genital-Warts/Human-Papillomavirus-HPV-Test" onclick="return sl(this,'','aia-related');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/sexual-conditions/HPV-Genital-Warts/Human-Papillomavirus-HPV-Test">HPV test</a>, <a href="http://www.webmd.com/cancer/tc/Cervical-Cancer-Topic-Overview" onclick="return sl(this,'','aia-related');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/cancer/tc/Cervical-Cancer-Topic-Overview">Cervical cancer</a>, <a href="http://www.webmd.com/sexual-conditions/HPV-Genital-Warts" onclick="return sl(this,'','aia-related');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/sexual-conditions/HPV-Genital-Warts">Genital warts</a>, <a href="http://www.webmd.com/drugs/drug-144456-GARDASIL+IM.aspx?drugid=144456&amp;drugname=GARDASIL+IM" onclick="return sl(this,'','aia-related');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-144456-GARDASIL+IM.aspx?drugid=144456&amp;drugname=GARDASIL+IM">Gardasil</a>, <a href="http://www.webmd.com/sexual-conditions/HPV-Genital-Warts/" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/sexual-conditions/HPV-Genital-Warts/">Human
+papillomavirus</a>, <a href="http://www.webmd.com/cancer/Loop-electrosurgical-excision-procedure-LEEP-for-abnormal-cervical-cell-changes" onclick="return sl(this,'','aia-related');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/cancer/Loop-electrosurgical-excision-procedure-LEEP-for-abnormal-cervical-cell-changes">LEEP</a>, <a href="http://www.webmd.com/cancer/Colposcopy-and-Cervical-Biopsy" onclick="return sl(this,'','aia-related');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/cancer/Colposcopy-and-Cervical-Biopsy">Colposcopy</a>, <a href="http://women.webmd.com/Women-Medical-Reference/Pap-Te" onclick="return sl(this,'','aia-related');" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://women.webmd.com/Women-Medical-Reference/Pap-Te">Pap test</a></p></div><div class="aia_bot_fmt"></div></div><p></p></text><citations></citations></cons_freeformshrttxt></content_section_expanded></wbmd_asset_expanded></content_expanded><friendlyurls_expanded></friendlyurls_expanded><referenced_objects_expanded></referenced_objects_expanded><container_hierarchy></container_hierarchy><expanded_objects_expanded></expanded_objects_expanded></webmd_rendition_expanded></object></expanded_objects><module_data><relatedLinks>Off</relatedLinks><articleLinkView>Page Refresh</articleLinkView><articleTitle chronic_id="091e9c5e800a8aa0" directive="friendlyurl" object_type="wbmd_cons_article" wbmd_lookup_type="" wbmd_storage_value=""></articleTitle></module_data></webmd_rendition>
+--> 
+   <div class="article_snippet_rdr">
+    <h3>HPV Symptoms and Tests</h3>
+    <div class="snippet_fmt" id="art-snp">
+     <p xmlns:xalan="http://xml.apache.org/xalan">Infection by genital HPV (human papillomavirus) is very common. At least half of people who are sexually active will contract the HPV virus at some point in their lives. Yet many will not know it and have no symptoms.</p>
+     <p xmlns:xalan="http://xml.apache.org/xalan">Whether symptoms occur or not can depend on the type of HPV virus involved in the infection. There are more than 100 types of HPV. Some HPV types are associated with genital warts, although the warts are not always visible.</p>
+    </div>
+    <div class="snippet_link">
+     <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests" onclick="return sl(this,'','art-snp_1');">HPV Symptoms and Tests</a>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

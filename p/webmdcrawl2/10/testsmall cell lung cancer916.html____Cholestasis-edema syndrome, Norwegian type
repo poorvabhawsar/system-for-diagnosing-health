@@ -1,0 +1,594 @@
+<title>Small-Cell Lung Cancer</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tool-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/lung-cancer/slideshow-lung-cancer-overview" class="type_ss" onclick="return sl(this,'','tool-res_1');">Lung Cancer: A Visual Guide<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/lung-cancer/chemotherapy-non-small-cell-10/slideshow-lung-cancer-risks" class="type_ss" onclick="return sl(this,'','tool-res_2');">Lung Cancer Risks: Myth vs. Fact<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/cancer/slideshow-cancer-fighting-foods" class="type_ss" onclick="return sl(this,'','tool-res_3');">Try These Cancer-Fighting Foods<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','tool-res_4');">Assess Your Cancer Risk</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/video/lung-cancer-men-vs-women" class="type_vid" onclick="return sl(this,'','tool-res_5');">Lung Cancer: Men vs. Women<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/smoking-cessation/slideshow-13-best-quit-smoking-tips-ever" class="type_ss" onclick="return sl(this,'','tool-res_6');">13 Best Quit-Smoking Tips Ever<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tool-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="readspeaker_area" style="display: none;"> 
+     <div id="readspeaker_button1" class="rs_skip"> 
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /> </a> 
+     </div> 
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript">
+    </script> 
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:6});
+                    });
+                })();
+                </script> 
+     <div id="xp1"> 
+     </div> 
+    </div> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Small-Cell Lung Cancer</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <h3>Small-Cell Lung Cancer Treatment</h3> 
+     <h3>Medical Treatment</h3> 
+     <p>The most effective treatment for small-cell lung cancer is chemotherapy&nbsp;(using medications to kill cancer cells), either alone or in combination with radiation therapy (using high-dose X-rays or other high-energy rays to kill cancer cells).</p> 
+     <h3>Medications</h3> 
+     <p xmlns:xalan="http://xml.apache.org/xalan"> <strong>Chemotherapy</strong> </p> 
+     <p>Chemotherapy uses powerful drugs to kill cancer cells. These medications may be taken by mouth (orally), but they&nbsp;are usually&nbsp;injected into a vein (IV).</p> 
+     <p>Chemotherapy is a systemic treatment because the drugs enter the bloodstream, travel throughout the body, and kill cancer cells wherever they are. However, some normal cells are also killed. This is responsible for some of the side effects of chemotherapy.</p> 
+     <p>Chemotherapy is usually given at intervals to ensure that the bone marrow has recovered before the next dose of chemotherapy is given.</p> 
+     <p>Extensive research and clinical trials have identified different chemotherapy medications for the treatment of small-cell lung cancer. Response rates with these medications have been found to be at least 80% in previously untreated patients.</p> 
+     <p>Some drugs are used alone, while some are used in combination with others for greater effectiveness. An oncologist (cancer specialist) recommends chemotherapy specific to the patient’s condition.</p> 
+     <p>Chemotherapy medications used for the treatment of small-cell lung cancer include the following:</p> 
+     <ul> 
+      <li>Etoposide (Toposar, VePesid). It slows or stops the growth of cancer cells in the body by causing breakage in the DNA (genetic material) strand. It may be given as an IV injection or as a pill.</li> 
+      <li>Cyclophosphamide (Cytoxan, Neosar) interferes with the growth of normal cells and cancer cells. It slows the growth of cancer cells and their spread in the body. It may be given as an IV injection or as a pill.</li> 
+      <li>Doxorubicin (Adriamycin, Rubex) causes destruction of DNA, which slows or stops the growth and spread of cancer cells in the body. It is an IV medication.</li> 
+      <li>Vincristine (Oncovin) is a plant-based compound. It causes cell death by interfering with the way genetic material (DNA) multiplies in the cell. It is only available as an IV medication.</li> 
+      <li>Topotecan (Hycamtin) interferes with the growth of cancer cells by inhibiting the duplication of DNA. It can be given through an IV or as a pill.</li> 
+      <li>Cisplatin (Platinol) causes breakage in the DNA (genetic material) strand and interferes with cell growth. It is an IV medication.</li> 
+      <li>Carboplatin (Paraplatin) is similar to cisplatin. It also causes breakage in the DNA (genetic material) strand and interferes with cell growth. Its effectiveness is similar to cisplatin, but it is better tolerated with less side effects.</li> 
+      <li>Irinotecan (Camptosar) acts in a similar manner as topotecan to decrease cancer cell growth by causing damage to cancer cell DNA. It is an IV medication.</li> 
+     </ul> 
+     <p>Commonly used chemotherapy regimens in small-cell lung cancer include the following:</p> 
+     <ul> 
+      <li>CAV (cyclophosphamide, doxorubicin [Adriamycin], and vincristine)</li> 
+      <li>PE (cisplatin and etoposide)</li> 
+      <li>CAVE (cyclophosphamide, doxorubicin [Adriamycin], vincristine, and etoposide)</li> 
+      <li>EC (etoposide and carboplatin)</li> 
+      <li>Topotecan alone</li> 
+      <li>Etoposide alone</li> 
+      <li>Cisplatin and irinotecan</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <script type="text/javascript">
+var pagination_title=new Array();
+var pagination_current=3;
+
+pagination_title[1]="";
+pagination_title[2]="When to Seek Medical Care";
+pagination_title[3]="Small-Cell Lung Cancer Treatment";
+pagination_title[4]="Small-Cell Lung Cancer Treatment continued...";
+pagination_title[5]="Small-Cell Lung Cancer Treatment continued...";
+pagination_title[6]="Lung Cancer Prevention";
+</script> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+      <div class="outline_fmt"> 
+       <a href="?page=2">&lt; Previous Page</a> 
+      </div> 
+     </div> 
+     <div class="right_fmt"> 
+      <a href="http://www.webmd.com/lung-cancer/small-cell-lung-cancer">1</a> 
+      <span class="pipe_fmt">|</span> 
+      <a href="?page=2" title="Page 2">2</a> 
+      <span class="pipe_fmt">|</span> 
+      <span class="current_fmt">3</span> 
+      <span class="pipe_fmt">|</span> 
+      <a href="?page=4" title="Page 4">4</a> 
+      <span class="pipe_fmt">|</span> 
+      <a href="?page=5" title="Page 5">5</a> 
+      <span class="pipe_fmt">|</span> 
+      <a href="?page=6" title="Page 6">6</a> 
+      <div class="outline_fmt right"> 
+       <a href="?page=4">Next Page <span class="symbol_fmt">&gt;</span></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from eMedicineHealth</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "editorial";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'WebMD Medical Reference from eMedicineHealth';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1071"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/smoking-cessation/video/quit-smoking-aids" onclick="return sl(this,'','rltd-p-1071_1');">Which Quit Smoking Aid Is Right For You?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cancer/what-to-expect-from-radiation-therapy" onclick="return sl(this,'','rltd-p-1071_2');">What to Expect During Radiation Therapy</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/cancer/bone-metastasis-11/common-cancers-metastasize-bone" onclick="return sl(this,'','rltd-p-1071_3');">Lung Cancer's Link to Bone Metastasis</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/smoking-cessation/ss/slideshow-13-best-quit-smoking-tips-ever" onclick="return sl(this,'','rltd-p-1071_4');">13 Best Quit-Smoking Tips Ever</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/lung/lung-disease-health-check/default.htm" onclick="return sl(this,'','rltd-p-1071_5');">Breathless? Take the COPD Health Check</a> </li> 
+     <li id="x67" class="last"> <a class="type_vid" href="http://www.webmd.com/lung-cancer/video/detect-lung-cancer" onclick="return sl(this,'','rltd-p-1071_6');">Detecting Lung Cancer With Phlegm<i> </i></a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1071_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806aee15" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806aee15</chronic_id><r_object_id>091e9c5e806aee15</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806aee15.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/16/2010 10:40:05</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Lung Cancer Health Center/template_Lung Cancer Health Center_091e9c5e8002342e.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002342e"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Small-Cell Lung Cancer</name><link_title>Small-Cell Lung Cancer</link_title><description>Lung cancer occurs when abnormal lung cells begin to multiply rapidly. Small cell lung cancer cells grow rapidly, spread quickly, respond well to chemotherapy and radiation, and is associated with paraneoplastic syndromes.  Follow the links below to find WebMD's comprehensive coverage about what small cell lung cancer looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/lung-cancer/small-cell-lung-cancer-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e800120bd"><link_title>Small Cell Lung Cancer Treatment</link_title><friendly_url>http://www.webmd.com/lung-cancer/stages-of-small-cell-lung-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f46ae"><link_title>Prevention of Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-prevention-patient-information-nci-pdq-to-learn-more</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4102"><link_title>Small Cell Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-small-cell-treatment-health-professional-information-nci-pdq-cellular-classification</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dabf"><link_title>Lung Cancer-Treatment Overview</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001de8a"><link_title>Lung Cancer-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e066"><link_title>Lung Cancer-Cause</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e1e0"><link_title>Lung Cancer-What Happens</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-what-happens</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f40fa"><link_title>Small Cell Lung Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-Stages of Small Cell Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-small-cell-treatment-patient-information-nci-pdq-stages-of-small-cell-lung-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8035f776"><link_title>Small Cell Lung Cancer Treatment (PDQ®): Treatment - Health Professional Information [NCI]-Cellular Classification of Small Cell Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/ncicdr0000062945-cellular-classification-of-small-cell-lung-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8035f777"><link_title>Small Cell Lung Cancer Treatment (PDQ®): Treatment - Health Professional Information [NCI]-Stage Information for Small Cell Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/ncicdr0000062945-stage-information-for-small-cell-lung-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f40f9"><link_title>Small Cell Lung Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-General Information About Small Cell Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-small-cell-treatment-patient-information-nci-pdq-general-information-about-small-cell</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f40fb"><link_title>Small Cell Lung Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-Recurrent Small Cell Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-small-cell-treatment-patient-information-nci-pdq-recurrent-small-cell-lung-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f40f8"><link_title>Small Cell Lung Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-Treatment Option Overview</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-small-cell-treatment-patient-information-nci-pdq-treatment-option-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f40fd"><link_title>Small Cell Lung Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-Treatment Options for Recurrent Small Cell Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-small-cell-treatment-patient-information-nci-pdq-treatment-options-for-recurrent-small</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8035f778"><link_title>Small Cell Lung Cancer Treatment (PDQ®): Treatment - Health Professional Information [NCI]-General Information About Small Cell Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/ncicdr0000062945-general-information-about-small-cell-lung-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f40fc"><link_title>Small Cell Lung Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-Treatment Options by Stage</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-small-cell-treatment-patient-information-nci-pdq-treatment-options-by-stage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f46ab"><link_title>Lung Cancer Prevention (PDQ®): Prevention - Patient Information [NCI]-Lung Cancer Prevention</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-prevention-patient-information-nci-pdq-lung-cancer-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80010bb6"><link_title>Defying the Odds With Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/news/20060123/defying-odds-lung-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8069dd5b"><link_title>Nonsmoker Lung Cancer: A Different Disease?</link_title><friendly_url>http://www.webmd.com/lung-cancer/news/20101108/nonsmoker-lung-cancer-a-different-disease</friendly_url><thumbnail height="" width="" alt="female doctor with chest x-ray">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_lung_cancer_different_diseases_v02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8047a6b6"><link_title>Survival Improves Slightly for Advanced Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/news/20091202/survival-improves-slightly-advanced-lung-cancer</friendly_url><thumbnail height="" width="" alt="better_lung_cancer_survival.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/december_2009/better_lung_cancer_survival.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800a379f"><link_title>Genes May Boost Lung Cancer Chemo</link_title><friendly_url>http://www.webmd.com/lung-cancer/news/20070411/genes-may-boost-lung-cancer-chemo</friendly_url><thumbnail height="" width="" alt="Screening for Chemo Drugs">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/April07/screening_for_chemo_drugs.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800f40ff"><link_title>Small Cell Lung Cancer</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-small-cell-treatment-patient-information-nci-pdq-to-learn-more</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001149f"><link_title>Lung Cancer Treatment Options</link_title><friendly_url>http://www.webmd.com/lung-cancer/lung-cancer-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dd1e"><link_title>Lung Cancer-Exams and Tests</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dd7d"><link_title>Lung Cancer-Prevention</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001de2b"><link_title>Lung Cancer-Surgery</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001deca"><link_title>Lung Cancer-Topic Overview</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001df05"><link_title>Lung Cancer-Symptoms</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e3e2"><link_title>Lung Cancer-Other Treatment</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-other-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e0b7"><link_title>Lung Cancer-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/lung-cancer/tc/lung-cancer-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/lung-cancer/stages-of-small-cell-lung-cancer" onclick="return sl(this,'','td-rltd-art_1');">Small Cell Lung Cancer Treatment</a></li>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/lung-cancer-prevention-patient-information-nci-pdq-to-learn-more" onclick="return sl(this,'','td-rltd-art_2');">Prevention of Lung Cancer</a></li>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/lung-cancer-small-cell-treatment-health-professional-information-nci-pdq-cellular-classification" onclick="return sl(this,'','td-rltd-art_3');">Small Cell Lung Cancer</a></li>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/lung-cancer-treatment-overview" onclick="return sl(this,'','td-rltd-art_4');">Lung Cancer-Treatment Overview</a></li>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/lung-cancer-other-places-to-get-help" onclick="return sl(this,'','td-rltd-art_5');">Lung Cancer-Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/lung-cancer-cause" onclick="return sl(this,'','td-rltd-art_6');">Lung Cancer-Cause</a></li>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/lung-cancer-what-happens" onclick="return sl(this,'','td-rltd-art_7');">Lung Cancer-What Happens</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/lung-cancer/small-cell-lung-cancer-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Small-Cell Lung Cancer Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=609955711&tile=1716306534&tug=&pug=__&site=2&affiliate=20&hcent=918&scent=848&pos=113&xpg=1822&sec=2946&amp;au1=1&au2=1&uri=%2flung-cancer%2fsmall-cell-lung-cancer&artid=091e9c5e80010a1b&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_cust4_c34_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'609955711',
+                    tile:'1716306534',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1822";
+      var secTopId = "2946";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=609955711&amp;tile=1716306534&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=918&amp;scent=848&amp;pos=5001&amp;xpg=1822&amp;sec=2946&amp;au1=1&amp;au2=1&amp;uri=%2flung-cancer%2fsmall-cell-lung-cancer&amp;artid=091e9c5e80010a1b&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_cust4_c34_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=609955711&amp;amp;tile=1716306534&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=918&amp;amp;scent=848&amp;amp;pos=5001&amp;amp;xpg=1822&amp;amp;sec=2946&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2flung-cancer%2fsmall-cell-lung-cancer&amp;amp;artid=091e9c5e80010a1b&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_cust4_c34_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1822";
+			var secTopId = "2946";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

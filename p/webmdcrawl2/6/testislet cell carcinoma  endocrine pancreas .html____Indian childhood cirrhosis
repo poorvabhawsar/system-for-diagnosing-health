@@ -1,0 +1,538 @@
+<title>Islet Cell Carcinoma (Endocrine Pancreas)</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/cancer/video/men-bladder-cancer" class="type_vid" onclick="return sl(this,'','lln-toolsres_1');">Bladder Cancer in Men<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Assess Your Cancer Risk</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/breast-cancer/slideshow-breast-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">Breast Cancer: A Visual Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cancer/video/humor-therapy-cancer" class="type_vid" onclick="return sl(this,'','lln-toolsres_4');">Humor Therapy for Cancer<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/cancer/pancreatic-cancer/slideshow-pancreatic-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_5');">Understanding Pancreatic Cancer<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/lung-cancer/slideshow-lung-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_6');">Lung Cancer: The Big Picture<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80937cd0"><metadata_section><i_chronicle_id>091e9c5e800f4436</i_chronicle_id><r_object_id>091e9c5e80937cd0</r_object_id><title>General Information</title><object_name>ncicdr0000062794-General_Information.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80937cd0</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e8015ba98</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>Some material in CancerNet™ is from copyrighted publications of the respective copyright claimants. Users of CancerNet™ are referred to the publication data appearing in the bibliographic citations, as well as to the copyright notices appearing in the original publication, all of which are hereby incorporated by reference. </wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>nci_ncicdr0000062794-general-information</wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl>Islet Cell Carcinoma (Endocrine Pancreas)</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378509</r_object_id><publ_i_chronicle_id>091e9c5e8001915b</publ_i_chronicle_id><wbmd_publ_name>Healthwise - NCI</wbmd_publ_name><wbmd_publ_display>WebMD Public Information from the National Cancer Institute</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Cancer of the endocrine pancreas includes a highly treatable and often curable collection of tumors.  They are uncommon cancers with 200 to 1,000 new cases per year and occur in only 1.5% of detailed autopsy series.  Islet tumors may either be functional (produce one or more hormones) or nonfunctional.  The majority of functioning tumors that produce insulin are benign; however,90% of ...</wbmd_desc_meta><wbmd_orig_pub_dt>10/07/2011 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Cancer of the endocrine pancreas includes a highly treatable and often curable collection of tumors.  They are uncommon cancers with 200 to 1,000 new cases per year and occur in only 1.5% of detailed autopsy series.  Islet tumors may either be functional (produce one or more hormones) or nonfunctional.  The majority of functioning tumors that produce insulin are benign; however,90% of ...</wbmd_desc_user><wbmd_lk_ttl>Islet Cell Carcinoma (Endocrine Pancreas)</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Islet Cell Carcinoma (Endocrine Pancreas)</wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>M32</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>K</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>H16</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>E1</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80937cd0</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="2946" wbmd_disp_nm="Cancer"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1022" wbmd_disp_nm="Cancer"></wbmd_c_channel_id><wbmd_c_frnd_nm>Islet-cell-cancer-Treatment-Health-Professional-Information-NCI-PDQ-General-Information</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>General Information</title><pages><page><section_group><section_header></section_header><section_type>Vendor</section_type><section_text><a name="ncicdr0000062794-general-information"></a><p>Cancer of the endocrine pancreas includes a highly treatable and often curable collection of tumors. They are uncommon cancers with 200 to 1,000 new cases per year and occur in only 1.5% of detailed autopsy series. Islet tumors may either be functional (produce one or more hormones) or nonfunctional. The majority of functioning tumors that produce insulin are benign; however, 90% of nonfunctioning tumors are malignant. Many islet cell cancers are nonfunctional and produce symptoms from tumor bulk or metastatic dissemination. Because of the presence of several cell types in the pancreatic islet cells (alpha, beta, delta, A, B, C, D, E), the term islet cell tumors refers to at least five distinct cancers, which when functional, produce unique metabolic and clinical characteristics. Since the clinical manifestations in functional tumors may result from the metabolic effects of polypeptide(s) secreted by the cancer cells rather than from tumor bulk or metastatic disease, each tumor type must be considered separately, both diagnostically and therapeutically.[<a bookmark="s1.1" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f4436" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.xml">1</a>,<a bookmark="s1.2" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f4436" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.xml">2</a>,<a bookmark="s1.3" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f4436" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.xml">3</a>] Functional tumors may be too small in size to be detected by conventional imaging techniques. </p><p>The frequent long delays between initial symptoms and diagnosis and the varied effects of the polypeptides secreted often necessitate involvement of multiple surgical and medical subspecialties. Surgery is the only curative modality.[<a bookmark="s1.4" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f4436" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.xml">4</a>,<a bookmark="s1.5" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f4436" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.xml">5</a>] Even in those cases not resectable for cure, effective palliation may be achieved because of the slow-growing nature of the majority of these tumors and the potential use of antihormonal pharmacologic therapy (for example, <a chronic_id="" crossLinkId="63538" directive="friendlyurl" externalId="11210" href="http://www.webmd.com/drugs/drug-11210-cimetidine+oral.aspx" keywordId="52019" keywordSetId="19650" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-11210-cimetidine+oral.aspx">cimetidine</a> in the ulcer-producing Zollinger-Ellison syndrome). Combination chemotherapy may provide effective palliation as well as increased survival in selected patients. In patients with indolent, slow-growing metastatic islet cell tumors, the best therapy may be careful observation and no treatment until palliation is required. Patients with multiple endocrine neoplasia syndrome type 1, an autosomal dominant condition in which 85% have pancreatic islet cell tumors, 90% have hyperparathyroidism, and 65% have pituitary tumors, are less likely to be cured by pancreatic resection than are patients with sporadic islet cell tumors. With the exception of pain relief from bone metastases, <a chronic_id="091e9c5e804d6f9a" crossLinkId="1049001" directive="friendlyurl" externalId="091e9c5e804d6f9a" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_to_expect_from_radiation_therapy.xml" keywordId="61840" keywordSetId="27679" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_to_expect_from_radiation_therapy.xml">radiation</a> therapy has a limited role in this disease. </p><p><b>References: </b><br></p><ol><li><a name="s1.1"></a> Kent RB 3rd, van Heerden JA, Weiland LH: Nonfunctioning islet cell tumors. Ann Surg 193 (2): 185-90, 1981.</li><li><a name="s1.2"></a> Modlin IM, Lewis JJ, Ahlman H, et al.: Management of unresectable malignant endocrine tumors of the <a chronic_id="091e9c5e8034e371" crossLinkId="70312" directive="friendlyurl" externalId="091e9c5e8034e371" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_pancreas.xml" keywordId="58451" keywordSetId="25860" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_pancreas.xml">pancreas</a>. Surg Gynecol Obstet 176 (5): 507-18, 1993.</li><li><a name="s1.3"></a> Delcore R, Friesen SR: Gastrointestinal neuroendocrine tumors. J Am Coll Surg 178 (2): 187-211, 1994.</li><li><a name="s1.4"></a> Danforth DN Jr, Gorden P, Brennan MF: Metastatic <a chronic_id="" crossLinkId="65592" directive="friendlyurl" externalId="5233" href="http://www.webmd.com/drugs/drug-5233-Insulin+Regular+Human+Inj.aspx?drugid=5233&amp;drugname=Insulin+Regular+Human+Inj" keywordId="54068" keywordSetId="21659" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-5233-Insulin+Regular+Human+Inj.aspx?drugid=5233&amp;drugname=Insulin+Regular+Human+Inj">insulin</a>-secreting carcinoma of the pancreas: clinical course and the role of surgery. Surgery 96 (6): 1027-37, 1984.</li><li><a name="s1.5"></a> Evans DB, Skibber JM, Lee <a chronic_id="" crossLinkId="32169" directive="friendlyurl" externalId="091e9c5e8001efc8" href="/webmd/consumer_assets/controlled_content/healthwise/nord/Encephalitis_Japanese.xml" keywordId="36816" keywordSetId="9074" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/nord/Encephalitis_Japanese.xml">JE</a>, et al.: Nonfunctioning islet cell carcinoma of the pancreas. Surgery 114 (6): 1175-81; discussion 1181-2, 1993.</li></ol></section_text></section_group><section_group><section_header></section_header><section_type>float</section_type><section_text><p><span class="Size1">This information is produced and provided by the National Cancer Institute (NCI). The information in this topic may have changed since it was written. For the most current information, contact the National Cancer Institute via the Internet web site at http://cancer.gov or call 1-800-4-CANCER.</span></p><h3>Islet Cell Tumors (Pancreatic) Treatment</h3></section_text></section_group></page></pages><citations></citations></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information" owner="false"><breadcrumb><bread piece="Cancer Health Center" prefix="www" friendlyurl="/cancer/default.htm"></bread><bread piece="Cancer Related Topics" prefix="www" friendlyurl="/cancer/tc/default.htm"></bread></breadcrumb><centers><Super id="848" name="super center" chronicid="091e9c5e80024a11" prefix="www" friendlyurl="/cancer/default.htm" type="">Cancer</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e800f4436" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062794-General_Information.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information"></target></object><object chronic_id="091e9c5e804d6f9a" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_to_expect_from_radiation_therapy.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cancer/what-to-expect-from-radiation-therapy"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/what-to-expect-from-radiation-therapy"></target></object><object chronic_id="091e9c5e8034e371" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_pancreas.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-pancreas"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-pancreas"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><dynamic_objects><callout_title>Recommended Related to Cancer</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e99ac9"><metadata_section><i_chronicle_id>091e9c5e807f0a76</i_chronicle_id><title>Current Clinical Trials</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>Check for U.S. clinical trials from NCI's list of cancer clinical trials that are now accepting patients with childhood liver cancer. The list of clinical trials can be further narrowed by location, drug, intervention, and other criteria.
+General information about clinical trials is also available from the NCI Web site.</p></section_text><link siteid="3" prefix="www" friendlyurl="/cancer/tc/ncicdr0000062836-current-clinical-trials"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>General Information</h2>
+     <div class="hwDefinition_fmt">
+      <h3></h3>
+      <a name="ncicdr0000062794-general-information"></a>
+      <p>Cancer of the endocrine pancreas includes a highly treatable and often curable collection of tumors. They are uncommon cancers with 200 to 1,000 new cases per year and occur in only 1.5% of detailed autopsy series. Islet tumors may either be functional (produce one or more hormones) or nonfunctional. The majority of functioning tumors that produce insulin are benign; however, 90% of nonfunctioning tumors are malignant. Many islet cell cancers are nonfunctional and produce symptoms from tumor bulk or metastatic dissemination. Because of the presence of several cell types in the pancreatic islet cells (alpha, beta, delta, A, B, C, D, E), the term islet cell tumors refers to at least five distinct cancers, which when functional, produce unique metabolic and clinical characteristics. Since the clinical manifestations in functional tumors may result from the metabolic effects of polypeptide(s) secreted by the cancer cells rather than from tumor bulk or metastatic disease, each tumor type must be considered separately, both diagnostically and therapeutically.[<a href="http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.1" onclick="return sl(this,'','embd-lnk');">1</a>,<a href="http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.2" onclick="return sl(this,'','embd-lnk');">2</a>,<a href="http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.3" onclick="return sl(this,'','embd-lnk');">3</a>] Functional tumors may be too small in size to be detected by conventional imaging techniques. </p>
+      <p>The frequent long delays between initial symptoms and diagnosis and the varied effects of the polypeptides secreted often necessitate involvement of multiple surgical and medical subspecialties. Surgery is the only curative modality.[<a href="http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.4" onclick="return sl(this,'','embd-lnk');">4</a>,<a href="http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.5" onclick="return sl(this,'','embd-lnk');">5</a>] Even in those cases not resectable for cure, effective palliation may be achieved because of the slow-growing nature of the majority of these tumors and the potential use of antihormonal pharmacologic therapy (for example, <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-11210-cimetidine+oral.aspx">cimetidine</a> in the ulcer-producing Zollinger-Ellison syndrome). Combination chemotherapy may provide effective palliation as well as increased survival in selected patients. In patients with indolent, slow-growing metastatic islet cell tumors, the best therapy may be careful observation and no treatment until palliation is required. Patients with multiple endocrine neoplasia syndrome type 1, an autosomal dominant condition in which 85% have pancreatic islet cell tumors, 90% have hyperparathyroidism, and 65% have pituitary tumors, are less likely to be cured by pancreatic resection than are patients with sporadic islet cell tumors. With the exception of pain relief from bone metastases, <a href="http://www.webmd.com/cancer/what-to-expect-from-radiation-therapy" onclick="return sl(this,'','embd-lnk');">radiation</a> therapy has a limited role in this disease. </p>
+      <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" />
+      <div class="aia_rdr rs_skip">
+       <div class="aia_top_fmt"> 
+       </div>
+       <div class="aia_border_fmt">
+        <div class="aia_title_bar_fmt">
+         <h4>Recommended Related to Cancer</h4>
+         <div class="clearing_fmt"> 
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/cancer/tc/ncicdr0000062836-current-clinical-trials" onclick="return sl(this,'','aia-related');">Current Clinical Trials</a></p>
+        <div class="aia_section_fmt">
+         <div class="aia_content_fmt">
+          <p>Check for U.S. clinical trials from NCI's list of cancer clinical trials that are now accepting patients with childhood liver cancer. The list of clinical trials can be further narrowed by location, drug, intervention, and other criteria. General information about clinical trials is also available from the NCI Web site.</p>
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/cancer/tc/ncicdr0000062836-current-clinical-trials" onclick="return sl(this,'','aia-related');">Read the Current Clinical Trials article &gt; &gt;</a></p>
+        <div class="clearing_fmt"> 
+        </div>
+       </div>
+       <div class="aia_bot_fmt"> 
+       </div>
+      </div>
+      <script type="text/javascript">$(function(){
+  if(typeof(s_sponsor_program) != 'undefined' ){
+    /* remove aia if in a sponsored program */
+    if(s_sponsor_program != ""){$(".aia_rdr").remove()}
+  }
+});</script>
+      <p><b>References: </b><br /></p>
+      <ol>
+       <li><a name="s1.1"></a> Kent RB 3rd, van Heerden JA, Weiland LH: Nonfunctioning islet cell tumors. Ann Surg 193 (2): 185-90, 1981.</li>
+       <li><a name="s1.2"></a> Modlin IM, Lewis JJ, Ahlman H, et al.: Management of unresectable malignant endocrine tumors of the <a href="http://www.webmd.com/digestive-disorders/picture-of-the-pancreas" onclick="return sl(this,'','embd-lnk');">pancreas</a>. Surg Gynecol Obstet 176 (5): 507-18, 1993.</li>
+       <li><a name="s1.3"></a> Delcore R, Friesen SR: Gastrointestinal neuroendocrine tumors. J Am Coll Surg 178 (2): 187-211, 1994.</li>
+       <li><a name="s1.4"></a> Danforth DN Jr, Gorden P, Brennan MF: Metastatic <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-5233-Insulin+Regular+Human+Inj.aspx?drugid=5233&amp;drugname=Insulin+Regular+Human+Inj">insulin</a>-secreting carcinoma of the pancreas: clinical course and the role of surgery. Surgery 96 (6): 1027-37, 1984.</li>
+       <li><a name="s1.5"></a> Evans DB, Skibber JM, Lee JE, et al.: Nonfunctioning islet cell carcinoma of the pancreas. Surgery 114 (6): 1175-81; discussion 1181-2, 1993.</li>
+      </ol>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+		
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Public Information from the National Cancer Institute</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: October 07, 2011
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - NCI';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1022"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/cancer/features/15-cancer-symptoms-women-ignore" onclick="return sl(this,'','rltd-p-1022_1');">15 Cancer Symptoms Women Ignore</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cancer/video/sleep-and-cancer" onclick="return sl(this,'','rltd-p-1022_2');">Sleep Problems and Cancer</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/cancer/features/see-cancer-specialist" onclick="return sl(this,'','rltd-p-1022_3');">Cancer: Should You See a Specialist?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/cancer/features/8-ways-to-lower-cancer-risk" onclick="return sl(this,'','rltd-p-1022_4');">8 Ways to Lower Your Cancer Risk</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/cancer/video/chemo-nausea-side-effect" onclick="return sl(this,'','rltd-p-1022_5');">Chemotherapy Side Effects</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/melanoma-skin-cancer/slideshow-precancerous-skin-lesions-and-skin-cancer" onclick="return sl(this,'','rltd-p-1022_6');">See What Skin Cancer Looks Like</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1022_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80b888df" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80692f78</chronic_id><r_object_id>091e9c5e80b888df</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e80692f78.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>10/26/2012 12:56:58</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Cancer Health Center/template_Cancer Health Center_091e9c5e80024927.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80024927"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Islet Cell Tumors</name><link_title>Islet Cell Tumors</link_title><description>Islet cell tumors are cancerous tumors that form in the pancreas, but they are a rare form of pancreatic cancer. Normal islet cells produce insulin and  hormones that aid in digestion. Causes of different types of islet cell tumors may include genetics and those with certain conditions such as tuberous sclerosis or von Hippel-Lindau disease.  Symptoms may include abdominal pain, dizziness, diarrhea, headache, nausea, and more. Doctors may treat these tumors with surgery, radiation, medications, or other methods. Follow the links below to find WebMD's comprehensive coverage about how islet cell tumors form, how to treat them, and much more.</description><friendly_url>http://www.webmd.com/cancer/pancreatic-cancer/islet-cell-tumors-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80793f94"><link_title>New Pancreatic Cancer Treatment Activates Immune System</link_title><friendly_url>http://www.webmd.com/cancer/pancreatic-cancer/news/20110324/new-pancreatic-cancer-treatment-activates-immune-system</friendly_url><thumbnail height="" width="" alt="senior woman in deep thought">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/03_2011/69x75_immune_therapy_pancreatic_cancer_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80782050"><link_title>Heavy Drinking Linked to Pancreatic Cancer</link_title><friendly_url>http://www.webmd.com/cancer/pancreatic-cancer/news/20110314/heavy-drinking-linked-to-pancreatic-cancer</friendly_url><thumbnail height="" width="" alt="man reaching into fridge for beer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/03_2011/69x75_heavy_drinking_pancreatic_cancer_death_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8042b46d"><link_title>Pancreatic Neuroendocrine Tumors</link_title><friendly_url>http://www.webmd.com/cancer/pancreatic-cancer/islet-cell-tumors</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061b3fb"><link_title>Pancreatic Islet Cell Transplantation for Diabetes-Related Information</link_title><friendly_url>http://www.webmd.com/diabetes/tc/pancreatic-islet-cell-transplantation-for-diabetes-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4625"><link_title>Islet Cell Carcinoma (Endocrine Pancreas)</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-patient-information-nci-pdq-miscellaneous-islet-cell-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4626"><link_title>Islet Cell Carcinoma (Endocrine Pancreas)</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-patient-information-nci-pdq-recurrent-islet-cell-carcinoma</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804907a4"><link_title>Islet Cell Tumors (Pancreatic) Treatment</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/ncicdr0000062678-stages-of-islet-cell-tumors-endocrine-pancreas</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804907a5"><link_title>Islet Cell Tumors (Pancreatic) Treatment</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/ncicdr0000062678-recurrent-islet-cell-tumors-endocrine-pancreas</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4628"><link_title>Islet Cell Carcinoma (Endocrine Pancreas)</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-patient-information-nci-pdq-to-learn-more</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80249255"><link_title>Islet Cell Tumors (Endocrine Pancreas) Treatment (PDQ®)</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000062678-to-learn-more-about-islet-cell-tumors-endocrine-pancreas</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f443e"><link_title>Islet Cell Carcinoma (Endocrine Pancreas)</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-recurrent-islet-cell</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f443d"><link_title>Islet Cell Carcinoma (Endocrine Pancreas)</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-miscellaneous-islet-cell</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804907a6"><link_title>Islet Cell Tumors (Pancreatic) Treatment</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/ncicdr0000062678-treatment-options-for-islet-cell-tumors-endocrine-pancreas</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804907a3"><link_title>Islet Cell Tumors (Pancreatic) Treatment</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/ncicdr0000062678-general-information-about-islet-cell-tumors-endocrine-pancreas</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4438"><link_title>Islet Cell Carcinoma (Endocrine Pancreas)</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-stage-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4437"><link_title>Islet Cell Carcinoma (Endocrine Pancreas)</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-cellular-classification</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80185fdc"><link_title>Islet Cell Carcinoma (Endocrine Pancreas) Treatment (PDQ®)</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000062794-recurrent-islet-cell-tumors</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80185fdb"><link_title>Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®): Treatment - Health Professional Information [NCI]-Miscellaneous Islet Cell Tumors</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000062794-miscellaneous-islet-cell-tumors</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061b3fa"><link_title>Pancreatic Islet Cell Transplantation for Diabetes-Topic Overview</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/pancreatic-islet-cell-transplantation-for-diabetes-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001efcb"><link_title>Pancreatic Neuroendocrine Neoplasms (pNENs)</link_title><friendly_url>http://www.webmd.com/cancer/pancreatic-islet-cell-tumor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80185ffd"><link_title>Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®): Treatment - Patient Information [NCI]-Get More Information From NCI</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000062678-get-more-information-from-nci</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4620"><link_title>Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®): Treatment - Patient Information [NCI]-Treatment Option Overview</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-patient-information-nci-pdq-treatment-option-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f443b"><link_title>Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®): Treatment - Health Professional Information [NCI]-Insulinoma</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-insulinoma</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f443a"><link_title>Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®): Treatment - Health Professional Information [NCI]-Gastrinoma</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-gastrinoma</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f443c"><link_title>Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment (PDQ®): Treatment - Health Professional Information [NCI]-Glucagonoma</link_title><friendly_url>http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-health-professional-information-nci-pdq-glucagonoma</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800ee92e"><link_title>Pancreatic Cancer Causes and Risk Factors</link_title><friendly_url>http://www.webmd.com/cancer/pancreatic-cancer/causes-pancreatic-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800ee946"><link_title>Pancreatic Cancer Diagnosis and Early Detection</link_title><friendly_url>http://www.webmd.com/cancer/pancreatic-cancer/pancreatic-cancer-diagnosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800ee8e9"><link_title>Pancreatic Cancer Overview</link_title><friendly_url>http://www.webmd.com/cancer/pancreatic-cancer/information-pancreatic-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800ee953"><link_title>Pancreatic Cancer Treatments by Stage</link_title><friendly_url>http://www.webmd.com/cancer/pancreatic-cancer/pancreatic-cancer-treatments-stage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800ee90c"><link_title>Pancreatic Cancer Signs and Symptoms</link_title><friendly_url>http://www.webmd.com/cancer/pancreatic-cancer/pancreatic-cancer-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/cancer/pancreatic-cancer/islet-cell-tumors" onclick="return sl(this,'','lln-tdrelcon_1');">Pancreatic Neuroendocrine Tumors</a></li>
+      <li><a href="http://www.webmd.com/diabetes/tc/pancreatic-islet-cell-transplantation-for-diabetes-related-information" onclick="return sl(this,'','lln-tdrelcon_2');">Pancreatic Islet Cell Transplantation for Diabetes-Related Information</a></li>
+      <li><a href="http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-patient-information-nci-pdq-miscellaneous-islet-cell-cancer" onclick="return sl(this,'','lln-tdrelcon_3');">Islet Cell Carcinoma (Endocrine Pancreas)</a></li>
+      <li><a href="http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-patient-information-nci-pdq-recurrent-islet-cell-carcinoma" onclick="return sl(this,'','lln-tdrelcon_4');">Islet Cell Carcinoma (Endocrine Pancreas)</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/ncicdr0000062678-stages-of-islet-cell-tumors-endocrine-pancreas" onclick="return sl(this,'','lln-tdrelcon_5');">Islet Cell Tumors (Pancreatic) Treatment</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/ncicdr0000062678-recurrent-islet-cell-tumors-endocrine-pancreas" onclick="return sl(this,'','lln-tdrelcon_6');">Islet Cell Tumors (Pancreatic) Treatment</a></li>
+      <li><a href="http://www.webmd.com/cancer/tc/islet-cell-cancer-treatment-patient-information-nci-pdq-to-learn-more" onclick="return sl(this,'','lln-tdrelcon_7');">Islet Cell Carcinoma (Endocrine Pancreas)</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/cancer/pancreatic-cancer/islet-cell-tumors-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Islet Cell Tumors Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=665099649&amp;tile=2014830685&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=848&amp;pos=5000&amp;xpg=2946&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fcancer%2ftc%2fislet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information&amp;artid=091e9c5e800f4436&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_m32_cust4_k_h16_e1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=665099649&amp;amp;tile=2014830685&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=848&amp;amp;pos=5000&amp;amp;xpg=2946&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fcancer%2ftc%2fislet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information&amp;amp;artid=091e9c5e800f4436&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_m32_cust4_k_h16_e1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2946";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=665099649&amp;tile=2014830685&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=848&amp;pos=5001&amp;xpg=2946&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fcancer%2ftc%2fislet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information&amp;artid=091e9c5e800f4436&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_m32_cust4_k_h16_e1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=665099649&amp;amp;tile=2014830685&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=848&amp;amp;pos=5001&amp;amp;xpg=2946&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fcancer%2ftc%2fislet-cell-cancer-treatment-health-professional-information-nci-pdq-general-information&amp;amp;artid=091e9c5e800f4436&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_m32_cust4_k_h16_e1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2946";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

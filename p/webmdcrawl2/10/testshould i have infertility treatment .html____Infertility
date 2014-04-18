@@ -1,0 +1,939 @@
+<title>Should I have infertility treatment?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/infertility-and-reproduction/rm-quiz-fertility" onclick="return sl(this,'','lln-toolsres_1');">Quiz: Test Your Fertility IQ</a></li>
+      <li id="x57"><a href="http://www.webmd.com/baby/slideshow-understanding-fertility-ovulation" class="type_ss" onclick="return sl(this,'','lln-toolsres_2');">Boost Your Fertility<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/infertility-and-reproduction/slideshow-which-treatment-is-for-you" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">Infertility Treatments<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/women/healthtool-pelvic-exam" onclick="return sl(this,'','lln-toolsres_4');">Your Pelvic Exam: What to Expect</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/baby/slideshow-conception" class="type_ss" onclick="return sl(this,'','lln-toolsres_5');">Conception: From Egg to Embryo<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/infertility-and-reproduction/guide/choosing-a-fertility-clinic" onclick="return sl(this,'','lln-toolsres_6');">Choosing a Fertility Clinic</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionset.js">
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="headerLink_fmt"> 
+      <a href="/www/decision-point" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;">What is a Decision Point?</a> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionsetTOC_decsion_pt.jpg" alt="decision point" width="77" height="20" class="headerImg_fmt" />Should I have infertility treatment?</h2> 
+     <div class="decisionPoint_fmt"> 
+      <div class="section_fmt "> 
+       <div class="arrowFirst_fmt"> 
+        <div class="leftBorder_fmt"> 
+         <div class="rounded_fmt"> 
+          <div class="vertical1_fmt"> 
+           <div class="vertical2_fmt"> 
+            <div class="vertical3_fmt"> 
+             <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Introduction</a> 
+            </div> 
+           </div> 
+          </div> 
+          <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP1Arrw" alt="arrow" /> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail1_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa58855-Intro"></a> 
+          <p>After having testing for a cause ofinfertility, your next step is considering your doctor's recommendations about what to do next. Perhaps your tests have identified a problem, and a potentially effective treatment is available. Or, your test results are normal, finding no obvious reason why you shouldn't be able to conceive. In this case, you may be deciding whether to have more testing, try a treatment for &quot;unexplained <a href="http://www.webmd.com/infertility-and-reproduction/default.htm" onclick="return sl(this,'','embd-lnk');">infertility</a>,&quot; or continue trying to conceive naturally. In any case, you may also be considering adoption as a family planning alternative.</p> 
+          <p xmlns:xalan="http://xml.apache.org/xalan">This decision module can help you consider the various medical and personal questions that are related to infertility. It offers you information about infertility, treatment options according to condition, risks of those options, and general outcome information. After reviewing this information, you and your partner can use the worksheet to guide your thinking as you decide what to do next.</p> 
+          <p>Consider the following when making your decision:</p> 
+          <ul> 
+           <li>A man's <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/medical_information/health_tools/interactive/ovu_calendar">fertility</a> is not known to be severely affected by age. A woman's fertility gradually drops from her mid-30s into her 40s, due in great part to the naturalaging of the egg supply.</li> 
+           <li>In 10% of couples, no cause of infertility is found (unexplained infertility).<sup class="Reference"><a href="http://www.webmd.com/infertility-and-reproduction/should-i-have-infertility-treatment#zt1390" onclick="return sl(this,'','embd-lnk');">1</a></sup>Of all couples with unexplained infertility who do not seek treatment, about 35% will naturally become <a href="http://www.webmd.com/baby/pregnancy-toc-old" onclick="return sl(this,'','embd-lnk');">pregnant</a> within 3 years, and 45% do so within 7 years.<sup class="Reference"><a href="http://www.webmd.com/infertility-and-reproduction/should-i-have-infertility-treatment#tn8204" onclick="return sl(this,'','embd-lnk');">2</a></sup></li> 
+           <li>The crisis of infertility can be intensified by its treatment, which can be difficult, expensive, and sometimes traumatic. Make a point of:
+            <ul>
+             <li>Defining your limits for infertility treatment in advance. During <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/infertility-and-reproduction/guide/infertility-reproduction-diagnosis-tests">infertility treatment</a>, regularly evaluate your emotional, financial, and physical well-being.</li>
+             <li>Considering professional counseling. Prolonged infertility testing and treatment can intensify the stress of infertility itself. If you are becoming depressed or overly stressed, or your relationship is suffering, seek professional counseling to help you get through this crisis together.</li>
+            </ul></li> 
+           <li>Fertility clinic success ratesvary. When considering treatment success rates, be aware that many are given in terms of pregnancies conceived. Pregnancy rates do not reflect the fact that some pregnancies miscarry. In any group of women, live birth rates are lower than early pregnancy rates.</li> 
+          </ul> 
+          <p>For information about any clinic you are considering, see the Centers for Disease Control and Prevention CDC) Web site at www.cdc.gov/reproductivehealth/art.htm.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Medical Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP2Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail2_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa58855-MedInfo"></a> 
+          <h4>What is infertility?</h4> 
+          <p>Infertility is defined as a couple's inability to become pregnant after 1 year of sex without using birth control. However, &quot;normal fertility&quot; is defined as the ability to naturally conceive within 2 years' time.</p> 
+          <p>A woman's fertility gradually declines from her mid-30s into her 40s, due in great part to the naturalaging of the egg supply. A man's fertility is not known to be severely affected by age.</p> 
+          <ul> 
+           <li> <a href="http://www.webmd.com/baby/miscarriage-rate" onclick="return sl(this,'','embd-lnk');">As egg quality declines with age, miscarriage risk increases</a> <a href="http://www.webmd.com/baby/miscarriage-rate" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" align="" style="" /></a>.</li> 
+           <li>Using women's own eggs forassisted reproductive technology (ART)treatment, the annual live birth rate steadily declines from 35% under age 35, to 20% in women aged 38 to 40, to 5% or less in women over age 43.<sup class="Reference"><a href="http://www.webmd.com/infertility-and-reproduction/should-i-have-infertility-treatment#zt1395" onclick="return sl(this,'','embd-lnk');">3</a></sup></li> 
+           <li>Using donor eggs for ART treatment, a woman's chances of having a live birth do<b>not</b>decline. At age 30 and at age 45, the average donor egg birth rate using fresh embryos is over 45%.<sup class="Reference"><a href="http://www.webmd.com/infertility-and-reproduction/should-i-have-infertility-treatment#zt1395" onclick="return sl(this,'','embd-lnk');">3</a></sup>(Clinics may not accept donor eggs from women over 30 years old.)</li> 
+          </ul> 
+          <h4>What causes infertility?</h4> 
+          <p>In about 35% of couples, testing reveals a <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/infertility-and-reproduction/default.htm">male fertility</a> problem, as with sperm production or ejaculation. In about 50% of couples, the primary cause is a female fertility problem withovulation,fallopian tubefunction, or other pelvic problems, such asendometriosis. Some couples find that both partners have a fertility problem. In 10% of couples, no cause of infertility is found.<sup class="Reference"><a href="http://www.webmd.com/infertility-and-reproduction/should-i-have-infertility-treatment#zt1390" onclick="return sl(this,'','embd-lnk');">1</a></sup></p> 
+          <h4>What <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/infertility-and-reproduction/guide/infertility-reproduction-symptoms-types">types of infertility</a> treatment are available?</h4> 
+          <p>Infertility treatment ranges from using simple fertility awareness measures to pinpoint your &quot;<a href="http://www.webmd.com/infertility-and-reproduction/fertile-window-for-conceiving-a-pregnancy" onclick="return sl(this,'hw','embd-lnk');">fertile window</a>&quot; to specialized surgical, hormonal, andassisted reproductive technology (ART)treatments. Some of these can have high financial, physical, and emotional costs.</p> 
+          <p>The following table lists some general causes of infertility and the types of treatment options you may have. Also see the U.S. Centers for Disease Control and Prevention's Web site for the most recent information about assisted reproductive technology success rates at http://www.cdc.gov/reproductivehealth/art.htm.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <caption> 
+            <b>Infertility: General causes, treatment options, and risks</b> 
+           </caption> 
+           <tbody>
+            <tr valign="top"> 
+             <th align="center" scope="col">Cause of infertility</th> 
+             <th align="center" scope="col">Possible treatment options</th> 
+             <th align="center" scope="col">Risks</th> 
+            </tr> 
+            <tr valign="top"> 
+             <td rowspan="3" valign="top"> <p>Sperm problems (low sperm count, lack of sperm)</p> </td> 
+             <td valign="top"> <p>Useconcentrated spermor donor sperm forartificial or intrauterine insemination.</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>Side effects ofclomiphene,gonadotropin-releasing hormone (GnRH), orgonadotropins, if used to stimulate <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/medical_information/health_tools/interactive/ovu_calendar">ovulation</a></li> 
+               <li>Side effects of agonadotropin-releasing hormone analogue (GnRH-a), if used to shut down ovaries before stimulating ovulation</li> 
+               <li>Risks of insemination procedure</li> 
+               <li>Multiple pregnancy risks to fetuses and mother, if ovulation is stimulated</li> 
+              </ul> </td> 
+            </tr> 
+            <tr valign="top"> 
+             <td valign="top"> <p>Useintracytoplasmic sperm injection (ICSI)combined within vitro fertilization (IVF).</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>Side effects ofgonadotropin-releasing hormone analogue (GnRH-a), if used to shut down ovaries before stimulating ovulation</li> 
+               <li>Side effects ofclomiphene,gonadotropin-releasing hormone (GnRH), orgonadotropinsthat are used to stimulate ovulation</li> 
+               <li>Risks of proceduresused to collect eggs and place embryo</li> 
+               <li>Multiple pregnancy risks to fetuses and mother</li> 
+               <li>With ICSI, risk thatmale child may inherit the father's sperm problemsor other genetic problems</li> 
+               <li>With ICSI,slightly increased risk of certain birth defects</li> 
+              </ul> </td> 
+            </tr> 
+            <tr valign="top"> 
+             <td> <p>Increase sperm production withmedicationorgonadotropins.</p> </td> 
+             <td> 
+              <ul> 
+               <li>Side effects ofmedicationorgonadotropins</li> 
+              </ul> </td> 
+            </tr> 
+            <tr valign="top"> 
+             <td rowspan="2" valign="top"> <p>Blocked fallopian tubes or endometriosis</p> </td> 
+             <td valign="top"> <p>Surgeryto open the fallopian tubes (successful procedure can lead to more than one pregnancy).</p> </td> 
+             <td> 
+              <ul> 
+               <li>Risks of tubal surgery</li> 
+               <li>Greater risk ofectopic pregnancyif tubes are damaged and have scar tissue</li> 
+              </ul> </td> 
+            </tr> 
+            <tr valign="top"> 
+             <td> <p>Havein vitro fertilization (IVF)(which first requires ovulation stimulation withclomiphene,gonadotropin-releasing hormone [GnRH], orgonadotropins, then harvesting of eggs)-successful procedure produces only one pregnancy.</p> </td> 
+             <td> 
+              <ul> 
+               <li>Side effects ofgonadotropin-releasing hormone analogue (GnRH-a), if used to shut down ovaries before stimulating ovulation</li> 
+               <li>Side effects ofclomiphene,gonadotropin-releasing hormone (GnRH), orgonadotropinsthat are used to stimulate ovulation</li> 
+               <li>Risks of proceduresused to collect eggs and place embryo</li> 
+               <li>Multiple pregnancy risks to fetuses and mother</li> 
+              </ul> </td> 
+            </tr> 
+            <tr valign="top"> 
+             <td rowspan="3" valign="top"> <p>Ovulation problems</p> </td> 
+             <td> <p>Have <a href="http://www.webmd.com/men/guide/7-sex-mistakes-men-make" onclick="return sl(this,'','embd-lnk');">sex</a> during<a href="http://www.webmd.com/infertility-and-reproduction/fertile-window-for-conceiving-a-pregnancy" onclick="return sl(this,'hw','embd-lnk');">6-day fertile window</a>(fertility awareness).</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>Less likely to lead to pregnancy than ovulation-inducing treatments</li> 
+              </ul> </td> 
+            </tr> 
+            <tr valign="top"> 
+             <td valign="top"> <p>Stimulate ovulation withclomiphene,gonadotropin-releasing hormone (GnRH), orgonadotropins.</p> </td> 
+             <td> 
+              <ul> 
+               <li>Side effects ofclomiphene,gonadotropin-releasing hormone (GnRH), orgonadotropinsthat are used to stimulate ovulation</li> 
+               <li>Multiple pregnancy risks to fetuses and mother</li> 
+              </ul> </td> 
+            </tr> 
+            <tr valign="top"> 
+             <td valign="top"> <p>Stimulate ovulation withclomiphene,gonadotropin-releasing hormone (GnRH), orgonadotropins, then harvest eggs forin vitro fertilization (IVF).</p> </td> 
+             <td> 
+              <ul> 
+               <li>Side effects ofgonadotropin-releasing hormone agonist (GnRH-a), if used to shut down ovaries before stimulating ovulation</li> 
+               <li>Side effects ofclomiphene,gonadotropin-releasing hormone (GnRH), orgonadotropinsthat are used to stimulate ovulation</li> 
+               <li>Risks of proceduresused to collect eggs and place embryo</li> 
+               <li>Multiple pregnancy risks to fetuses and mother</li> 
+              </ul> </td> 
+            </tr> 
+            <tr valign="top"> 
+             <td rowspan="2" valign="top"> <p>No known cause (unexplained infertility)</p> </td> 
+             <td> <p>Have sex during<a href="http://www.webmd.com/infertility-and-reproduction/fertile-window-for-conceiving-a-pregnancy" onclick="return sl(this,'hw','embd-lnk');">6-day fertile window</a>(fertility awareness).</p> </td> 
+             <td> 
+              <ul> 
+               <li>In the presence of a physical problem, is less likely to lead to pregnancy than other possible treatments</li> 
+              </ul> </td> 
+            </tr> 
+            <tr valign="top"> 
+             <td valign="top"> <p>Useartificial or intrauterine insemination, a type of insemination, with or without ovulation stimulation</p> </td> 
+             <td> 
+              <ul> 
+               <li>Side effects ofgonadotropin-releasing hormone agonist (GnRH-a), if used to shut down ovaries before stimulating ovulation</li> 
+               <li>Side effects ofclomiphene,gonadotropin-releasing hormone (GnRH), orgonadotropins, if used to stimulate ovulation</li> 
+               <li>Risks of insemination procedure</li> 
+              </ul> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p>If you need more information, see the topicFertility Problems.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Your Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP3Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail3_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa58855-YourInfo"></a> 
+          <p>Your choices are:</p> 
+          <ul> 
+           <li>Try an infertility treatment.</li> 
+           <li>Do not try infertility treatment. This opens up further decisions about putting pregnancy plans aside for awhile, looking into adoption, and/or continuing to try to conceive using fertility awareness measures.</li> 
+          </ul> 
+          <p>The decision about whether to have infertility treatment takes into account your personal feelings and the medical facts.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <caption> 
+            <b>Deciding about infertility treatment</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th align="center" scope="col">Reasons to have infertility treatment</th> 
+             <th align="center" scope="col">Reasons not to have infertility treatment</th> 
+            </tr> 
+            <tr> 
+             <td valign="top" width="50%"> 
+              <ul> 
+               <li>You have a known condition that can be corrected for with infertility treatment.</li> 
+               <li>You have unexplained infertility, and your doctor has proposed a treatment that can increase your chances of carrying a healthy pregnancy.</li> 
+               <li>You are a woman age 35 or older and are concerned that your chances of pregnancy are decreasing with age.</li> 
+               <li>You have the financial resources to pay for treatment, as well as pregnancy care.</li> 
+               <li>The possible risks and side effects outweigh the possible benefits of treatment you're considering.</li> 
+              </ul> <p>Are there other reasons you might want to have infertility treatment?</p> </td> 
+             <td valign="top" width="50%"> 
+              <ul> 
+               <li>Testing has not shown a specific cause of infertility, and you want to continue trying to naturally conceive.</li> 
+               <li>Testing has shown a cause or causes of infertility, and you are not comfortable with the risks or chances of pregnancy related to the treatment.</li> 
+               <li>You do not have the financial resources to cover infertility treatment and pregnancy care.</li> 
+               <li>You and your partner have decided on adoption.</li> 
+               <li>Your religious beliefs do not allow for the type of treatment that could improve your chances of a healthy pregnancy.</li> 
+              </ul> <p>Are there other reasons you might not want to infertility treatment?</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p>Thesepersonal storiesmay help you make your decision.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Wise Health Decision</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP4Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail4_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa58855-WiseDecision"></a> 
+          <p>Use this worksheet to help you make your decision. After completing it, you should have a better idea of how you feel about infertility treatment. Discuss the worksheet with your doctor.</p> 
+          <p>Circle the answer that best applies to you.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody> 
+            <tr> 
+             <td valign="top">Infertility treatment feels right for me.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I am inclined to let nature take its course without using treatment.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I want to continue trying to conceive naturally before trying treatment.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I know what kinds of treatment options am I willing to try.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I know how long I'd be willing to try infertility treatment.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">It is important to me that I/we have a biological child.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I/we would consider adoption now or in the future.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I would consider using donor eggs or sperm to conceive.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I/we have enough money and/or health coverage to fund infertility treatment.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I/we have figured out the best way to periodically evaluate my/our testing and treatment plan.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <p>Use the following space to list any other important concerns you have about this decision.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <tbody>
+            <tr> 
+             <td valign="top" width="98%"> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <h4>What is your overall impression?</h4> 
+          <p>Your answers in the above worksheet are meant to give you a general idea of where you stand on this decision. You may have one overriding reason to have or not have infertility treatment.</p> 
+          <p>Check the box below that represents your overall impression about your decision.</p> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward having infertility treatment</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="25%"> <p> <b>Leaning toward NOT having infertility treatment</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">References</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP5Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail5_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa58855-Bib"></a> 
+          <blockquote> 
+           <h3>Citations</h3> 
+           <ol> 
+            <li> <p> <a name="zt1390"></a>Speroff L, Fritz MA (2005). <a href="http://www.webmd.com/infertility-and-reproduction/guide/female-infertility" onclick="return sl(this,'','embd-lnk');">Female infertility</a>. In<u>Clinical Gynecologic Endocrinology and Infertility</u>, 7th ed., pp. 1013-1067. Philadelphia: Lippincott Williams and Wilkins.</p> </li> 
+            <li> <p> <a name="tn8204"></a>Lobo RA (2007). Infertility: Etiology, diagnostic evaluation, management, prognosis. In VL Katz et al., eds.,<u>Comprehensive Gynecology</u>, 5th ed., pp. 1001-1037. Philadelphia: Mosby.</p> </li> 
+            <li> <p> <a name="zt1395"></a>Centers for Disease Control and Prevention (2006).<u>Assisted Reproductive Technology (ART) Report: 2005 Preliminary Clinic Data by State and National Summary</u>. Available online: http://apps.nccd.cdc.gov/ART2005/clinics05.asp.</p> </li> 
+           </ol> 
+          </blockquote> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt  last_fmt"> 
+       <div class="arrowLast_fmt" id="lastDiv"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;">Credits</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP6Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail6_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="aa58855-Credits"></a> 
+          <table border="0" cellpadding="5"> 
+           <tbody>
+            <tr> 
+             <td valign="top"> <b>Author</b> </td> 
+             <td>Bets Davis, MFA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Author</b> </td> 
+             <td>Sandy Jocoy, RN</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Editor</b> </td> 
+             <td>Kathleen M. Ariss, MS</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Pat Truman, MATC</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+             <td>Sarah Marshall, MD - Family Medicine</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+             <td>Kirtly Jones, MD - Obstetrics and Gynecology</td> 
+            </tr> 
+            <tr> 
+             <td> <b>Last Updated</b> </td> 
+             <td>March 21, 2008</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: March 21, 2008
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - DecisionPoint';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1065"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/baby/getting-pregnant-expert-10/fertility-specialist" onclick="return sl(this,'','rltd-p-1065_1');">When Is It Time to See a Specialist?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/infertility-and-reproduction/guide/in-vitro-fertilization" onclick="return sl(this,'','rltd-p-1065_2');">In Vitro Fertilization: What You Need to Know</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/baby/slideshow-fetal-development" onclick="return sl(this,'','rltd-p-1065_3');">Slideshow: Fetal Development Month-by-Month</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/baby/healthtool-assisted-reproduction" onclick="return sl(this,'','rltd-p-1065_4');">Illustrated Guide to Assisted Reproduction</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/baby/getting-pregnant-expert-10/getting-pregnant" onclick="return sl(this,'','rltd-p-1065_5');">6 Ways to Boost Your Fertility</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/infertility-and-reproduction/male-fertility-test" onclick="return sl(this,'','rltd-p-1065_6');">Infertility and Men: What You Should Know</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1065_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=2133687976&tile=228923102&tug=&pug=__&site=2&affiliate=20&hcent=1142&scent=&pos=113&xpg=1819&sec=&amp;au1=1&au2=&uri=%2finfertility-and-reproduction%2fshould-i-have-infertility-treatment&artid=091e9c5e8001ccc4&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_gen2_gen1_cust4_o_n97_n46_sex3_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'2133687976',
+                    tile:'228923102',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1819";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2133687976&amp;tile=228923102&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1142&amp;scent=&amp;pos=5001&amp;xpg=1819&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2finfertility-and-reproduction%2fshould-i-have-infertility-treatment&amp;artid=091e9c5e8001ccc4&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_gen2_gen1_cust4_o_n97_n46_sex3_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2133687976&amp;amp;tile=228923102&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1142&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1819&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2finfertility-and-reproduction%2fshould-i-have-infertility-treatment&amp;amp;artid=091e9c5e8001ccc4&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_gen2_gen1_cust4_o_n97_n46_sex3_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1819";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,608 @@
+<title>Nasopharyngeal Cancer</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/cancer/video/men-bladder-cancer" class="type_vid" onclick="return sl(this,'','lln-toolsres_1');">Bladder Cancer in Men<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Assess Your Cancer Risk</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/breast-cancer/slideshow-breast-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">Breast Cancer: A Visual Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cancer/video/humor-therapy-cancer" class="type_vid" onclick="return sl(this,'','lln-toolsres_4');">Humor Therapy for Cancer<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/cancer/pancreatic-cancer/slideshow-pancreatic-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_5');">Understanding Pancreatic Cancer<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/lung-cancer/slideshow-lung-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_6');">Lung Cancer: The Big Picture<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e8010908b"><metadata_section><i_chronicle_id>091e9c5e800f41ea</i_chronicle_id><r_object_id>091e9c5e8010908b</r_object_id><title>General Information</title><object_name>ncicdr0000062918-General_Information.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e8010908b</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e8015ba98</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>Some material in CancerNet™ is from copyrighted publications of the respective copyright claimants. Users of CancerNet™ are referred to the publication data appearing in the bibliographic citations, as well as to the copyright notices appearing in the original publication, all of which are hereby incorporated by reference. </wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>nci_ncicdr0000062918-general-information</wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl>Nasopharyngeal Cancer</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378509</r_object_id><publ_i_chronicle_id>091e9c5e8001915b</publ_i_chronicle_id><wbmd_publ_name>Healthwise - NCI</wbmd_publ_name><wbmd_publ_display>WebMD Public Information from the National Cancer Institute</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>The nasopharynx has a cuboidal shape.  The lateral walls are formed by the eustachian tube and the fossa of Rosenmuller.  The roof,sloping downward from anterior to posterior,is bordered by the pharyngeal hypophysis,pharyngeal tonsil,and pharyngeal bursa with the base of the skull above.  Anteriorly,the nasopharynx abuts the posterior choanae and nasal cavity,and the posterior boundary is ...</wbmd_desc_meta><wbmd_orig_pub_dt>03/12/2007 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>The nasopharynx has a cuboidal shape.  The lateral walls are formed by the eustachian tube and the fossa of Rosenmuller.  The roof,sloping downward from anterior to posterior,is bordered by the pharyngeal hypophysis,pharyngeal tonsil,and pharyngeal bursa with the base of the skull above.  Anteriorly,the nasopharynx abuts the posterior choanae and nasal cavity,and the posterior boundary is ...</wbmd_desc_user><wbmd_lk_ttl>Nasopharyngeal Cancer</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Nasopharyngeal Cancer</wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>C0</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>cust1</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e8010908b</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="2730" wbmd_disp_nm="Oral Cancers"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1022" wbmd_disp_nm="Cancer"></wbmd_c_channel_id><wbmd_c_frnd_nm>Nasopharyngeal-cancer-Treatment-Health-Professional-Information-NCI-PDQ-General-Information</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id=""></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>General Information</title><pages><page><section_group><section_header></section_header><section_type>Vendor</section_type><section_text><a name="ncicdr0000062918-general-information"></a><p>The nasopharynx has a cuboidal shape.  The lateral walls are formed by the
+eustachian tube and the fossa of Rosenmuller.  The roof, sloping downward from
+anterior to posterior, is bordered by the pharyngeal hypophysis, pharyngeal
+tonsil, and pharyngeal bursa with the base of the skull above.  Anteriorly, the
+nasopharynx abuts the posterior choanae and nasal cavity, and the posterior
+boundary is formed by the muscles of the posterior pharyngeal wall. 
+Inferiorly, the nasopharynx ends at an imaginary horizontal line formed by the
+upper surface of the soft palate and the posterior pharyngeal wall.
+</p><p>Unlike other squamous cell cancers of the head and neck, nasopharyngeal cancer
+does not appear to be linked to excess use of tobacco and alcohol.  Factors
+thought to predispose to this tumor include Chinese (or Asian) ancestry,
+Epstein-Barr virus (EBV) exposure,[<a bookmark="s1.1" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">1</a>] and as yet unknown factors that result in
+very rare familial clusters.[<a bookmark="s1.2" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">2</a>]
+</p><p>Symptoms and signs at presentation include painless, enlarged lymph nodes in
+the neck (present in approximately 75% of patients and often bilateral and
+posterior), nasal obstruction, epistaxis, diminished hearing, tinnitus,
+recurrent otitis media, cranial nerve dysfunction (usually II–VI or IX–XII),
+sore throat, and headache.  In the patient who presents with only cervical
+adenopathy, the finding of EBV genomic material in the tissue after
+amplification of DNA with the polymerase chain reaction lends strong evidence
+for a nasopharyngeal primary tumor, and a concerted search should be conducted
+in that area.[<a bookmark="s1.3" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">3</a>]
+</p><p>Tumors of many histologies can occur in the nasopharynx but this discussion,
+like the American Joint Committee on Cancer nasopharynx staging, refers
+exclusively to those of squamous cell type.
+</p><p>Diagnosis is made by biopsy of the nasopharyngeal mass.  Workup includes
+careful visual examination (by mirror or endoscopic examination); documentation
+of the size and location of the tumor and neck nodes; evaluation of cranial
+nerve function and hearing; skull films (especially base of skull views),
+evaluating neural foramina; complete computed tomographic (CT) scan or magnetic
+resonance imaging (MRI) with views delineating the upper and lower extent of
+the lesion; chest x-ray; hemogram; and chemistry panel.  Any clinical or
+laboratory suggestion of distant metastasis may prompt further evaluation of
+other sites.  Careful dental and oral hygiene evaluation and therapy is
+particularly important prior to initiation of radiation treatment.  MRI is
+often more helpful than CT scans in detecting abnormalities and in defining
+their extent.[<a bookmark="s1.4" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">4</a>,<a bookmark="s1.5" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">5</a>,<a bookmark="s1.6" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">6</a>]
+</p><p>Major prognostic factors adversely influencing outcome of treatment include
+large size of the tumor, higher T stage, and the presence of involved neck
+nodes.[<a bookmark="s1.7" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">7</a>]  Other factors linked to diminished survival that were present in some, but not all,
+studies include age, nonlymphoepithelial histology, long interval between
+biopsy and initiation of radiation therapy, diminished immune function at
+diagnosis, incomplete excision of involved neck nodes, pregnancy during
+treatment, locoregional relapse, and certain EBV antibody titer patterns.
+</p></section_text></section_group></page><page><section_group><section_header is_continued="true"> continued...</section_header><section_type>Vendor</section_type><section_text><p>Small cancers of the nasopharynx are highly curable by radiation therapy and have shown
+survival rates of 80% to 90%.[<a bookmark="s1.8" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">8</a>]
+</p><p>Moderately advanced lesions without clinical evidence of spread to cervical
+lymph nodes are often curable and have shown  survival rates of 50% to 70%.
+</p><p>Patients with advanced lesions, especially those associated with clinically
+positive cervical lymph nodes, cranial nerve involvement, and bone destruction,
+are poorly controlled locally by radiation therapy with or without surgery and
+often develop distant metastases despite local control.[<a bookmark="s1.9" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">9</a>,<a bookmark="s1.10" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">10</a>]
+</p><p>Although most recurrences occur within 5 years of diagnosis, relapse can be
+seen at longer intervals.  The incidence of second primary malignancies appears
+less than other head and neck sites.[<a bookmark="s1.11" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">11</a>]
+</p><p>Follow-up for patients includes routine periodic examination of the original
+tumor site and neck, chest x-ray, MRI or CT scan, and blood work.  Positron emission tomography scans may be useful in planning treatment for patients with suspected recurrence.[<a bookmark="s1.12" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">12</a>] Monitoring
+of patients should include surveillance of thyroid and pituitary function;
+dental and oral hygiene; jaw exercises to avoid trismus; evaluation of cranial
+nerve function, especially those related to vision and hearing; and evaluation
+of systemic complaints to identify distant metastasis.
+</p><p>Poorly differentiated squamous cancer has been associated with EBV
+antibodies.[<a bookmark="s1.3" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">3</a>,<a bookmark="s1.13" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">13</a>]  High-titer antibodies to virus capsid antigen and early
+antigen, especially of high IgA class, or high titers that persist after
+therapy, have been associated with a poorer prognosis.[<a bookmark="s1.14" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f41ea" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.xml">14</a>]  This finding remains
+under evaluation.
+</p><p><b>References:</b><br></p><ol><li><a name="s1.1"></a>Chien YC, Chen JY, Liu MY, et al.: Serologic markers of Epstein-Barr virus infection and nasopharyngeal carcinoma in Taiwanese men. N Engl J Med 345 (26): 1877-82, 2001.</li><li><a name="s1.2"></a>Decker J, Goldstein JC: Risk factors in head and neck cancer. N Engl J Med 306 (19): 1151-5, 1982.</li><li><a name="s1.3"></a>Feinmesser R, Miyazaki I, Cheung R, et al.: Diagnosis of nasopharyngeal carcinoma by DNA amplification of tissue obtained by fine-needle aspiration. N Engl J Med 326 (1): 17-21, 1992.</li><li><a name="s1.4"></a>Mendenhall WM, Riggs CE Jr, Cassisi NJ: Treatment of head and neck cancers. In: DeVita VT Jr, Hellman S, Rosenberg SA, eds.: Cancer: Principles and Practice of Oncology. 7th ed. Philadelphia, Pa: Lippincott Williams &amp; Wilkins, 2005, pp 662-732.</li><li><a name="s1.5"></a>Laramore GE, ed.: Radiation Therapy of Head and Neck Cancer. Berlin: Springer-Verlag, 1989.</li><li><a name="s1.6"></a>Cummings CW, Fredrickson JM, Harker LA, et al.: Otolaryngology - Head and Neck Surgery. Saint Louis, Mo: Mosby-Year Book, Inc., 1998.</li><li><a name="s1.7"></a>Sanguineti G, Geara FB, Garden AS, et al.: Carcinoma of the nasopharynx treated by radiotherapy alone: determinants of local and regional control. Int J Radiat Oncol Biol Phys 37 (5): 985-96, 1997.</li><li><a name="s1.8"></a>Bailet JW, Mark RJ, Abemayor E, et al.: Nasopharyngeal carcinoma: treatment results with primary radiation therapy. Laryngoscope 102 (9): 965-72, 1992.</li><li><a name="s1.9"></a>Fandi A, Altun M, Azli N, et al.: Nasopharyngeal cancer: epidemiology, staging, and treatment. Semin Oncol 21 (3): 382-97, 1994.</li><li><a name="s1.10"></a>Teo PM, Chan AT, Lee WY, et al.: Enhancement of local control in locally advanced node-positive nasopharyngeal carcinoma by adjunctive chemotherapy. Int J Radiat Oncol Biol Phys 43 (2): 261-71, 1999.</li><li><a name="s1.11"></a>Cooper JS, Scott C, Marcial V, et al.: The relationship of nasopharyngeal carcinomas and second independent malignancies based on the Radiation Therapy Oncology Group experience. Cancer 67 (6): 1673-7, 1991.</li><li><a name="s1.12"></a>Zheng XK, Chen LH, Wang QS, et al.: Influence of [18F] fluorodeoxyglucose positron emission tomography on salvage treatment decision making for locally persistent nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys 65 (4): 1020-5, 2006.</li><li><a name="s1.13"></a>Neel HB 3rd, Pearson GR, Taylor WF: Antibodies to Epstein-Barr virus in patients with nasopharyngeal carcinoma and in comparison groups. Ann Otol Rhinol Laryngol 93 (5 Pt 1): 477-82, 1984 Sep-Oct.</li><li><a name="s1.14"></a>Lin JC, Chen KY, Wang WY, et al.: Detection of Epstein-Barr virus DNA the peripheral-blood cells of patients with nasopharyngeal carcinoma: relationship to distant metastasis and survival. J Clin Oncol 19 (10): 2607-15, 2001.</li></ol></section_text></section_group></page><page><section_group><section_header></section_header><section_type>float</section_type><section_text><table><tr><td valign="top"><img align="top" alt="" height="64" src="/webmd/consumer_assets/site_images/media/medical/nci/ncired.gif" type="medical" width="101" directive="imageurl" chronic_id="" object_type="" path="/webmd/consumer_assets/site_images/media/medical/nci/ncired.gif"></td><td width="12"></td><td valign="top" width="308"><p><span class="Size1">This information is produced and provided by the National Cancer Institute (NCI). The information in this topic may have changed since it was written. For the most current information, contact the National Cancer Institute via the Internet web site at http://cancer.gov or call 1-800-4-CANCER </span></p></td></tr></table><h3>Nasopharyngeal Cancer</h3></section_text></section_group></page></pages><citations></citations></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information" owner="false"><breadcrumb><bread piece="Cancer Health Center" prefix="www" friendlyurl="/cancer/default.htm"></bread><bread piece="Cancer Related Topics" prefix="www" friendlyurl="/cancer/tc/default.htm"></bread></breadcrumb><centers><Super id="848" name="super center" chronicid="091e9c5e80024a11" prefix="www" friendlyurl="/cancer/default.htm" type="">Cancer</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e800f41ea" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062918-General_Information.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><dynamic_objects><callout_title>Recommended Related to Cancer</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e998a3"><metadata_section><i_chronicle_id>091e9c5e8061af7a</i_chronicle_id><title>Ewing Sarcoma: Recurrent Tumors</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>
+  Standard Treatment Options
+
+ Recurrence of Ewing sarcoma is most common within 2 years of initial diagnosis (approximately 80%).[1,2] However, late relapses occurring more than 5 years from initial diagnosis are more common in Ewing sarcoma (13%; 95% confidence interval, 9.4–16.5) than in other pediatric solid tumors.[3] The overall prognosis for patients with recurrent Ewing sarcoma is poor; 5-year survival following recurrence is approximately 10% to 15%.[2,4,5]; [1][Level of evidence: 3iiA]...</p></section_text><link siteid="3" prefix="www" friendlyurl="/cancer/tc/ncicdr0000062841-ewing-sarcoma-recurrent-tumors"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>General Information</h2>
+     <div class="hwDefinition_fmt">
+      <h3> continued...</h3>
+      <p>Small cancers of the nasopharynx are highly curable by radiation therapy and have shown survival rates of 80% to 90%.[<a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.8" onclick="return sl(this,'','embd-lnk');">8</a>] </p>
+      <p>Moderately advanced lesions without clinical evidence of spread to cervical lymph nodes are often curable and have shown survival rates of 50% to 70%. </p>
+      <p>Patients with advanced lesions, especially those associated with clinically positive cervical lymph nodes, cranial nerve involvement, and bone destruction, are poorly controlled locally by radiation therapy with or without surgery and often develop distant metastases despite local control.[<a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.9" onclick="return sl(this,'','embd-lnk');">9</a>,<a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.10" onclick="return sl(this,'','embd-lnk');">10</a>] </p>
+      <p>Although most recurrences occur within 5 years of diagnosis, relapse can be seen at longer intervals. The incidence of second primary malignancies appears less than other head and neck sites.[<a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.11" onclick="return sl(this,'','embd-lnk');">11</a>] </p>
+      <p>Follow-up for patients includes routine periodic examination of the original tumor site and neck, chest x-ray, MRI or CT scan, and blood work. Positron emission tomography scans may be useful in planning treatment for patients with suspected recurrence.[<a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.12" onclick="return sl(this,'','embd-lnk');">12</a>] Monitoring of patients should include surveillance of thyroid and pituitary function; dental and oral hygiene; jaw exercises to avoid trismus; evaluation of cranial nerve function, especially those related to vision and hearing; and evaluation of systemic complaints to identify distant metastasis. </p>
+      <p>Poorly differentiated squamous cancer has been associated with EBV antibodies.[<a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.3" onclick="return sl(this,'','embd-lnk');">3</a>,<a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.13" onclick="return sl(this,'','embd-lnk');">13</a>] High-titer antibodies to virus capsid antigen and early antigen, especially of high IgA class, or high titers that persist after therapy, have been associated with a poorer prognosis.[<a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information#s1.14" onclick="return sl(this,'','embd-lnk');">14</a>] This finding remains under evaluation. </p>
+      <p><b>References:</b><br /></p>
+      <ol>
+       <li><a name="s1.1"></a>Chien YC, Chen JY, Liu MY, et al.: Serologic markers of Epstein-Barr virus infection and nasopharyngeal carcinoma in Taiwanese men. N Engl J Med 345 (26): 1877-82, 2001.</li>
+       <li><a name="s1.2"></a>Decker J, Goldstein JC: Risk factors in head and neck cancer. N Engl J Med 306 (19): 1151-5, 1982.</li>
+       <li><a name="s1.3"></a>Feinmesser R, Miyazaki I, Cheung R, et al.: Diagnosis of nasopharyngeal carcinoma by DNA amplification of tissue obtained by fine-needle aspiration. N Engl J Med 326 (1): 17-21, 1992.</li>
+       <li><a name="s1.4"></a>Mendenhall WM, Riggs CE Jr, Cassisi NJ: Treatment of head and neck cancers. In: DeVita VT Jr, Hellman S, Rosenberg SA, eds.: Cancer: Principles and Practice of Oncology. 7th ed. Philadelphia, Pa: Lippincott Williams &amp; Wilkins, 2005, pp 662-732.</li>
+       <li><a name="s1.5"></a>Laramore GE, ed.: Radiation Therapy of Head and Neck Cancer. Berlin: Springer-Verlag, 1989.</li>
+       <li><a name="s1.6"></a>Cummings CW, Fredrickson JM, Harker LA, et al.: Otolaryngology - Head and Neck Surgery. Saint Louis, Mo: Mosby-Year Book, Inc., 1998.</li>
+       <li><a name="s1.7"></a>Sanguineti G, Geara FB, Garden AS, et al.: Carcinoma of the nasopharynx treated by radiotherapy alone: determinants of local and regional control. Int J Radiat Oncol Biol Phys 37 (5): 985-96, 1997.</li>
+       <li><a name="s1.8"></a>Bailet JW, Mark RJ, Abemayor E, et al.: Nasopharyngeal carcinoma: treatment results with primary radiation therapy. Laryngoscope 102 (9): 965-72, 1992.</li>
+       <li><a name="s1.9"></a>Fandi A, Altun M, Azli N, et al.: Nasopharyngeal cancer: epidemiology, staging, and treatment. Semin Oncol 21 (3): 382-97, 1994.</li>
+       <li><a name="s1.10"></a>Teo PM, Chan AT, Lee WY, et al.: Enhancement of local control in locally advanced node-positive nasopharyngeal carcinoma by adjunctive chemotherapy. Int J Radiat Oncol Biol Phys 43 (2): 261-71, 1999.</li>
+       <li><a name="s1.11"></a>Cooper JS, Scott C, Marcial V, et al.: The relationship of nasopharyngeal carcinomas and second independent malignancies based on the Radiation Therapy Oncology Group experience. Cancer 67 (6): 1673-7, 1991.</li>
+       <li><a name="s1.12"></a>Zheng XK, Chen LH, Wang QS, et al.: Influence of [18F] fluorodeoxyglucose positron emission tomography on salvage treatment decision making for locally persistent nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys 65 (4): 1020-5, 2006.</li>
+       <li><a name="s1.13"></a>Neel HB 3rd, Pearson GR, Taylor WF: Antibodies to Epstein-Barr virus in patients with nasopharyngeal carcinoma and in comparison groups. Ann Otol Rhinol Laryngol 93 (5 Pt 1): 477-82, 1984 Sep-Oct.</li>
+       <li><a name="s1.14"></a>Lin JC, Chen KY, Wang WY, et al.: Detection of Epstein-Barr virus DNA the peripheral-blood cells of patients with nasopharyngeal carcinoma: relationship to distant metastasis and survival. J Clin Oncol 19 (10): 2607-15, 2001.</li>
+      </ol>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information">1</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">2</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=3">3</a>
+      <div class="outline_fmt right">
+       <a href="?page=3">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information">1</a><span class="pipe_fmt">|</span><span class="current_fmt">2</span><span class="pipe_fmt">|</span><a href="?page=3">3</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=3"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+		
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Public Information from the National Cancer Institute</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: March 12, 2007
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - NCI';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1022"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/cancer/features/15-cancer-symptoms-women-ignore" onclick="return sl(this,'','rltd-p-1022_1');">15 Cancer Symptoms Women Ignore</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cancer/video/sleep-and-cancer" onclick="return sl(this,'','rltd-p-1022_2');">Sleep Problems and Cancer</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/cancer/features/see-cancer-specialist" onclick="return sl(this,'','rltd-p-1022_3');">Cancer: Should You See a Specialist?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/cancer/features/8-ways-to-lower-cancer-risk" onclick="return sl(this,'','rltd-p-1022_4');">8 Ways to Lower Your Cancer Risk</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/cancer/video/chemo-nausea-side-effect" onclick="return sl(this,'','rltd-p-1022_5');">Chemotherapy Side Effects</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/melanoma-skin-cancer/slideshow-precancerous-skin-lesions-and-skin-cancer" onclick="return sl(this,'','rltd-p-1022_6');">See What Skin Cancer Looks Like</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1022_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80b888df" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80692f78</chronic_id><r_object_id>091e9c5e80b888df</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e80692f78.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>10/26/2012 12:56:58</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Cancer Health Center/template_Cancer Health Center_091e9c5e80024927.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80024927"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Oral Cancer (Mouth Cancer)</name><link_title>Oral Cancer (Mouth Cancer)</link_title><description>Oral cancer can develop in any part of the mouth, including on the lips, tongue, cheeks, floor of the mouth, roof of the mouth, sinuses, and throat. Risk factors for oral cancer include smoking or spit (chewing) tobacco and excessive use of alcohol. Oral cancer can be life threatening if not diagnosed and treated early. It is important to check regularly for symptoms of oral cancer, such as a growth or sore in the mouth that does not go away. If you see something that looks suspicious, make an appointment with a dentist as soon as possible. Follow the links below to find WebMD's comprehensive coverage about how oral cancer is contracted, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/cancer/oral-cancer-directory</friendly_url></topic_dir><related_assets><asset id=""><link_title>What is oral cancer?</link_title><friendly_url>http://answers.webmd.com/answers/1194425/what-is-oral-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e805066d5"><link_title>4 Things Your Dentist Wants You to Do Now</link_title><friendly_url>http://www.webmd.com/oral-health/features/4-things-your-dentist-wants-you-do-now</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007b73"><link_title>Glossary of Dental Health Terms</link_title><friendly_url>http://www.webmd.com/oral-health/dental-health-glossary</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008a8a"><link_title>The Various Oral Health Care Providers</link_title><friendly_url>http://www.webmd.com/oral-health/guide/oral-health-care-providers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000766c"><link_title>Smoking and Dental Health: Yellow Teeth, Bad Breath, and Other Smoking Effects</link_title><friendly_url>http://www.webmd.com/oral-health/guide/smoking-oral-health</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000bde0"><link_title>Saliva Test Spots Cancer</link_title><friendly_url>http://www.webmd.com/cancer/news/20050419/saliva-test-spots-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001214b"><link_title>Saliva May Reveal Oral Cancer Clues</link_title><friendly_url>http://www.webmd.com/cancer/news/20050707/saliva-may-reveal-oral-cancer-clues</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8026fb60"><link_title>Could Saliva One Day Detect Oral Cancer?</link_title><friendly_url>http://www.webmd.com/oral-health/news/20080930/could-saliva-one-day-detect-oral-cancer</friendly_url><thumbnail height="" width="" alt="Saliva Detects Oral Cancer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/September08/saliva_detects_oral_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80673d43"><link_title>Virus Behind Oral Cancer Epidemic</link_title><friendly_url>http://www.webmd.com/cancer/news/20101013/virus-behind-oral-cancer-epidemic</friendly_url><thumbnail height="" width="" alt="woman having throat examined by doctor">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/10_2010/69x75_hpv_epidemic_oral_cancer_01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80125459"><link_title>Painkillers Prevent Cancer but Up Heart Risk</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20050418/painkillers-prevent-cancer-up-heart-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007712"><link_title>Facts About Oral Cancer</link_title><friendly_url>http://www.webmd.com/cancer/oral-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800078ae"><link_title>An Overview of Oral Cancer</link_title><friendly_url>http://www.webmd.com/oral-health/guide/oral-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8092f3a1"><link_title>Oral Cancer Questions to Ask Your Doctor</link_title><friendly_url>http://www.webmd.com/ds/2730-patient-ed</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4679"><link_title>Screening for Oral Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/oral-cancer-screening-patient-information-nci-pdq-to-learn-more</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f43d8"><link_title>Prevention of Oral Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/oral-cancer-prevention-patient-information-nci-pdq-to-learn-more</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f406a"><link_title>Nasopharyngeal Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-patient-information-nci-pdq-to-learn-more</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f41ec"><link_title>Nasopharyngeal Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-stage-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4162"><link_title>Lip and Oral Cavity Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000062930-more-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4424"><link_title>Prevention of Oral Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000062837-more-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4539"><link_title>Screening for Oral Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000062752-more-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80249213"><link_title>Oral Cancer Prevention (PDQ®): Prevention - Health Professional Information [NCI]-Get More Information From NCI</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000062837-get-more-information-from-nci</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f3f6e"><link_title>Laryngeal Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-General Information About Laryngeal Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/laryngeal-cancer-treatment-patient-information-nci-pdq-general-information-about-laryngeal</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80298e0b"><link_title>Oral Cancer Screening (PDQ®): Screening - Patient Information [NCI]-General Information About Oral Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000593427-general-information-about-oral-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802d95e2"><link_title>Oral Cancer Prevention (PDQ®): Prevention - Patient Information [NCI]-General Information About Oral Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000593570-general-information-about-oral-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80107266"><link_title>Oral Cancer-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/cancer/tc/oral-cancer-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d4c3"><link_title>Oral Cancer-Prevention</link_title><friendly_url>http://www.webmd.com/cancer/tc/oral-cancer-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d5f6"><link_title>Oral Cancer-Topic Overview</link_title><friendly_url>http://www.webmd.com/cancer/tc/oral-cancer-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ea2e"><link_title>Normal Vocal Cords</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/normal-vocal-cords</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ee64"><link_title>Tongue Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tongue-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f41f6"><link_title>Nasopharyngeal Cancer Treatment (PDQ®): Treatment - Health Professional Information [NCI]-Recurrent Nasopharyngeal Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/nasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-recurrent-nasopharyngeal</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://answers.webmd.com/answers/1194425/what-is-oral-cancer" onclick="return sl(this,'','lln-tdrelcon_1');">What is oral cancer?</a></li>
+      <li><a href="http://www.webmd.com/oral-health/features/4-things-your-dentist-wants-you-do-now" onclick="return sl(this,'','lln-tdrelcon_2');">4 Things Your Dentist Wants You to Do Now</a></li>
+      <li><a href="http://www.webmd.com/oral-health/dental-health-glossary" onclick="return sl(this,'','lln-tdrelcon_3');">Glossary of Dental Health Terms</a></li>
+      <li><a href="http://www.webmd.com/oral-health/guide/oral-health-care-providers" onclick="return sl(this,'','lln-tdrelcon_4');">The Various Oral Health Care Providers</a></li>
+      <li><a href="http://www.webmd.com/oral-health/guide/smoking-oral-health" onclick="return sl(this,'','lln-tdrelcon_5');">Smoking and Dental Health: Yellow Teeth, Bad Breath, and Other Smoking Effects</a></li>
+      <li><a href="http://www.webmd.com/cancer/oral-cancer" onclick="return sl(this,'','lln-tdrelcon_6');">Facts About Oral Cancer</a></li>
+      <li><a href="http://www.webmd.com/oral-health/guide/oral-cancer" onclick="return sl(this,'','lln-tdrelcon_7');">An Overview of Oral Cancer</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/cancer/oral-cancer-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Oral Cancer (Mouth Cancer) Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1137455491&amp;tile=109570439&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=848&amp;pos=5000&amp;xpg=2730&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fcancer%2ftc%2fnasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information&amp;artid=091e9c5e800f41ea&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_cust4_c0_cust1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1137455491&amp;amp;tile=109570439&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=848&amp;amp;pos=5000&amp;amp;xpg=2730&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fcancer%2ftc%2fnasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information&amp;amp;artid=091e9c5e800f41ea&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_cust4_c0_cust1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2730";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1137455491&amp;tile=109570439&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=848&amp;pos=5001&amp;xpg=2730&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fcancer%2ftc%2fnasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information&amp;artid=091e9c5e800f41ea&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_cust4_c0_cust1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1137455491&amp;amp;tile=109570439&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=848&amp;amp;pos=5001&amp;amp;xpg=2730&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fcancer%2ftc%2fnasopharyngeal-cancer-treatment-health-professional-information-nci-pdq-general-information&amp;amp;artid=091e9c5e800f41ea&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_cust4_c0_cust1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2730";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

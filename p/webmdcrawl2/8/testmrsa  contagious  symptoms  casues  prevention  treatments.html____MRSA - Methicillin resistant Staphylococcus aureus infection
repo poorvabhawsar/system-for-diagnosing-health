@@ -1,0 +1,579 @@
+<title>MRSA: Contagious, Symptoms, Casues, Prevention, Treatments</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/shingles-chickenpox" onclick="return sl(this,'','tools-res_1');"> What Causes Shingles?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent1209&amp;ch=18" onclick="return sl(this,'','tools-res_2');">Signs of Gum Disease</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://teens.webmd.com/rm-quiz-teen-acne" onclick="return sl(this,'','tools-res_3');">Teen Acne: Myths and Facts</a></li>
+      <li id="x59"><a href="https://www.webmd.com/lupus/d2n-coping-with-lupus-11/default.htm?scene=morning&amp;vid=5" onclick="return sl(this,'','tools-res_4');">Skin Care for Lupus</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/skin-problems-and-treatments/psoriasis/psoriasis-health-check/psoriasis-hc" onclick="return sl(this,'','tools-res_5');">Psoriasis? Assess Your Symptoms</a></li>
+      <li id="x61"><a href="http://www.webmd.com/skin-problems-and-treatments/teen-acne-10/clear-skin-slideshow" class="type_ss" onclick="return sl(this,'','tools-res_6');">16 Tips for Clear Skin<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="readspeaker_area" style="display: none;"> 
+     <div id="readspeaker_button1" class="rs_skip"> 
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /> </a> 
+     </div> 
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript">
+    </script> 
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:1});
+                    });
+                })();
+                </script> 
+     <div id="xp1"> 
+     </div> 
+    </div> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Understanding MRSA Infection -- the Basics</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <h3>What Is MRSA?</h3> 
+     <p>Methicillin-resistant Staphylococcus aureus (MRSA) is a bacterium that causes infections in different parts of the body. It's tougher to treat than most strains of staphylococcus aureus -- or staph -- because it's resistant to some commonly used antibiotics.</p> 
+     <p>The symptoms of MRSA depend on where you're infected. Most often, it causes mild infections on the skin, like sores or boils. But it can also cause more serious skin infections or infect surgical wounds, the bloodstream, the lungs, or the urinary tract.</p> 
+     <p>Though most MRSA infections aren't serious, some can be life-threatening. Many public health experts are alarmed by the spread of tough strains of MRSA. Because it's hard to treat, MRSA is sometimes called a &quot;super bug.&quot;</p> 
+     <h3>What Causes MRSA?</h3> 
+     <p>Garden-variety staph are common bacteria that can live in our bodies. Plenty of healthy people carry staph without being infected by it. In fact, 25%-30% of us have staph bacteria in our noses.</p> 
+     <p>But staph can be a problem if it manages to get into the body, often through a cut. Once there, it can cause an infection. Staph is one of the most common causes of skin infections in the U.S. Usually, these are minor and don't need special treatment. Less often, staph can cause serious problems like infected wounds or pneumonia.</p> 
+     <p>Staph can usually be treated with antibiotics. But over the decades, some strains of staph -- like MRSA -- have become resistant to antibiotics that once destroyed it. MRSA was first discovered in 1961. It's now resistant to methicillin, amoxicillin, penicillin, oxacillin, and many other antibiotics.</p> 
+     <p>While some antibiotics still work, MRSA is constantly adapting. Researchers developing new antibiotics are having a tough time keeping up.</p> 
+     <h3>Who Gets MRSA?</h3> 
+     <p>MRSA is spread by contact. So, you could get MRSA by touching another person who has it on the skin. Or you could get it by touching objects that have the bacteria on them. MRSA is carried by about 1% of the population, although most of them aren't infected.</p> 
+     <p>MRSA infections are common among people who have weak immune systems and are in hospitals, nursing homes, and other health care centers. Infections can appear around surgical wounds or invasive devices, like catheters or implanted feeding tubes. Rates of infection in hospitals, especially intensive care units, are rising throughout the world. In U.S. hospitals, MRSA causes more than 60% of staph infections.</p> 
+     <h3>Community-Associated MRSA (CA-MRSA)</h3> 
+     <p>Alarmingly, MRSA is also showing up in healthy people who have not been hospitalized. This type of MRSA is called community-associated MRSA, or CA-MRSA. The CDC reports that in 2007, 14% of people with MRSA infections contracted them outside of a health care setting.</p> 
+     <p>Studies have shown that rates of CA-MRSA infection are growing fast. One study of children in south Texas found that cases of CA-MRSA had a 14-fold increase between 1999 and 2001.</p> 
+     <p>CA-MRSA skin infections have been identified among certain populations that share close quarters or have more skin-to-skin contact. Examples are team athletes, military recruits, and prison inmates. But more and more CA-MRSA infections are being seen in the general community, especially in certain geographic regions.</p> 
+     <p>CA-MRSA is also infecting much younger people. In a study of Minnesotans published in The<i> Journal of the American Medical Association</i>, the average age of people with MRSA in a hospital or health care facility was 68. But the average age of a person with CA-MRSA was only 23.</p> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt"> 
+     <div class="viewSource_fmt"> 
+      <a href="" onclick="toggle('sourceText_fmt','sources_sign_fmt'); return false;">View Article Sources <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/todaysNews_plusSign.gif" alt="Sources" align="top" border="0" id="sources_sign_fmt" /></a> 
+     </div> 
+     <div style="display:none;" id="sourceText_fmt"> 
+      <p>SOURCES:<br /> Centers for Disease Control&nbsp;web site.<br /> The American Academy of Family Physicians web site.<br /> Capriotti, T. Dermatology Nursing, Jan. 26, 2004; vol 15: pp 535-538.<br /> Johnson, L. Infections in Medicine, 2005; vol 22: pp 16-20.<br /> WebMD Feature: &quot;Drug-Resistant Staph Spreads Across U.S.&quot;</p> 
+     </div> 
+    </div> 
+    <div class="sources_fmt"> 
+     <div class="reviewedBy_fmt">
+       Reviewed by 
+      <a onclick="return sl(this,'','prog-lnk');" href="http://www.webmd.com/norman-levine">Norman Levine, MD</a> on April 18, 2012
+     </div> 
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 2012 WebMD, LLC. All rights reserved.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "editorial";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'WebMD Medical Reference';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9">
+   <div id="ed-cntrcross" class="featured-articles"> 
+    <div class="editorial pos_1"> 
+     <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/your_guide_to_skin_and_complexion_care_slideshow/110x70_your_guide_to_skin_and_complexion_care_slideshow.jpg" alt="women wearing mud masks" class="icon" /> 
+     <div class="feature"> 
+      <h3> <a href="http://www.webmd.com/beauty/face/ss/slideshow-complexion-care" onclick="return sl(this,'','ed-cntrcross_1-1');">Anti-Aging: It's Never Too Late </a> </h3> 
+      <p>Maximize your skincare routine to look younger now.</p> 
+      <p class="more_link"> <a href="http://www.webmd.com/beauty/face/ss/slideshow-complexion-care" onclick="return sl(this,'','ed-cntrcross_1-m');" class="type_ss">Learn More<i> </i></a> </p> 
+     </div> 
+     <div class="features"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/beauty/beautiful-smile-12/photogenic-smile" onclick="return sl(this,'','ed-cntrcross_1-2');">Look Good in Every Photo</a> </li> 
+       <li> <a href="http://www.webmd.com/beauty/rm-quiz-eczema-beauty-1" onclick="return sl(this,'','ed-cntrcross_1-3');">How to Care for Dry, Red Skin</a> </li> 
+       <li> <a href="http://www.webmd.com/beauty/wrinkles/ss/slideshow-reducing-wrinkles" onclick="return sl(this,'','ed-cntrcross_1-4');">Surprising Ways to Reduce Wrinkles</a> </li> 
+       <li> <a href="http://www.webmd.com/beauty/eyes/banish-the-bags-under-your-eyes" onclick="return sl(this,'','ed-cntrcross_1-5');">Banish the Bags Under Your Eyes</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1028"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" onclick="return sl(this,'','rltd-p-1028_1');">Skin Allergies? Don't Forget This Essential Item</a> </li> 
+     <li id="x63"> <a href="http://teens.webmd.com/rm-quiz-teen-acne" onclick="return sl(this,'','rltd-p-1028_2');">Myths and Facts About Teen Acne</a> </li> 
+     <li id="x64"> <a class="type_vid" href="http://lupus.webmd.com/d2n-coping-with-lupus-11/default.htm?scene=morning&amp;vid=5" onclick="return sl(this,'','rltd-p-1028_3');">Skin Care for Lupus<i> </i></a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/diabetes-skin-conditions" onclick="return sl(this,'','rltd-p-1028_4');">Diabetes? Prevent Common Skin Conditions</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/parenting/features/teaching-your-teen-about-skin-care" onclick="return sl(this,'','rltd-p-1028_5');">Skin Care Tips for Teens</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0610&amp;ch=8" onclick="return sl(this,'','rltd-p-1028_6');">What to Do About Yellowish Teeth</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1028_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806954d1" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806954d1</chronic_id><r_object_id>091e9c5e806954d1</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806954d1.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/04/2010 11:11:52</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Skin Problems Health Center/template_Skin Problems and Treatments Health Center_091e9c5e80033cdc.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80033cdc"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>MRSA</name><link_title>MRSA</link_title><description>MRSA, or methicillin-resistant Staphylococcus aureus, is a bacteria that is responsible for many hard-to-treat infections. The bacteria is often referred to as a "super bug," because it cannot be killed with certain antibiotics, including common ones like penicillin and amoxicillin. MRSA most often causes painful skin infections, but it can also lead to infections of the urinary tract, blood, and lungs. Some of these infections can be life-threatening. People who are in the hospital are more likely to get severe MRSA infections. Follow the links below to find WebMD's comprehensive coverage about how MRSA is contracted, what the symptoms are, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/skin-problems-and-treatments/mrsa-directory</friendly_url></topic_dir><related_assets><asset id=""><link_title>How is MRSA diagnosed?</link_title><friendly_url>http://answers.webmd.com/answers/1182236/how-is-mrsa-diagnosed</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804703ce"><link_title>MRSA Strain on the Rise in Hospitals</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20091124/mrsa-strain-on-the-rise-in-hospitals</friendly_url><thumbnail height="" width="" alt="mrsa_on_the_rise.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/november_2009/mrsa_on_the_rise.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801b1bef"><link_title>Can Clay Block MRSA?</link_title><friendly_url>http://www.webmd.com/news/20080407/can-clay-block-mrsa</friendly_url><thumbnail height="" width="" alt="Gator Blood Clay MRSA">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/April08/gator_blood_clay_mrsa.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802ee95a"><link_title>Zoo Elephant With MRSA Infects Caretakers</link_title><friendly_url>http://www.webmd.com/news/20090305/zoo-elephant-with-mrsa-infects-caretakers</friendly_url><thumbnail height="" width="" alt="mrsa_baby_elephant.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/March_2009/mrsa_baby_elephant.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805b7a0f"><link_title>Is LRSA the New MRSA?</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20100608/is-lrsa-the-new-mrsa</friendly_url><thumbnail height="" width="" alt="lrsa_infection_drug_resistance.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/06_2010/lrsa_infection_drug_resistance.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806179e6"><link_title>MRSA Infections Decline in Hospitals</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20100810/mrsa-infections-decline-in-hospitals</friendly_url><thumbnail height="" width="" alt="healthcare_associated_mrsa_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/08_2010/healthcare_associated_mrsa_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802f9120"><link_title>MRSA Slideshow</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/ss/slideshow-closer-look-at-mrsa</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80134846"><link_title>Hand Washing Is Best MRSA Weapon</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20071107/hand-washing-is-best-mrsa-weapon</friendly_url><thumbnail height="" width="" alt="MRSA Hearing">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/November07/mrsa_hearing.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8052eb2f"><link_title>C. diff Infection Rate May Overtake MRSA</link_title><friendly_url>http://www.webmd.com/digestive-disorders/news/20100322/c-diff-infection-rate-may-overtake-mrsa</friendly_url><thumbnail height="" width="" alt="c_diff_tops_mrsa_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/03_2010/c_diff_tops_mrsa_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80162681"><link_title>Arm Yourself Against MRSA</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/video/truth-about-mrsa</friendly_url><thumbnail height="48" width="48" alt="bacteria">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/infectious-disease/miscellaneous/truth-about-mrsa/graphics/thumbnails/final/truth-about-mrsa-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8070ec29"><link_title>Antibiotics Not Always Needed for MRSA</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20110104/antibiotics-not-always-needed-for-mrsa</friendly_url><thumbnail height="" width="" alt="prescription bottle">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/01_2011/69x75_mrsa_treatment_guidelines_01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8012b0e6"><link_title>MRSA: Experts Answer Your Questions</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20071024/mrsa-experts-answer-your-questions</friendly_url><thumbnail height="" width="" alt="MRSA FAQ">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/October_07/mrsa_faq.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c938"><link_title>Drug-Resistant Staph a Growing Problem</link_title><friendly_url>http://www.webmd.com/news/20060621/drug-resistant-staph-growing-problem</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e270"><link_title>Drug-Resistant Staph May Get Nastier</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20060831/drug-resistant-staph-may-get-nastier</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f117"><link_title>Drug-Resistant Staph Is Here!</link_title><friendly_url>http://www.webmd.com/news/20060816/drug-resistant-staph-is-here</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800110a4"><link_title>MRSA Infections Can Be Flesh Eaters</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20061012/mrsa-infections-can-be-flesh-eaters</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80012879"><link_title>Drug-Resistant Staph Vaccine in Works</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20061030/drug-resistant-staph-vaccine-in-works</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800b4d85"><link_title>MRSA Rising: Who's at Risk?</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20070528/mrsa-rising-whos-at-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80137018"><link_title>MRSA: Worse in Community Than Hospital?</link_title><friendly_url>http://www.webmd.com/news/20071112/mrsa-worse-in-community-than-hospital</friendly_url><thumbnail height="" width="" alt="CA MRSA Worse">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/November07/ca_mrsa_worse.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8019fdb0"><link_title>Hospital MRSA Testing Helps After All?</link_title><friendly_url>http://www.webmd.com/news/20080317/hospital-mrsa-testing-helps-after-all</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/March08/mrsa_testing_reduces_infection.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80285357"><link_title>Small Outbreak of Zyvox-Resistant MRSA</link_title><friendly_url>http://www.webmd.com/news/20081027/small-outbreak-of-zyvox-resistant-mrsa</friendly_url><thumbnail height="" width="" alt="new_mrsa_drugs.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/October08/new_mrsa_drugs.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802a7c52"><link_title>Hand Sanitizer Cuts MRSA Risk</link_title><friendly_url>http://www.webmd.com/news/20081205/hand-sanitizer-cuts-mrsa-risk</friendly_url><thumbnail height="" width="" alt="hand_sanitizer_reduces_mrsa.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/December08/hand_sanitizer_reduces_mrsa.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8019bfa6"><link_title>Cat Got Your MRSA?</link_title><friendly_url>http://pets.webmd.com/cats/news/20080312/cat-got-your-mrsa</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/March08/mrsa_and_cats.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001d176"><link_title>Methicillin-Resistant Staphylococcus Aureus (MRSA)-Credits</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/methicillin-resistant-staphylococcus-aureus-mrsa-credits</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d124"><link_title>Methicillin-Resistant Staphylococcus Aureus (MRSA)-References</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/methicillin-resistant-staphylococcus-aureus-mrsa-references</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ce93"><link_title>Methicillin-Resistant Staphylococcus Aureus (MRSA)-Overview</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/methicillin-resistant-staphylococcus-aureus-mrsa-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is a staph infection?</link_title><friendly_url>http://answers.webmd.com/answers/1193980/what-is-a-staph-infection</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>Does MRSA itch?</link_title><friendly_url>http://answers.webmd.com/answers/1198203/does-mrsa-itch</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is MRSA?</link_title><friendly_url>http://answers.webmd.com/answers/1179070/what-is-mrsa</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>Who gets MRSA?</link_title><friendly_url>http://answers.webmd.com/answers/1179072/who-gets-mrsa</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/ss/slideshow-closer-look-at-mrsa" onclick="return sl(this,'','td-rltd-art_1');">MRSA Slideshow</a></li>
+      <li><a href="http://answers.webmd.com/answers/1182236/how-is-mrsa-diagnosed" onclick="return sl(this,'','td-rltd-art_2');">How is MRSA diagnosed?</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/video/truth-about-mrsa" onclick="return sl(this,'','td-rltd-art_3');">Arm Yourself Against MRSA</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/methicillin-resistant-staphylococcus-aureus-mrsa-credits" onclick="return sl(this,'','td-rltd-art_4');">Methicillin-Resistant Staphylococcus Aureus (MRSA)-Credits</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/methicillin-resistant-staphylococcus-aureus-mrsa-references" onclick="return sl(this,'','td-rltd-art_5');">Methicillin-Resistant Staphylococcus Aureus (MRSA)-References</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/methicillin-resistant-staphylococcus-aureus-mrsa-overview" onclick="return sl(this,'','td-rltd-art_6');">Methicillin-Resistant Staphylococcus Aureus (MRSA)-Overview</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/skin-problems-and-treatments/mrsa-directory" onclick="return sl(this,'','td-rltd-art_all');">See All MRSA Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=620807156&tile=1378299632&tug=&pug=__&site=2&affiliate=20&hcent=1028&scent=&pos=113&xpg=4297&sec=4286&amp;au1=1&au2=1&uri=%2fskin-problems-and-treatments%2funderstanding-mrsa-methicillin-resistant-staphylococcus-aureus&artid=091e9c5e8000768b&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_cust4_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'620807156',
+                    tile:'1378299632',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "4297";
+      var secTopId = "4286";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=620807156&amp;tile=1378299632&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1028&amp;scent=&amp;pos=5001&amp;xpg=4297&amp;sec=4286&amp;au1=1&amp;au2=1&amp;uri=%2fskin-problems-and-treatments%2funderstanding-mrsa-methicillin-resistant-staphylococcus-aureus&amp;artid=091e9c5e8000768b&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_cust4_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=620807156&amp;amp;tile=1378299632&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1028&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=4297&amp;amp;sec=4286&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fskin-problems-and-treatments%2funderstanding-mrsa-methicillin-resistant-staphylococcus-aureus&amp;amp;artid=091e9c5e8000768b&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_cust4_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4297";
+			var secTopId = "4286";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

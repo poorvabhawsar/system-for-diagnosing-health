@@ -1,0 +1,453 @@
+<title>Ataxia with Vitamin E Deficiency</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/alzheimers/ss/slideshow-alzheimers-overview" class="type_ss" onclick="return sl(this,'','tools-res_1');">Caregiver's Guide to Alzheimer's<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/stroke/ss/slideshow-stroke-overview" class="type_ss" onclick="return sl(this,'','tools-res_2');">Stroke Explained in Photos<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parkinsons-disease/ss/slideshow-parkinsons-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">Parkinson's Disease Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/brain/ss/slideshow-concussions-brain-injuries" class="type_ss" onclick="return sl(this,'','tools-res_4');">What Concussions and Brain Injuries Look Like<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/default.htm" onclick="return sl(this,'','tools-res_5');">The Secret to Managing Your MS</a></li>
+      <li id="x61"><a href="http://www.webmd.com/brain/video/skull-implant" class="type_vid" onclick="return sl(this,'','tools-res_6');">Implants Aid Skull Healing<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Ataxia with Vitamin E Deficiency</h2> 
+     <div class="symptomatic_fmt"> 
+      <h3></h3> 
+      <p> <b>Important</b> <br />It is possible that the main title of the report Ataxia with Vitamin E Deficiency is not the name you expected. Please check the <a href="http://www.webmd.com/brain/ataxia-with-vitamin-e-deficiency" onclick="return sl(this,'','embd-lnk');">synonyms</a> listing to find the alternate name(s) and <a href="http://www.webmd.com/brain/ataxia-with-vitamin-e-deficiency" onclick="return sl(this,'','embd-lnk');">disorder subdivision(s)</a> covered by this report.<br /></p> 
+      <h3>Synonyms</h3> 
+      <ul> 
+       <li>AVED</li> 
+       <li>Isolated Vitamin E Deficiency</li> 
+       <li>Familial Isolated Vitamin E Deficiency</li> 
+      </ul> 
+      <h3>Disorder Subdivisions</h3> 
+      <ul> 
+       <li>None</li> 
+      </ul> 
+      <h3>General Discussion</h3> 
+      <p>Ataxia with vitamin E deficiency (AVED) is a rare inherited neurodegenerative disorder characterized by impaired ability to coordinate voluntary movements (ataxia) and disease of the peripheral <a href="http://www.webmd.com/brain/default.htm" onclick="return sl(this,'','embd-lnk');">nervous system</a> (<a href="http://www.webmd.com/brain/understanding-peripheral-neuropathy-basics" onclick="return sl(this,'','embd-lnk');">peripheral neuropathy</a>). AVED is a progressive disorder that can affect many different systems of the body (multisystem disorder). Specific symptoms vary from case to case. In addition to neurological symptoms, affected individuals may experience <a href="http://www.webmd.com/eye-health/picture-of-the-eyes" onclick="return sl(this,'','embd-lnk');">eye</a> abnormalities, disorders affecting the <a href="http://www.webmd.com/heart/picture-of-the-heart" onclick="return sl(this,'','embd-lnk');">heart</a> muscles (<a href="http://www.webmd.com/heart-disease/guide/muscle-cardiomyopathy" onclick="return sl(this,'','embd-lnk');">cardiomyopathy</a>), and abnormal curvature of the spine (<a href="http://www.webmd.com/osteoarthritis/guide/arthritis-scoliosis" onclick="return sl(this,'','embd-lnk');">scoliosis</a>). AVED is extremely similar to a more common disorder known as Friedreich's ataxia. AVED is inherited as an autosomal recessive trait. <br /><br /> Vitamin E deficiency often occurs secondary to disorders that impair the absorption of vitamin E from fat including <a href="http://www.webmd.com/digestive-disorders/picture-of-the-liver" onclick="return sl(this,'','embd-lnk');">liver</a> disorders, disorders of fat metabolism, and disorders of bile secretion. These disorders include cholestasis (a syndrome of various causes characterized by impaired bile secretion); cystic fibrosis (primarily a <a href="http://www.webmd.com/lung/picture-of-the-lungs" onclick="return sl(this,'','embd-lnk');">lung</a> disorder that may also affect bile secretion); primary biliary <a href="http://www.webmd.com/digestive-disorders/cirrhosis-liver" onclick="return sl(this,'','embd-lnk');">cirrhosis</a> (a liver disorder that results in cholestasis); and abetalipoproteinemia (a digestive disorder characterized by fat malabsorption). Premature infants may have a low vitamin E reserve because only small amounts of vitamin E cross the placenta, and therefore they may become deficient if fed a formula high in unsaturated fats and low in vitamin E. In rare cases, vitamin E deficiency may be caused by a poor <a href="http://www.webmd.com/diet/default.htm" onclick="return sl(this,'','embd-lnk');">diet</a>. (For more information on the above disorders, choose the specific disorder name your search term in the Rare Disease Database.)</p> 
+      <h3>Resources</h3> 
+      <p> <b>March of Dimes <a href="http://www.webmd.com/baby/tc/birth-defects-testing-what-are-birth-defects-tests" onclick="return sl(this,'','embd-lnk');">Birth Defects</a> Foundation</b> <br /> 1275 Mamaroneck Avenue<br /> White Plains, NY 10605<br /> Tel: (914)997-4488<br /> Fax: (914)997-4763<br /> Tel: (888)663-4637<br /> Email: Askus@marchofdimes.com<br /> Internet: http://www.marchofdimes.com<br /><br /><b>National Ataxia Foundation</b><br /> 2600 Fernbrook Lane Suite 119<br /> Minneapolis, MN 55447<br /> USA<br /> Tel: (763)553-0020<br /> Fax: (763)553-0167<br /> Email: naf@ataxia.org<br /> Internet: http://www.ataxia.org<br /><br /><b>Retinitis Pigmentosa International</b><br /> P.O. Box 900<br /> Woodland Hills, CA 91365<br /> Tel: (818)992-0500<br /> Fax: (818)992-3265<br /> Tel: (800)344-4877<br /> Email: info@rpinternational.org<br /> Internet: http://www.rpinternational.org<br /><br /><b>National Scoliosis Foundation</b><br /> 5 Cabot Place<br /> Stoughton, MA 02072<br /> Tel: (781)341-8333<br /> Fax: (781)341-8333<br /> Tel: (800)673-6922<br /> Email: nsf@scoliosis.org<br /> Internet: http://www.scoliosis.org<br /><br /><b>NIH/National Institute of Neurological Disorders and <a href="http://www.webmd.com/stroke/default.htm" onclick="return sl(this,'','embd-lnk');">Stroke</a></b><br /> P.O. Box 5801<br /> Bethesda, MD 20824<br /> Tel: (301)496-5751<br /> Fax: (301)402-2186<br /> Tel: (800)352-9424<br /> TDD: (301)468-5981<br /> Internet: http://www.ninds.nih.gov/<br /><br /><b>euro-ATAXIA</b><br /> Lincoln House<br /> Kennington Park<br /> 1-3 Brixton Road<br /> London, SW9 6DE<br /> United Kingdom<br /> Tel: 4402075821444<br /> Email: marco.meinders@euro-ataxia.eu<br /> Internet: http://www.euro-ataxia.eu/<br /><br /><b>Canadian Association for Familial Ataxias - Claude St-Jean Foundation</b><br /> 3800 Radisson Street Office 110<br /> Montreal<br /> Quebec, H1M 1X6<br /> Canada<br /> Tel: 5143218684<br /> Tel: 8553218684<br /> Email: ataxie@lacaf.org<br /> Internet: http://www.lacaf.org<br /><br /><b>Friedreich's Ataxia Research Alliance</b><br /> 533 W. Uwchlan Ave.<br /> Downingtown, VA 19335<br /> USA<br /> Tel: (484)879-6160<br /> Fax: (484)872-1402<br /> Email: info@cureFA.org<br /> Internet: http://www.curefa.org<br /><br /><b>Genetic and Rare Diseases (GARD) Information Center</b><br /> PO Box 8126<br /> Gaithersburg, MD 20898-8126<br /> Tel: (301)251-4925<br /> Fax: (301)251-4911<br /> Tel: (888)205-2311<br /> TDD: (888)205-3223<br /> Internet: http://rarediseases.info.nih.gov/GARD/<br /><br /></p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="verifiedBox_rdr"> 
+    <div class="verifiedBoxTop_lt_fmt"> 
+    </div> 
+    <div class="verifiedBoxMiddle_lt_fmt"> 
+     <h2>For a Complete Report: </h2> 
+     <p>This is an abstract of a report from the National Organization for Rare Disorders (NORD). A copy of the complete report can be downloaded free from the NORD website for registered users. The complete report contains additional information including symptoms, causes, affected population, related disorders, standard and investigational therapies (if available), and references from medical literature. For a full-text version of this topic, go to www.rarediseases.org and click on Rare Disease Database under &quot;Rare Disease Information&quot;.</p> 
+     <div class="dottedline_fmt"> 
+     </div> 
+    </div> 
+    <div class="verifiedBoxMiddle_symptomatic_fmt"> 
+     <blockquote> 
+      <div class="Sizeminus"> 
+       <p>The information provided in this report is not intended for diagnostic purposes. It is provided for informational purposes only. NORD recommends that affected individuals seek the advice or counsel of their own personal physicians.</p> 
+       <p>It is possible that the title of this topic is not the name you selected. Please check the Synonyms listing to find the alternate name(s) and Disorder Subdivision(s) covered by this report</p> 
+       <p>This disease entry is based upon medical information available through the date at the end of the topic. Since NORD's resources are limited, it is not possible to keep every entry in the Rare Disease Database completely current and accurate. Please check with the agencies listed in the Resources section for the most current information about this disorder.</p> 
+       <p>For additional information and assistance about rare disorders, please contact the National Organization for Rare Disorders at P.O. Box 1968, Danbury, CT 06813-1968; phone (203) 744-0100; web site www.rarediseases.org or email orphan@rarediseases.org<br /></p> 
+       <p>Last Updated: &nbsp;4/10/2008<br />Copyright &nbsp;1989, 1990, 2003, 2004&nbsp;National Organization for Rare Disorders, Inc.</p> 
+      </div> 
+     </blockquote> 
+    </div> 
+    <div class="verifiedBoxBottom_fmt"> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from the National Organization of Rare Disorders</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: February 25, 2014
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - Nord';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1018"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_ss" href="http://www.webmd.com/a-to-z-guides/dupuytrens-contracture-10/slideshow-treatment" onclick="return sl(this,'','rltd-p-1018_1');">Seizures and Dupuytren's Contracture: What's the Link?<i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/alzheimers/early-warning-signs-when-to-call-the-doctor-about-alzheimers" onclick="return sl(this,'','rltd-p-1018_2');">Early Signs of Alzheimer's</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1018_3');">What Vision Problems Look Like</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/brain/video/brain-injury-rehab" onclick="return sl(this,'','rltd-p-1018_4');">Rehab Programs After Brain Injury</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/multiple-sclerosis/your-best-life-11/ms-symptoms" onclick="return sl(this,'','rltd-p-1018_5');">Treating Relapsing MS</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/brain/video/moyamoya-cerebral-bypass" onclick="return sl(this,'','rltd-p-1018_6');">Cerebral Bypass Surgery</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1018_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80693664" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80693664</chronic_id><r_object_id>091e9c5e80693664</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e80693664.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/03/2010 14:49:33</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Brain and Nervous System Super Center/template_Brain and Nervous System Super Center_091e9c5e8002531d.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002531d"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Vitamin E</name><link_title>Vitamin E</link_title><description>Vitamin E can be found in eggs, nuts, vegetable oils, green leafy vegetables, and fortified cereals. Follow the links below to find WebMD's comprehensive coverage about how vitamin E helps the body, how much you need, who needs vitamin E supplements, and much more.</description><friendly_url>http://www.webmd.com/vitamins-and-supplements/vitamin-e-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8016a327"><link_title>Vitamin E for Vitality?</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20080122/vitamin-e-for-vitality</friendly_url><thumbnail height="" width="" alt="Vitamin E and Older Adults">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/January08/vitamin_e_and_older_adults.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e394"><link_title>Vitamin E May Prevent Common Cold</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20040817/vitamin-e-may-prevent-common-cold</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011576"><link_title>Vitamin Essentials as We Age</link_title><friendly_url>http://www.webmd.com/healthy-aging/features/vitamin-essentials-as-we-age</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ad2a"><link_title>High-Dose Vitamin E May Shorten Life Span</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20041110/high-dose-vitamin-e-may-shorten-life-span</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cc9f"><link_title>Eating More Vitamin E May Fight Parkinson's</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20050519/eating-more-vitamin-e-may-fight-parkinsons</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f6aa"><link_title>Vitamin E in Foods Prevents Parkinson's</link_title><friendly_url>http://www.webmd.com/parkinsons-disease/news/20021021/vitamin-e-in-foods-prevents-parkinsons</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800068ae"><link_title>Vitamin E Reverses Minimal Negative Effects of Exercise and Fish Oil</link_title><friendly_url>http://www.webmd.com/fitness-exercise/news/20000410/exercise-vitamin-e</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fe32"><link_title>Vitamin E, Exercise Prevent Aging Damage</link_title><friendly_url>http://www.webmd.com/fitness-exercise/news/20030731/vitamin-e-exercise-prevent-aging-damage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c263"><link_title>Vitamin E: Which Type Best for Prostate Cancer?</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20050301/vitamin-e-which-type-best-for-prostate-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801b72be"><link_title>Vitamin E May Up Alzheimer's Survival</link_title><friendly_url>http://www.webmd.com/alzheimers/news/20080414/vitamin-e-may-up-alzheimers-survival</friendly_url><thumbnail height="" width="" alt="vitamin e alzheimers">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/April08/vitamin_e_alzheimers.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000dad3"><link_title>Vitamin E + Lycopene Fights Prostate Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20040930/vitamin-e-lycopene-fights-prostate-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f5c0"><link_title>Vitamin E in Food May Fight Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20041215/vitamin-e-in-food-may-fight-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805949f5"><link_title>Vitamin E May Lower Women's Lung Disease Risk</link_title><friendly_url>http://www.webmd.com/lung/copd/news/20100517/vitamin-e-may-lower-womens-lung-disease-risk</friendly_url><thumbnail height="" width="" alt="does_vitamin_e_prevent_copd_3.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/05_2010/does_vitamin_e_prevent_copd_3.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006948"><link_title>Vitamin E ; Not for Heart Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040728/vitamin-e-useless-fighting-heart-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000abae"><link_title>The Truth About Vitamin E</link_title><friendly_url>http://www.webmd.com/heart-disease/features/truth-about-vitamin-e</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000710b"><link_title>Vitamin E and Your Heart</link_title><friendly_url>http://www.webmd.com/heart/news/19991203/is-vitamin-e-good-for-heart</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b76b"><link_title>Vitamin E Harms More Than It Helps</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20050315/vitamin-e-harms-more-than-helps</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f512"><link_title>Vitamin E Helps Some Diabetes Patients</link_title><friendly_url>http://www.webmd.com/diabetes/news/20041123/vitamin-e-helps-some-diabetes-patients</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80696c01"><link_title>Vitamin E Supplements Affect Stroke Risk</link_title><friendly_url>http://www.webmd.com/stroke/news/20101105/vitamin-e-supplements-affect-stroke-risk</friendly_url><thumbnail height="" width="" alt="Pills spilling out of bottle">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_Vitamin_E_Hemorrhagic_Stroke_01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801b5766"><link_title>Vitamin E for Strong Immunity</link_title><friendly_url>http://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/supplement-guide-vitamin-e</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001215d"><link_title>Healthy Women Don't Need Aspirin, Vitamin E</link_title><friendly_url>http://www.webmd.com/women/news/20050705/healthy-women-dont-need-aspirin-vitamin-e</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807282f7"><link_title>Vitamin E and Fatty Acids May Ease PMS</link_title><friendly_url>http://www.webmd.com/women/pms/news/20110119/vitamin-e-and-fatty-acids-may-ease-pms</friendly_url><thumbnail height="" width="" alt="womans hand holding oil pill">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/01_2011/69x75_oil_pill_pms_v02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000be02"><link_title>Diabetic Kids May Benefit From Daily Vitamin E</link_title><friendly_url>http://www.webmd.com/diabetes/news/20000926/diabetic-kids-may-benefit-from-daily-vitamin-e</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805ec75e"><link_title>Vitamins D and E May Affect Dementia Risk</link_title><friendly_url>http://www.webmd.com/brain/news/20100712/vitamins-d-and-e-may-affect-dementia-risk</friendly_url><thumbnail height="" width="" alt="vitamins_de_cut_dementia_risk_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/07_2010/vitamins_de_cut_dementia_risk_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800c346f"><link_title>Go Nuts on Your Diet!</link_title><friendly_url>http://www.webmd.com/diet/features/go-nuts-on-your-diet</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1002</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800c3c5b"><link_title>How Does Your Diet Stack Up?</link_title><friendly_url>http://www.webmd.com/diet/features/how-does-your-diet-stack-up</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1002</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802939f1"><link_title>Vitamin C, E Pills Fail to Prevent Cancer</link_title><friendly_url>http://www.webmd.com/cancer/news/20081117/vitamin-c-e-pills-fail-to-prevent-cancer</friendly_url><thumbnail height="" width="" alt="c_and_e_not_for_cancer.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/November08/c_and_e_not_for_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b73f"><link_title>Antioxidant Supplements May Have Limited Value</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20041122/antioxidant-supplements-may-have-limited-value</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011463"><link_title>Eat Smart for a Healthier Brain</link_title><friendly_url>http://www.webmd.com/diet/features/eat-smart-healthier-brain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800f9845"><link_title>Getting Essential Nutrients You Need, but May Be Lacking</link_title><friendly_url>http://www.webmd.com/diet/features/getting-essential-nutrients-you-need-but-may-be-lacking</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/healthy-aging/features/vitamin-essentials-as-we-age" onclick="return sl(this,'','td-rltd-art_1');">Vitamin Essentials as We Age</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/features/truth-about-vitamin-e" onclick="return sl(this,'','td-rltd-art_2');">The Truth About Vitamin E</a></li>
+      <li><a href="http://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/supplement-guide-vitamin-e" onclick="return sl(this,'','td-rltd-art_3');">Vitamin E for Strong Immunity</a></li>
+      <li><a href="http://www.webmd.com/diet/features/go-nuts-on-your-diet" onclick="return sl(this,'','td-rltd-art_4');">Go Nuts on Your Diet!</a></li>
+      <li><a href="http://www.webmd.com/diet/features/how-does-your-diet-stack-up" onclick="return sl(this,'','td-rltd-art_5');">How Does Your Diet Stack Up?</a></li>
+      <li><a href="http://www.webmd.com/diet/features/eat-smart-healthier-brain" onclick="return sl(this,'','td-rltd-art_6');">Eat Smart for a Healthier Brain</a></li>
+      <li><a href="http://www.webmd.com/diet/features/getting-essential-nutrients-you-need-but-may-be-lacking" onclick="return sl(this,'','td-rltd-art_7');">Getting Essential Nutrients You Need, but May Be Lacking</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/vitamins-and-supplements/vitamin-e-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Vitamin E Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=433709521&amp;tile=421683965&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5000&amp;xpg=1637&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fbrain%2fataxia-with-vitamin-e-deficiency&amp;artid=091e9c5e8001ef1f&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_h_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=433709521&amp;amp;tile=421683965&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5000&amp;amp;xpg=1637&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fbrain%2fataxia-with-vitamin-e-deficiency&amp;amp;artid=091e9c5e8001ef1f&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_h_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1637";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=433709521&amp;tile=421683965&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5001&amp;xpg=1637&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fbrain%2fataxia-with-vitamin-e-deficiency&amp;artid=091e9c5e8001ef1f&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_h_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=433709521&amp;amp;tile=421683965&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=1637&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fbrain%2fataxia-with-vitamin-e-deficiency&amp;amp;artid=091e9c5e8001ef1f&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_h_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1637";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

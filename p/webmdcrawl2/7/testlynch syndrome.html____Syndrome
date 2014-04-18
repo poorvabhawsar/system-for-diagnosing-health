@@ -1,0 +1,559 @@
+<title>Lynch Syndrome</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tool-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/colorectal-cancer/slideshow-colorectal-cancer-overview" class="type_ss" onclick="return sl(this,'','tool-res_1');">Colorectal Cancer: An Overview<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/digestive-disorders/picture-of-the-colon" onclick="return sl(this,'','tool-res_2');">What Your Colon Looks Like</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/video/kemeny-colon-rectal-difference" class="type_vid" onclick="return sl(this,'','tool-res_3');">Colon vs. Rectal Cancer<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/video/kemeny-virtual-colonoscopy" class="type_vid" onclick="return sl(this,'','tool-res_4');">What Is a Virtual Colonoscopy?<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/cancer/slideshow-cancer-fighting-foods" class="type_ss" onclick="return sl(this,'','tool-res_5');">Try These Cancer-Fighting Foods<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','tool-res_6');">Assess Your Cancer Risk</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tool-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Lynch Syndrome</h2> 
+     <div class="symptomatic_fmt"> 
+      <h3></h3> 
+      <p> <b>Important</b> <br />It is possible that the main title of the report Lynch Syndrome is not the name you expected. Please check the <a href="http://www.webmd.com/colorectal-cancer/lynch-syndromes" onclick="return sl(this,'','embd-lnk');">synonyms</a> listing to find the alternate name(s) and <a href="http://www.webmd.com/colorectal-cancer/lynch-syndromes" onclick="return sl(this,'','embd-lnk');">disorder subdivision(s)</a> covered by this report.<br /></p> 
+      <h3>Synonyms</h3> 
+      <ul> 
+       <li>hereditary non-polyposis <a href="http://www.webmd.com/digestive-disorders/picture-of-the-colon" onclick="return sl(this,'','embd-lnk');">colon</a> cancer</li> 
+       <li>HNPCC</li> 
+       <li>Muir-Torre syndrome</li> 
+       <li>Turcot syndrome</li> 
+      </ul> 
+      <h3>Disorder Subdivisions</h3> 
+      <ul> 
+       <li>None</li> 
+      </ul> 
+      <h3>General Discussion</h3> 
+      <p>Lynch syndrome is an autosomal dominant <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/cancer/">cancer</a> predisposition syndrome characterized by an increased risk for <a href="http://www.webmd.com/colorectal-cancer/default.htm" onclick="return sl(this,'','embd-lnk');">colon cancer</a> and cancer of the <a href="http://www.webmd.com/digestive-disorders/picture-of-the-stomach" onclick="return sl(this,'','embd-lnk');">stomach</a>, small intestine, upper urinary tract, <a href="http://www.webmd.com/digestive-disorders/picture-of-the-liver" onclick="return sl(this,'','embd-lnk');">liver</a>, <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a> and <a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-the-skin" onclick="return sl(this,'','embd-lnk');">skin</a>. Women with this condition also have an increased risk for cancer of the lining of uterus (endometrium) and ovaries.</p> 
+      <h3>Resources</h3> 
+      <p> <b>American Cancer Society, Inc.</b> <br /> 250 Williams NW St<br /> Ste 6000<br /> Atlanta, GA 30303<br /> USA<br /> Tel: (404)320-3333<br /> Tel: (800)227-2345<br /> TDD: (866)228-4327<br /> Internet: http://www.cancer.org<br /><br /><b>National Cancer Institute</b><br /> 6116 Executive Blvd Suite 300<br /> Bethesda, MD 20892-8322<br /> USA<br /> Tel: (301)435-3848<br /> Tel: (800)422-6237<br /> TDD: (800)332-8615<br /> Email: cancergovstaff@mail.nih.gov<br /> Internet: http://www.cancer.gov<br /><br /><b>OncoLink: The University of Pennsylvania Cancer Center Resource</b><br /> 3400 Spruce Street<br /> 2 Donner<br /> Philadelphia, PA 19104-4283<br /> USA<br /> Tel: (215)349-8895<br /> Fax: (215)349-5445<br /> Email: hampshire@uphs.upenn.edu<br /> Internet: http://www.oncolink.upenn.edu<br /><br /><b>Rare Cancer Alliance</b><br /> 1649 North Pacana Way<br /> Green Valley, AZ 85614<br /> USA<br /> Internet: http://www.rare-cancer.org<br /><br /><b>Genetic and Rare Diseases (GARD) Information Center</b><br /> PO Box 8126<br /> Gaithersburg, MD 20898-8126<br /> Tel: (301)251-4925<br /> Fax: (301)251-4911<br /> Tel: (888)205-2311<br /> TDD: (888)205-3223<br /> Internet: http://rarediseases.info.nih.gov/GARD/<br /><br /><b>Friends of Cancer Research</b><br /> 1800 M Street NW<br /> Suite 1050 South<br /> Washington, DC 22202<br /> Tel: (202)944-6700<br /> Email: info@focr.org<br /> Internet: http://www.focr.org<br /><br /><b>Cancer Support Community</b><br /> 1050 17th St NW Suite 500<br /> Washington, DC 20036<br /> Tel: (202)659-9709<br /> Fax: (202)974-7999<br /> Tel: (888)793-9355<br /> Internet: http://www.cancersupportcommunity.org/<br /><br /><b>Lance Armstrong Foundation</b><br /> 2201 E. Sixth Street<br /> Austin, TX 78702<br /> Tel: (512)236-8820<br /> Fax: (512)236-8482<br /> Tel: (877)236-8820<br /> Email: media@livestrong.org<br /> Internet: http://www.livestrong.org<br /><br /><b>Lynch Syndrome International</b><br /> P.O. Box 5456<br /> Vacaville, CA 95688<br /> Tel: (707)689-5089<br /> Fax: (707)451-3224<br /> Email: info@lynchcancers.com<br /> Internet: http://www.lynchcancers.com<br /><br /></p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="verifiedBox_rdr"> 
+    <div class="verifiedBoxTop_lt_fmt"> 
+    </div> 
+    <div class="verifiedBoxMiddle_lt_fmt"> 
+     <h2>For a Complete Report: </h2> 
+     <p>This is an abstract of a report from the National Organization for Rare Disorders (NORD). A copy of the complete report can be downloaded free from the NORD website for registered users. The complete report contains additional information including symptoms, causes, affected population, related disorders, standard and investigational therapies (if available), and references from medical literature. For a full-text version of this topic, go to www.rarediseases.org and click on Rare Disease Database under &quot;Rare Disease Information&quot;.</p> 
+     <div class="dottedline_fmt"> 
+     </div> 
+    </div> 
+    <div class="verifiedBoxMiddle_symptomatic_fmt"> 
+     <blockquote> 
+      <div class="Sizeminus"> 
+       <p>The information provided in this report is not intended for diagnostic purposes. It is provided for informational purposes only. NORD recommends that affected individuals seek the advice or counsel of their own personal physicians.</p> 
+       <p>It is possible that the title of this topic is not the name you selected. Please check the Synonyms listing to find the alternate name(s) and Disorder Subdivision(s) covered by this report</p> 
+       <p>This disease entry is based upon medical information available through the date at the end of the topic. Since NORD's resources are limited, it is not possible to keep every entry in the Rare Disease Database completely current and accurate. Please check with the agencies listed in the Resources section for the most current information about this disorder.</p> 
+       <p>For additional information and assistance about rare disorders, please contact the National Organization for Rare Disorders at P.O. Box 1968, Danbury, CT 06813-1968; phone (203) 744-0100; web site www.rarediseases.org or email orphan@rarediseases.org<br /></p> 
+       <p>Last Updated: &nbsp;3/20/2012<br />Copyright &nbsp;1993, 2000, 2009, 2012&nbsp;National Organization for Rare Disorders, Inc.</p> 
+      </div> 
+     </blockquote> 
+    </div> 
+    <div class="verifiedBoxBottom_fmt"> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from the National Organization of Rare Disorders</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: February 25, 2014
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - Nord';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1030"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/colorectal-cancer/slideshow-colorectal-cancer-overview" onclick="return sl(this,'','rltd-p-1030_1');">Slideshow: An Inside Look at Colorectal Cancer</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/smoking-cessation/quit-smoking-11/slideshow-tips-quit-smoking" onclick="return sl(this,'','rltd-p-1030_2');">Quitting Smoking: Help for the First Hard Days</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/ibd-crohns-disease/ulcerative-colitis/ulcerative-colitis-health-check" onclick="return sl(this,'','rltd-p-1030_3');">Health Check: Coping With Ulcerative Colitis</a> </li> 
+     <li id="x65"> <a href="http://exchanges.webmd.com/colorectal-cancer-exchange" onclick="return sl(this,'','rltd-p-1030_4');">Join the Discussion in the Colorectal Cancer Community</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/cancer/features/15-cancer-symptoms-women-ignore" onclick="return sl(this,'','rltd-p-1030_5');">15 Cancer Symptoms Women Ignore</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/cancer/ss/slideshow-cancer-fighting-foods" onclick="return sl(this,'','rltd-p-1030_6');">Try These Cancer-Fighting Foods</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1030_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e8069e344" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069e344</chronic_id><r_object_id>091e9c5e8069e344</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8069e344.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/08/2010 15:02:34</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Colorectal Cancer Center/template_Colorectal Cancer Center_091e9c5e800231da.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800231da"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Rectal Cancer</name><link_title>Rectal Cancer</link_title><description>The last six inches of the digestive tract is the rectum  and anus.  You are more likely to develop rectal cancer if you have a history of polyps (abnormal tissue growths) in your colon or a family history of hereditary polyps or colorectal cancer. Other risk factors include age over 40, previous colorectal cancer, or cancer of the ovaries, breast, or lining of the uterus (endometrium).  Symptoms of rectal cancer can include a change in bowel habits, such as diarrhea or constipation, rectal bleeding, stomachache, loss of appetite, weight loss, and fatigue.  Follow the links below to find WebMD's comprehensive coverage about rectal cancer, what increases risk, how it's treated, and much more.</description><friendly_url>http://www.webmd.com/cancer/rectal-cancer-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e803fefcf"><link_title>Slideshow: A Visual Guide to Colorectal Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/ss/slideshow-colorectal-cancer-overview</friendly_url><thumbnail height="" width="" alt="Colorectal cancer cells">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/colorectal_cancer_slideshow/69x75_colorectal_cancer_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What are the differences between colon and rectal cancers?</link_title><friendly_url>http://answers.webmd.com/answers/1183180/what-are-the-differences-between-colon</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000c047"><link_title>FDA Panel Approves Drug for Rare Colorectal Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/19991214/fda-panel-approves-drug-for-rare-colorectal-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800078cf"><link_title>The Basics of Immunotherapy for Colorectal Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/immunotherapy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800091f2"><link_title>Colorectal Cancer Resources</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/guide/colorectal-cancer-resources</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007d0d"><link_title>Colorectal Cancer Glossary of Terms</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/glossary-terms-colorectal-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800061a8"><link_title>Sigmoidoscopy and Colorectal Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/sigmoidoscopy-colorectal-cancer-screening</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006ad1"><link_title>New Prevention Weapon for Colon Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20000628/new-colon-cancer-weapon</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006ed5"><link_title>Produce May Protect Against Colon Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20000217/produce-may-protect-against-colon-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007540"><link_title>Colon Cancer&#45;&#45; Prevention News</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20000419/colon-cancer-prevention-news</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007782"><link_title>Genetic Testing and Colorectal Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/guide/genetic-testing</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007893"><link_title>Which Colon Screening Method Is Safest</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20030204/safest-colon-screening</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007929"><link_title>More Tests for Colorectal Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/guide/tests-given-colorectal-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000795d"><link_title>Frequently Asked Questions About Colorectal Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/colecterol-cancer-faq</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007cce"><link_title>Risk Factors for Colorectal Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/guide/risk-factors-colorectal-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000b219"><link_title>Add Cancer of Colon and Rectum to List of Cigarette Crimes</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20001205/colon-cancer-linked-to-cigarettes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b7b9"><link_title>'Pill-Cam' Beats X-Ray in Finding Tumors</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20021203/pill-cam-beats-x-ray-in-finding-tumors</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000bf28"><link_title>Vitamins Don't Prevent Stomach, Colon Cancers</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20040930/vitamins-dont-prevent-stomach-colon-cancers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c1a7"><link_title>Smoking Linked to Some Colon Cancers</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20001114/smoking-linked-to-some-colon-cancers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c8b6"><link_title>Colon Cancer Rise Linked to Beef, Pork</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20021115/colon-cancer-rise-linked-to-beef-pork</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cce3"><link_title>Selenium May Lower Colon Cancer Risk</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20041116/selenium-may-lower-colon-cancer-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cffe"><link_title>There's Something Fruits and Veggies Appear Not to Prevent</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20001031/theres-something-fruits-veggies-appear-not-to-prevent</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d2f0"><link_title>Colorectal Cancer Spread to Liver: No Longer a Death Sentence</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/19991229/colorectal-cancer-spread-to-liver-no-longer-death-sentence</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000da11"><link_title>Screening Critical to Detect Colorectal Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20000518/screening-critical-to-detect-colorectal-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000da45"><link_title>Easier, Safer Colon Cancer Test?</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20040518/easier-safer-colon-cancer-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000dfb4"><link_title>Carriers of Mutated Gene at Risk for Colon Cancer</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20020920/carriers-of-mutated-gene-at-risk-for-colon-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e783"><link_title>Spirits Raise Colon Cancer Risk</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20031014/spirits-raise-colon-cancer-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f111"><link_title>HMOs Should Cover Full-Colon Exams, Researchers Say</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20001017/hmos-should-cover-full-colon-exams-researchers-say</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f4fc"><link_title>Do You Really Know Your Health Risk?</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20030925/do-you-really-know-your-health-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f55a"><link_title>After Katie, Colon Cancer Screening Up</link_title><friendly_url>http://www.webmd.com/colorectal-cancer/news/20030714/after-katie-colon-cancer-screening-up</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/colorectal-cancer/ss/slideshow-colorectal-cancer-overview" onclick="return sl(this,'','td-rltd-art_1');">Slideshow: A Visual Guide to Colorectal Cancer</a></li>
+      <li><a href="http://answers.webmd.com/answers/1183180/what-are-the-differences-between-colon" onclick="return sl(this,'','td-rltd-art_2');">What are the differences between colon and rectal cancers?</a></li>
+      <li><a href="http://www.webmd.com/colorectal-cancer/immunotherapy" onclick="return sl(this,'','td-rltd-art_3');">The Basics of Immunotherapy for Colorectal Cancer</a></li>
+      <li><a href="http://www.webmd.com/colorectal-cancer/guide/colorectal-cancer-resources" onclick="return sl(this,'','td-rltd-art_4');">Colorectal Cancer Resources</a></li>
+      <li><a href="http://www.webmd.com/colorectal-cancer/glossary-terms-colorectal-cancer" onclick="return sl(this,'','td-rltd-art_5');">Colorectal Cancer Glossary of Terms</a></li>
+      <li><a href="http://www.webmd.com/colorectal-cancer/sigmoidoscopy-colorectal-cancer-screening" onclick="return sl(this,'','td-rltd-art_6');">Sigmoidoscopy and Colorectal Cancer</a></li>
+      <li><a href="http://www.webmd.com/colorectal-cancer/guide/genetic-testing" onclick="return sl(this,'','td-rltd-art_7');">Genetic Testing and Colorectal Cancer</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/cancer/rectal-cancer-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Rectal Cancer Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=262210537&tile=1199311043&tug=&pug=__&site=2&affiliate=20&hcent=1231&scent=848&pos=113&xpg=1811&sec=&amp;au1=&au2=&uri=%2fcolorectal-cancer%2flynch-syndromes&artid=091e9c5e8001ed19&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_h_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'262210537',
+                    tile:'1199311043',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1811";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=262210537&amp;tile=1199311043&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1231&amp;scent=848&amp;pos=5001&amp;xpg=1811&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fcolorectal-cancer%2flynch-syndromes&amp;artid=091e9c5e8001ed19&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_h_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=262210537&amp;amp;tile=1199311043&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1231&amp;amp;scent=848&amp;amp;pos=5001&amp;amp;xpg=1811&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fcolorectal-cancer%2flynch-syndromes&amp;amp;artid=091e9c5e8001ed19&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_h_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1811";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

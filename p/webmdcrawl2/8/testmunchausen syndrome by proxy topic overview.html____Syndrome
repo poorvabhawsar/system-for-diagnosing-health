@@ -1,0 +1,631 @@
+<title>Munchausen Syndrome by Proxy-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/healthy-aging/drug-costs-12/save-money-prescription-drugs" onclick="return sl(this,'','tools-res_1');">How to Save Big on Rx Drugs</a></li>
+      <li id="x57"><a href="http://www.webmd.com/osteoarthritis/managing-oa-pain-10/everyday-exercises-for-oa-slideshow" class="type_ss" onclick="return sl(this,'','tools-res_2');">Easy Exercises for OA Relief<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/depression/slideshow-depression-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">What Is Depression?<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/a-to-z-guides/ss/slideshow-commonly-abused-drugs" class="type_ss" onclick="return sl(this,'','tools-res_4');">Most Commonly Abused Drugs<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/depression/video/unemployment-depression" class="type_vid" onclick="return sl(this,'','tools-res_5');">Unemployment and Depression<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/diet/emotional-eating" onclick="return sl(this,'','tools-res_6');">What Triggers Emotional Eating?</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e98ccd" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e807f1425</i_chronicle_id><r_object_id>091e9c5e80e98ccd</r_object_id><title>Topic Overview</title><object_name>munchausen_syndrome_by_proxy-topic_overview_special_hw180539.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e98ccd</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_hw180539</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Munchausen Syndrome by Proxy-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is Munchausen syndrome by proxy? Munchausen syndrome by proxy (MSBP) is a mental health problem in which a caregiver makes up or causes an illness or injury in a child under his or her care.  The caregiver is usually a mother,and the victim is her child.  Because children are the victims,MSBP is a form of child abuse.  The caregiver with MSBP may: Lie about the child’s symptoms.  Change ...</wbmd_desc_meta><wbmd_orig_pub_dt>05/03/2013 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is Munchausen syndrome by proxy? Munchausen syndrome by proxy (MSBP) is a mental health problem in which a caregiver makes up or causes an illness or injury in a child under his or her care.  The caregiver is usually a mother,and the victim is her child.  Because children are the victims,MSBP is a form of child abuse.  The caregiver with MSBP may: Lie about the child’s symptoms.  Change ...</wbmd_desc_user><wbmd_lk_ttl>Munchausen Syndrome by Proxy-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>child abuse,factitious disorder,factitious syndrome by proxy,Munchausen syndrome,Münchausen syndrome,Munchausen syndrome by proxy</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.1</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e98ccd</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="2950" wbmd_disp_nm="Mental Health"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1078" wbmd_disp_nm="Mental Health"></wbmd_c_channel_id><wbmd_c_frnd_nm>Munchausen-Syndrome-by-Proxy-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is Munchausen syndrome by proxy?</section_header><section_type>SpecialSection</section_type><section_text><p> Munchausen
+			 syndrome by proxy (MSBP) is a <a chronic_id="091e9c5e800249f0" crossLinkId="131" directive="friendlyurl" externalId="091e9c5e800249f0" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Mental Health Super Center/page_Mental Health Super Center_091e9c5e800249f0.xml" keywordId="38038" keywordSetId="9326" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Mental Health Super Center/page_Mental Health Super Center_091e9c5e800249f0.xml">mental health</a> problem in which a caregiver makes
+			 up or causes an illness or injury in a person under his or her care, such as a child, an elderly adult, or a person who has a disability. Because vulnerable people
+			 are the victims, MSBP is a form of
+			 <a chronic_id="091e9c5e8001b5e0" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/child_abuse_and_neglect_definition_ue5243.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/child_abuse_and_neglect_definition_ue5243.xml">child abuse</a> or elder abuse. </p><p><b>Note: </b>Since most cases of MSBP are between a
+			 caregiver (usually a mother) and a child, the rest of this topic will describe that relationship. But it is important to remember that MSBP can involve any vulnerable person who has a caregiver.</p><p>The caregiver with MSBP
+			 may:</p><ul><li>Lie about the child's
+				symptoms.</li><li>Change test results to make a child appear to be
+				ill.</li><li>Physically harm the child to produce symptoms.</li></ul><p> Victims are most often small children. They may get
+			 painful medical tests they don't need. They may even become seriously ill or
+			 injured or may die because of the actions of the caregiver.</p><p>Children who are victims of MSBP can have lifelong physical and emotional
+			 problems and may have
+			 <a chronic_id="091e9c5e8001b652" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/munchausen_syndrome_definition_stm159590.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/munchausen_syndrome_definition_stm159590.xml">Munchausen syndrome</a> as adults. This is a disorder in
+			 which a person causes or falsely reports his or her own symptoms.</p></section_text></section_group><section_group><section_header>What causes Munchausen syndrome by proxy?</section_header><section_type>SpecialSection</section_type><section_text><p>Doctors
+			 aren't sure what causes it, but it may be linked to problems during the
+			 abuser's childhood. Abusers often feel like their life is out of control. They
+			 often have poor self-esteem and can't deal with stress or <a chronic_id="091e9c5e8003c115" crossLinkId="452" directive="friendlyurl" externalId="091e9c5e8003c115" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.xml" keywordId="31072" keywordSetId="8074" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.xml">anxiety</a>.</p><p>The attention that caregivers get from having a sick child may encourage
+			 their behavior. Caregivers may get attention not only from doctors and nurses
+			 but also from others in their community. For example, neighbors may try to help
+			 the family in many ways—such as by doing chores, bringing meals, or giving
+			 money.</p></section_text></section_group><section_group><section_header>How does someone with Munchausen syndrome by proxy act?</section_header><section_type>SpecialSection</section_type><section_text><p> A person with MSBP often:</p><ul><li>Has medical skills or
+				experience.</li><li>Seems devoted to his or her child.</li><li>Looks for
+				sympathy and attention.</li><li>Tries too hard to become close and friendly
+				with medical staff.</li><li>Needs to feel powerful and in
+				control.</li><li>Does not see his or her behavior as harmful.</li></ul></section_text></section_group><section_group><section_header>What are the clues that a person may have Munchausen syndrome by proxy?</section_header><section_type>SpecialSection</section_type><section_text><p>Checking a child's medical records for past tests, treatments, and hospital stays may help a doctor or nurse find out if a health problem is real. </p><p>Doctors or nurses may suspect a problem when:</p><ul><li>A child has a repeated or unusual illness,
+				and no reason can be found.</li><li>The child doesn't get better, even with
+				treatments that should help. Symptoms only occur when the caregiver is with or
+				has recently been with the child. But symptoms get better or go away when the
+				caregiver is not there or is being closely watched.</li><li>The other
+				parent (usually the father) is not involved in the child's treatment, even
+				though the child's condition may be serious.</li><li>A caregiver suddenly
+				changes doctors and lies about prior testing and treatment.</li><li>Normal
+				test results don't reassure the caregiver. And he or she may be strangely calm or
+				happy when the child's condition is getting worse.</li><li>The caregiver is
+				seen (or videotaped or recorded) harming the child or causing
+				symptoms.</li><li>Another child in the family has had unexplained illness
+				or death.</li></ul></section_text></section_group></page><page><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>Child protective services, law enforcement, and doctors are all involved in treatment for Munchausen
+			 syndrome by proxy. Caregivers who have this condition need long-term
+			 <a chronic_id="091e9c5e8001b65e" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/counseling_definition_aa63256.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/counseling_definition_aa63256.xml">counseling</a>. They may resist treatment or deny that
+			 there is a problem. Medicines are used only when the caregiver has another
+			 health problem, such as anxiety disorder, along with MSBP.</p><p>Even
+			 after treatment, caregivers may repeat their behavior. So doctors, counselors,
+			 and family members need to closely watch how the caregiver interacts with his or her
+			 children.</p><p> For victims, the first step is to protect the child by
+			 moving him or her into safe custody. Then a doctor will monitor the child for symptoms. Most
+			 of the time, the child's symptoms stop after the child is away from the
+			 caregiver. Some children need counseling or other help.</p></section_text></section_group><section_group><section_header>What should you do if you think someone has Munchausen syndrome by proxy?</section_header><section_type>SpecialSection</section_type><section_text><p>MSBP is child abuse. If you suspect that a child is a
+			 victim, don't confront the suspected caregiver. It might make the problem
+			 worse. Instead, think about these options:</p><ul><li>Keep a journal of the child's symptoms and
+				other related events.</li><li>Talk with your doctor about your
+				concerns.</li><li>Report your concerns to your local child welfare agency.
+				You can make a report without using your name (anonymous).</li></ul></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/mental-health/tc/munchausen-syndrome-by-proxy-topic-overview" owner="false"><breadcrumb><bread piece="Mental Health Center" prefix="www" friendlyurl="/mental-health/default.htm"></bread><bread piece="Mental Health Related Topics" prefix="www" friendlyurl="/mental-health/tc/default.htm"></bread></breadcrumb><centers><Topic id="905" name="tmg" chronicid="091e9c5e807f1425" prefix="www" friendlyurl="/mental-health/tc/munchausen-syndrome-by-proxy-topic-overview" type="Topic">Munchausen Syndrome by Proxy</Topic><Super id="964" name="super center" chronicid="091e9c5e800249f0" prefix="www" friendlyurl="/mental-health/default.htm" type="">Mental Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/munchausen-syndrome-by-proxy-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e807f1425" prefix="www" friendlyurl="/a-to-z-guides/tc/munchausen-syndrome-by-proxy-topic-overview" type="Topic">Munchausen Syndrome by Proxy</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e800249f0" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Mental Health Super Center/page_Mental Health Super Center_091e9c5e800249f0.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/mental-health/default.htm"></target></object><object chronic_id="091e9c5e8001b5e0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/child_abuse_and_neglect_definition_ue5243.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/child-maltreatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/child-maltreatment"></target></object><object chronic_id="091e9c5e8001b652" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/munchausen_syndrome_definition_stm159590.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/munchausen-syndrome"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/munchausen-syndrome"></target></object><object chronic_id="091e9c5e8003c115" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/anxiety-panic/default.htm"></target></object><object chronic_id="091e9c5e8001b65e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/counseling_definition_aa63256.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/counseling"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/counseling"></target></object><object chronic_id="091e9c5e807f1425" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-topic_overview_special_hw180539.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/mental-health/tc/munchausen-syndrome-by-proxy-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/munchausen-syndrome-by-proxy-topic-overview"></target></object><object chronic_id="091e9c5e807f1426" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-frequently_asked_questions_special_abk8377.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/mental-health/tc/munchausen-syndrome-by-proxy-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/munchausen-syndrome-by-proxy-frequently-asked-questions"></target></object><object chronic_id="091e9c5e807f1427" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-other_places_to_get_help_special_hw180537-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/mental-health/tc/munchausen-syndrome-by-proxy-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/munchausen-syndrome-by-proxy-other-places-to-get-help"></target></object><object chronic_id="091e9c5e807f1428" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-related_information_special_hw180537-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/mental-health/tc/munchausen-syndrome-by-proxy-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/munchausen-syndrome-by-proxy-related-information"></target></object><object chronic_id="091e9c5e807f1429" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-references_special_hw180537-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/mental-health/tc/munchausen-syndrome-by-proxy-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/munchausen-syndrome-by-proxy-references"></target></object><object chronic_id="091e9c5e807f142a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-credits_special_hw180537-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/mental-health/tc/munchausen-syndrome-by-proxy-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/munchausen-syndrome-by-proxy-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e807f14b1" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/munchausen_syndrome_by_proxy_special_hw180537.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e807f1425" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-topic_overview_special_hw180539.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e807f1426" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-frequently_asked_questions_special_abk8377.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e807f1427" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-other_places_to_get_help_special_hw180537-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e807f1428" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-related_information_special_hw180537-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e807f1429" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-references_special_hw180537-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e807f142a" path="/webmd/consumer_assets/controlled_content/healthwise/special/munchausen_syndrome_by_proxy-credits_special_hw180537-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Munchausen Syndrome by Proxy</title><dynamic_objects><callout_title>Recommended Related to Mental Health</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80476f99"><metadata_section><i_chronicle_id>091e9c5e8035c7fd</i_chronicle_id><title>Why Am I So Angry?</title><wbmd_c_art_thmbnl directive="imageurl" chronic_id="091e9c5e8035c8f4" path="/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/June_2009/why_am_I_so_angry.jpg" object_type="wbmd_cons_img"></wbmd_c_art_thmbnl></metadata_section><section_text><p>
+  
+
+America is in the midst of an anger epidemic. From traffic jams to computer
+glitches to friends who don’t show up when they say they will, there’s never
+been a shortage of things to get mad about. And now, fallout from the economic
+crisis &#45;&#45; lost jobs, shrunken nest eggs, etc. &#45;&#45; seems to be amplifying our
+anger. 
+In a recent USA Today/Gallup poll, 53% of Americans said they were
+angry about the economy. In another poll, conducted recently by the American
+Psychological Association,...</p></section_text><link siteid="3" prefix="www" friendlyurl="/mental-health/features/why-am-i-so-angry"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Munchausen Syndrome by Proxy - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>How is it treated?</h3>
+      <p>Child protective services, law enforcement, and doctors are all involved in treatment for Munchausen syndrome by proxy. Caregivers who have this condition need long-term <a href="http://www.webmd.com/hw-popup/counseling" onclick="return sl(this,'hw','embd-lnk');">counseling</a>. They may resist treatment or deny that there is a problem. Medicines are used only when the caregiver has another health problem, such as anxiety disorder, along with MSBP.</p>
+      <p>Even after treatment, caregivers may repeat their behavior. So doctors, counselors, and family members need to closely watch how the caregiver interacts with his or her children.</p>
+      <p> For victims, the first step is to protect the child by moving him or her into safe custody. Then a doctor will monitor the child for symptoms. Most of the time, the child's symptoms stop after the child is away from the caregiver. Some children need counseling or other help.</p>
+      <h3>What should you do if you think someone has Munchausen syndrome by proxy?</h3>
+      <p>MSBP is child abuse. If you suspect that a child is a victim, don't confront the suspected caregiver. It might make the problem worse. Instead, think about these options:</p>
+      <ul>
+       <li>Keep a journal of the child's symptoms and other related events.</li>
+       <li>Talk with your doctor about your concerns.</li>
+       <li>Report your concerns to your local child welfare agency. You can make a report without using your name (anonymous).</li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-topic-overview">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-topic-overview">1</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">2</span>
+      <style type="text/css">
+            .pagination_fmt .center_fmt { width: 375px !important;}
+            </style>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-topic-overview">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-topic-overview">1</a><span class="pipe_fmt">|</span><span class="current_fmt">2</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: May 03, 2013
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-topic-overview">Topic Overview</option><option value="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-related-information">Related Information</option><option value="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-references">References</option><option value="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Munchausen Syndrome by Proxy Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-frequently-asked-questions" onclick="return sl(this,'','topicNav_2');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-other-places-to-get-help" onclick="return sl(this,'','topicNav_3');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-related-information" onclick="return sl(this,'','topicNav_4');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-references" onclick="return sl(this,'','topicNav_5');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/mental-health/tc/munchausen-syndrome-by-proxy-credits" onclick="return sl(this,'','topicNav_6');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1078"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/mental-health/features/bath-salts-drug-dangers" onclick="return sl(this,'','rltd-p-1078_1');">Bath Salts Drug Trend: Expert Q&amp;A</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/depression/rm-quiz-depression" onclick="return sl(this,'','rltd-p-1078_2');">Myths &amp; Facts About Depression</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/depression/treatment-resistant-10/slideshow-depression-support" onclick="return sl(this,'','rltd-p-1078_3');">Recognizing the Symptoms of Depression</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/depression/answers-depression/answers-men" onclick="return sl(this,'','rltd-p-1078_4');">How Does Depression Affect Men?</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/healthy-aging/drug-costs-12/save-money-prescription-drugs" onclick="return sl(this,'','rltd-p-1078_5');">How to Save Big on Prescription Drugs</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/rheumatoid-arthritis/patient-support-12/video-ra-sara-nash" onclick="return sl(this,'','rltd-p-1078_6');">Coping With an Invisible Illness</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1078_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1174513063&amp;tile=620007577&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=964&amp;pos=5000&amp;xpg=2950&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fmental-health%2ftc%2fmunchausen-syndrome-by-proxy-topic-overview&amp;artid=091e9c5e807f1425&amp;inst=0&amp;leaf=905&amp;cc=16&amp;tmg=1&amp;bc=_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1174513063&amp;amp;tile=620007577&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=964&amp;amp;pos=5000&amp;amp;xpg=2950&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fmental-health%2ftc%2fmunchausen-syndrome-by-proxy-topic-overview&amp;amp;artid=091e9c5e807f1425&amp;amp;inst=0&amp;amp;leaf=905&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2950";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1174513063&amp;tile=620007577&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=964&amp;pos=5001&amp;xpg=2950&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fmental-health%2ftc%2fmunchausen-syndrome-by-proxy-topic-overview&amp;artid=091e9c5e807f1425&amp;inst=0&amp;leaf=905&amp;cc=16&amp;tmg=1&amp;bc=_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1174513063&amp;amp;tile=620007577&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=964&amp;amp;pos=5001&amp;amp;xpg=2950&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fmental-health%2ftc%2fmunchausen-syndrome-by-proxy-topic-overview&amp;amp;artid=091e9c5e807f1425&amp;amp;inst=0&amp;amp;leaf=905&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2950";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="./cssimages/style.css" />
+<script src="./cssimages/jquery-1.11.0.min.js"></script>
+<script src="./cssimages/select2.js"></script>
+<link rel="stylesheet" href="./cssimages/select2.css">
+
+<title>Health Diagnosing System</title>
+
+<script type="text/javascript">
+$(document).ready(function() { $("#words").select2({
+			 maximumSelectionSize: 5,
+			 allowClear: true,
+			 placeholder: "Type a word"
+			}); 
+		});
+
+</script>
+
+</head>
+
+<body>
+    <div id="page">
+		
+        <div id="header">
+        	<h1>Health Diagnosing System</h1>
+            <h2>Ask your online doctor</h2>
+            
+	      </div>
+		<div id="bar">
+		    <ul>
+		        <li><a href="./index.html">Home</a></li>
+		        <li><a href="#">Diagnosing system</a></li>
+		        <li><a href="./index.html">Contact</a></li>
+		    </ul>
+	      </div>
+		<div class="contentTitle"><h1>Symptom checker</h1></div>
+		
+		<div class="contentText" name="contentText" id="contentText">
+		  <h4>Please enter the symptoms you are facing:</h4>
+
+
+		<img src="./cssimages/A-Picture-Of-A-Human-Body.jpg" alt="HumanBody" usemap="#human">
+
+	
+
+		<div id="symptoms" style="height:600px;width:400px;float:right;">
+
+			<select multiple id="words" style="width: 300px">
+			<option value="a">apple</option>
+			<option value="a1">apples</option>
+			<option value="a2">application</option>
+			</select>
+		
+		</div>
+      
+</div>
+
+</body>
+</html>

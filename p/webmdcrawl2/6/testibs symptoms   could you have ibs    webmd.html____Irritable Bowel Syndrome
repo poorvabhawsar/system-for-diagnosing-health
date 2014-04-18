@@ -1,0 +1,150 @@
+<title>IBS Symptoms - Could You Have IBS? - WebMD</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5"></div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <script type="text/javascript" language="javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/quiz_process.js"></script> 
+   <link href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/quiz_and_results.css" rel="stylesheet" type="text/css" /> 
+   <div class="quiz_wrapper"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="quiz_header"> 
+      <h3>Health Quiz</h3> 
+     </div> 
+     <div class="quiz_body"> 
+      <div class="quiz_subheader"> 
+       <h3>Could You Have IBS?</h3> 
+       <p>Everyone has abdominal discomfort, bloating, diarrhea, or constipation sometimes. But more than 25 million people who experience these symptoms have a real and treatable medical condition called Irritable Bowel Syndrome (IBS). This quiz can help you decide if you should see a doctor about your symptoms.</p> 
+       <div style="clear:both;"></div> 
+      </div> 
+      <div class="quiz_questions"> 
+       <form name="frmquiz" id="frmquiz" action="ibs-symptoms-quiz-results" method="get" onsubmit="processQuiz(this);"> 
+        <ol> 
+         <li> 
+          <div class="quiz_question" id="quiz_question_1">
+           You have had multiple episodes of abdominal pain or discomfort in the past year.
+          </div> 
+          <div class="quiz_choices"> 
+           <div class="quiz_choice">
+            <input type="radio" name="q1" id="q1a" value="a" />
+            <label for="q1a">True</label>
+           </div> 
+           <div class="quiz_choice">
+            <input type="radio" name="q1" id="q1b" value="b" />
+            <label for="q1b">False</label>
+           </div> 
+          </div> 
+          <div class="quiz_clear"></div> </li> 
+         <li> 
+          <div class="quiz_question" id="quiz_question_2">
+           During the time you feel discomfort or pain, you notice that your bowel movements happen less frequently or more frequently than usual.
+          </div> 
+          <div class="quiz_choices"> 
+           <div class="quiz_choice">
+            <input type="radio" name="q2" id="q2a" value="a" />
+            <label for="q2a">True</label>
+           </div> 
+           <div class="quiz_choice">
+            <input type="radio" name="q2" id="q2b" value="b" />
+            <label for="q2b">False</label>
+           </div> 
+          </div> 
+          <div class="quiz_clear"></div> </li> 
+         <li> 
+          <div class="quiz_question" id="quiz_question_3">
+           You feel better once you have a bowel movement.
+          </div> 
+          <div class="quiz_choices"> 
+           <div class="quiz_choice">
+            <input type="radio" name="q3" id="q3a" value="a" />
+            <label for="q3a">True</label>
+           </div> 
+           <div class="quiz_choice">
+            <input type="radio" name="q3" id="q3b" value="b" />
+            <label for="q3b">False</label>
+           </div> 
+          </div> 
+          <div class="quiz_clear"></div> </li> 
+         <li> 
+          <div class="quiz_question" id="quiz_question_4">
+           Your stool is occasionally either very hard or soft and runny.
+          </div> 
+          <div class="quiz_choices"> 
+           <div class="quiz_choice">
+            <input type="radio" name="q4" id="q4a" value="a" />
+            <label for="q4a">True</label>
+           </div> 
+           <div class="quiz_choice">
+            <input type="radio" name="q4" id="q4b" value="b" />
+            <label for="q4b">False</label>
+           </div> 
+          </div> 
+          <div class="quiz_clear"></div> </li> 
+         <li> 
+          <div class="quiz_question" id="quiz_question_5">
+           Mucus occasionally comes out with your stool.
+          </div> 
+          <div class="quiz_choices"> 
+           <div class="quiz_choice">
+            <input type="radio" name="q5" id="q5a" value="a" />
+            <label for="q5a">True</label>
+           </div> 
+           <div class="quiz_choice">
+            <input type="radio" name="q5" id="q5b" value="b" />
+            <label for="q5b">False</label>
+           </div> 
+          </div> 
+          <div class="quiz_clear"></div> </li> 
+         <li> 
+          <div class="quiz_question" id="quiz_question_6">
+           Your stomach occasionally feels bloated or swollen.
+          </div> 
+          <div class="quiz_choices"> 
+           <div class="quiz_choice">
+            <input type="radio" name="q6" id="q6a" value="a" />
+            <label for="q6a">True</label>
+           </div> 
+           <div class="quiz_choice">
+            <input type="radio" name="q6" id="q6b" value="b" />
+            <label for="q6b">False</label>
+           </div> 
+          </div> 
+          <div class="quiz_clear"></div> </li> 
+        </ol> 
+        <p class="quiz_submit"><input type="image" onclick="document.frmquiz.submit();" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/btn_submit_newsletters.gif" /></p> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="quiz_footer" id="quiz-sources"> 
+    <p> Reviewed by <a onclick="return sl(this,'','review-lnk');" target="_blank" href="http://www.webmd.com/brunilda-nazario">Brunilda Nazario, MD</a> on January 07, 2010</p> 
+    <p> <a href="" onclick="toggle('sources_fmt','sources_sign_fmt'); return false;">Sources: <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/todaysNews_plusSign.gif" alt="Sources" align="top" border="0" id="sources_sign_fmt" /></a> </p>
+    <div style="display:none;" id="sources_fmt"> 
+     <p> <span class="credit">SOURCES: Philip Schoenfeld, MD, MSEd, MSc, co-author of the American College of Gastroenterology's &quot;Evidence-Based Position Statement on the Management of Irritable Bowel Syndrome in North America&quot; ; chief, division of gastroenterology, Ann Arbor Veteran's Affairs Medical Center. Current Psychiatry web site. National Digestive Diseases Information Clearinghouse: &quot;Irritable Bowel Syndrome&quot; and &quot;What I need to know about Irritable Bowel Syndrome.&quot; &quot;Understanding Irritable Bowel Syndrome,&quot; American College of Gastroenterology.</span> </p> 
+    </div> 
+    <p></p> 
+    <p>This tool does not provide medical advice. <a href="" onclick="toggle('disclaimer_fmt','disclaimer_sign_fmt'); return false;"><span style="font-weight:bold;">See additional information: </span><img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/todaysNews_plusSign.gif" alt="Sources" align="top" border="0" id="disclaimer_sign_fmt" /></a></p>
+    <div style="display:none;" id="disclaimer_fmt">
+     <p>THIS TOOL DOES NOT PROVIDE MEDICAL ADVICE. It is intended for general informational purposes only and does not address individual circumstances. It is not a substitute for professional medical advice, diagnosis or treatment and should not be relied on to make decisions about your health. Never ignore professional medical advice in seeking treatment because of something you have read on the WebMD Site. If you think you may have a medical emergency, immediately call your doctor or dial 911.</p>
+    </div>
+    <p></p> 
+    <p>&copy; 2010 WebMD, LLC. All rights reserved.</p> 
+   </div>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

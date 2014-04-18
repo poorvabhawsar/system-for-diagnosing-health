@@ -1,0 +1,118 @@
+<title>5 Nasal Allergy Symptoms You Shouldn’t Ignore </title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="nextArticleBox_rdr" id="art-top"> 
+    <h5>Next Article:</h5> 
+    <a href="#article" class="hide_label">Skip to Article Content</a> 
+    <ul> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/default.htm" title="Go to next article" onclick="return sl(this,'','art-top_1');">Taming Nasal Allergies</a> </li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/rhinitis" title="Go to next article" onclick="return sl(this,'','art-top_2');">What to Do When Hay Fever Strikes</a> Find out what's causing your allergy symptoms and how to get relief.</li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/allergy-tips" title="Go to next article" onclick="return sl(this,'','art-top_3');">Your Allergy Action Plan</a> Strategies for getting nasal symptoms under control.</li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/cold-or-allergy" title="Go to next article" onclick="return sl(this,'','art-top_4');">Allergy or Cold?</a> How to tell the difference, and which treatments work for each.</li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/allergy-symptoms" title="Go to next article" onclick="return sl(this,'','art-top_5');">Don't Ignore These Allergy Symptoms</a> 5 symptoms to watch for, and what to do about them.</li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/6-daily-habits-that-may-make-you-sick" title="Go to next article" onclick="return sl(this,'','art-top_6');">6 Habits That Can Make You Sick</a> From the kitchen to the backyard, common household problems and solutions.</li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/household-mold" title="Go to next article" onclick="return sl(this,'','art-top_7');">Mold and Nasal Allergies</a> How to cope when you're allergic to mold.</li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/allergist-tips" title="Go to next article" onclick="return sl(this,'','art-top_8');">Tips From a White House Allergist</a> Find out what an expert recommended for presidential allergy sufferers.</li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/allergic-nose" title="Go to next article" onclick="return sl(this,'','art-top_9');">Pampering Your Nose</a> 6 ways to improve nasal allergy symptoms.</li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/where-dust-bunnies-hide" title="Go to next article" onclick="return sl(this,'','art-top_10');">Hidden Dust Bunnies</a> Surprising places allergens hide.</li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/beauty-tips" title="Go to next article" onclick="return sl(this,'','art-top_11');">Allergy Beauty Tips</a> Suggestions from top Hollywood makeup artists.</li> 
+     <li> <a href="http://www.webmd.com/allergies/living-with-allergies-11/default.htm" title="Go to next article" onclick="return sl(this,'','art-top_12');">Taming Nasal Allergies</a> </li> 
+    </ul> 
+   </div> 
+   <script type="text/javascript">
+$(document).ready(function() { showNextLnk();});
+
+function showNextLnk() {
+	var cu = webmd.url.clear();
+	var sh = false;
+	var sg = false;
+	if(cu.indexOf("-results") > 0) { cu = cu.replace("-results",""); }
+	if(webmd.url.getParam("print")){
+		$(".nextArticleBox_rdr").css("display","none");
+	}
+	else{
+		$(".nextArticleBox_rdr ul").each(function() {
+			$(this).children("li").each(function() {
+				if(sh) {$(this).css("display","block"); $(".nextArticleBox_rdr").css("display","block"); sh = false; sg = true;}
+				else {$(this).css("display","none");}
+				$(this).children("a").each(function() {if(webmd.url.clear(this.href) == cu && !sg) {sh = true;}});
+			});
+			if(!sg) {$(this).children("li:first").css("display","block"); $(".nextArticleBox_rdr").css("display","block");}
+		});
+	}
+}
+</script>
+   <div class="debug" style="display: none;">
+    False
+   </div> 
+   <div id="article"> 
+    <div class="article_metadata"> 
+     <h2 class="article_title">5 Nasal Allergy Symptoms You Shouldn’t Ignore</h2> 
+     <p class="pub_src">WebMD Feature</p> 
+     <p class="byline">By Ellen Greenlaw</p> 
+     <p class="med_review">Reviewed By <a href="http://www.webmd.com/louise-chang" onclick="return sl(this,'','prog-lnk');">Louise Chang, MD</a></p> 
+    </div> 
+    <div class="article_content"> 
+     <p>If you have nasal allergies, you may be used to sneezing and congestion that last the entire day. But you don’t have to just put up with it. Whether you’re allergic to dust mites, tree pollen, or animal dander, you can find relief for your nasal allergy symptoms.</p> 
+     <p xmlns:xalan="http://xml.apache.org/xalan">“Some people suffer with seasonal allergies for years before they learn that there are effective treatments,” says James Sublett, MD, chief of pediatric allergy at the University of Louisville School of Medicine in Kentucky. But there are good reasons why you shouldn’t wait to treat allergies.</p> 
+     <p>“If allergy symptoms aren’t treated early, they can actually get worse over time,” Sublett says.</p> 
+     <p>Here are five allergy symptoms you shouldn’t ignore and what you can do about them.</p> 
+     <h3>Nasal Allergy Symptom 1: Runny or Stuffy Nose</h3> 
+     <p>A runny or stuffy nose is one of the most common symptoms. “The best way to treat congestion is to treat the allergy that’s causing it,” says Marshall Plaut, MD, chief of allergic mechanisms at the Asthma, Allergy and Inflammation branch of the National Institute of Allergy and Infectious Diseases (NIAID).</p> 
+     <p>Start by trying to avoid your allergy triggers. If you don’t already know what your allergy triggers are, an allergist can help you identify them.</p> 
+     <p>Although it can be difficult to completely avoid some triggers, you may be able to reduce your exposure to them. For example, if pollen is a trigger, stay inside when pollen counts are high. If dogs or cats make you sniffle, wash your hands and change your clothes after playing with them.</p> 
+     <p>Some people find that nasal irrigation using a Neti pot or a nasal rinse helps clear congestion. Over-the-counter antihistamines, decongestants, and cromolyn sodium nasal sprays can all help control nasal allergy symptoms. Don’t use decongestant nasal sprays for more than three days at a time, however. Be sure to read and follow the directions on the label for any over-the-counter medicine.</p> 
+     <p>If these remedies don’t offer relief, your doctor may prescribe other treatments.&nbsp;</p> 
+     <p>If your symptoms don’t get better within 7 days or get worse after about 5 days, it’s time to see your doctor.&nbsp;</p> 
+     <h3>Nasal Allergy Symptom 2: Sinus Pressure</h3> 
+     <p>Your sinuses are small cavities behind your forehead, cheeks, and eyes. If mucus builds up in these areas because of allergies, you may feel pressure or pain.&nbsp;</p> 
+     <p>You can help reduce sinus congestion by applying a moist, warm cloth to your face or inhaling steam a few times each day. You can also try using a saline nasal spray. If you feel sinus pain and pressure for more than a week, call your doctor.</p> 
+     <h3>Nasal Allergy Symptom 3: Sneezing</h3> 
+     <p>If you’ve ever had a bout of uncontrollable sneezing, you know what a nuisance it can be. Some people have such severe sneezing episodes that they interfere with their daily life. But sneezing doesn’t have to be that serious to seek relief.</p> 
+     <p>If you can’t avoid the allergen that’s causing the sneezing, or if doing so doesn’t help, try an over-the-counter antihistamine. Be sure to read and follow the directions on the label for any over-the-counter medicine. If that doesn’t help, your doctor may prescribe a nasal steroid spray.</p> 
+    </div> 
+    <div class="clear"> 
+    </div> 
+    <div class="pagination"> 
+     <span class="number current">1</span> 
+     <span class="number"> <a href="?page=2" title="Page 2">2</a> </span> 
+     <a href="?page=2" title="Next page"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/2009_funded/pagination-next.gif" alt="Go to next page" class="next_page" /> </a> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) { 
+    setClass('headerLinks_print','headerLinks_fmt_on');
+};
+
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+    insert1.appendChild(urlDiv);
+}
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen" type="text/css">#url_reference {display: none};
+			</style> 
+   <style media="print" type="text/css">#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em;}
+				</style>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,834 @@
+<title>Epilepsy: Taking Your Medicines Properly</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/epilepsy/guide/types-of-seizures-their-symptoms" onclick="return sl(this,'','lln-toolsres_1');">6 Most Common Types of Seizures</a></li>
+      <li id="x57"><a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','lln-toolsres_2');">Epilepsy Medications</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/epilepsy/guide/epilepsy-seizure-symptoms" onclick="return sl(this,'','lln-toolsres_3');">Symptoms of Epilepsy</a></li>
+      <li id="x59"><a href="http://www.webmd.com/epilepsy/guide/your-changing-hormones" onclick="return sl(this,'','lln-toolsres_4');">Hormones and Epilepsy</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/epilepsy/guide/diagnosing-epilepsy" onclick="return sl(this,'','lln-toolsres_5');">Tests for Epilepsy</a></li>
+      <li id="x61"><a href="http://www.webmd.com/epilepsy/guide/ketogenic-diet" onclick="return sl(this,'','lln-toolsres_6');">Ketogenic Diet and Epilepsy </a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="actionset"> 
+    <div class="action_top"> 
+    </div> 
+    <div class="action_mid"> 
+     <div class="page page_1"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 1 of 6
+       </div> 
+       <a href="#6" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#2" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Epilepsy: Taking Your Medicines Properly
+       </div> 
+       <div class="as_content"> 
+        <p>You may be taking one or more medicines to prevent <a href="http://www.webmd.com/hw-popup/seizure" onclick="return sl(this,'hw','embd-lnk');">seizures</a>. To get the most benefit from them, you need to consistently take the right dose of the right medicine at the right time. This can be difficult. But by following a few key tips, you can do it.</p> 
+        <h4>Key points</h4> 
+        <ul> 
+         <li>Become informed about the medicines you are taking. Learn their names, their purpose, and their expected side effects. Know how often you are supposed to take them and what dose you are supposed to take.</li> 
+         <li>Make taking your medicine as simple as possible. Plan times to take your medicines when you are doing other regularly occurring activities, like eating a meal or getting ready for bed. This will make it easier for you to remember to take your medicines.</li> 
+         <li>Take a list of your medicines with you whenever you visit your doctor. Let your doctor know if you are having problems with your medicine schedule or if you have any changes in your health that might affect your medicine needs, such as a sudden increase in <a href="http://www.webmd.com/epilepsy/understanding-seizures-basics" onclick="return sl(this,'','embd-lnk');">seizures</a>, <a href="http://www.webmd.com/diet/default.htm" onclick="return sl(this,'','embd-lnk');">weight gain</a> or loss, unexpected or intolerable side effects from the medicine, or another medical condition.</li> 
+         <li>It may take time and careful, controlled adjustments by you and your doctor to find the combination, schedule, and dosing of medicine to best manage your <a href="http://www.webmd.com/hw-popup/epilepsy" onclick="return sl(this,'hw','embd-lnk');">epilepsy</a>. The goal is to prevent seizures while causing as few unwanted side effects as possible. After the most effective medicine program is determined, be sure you follow it exactly as prescribed.</li> 
+        </ul> 
+        <p> <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/what.gif" alt="what.gif" align="" style="" /> </a>&nbsp;<a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">What do medicines do for epilepsy?</a><br /><a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">Why is it important to take your medicines properly?</a><br /><a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">How to take your medicines properly</a><br /><a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br /></p> 
+        <ul> 
+         <li> <a href="http://www.webmd.com/epilepsy/tc/epilepsy-topic-overview" onclick="return sl(this,'','embd-lnk');">Epilepsy</a> </li> 
+         <li> <a href="http://www.webmd.com/epilepsy/tc/seizures-topic-overview" onclick="return sl(this,'','embd-lnk');">Seizures</a> </li> 
+        </ul> 
+        <div class="NoWebPrint"> 
+         <p> <a href="http://www.webmd.com/epilepsy/tc/epilepsy-home-treatment" onclick="return sl(this,'','embd-lnk');">Epilepsy</a> </p> 
+        </div> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#2" class="ac_next">What do medicines do for epilepsy?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_2" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 2 of 6
+       </div> 
+       <a href="#1" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#3" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        What do medicines do for epilepsy?
+       </div> 
+       <div class="as_content"> 
+        <p>Medicines do not cure epilepsy, but they can prevent seizures. The medicine used to treat epilepsy work in various ways to help reduce the abnormal electrical impulses in your <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a>. The specific medicines prescribed for you depend first on what kinds of seizures you have. Your age, activity level, overall physical condition, and other health issues as well as the side effects, health risks, and costs of different medicines, may also help determine what kind of medicine is best for you.</p> 
+        <p>Remember, it can take some time and careful, controlled adjustments by your doctor to find the most effective combination, schedule, and dose of medicine to control your seizures. Preventing seizures with as few unwanted side effects as possible is the goal. It is important to follow your medicine schedule exactly as prescribed.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Medicines can cure epilepsy.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0What');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0What');" />False
+         </form> 
+         <a name="fms_answer2"> </a> 
+         <div id="answer0What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Medicines do not cure epilepsy. But they can prevent seizures.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Medicines do not cure epilepsy. But they can prevent seizures.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a> <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">Why is it important to take your medicines properly?</a><br />Return to <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">Epilepsy: Taking Your Medicines Properly</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#3" class="ac_next">Why is it important to take your medicines properly?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_3" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 3 of 6
+       </div> 
+       <a href="#2" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#4" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Why is it important to take your medicines properly?
+       </div> 
+       <div class="as_content"> 
+        <p>Antiepileptic medicines are most effective when you keep the proper medicine level in your body. Your doctor has set up a schedule of medicine dosages that keeps that proper level. Even slight changes in your medicine schedule or doses can throw the whole system off. If you do not take your medicines properly, you could begin (or continue) having seizures.</p> 
+        <p>Taking your medicines properly can help you achieve better control over your epilepsy. If you have lost work or driving privileges, getting seizures under control—and keeping them under control—may help you get back to work or back behind the wheel. Not having seizures means you can avoid the dangers of seizures (falls, drowning, choking) and avoid stays in the hospital. </p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Even small changes in the times that I take my medicines can affect how they work.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0Why');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0Why');" />False
+         </form> 
+         <a name="fms_answer2"> </a> 
+         <div id="answer0Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Even slight changes to your medicine schedule or dosage can increase your risk for seizures. Consistently taking the proper dose of your medicine on time provides the most effective seizure control.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Even slight changes to your medicine schedule or dosage can increase your risk for seizures. Consistently taking the proper dose of your medicine on time provides the most effective seizure control.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a> <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">How to take your medicines properly</a><br />Return to <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">Epilepsy: Taking Your Medicines Properly</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#4" class="ac_next">How to take your medicines properly<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_4" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 4 of 6
+       </div> 
+       <a href="#3" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#5" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        How to take your medicines properly
+       </div> 
+       <div class="as_content"> 
+        <p>Here's how you can get started taking your medicines properly.</p> 
+        <h4>Make a medicine plan</h4> 
+        <p>Work with your doctor to make a medicine plan. Things to think about include:</p> 
+        <ul> 
+         <li>Names of all medicines. Write down both the brand name and generic name for your medicines. Have your doctor check the list. You can use this list to verify that the medicines you get from the pharmacy are correct. Get a clear explanation of what the medicine does and why you are taking it.</li> 
+         <li>Medicine schedule. Be sure you understand how much of each medicine to take and when to take each one. Ask your doctor if your medicine schedule can be simpler. This may make it easier for you to remember to take your medicines as directed.</li> 
+         <li>How to handle missed doses. Even the most careful people miss a dose now and then. Talk with your doctor about what you should do if you miss a dose of your medicine. Discuss and write down what to do for each medicine. What you should do if you miss a dose may differ from one medicine to another.</li> 
+         <li>Medicine costs. If cost is a consideration in building a medicine plan, ask your doctor whether less expensive, equally effective generic brands would be appropriate for you. For most people who take prescription medicine, taking a generic form of that medicine is less expensive and works just as well as the brand name medicine. But in epilepsy, the very small differences between brand name and generic medicines may cause that medicine to no longer work in controlling your seizures.<sup class="Reference"><a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly#zh1135" onclick="return sl(this,'','embd-lnk');">1</a></sup> Talk with your doctor if you are worried that a generic version of your medicine will not work for you. You also may want to ask your doctor for a 90-day supply of your medicines if it costs less. Compare prices between several pharmacies. And consider mail-order pharmacies.</li> 
+         <li>Medicines to avoid. Some nonprescription medicines and <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/index-drugs.aspx">drugs</a> may react with your prescribed epilepsy medicines. Make a list of medicines to avoid. And check with your doctor before taking any medicines on this list.</li> 
+        </ul> 
+        <h4>Get organized</h4> 
+        <p>Taking medicines properly means taking the right dose of the right medicines at the right time. To be sure you are taking your medicines properly, you may want to have a system to keep track of when and how you take your pills.</p> 
+        <ul> 
+         <li>Make a list of all your medicines and keep it up to date. At every visit with your doctor, review your <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa86905.pdf">master list of medicines</a><span class="NoWebPrint"><a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa86905.pdf"></a></span><span class="NoWebPrint"><span class="Size1">(What is a <a href="http://www.webmd.com/hw-popup/pdf-document" onclick="return sl(this,'hw','embd-lnk');">PDF</a> document?)</span></span>.</li> 
+         <li>Plan a daily schedule of medicines. Post your medicine schedule in a prominent place near your medicine cabinet. Take it along when you travel. Record your medicine schedule in <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa86803.pdf">a daily planner that has spaces for hourly entries</a><span class="NoWebPrint"><a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa86803.pdf"></a></span><span class="NoWebPrint"><span class="Size1">(What is a <a href="http://www.webmd.com/hw-popup/pdf-document" onclick="return sl(this,'hw','embd-lnk');">PDF</a> document?)</span></span>.</li> 
+         <li>Use a pillbox. Get a pillbox that holds a week's worth of pills.</li> 
+         <li>Post reminders. Get sticky note pads and post reminders to take your medicines near clocks or on the bathroom mirror to keep you on schedule.</li> 
+        </ul> 
+        <h4>Taking your medicines</h4> 
+        <p>Keep the following in mind as you follow your medicine plan.</p> 
+        <ul> 
+         <li> Store medicines properly. Keeping medicines in a place that is too hot, too cold, or too humid (a place that is humid has a lot of water vapor in the air) may reduce their effectiveness. Find out from your doctor or pharmacist how to properly store your medicines. Always remember to store medicines out of the reach of children. </li> 
+         <li>Watch for side effects. Ask your doctor or pharmacist what side effects to expect. Be sure to tell your doctor if you are having side effects from your medicines.</li> 
+         <li>Post a list of medicines to avoid in a place where you can refer to it whenever you need to. Always check with your doctor before taking any additional medicines, prescription or nonprescription. This includes any herbal pills or <a href="http://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/supplement-faq" onclick="return sl(this,'','embd-lnk');">dietary supplements</a>. </li> 
+         <li>Take your medicine list with you for each visit with your doctor. And take time to review it.</li> 
+         <li>Notify your doctor immediately if you start having more seizures than usual. Let your doctor know if you have any changes in your health that might affect your medicine needs, such as weight gain, <a href="http://www.webmd.com/baby/default.htm" onclick="return sl(this,'','embd-lnk');">pregnancy</a>, or another medical condition.</li> 
+        </ul> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>What tools can help me take my medicines properly?</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0How');" />A daily planner
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0How');" />Sticky notes
+          <br />
+          <input type="radio" name="answer_0" value="2" onclick="gradeAnswer(this.value, 'answer0How');" />A master list of medicines
+          <br />
+          <input type="radio" name="answer_0" value="3" onclick="gradeAnswer(this.value, 'answer0How');" />All of the above
+         </form> 
+         <a name="fms_answer10"> </a> 
+         <div id="answer0How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />A daily planner can be very helpful in taking your medicines properly. You can write your medicine schedule and doses in the planner and take it with you to work or school or when you travel. All of the answers are correct.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />You can post sticky notes on your refrigerator or bathroom mirror or near the clock to remind yourself to take your medicine. All of the answers are correct.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />With a master list of medicines, you can keep track of all medicines you are taking, their proper doses, their possible side effects, and your schedule for taking them. All of the answers are correct.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Daily planners, sticky notes, and a master list of medicines can all help you take your medicines properly.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>I don't need to tell my doctor if I start having more seizures than usual while I'm on medicine. This is normal.</p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1How');" />True
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1How');" />False
+         </form> 
+         <a name="fms_answer10"> </a> 
+         <div id="answer1How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />If you start having more seizures than normal, it may be a sign that your medicine needs to be adjusted or that you need more medical tests. Tell your doctor immediately. </p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />You should definitely tell your doctor if you start having more seizures than normal while you are on medicine. Your medicine may need to be adjusted. Or you may need more medical tests. </p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a> <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br />Return to <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">Epilepsy: Taking Your Medicines Properly</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#5" class="ac_next">Where to go from here<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_5" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 5 of 6
+       </div> 
+       <a href="#4" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#6" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Where to go from here
+       </div> 
+       <div class="as_content"> 
+        <h4>Talk with your doctor</h4> 
+        <p>If you have questions about this information, take it with you when you visit your doctor. You may want to use a highlighter to mark areas or make notes in the margins of the pages where you have questions.</p> 
+        <p>If you don't already have a medicine plan, schedule a time with your doctor to develop one.</p> 
+        <p class="NoWebPrint">Return to <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/epilepsy/taking-your-epilepsy-medication-properly" onclick="return sl(this,'','embd-lnk');">Epilepsy: Taking Your Medicines Properly</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#6" class="ac_next">See More Popular Action Sets<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_6" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 6 of 6
+       </div> 
+       <a href="#5" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#1" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        See More Popular Action Sets
+       </div> 
+       <div id="lastslide"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="action_bot"> 
+    </div> 
+   </div> 
+   <div class="as_citations"> 
+    <blockquote> 
+     <h3>Citations</h3> 
+     <ol> 
+      <li> <p> <a name="zh1135"></a>Liow K, et al. (2007). Position statement on the coverage of anticonvulsant drugs for the treatment of epilepsy. <u>Neurology</u>, 68(16): 1249–1250.</p> </li> 
+     </ol> 
+    </blockquote> 
+   </div> 
+   <div class="dashed_fmt"> 
+   </div> 
+   <div class="subheadSpaced_fmt"> 
+   </div> 
+   <div class="credits_fmt"> 
+    <table border="0" cellpadding="5"> 
+     <tbody>
+      <tr> 
+       <td valign="top"> <b>By</b> </td> 
+       <td>Healthwise Staff</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+       <td>Susan C. Kim, MD - Pediatrics</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+       <td>Steven C. Schachter, MD - Neurology</td> 
+      </tr> 
+      <tr> 
+       <td> <b>Last Revised</b> </td> 
+       <td>August 26, 2011</td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionsets.js">
+</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: August 26, 2011
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - ActionSet';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1040"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_ss" href="http://www.webmd.com/epilepsy/ss/slideshow-epilepsy-overview" onclick="return sl(this,'','rltd-p-1040_1');">A Visual Guide to Epilepsy<i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/epilepsy/guide/types-epilepsy" onclick="return sl(this,'','rltd-p-1040_2');">Types of Epilepsy</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/epilepsy/guide/first-aid-seizures" onclick="return sl(this,'','rltd-p-1040_3');">First Aid for Seizures</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/epilepsy/guide/choosing-best-epilepsy-medication-for-you" onclick="return sl(this,'','rltd-p-1040_4');">Find the Right Epilepsy Medication for You</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/depression/depression-health-check/default.htm" onclick="return sl(this,'','rltd-p-1040_5');">Is It Just the Blues or Something More? </a> </li> 
+     <li id="x67" class="last"> <a href="http://exchanges.webmd.com/epilepsy-exchange" onclick="return sl(this,'','rltd-p-1040_6');">Join the Discussion in the Epilepsy Community</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1040_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80a45a28" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806a0c62</chronic_id><r_object_id>091e9c5e80a45a28</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e806a0c62.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>04/30/2012 11:25:01</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Epilepsy Health Center/Epilepsy/template_Epilepsy Health Center_091e9c5e8002316d.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002316d"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Seizure Disorders</name><link_title>Seizure Disorders</link_title><description>The brain communicates with other parts of the body through electrical impulses. For the brain to function properly, these electrical impulses must be discharged in an orderly, organized, and coordinated way. If not, seizures may occur. In seizure disorders, the brain's electrical activity is occasionally disturbed, resulting in temporary brain dysfunction. There are two basic types of seizure disorders, epileptic seizures and nonepileptic seizures. Follow the links below to find WebMD's comprehensive coverage on seizure disorders, what they look like, how they are treated, and much more.</description><friendly_url>http://www.webmd.com/brain/seizure-disorders-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80006d2b"><link_title>Epilepsy: Stereotypes in Movies</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20031121/epilepsy-stereotypes-movies</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006d75"><link_title>Epilepsy driving restrictions still debatable.</link_title><friendly_url>http://www.webmd.com/epilepsy/news/19991116/epilepsy-driving-restrictions-debatable</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b83f"><link_title>Epilepsy Can Increase Risk of Traffic Accidents</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20010911/epilepsy-can-increase-risk-of-traffic-accidents</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d296"><link_title>Epilepsy Affects Learning Disabilities Risk</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20041014/epilepsy-affects-learning-disabilities-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d05a"><link_title>Avoiding 'Pokemon' Seizures From TV, Video Games</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20050920/avoiding-pokemon-seizures-from-tv-video-games</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80060049"><link_title>Dogs Respond to Non-Epileptic Seizures</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20070122/dogs-respond-non-epileptic-seizures</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/dogs_sense_some_seizures.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001130f"><link_title>Epilepsy Surgery Brings Long-Term Results</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20050614/epilepsy-surgery-brings-long-term-results</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f7b6"><link_title>Good Seizure Control Now May Turn Bad</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20030128/good-seizure-control-now-may-turn-bad</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e9dd"><link_title>Serious Epilepsy Injuries Are Rare</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20041110/serious-epilepsy-injuries-are-rare</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f750"><link_title>Afraid Your Child Might Have Epilepsy?</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20000809/afraid-your-child-might-have-epilepsy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800071cc"><link_title>Epilepsy and Functional Hemispherectomy</link_title><friendly_url>http://www.webmd.com/epilepsy/guide/functional-hemispherectomy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000747c"><link_title>Epilepsy and Magnetic Resonance Imaging (MRI)</link_title><friendly_url>http://www.webmd.com/epilepsy/epilepsy-mri</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007ded"><link_title>Epilepsy and Home Safety</link_title><friendly_url>http://www.webmd.com/epilepsy/guide/making-home-safe</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80232155"><link_title>Survey Shows Under 2% Have Epilepsy</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20080807/survey-shows-under-2-percent-have-epilepsy</friendly_url><thumbnail height="" width="" alt="New Epilepsy Numbers">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/August08/new_epilepsy_numbers.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806f78b0"><link_title>Death Rate High Among People With Persistent Seizures</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20101222/death-rate-high-among-people-with-persistent-seizures</friendly_url><thumbnail height="" width="" alt="teen girl with somber expression">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/12_2010/69x75_child_epilepsy_death_rate_01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006902"><link_title>Epilepsy Surgery May Be Best Bet When Medications Fail</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20000619/epilepsy-surgery-instead-medication</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800068fe"><link_title>Experts Meet to Discuss the Future of Epilepsy</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20000330/experts-discuss-future-epilepsy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000dbc1"><link_title>What To Do If Your Child Has a Seizure</link_title><friendly_url>http://www.webmd.com/parenting/news/20000911/what-to-do-if-your-child-has-seizure</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e2ee"><link_title>Fever-Induced Seizures Don't Harm Memory in Kids</link_title><friendly_url>http://www.webmd.com/children/news/20010709/fever-induced-seizures-dont-harm-memory-in-kids</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d1ac"><link_title>Depression Often Accompanies Epilepsy</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20041001/depression-often-accompanies-epilepsy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007e16"><link_title>Tests Before Epilepsy Surgery</link_title><friendly_url>http://www.webmd.com/epilepsy/presurgical-evaluation</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007097"><link_title>More Video Game, TV-Induced Seizures Likely</link_title><friendly_url>http://www.webmd.com/brain/news/20000229/more-video-game-tv-induced-seizures-likely</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80012604"><link_title>Epilepsy and Your Child's School</link_title><friendly_url>http://www.webmd.com/epilepsy/guide/children-school</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000f7f4"><link_title>Some Kids on Epilepsy Diet Still Seizure-Free</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20011002/some-kids-on-epilepsy-diet-still-seizure-free</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800115e4"><link_title>Your Child, Sports, and Epilepsy</link_title><friendly_url>http://www.webmd.com/epilepsy/guide/children-sports-safety</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000e4c8"><link_title>Is There a Neurologist on Board?</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20020417/is-there-neurologist-on-board</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8012fc76"><link_title>Many Adults With Epilepsy Not Treated</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20071031/many-adults-with-epilepsy-not-treated</friendly_url><thumbnail height="" width="" alt="Epilepsy Quality of Life">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/October_07/epilepsy_quality_of_life.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80008d35"><link_title>Epilepsy and Blood Testing</link_title><friendly_url>http://www.webmd.com/epilepsy/guide/epilepsy-blood-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000dea8"><link_title>New Emergency Seizure Treatment for Children</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20050714/new-emergency-seizure-treatment-for-children</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fa91"><link_title>Delaying Epilepsy Drugs May Be OK for Some</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20050609/delaying-epilepsy-drugs-may-be-ok-for-some</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/epilepsy/guide/functional-hemispherectomy" onclick="return sl(this,'','lln-tdrelcon_1');">Epilepsy and Functional Hemispherectomy</a></li>
+      <li><a href="http://www.webmd.com/epilepsy/epilepsy-mri" onclick="return sl(this,'','lln-tdrelcon_2');">Epilepsy and Magnetic Resonance Imaging (MRI)</a></li>
+      <li><a href="http://www.webmd.com/epilepsy/guide/making-home-safe" onclick="return sl(this,'','lln-tdrelcon_3');">Epilepsy and Home Safety</a></li>
+      <li><a href="http://www.webmd.com/epilepsy/presurgical-evaluation" onclick="return sl(this,'','lln-tdrelcon_4');">Tests Before Epilepsy Surgery</a></li>
+      <li><a href="http://www.webmd.com/epilepsy/guide/children-school" onclick="return sl(this,'','lln-tdrelcon_5');">Epilepsy and Your Child's School</a></li>
+      <li><a href="http://www.webmd.com/epilepsy/guide/children-sports-safety" onclick="return sl(this,'','lln-tdrelcon_6');">Your Child, Sports, and Epilepsy</a></li>
+      <li><a href="http://www.webmd.com/epilepsy/guide/epilepsy-blood-test" onclick="return sl(this,'','lln-tdrelcon_7');">Epilepsy and Blood Testing</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/brain/seizure-disorders-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Seizure Disorders Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=941129268&tile=1193288764&tug=&pug=__&site=2&affiliate=20&hcent=927&scent=740&pos=113&xpg=1812&sec=&amp;au1=1&au2=1&uri=%2fepilepsy%2ftaking-your-epilepsy-medication-properly&artid=091e9c5e8001d749&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_cust4_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'941129268',
+                    tile:'1193288764',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1812";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=941129268&amp;tile=1193288764&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=927&amp;scent=740&amp;pos=5001&amp;xpg=1812&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fepilepsy%2ftaking-your-epilepsy-medication-properly&amp;artid=091e9c5e8001d749&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_cust4_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=941129268&amp;amp;tile=1193288764&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=927&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=1812&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fepilepsy%2ftaking-your-epilepsy-medication-properly&amp;amp;artid=091e9c5e8001d749&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_cust4_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1812";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

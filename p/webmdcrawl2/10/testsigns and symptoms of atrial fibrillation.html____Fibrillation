@@ -1,0 +1,144 @@
+<title>Signs and Symptoms of Atrial Fibrillation    </title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="nextArticleBox_rdr" id="art-top"> 
+    <h5>Next Article:</h5> 
+    <a href="#article" class="hide_label">Skip to Article Content</a> 
+    <ul> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/default.htm" title="Go to next article" onclick="return sl(this,'','art-top_1');">Atrial Fibrillation and Stroke</a> </li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/a-fib-treatments" title="Go to next article" onclick="return sl(this,'','art-top_2');">AFib Treatment</a> Facts on AFib treatments, including blood thinners to prevent clots.</li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/resetting-hearts-rhythm" title="Go to next article" onclick="return sl(this,'','art-top_3');">Stroke Prevention</a> Procedures to help control or stop AFib.</li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/a-fib-overview" title="Go to next article" onclick="return sl(this,'','art-top_4');">Get the Facts on AFib</a> Learn the basics of heart rhythm disorders.</li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/causes-and-risks" title="Go to next article" onclick="return sl(this,'','art-top_5');">AFib: Causes and Risks</a> Find out who's at highest risk for AFib, and why.</li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/diagnosis" title="Go to next article" onclick="return sl(this,'','art-top_6');">How AFib Is Diagnosed</a> Your practical guide to tests used to diagnose atrial fibrillation.</li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/medical-care" title="Go to next article" onclick="return sl(this,'','art-top_7');">AFib: Medical Care</a> Getting the most from your medicine and your health care team.</li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/serious-symptoms" title="Go to next article" onclick="return sl(this,'','art-top_8');">6 Medical Symptoms Never to Ignore</a> Is that medical symptom life-threatening? Facts you should know.</li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/symptom-guide" title="Go to next article" onclick="return sl(this,'','art-top_9');">Atrial Fibrillation Symptoms</a> Symptoms of atrial fibrillation explained in easy-to-understand terms.</li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/signs-of-stroke" title="Go to next article" onclick="return sl(this,'','art-top_10');">The Warning Signs of Stroke</a> How to recognize the signs and symptoms of stroke.</li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/stroke-causes-risks" title="Go to next article" onclick="return sl(this,'','art-top_11');">Stroke: Who's at Risk?</a> Stay proactive and informed. Find out who's at risk for having a stroke.</li> 
+     <li> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/healthy-lifestyle" title="Go to next article" onclick="return sl(this,'','art-top_12');">AFib: Your Healthy Lifestyle</a> How healthy eating, exercise, and relaxation help you feel your best with AFib.</li> 
+    </ul> 
+   </div> 
+   <script type="text/javascript">
+$(document).ready(function() { showNextLnk();});
+
+function showNextLnk() {
+	var cu = webmd.url.clear();
+	var sh = false;
+	var sg = false;
+	if(cu.indexOf("-results") > 0) { cu = cu.replace("-results",""); }
+	if(webmd.url.getParam("print")){
+		$(".nextArticleBox_rdr").css("display","none");
+	}
+	else{
+		$(".nextArticleBox_rdr ul").each(function() {
+			$(this).children("li").each(function() {
+				if(sh) {$(this).css("display","block"); $(".nextArticleBox_rdr").css("display","block"); sh = false; sg = true;}
+				else {$(this).css("display","none");}
+				$(this).children("a").each(function() {if(webmd.url.clear(this.href) == cu && !sg) {sh = true;}});
+			});
+			if(!sg) {$(this).children("li:first").css("display","block"); $(".nextArticleBox_rdr").css("display","block");}
+		});
+	}
+}
+</script>
+   <div class="debug" style="display: none;">
+    False
+   </div> 
+   <div id="article"> 
+    <div class="article_metadata"> 
+     <h2 class="article_title">Symptoms of Atrial Fibrillation</h2> 
+     <p class="pub_src">WebMD Feature</p> 
+     <p class="byline">By Anna Nguyen</p> 
+     <p class="med_review">Reviewed By <a href="http://www.webmd.com/brunilda-nazario" onclick="return sl(this,'','prog-lnk');">Brunilda Nazario, MD</a></p> 
+    </div> 
+    <div class="article_content"> 
+     <p>Do you ever feel like your heart is racing or fluttering, even when you're at rest? It’s often an isolated event for those with a healthy heart. But sometimes these symptoms can be caused by an arrhythmia or heart rhythm disorder.&nbsp;</p> 
+     <p>One common arrhythmia is called atrial fibrillation or AFib. During AFib, the atria -- the smaller chambers that normally pump blood into the larger ventricles -- quiver rapidly<sup></sup>and erratically. This causes the atria not to squeeze blood effectively into the ventricles. It typically results in a rapid and irregular heartbeat.</p> 
+     <p>“Normally, one’s own pacemaker beats at rates between 60 and 100 beats per minute at rest. In contrast, during atrial fibrillation, the atria are being activated at rates in excess of 400 beats per minute in a chaotic electrical pattern,” says Richard L. Page, MD, chair in the department of medicine at the University of Wisconsin School of Medicine &amp; Public Health in Madison.</p> 
+     <p>Atrial fibrillation symptoms can include:</p> 
+     <ul type="disc"> 
+      <li>Heart palpitations (feeling that your heart is racing or fluttering)</li> 
+      <li>Awareness that the heart is beating</li> 
+      <li>Chest pain, pressure, or discomfort</li> 
+      <li>Abdominal pain</li> 
+      <li>Shortness of breath</li> 
+      <li>Lightheadedness</li> 
+      <li>Fatigue or lack of energy</li> 
+      <li>Exercise intolerance</li> 
+     </ul> 
+     <p>Atrial fibrillation may happen occasionally with symptoms that come and go, last for a few minutes to hours, and then stop on its own. With chronic atrial fibrillation, the arrhythmia is always present.</p> 
+     <h3>AFib Is More Common in Older Adults</h3> 
+     <p>Atrial fibrillation is more common as adults get older. Approximately 11% of people over 80 years of age<sup></sup>are affected by this arrhythmia.</p> 
+     <p>In many cases, people with atrial fibrillation don't have any symptoms.&nbsp;It’s not uncommon for atrial fibrillation to be discovered as the cause after a first stroke for older adults, Page says.</p> 
+     <p>There is a higher risk for stroke if diagnosed with AFib, especially with factors such as heart valve disease, heart failure, diabetes, and hypertension. Blood clots can form in the atria from atrial fibrillation. This can lead to a stroke when the clot leaves the heart and travels to the brain.</p> 
+     <h3>Atrial Fibrillation in Teens</h3> 
+     <p>Although not as common, teens can also have symptoms of atrial fibrillation. It can be a single, isolated event or a sign of an underlying condition if repeated episodes follow.</p> 
+     <p>“Unlike in adult patients, it is extremely rare to be diagnosed during a routine evaluation. Pediatric patients are almost always symptomatic with palpitations prior to a serious event such as cardiac arrest,” says Steven Fishberger, MD, a pediatric cardiologist at the NYU Langone Medical Center.</p> 
+     <p>Page says younger patients with normal hearts who experience an isolated incident of atrial fibrillation symptoms are less likely to have the risk factors that can lead to stroke.</p> 
+     <p>A single event of AFib for an otherwise healthy heart can be triggered by drug or alcohol use, or even exercise. Frequently, a teen will describe a sensation of the heart beating rapidly or chest pain and abdominal pain, Fishberger says.</p> 
+     <p>If you feel symptoms of AFib, it's important to see your doctor. Your doctor can identify an irregular heartbeat by checking the pulse or listening to the heart with a stethoscope. Other tests include an electrocardiogram (ECG or EKG), which is the most reliable method to detect and confirm the presence of AFib. If AFib comes and goes from time to time, your doctor may ask you to wear a monitor or recorder to detect it. You may be asked to wear a Holter monitor or portable event monitor, which allows your doctor to analyze data that is recorded over a certain period of time.</p> 
+    </div> 
+    <div class="clear"> 
+    </div> 
+    <div class="article_footer"> 
+     <div class="sources"> 
+      <div class="view_sources"> 
+       <a href="" id="sources_toggle" class="hide">View Article Source</a> 
+      </div> 
+      <div id="article_source_text" style="display:none;"> 
+       <p>SOURCES:</p> 
+       <p>Steven Fishberger, MD, division of pediatric cardiology, NYU Langone Medical Center.</p> 
+       <p>Fuster, V. <i>Journal of the American College of Cardiology</i>, March 2011; vol 57: e101-e198.</p> 
+       <p>Mayo Foundation for Medical Education and Research: “Atrial fibrillation.”</p> 
+       <p>National Institute of Neurological Disorders and Stroke: “Atrial Fibrillation and Stroke Information Page.”</p> 
+       <p>Richard L. Page, MD, George R. and Elaine Love professor and chair, department of medicine, University of Wisconsin School of Medicine &amp; Public Health in Madison; chair, American College of Cardiology’s electrocardiogram/electrophysiology committee.</p> 
+       <p>Shea, J. <em>Circulation, </em>May 20, 2008; vol 117: e340-e343.</p> 
+      </div> 
+     </div> 
+     <script type="text/javascript">$('#sources_toggle').click(function() {
+  $('#article_source_text').toggle();
+  $('#sources_toggle').toggleClass('show');
+  return false;
+});</script> 
+     <p class="med_review">Reviewed by <a href="http://www.webmd.com/brunilda-nazario" onclick="return sl(this,'','prog-lnk');">Brunilda Nazario, MD</a> on June 21, 2013</p> 
+     <p class="copyright">&copy; 2011 WebMD, LLC. All rights reserved.</p> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) { 
+    setClass('headerLinks_print','headerLinks_fmt_on');
+};
+
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+    insert1.appendChild(urlDiv);
+}
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen" type="text/css">#url_reference {display: none};
+			</style> 
+   <style media="print" type="text/css">#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em;}
+				</style>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

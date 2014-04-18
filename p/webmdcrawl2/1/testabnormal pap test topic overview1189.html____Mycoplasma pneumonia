@@ -1,0 +1,721 @@
+<title>Abnormal Pap Test-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/slideshow-adult-vaccines" class="type_ss" onclick="return sl(this,'','tools-res_1');">Vaccines: Are Yours Up-to-Date?<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/women/endometriosis/ss/slideshow-endometriosis-overview" class="type_ss" onclick="return sl(this,'','tools-res_2');">What Is Endometriosis?<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://pets.webmd.com/pet-health-evaluator/default.htm" onclick="return sl(this,'','tools-res_3');">Is Your Pet's Health OK?</a></li>
+      <li id="x59"><a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0310&amp;ch=3" onclick="return sl(this,'','tools-res_4');">Best Drugstore Tooth Whiteners</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="https://www.webmd.com/lupus/d2n-coping-with-lupus-11/default.htm?scene=morning&amp;vid=5" onclick="return sl(this,'','tools-res_5');">Skin Care for Lupus</a></li>
+      <li id="x61"><a href="http://www.webmd.com/women/ss/slideshow-thyroid-symptoms-and-solutions" class="type_ss" onclick="return sl(this,'','tools-res_6');">Thyroid Symptoms and Solutions<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e809355c9"><metadata_section><i_chronicle_id>091e9c5e8001dfe4</i_chronicle_id><r_object_id>091e9c5e809355c9</r_object_id><title>Topic Overview</title><object_name>Abnormal_Pap_Test-Topic_Overview.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e809355c9</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>major_hw27576</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Abnormal Pap Test-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e803784ff</r_object_id><publ_i_chronicle_id>091e9c5e80019167</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Major</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Information on abnormal Pap tests.</wbmd_desc_meta><wbmd_orig_pub_dt>12/28/2010 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Information on abnormal Pap tests.</wbmd_desc_user><wbmd_lk_ttl>Abnormal Pap Test-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Abnormal Pap Smear, abnormal Pap test result, cervical cancer, cervical cancer test, cervical disorder, Cervical dysplasia, Cervical Intraepithelial Neoplasia, cervical malignant neoplasm, cervical problems, Cervical Smear Test, CIN, colposcopy, disease d</wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>cust013</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>gen.2</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>C56</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>C55</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e809355c9</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1840" wbmd_disp_nm="Womens Conditions"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="3" wbmd_disp_nm="Female"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1117" wbmd_disp_nm="Women"></wbmd_c_channel_id><wbmd_c_frnd_nm>Abnormal-Pap-Test-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>Overview</section_type><section_text><a name="hw27576"></a><h4>What is an abnormal Pap test?</h4><p>A
+			 <a bookmark="stp1278-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Pap_test_Papanicolaou_test_or_Pap_smear.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Pap_test_Papanicolaou_test_or_Pap_smear.xml">Pap test</a>, or <a chronic_id="" crossLinkId="32520" directive="friendlyurl" externalId="091e9c5e8001ecb7" href="/webmd/consumer_assets/controlled_content/healthwise/nord/Pulmonary_Alveolar_Proteinosis.xml" keywordId="39427" keywordSetId="9638" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/nord/Pulmonary_Alveolar_Proteinosis.xml">Pap</a> smear, is part of a woman's routine
+			 <a chronic_id="091e9c5e80377b97" crossLinkId="70371" directive="friendlyurl" externalId="091e9c5e80377b97" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml" keywordId="58671" keywordSetId="25958" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml">physical exam</a>. It is the best way to prevent
+			 <a bookmark="tw9617-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Cervical_cancer_3675.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Cervical_cancer_3675.xml">cervical cancer</a>, because it can find cells on your
+			 <a bookmark="hw140091-sec" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/Cervix_18980.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/Cervix_18980.xml">cervix</a><a bookmark="hw140091-sec" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/Cervix_18980.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/Cervix_18980.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a> that could turn into <a chronic_id="" crossLinkId="31192" directive="friendlyurl" externalId="9A13E96B1FF14D08" href="http://www.webmd.com/cancer/" keywordId="7043" keywordSetId="942" object_type="" path="/webmdhttp://www.webmd.com/cancer/">cancer</a>. The cervix is the
+			 lower part of the uterus that opens into the <a chronic_id="091e9c5e803960f5" crossLinkId="72349" directive="friendlyurl" externalId="091e9c5e803960f5" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_vagina.xml" keywordId="60423" keywordSetId="26645" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_vagina.xml">vagina</a>.</p><p>When your
+			 doctor says that your <a chronic_id="" crossLinkId="50831" directive="friendlyurl" externalId="091e9c5e8001f0df" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Pap_Test.xml" keywordId="38804" keywordSetId="9498" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Pap_Test.xml">Pap test</a> was "abnormal," it means that the test found
+			 some cells on your cervix that do not look normal. It does not mean that you
+			 have cancer. In fact, the chances that you have cancer are very small.</p><h4>What causes an abnormal Pap test?</h4><p>Most of the
+			 time, abnormal cell changes on the cervix are caused by certain types of
+			 <a bookmark="sth149953-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Human_papillomavirus_HPV.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Human_papillomavirus_HPV.xml">human papillomavirus</a>, or <a chronic_id="" crossLinkId="31260" directive="friendlyurl" externalId="02AAD194F24541D7" href="http://www.webmd.com/sexual-conditions/HPV-Genital-Warts/" keywordId="7606" keywordSetId="1358" object_type="" path="/webmdhttp://www.webmd.com/sexual-conditions/HPV-Genital-Warts/">HPV</a>. HPV is a
+			 <a bookmark="sts14709-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Sexually_transmitted_diseases_STDs.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Sexually_transmitted_diseases_STDs.xml">sexually transmitted infection</a>. Usually these cell
+			 changes go away on their own. But certain <a chronic_id="091e9c5e800a8aa0" crossLinkId="31093" directive="friendlyurl" externalId="091e9c5e800a8aa0" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/stds/symptoms/hpv_symptoms_tests.xml" keywordId="40702" keywordSetId="9903" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/stds/symptoms/hpv_symptoms_tests.xml">types of HPV</a> have been linked to
+			 <a chronic_id="" crossLinkId="54380" directive="friendlyurl" externalId="4B73025D5F054433" href="http://www.webmd.com/cancer/cervical-cancer/" keywordId="7087" keywordSetId="974" object_type="" path="/webmdhttp://www.webmd.com/cancer/cervical-cancer/">cervical cancer</a>. That’s why it’s important for women to have regular Pap tests.
+			 It usually takes many years for cell changes in the cervix to turn into cancer.</p><p>Sometimes cell changes in the cervix are due to other types of infection,
+			 such as infections caused by bacteria or yeast. These types of cell changes can
+			 be treated. In women who have been through <a chronic_id="091e9c5e80023966" crossLinkId="190" directive="friendlyurl" externalId="091e9c5e80023966" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Menopause Health Center/page_Menopause Health Center_091e9c5e80023966.xml" keywordId="7874" keywordSetId="1558" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Menopause Health Center/page_Menopause Health Center_091e9c5e80023966.xml">menopause</a>, a Pap test may find cell
+			 changes that are just the result of getting older. </p><h4>What increases your risk for an abnormal Pap test?</h4><p>High-risk <a chronic_id="091e9c5e801d228d" crossLinkId="54965" directive="friendlyurl" externalId="091e9c5e801d228d" href="/webmd/consumer_assets/editorial/articles/features/mens_health/miscellaneous/6_sex_mistakes_men_make.xml" keywordId="63677" keywordSetId="28890" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/features/mens_health/miscellaneous/6_sex_mistakes_men_make.xml">sex</a> raises your chances of getting HPV and having an abnormal
+			 Pap test. High-risk sex includes having sex without <a chronic_id="091e9c5e80008207" crossLinkId="30979" directive="friendlyurl" externalId="091e9c5e80008207" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/sexual_conditions/prevention/sexual_health_your_guide_to_birth_control_condoms.xml" keywordId="33478" keywordSetId="8471" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/sexual_conditions/prevention/sexual_health_your_guide_to_birth_control_condoms.xml">condoms</a> and having more
+			 than one sex partner (or having a sex partner who has other partners).</p><p>HPV can stay in your body for many years without your knowing it. So even
+			 if you now have just one partner and practice <a chronic_id="" crossLinkId="31392" directive="friendlyurl" externalId="D7F13554AE6E4C1B" href="http://www.webmd.com/a-to-z-guides/Safe-Sex-Topic-Overview" keywordId="8242" keywordSetId="1824" object_type="" path="/webmdhttp://www.webmd.com/a-to-z-guides/Safe-Sex-Topic-Overview">safe sex</a>, you could still have an
+			 abnormal Pap test if you were exposed to HPV in the past.</p><p><a chronic_id="091e9c5e800ab373" crossLinkId="451" directive="friendlyurl" externalId="091e9c5e800ab373" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml" keywordId="40038" keywordSetId="9788" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml">Smoking</a>
+			 or having an
+			 <a bookmark="sti150889-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Impaired_immune_system.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Impaired_immune_system.xml">impaired immune system</a> also may raise your chances of
+			 having cell changes in your cervix.</p><h4>Do abnormal cell changes cause symptoms?</h4><p>The cell
+			 changes themselves don't cause symptoms. HPV, which causes most abnormal Pap
+			 tests, usually doesn't cause symptoms either. This is why regular Pap tests are
+			 so important.</p><p>If a different sexually transmitted infection is the cause of your abnormal Pap test, you may have symptoms,
+			 including:</p><ul><li>A discharge from the vagina that isn't normal
+				for you, such as a change in the amount, color, odor, or texture.
+				</li><li>Pain, burning, or <a chronic_id="091e9c5e8003880e" crossLinkId="127" directive="friendlyurl" externalId="091e9c5e8003880e" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Skin Problems Treatments Guide Default TOC Page/page_Skin Problems and Treatments Guide_091e9c5e8003880e.xml" keywordId="36800" keywordSetId="9069" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Skin Problems Treatments Guide Default TOC Page/page_Skin Problems and Treatments Guide_091e9c5e8003880e.xml">itching</a> in your pelvic or genital area when you
+				urinate or have sex. </li><li>Sores, lumps, blisters, <a chronic_id="" crossLinkId="48338" directive="friendlyurl" externalId="091e9c5e8001e47b" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/Rash_Age_12_and_Older-Topic_Overview.xml" keywordId="39481" keywordSetId="1787" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/Rash_Age_12_and_Older-Topic_Overview.xml">rashes</a>, or warts on
+				or around your genitals. </li></ul><h4>What will you need to do if you have an abnormal Pap test?</h4></section_text></section_group></page><page><section_group><section_header is_continued="true"> continued...</section_header><section_type>Overview</section_type><section_text><p>You will need more tests to find out if you have an
+			 infection or to find out how severe the cell changes are. These tests may
+			 include: </p><ul><li><a bookmark="stc123731-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Colposcopy.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Colposcopy.xml">Colposcopy</a>, a
+				test to look at the vagina and cervix through a lighted magnifying tool.
+				</li><li>An HPV test. Like a Pap test, an HPV test is done on a sample of
+				cells taken from the cervix. </li><li>Another Pap test in 4 to 6
+				months.</li></ul><p>A colposcopy is usually done before any treatment is
+			 given. During a colposcopy, the doctor also takes a small sample of tissue from
+			 the cervix so that it can be looked at under a microscope. This is called a
+			 <a chronic_id="091e9c5e803824cf" crossLinkId="1513665" directive="friendlyurl" externalId="091e9c5e803824cf" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/what_is_a_biopsy.xml" keywordId="58688" keywordSetId="25967" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/what_is_a_biopsy.xml">biopsy</a>.</p><p>Treatment, if any, will depend on whether your abnormal
+			 cell changes are mild, moderate, or severe. In moderate to severe cases, you
+			 may have treatment to destroy or remove the abnormal cells. </p><p><b>Frequently Asked Questions</b></p><table cellpadding="0" cellspacing="0"><col><tr><td valign="top"><p><b>Learning about abnormal Pap tests:</b></p></td><td valign="top"><ul><li><a bookmark="stp1278-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Pap_test_Papanicolaou_test_or_Pap_smear.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Pap_test_Papanicolaou_test_or_Pap_smear.xml">What is a Pap test?</a></li><li><a document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Topic_Overview.xml" directive="friendlyurl" chronic_id="091e9c5e8001dfe4" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Topic_Overview.xml">What is an abnormal Pap test?</a></li><li><a document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Cause.xml" directive="friendlyurl" chronic_id="091e9c5e8001dd51" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Cause.xml">What causes an abnormal Pap test?</a></li><li><a document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Symptoms.xml" directive="friendlyurl" chronic_id="091e9c5e8001d8d3" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Symptoms.xml">What are the symptoms of cell changes in the cervix?</a></li><li><a document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-What_Increases_Your_Risk.xml" directive="friendlyurl" chronic_id="091e9c5e8001d815" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-What_Increases_Your_Risk.xml">What increases my risk for an abnormal Pap test?</a></li></ul></td></tr><tr><td valign="top"><p><b>Being diagnosed:</b></p></td><td valign="top"><ul><li><a document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Exams_and_Tests.xml" directive="friendlyurl" chronic_id="091e9c5e8001e37c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Exams_and_Tests.xml">How are cell changes in the cervix diagnosed?</a></li><li><a document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/Pap_Test_Classification_of_Cell_Changes-Topic_Overview__tw9073-sec.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/Pap_Test_Classification_of_Cell_Changes-Topic_Overview__tw9073-sec.xml">What do the Pap test results mean?</a></li><li><a document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/The_Bethesda_System_TBS-Topic_Overview__hw26851-sec.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/The_Bethesda_System_TBS-Topic_Overview__hw26851-sec.xml">How are abnormal Pap tests classified?</a></li><li><a document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-When_To_Call_a_Doctor.xml" directive="friendlyurl" chronic_id="091e9c5e8001d89a" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-When_To_Call_a_Doctor.xml">Do I need to see a specialist?</a></li><li><a bookmark="tu6452" document-type="MedicalTest" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Human_Papillomavirus_HPV_Test.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Human_Papillomavirus_HPV_Test.xml">What is HPV testing and do I need the test?</a></li></ul></td></tr><tr><td valign="top"><p><b>Getting treatment:</b></p></td><td valign="top"><ul><li><a document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Treatment_Overview.xml" directive="friendlyurl" chronic_id="091e9c5e8001d957" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Treatment_Overview.xml">What treatment will I need?</a></li><li><a bookmark="bo1090" document-type="DecisionPoint" href="/webmd/consumer_assets/controlled_content/healthwise/decisionpoint/What_follow-up_will_I_need_if_my_Pap_test_shows_minor_cell_changes__aa66808.xml" directive="friendlyurl" chronic_id="091e9c5e8061afc5" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/decisionpoint/What_follow-up_will_I_need_if_my_Pap_test_shows_minor_cell_changes__aa66808.xml"><img alt="dplink.gif" border="0" height="24" src="/webmd/consumer_assets/site_images/media/interface/dplink.gif" type="interface" width="77" directive="imageurl" chronic_id="091e9c5e80019c59" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/dplink.gif"></a><a bookmark="bo1090" document-type="DecisionPoint" href="/webmd/consumer_assets/controlled_content/healthwise/decisionpoint/What_follow-up_will_I_need_if_my_Pap_test_shows_minor_cell_changes__aa66808.xml" directive="friendlyurl" chronic_id="091e9c5e8061afc5" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/decisionpoint/What_follow-up_will_I_need_if_my_Pap_test_shows_minor_cell_changes__aa66808.xml">What follow-up will I need if my Pap test shows minor cell changes?</a></li><li><a document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/Abnormal_Pap_Test_While_Pregnant-Topic_Overview__aa67777-sec.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/Abnormal_Pap_Test_While_Pregnant-Topic_Overview__aa67777-sec.xml">Is treatment different if I am pregnant?</a></li><li><a document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/Cervical_Polyps-Topic_Overview.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/Cervical_Polyps-Topic_Overview.xml">Will I need treatment for cervical polyps?</a></li></ul></td></tr><tr><td valign="top"><p><b>Ongoing concerns:</b></p></td><td valign="top"><ul><li><a document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Treatment_Overview.xml" directive="friendlyurl" chronic_id="091e9c5e8001d957" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Treatment_Overview.xml">What are the risks of no treatment?</a></li></ul></td></tr></table></section_text></section_group></page></pages><citations></citations></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-topic-overview" owner="false"><breadcrumb><bread piece="Women's Health" prefix="www" friendlyurl="/women/default.htm"></bread><bread piece="Women's Health Related Topics" prefix="www" friendlyurl="/women/tc/default.htm"></bread></breadcrumb><centers><Topic id="1264" name="tmg" chronicid="091e9c5e8001dfe4" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-topic-overview" type="Topic">Abnormal Pap Test</Topic><Super id="879" name="super center" chronicid="091e9c5e80025279" prefix="www" friendlyurl="/women/default.htm" type="">Women's Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-topic-overview" owner="false"><breadcrumb><bread piece="Women's Health" prefix="www" friendlyurl="/women/default.htm"></bread><bread piece="Women's Health Related Topics" prefix="www" friendlyurl="/women/tc/default.htm"></bread></breadcrumb><centers><Topic id="11190" name="tmg" chronicid="091e9c5e8001dfe4" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-topic-overview" type="Topic">Abnormal Pap Test</Topic><Super id="11187" name="super center" chronicid="091e9c5e8068ad7f" prefix="www" friendlyurl="/women/default.htm" type="">Women</Super></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e80377b97" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target></object><object chronic_id="091e9c5e803960f5" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_vagina.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/women/picture-of-the-vagina"></target><target siteid="8" name="" prefix="www" friendlyurl="/women/picture-of-the-vagina"></target></object><object chronic_id="091e9c5e800a8aa0" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/stds/symptoms/hpv_symptoms_tests.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests"></target><target siteid="8" name="" prefix="www" friendlyurl="/sexual-conditions/hpv-symptoms-tests"></target></object><object chronic_id="091e9c5e80023966" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Menopause Health Center/page_Menopause Health Center_091e9c5e80023966.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/menopause/default.htm"></target></object><object chronic_id="091e9c5e801d228d" thmbnl="/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/May08/6_sex_mistakes_men_make.jpg" wbmd_c_alt_tag="6 Sex Mistakes Men Make" wbmd_c_width="" wbmd_c_ht="" pointer="0" path="/webmd/consumer_assets/editorial/articles/features/mens_health/miscellaneous/6_sex_mistakes_men_make.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/men/guide/7-sex-mistakes-men-make"></target><target siteid="8" name="" prefix="www" friendlyurl="/men/guide/7-sex-mistakes-men-make"></target></object><object chronic_id="091e9c5e80008207" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/sexual_health/sexual_conditions/prevention/sexual_health_your_guide_to_birth_control_condoms.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/sex/birth-control/birth-control-condoms"></target><target siteid="8" name="" prefix="www" friendlyurl="/women/birth-control-condoms"></target></object><object chronic_id="091e9c5e800ab373" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/smoking-cessation/default.htm"></target></object><object chronic_id="091e9c5e8003880e" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Skin Problems Treatments Guide Default TOC Page/page_Skin Problems and Treatments Guide_091e9c5e8003880e.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/default.htm"></target></object><object chronic_id="091e9c5e803824cf" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/what_is_a_biopsy.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/cancer/what-is-a-biopsy"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/what-is-a-biopsy"></target></object><object chronic_id="091e9c5e8001dfe4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Topic_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-topic-overview"></target></object><object chronic_id="091e9c5e8001dd51" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Cause.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-cause"></target><target siteid="8" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-cause"></target></object><object chronic_id="091e9c5e8001d8d3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Symptoms.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-symptoms"></target><target siteid="8" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-symptoms"></target></object><object chronic_id="091e9c5e8001d815" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-What_Increases_Your_Risk.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-what-increases-your-risk"></target><target siteid="8" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001e37c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Exams_and_Tests.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-exams-and-tests"></target><target siteid="8" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-exams-and-tests"></target></object><object chronic_id="091e9c5e8001d89a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-When_To_Call_a_Doctor.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-when-to-call-a-doctor"></target><target siteid="8" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001d957" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Treatment_Overview.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-treatment-overview"></target><target siteid="8" name="" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-treatment-overview"></target></object><object chronic_id="091e9c5e8061afc5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/decisionpoint/What_follow-up_will_I_need_if_my_Pap_test_shows_minor_cell_changes__aa66808.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/what-follow-up-will-i-need-if-my-pap-test-shows-minor-cell-changes"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/what-follow-up-will-i-need-if-my-pap-test-shows-minor-cell-changes"></target></object><object chronic_id="091e9c5e8001dfe4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Topic_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-topic-overview"></target></object><object chronic_id="091e9c5e8001dd6d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Health_Tools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-health-tools"></target></object><object chronic_id="091e9c5e8001dd51" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Cause.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-cause"></target></object><object chronic_id="091e9c5e8001d8d3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Symptoms.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-symptoms"></target></object><object chronic_id="091e9c5e8001d773" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-What_Happens.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-what-happens"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-what-happens"></target></object><object chronic_id="091e9c5e8001d815" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-What_Increases_Your_Risk.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001d89a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-When_To_Call_a_Doctor.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001e37c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Exams_and_Tests.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-exams-and-tests"></target></object><object chronic_id="091e9c5e8001d957" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Treatment_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-treatment-overview"></target></object><object chronic_id="091e9c5e8001de5c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Prevention.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-prevention"></target></object><object chronic_id="091e9c5e8001db68" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Home_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-home-treatment"></target></object><object chronic_id="091e9c5e8001dd6b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Medications.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-medications"></target></object><object chronic_id="091e9c5e8001d76b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Surgery.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-surgery"></target></object><object chronic_id="091e9c5e8001da7a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Other_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-other-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-other-treatment"></target></object><object chronic_id="091e9c5e8001db3c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Other_Places_To_Get_Help.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001d90a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Related_Information.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-related-information"></target></object><object chronic_id="091e9c5e8001dcba" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-References.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-references"></target></object><object chronic_id="091e9c5e8001deb0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-pap-test-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e8002125d" path="/webmd/consumer_assets/controlled_content/healthwise/toc/major/Abnormal_Pap_Test-TOC.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>Overview</section_type><section_link directive="article" chronic_id="091e9c5e8001dfe4" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Topic_Overview.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e8001dd6d" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Health_Tools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Cause</section_title><section_type>Cause</section_type><section_link directive="article" chronic_id="091e9c5e8001dd51" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Cause.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>Symptoms</section_type><section_link directive="article" chronic_id="091e9c5e8001d8d3" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Symptoms.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Happens</section_title><section_type>WhatHappens</section_type><section_link directive="article" chronic_id="091e9c5e8001d773" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-What_Happens.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Increases Your Risk</section_title><section_type>WhatIncreasesYourRisk</section_type><section_link directive="article" chronic_id="091e9c5e8001d815" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-What_Increases_Your_Risk.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>When To Call a Doctor</section_title><section_type>WhenToCall</section_type><section_link directive="article" chronic_id="091e9c5e8001d89a" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-When_To_Call_a_Doctor.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>ExamsAndTests</section_type><section_link directive="article" chronic_id="091e9c5e8001e37c" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Exams_and_Tests.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>TreatmentOverview</section_type><section_link directive="article" chronic_id="091e9c5e8001d957" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Treatment_Overview.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Prevention</section_title><section_type>Prevention</section_type><section_link directive="article" chronic_id="091e9c5e8001de5c" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Prevention.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Home Treatment</section_title><section_type>HomeTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001db68" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Home_Treatment.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Medications</section_title><section_type>Medications</section_type><section_link directive="article" chronic_id="091e9c5e8001dd6b" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Medications.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Surgery</section_title><section_type>Surgery</section_type><section_link directive="article" chronic_id="091e9c5e8001d76b" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Surgery.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Treatment</section_title><section_type>OtherMedicalTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001da7a" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Other_Treatment.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001db3c" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Other_Places_To_Get_Help.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d90a" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Related_Information.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001dcba" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-References.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001deb0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Abnormal_Pap_Test-Credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Abnormal Pap Test</title><dynamic_objects><callout_title>Recommended Related to Women</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e8023faa9"><metadata_section><i_chronicle_id>091e9c5e80174fda</i_chronicle_id><title>How to Be Happy</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>By Stacy WeinerYou don't have to change much. Here, surprising ways to feel better every
+day
+
+  I'm a nonstop happiness seeker. On long drives, I don't ask my
+husband, "Are we there yet?" I meditate on life and ask myself, "Am
+I happy yet?"
+Here's my happiness inventory: I have a great house, but the toilets gurgle
+incessantly. My 9-year-old son is adorable, but has nerve-shredding sleep
+habits. My husband of 21 years is worth at least his weight in Godiva, but I'm
+pretty sure I see my dry...</p></section_text><link siteid="3" prefix="www" friendlyurl="/women/features/how-be-happy"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Abnormal Pap Test - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <a name="hw27576"></a>
+      <h4>What is an abnormal Pap test?</h4>
+      <p>A Pap test, or Pap smear, is part of a woman's routine <a href="http://www.webmd.com/a-to-z-guides/annual-physical-examinations" onclick="return sl(this,'','embd-lnk');">physical exam</a>. It is the best way to prevent cervical cancer, because it can find cells on your cervix that could turn into <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/cancer/">cancer</a>. The cervix is the lower part of the uterus that opens into the <a href="http://www.webmd.com/women/picture-of-the-vagina" onclick="return sl(this,'','embd-lnk');">vagina</a>.</p>
+      <p>When your doctor says that your Pap test was &quot;abnormal,&quot; it means that the test found some cells on your cervix that do not look normal. It does not mean that you have cancer. In fact, the chances that you have cancer are very small.</p>
+      <h4>What causes an abnormal Pap test?</h4>
+      <p>Most of the time, abnormal cell changes on the cervix are caused by certain types of human papillomavirus, or <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/sexual-conditions/HPV-Genital-Warts/">HPV</a>. HPV is a sexually transmitted infection. Usually these cell changes go away on their own. But certain <a href="http://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-symptoms-tests" onclick="return sl(this,'','embd-lnk');">types of HPV</a> have been linked to <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/cancer/cervical-cancer/">cervical cancer</a>. That’s why it’s important for women to have regular Pap tests. It usually takes many years for cell changes in the cervix to turn into cancer.</p>
+      <p>Sometimes cell changes in the cervix are due to other types of infection, such as infections caused by bacteria or yeast. These types of cell changes can be treated. In women who have been through <a href="http://www.webmd.com/menopause/default.htm" onclick="return sl(this,'','embd-lnk');">menopause</a>, a Pap test may find cell changes that are just the result of getting older. </p>
+      <h4>What increases your risk for an abnormal Pap test?</h4>
+      <p>High-risk <a href="http://www.webmd.com/men/guide/7-sex-mistakes-men-make" onclick="return sl(this,'','embd-lnk');">sex</a> raises your chances of getting HPV and having an abnormal Pap test. High-risk sex includes having sex without <a href="http://www.webmd.com/sex/birth-control/birth-control-condoms" onclick="return sl(this,'','embd-lnk');">condoms</a> and having more than one sex partner (or having a sex partner who has other partners).</p>
+      <p>HPV can stay in your body for many years without your knowing it. So even if you now have just one partner and practice <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/Safe-Sex-Topic-Overview">safe sex</a>, you could still have an abnormal Pap test if you were exposed to HPV in the past.</p>
+      <p><a href="http://www.webmd.com/smoking-cessation/default.htm" onclick="return sl(this,'','embd-lnk');">Smoking</a> or having an impaired immune system also may raise your chances of having cell changes in your cervix.</p>
+      <h4>Do abnormal cell changes cause symptoms?</h4>
+      <p>The cell changes themselves don't cause symptoms. HPV, which causes most abnormal Pap tests, usually doesn't cause symptoms either. This is why regular Pap tests are so important.</p>
+      <p>If a different sexually transmitted infection is the cause of your abnormal Pap test, you may have symptoms, including:</p>
+      <ul>
+       <li>A discharge from the vagina that isn't normal for you, such as a change in the amount, color, odor, or texture. </li>
+       <li>Pain, burning, or <a href="http://www.webmd.com/skin-problems-and-treatments/guide/default.htm" onclick="return sl(this,'','embd-lnk');">itching</a> in your pelvic or genital area when you urinate or have sex. </li>
+       <li>Sores, lumps, blisters, rashes, or warts on or around your genitals. </li>
+      </ul>
+      <h4>What will you need to do if you have an abnormal Pap test?</h4>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-health-tools'
+			});
+            
+			topics.push({
+			title : 'Cause',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-cause'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-symptoms'
+			});
+            
+			topics.push({
+			title : 'What Happens',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-what-happens'
+			});
+            
+			topics.push({
+			title : 'What Increases Your Risk',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-what-increases-your-risk'
+			});
+            
+			topics.push({
+			title : 'When To Call a Doctor',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-when-to-call-a-doctor'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-prevention'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Medications',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-medications'
+			});
+            
+			topics.push({
+			title : 'Surgery',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-surgery'
+			});
+            
+			topics.push({
+			title : 'Other Treatment',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-other-treatment'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/women/tc/abnormal-pap-test-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: December 28, 2010
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/women/tc/abnormal-pap-test-topic-overview">Topic Overview</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-health-tools">Health Tools</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-cause">Cause</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-symptoms">Symptoms</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-what-happens">What Happens</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-what-increases-your-risk">What Increases Your Risk</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-when-to-call-a-doctor">When To Call a Doctor</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-prevention">Prevention</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-home-treatment">Home Treatment</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-medications">Medications</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-surgery">Surgery</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-other-treatment">Other Treatment</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-related-information">Related Information</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-references">References</option><option value="http://www.webmd.com/women/tc/abnormal-pap-test-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Abnormal Pap Test Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-cause" onclick="return sl(this,'','topicNav_3');" title="Cause">Cause</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-symptoms" onclick="return sl(this,'','topicNav_4');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-what-happens" onclick="return sl(this,'','topicNav_5');" title="What Happens">What Happens</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-what-increases-your-risk" onclick="return sl(this,'','topicNav_6');" title="What Increases Your Risk">What Increases Your Risk</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-when-to-call-a-doctor" onclick="return sl(this,'','topicNav_7');" title="When To Call a Doctor">When To Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-exams-and-tests" onclick="return sl(this,'','topicNav_8');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-treatment-overview" onclick="return sl(this,'','topicNav_9');" title="Treatment Overview">Treatment Overview</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-prevention" onclick="return sl(this,'','topicNav_10');" title="Prevention">Prevention</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-home-treatment" onclick="return sl(this,'','topicNav_11');" title="Home Treatment">Home Treatment</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-medications" onclick="return sl(this,'','topicNav_12');" title="Medications">Medications</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-surgery" onclick="return sl(this,'','topicNav_13');" title="Surgery">Surgery</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-other-treatment" onclick="return sl(this,'','topicNav_14');" title="Other Treatment">Other Treatment</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-other-places-to-get-help" onclick="return sl(this,'','topicNav_15');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-related-information" onclick="return sl(this,'','topicNav_16');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-references" onclick="return sl(this,'','topicNav_17');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/women/tc/abnormal-pap-test-credits" onclick="return sl(this,'','topicNav_18');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Major';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="related_reading_rdr" id="rltd-p-879"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://women.webmd.com/guide/why-so-tired-10-causes-fatigue" onclick="return sl(this,'','rltd-p-879_1');">Why Am I So Tired?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/eye-health/healthy-vision-for-all-ages-11/good-eyesight" onclick="return sl(this,'','rltd-p-879_2');">6 Tips for Healthy Vision</a> </li> 
+     <li id="x64"> <a href="http://women.webmd.com/guide/comparing-birth-control-pill-types-combination-mini-pills-more" onclick="return sl(this,'','rltd-p-879_3');">Birth Control Pills: Which Type Is Right for You?</a> </li> 
+     <li id="x65"> <a class="type_vid" href="http://www.webmd.com/healthy-beauty/hair-health-11/?vid=vd-1212-atsp-0004&amp;ch=2" onclick="return sl(this,'','rltd-p-879_4');">The Truth About Supplements for Hair Health<i> </i></a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/skin-problems-and-treatments/psoriasis/psoriasis-health-check/default.htm" onclick="return sl(this,'','rltd-p-879_5');">Psoriasis? Assess Your Symptoms </a> </li> 
+     <li id="x67" class="last"> <a href="http://women.webmd.com/rm-quiz-vagina" onclick="return sl(this,'','rltd-p-879_6');">Vagina Quiz: What Do You Know About Down Below?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-879_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e8068e517" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068e517</chronic_id><r_object_id>091e9c5e8068e517</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8068e517.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/01/2010 17:08:52</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Womens Health Portal Template/template_Womens Health Portal Template_091e9c5e800251f5.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800251f5"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Abnormal Pap Test / Pap Test</name><link_title>Abnormal Pap Test / Pap Test</link_title><description>A Pap test is usually done as part of a woman's routine pelvic exam. During a Pap test, a small sample of cells from the surface of the cervix is collected and then examined in a lab for abnormal cell changes.   Follow the links below to find WebMD's comprehensive coverage about Pap tests, how and when they are done, what they look for, and much more.</description><friendly_url>http://www.webmd.com/women/abnormal-pap-test-directory</friendly_url></topic_dir><related_assets><asset id=""><link_title>What is an abnormal Pap test?</link_title><friendly_url>http://answers.webmd.com/answers/1190748/what-is-an-abnormal-pap-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8011bd93"><link_title>HPV Test Helps Detect Cervical Cancer</link_title><friendly_url>http://www.webmd.com/sexual-conditions/hpv-genital-warts/news/20070101/hpv-test-helps-detect-cervical-cancer</friendly_url><thumbnail height="" width="" alt="HPV DNA Testing">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/October_07/hpv_dna_testing.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b747"><link_title>Women With HIV May Not Need Yearly Pap Smear</link_title><friendly_url>http://www.webmd.com/hiv-aids/news/20050322/women-with-hiv-may-not-need-yearly-pap-smear</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f794"><link_title>Many Women May Not Need Yearly Pap Smear</link_title><friendly_url>http://www.webmd.com/cancer/news/20031015/many-women-may-not-need-yearly-pap-smear</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007d45"><link_title>Pap Test</link_title><friendly_url>http://www.webmd.com/women/guide/pap-smear</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000674e"><link_title>Overweight Women Less Likely to Get Cancer Screenings</link_title><friendly_url>http://www.webmd.com/women/news/20000501/weight-women-cancer-screenings</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006c74"><link_title>Exploring Pap Smear Effectiveness</link_title><friendly_url>http://www.webmd.com/women/news/19991119/exploring-pap-smear-effectiveness</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006d4b"><link_title>Less Frequent Pap Smears</link_title><friendly_url>http://www.webmd.com/women/news/20031125/women-wary-less-frequent-pap-smears</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007588"><link_title>Medical Tests in your 60s and Up</link_title><friendly_url>http://www.webmd.com/healthy-aging/guide/milestone-medical-tests-60-up</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000a1ab"><link_title>Pap Technology</link_title><friendly_url>http://www.webmd.com/women/features/pap-technology</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c538"><link_title>Using Chaperones During Pap Smears</link_title><friendly_url>http://www.webmd.com/women/news/20031125/using-chaperones-during-pap-smears</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e50e"><link_title>Many Women May Not Need a Pap Test Every Year</link_title><friendly_url>http://www.webmd.com/women/news/20000801/many-women-may-not-need-pap-test-every-year</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ec9e"><link_title>Inconclusive Pap Smear?</link_title><friendly_url>http://www.webmd.com/women/news/20020116/inconclusive-pap-smear</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f0eb"><link_title>Women Want Annual Pap Smear Despite Guidelines</link_title><friendly_url>http://www.webmd.com/women/news/20050202/women-want-annual-pap-smear-despite-guidelines</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001143d"><link_title>Understand Pap Tests?</link_title><friendly_url>http://www.webmd.com/women/news/20060509/women-misunderstand-pap-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006cdb"><link_title>Pap Tests a Must to Combat Cervical Cancer</link_title><friendly_url>http://www.webmd.com/cancer/cervical-cancer/news/20000530/pap-tests-combat-cervical-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007242"><link_title>New Cervical Cancer Tests Unwarranted</link_title><friendly_url>http://www.webmd.com/cancer/cervical-cancer/news/19991117/new-tests-cervical-cancer-unwarranted</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000788b"><link_title>Pap Smear After Menopause</link_title><friendly_url>http://www.webmd.com/menopause/guide/menopause-pap-smear</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000bd9c"><link_title>HPV Test Could Lower Need for Pap Smears</link_title><friendly_url>http://www.webmd.com/cancer/cervical-cancer/news/20021231/hpv-test-could-lower-need-for-pap-smears</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d080"><link_title>Fewer Pap Tests OK for Some Women</link_title><friendly_url>http://www.webmd.com/cancer/cervical-cancer/news/20021115/fewer-pap-tests-ok-for-some-women</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e46a"><link_title>Pap Test Results Often Confuse Women and Their Physicians</link_title><friendly_url>http://www.webmd.com/women/news/20010504/pap-test-results-often-confuse-women-their-physicians</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000eb11"><link_title>Breast 'Pap Smear' Predicts Likely Cancer</link_title><friendly_url>http://www.webmd.com/breast-cancer/news/20040305/breast-pap-smear-predicts-likely-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80125b69"><link_title>HPV Beats Pap as Cervical Cancer Test</link_title><friendly_url>http://www.webmd.com/women/news/20071017/hpv-beats-pap-cervical-cancer-test</friendly_url><thumbnail height="" width="" alt="HPV Test and Pap">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/October_07/hpv_test_and_pap.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8046a94f"><link_title>Doctor's Group: Delay Pap Tests Until 21</link_title><friendly_url>http://www.webmd.com/cancer/cervical-cancer/news/20091120/doctors-group-delay-pap-tests-until-21</friendly_url><thumbnail height="" width="" alt="cervical_ca_screening.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/november_2009/cervical_ca_screening.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8077786a"><link_title>Study: Older Women Need Pap Smears, Too</link_title><friendly_url>http://www.webmd.com/cancer/cervical-cancer/news/20110308/study-older-women-need-pap-smears-too</friendly_url><thumbnail height="" width="" alt="close up of female nurse holding chart">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/03_2011/69x75_older_women_cancer_screening_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807ec5ec"><link_title>Study: HPV and Pap Tests OK Every 3 Years</link_title><friendly_url>http://www.webmd.com/cancer/cervical-cancer/news/20110518/study-hpv-and-pap-tests-ok-every-3-years</friendly_url><thumbnail height="" width="" alt="Female illustration, reproductive system">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/05_2011/69x75_hpv_test_cervical_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000baa5"><link_title>Overweight People Get Less Preventive Care</link_title><friendly_url>http://www.webmd.com/diet/news/20050803/overweight-people-get-less-preventive-care</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801bc2d1"><link_title>U.S. Cancer Prevention Stalling?</link_title><friendly_url>http://www.webmd.com/cancer/news/20080422/us-cancer-prevention-stalling</friendly_url><thumbnail height="" width="" alt="cancer_prevention_findings.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/April08/cancer_prevention_findings.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ef20"><link_title>Popular Pap Test May Cause False Results</link_title><friendly_url>http://www.webmd.com/cancer/cervical-cancer/news/20030709/popular-pap-test-may-cause-false-results</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010781"><link_title>Health Checklist For Women Over 40</link_title><friendly_url>http://www.webmd.com/menopause/health-checklist-for-women-over-40</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://answers.webmd.com/answers/1190748/what-is-an-abnormal-pap-test" onclick="return sl(this,'','td-rltd-art_1');">What is an abnormal Pap test?</a></li>
+      <li><a href="http://www.webmd.com/women/guide/pap-smear" onclick="return sl(this,'','td-rltd-art_2');">Pap Test</a></li>
+      <li><a href="http://www.webmd.com/healthy-aging/guide/milestone-medical-tests-60-up" onclick="return sl(this,'','td-rltd-art_3');">Medical Tests in your 60s and Up</a></li>
+      <li><a href="http://www.webmd.com/women/features/pap-technology" onclick="return sl(this,'','td-rltd-art_4');">Pap Technology</a></li>
+      <li><a href="http://www.webmd.com/menopause/guide/menopause-pap-smear" onclick="return sl(this,'','td-rltd-art_5');">Pap Smear After Menopause</a></li>
+      <li><a href="http://www.webmd.com/menopause/health-checklist-for-women-over-40" onclick="return sl(this,'','td-rltd-art_6');">Health Checklist For Women Over 40</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/women/abnormal-pap-test-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Abnormal Pap Test / Pap Test Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2108100353&amp;tile=844838789&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=879&amp;pos=5000&amp;xpg=1840&amp;sec=&amp;au1=3&amp;au2=1&amp;uri=%2fwomen%2ftc%2fabnormal-pap-test-topic-overview&amp;artid=091e9c5e8001dfe4&amp;inst=0&amp;leaf=1264&amp;cc=16&amp;tmg=1&amp;bc=_cust013_gen2_c56_c55_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2108100353&amp;amp;tile=844838789&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=879&amp;amp;pos=5000&amp;amp;xpg=1840&amp;amp;sec=&amp;amp;au1=3&amp;amp;au2=1&amp;amp;uri=%2fwomen%2ftc%2fabnormal-pap-test-topic-overview&amp;amp;artid=091e9c5e8001dfe4&amp;amp;inst=0&amp;amp;leaf=1264&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_cust013_gen2_c56_c55_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1840";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2108100353&amp;tile=844838789&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=879&amp;pos=5001&amp;xpg=1840&amp;sec=&amp;au1=3&amp;au2=1&amp;uri=%2fwomen%2ftc%2fabnormal-pap-test-topic-overview&amp;artid=091e9c5e8001dfe4&amp;inst=0&amp;leaf=1264&amp;cc=16&amp;tmg=1&amp;bc=_cust013_gen2_c56_c55_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2108100353&amp;amp;tile=844838789&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=879&amp;amp;pos=5001&amp;amp;xpg=1840&amp;amp;sec=&amp;amp;au1=3&amp;amp;au2=1&amp;amp;uri=%2fwomen%2ftc%2fabnormal-pap-test-topic-overview&amp;amp;artid=091e9c5e8001dfe4&amp;amp;inst=0&amp;amp;leaf=1264&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_cust013_gen2_c56_c55_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1840";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,24 @@
+Apr 17, 2014 12:07:14 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/IREMajor] has started
+Apr 17, 2014 12:07:14 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/IREMajor] is completed
+Apr 17, 2014 12:10:23 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/IREMajor] has started
+Apr 17, 2014 12:10:23 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/IREMajor] is completed
+Apr 17, 2014 12:12:12 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Apr 17, 2014 12:12:12 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Apr 17, 2014 12:12:12 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Apr 17, 2014 12:12:12 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Apr 17, 2014 12:12:12 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Apr 17, 2014 12:12:12 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Apr 17, 2014 12:12:12 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Apr 17, 2014 12:12:12 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

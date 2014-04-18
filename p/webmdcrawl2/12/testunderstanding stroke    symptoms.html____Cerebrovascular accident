@@ -1,0 +1,660 @@
+<title>Understanding Stroke -- Symptoms</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2></h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/stroke/ss/slideshow-stroke-overview" class="type_ss" onclick="return sl(this,'','tools-res_1');">Stroke: A Visual Guide<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-topic-overview" onclick="return sl(this,'','tools-res_2');">What Is a TIA?</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/stroke/tc/stroke-rehabilitation-what-to-expect-after-a-stroke" onclick="return sl(this,'','tools-res_3');">Stroke Rehab: What to Expect</a></li>
+      <li id="x59"><a href="http://www.webmd.com/stroke/tc/stroke-symptoms" onclick="return sl(this,'','tools-res_4');">Most Common Stroke Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/signs-of-stroke" onclick="return sl(this,'','tools-res_5');">The Warning Signs of Stroke</a></li>
+      <li id="x61"><a href="http://www.webmd.com/stroke/guide/understanding-stroke-prevention" onclick="return sl(this,'','tools-res_6');">Preventing Strokes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <!--
+		updated 03/07/12 at 12:00pm VT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e7fba4"><metadata_section><i_chronicle_id>091e9c5e80008e3d</i_chronicle_id><r_object_id>091e9c5e80e7fba4</r_object_id><title>Understanding Stroke &#45;&#45; Symptoms</title><object_name>understanding_stroke_symptoms.xml</object_name><content_template>consumer_article_Health_Ref.xml</content_template><r_object_id>091e9c5e80e7fba4</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80de8163</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>01/01/2014 00:00:00</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>01/01/2015 00:00:00</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80019138</r_object_id><wbmd_bus_comp_nm>WebMD</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e802a487f" directive="imageurl" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 2014 WebMD, LLC. All rights reserved.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>/content/article/54/61586</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="2" wbmd_disp_nm="Disease &amp; Condition - Symptoms"></wbmd_med_ref_type><wbmd_wdw_ttl>Understanding Stroke &#45;&#45; Symptoms</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>03/09/2014 00:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e804aeeb1</r_object_id><wbmd_publ_name>WebMD Medical Reference</wbmd_publ_name><wbmd_publ_type>1</wbmd_publ_type><wbmd_publ_display>WebMD Medical Reference</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Understand the symptoms of stroke from the experts at WebMD.</wbmd_desc_meta><wbmd_orig_pub_dt>11/01/2002 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Understand the symptoms of stroke from the experts at WebMD.</wbmd_desc_user><wbmd_lk_ttl>Symptoms of Stroke</wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e804467aa</r_object_id><wbmd_first_nm>James</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Beckerman</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id chronic_id="091e9c5e80233732" directive="friendlyurl" path="/webmd/consumer_assets/editorial/articles/biographies/b/beckerman_james.xml" object_type="wbmd_cons_article"></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="29" wbmd_disp_nm="FACC"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>stroke, stroke symptoms, Symptoms of stroke, dizziness, vision, sight, balance, coordination, sensation, speech, weakness, numbness</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>I</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>H</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd></wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e7fba4</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3053" wbmd_disp_nm="Stroke"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1738" wbmd_disp_nm="Healthy Seniors"></wbmd_c_sec_top_id><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1667" wbmd_disp_nm="Diabetes"></wbmd_c_sec_top_id><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1817" wbmd_disp_nm="Hypertension"></wbmd_c_sec_top_id><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3053" wbmd_disp_nm="Stroke"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl directive="imageurl" chronic_id="" path="/webmdNone" object_type="" wbmd_c_alt_tag="" wbmd_c_width="" wbmd_c_ht=""></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1108" wbmd_disp_nm="Stroke"></wbmd_c_channel_id><wbmd_c_frnd_nm>understanding-stroke-symptoms</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_health_ref><title>Understanding Stroke &#45;&#45; Symptoms</title><pages><page><section_group><section_header>What Are the Symptoms of a Stroke?</section_header><section_text><p>You should consider these symptoms warning signs and consult your health care provider:</p><ul><li>Sudden weakness or numbness in the face, arm, or leg on one side of the body.</li><li>Abrupt loss of vision, strength, coordination, sensation, speech, or the ability to understand speech. These symptoms may become worse over time.</li><li>Sudden dimness of vision, especially in one eye.</li><li>Sudden loss of balance, possibly accompanied by vomiting, nausea, fever, hiccups, or trouble with swallowing.</li><li>Sudden and severe headache with no other cause followed rapidly by loss of consciousness &#45;&#45; indications of a stroke due to bleeding.</li><li>Brief loss of consciousness.</li><li>Unexplained dizziness or sudden falls.</li></ul><p> </p></section_text></section_group><section_group><section_header>Call 911 If:</section_header><section_text><p>If you or someone with you exhibits any of the signs of stroke, do not delay because timely treatment is critical to survival and recovery.</p><p><b>Call for emergency services.</b></p><p>If the symptoms pass quickly, this may indicate a transient ischemic attack (TIA), a brief blockage of blood flow to the brain that is often a forerunner of stroke. Do not ignore this warning sign.</p><p><b>You must get to the hospital immediately</b>. Some treatments must begin within the first few hours of symptoms; early treatment can often help prevent a fatal or disabling stroke from occurring.</p></section_text></section_group></page></pages><citations><p>SOURCES: </p><p>World Health Organization. </p><p>Silbergleit, R. <i>Academy of Emergency Medicine</i>, 2005 Apr. </p><p>Braunwld, E. (editor); et al, <i>Harrison's Principles of Internal Medicine 16th Edition,</i> McGraw-Hill Professional, July 23, 2004. </p><p>Bendixen, B. and Ocava, L. <i>Current Cardiology Report </i>2002, Mar. </p><p>Berger C. <i>Stroke</i>. 2005, June. </p><p>Roy, M. <i>Journal of Association of Physicians of India,</i> 2004, Dec.</p></citations></cons_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/stroke/guide/understanding-stroke-symptoms" owner="false"><breadcrumb><bread piece="Brain &amp; Nervous System Health Center" prefix="www" friendlyurl="/brain/default.htm"></bread><bread piece="Stroke Health Center" prefix="www" friendlyurl="/stroke/default.htm"></bread><bread piece="Stroke Guide" prefix="www" friendlyurl="/stroke/guide/default.htm"></bread></breadcrumb><centers><Topic id="890" name="tmg" chronicid="091e9c5e8003d294" prefix="www" friendlyurl="/stroke/guide/default.htm" type="Guide">Stroke Guide</Topic><Health id="878" name="health center" chronicid="091e9c5e80025270" prefix="www" friendlyurl="/stroke/default.htm" type="">Stroke</Health><Super id="740" name="super center" chronicid="091e9c5e80025343" prefix="www" friendlyurl="/brain/default.htm" type="">Brain and Nervous System</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/understanding-stroke-symptoms" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e80233732" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/b/beckerman_james.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/beckerman-james"></target><target siteid="8" name="" prefix="www" friendlyurl="/beckerman-james"></target></object><object chronic_id="091e9c5e8002c92b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_overview_facts.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-overview-facts"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-overview-facts"></target></object><object chronic_id="091e9c5e80008ab9" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/overview_types_of/understanding_stroke_basics.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/understanding-stroke-basics"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/understanding-stroke-basics"></target></object><object chronic_id="091e9c5e8001dfe3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-What_Happens.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-what-happens"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-what-happens"></target></object><object chronic_id="091e9c5e8001dead" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Cause.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-cause"></target></object><object chronic_id="091e9c5e8001dc21" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-What_Increases_Your_Risk.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-what-increases-your-risk"></target></object><object chronic_id="091e9c5e80008e3b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/prevention/understanding_stroke_prevention.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/understanding-stroke-prevention"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/understanding-stroke-prevention"></target></object><object chronic_id="091e9c5e8002c946" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_symptoms_types.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-symptoms-types"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-symptoms-types"></target></object><object chronic_id="091e9c5e80008e3d" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/symptoms/understanding_stroke_symptoms.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/understanding-stroke-symptoms"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/understanding-stroke-symptoms"></target></object><object chronic_id="091e9c5e8001d825" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-When_To_Call_a_Doctor.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8002c97b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_diagnosis_tests.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-diagnosis-tests"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-diagnosis-tests"></target></object><object chronic_id="091e9c5e8001df5d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Exams_and_Tests.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-exams-and-tests"></target></object><object chronic_id="091e9c5e8002c996" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_treatment_care.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-treatment-care"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-treatment-care"></target></object><object chronic_id="091e9c5e8001d78e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Treatment_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-treatment-overview"></target></object><object chronic_id="091e9c5e8074f64c" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/treatment/thrombolysis.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/thrombolysis-definition-and-facts"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/thrombolysis-definition-and-facts"></target></object><object chronic_id="091e9c5e8001e17e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Home_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-home-treatment"></target></object><object chronic_id="091e9c5e8001e114" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Medications.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-medications"></target></object><object chronic_id="091e9c5e8001dd22" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Surgery.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-surgery"></target></object><object chronic_id="091e9c5e8001dfe2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Other_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-other-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-other-treatment"></target></object><object chronic_id="091e9c5e8002c9b8" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_living_managing.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-living-managing"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-living-managing"></target></object><object chronic_id="091e9c5e80011c45" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/overview_types_of/stroke_10_questions_ask_your_doctor.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/questions-doctor-stroke"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/questions-doctor-stroke"></target></object><object chronic_id="091e9c5e8002c9ce" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_support_resources.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-support-resources"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-support-resources"></target></object><object chronic_id="091e9c5e8007adcc" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_resources-organizations_index.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-resources-organizations"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-resources-organizations"></target></object><object chronic_id="091e9c5e8000b367" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/c/Chang_Louise.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/louise-chang"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/louise-chang"></target></object><object chronic_id="091e9c5e800099d5" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/d/Davis_Sylvia.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/sylvia-davis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/sylvia-davis"></target></object><object chronic_id="091e9c5e803385d6" thmbnl="" pointer="1"><target friendlyurl="http://www.webmd.com/a-to-z-guides/tools/health-check-5/default.htm"></target></object><object chronic_id="091e9c5e80bf6960" thmbnl="" pointer="1"><target friendlyurl="http://www.webmd.com/stroke/regaining-arm-use-after-stroke-10/slideshow-stroke"></target></object><object chronic_id="091e9c5e8002cd37" thmbnl="" pointer="1"><target friendlyurl="http://doctor.webmd.com/physician_finder/home.aspx?sponsor=core"></target></object><object chronic_id="091e9c5e80bf6961" thmbnl="" pointer="1"><target friendlyurl="http://exchanges.webmd.com/stroke-exchange"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><dynamic_objects><callout_title>Recommended Related to Stroke</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80a80cbc"><metadata_section><i_chronicle_id>091e9c5e8053a549</i_chronicle_id><title>After a Stroke: Medications to Reduce Arm Spasticity</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>When it comes to stroke rehabilitation, one medication doesn’t fit all. Your stroke rehab team will work with you to find out which medications, if any, can improve stiffness after a stroke. It's important to remember these medications are not a cure. They are ongoing treatments that relieve the symptoms of spasticity.
+"There are no medications that have been well proven &#45;&#45; in large, well-designed clinical trials &#45;&#45; to directly help with motor rehabilitation beyond their effect on spasticity," says...</p></section_text><link siteid="3" prefix="www" friendlyurl="/stroke/features/after-a-stroke-medications-to-reduce-arm-spasticity"></wbmd_asset></dynamic_objects><section_groups><section_group><section_full_title>Symptoms</section_full_title><section_nav_title>Symptoms</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>Symptoms</article_link_title><article_description><p>You really, really should know the general symptoms of stroke. Go ahead &#45;&#45; click here.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e80008e3d" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/symptoms/understanding_stroke_symptoms.xml" chapter_chronic_id="091e9c5e8002c946"></article_link></article_group></article_groups></section_group><section_group><section_full_title>When to Call A Doctor</section_full_title><section_nav_title>When to Call A Doctor</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>When to Call A Doctor</article_link_title><article_description><p>Read this article now. It's a brief list of the symptoms that signal a stroke emergency.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001d825" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-When_To_Call_a_Doctor.xml" chapter_chronic_id="091e9c5e8002c946"></article_link></article_group></article_groups></section_group></section_groups><webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80bf7bf7" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e80016b2a</i_chronicle_id><r_object_id>091e9c5e80bf7bf7</r_object_id><title>Stroke Guide</title><object_name>stroke_guide.xml</object_name><content_template>consumer_guide_outline.xml</content_template><r_object_id>091e9c5e80bf7bf7</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="96" wbmd_disp_nm="TOC - Guide"></wbmd_bus_ref><wbmd_cpyrt></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl>Stroke Guide</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>11/01/2006 00:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e802a5434</r_object_id><wbmd_publ_name>WebMD Guide</wbmd_publ_name><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Stroke is a devastating event. The best way to fight it is with information. These links take you to no-nonsense summaries of what you need to know about the causes and symptoms of stroke, stroke tests and treatments, and support for both patients and caregivers.</wbmd_desc_meta><wbmd_orig_pub_dt>11/01/2006 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Stroke is a devastating event. The best way to fight it is with information. These links take you to no-nonsense summaries of what you need to know about the causes and symptoms of stroke, stroke tests and treatments, and support for both patients and caregivers.</wbmd_desc_user><wbmd_lk_ttl>Stroke Guide</wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e80451607</r_object_id><wbmd_first_nm>Louise</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Chang</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id chronic_id="091e9c5e8000b367" directive="friendlyurl" path="/webmd/consumer_assets/editorial/articles/biographies/c/Chang_Louise.xml" object_type="wbmd_cons_article"></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>stroke</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim><r_object_id>091e9c5e8000aac0</r_object_id><wbmd_first_nm>Sylvia</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Davis</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id chronic_id="091e9c5e800099d5" directive="friendlyurl" path="/webmd/consumer_assets/editorial/articles/biographies/d/Davis_Sylvia.xml" object_type="wbmd_cons_article"></wbmd_bio_obj_id><wbmd_person_suffix_group></wbmd_person_suffix_group></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>I</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>Age.234</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd></wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80bf7bf7</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3053" wbmd_disp_nm="Stroke"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_publ_disp></wbmd_c_publ_disp><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1108" wbmd_disp_nm="Stroke"></wbmd_c_channel_id><wbmd_c_frnd_nm>stroke-guide</wbmd_c_frnd_nm><wbmd_c_teaser></wbmd_c_teaser></metadata_section><content_section><cons_guide_outline><guide_introduction><p>Stroke is a devastating event. The best way to fight it is with information.
+These links take you to no-nonsense summaries of what you need to know about
+the causes and symptoms of stroke, stroke tests and treatments, and support for
+both patients and caregivers.</p></guide_introduction><chapter_groups><chapter_group><chapter_link directive="chapter" chronic_id="091e9c5e8002c92b" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_overview_facts.xml" object_type="wbmd_cons_article"><cons_guide_chapter_outline><chapter_title>Overview &amp; Facts</chapter_title><chapter_description><p>Start your stroke search here. These links start with basic facts and go on to short discussions of stroke causes and risk factors.</p></chapter_description><section_groups><section_group><section_full_title>What Is Stroke?</section_full_title><section_nav_title>What Is Stroke?</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>Stroke Basics</article_link_title><article_description><p>A stroke is an emergency. Get the basic facts here.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e80008ab9" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/overview_types_of/understanding_stroke_basics.xml" chapter_chronic_id="091e9c5e8002c92b"></article_link></article_group><article_group><article_link_title>What Happens During a Stroke</article_link_title><article_description><p>Click here for a brief account of what goes on in your brain during a stroke.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001dfe3" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-What_Happens.xml" chapter_chronic_id="091e9c5e8002c92b"></article_link></article_group></article_groups></section_group><section_group><section_full_title>Causes</section_full_title><section_nav_title>Causes</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>Stroke Causes</article_link_title><article_description><p>What can cause strokes to happen? Find out here.</p><p> </p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001dead" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Cause.xml" chapter_chronic_id="091e9c5e8002c92b"></article_link></article_group></article_groups></section_group><section_group><section_full_title>Are You at Risk?</section_full_title><section_nav_title>Are You at Risk?</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>Stroke Dangers</article_link_title><article_description><p>Evaluate your personal health and your risks for 5 big health problems.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e803385d6" directive="friendlyurl" object_type="wbmd_cons_ptr" path="/webmd/consumer_assets/editorial/external_assets/webmd_com/guide_pointers/hypertension_health_check.xml" chapter_chronic_id="091e9c5e8002c92b"></article_link></article_group><article_group><article_link_title>What Increases Your Risk for Stroke</article_link_title><article_description><p>Are you at increased risk for stroke? Find out here.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001dc21" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-What_Increases_Your_Risk.xml" chapter_chronic_id="091e9c5e8002c92b"></article_link></article_group></article_groups></section_group><section_group><section_full_title>Prevention</section_full_title><section_nav_title>Prevention</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>Stroke Prevention</article_link_title><article_description><p>Controlling risk factors and certain medical conditions can improve your chances of avoiding a stroke. Click here to get started.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e80008e3b" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/prevention/understanding_stroke_prevention.xml" chapter_chronic_id="091e9c5e8002c92b"></article_link></article_group></article_groups></section_group></section_groups></cons_guide_chapter_outline></chapter_link></chapter_group><chapter_group><chapter_link directive="chapter" chronic_id="091e9c5e8002c946" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_symptoms_types.xml" object_type="wbmd_cons_article"><cons_guide_chapter_outline><chapter_title>Symptoms &amp; Types</chapter_title><chapter_description><p>Do not miss the articles in this section. This information on the warning signs, symptoms, and types of stroke could save your life or the life of a loved one.</p></chapter_description><section_groups><section_group><section_full_title>Symptoms</section_full_title><section_nav_title>Symptoms</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>Symptoms</article_link_title><article_description><p>You really, really should know the general symptoms of stroke. Go ahead &#45;&#45; click here.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e80008e3d" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/symptoms/understanding_stroke_symptoms.xml" chapter_chronic_id="091e9c5e8002c946"></article_link></article_group></article_groups></section_group><section_group><section_full_title>When to Call A Doctor</section_full_title><section_nav_title>When to Call A Doctor</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>When to Call A Doctor</article_link_title><article_description><p>Read this article now. It's a brief list of the symptoms that signal a stroke emergency.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001d825" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-When_To_Call_a_Doctor.xml" chapter_chronic_id="091e9c5e8002c946"></article_link></article_group></article_groups></section_group></section_groups></cons_guide_chapter_outline></chapter_link></chapter_group><chapter_group><chapter_link directive="chapter" chronic_id="091e9c5e8002c97b" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_diagnosis_tests.xml" object_type="wbmd_cons_article"><cons_guide_chapter_outline><chapter_title>Diagnosis &amp; Tests</chapter_title><chapter_description><p>Stroke sounds simple, but it's not always easy to tell if someone has had one. These links help you understand the tests doctors use to diagnose stroke.</p></chapter_description><section_groups><section_group><section_full_title>Diagnosis</section_full_title><section_nav_title>Diagnosis</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>Exams and Tests</article_link_title><article_description><p>Stroke sounds simple, but it's not always easy to tell if someone has had one. These links help you understand the tests doctors use to diagnose stroke.</p><p> </p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001df5d" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Exams_and_Tests.xml" chapter_chronic_id="091e9c5e8002c97b"></article_link></article_group></article_groups></section_group></section_groups></cons_guide_chapter_outline></chapter_link></chapter_group><chapter_group><chapter_link directive="chapter" chronic_id="091e9c5e8002c996" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_treatment_care.xml" object_type="wbmd_cons_article"><cons_guide_chapter_outline><chapter_title>Treatment &amp; Care</chapter_title><chapter_description><p>Everyone who has had a stroke &#45;&#45; or who is at risk of stroke &#45;&#45; needs to know about stroke treatment and care. These links take you to that information.</p></chapter_description><section_groups><section_group><section_full_title>Treatment</section_full_title><section_nav_title>Treatment</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>Stroke Diagnosis and Treatment Basics</article_link_title><article_description><p>When a patient displays stroke-like symptoms, a doctor, often a neurologist (a doctor who specializes in managing strokes) must not only confirm the symptoms but also identify the type of stroke, its location, and the extent of brain damage. Treatment decisions hinge on all these issues.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001d78e" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Treatment_Overview.xml" chapter_chronic_id="091e9c5e8002c996"></article_link></article_group><article_group><article_link_title>Treatment Overview</article_link_title><article_description><p>Click here to learn about the initial treatment for stroke, and ongoing treatment afterward.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001d78e" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Treatment_Overview.xml" chapter_chronic_id="091e9c5e8002c996"></article_link></article_group><article_group><article_link_title>Thrombolysis</article_link_title><article_description><p>Thrombolysis, also known as thrombolytic therapy, is a treatment to dissolve dangerous clots in blood vessels, improve blood flow, and prevent damage to tissues and organs.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8074f64c" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/treatment/thrombolysis.xml" chapter_chronic_id="091e9c5e8002c996"></article_link></article_group><article_group><article_link_title>Home Treatment</article_link_title><article_description><p>Here are some tips for care at home.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001e17e" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Home_Treatment.xml" chapter_chronic_id="091e9c5e8002c996"></article_link></article_group><article_group><article_link_title>Medications</article_link_title><article_description><p>A wide range of medicines is used for people who have had a stroke, or are at high risk of having one. Click here to learn about them.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001e114" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Medications.xml" chapter_chronic_id="091e9c5e8002c996"></article_link></article_group><article_group><article_link_title>Surgery</article_link_title><article_description><p>If you have had a stroke, you may need surgery. Learn about it here.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001dd22" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Surgery.xml" chapter_chronic_id="091e9c5e8002c996"></article_link></article_group><article_group><article_link_title>Other Treatment</article_link_title><article_description><p>Click here for information about rehabilitation, and about a new treatment aimed at preventing stroke.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8001dfe2" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Other_Treatment.xml" chapter_chronic_id="091e9c5e8002c996"></article_link></article_group></article_groups></section_group></section_groups></cons_guide_chapter_outline></chapter_link></chapter_group><chapter_group><chapter_link directive="chapter" chronic_id="091e9c5e8002c9b8" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_living_managing.xml" object_type="wbmd_cons_article"><cons_guide_chapter_outline><chapter_title>Living &amp; Managing</chapter_title><chapter_description><p>Most stroke survivors need help getting their lives back under control. These links will help you manage your life after stroke.</p></chapter_description><section_groups><section_group><section_full_title>Living and Coping</section_full_title><section_nav_title>Living and Coping</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>10 Questions to Ask your Doctor About Stroke</article_link_title><article_description><p>Print out this valuable list and take it with you when you see your doctor.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e80011c45" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/overview_types_of/stroke_10_questions_ask_your_doctor.xml" chapter_chronic_id="091e9c5e8002c9b8"></article_link></article_group><article_group><article_link_title>Slideshow: Stroke Rehab to Regain Arm Movement</article_link_title><article_description><p>Stroke rehabilitation begins once your condition has stabilized &#45;&#45; as soon as 24 to 48 hours after your stroke. Early, individualized therapy helps improve your chance of recovery.</p><p> </p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e80bf6960" directive="friendlyurl" object_type="wbmd_cons_ptr" path="/webmd/consumer_assets/editorial/external_assets/health_tools/slide_shows/healthtool_webmd_stroke_rehab_ss.xml" chapter_chronic_id="091e9c5e8002c9b8"></article_link></article_group></article_groups></section_group></section_groups></cons_guide_chapter_outline></chapter_link></chapter_group><chapter_group><chapter_link directive="chapter" chronic_id="091e9c5e8002c9ce" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_support_resources.xml" object_type="wbmd_cons_article"><cons_guide_chapter_outline><chapter_title>Support &amp; Resources</chapter_title><chapter_description><p>Nobody has to be alone after a stroke. Here are links to help, support, advice, and community.</p></chapter_description><section_groups><section_group><section_full_title>Finding Help</section_full_title><section_nav_title>Finding Help</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>Tool: Find a Stroke Doctor</article_link_title><article_description><p>Find a stroke doctor with WebMD's Physician Finder. Click here.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8002cd37" directive="friendlyurl" object_type="wbmd_cons_ptr" path="/webmd/consumer_assets/editorial/external_assets/doctor_webmd_com/find_stroke_doctor.xml" chapter_chronic_id="091e9c5e8002c9ce"></article_link></article_group></article_groups></section_group><section_group><section_full_title>Resources</section_full_title><section_nav_title>Resources</section_nav_title><section_description></section_description><article_groups><article_group><article_link_title>Organizations</article_link_title><article_description><p>Try these organizations for more information.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e8007adcc" directive="article" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_resources-organizations_index.xml" chapter_chronic_id="091e9c5e8002c9ce"></article_link></article_group><article_group><article_link_title>WebMD Stroke Community</article_link_title><article_description><p>Having a stroke is a life altering experience. Discuss prevention, recovery, and more with experts, caregivers and members who understand.</p></article_description><article_editor_note></article_editor_note><article_link chronic_id="091e9c5e80bf6961" directive="friendlyurl" object_type="wbmd_cons_ptr" path="/webmd/consumer_assets/editorial/external_assets/health_tools/exchange_webmd_stroke_exchange.xml" chapter_chronic_id="091e9c5e8002c9ce"></article_link></article_group></article_groups></section_group></section_groups></cons_guide_chapter_outline></chapter_link></chapter_group></chapter_groups></cons_guide_outline></content_section></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects><object chronic_id="091e9c5e8002c92b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_overview_facts.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-overview-facts"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-overview-facts"></target></object><object chronic_id="091e9c5e80008ab9" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/overview_types_of/understanding_stroke_basics.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/understanding-stroke-basics"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/understanding-stroke-basics"></target></object><object chronic_id="091e9c5e8001dfe3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-What_Happens.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-what-happens"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-what-happens"></target></object><object chronic_id="091e9c5e8001dead" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Cause.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-cause"></target></object><object chronic_id="091e9c5e8001dc21" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-What_Increases_Your_Risk.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-what-increases-your-risk"></target></object><object chronic_id="091e9c5e80008e3b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/prevention/understanding_stroke_prevention.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/understanding-stroke-prevention"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/understanding-stroke-prevention"></target></object><object chronic_id="091e9c5e8002c946" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_symptoms_types.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-symptoms-types"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-symptoms-types"></target></object><object chronic_id="091e9c5e80008e3d" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/symptoms/understanding_stroke_symptoms.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/understanding-stroke-symptoms"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/understanding-stroke-symptoms"></target></object><object chronic_id="091e9c5e8001d825" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-When_To_Call_a_Doctor.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8002c97b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_diagnosis_tests.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-diagnosis-tests"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-diagnosis-tests"></target></object><object chronic_id="091e9c5e8001df5d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Exams_and_Tests.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-exams-and-tests"></target></object><object chronic_id="091e9c5e8002c996" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_treatment_care.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-treatment-care"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-treatment-care"></target></object><object chronic_id="091e9c5e8001d78e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Treatment_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-treatment-overview"></target></object><object chronic_id="091e9c5e8074f64c" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/treatment/thrombolysis.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/thrombolysis-definition-and-facts"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/thrombolysis-definition-and-facts"></target></object><object chronic_id="091e9c5e8001e17e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Home_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-home-treatment"></target></object><object chronic_id="091e9c5e8001e114" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Medications.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-medications"></target></object><object chronic_id="091e9c5e8001dd22" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Surgery.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-surgery"></target></object><object chronic_id="091e9c5e8001dfe2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/Stroke-Other_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/guide/stroke-other-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/stroke-other-treatment"></target></object><object chronic_id="091e9c5e8002c9b8" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_living_managing.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-living-managing"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-living-managing"></target></object><object chronic_id="091e9c5e80011c45" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/overview_types_of/stroke_10_questions_ask_your_doctor.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/questions-doctor-stroke"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/questions-doctor-stroke"></target></object><object chronic_id="091e9c5e8002c9ce" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_support_resources.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-support-resources"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-support-resources"></target></object><object chronic_id="091e9c5e8007adcc" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/guides/stroke/stroke_resources-organizations_index.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/guide/stroke-resources-organizations"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/stroke-resources-organizations"></target></object><object chronic_id="091e9c5e8000b367" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/c/Chang_Louise.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/louise-chang"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/louise-chang"></target></object><object chronic_id="091e9c5e800099d5" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/d/Davis_Sylvia.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/sylvia-davis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/sylvia-davis"></target></object><object chronic_id="091e9c5e803385d6" thmbnl="" pointer="1"><target friendlyurl="http://www.webmd.com/a-to-z-guides/tools/health-check-5/default.htm"></target></object><object chronic_id="091e9c5e80bf6960" thmbnl="" pointer="1"><target friendlyurl="http://www.webmd.com/stroke/regaining-arm-use-after-stroke-10/slideshow-stroke"></target></object><object chronic_id="091e9c5e8002cd37" thmbnl="" pointer="1"><target friendlyurl="http://doctor.webmd.com/physician_finder/home.aspx?sponsor=core"></target></object><object chronic_id="091e9c5e80bf6961" thmbnl="" pointer="1"><target friendlyurl="http://exchanges.webmd.com/stroke-exchange"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects></webmd_rendition></webmd_rendition>
+--> 
+   <div class="articlesPulldownTop_fmt">
+    <script type="text/javascript" language="javascript">
+				var externalUrlListTop = new Array(
+			'xxx');</script>
+    <form onsubmit="return submitNavForm(externalUrlListTop,'AllPulldown',false)" style="padding-top:5px;">
+      Select An Article 
+     <select name="all_pulldown" id="AllPulldown" class="pulldown_fmt"><option value="#">All Subchapter Articles:</option><option value="http://www.webmd.com/stroke/guide/understanding-stroke-symptoms">Symptoms</option><option value="http://www.webmd.com/stroke/guide/stroke-when-to-call-a-doctor">When to Call A Doctor</option></select>
+     <input name="submit" value="Go" alt="Go" align="top" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/articlepulldowngobtn2.gif" type="image" />
+    </form>
+   </div>
+   <div class="horizNav_rdr_bottom_pulldown_fmt"></div>
+   <div class="article_rdr">
+    <div id="readspeaker_area" style="display: none;">
+     <div id="readspeaker_button1" class="rs_skip">
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"><img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /></a>
+     </div>
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript"></script>
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:1});
+                    });
+                })();
+                </script>
+     <div id="xp1"></div>
+    </div>
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js"></script>
+     <h2>Understanding Stroke -- Symptoms</h2>
+     <div class="subhead_fmt"></div>
+     <h3>What Are the Symptoms of a Stroke?</h3>
+     <p>You should consider these symptoms warning signs and consult your health care provider:</p>
+     <ul>
+      <li>Sudden weakness or numbness in the face, arm, or leg on one side of the body.</li>
+      <li>Abrupt loss of vision, strength, coordination, sensation, speech, or the ability to understand speech. These symptoms may become worse over time.</li>
+      <li>Sudden dimness of vision, especially in one eye.</li>
+      <li>Sudden loss of balance, possibly accompanied by vomiting, nausea, fever, hiccups, or trouble with swallowing.</li>
+      <li>Sudden and severe headache with no other cause followed rapidly by loss of consciousness -- indications of a stroke due to bleeding.</li>
+      <li>Brief loss of consciousness.</li>
+      <li>Unexplained dizziness or sudden falls.</li>
+     </ul>
+     <p>&nbsp;</p>
+     <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" />
+     <div class="aia_rdr rs_skip">
+      <div class="aia_top_fmt"> 
+      </div>
+      <div class="aia_border_fmt">
+       <div class="aia_title_bar_fmt">
+        <h4>Recommended Related to Stroke</h4>
+        <div class="clearing_fmt"> 
+        </div>
+       </div>
+       <p class="aia_read_full_fmt"><a href="http://www.webmd.com/stroke/features/after-a-stroke-medications-to-reduce-arm-spasticity" onclick="return sl(this,'','aia-related');">After a Stroke: Medications to Reduce Arm Spasticity</a></p>
+       <div class="aia_section_fmt">
+        <div class="aia_content_fmt">
+         <p>When it comes to stroke rehabilitation, one medication doesn’t fit all. Your stroke rehab team will work with you to find out which medications, if any, can improve stiffness after a stroke. It's important to remember these medications are not a cure. They are ongoing treatments that relieve the symptoms of spasticity. &quot;There are no medications that have been well proven -- in large, well-designed clinical trials -- to directly help with motor rehabilitation beyond their effect on spasticity,&quot; says...</p>
+        </div>
+       </div>
+       <p class="aia_read_full_fmt"><a href="http://www.webmd.com/stroke/features/after-a-stroke-medications-to-reduce-arm-spasticity" onclick="return sl(this,'','aia-related');">Read the After a Stroke: Medications to Reduce Arm Spasticity article &gt; &gt;</a></p>
+       <div class="clearing_fmt"> 
+       </div>
+      </div>
+      <div class="aia_bot_fmt"> 
+      </div>
+     </div>
+     <script type="text/javascript">$(function(){
+  if(typeof(s_sponsor_program) != 'undefined' ){
+    /* remove aia if in a sponsored program */
+    if(s_sponsor_program != ""){$(".aia_rdr").remove()}
+  }
+});</script>
+     <h3>Call 911 If:</h3>
+     <p>If you or someone with you exhibits any of the signs of stroke, do not delay because timely treatment is critical to survival and recovery.</p>
+     <p><b>Call for emergency services.</b></p>
+     <p>If the symptoms pass quickly, this may indicate a transient ischemic attack (TIA), a brief blockage of blood flow to the brain that is often a forerunner of stroke. Do not ignore this warning sign.</p>
+     <p><b>You must get to the hospital immediately</b>. Some treatments must begin within the first few hours of symptoms; early treatment can often help prevent a fatal or disabling stroke from occurring.</p>
+    </div>
+   </div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     <div class="viewSource_fmt">
+      <a href="" onclick="toggle('sourceText_fmt','sources_sign_fmt'); return false;">View Article Sources <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/todaysNews_plusSign.gif" alt="Sources" align="top" border="0" id="sources_sign_fmt" /></a>
+     </div>
+     <div style="display:none;" id="sourceText_fmt">
+      <p>SOURCES:&nbsp;</p>
+      <p>World Health Organization.&nbsp;</p>
+      <p>Silbergleit, R. <i>Academy of Emergency Medicine</i>, 2005 Apr.&nbsp;</p>
+      <p>Braunwld, E. (editor); et al, <i>Harrison's Principles of Internal Medicine 16th Edition,</i> McGraw-Hill Professional, July 23, 2004.&nbsp;</p>
+      <p>Bendixen, B. and Ocava, L. <i>Current Cardiology Report </i>2002, Mar.&nbsp;</p>
+      <p>Berger C. <i>Stroke</i>. 2005, June.&nbsp;</p>
+      <p>Roy, M. <i>Journal of Association of Physicians of India,</i> 2004, Dec.</p>
+     </div>
+    </div>
+    <div class="sources_fmt">
+     <div class="reviewedBy_fmt">
+       Reviewed by 
+      <a onclick="return sl(this,'','prog-lnk');" href="http://www.webmd.com/beckerman-james">James Beckerman, MD, FACC</a> on March 09, 2014
+     </div>
+    </div>
+    <div class="copyright_fmt">
+     &copy; 2014 WebMD, LLC. All rights reserved.
+    </div>
+    <div class="basefooter_fmt"></div>
+    <div class="attribution_rdr">
+     <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+      <script type="text/javascript" language="javascript">
+				var externalUrlListBot = new Array(
+			'xxx');
+		</script>
+      <form onsubmit="return submitNavForm(externalUrlListBot,'NextPulldown',true)" style="padding-top:5px;padding-bottom:5px;">
+        Next Article: 
+       <select name="next_pulldown" id="NextPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/stroke/guide/understanding-stroke-symptoms">Symptoms</option><option value="http://www.webmd.com/stroke/guide/stroke-when-to-call-a-doctor">When to Call A Doctor</option></select>
+       <input name="submit" value="Go" alt="Go" align="top" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/articlepulldowngobtn2.gif" type="image" />
+      </form>
+     </div>
+     <script type="text/javascript" language="JavaScript">
+				selectNextArticle('NextPulldown',s_furl);
+		</script>
+    </div>
+    <div class="guideArtNav_rdr" id="guideCenterList_fmt">
+     <div class="header_fmt">
+      <h4><a onclick="return sl(this,'','gde-nav-art_1');" href="http://www.webmd.com/stroke/guide/default.htm"><img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/icon_guide.gif" border="0" alt="guide icon" />Stroke Guide</a></h4>
+     </div>
+     <div class="leftCol_fmt">
+      <div class="number_fmt">
+       1
+      </div>
+      <div class="chapter_fmt">
+       <a href="http://www.webmd.com/stroke/guide/stroke-overview-facts" onclick="return sl(this,'','guideNav_1');">Overview &amp; Facts</a>
+      </div>
+      <div class="number_fmt">
+       2
+      </div>
+      <div class="chapter_fmt">
+       <a href="http://www.webmd.com/stroke/guide/stroke-symptoms-types" onclick="return sl(this,'','guideNav_2');">Symptoms &amp; Types</a>
+      </div>
+      <div class="number_fmt">
+       3
+      </div>
+      <div class="chapter_fmt">
+       <a href="http://www.webmd.com/stroke/guide/stroke-diagnosis-tests" onclick="return sl(this,'','guideNav_3');">Diagnosis &amp; Tests</a>
+      </div>
+     </div>
+     <div class="rightCol_fmt">
+      <div class="number_fmt">
+       4
+      </div>
+      <div class="chapter_fmt">
+       <a href="http://www.webmd.com/stroke/guide/stroke-treatment-care" onclick="return sl(this,'','guideNav_4');">Treatment &amp; Care</a>
+      </div>
+      <div class="number_fmt">
+       5
+      </div>
+      <div class="chapter_fmt">
+       <a href="http://www.webmd.com/stroke/guide/stroke-living-managing" onclick="return sl(this,'','guideNav_5');">Living &amp; Managing</a>
+      </div>
+      <div class="number_fmt">
+       6
+      </div>
+      <div class="chapter_fmt">
+       <a href="http://www.webmd.com/stroke/guide/stroke-support-resources" onclick="return sl(this,'','guideNav_6');">Support &amp; Resources</a>
+      </div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+
+			function getPubType() {
+				return "editorial";
+			}
+
+			function checkPartners(){
+
+				/* Array of Partner Names */
+				var partnerNames=[
+				"Good Housekeeping",
+				"Redbook",
+				"Esquire",
+				"Country Living",
+				"Marie Claire",
+				"Oxmoor House",
+				"\"Health",
+				"Southern Living",
+				"Psychology Today",
+				"EatingWell",
+				"DrGreene.com",
+				"Men's Health",
+				"Women's Health",
+				"Prevention",
+				"eDiets",
+				"soul\" Magazine",
+				"Runner's World",
+				"Men's Fitness\" Magazine",
+				"Shape\" Magazine",
+				"Fit Pregnancy\" Magazine",
+				"Natural Health\" Magazine",
+				"\"Best Life\" Magazine",
+				"\"Cure\" Magazine",
+				"WebMD Veterinary Reference from the ASPCA",
+				"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+				"COPD Foundation"
+				]
+
+				/* Array of names that go with files in partners node */
+				var partnerScripts=[
+				"goodHousekeeping",
+				"redbook",
+				"esquire",
+				"countryLiving",
+				"marieClaire",
+				"cookingLight",
+				"health",
+				"southernLiving",
+				"psychToday",
+				"eatingWell",
+				"drGreene",
+				"mensHealth",
+				"womensHealth",
+				"prevention",
+				"eDiets",
+				"bodySoul",
+				"runnersWorld",
+				"mensFitness",
+				"shapeMag",
+				"fitPregnancy",
+				"naturalHealth",
+				"bestLife",
+				"cure",
+				"aspca",
+				"aspca",
+                                "copdf"
+				]
+
+				/* Variables for whether a partner exists and which one in the array it is */
+				var isThere;
+				var whichOne = -1;
+
+				/* Pulls the pub source out of the XML */
+				var pubSource = 'WebMD Medical Reference';
+
+				/* Runs through the different partners and sees if one of them exists in the pub source */
+				for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) 					{whichOne = i} }
+
+				/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+				if (whichOne != -1) {
+
+					var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+					var JSElement = document.createElement("script");
+  					JSElement.type = "text/javascript";
+					JSElement.src = JSCall;
+
+  					document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+					var moduleCenter = "ContentPane8";
+					var moduleRight = "ContentPane25";
+
+					addLoadEvent(function() {
+							$('#'+moduleCenter).append(writePartnerCenter());
+							$('#'+moduleRight).prepend(writePartnerRight());
+					})
+				}
+			}
+
+			checkPartners();
+
+			</script>
+   <script type="text/javascript">
+				if (document.getElementById("headerLinks_print")) {
+				setClass('headerLinks_print','headerLinks_fmt_on');
+				};
+			</script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+				#url_reference {display: none};
+				</style>
+   <style media="print">
+				#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+				#logo_rdr img { visibility: visible; }
+				.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+				</style>
+   <script type="text/javascript">
+					var insert1 = document.getElementById("ContentPane2");
+					var urlDiv = articleUrl();
+					if (insert1) {
+						insert1.appendChild(urlDiv);
+						}
+				</script>
+   <div class="related_reading_rdr" id="rltd-p-1108"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/stroke/slideshow-stroke-overview" onclick="return sl(this,'','rltd-p-1108_1');">Slideshow: Understanding Stroke</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-topic-overview" onclick="return sl(this,'','rltd-p-1108_2');">What Is a TIA?</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/video/botox-for-stroke-patients" onclick="return sl(this,'','rltd-p-1108_3');">Video: Botox for Stroke Recovery</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/drug-medication/medicationawareness/default.htm" onclick="return sl(this,'','rltd-p-1108_4');">What You Don't Know About Your Medication</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/stroke/stroke-risks-quiz" onclick="return sl(this,'','rltd-p-1108_5');">Check Your Stroke Risk</a> </li> 
+     <li id="x67" class="last"> <a href="http://exchanges.webmd.com/stroke-exchange" onclick="return sl(this,'','rltd-p-1108_6');">Join the Discussion in the Stroke Community</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1108_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e8069e2d1" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069e2d1</chronic_id><r_object_id>091e9c5e8069e2d1</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8069e2d1.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/08/2010 14:52:55</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Stroke Health Center/template_Stroke Health Center_091e9c5e8002521a.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002521a"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Brain Aneurysm</name><link_title>Brain Aneurysm</link_title><description>A brain aneurysm, also called cerebral aneurysm, is a bulging, weak area in the wall of an artery that supplies blood to the brain. Most brain aneurysms cause no symptoms and are discovered during tests for another, usually unrelated, condition. When symptoms are present, they may include severe headaches, blurred vision, changes in speech, and neck pain, depending on the areas of the brain that are affected and the severity of the aneurysm. In rare cases, a cerebral aneurysm can rupture, releasing blood into the skull. If this happens, you may have a stroke or die, so even mild symptoms should be evaluated by a doctor. Follow the links below to find WebMD's comprehensive coverage about what causes cerebral aneurysm, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/brain/brain-aneurysm-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8007adcc"><link_title>Stroke Organizations</link_title><friendly_url>http://www.webmd.com/stroke/guide/stroke-resources-organizations</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802416e2"><link_title>Rep. Tubbs Jones: Aneurysm Q&amp;A</link_title><friendly_url>http://www.webmd.com/brain/news/20080821/aneurysms-common-sometimes-deadly</friendly_url><thumbnail height="" width="" alt="aneurysm_qa.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/August08/aneurysm_qa.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000dc4d"><link_title>New Imaging Tech Promises to Help Diagnose Brain Disorders</link_title><friendly_url>http://www.webmd.com/brain/news/20001212/new-imaging-tech-promises-to-help-diagnose-brain-disorders-news</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001f08e"><link_title>Magnetic Resonance Angiogram (MRA)</link_title><friendly_url>http://www.webmd.com/heart-disease/magnetic-resonance-angiogram-mra</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001f0f1"><link_title>Angiogram of the Head and Neck</link_title><friendly_url>http://www.webmd.com/stroke/angiogram-of-the-head-and-neck</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d825"><link_title>Stroke-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/stroke/guide/stroke-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dfe3"><link_title>Stroke-What Happens</link_title><friendly_url>http://www.webmd.com/stroke/guide/stroke-what-happens</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d396"><link_title>Brain Aneurysm-Topic Overview</link_title><friendly_url>http://www.webmd.com/brain/tc/brain-aneurysm-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006bdc"><link_title>Brain Stimulation Reduce Tremors</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20031030/brain-stimulation-reduce-tremors</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80043d63"><link_title>Preventing Strokes Through Community Education</link_title><friendly_url>http://www.webmd.com/stroke/video/preventing-strokes</friendly_url><thumbnail height="48" width="48" alt="illustration of brain">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/brain-and-nervous-system/stroke/preventing-strokes/graphics/thumbnails/final/preventing-strokes-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008e23"><link_title>Surgery for Essential Tremors</link_title><friendly_url>http://www.webmd.com/brain/understanding-essential-tremor-surgical-treatments</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8044be72"><link_title>Gamma Knife Relieves Uncontrollable Tremors</link_title><friendly_url>http://www.webmd.com/parkinsons-disease/news/20091103/gamma-knife-relieves-uncontrollable-tremors</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007646"><link_title>Children, Headaches, and Migraines</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/your-childs-headache</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006b08"><link_title>Family Tree Provides Marker for Stroke Risk</link_title><friendly_url>http://www.webmd.com/stroke/news/20000211/family-tree-provides-marker-stroke-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006f21"><link_title>Smoking Linked With Deadly Brain Aneurysms</link_title><friendly_url>http://www.webmd.com/smoking-cessation/news/20000216/smoking-linked-deadly-brain-aneurysms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000a9fa"><link_title>Know How to Spot a Stroke? Most Don't</link_title><friendly_url>http://www.webmd.com/men/features/know-how-to-spot-stroke-most-dont</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fc27"><link_title>Pacemaker for the Brain Effectively Stops Tremors</link_title><friendly_url>http://www.webmd.com/brain/news/20010822/pacemaker-for-brain-effectively-stops-tremors</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010230"><link_title>New Super-Sensitive MRI Gives Clearer Picture of Stroke in Action</link_title><friendly_url>http://www.webmd.com/stroke/news/20000211/new-super-sensitive-mri-gives-clearer-picture-of-stroke-in-action</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800103e1"><link_title>Why Young People Have Strokes: Unraveling the Mystery</link_title><friendly_url>http://www.webmd.com/stroke/news/20000705/why-young-people-have-strokes-unraveling-mystery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011c45"><link_title>10 Questions to Ask Your Doctor About Stroke</link_title><friendly_url>http://www.webmd.com/stroke/guide/questions-doctor-stroke</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001007c"><link_title>Brain Aneurysms: To Operate or Not to Operate?</link_title><friendly_url>http://www.webmd.com/brain/news/20001030/brain-aneurysms-to-operate-not-to-operate</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80342621"><link_title>Stroke and Surviving Stroke: A Personal Story From Jill Bolte Taylor</link_title><friendly_url>http://www.webmd.com/stroke/features/surviving-stroke-a-personal-story</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000682b"><link_title>Surgery Is Not the Answer for Preventing All Strokes</link_title><friendly_url>http://www.webmd.com/stroke/news/20000314/surgery-not-answer-preventing-all-strokes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8053a03e"><link_title>Stroke Recovery and Arm Rehab: Important Questions</link_title><friendly_url>http://www.webmd.com/stroke/features/stroke-recovery-and-rehab-10-important-questions</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80010c71"><link_title>Frequently Asked Questions About Stroke</link_title><friendly_url>http://www.webmd.com/stroke/frequently-asked-questions-about-stroke</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8053a0f5"><link_title>Stroke Prevention Lifestyle Tips</link_title><friendly_url>http://www.webmd.com/stroke/features/stroke-prevention-lifestyle-tips</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006cb4"><link_title>Bleeding in the Brain Runs in Families</link_title><friendly_url>http://www.webmd.com/stroke/news/20000113/bleeding-brain-runs-families</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ca75"><link_title>Bleeding Strokes Called Subarachnoid Hemorrhage May Be Preventable</link_title><friendly_url>http://www.webmd.com/stroke/news/20030522/bleeding-strokes-may-be-preventable</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80278ec5"><link_title>Brain Hemorrhage: Causes, Symptoms, Treatments</link_title><friendly_url>http://www.webmd.com/brain/brain-hemorrhage-bleeding-causes-symptoms-treatments</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801397ef"><link_title>Atherosclerosis and Stroke</link_title><friendly_url>http://www.webmd.com/stroke/how-artherosclerosis-causes-50-percent-of-strokes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/stroke/guide/stroke-resources-organizations" onclick="return sl(this,'','td-rltd-art_1');">Stroke Organizations</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/magnetic-resonance-angiogram-mra" onclick="return sl(this,'','td-rltd-art_2');">Magnetic Resonance Angiogram (MRA)</a></li>
+      <li><a href="http://www.webmd.com/stroke/angiogram-of-the-head-and-neck" onclick="return sl(this,'','td-rltd-art_3');">Angiogram of the Head and Neck</a></li>
+      <li><a href="http://www.webmd.com/stroke/guide/stroke-when-to-call-a-doctor" onclick="return sl(this,'','td-rltd-art_4');">Stroke-When To Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/stroke/guide/stroke-what-happens" onclick="return sl(this,'','td-rltd-art_5');">Stroke-What Happens</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/brain-aneurysm-topic-overview" onclick="return sl(this,'','td-rltd-art_6');">Brain Aneurysm-Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/stroke/video/preventing-strokes" onclick="return sl(this,'','td-rltd-art_7');">Preventing Strokes Through Community Education</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/brain/brain-aneurysm-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Brain Aneurysm Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1743461803&tile=1079094555&tug=&pug=__&site=2&affiliate=20&hcent=878&scent=740&pos=113&xpg=3053&sec=1738|1667|1817|3053&amp;au1=1&au2=1&uri=%2fstroke%2fguide%2funderstanding-stroke-symptoms&artid=091e9c5e80008e3d&inst=0&amp;leaf=890&segm=0&cc=16&tmg=3&bc=_i_h_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1743461803',
+                    tile:'1079094555',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "3053";
+      var secTopId = "1738|1667|1817|3053";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1743461803&amp;tile=1079094555&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=878&amp;scent=740&amp;pos=5001&amp;xpg=3053&amp;sec=1738|1667|1817|3053&amp;au1=1&amp;au2=1&amp;uri=%2fstroke%2fguide%2funderstanding-stroke-symptoms&amp;artid=091e9c5e80008e3d&amp;inst=0&amp;leaf=890&amp;cc=16&amp;tmg=3&amp;bc=_i_h_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1743461803&amp;amp;tile=1079094555&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=878&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=3053&amp;amp;sec=1738|1667|1817|3053&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fstroke%2fguide%2funderstanding-stroke-symptoms&amp;amp;artid=091e9c5e80008e3d&amp;amp;inst=0&amp;amp;leaf=890&amp;amp;cc=16&amp;amp;tmg=3&amp;amp;bc=_i_h_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3053";
+			var secTopId = "1738|1667|1817|3053";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

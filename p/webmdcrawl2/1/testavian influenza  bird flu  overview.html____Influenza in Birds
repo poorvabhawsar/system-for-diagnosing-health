@@ -1,0 +1,714 @@
+<title>Avian Influenza (Bird Flu)-Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/allergies/picture-of-the-sinuses" onclick="return sl(this,'','tools-res_1');">What Sinuses Look Like</a></li>
+      <li id="x57"><a href="http://www.webmd.com/cold-and-flu/slideshow-anatomy-of-a-sore-throat" class="type_ss" onclick="return sl(this,'','tools-res_2');">Anatomy of a Sore Throat<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/allergies/slideshow-eye-allergies" class="type_ss" onclick="return sl(this,'','tools-res_3');">All About Eye Allergies<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cold-and-flu/health-tips-10/cold-comfort" onclick="return sl(this,'','tools-res_4');">15 Immune-Boosting Foods</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/cold-and-flu/ear-infection/ss/slideshow-ear-infection-anatomy" class="type_ss" onclick="return sl(this,'','tools-res_5');">Inside an Ear Infection<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-treat-child-cold-flu" onclick="return sl(this,'','tools-res_6');">When Your Child Has a Cold</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e6d5f6"><metadata_section><i_chronicle_id>091e9c5e8001d4c0</i_chronicle_id><r_object_id>091e9c5e80e6d5f6</r_object_id><title>Overview</title><object_name>avian_influenza_bird_flu-overview_special_tp23639.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e6d5f6</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_tp23639</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="15" wbmd_disp_nm="Wellness - Basic Information"></wbmd_med_ref_type><wbmd_wdw_ttl>Avian Influenza (Bird Flu)-Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is bird flu?Bird flu is an infection caused by a type of avian influenza virus. This virus is common in wild birds. Most of the time, wild birds do not get sick from the virus. But wild birds can easily pass the virus to birds that are being raised for food-such as chickens, ducks, and turkeys-and cause them to get very sick.Usually, bird flu virus is not passed from birds to people. But ...</wbmd_desc_meta><wbmd_orig_pub_dt>07/10/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is bird flu?Bird flu is an infection caused by a type of avian influenza virus. This virus is common in wild birds. Most of the time, wild birds do not get sick from the virus. But wild birds can easily pass the virus to birds that are being raised for food-such as chickens, ducks, and turkeys-and cause them to get very sick.Usually, bird flu virus is not passed from birds to people. But ...</wbmd_desc_user><wbmd_lk_ttl>Avian Influenza (Bird Flu)-Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>avian influenza, bird flu, H5N1 influenza virus infection</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>food</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e6d5f6</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4067" wbmd_disp_nm="Flu"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1029" wbmd_disp_nm="Cold &amp; Flu"></wbmd_c_channel_id><wbmd_c_frnd_nm>Avian-Influenza-Bird-Flu-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Overview</title><pages><page><section_group><section_header></section_header><section_type>SpecialSection</section_type><section_text><p><b>What is bird flu?</b></p><p>Bird flu is an infection caused by a certain kind of
+		  avian
+		  <a chronic_id="091e9c5e8001b3cb" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/influenza_flu_definition_sti150769.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/influenza_flu_definition_sti150769.xml">influenza</a> virus. Although there are many kinds of bird
+		  flu, the kind that now concerns health workers is the H5N1 bird flu virus. This
+		  <a chronic_id="091e9c5e8001b312" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/virus_definition_zt1318.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/virus_definition_zt1318.xml">virus</a> is found in wild birds. Most of the time, wild
+		  birds don't get sick from the virus. But wild birds can easily pass the virus
+		  to birds that are being raised for food, such as chickens, ducks, and turkeys.
+		  The virus can cause them to get very sick.</p><p>Usually bird flu virus
+		  is not passed from birds to people. But since 1997, some people have become
+		  sick with this serious, deadly kind of bird flu. Most of these infections have
+		  been in Asian countries among people who have had close contact with birds
+		  raised on farms. But experts believe that the virus may eventually spread to
+		  all parts of the world. So far, no cases of H5N1 bird flu in humans have been
+		  found in Canada or the United States.</p><p><b>What causes bird flu?</b></p><p>Bird flu is caused by a virus. After a wild bird
+		  infects a farm-raised bird, the virus can easily and quickly spread among
+		  hundreds or thousands of birds. Sick birds must then be killed to stop the
+		  virus from spreading.</p><p>People who come into contact with sick
+		  chickens, ducks, or turkeys are more likely to get the virus. Bird flu virus
+		  can be passed through bird droppings and saliva on surfaces
+		  such as cages, tractors, and other farm equipment.</p><p>Most people
+		  don't need to worry about getting sick with bird flu virus. You cannot get bird
+		  flu from eating fully cooked chicken, turkey, or duck, because heat kills the
+		  virus.</p><p><b>Why are people so worried about bird flu?</b></p><p>In a few cases, experts think that bird flu was passed
+		  from one person to another person, not from a bird to a person. Because viruses
+		  can change quickly (mutate), experts worry that bird flu will one day be passed
+		  easily from person to person. This is a scary possibility, because the H5N1
+		  bird flu virus can make people sicker than other kinds of flu viruses. Even
+		  though only a few hundred people are known to have been sick with bird flu,
+		  more than half of them have died.</p><p>Experts also worry because the
+		  H5N1 bird flu virus is so different from other flu viruses that our bodies do
+		  not have
+		  <a chronic_id="091e9c5e8001b2b9" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/immunity_definition_sti150879.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/immunity_definition_sti150879.xml">immunity</a> against it. Not having immunity means that our bodies
+		  have a hard time fighting the virus. It also means that anyone, including those
+		  who are otherwise very healthy, can get seriously ill if he or she gets this
+		  kind of bird flu.</p><p><b>What are the symptoms?</b></p></section_text></section_group></page><page><section_group><section_header is_continued="true"> continued...</section_header><section_type>SpecialSection</section_type><section_text><p>At first, the symptoms of
+		  <a chronic_id="091e9c5e801071df" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/avian_influenza_bird_flu_definition_za1214.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/avian_influenza_bird_flu_definition_za1214.xml">bird flu</a> can be the same as common flu symptoms, such
+		  as:</p><ul><li>A fever.</li><li>A cough.</li><li>A sore throat.</li><li>Muscle aches.</li></ul><p>Bird flu may also cause an eye infection (<a chronic_id="091e9c5e8001b0c8" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/conjunctivitis_definition_stc123780.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/conjunctivitis_definition_stc123780.xml">conjunctivitis</a>).</p><p>But bird flu can quickly
+		  progress to
+		  <a chronic_id="091e9c5e8001b492" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/pneumonia_definition_stp1540.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pneumonia_definition_stp1540.xml">pneumonia</a> and
+		  <a chronic_id="091e9c5e8001b293" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/acute_respiratory_distress_syndrome_definition_sta17743.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/acute_respiratory_distress_syndrome_definition_sta17743.xml">acute respiratory distress syndrome</a>, a serious lung
+		  problem that can be deadly. For the people who die from bird flu, the average
+		  length of time from the start of symptoms until death is 9 to 10 days.<sup class="Reference"><a bookmark="zd1526" chronic_id="091e9c5e8001d40e" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-references_special_tp23638spec-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-references_special_tp23638spec-bib.xml">1</a></sup></p><p>Call your doctor right away if you have traveled
+		  somewhere or live in an area where there is bird flu and you have a fever and a
+		  hard time breathing.</p><p><b>How is bird flu diagnosed and treated?</b></p><p>If your doctor thinks that you may have bird flu,
+		  he or she will do a physical exam and ask you questions about your symptoms and
+		  past health. Your doctor will also ask where you live, where you have traveled
+		  recently, and if you have been near any birds. Then your doctor may order blood
+		  tests, nasal swabs, or other tests, such as
+		  <a chronic_id="091e9c5e8001b0d1" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/x-ray_definition_tu6485.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/x-ray_definition_tu6485.xml">X-rays</a>, to help find out what is making you
+		  sick.</p><p>Some questions your doctor might ask are:</p><ul><li>Have you been within
+			 <span class="Measurement">3 ft (1 m)</span> of live, sick, or
+			 dead poultry, or with wild birds?</li><li>Have you eaten raw or poorly cooked poultry or eggs?</li><li>Have you had close contact (touching or speaking distance) with
+			 someone from an area affected with H5N1 bird flu virus who has a severe
+			 respiratory illness or who later died from an unknown cause?</li><li>Are you a lab or poultry worker who might have been exposed to
+			 H5N1 bird flu virus?</li></ul><p>How bird flu is treated depends on what the virus is doing
+		  to your body. In some cases, antiviral medicines may help you feel better. But
+		  experts are concerned that certain antiviral medicines may not work against
+		  bird flu. Viruses become
+		  <a chronic_id="091e9c5e8001b210" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/drug_resistance_or_antibiotic_resistance_definition_std139567.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/drug_resistance_or_antibiotic_resistance_definition_std139567.xml">resistant</a> when they change over time, and then the
+		  medicines that worked in the past no longer work well.</p><p>If you have
+		  bird flu, you will stay in a private hospital room (<a chronic_id="091e9c5e800e021a" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/isolation_rooms_definition_zd1214.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/isolation_rooms_definition_zd1214.xml">isolation room</a>)
+		  to reduce the chances of spreading the virus to others. When your doctors and
+		  nurses are caring for you, they will wear gloves and gowns. Some people who
+		  have bird flu may need a machine called a
+		  <a chronic_id="091e9c5e8001b00d" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ventilator_definition_d10037508.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ventilator_definition_d10037508.xml">ventilator</a> to help them breathe better. Other people
+		  may need a machine to help the kidneys work better (<a chronic_id="091e9c5e8001b03f" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/dialysis_definition_std120743.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/dialysis_definition_std120743.xml">dialysis</a>). More
+		  than half of the time, bird flu leads to death.</p><p><b>How can bird flu be prevented?</b></p><p> The World Health Organization and the
+		  U.S. Centers for Disease Control and Prevention are preparing for the
+		  possibility that bird flu could spread to people all over the world in what is
+		  called a pandemic. In 2007, the U.S. Food and Drug Administration (FDA)
+		  approved the first vaccine for humans against bird flu. Immunization is not
+		  currently recommended for the public. The vaccine will be kept in the U.S.
+		  government stockpile.<sup class="Reference"><a bookmark="zj1312" chronic_id="091e9c5e8001d40e" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-references_special_tp23638spec-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-references_special_tp23638spec-bib.xml">2</a></sup> Officials are also storing up
+		  large supplies of antiviral medicines. The U.S. government has also developed a
+		  flu plan. This is a plan to prepare for a pandemic and to make sure that as few
+		  people as possible get the virus.</p></section_text></section_group></page><page><section_group><section_header is_continued="true"> continued...</section_header><section_type>SpecialSection</section_type><section_text><p>International health
+		  organizations now require that all infected birds be killed. Some countries
+		  have programs to clean up poultry farms and to check that all birds are healthy
+		  before they are sold. In 2004, the United States stopped buying poultry from
+		  most Asian countries.</p><p> Even though there is a lot of
+		  talk about bird flu, most people in the United States don't have to worry about
+		  getting it. As of April 2012, no cases of bird flu in humans had been found
+		  in the U.S. But you can take steps to lower your chances of getting
+		  infected.</p><ul><li>If you live in an area with bird flu, or if you are traveling to
+			 a country where there is bird flu: 
+			 <ul><li>Avoid poultry farms, poultry-processing factories or plants,
+				  and close contact with chickens, turkeys, or ducks.</li><li>Stay away from open-air markets where live birds are
+				  sold.</li></ul></li><li>If you are traveling to a country where there is bird flu, ask your  
+			 doctor about getting a regular flu shot. It is best
+				  to do this at least 2 weeks before you leave. This will not prevent bird flu,
+				  but it may help you avoid getting the regular flu.</li><li>Keep your hands clean by
+			 <a chronic_id="091e9c5e8001d504" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/hand-washing-topic_overview_special_tp21202.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/hand-washing-topic_overview_special_tp21202.xml">washing</a> them often with soap and warm water or using a
+			 hand gel that kills germs. If you use a hand gel, be sure to buy only gels made
+			 with alcohol. They do the best job of cleaning your hands.</li><li>Do not eat raw or poorly cooked eggs or poultry. But you can
+			 safely eat fully cooked eggs and fully cooked chicken, duck, and turkey,
+			 because heat kills the virus.</li></ul><p><b>Latest information about avian influenza</b></p><p>These
+		  organizations are studying and keeping track of bird flu, including what is
+		  being done to prevent its spread. Their websites have the most up-to-date
+		  information about bird flu:</p><ul><li><b>U.S. government.</b> You can find information at
+			 www.pandemicflu.gov/types/h5n1/index.html.</li><li><b>U.S. Centers for Disease Control and Prevention (CDC).</b> You can find information at www.cdc.gov/flu/avianflu.</li><li><b>World Health Organization (WHO).</b> You can
+			 find information at www.who.int/influenza/human_animal_interface/avian_influenza/en.</li></ul><p><b>Frequently Asked Questions</b></p><table cellpadding="0" cellspacing="0"><col><tr><td valign="top"><p><b>Ongoing concerns:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e808f66c6" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/handling_a_dead_bird-topic_overview_special_zd1215-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/handling_a_dead_bird-topic_overview_special_zd1215-sec.xml">What should I do if I find a dead bird?</a></li><li><a chronic_id="091e9c5e808f66c3" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/handling_wild_birds-topic_overview_special_zd1216-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/handling_wild_birds-topic_overview_special_zd1216-sec.xml">How should I handle wild birds?</a></li></ul></td></tr></table></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-overview" owner="false"><breadcrumb><bread piece="Cold, Flu, &amp; Cough Health Center" prefix="www" friendlyurl="/cold-and-flu/default.htm"></bread><bread piece="Cold &amp; Flu Related Topics" prefix="www" friendlyurl="/cold-and-flu/tc/default.htm"></bread></breadcrumb><centers><Topic id="758" name="tmg" chronicid="091e9c5e8001d4c0" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-overview" type="Topic">Avian Influenza (Bird Flu)</Topic><Super id="1202" name="super center" chronicid="091e9c5e8068ab56" prefix="www" friendlyurl="/cold-and-flu/default.htm" type="">Cold and Flu</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-overview" owner="false"><breadcrumb><bread piece="Cold &amp; Flu Health Center" prefix="www" friendlyurl="/cold-and-flu/default.htm"></bread><bread piece="Cold and Flu Related Topics" prefix="www" friendlyurl="/cold-and-flu/tc/default.htm"></bread></breadcrumb><centers><Topic id="11058" name="tmg" chronicid="091e9c5e8001d4c0" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-overview" type="Topic">Avian Influenza (Bird Flu)</Topic><Super id="11054" name="super center" chronicid="091e9c5e8068ab56" prefix="www" friendlyurl="/cold-and-flu/default.htm" type="">Cold and Flu</Super></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001b3cb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/influenza_flu_definition_sti150769.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/influenza-flu"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/influenza-flu"></target></object><object chronic_id="091e9c5e8001b312" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/virus_definition_zt1318.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/virus"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/virus"></target></object><object chronic_id="091e9c5e8001b2b9" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/immunity_definition_sti150879.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/immunity"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/immunity"></target></object><object chronic_id="091e9c5e801071df" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/avian_influenza_bird_flu_definition_za1214.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/avian-influenza-bird-flu"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/avian-influenza-bird-flu"></target></object><object chronic_id="091e9c5e8001b0c8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/conjunctivitis_definition_stc123780.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/conjunctivitis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/conjunctivitis"></target></object><object chronic_id="091e9c5e8001b492" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pneumonia_definition_stp1540.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/pneumonia"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/pneumonia"></target></object><object chronic_id="091e9c5e8001b293" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/acute_respiratory_distress_syndrome_definition_sta17743.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/acute-respiratory-distress-syndrome"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/acute-respiratory-distress-syndrome"></target></object><object chronic_id="091e9c5e8001d40e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-references_special_tp23638spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-references"></target></object><object chronic_id="091e9c5e8001b0d1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/x-ray_definition_tu6485.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/x-ray"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/x-ray"></target></object><object chronic_id="091e9c5e8001b210" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/drug_resistance_or_antibiotic_resistance_definition_std139567.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/drug-resistance-or-antibiotic-resistance"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/drug-resistance-or-antibiotic-resistance"></target></object><object chronic_id="091e9c5e800e021a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/isolation_rooms_definition_zd1214.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/isolation-rooms"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/isolation-rooms"></target></object><object chronic_id="091e9c5e8001b00d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ventilator_definition_d10037508.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/ventilator"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/ventilator"></target></object><object chronic_id="091e9c5e8001b03f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/dialysis_definition_std120743.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/dialysis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/dialysis"></target></object><object chronic_id="091e9c5e8001d504" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/hand-washing-topic_overview_special_tp21202.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/tc/hand-washing-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/tc/hand-washing-topic-overview"></target></object><object chronic_id="091e9c5e808f66c6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/handling_a_dead_bird-topic_overview_special_zd1215-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/handling-a-dead-bird-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/handling-a-dead-bird-topic-overview"></target></object><object chronic_id="091e9c5e808f66c3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/handling_wild_birds-topic_overview_special_zd1216-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/handling-wild-birds-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/handling-wild-birds-topic-overview"></target></object><object chronic_id="091e9c5e8001d4c0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-overview_special_tp23639.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-overview"></target></object><object chronic_id="091e9c5e807f0ef2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-other_places_to_get_help_special_tp23638spec-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001d0df" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-related_information_special_tp23638spec-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-related-information"></target></object><object chronic_id="091e9c5e8001d40e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-references_special_tp23638spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-references"></target></object><object chronic_id="091e9c5e8001d3c6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-credits_special_tp23638spec-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/tc/avian-influenza-bird-flu-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e80023713" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/avian_influenza_bird_flu_special_tp23638spec.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d4c0" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-overview_special_tp23639.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e807f0ef2" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-other_places_to_get_help_special_tp23638spec-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d0df" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-related_information_special_tp23638spec-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001d40e" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-references_special_tp23638spec-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d3c6" path="/webmd/consumer_assets/controlled_content/healthwise/special/avian_influenza_bird_flu-credits_special_tp23638spec-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Avian Influenza (Bird Flu)</title><dynamic_objects><callout_title>Recommended Related to Cold &amp; Flu</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e805f8246"><metadata_section><i_chronicle_id>091e9c5e8044677a</i_chronicle_id><title>Swine Flu and Asthma</title><wbmd_c_art_thmbnl directive="imageurl" chronic_id="0b1e9c5e80003559" path="/webmd/consumer_assets/site_images/articles" object_type="wcm_channel_fld"></wbmd_c_art_thmbnl></metadata_section><section_text><p>Before the latest flu season had officially gotten under way, the swine flu (or H1N1 virus) was already stealing headlines as it left a trail of fever, aches, and general misery across the country. For people with asthma, watching the swine flu sweep across the nation has been especially nerve wracking. Both swine flu and asthma attack the airways, and having both conditions makes people particularly vulnerable to severe respiratory complications from swine flu. "Patients with asthma are more likely...</p></section_text><link siteid="3" prefix="www" friendlyurl="/cold-and-flu/features/swine-flu-and-asthma"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Avian Influenza (Bird Flu) - Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3> continued...</h3>
+      <p>International health organizations now require that all infected birds be killed. Some countries have programs to clean up poultry farms and to check that all birds are healthy before they are sold. In 2004, the United States stopped buying poultry from most Asian countries.</p>
+      <p> Even though there is a lot of talk about bird flu, most people in the United States don't have to worry about getting it. As of April 2012, no cases of bird flu in humans had been found in the U.S. But you can take steps to lower your chances of getting infected.</p>
+      <ul>
+       <li>If you live in an area with bird flu, or if you are traveling to a country where there is bird flu: 
+        <ul>
+         <li>Avoid poultry farms, poultry-processing factories or plants, and close contact with chickens, turkeys, or ducks.</li>
+         <li>Stay away from open-air markets where live birds are sold.</li>
+        </ul></li>
+       <li>If you are traveling to a country where there is bird flu, ask your doctor about getting a regular flu shot. It is best to do this at least 2 weeks before you leave. This will not prevent bird flu, but it may help you avoid getting the regular flu.</li>
+       <li>Keep your hands clean by <a href="http://www.webmd.com/cold-and-flu/tc/hand-washing-topic-overview" onclick="return sl(this,'','embd-lnk');">washing</a> them often with soap and warm water or using a hand gel that kills germs. If you use a hand gel, be sure to buy only gels made with alcohol. They do the best job of cleaning your hands.</li>
+       <li>Do not eat raw or poorly cooked eggs or poultry. But you can safely eat fully cooked eggs and fully cooked chicken, duck, and turkey, because heat kills the virus.</li>
+      </ul>
+      <p><b>Latest information about avian influenza</b></p>
+      <p>These organizations are studying and keeping track of bird flu, including what is being done to prevent its spread. Their websites have the most up-to-date information about bird flu:</p>
+      <ul>
+       <li><b>U.S. government.</b> You can find information at www.pandemicflu.gov/types/h5n1/index.html.</li>
+       <li><b>U.S. Centers for Disease Control and Prevention (CDC).</b> You can find information at www.cdc.gov/flu/avianflu.</li>
+       <li><b>World Health Organization (WHO).</b> You can find information at www.who.int/influenza/human_animal_interface/avian_influenza/en.</li>
+      </ul>
+      <p><b>Frequently Asked Questions</b></p>
+      <table cellpadding="0" cellspacing="0">
+       <colgroup>
+        <col />
+       </colgroup>
+       <tbody>
+        <tr>
+         <td valign="top"><p><b>Ongoing concerns:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/a-to-z-guides/handling-a-dead-bird-topic-overview" onclick="return sl(this,'','embd-lnk');">What should I do if I find a dead bird?</a></li>
+           <li><a href="http://www.webmd.com/a-to-z-guides/handling-wild-birds-topic-overview" onclick="return sl(this,'','embd-lnk');">How should I handle wild birds?</a></li>
+          </ul></td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="?page=2">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-overview">1</a>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">3</span>
+      <style type="text/css">
+            .pagination_fmt .center_fmt { width: 375px !important;}
+            </style>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="?page=2">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-overview">1</a><span class="pipe_fmt">|</span><a href="?page=2">2</a><span class="pipe_fmt">|</span><span class="current_fmt">3</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Overview',
+			href : 'http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-overview'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: July 10, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-overview">Overview</option><option value="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-related-information">Related Information</option><option value="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-references">References</option><option value="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Avian Influenza (Bird Flu) Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-overview" onclick="return sl(this,'','topicNav_1');" title="Overview">Overview</a></li>
+      <li><a href="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-other-places-to-get-help" onclick="return sl(this,'','topicNav_2');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-related-information" onclick="return sl(this,'','topicNav_3');" title="Related Information">Related Information</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-references" onclick="return sl(this,'','topicNav_4');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/cold-and-flu/tc/avian-influenza-bird-flu-credits" onclick="return sl(this,'','topicNav_5');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1029"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/cold-and-flu/home-remedies-9/slideshow-flu-foods" onclick="return sl(this,'','rltd-p-1029_1');">10 Foods to Eat When You Have the Flu</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cold-and-flu/ss/slideshow-cold-or-flu" onclick="return sl(this,'','rltd-p-1029_2');">Is It a Cold or Is It the Flu?</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/parenting/answers-health/answers-flu-shot-side-effects" onclick="return sl(this,'','rltd-p-1029_3');">Flu Shots and Side Effects</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" onclick="return sl(this,'','rltd-p-1029_4');">Top Items for Allergy Relief</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/cold-and-flu/slideshow-immune-foods" onclick="return sl(this,'','rltd-p-1029_5');">15 Immune Boosting Super Foods</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/cold-and-flu/slideshow-anatomy-of-a-sore-throat" onclick="return sl(this,'','rltd-p-1029_6');">Anatomy of a Sore Throat</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1029_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e8069e5d8" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069e5d8</chronic_id><r_object_id>091e9c5e8069e5d8</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8069e5d8.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/08/2010 15:45:46</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Cold and Flu Health Center/template_Cold and Flu_091e9c5e80022b62.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80022b62"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Bird Flu (Avian Flu)</name><link_title>Bird Flu (Avian Flu)</link_title><description>Bird flu, or avian flu, is a variation of the flu virus carried by birds. It is believed that birds pass the flu to domestic poultry sources such as chickens. These fowl pass the flu on to humans. Bird flu usually does not spread far from human to human. Symptoms are similar to those of the regular flu virus. The symptoms can progress to include respiratory disease, brain problems, and digestive problems. There is a vaccine, but it is not open to the general public yet. Follow the links below to find WebMD's comprehensive coverage about how bird flu is contracted, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/cold-and-flu/bird-avian-flu-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8000a6b4"><link_title>Bird Flu Woes: Flying This Way?</link_title><friendly_url>http://www.webmd.com/cold-and-flu/features/bird-flu-woes-flying-this-way</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b793"><link_title>1918 Spanish Flu Pandemic Was Likely Bird Flu</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20040205/1918-spanish-flu-pandemic-was-likely-bird-flu</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b8a5"><link_title>Horses May Help Thwart Bird Flu</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060328/horses-may-help-thwart-bird-flu</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000bdcc"><link_title>CDC Chief: Bird Flu 'Not Media Hype'</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060124/cdc-chief-bird-flu-not-media-hype</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c063"><link_title>Bird Flu Spreading in Turkey</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060111/bird-flu-spreading-in-turkey</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c065"><link_title>Bird Flu Now Human Killer</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20030423/bird-flu-now-human-killer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c165"><link_title>No Bird Flu Pandemic &#45;&#45; Yet</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20050222/no-bird-flu-pandemic&#45;&#45;&#45;&#45;yet</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c2bd"><link_title>Scientists: 1918 Killer Flu Was a Bird Flu</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20051005/scientists-1918-killer-flu-was-bird-flu</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c349"><link_title>Can States Pay for Bird Flu Preps?</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20051205/can-states-pay-for-bird-flu-preps</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ca07"><link_title>Bird Flu Pandemic: Economic Disaster?</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20051208/bird-flu-pandemic-economic-disaster</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d2a6"><link_title>Family's Bird Flu Deaths Stump Experts</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060524/familys-bird-flu-deaths-stump-experts</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d7f6"><link_title>Nearly $4 Billion OK'd for Bird Flu</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20051222/nearly-4-billion-okd-for-bird-flu</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d929"><link_title>Bird Flu Threat Rises</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20050520/bird-flu-threat-rises</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000da3b"><link_title>FDA Approves New Bird Flu Test</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060203/fda-approves-new-bird-flu-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000dec2"><link_title>Thin Line Stops Bird Flu Spread</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060322/thin-line-stops-bird-flu-spread</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000df1a"><link_title>Killer Bird Flu Fuels Plague Fears</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20040115/killer-bird-flu-fuels-plague-fears</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e2a0"><link_title>Deadly Bird Flu Can Spread Between People</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20050124/deadly-bird-flu-can-spread-between-people</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e6f9"><link_title>Bird Flu May Be More Contagious Than Thought</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20050107/bird-flu-may-be-more-contagious-than-thought</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e9c7"><link_title>Bird Flu TV Movie: Grim Worst Case</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060509/bird-flu-tv-movie-grim-worst-case</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f1e5"><link_title>Scientists in Desperate Race With Bird Flu</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20050928/scientists-in-desperate-race-with-bird-flu</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011682"><link_title>How Easily Is Bird Flu Spread?</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060109/how-easy-bird-flu-spread</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800116bf"><link_title>U.S. Tries to Pre-empt Bird Flu Fears</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060320/us-preempt-bird-flu-fears</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800118bc"><link_title>U.S. Poll Shows Concern About Bird Flu</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060223/poll-concern-bird-flu</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001192e"><link_title>Bird Flu Preperation</link_title><friendly_url>http://www.webmd.com/cold-and-flu/features/best-prep-for-bird-flu</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800121c2"><link_title>Bird Flu: 10 Questions, 10 Answers</link_title><friendly_url>http://www.webmd.com/cold-and-flu/features/bird-flu-10-questions-10-answers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001260b"><link_title>Avian Flu: 10 Questions, 10 Answers</link_title><friendly_url>http://www.webmd.com/cold-and-flu/features/avian-flu-10-questions</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800126b2"><link_title>'No Threat' Bird Flu Found in Michigan</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20060814/no-bird-flu-michigan</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80025d97"><link_title>Two Threatening Bird Flu Mutations</link_title><friendly_url>http://www.webmd.com/news/20061115/two-threatening-bird-flu-mutations</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8002dd44"><link_title>Bird Flu: Mild to Fatal in 2 Countries</link_title><friendly_url>http://www.webmd.com/news/20061122/bird-flu-mild-to-fatal-in-2-countries</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800afb57"><link_title>Bird Watch</link_title><friendly_url>http://www.webmd.com/cold-and-flu/features/bird-watch</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/cold-and-flu/features/bird-flu-woes-flying-this-way" onclick="return sl(this,'','td-rltd-art_1');">Bird Flu Woes: Flying This Way?</a></li>
+      <li><a href="http://www.webmd.com/cold-and-flu/features/best-prep-for-bird-flu" onclick="return sl(this,'','td-rltd-art_2');">Bird Flu Preperation</a></li>
+      <li><a href="http://www.webmd.com/cold-and-flu/features/bird-flu-10-questions-10-answers" onclick="return sl(this,'','td-rltd-art_3');">Bird Flu: 10 Questions, 10 Answers</a></li>
+      <li><a href="http://www.webmd.com/cold-and-flu/features/avian-flu-10-questions" onclick="return sl(this,'','td-rltd-art_4');">Avian Flu: 10 Questions, 10 Answers</a></li>
+      <li><a href="http://www.webmd.com/cold-and-flu/features/bird-watch" onclick="return sl(this,'','td-rltd-art_5');">Bird Watch</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/cold-and-flu/bird-avian-flu-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Bird Flu (Avian Flu) Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=379666847&amp;tile=935553945&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1202&amp;pos=5000&amp;xpg=4067&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fcold-and-flu%2ftc%2favian-influenza-bird-flu-overview&amp;artid=091e9c5e8001d4c0&amp;inst=0&amp;leaf=758&amp;cc=16&amp;tmg=1&amp;bc=_food_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=379666847&amp;amp;tile=935553945&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1202&amp;amp;pos=5000&amp;amp;xpg=4067&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fcold-and-flu%2ftc%2favian-influenza-bird-flu-overview&amp;amp;artid=091e9c5e8001d4c0&amp;amp;inst=0&amp;amp;leaf=758&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_food_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4067";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=379666847&amp;tile=935553945&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1202&amp;pos=5001&amp;xpg=4067&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fcold-and-flu%2ftc%2favian-influenza-bird-flu-overview&amp;artid=091e9c5e8001d4c0&amp;inst=0&amp;leaf=758&amp;cc=16&amp;tmg=1&amp;bc=_food_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=379666847&amp;amp;tile=935553945&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1202&amp;amp;pos=5001&amp;amp;xpg=4067&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fcold-and-flu%2ftc%2favian-influenza-bird-flu-overview&amp;amp;artid=091e9c5e8001d4c0&amp;amp;inst=0&amp;amp;leaf=758&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_food_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4067";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

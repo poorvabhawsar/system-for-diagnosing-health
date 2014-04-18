@@ -1,0 +1,553 @@
+<title>Screening for Lung Cancer</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tool-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/lung-cancer/slideshow-lung-cancer-overview" class="type_ss" onclick="return sl(this,'','tool-res_1');">Lung Cancer: A Visual Guide<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/lung-cancer/chemotherapy-non-small-cell-10/slideshow-lung-cancer-risks" class="type_ss" onclick="return sl(this,'','tool-res_2');">Lung Cancer Risks: Myth vs. Fact<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/cancer/slideshow-cancer-fighting-foods" class="type_ss" onclick="return sl(this,'','tool-res_3');">Try These Cancer-Fighting Foods<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','tool-res_4');">Assess Your Cancer Risk</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/video/lung-cancer-men-vs-women" class="type_vid" onclick="return sl(this,'','tool-res_5');">Lung Cancer: Men vs. Women<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/smoking-cessation/slideshow-13-best-quit-smoking-tips-ever" class="type_ss" onclick="return sl(this,'','tool-res_6');">13 Best Quit-Smoking Tips Ever<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tool-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e8093835f"><metadata_section><i_chronicle_id>091e9c5e800f4642</i_chronicle_id><r_object_id>091e9c5e8093835f</r_object_id><title>Summary of Evidence</title><object_name>ncicdr0000062832-Summary_of_Evidence.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e8093835f</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e8015ba98</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>Some material in CancerNet™ is from copyrighted publications of the respective copyright claimants. Users of CancerNet™ are referred to the publication data appearing in the bibliographic citations, as well as to the copyright notices appearing in the original publication, all of which are hereby incorporated by reference. </wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>nci_ncicdr0000062832-summary-of-evidence</wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl>Screening for Lung Cancer</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378509</r_object_id><publ_i_chronicle_id>091e9c5e8001915b</publ_i_chronicle_id><wbmd_publ_name>Healthwise - NCI</wbmd_publ_name><wbmd_publ_display>WebMD Public Information from the National Cancer Institute</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Separate PDQ summaries on Prevention of Lung Cancer,Small Cell Lung Cancer Treatment,Non-Small Cell Lung Cancer Treatment,and Levels of Evidence for Cancer Screening and Prevention Studies are also available.  Screening for Lung Cancer with Chest X-Ray and/or Sputum Cytology Benefits Based on fair evidence,screening does not reduce mortality from lung cancer.  Description of the Evidence ...</wbmd_desc_meta><wbmd_orig_pub_dt>10/07/2011 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Separate PDQ summaries on Prevention of Lung Cancer,Small Cell Lung Cancer Treatment,Non-Small Cell Lung Cancer Treatment,and Levels of Evidence for Cancer Screening and Prevention Studies are also available.  Screening for Lung Cancer with Chest X-Ray and/or Sputum Cytology Benefits Based on fair evidence,screening does not reduce mortality from lung cancer.  Description of the Evidence ...</wbmd_desc_user><wbmd_lk_ttl>Screening for Lung Cancer</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Screening for Lung Cancer</wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>C34</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>H16</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>R05</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e8093835f</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1822" wbmd_disp_nm="Lung Cancer"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1071" wbmd_disp_nm="Lung Cancer"></wbmd_c_channel_id><wbmd_c_frnd_nm>Lung-cancer-Screening-Health-Professional-Information-NCI-PDQ-Summary-of-Evidence</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Summary of Evidence</title><pages><page><section_group><section_header></section_header><section_type>Vendor</section_type><section_text><a name="ncicdr0000062832-summary-of-evidence"></a><p>Separate PDQ summaries on <a chronic_id="" crossLinkId="31523" directive="friendlyurl" externalId="976C0BC6500946E2" href="http://www.webmd.com/lung-cancer/guide/lung-cancer-overview-facts" keywordId="32532" keywordSetId="8309" object_type="" path="/webmdhttp://www.webmd.com/lung-cancer/guide/lung-cancer-overview-facts">Lung Cancer Prevention</a>, Small Cell <a chronic_id="" crossLinkId="31661" directive="friendlyurl" externalId="BE407E4721274F68" href="http://www.webmd.com/lung-cancer/guide/consumer-guide-chapter-outline" keywordId="37697" keywordSetId="9245" object_type="" path="/webmdhttp://www.webmd.com/lung-cancer/guide/consumer-guide-chapter-outline">Lung Cancer Treatment</a>, Non-Small Cell <a chronic_id="091e9c5e800234a0" crossLinkId="448" directive="friendlyurl" externalId="091e9c5e800234a0" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Lung Cancer Health Center/page_Lung Cancer Health Center_091e9c5e800234a0.xml" keywordId="7801" keywordSetId="1497" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Lung Cancer Health Center/page_Lung Cancer Health Center_091e9c5e800234a0.xml">Lung Cancer</a> Treatment, and Levels of Evidence for <a chronic_id="" crossLinkId="31192" directive="friendlyurl" externalId="9A13E96B1FF14D08" href="http://www.webmd.com/cancer/" keywordId="7043" keywordSetId="942" object_type="" path="/webmdhttp://www.webmd.com/cancer/">Cancer</a> Screening and Prevention Studies are also available.</p><p><b>Screening for <a chronic_id="091e9c5e803c50fe" crossLinkId="72327" directive="friendlyurl" externalId="091e9c5e803c50fe" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml" keywordId="60504" keywordSetId="26698" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml">Lung</a> Cancer With Chest X-Ray and/or Sputum Cytology</b></p><p><b>Benefits</b></p><p>Based on fair evidence, screening does not reduce mortality from lung cancer.</p><p><i>Description of the Evidence<br></i></p><ul><li><b>Study Design</b>: Evidence obtained from randomized controlled trials.</li><li><b>Internal Validity</b>: Fair, due to lack of unscreened groups and contamination.</li><li><b>Consistency</b>: Good.</li><li><b>Direction and Magnitude of Effect</b>: No evidence of effect.</li><li><b>External Validity</b>: Fair, due to lack of women and minority groups.</li></ul><p><b>Harms</b></p><p>Based on solid evidence, screening would lead to false-positive tests and unnecessary invasive diagnostic procedures and treatments.</p><p><i>Description of the Evidence<br></i></p><ul><li><b>Study Design</b>: Evidence obtained from randomized controlled trials.</li><li><b>Internal Validity</b>: Fair.</li><li><b>Consistency</b>: Good.</li><li><b>Direction and Magnitude of Effect</b>: False-positive results range from 4% to 15%; there is a possibility of overdiagnosis and overtreatment (magnitude uncertain).</li><li><b>External Validity</b>: Fair.</li></ul><p><b>Screening for Lung Cancer With Low-Dose Helical Computed Tomography (LDCT)</b></p><p><b>Benefits</b></p><p>The evidence is inadequate to determine whether screening reduces mortality from lung cancer.</p><p><i>Description of the Evidence<br></i></p><ul><li><b>Study Design</b>: Evidence obtained from cohort or case-control studies.</li><li><b>Internal Validity</b>: Poor for answering the question of mortality reduction from screening with LDCT.</li><li><b>Consistency</b>: Good.</li><li><b>Direction and Magnitude of Effect</b>: Cannot determine from the available studies.</li><li><b>External Validity</b>: Not applicable; the internal validity of the evidence is poor.</li></ul><p><b>Harms</b></p><p>Based on solid evidence, screening would lead to false-positive tests and unnecessary invasive diagnostic procedures and treatments.</p><p><i>Description of the Evidence<br></i></p><ul><li><b>Study Design</b>: Evidence obtained from cohort or case-control studies.</li><li><b>Internal Validity</b>: Poor.</li><li><b>Consistency</b>: Good.</li><li><b>Direction and Magnitude of Effect</b>: False-positive results range from 20% to 50%; overdiagnosis and overtreatment are possible (magnitude uncertain).</li><li><b>External Validity</b>: Fair.</li></ul></section_text></section_group><section_group><section_header></section_header><section_type>float</section_type><section_text><p><span class="Size1">This information is produced and provided by the National Cancer Institute (NCI). The information in this topic may have changed since it was written. For the most current information, contact the National Cancer Institute via the Internet web site at http://cancer.gov or call 1-800-4-CANCER.</span></p><h3>Lung Cancer Screening</h3></section_text></section_group></page></pages><citations></citations></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/lung-cancer/tc/lung-cancer-screening-health-professional-information-nci-pdq-summary-of-evidence" owner="false"><breadcrumb><bread piece="Cancer Health Center" prefix="www" friendlyurl="/cancer/default.htm"></bread><bread piece="Lung Cancer Health Center" prefix="www" friendlyurl="/lung-cancer/default.htm"></bread><bread piece="Lung Cancer Related Topics" prefix="www" friendlyurl="/lung-cancer/tc/default.htm"></bread></breadcrumb><centers><Health id="918" name="health center" chronicid="091e9c5e800234a0" prefix="www" friendlyurl="/lung-cancer/default.htm" type="">Lung Cancer</Health><Super id="848" name="super center" chronicid="091e9c5e80024a11" prefix="www" friendlyurl="/cancer/default.htm" type="">Cancer</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/lung-cancer-screening-health-professional-information-nci-pdq-summary-of-evidence" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e800234a0" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Lung Cancer Health Center/page_Lung Cancer Health Center_091e9c5e800234a0.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/lung-cancer/default.htm"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/lung-cancer-non-small-cell-directory" umtchronicleid="091e9c5e8071e15b"></target></object><object chronic_id="091e9c5e803c50fe" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/picture-of-the-lungs"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-lungs"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><dynamic_objects><callout_title>Recommended Related to Lung Cancer</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80529df1"><metadata_section><i_chronicle_id>091e9c5e80077059</i_chronicle_id><title>Schizophrenia Resources</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>This government agency web site will let you access general information on
+schizophrenia as well as news and research updates. This link will take you to
+the web site.
+
+  National Institute of Mental
+Health
+
+ </p></section_text><link siteid="3" prefix="www" friendlyurl="/schizophrenia/guide/schizophrenia-resources-index"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Summary of Evidence</h2>
+     <div class="hwDefinition_fmt">
+      <h3></h3>
+      <a name="ncicdr0000062832-summary-of-evidence"></a>
+      <p>Separate PDQ summaries on <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/lung-cancer/guide/lung-cancer-overview-facts">Lung Cancer Prevention</a>, Small Cell <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/lung-cancer/guide/consumer-guide-chapter-outline">Lung Cancer Treatment</a>, Non-Small Cell <a href="http://www.webmd.com/lung-cancer/default.htm" onclick="return sl(this,'','embd-lnk');">Lung Cancer</a> Treatment, and Levels of Evidence for <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/cancer/">Cancer</a> Screening and Prevention Studies are also available.</p>
+      <p><b>Screening for <a href="http://www.webmd.com/lung/picture-of-the-lungs" onclick="return sl(this,'','embd-lnk');">Lung</a> Cancer With Chest X-Ray and/or Sputum Cytology</b></p>
+      <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" />
+      <div class="aia_rdr rs_skip">
+       <div class="aia_top_fmt"> 
+       </div>
+       <div class="aia_border_fmt">
+        <div class="aia_title_bar_fmt">
+         <h4>Recommended Related to Lung Cancer</h4>
+         <div class="clearing_fmt"> 
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/schizophrenia/guide/schizophrenia-resources-index" onclick="return sl(this,'','aia-related');">Schizophrenia Resources</a></p>
+        <div class="aia_section_fmt">
+         <div class="aia_content_fmt">
+          <p>This government agency web site will let you access general information on schizophrenia as well as news and research updates. This link will take you to the web site. National Institute of Mental Health &nbsp;</p>
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/schizophrenia/guide/schizophrenia-resources-index" onclick="return sl(this,'','aia-related');">Read the Schizophrenia Resources article &gt; &gt;</a></p>
+        <div class="clearing_fmt"> 
+        </div>
+       </div>
+       <div class="aia_bot_fmt"> 
+       </div>
+      </div>
+      <script type="text/javascript">$(function(){
+  if(typeof(s_sponsor_program) != 'undefined' ){
+    /* remove aia if in a sponsored program */
+    if(s_sponsor_program != ""){$(".aia_rdr").remove()}
+  }
+});</script>
+      <p><b>Benefits</b></p>
+      <p>Based on fair evidence, screening does not reduce mortality from lung cancer.</p>
+      <p><i>Description of the Evidence<br /></i></p>
+      <ul>
+       <li><b>Study Design</b>: Evidence obtained from randomized controlled trials.</li>
+       <li><b>Internal Validity</b>: Fair, due to lack of unscreened groups and contamination.</li>
+       <li><b>Consistency</b>: Good.</li>
+       <li><b>Direction and Magnitude of Effect</b>: No evidence of effect.</li>
+       <li><b>External Validity</b>: Fair, due to lack of women and minority groups.</li>
+      </ul>
+      <p><b>Harms</b></p>
+      <p>Based on solid evidence, screening would lead to false-positive tests and unnecessary invasive diagnostic procedures and treatments.</p>
+      <p><i>Description of the Evidence<br /></i></p>
+      <ul>
+       <li><b>Study Design</b>: Evidence obtained from randomized controlled trials.</li>
+       <li><b>Internal Validity</b>: Fair.</li>
+       <li><b>Consistency</b>: Good.</li>
+       <li><b>Direction and Magnitude of Effect</b>: False-positive results range from 4% to 15%; there is a possibility of overdiagnosis and overtreatment (magnitude uncertain).</li>
+       <li><b>External Validity</b>: Fair.</li>
+      </ul>
+      <p><b>Screening for Lung Cancer With Low-Dose Helical Computed Tomography (LDCT)</b></p>
+      <p><b>Benefits</b></p>
+      <p>The evidence is inadequate to determine whether screening reduces mortality from lung cancer.</p>
+      <p><i>Description of the Evidence<br /></i></p>
+      <ul>
+       <li><b>Study Design</b>: Evidence obtained from cohort or case-control studies.</li>
+       <li><b>Internal Validity</b>: Poor for answering the question of mortality reduction from screening with LDCT.</li>
+       <li><b>Consistency</b>: Good.</li>
+       <li><b>Direction and Magnitude of Effect</b>: Cannot determine from the available studies.</li>
+       <li><b>External Validity</b>: Not applicable; the internal validity of the evidence is poor.</li>
+      </ul>
+      <p><b>Harms</b></p>
+      <p>Based on solid evidence, screening would lead to false-positive tests and unnecessary invasive diagnostic procedures and treatments.</p>
+      <p><i>Description of the Evidence<br /></i></p>
+      <ul>
+       <li><b>Study Design</b>: Evidence obtained from cohort or case-control studies.</li>
+       <li><b>Internal Validity</b>: Poor.</li>
+       <li><b>Consistency</b>: Good.</li>
+       <li><b>Direction and Magnitude of Effect</b>: False-positive results range from 20% to 50%; overdiagnosis and overtreatment are possible (magnitude uncertain).</li>
+       <li><b>External Validity</b>: Fair.</li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+		
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Public Information from the National Cancer Institute</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: October 07, 2011
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - NCI';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1071"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/smoking-cessation/video/quit-smoking-aids" onclick="return sl(this,'','rltd-p-1071_1');">Which Quit Smoking Aid Is Right For You?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cancer/what-to-expect-from-radiation-therapy" onclick="return sl(this,'','rltd-p-1071_2');">What to Expect During Radiation Therapy</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/cancer/bone-metastasis-11/common-cancers-metastasize-bone" onclick="return sl(this,'','rltd-p-1071_3');">Lung Cancer's Link to Bone Metastasis</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/smoking-cessation/ss/slideshow-13-best-quit-smoking-tips-ever" onclick="return sl(this,'','rltd-p-1071_4');">13 Best Quit-Smoking Tips Ever</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/lung/lung-disease-health-check/default.htm" onclick="return sl(this,'','rltd-p-1071_5');">Breathless? Take the COPD Health Check</a> </li> 
+     <li id="x67" class="last"> <a class="type_vid" href="http://www.webmd.com/lung-cancer/video/detect-lung-cancer" onclick="return sl(this,'','rltd-p-1071_6');">Detecting Lung Cancer With Phlegm<i> </i></a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1071_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1995572727&amp;tile=167858131&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=918&amp;scent=848&amp;pos=5000&amp;xpg=1822&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2flung-cancer%2ftc%2flung-cancer-screening-health-professional-information-nci-pdq-summary-of-evidence&amp;artid=091e9c5e800f4642&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_cust4_c34_h16_r05_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1995572727&amp;amp;tile=167858131&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=918&amp;amp;scent=848&amp;amp;pos=5000&amp;amp;xpg=1822&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2flung-cancer%2ftc%2flung-cancer-screening-health-professional-information-nci-pdq-summary-of-evidence&amp;amp;artid=091e9c5e800f4642&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_cust4_c34_h16_r05_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1822";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1995572727&amp;tile=167858131&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=918&amp;scent=848&amp;pos=5001&amp;xpg=1822&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2flung-cancer%2ftc%2flung-cancer-screening-health-professional-information-nci-pdq-summary-of-evidence&amp;artid=091e9c5e800f4642&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_cust4_c34_h16_r05_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1995572727&amp;amp;tile=167858131&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=918&amp;amp;scent=848&amp;amp;pos=5001&amp;amp;xpg=1822&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2flung-cancer%2ftc%2flung-cancer-screening-health-professional-information-nci-pdq-summary-of-evidence&amp;amp;artid=091e9c5e800f4642&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_cust4_c34_h16_r05_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1822";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

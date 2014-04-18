@@ -1,0 +1,87 @@
+<title>Fibromyalgia Assessment: Living With Fibromyalgia?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5"></div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9">
+   <div id="healthcheck" class="healthcheck startscreen"> 
+    <div class="toolbar"> 
+     <ul> 
+      <li><a href="#" class="retake"><i></i>Retake Assessment</a></li> 
+      <li><a href="#" class="email"><i></i>Email Results</a></li> 
+      <li><a href="#" class="print"><i></i>Print Results</a></li> 
+     </ul> 
+    </div> 
+    <form class="content"> 
+     <section class="section clearfix"> 
+      <div class="header"> 
+       <h2>Living With Fibromyalgia?</h2> 
+      </div> 
+      <div class="body clearfix"> 
+       <a href="#" class="webmd-btn webmd-btn-pr webmd-btn-m next">Get Started</a> 
+       <h3>Answer a few questions, and you'll get:</h3> 
+       <ul> 
+        <li class="check two-line">Information about fibromyalgia for those who haven't been diagnosed</li> 
+        <li class="clipboard two-line">Treatment options that best fit your symptoms</li> 
+        <li class="download two-line">Tips to help you cope with your symptoms and improve your life</li> 
+       </ul> 
+      </div> 
+     </section> 
+     <div class="npnav"> 
+      <a href="#" class="prev" id="hc-prevbtn"><span>Back</span></a> 
+      <a href="#" class="next loading" id="hc-nextbtn"><span>Continue</span><i class="spinner"></i></a> 
+     </div> 
+     <div class="progress"> 
+      <!-- Progress bar --> 
+      <div class="progress-fill"></div> 
+     </div> 
+    </form> 
+   </div>
+  </div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div id="sources" class="attribution_footer"> 
+    <p id="reviewer_text">Reviewed by <a onclick="return sl(this,'','review-lnk');" target="_blank" href="http://www.webmd.com/arefa-cassoobhoy">Arefa Cassoobhoy, MD, MPH</a> on November 22, 2013</p> 
+    <div id="view_sources"> 
+     <a class="hidden" href="">View Sources</a> 
+     <div id="sources_list" class="hidden"> 
+      <p>SOURCES:</p> 
+      <p>American College of Rheumatology: &quot;2010 Fibromyalgia Diagnostic Criteria - Excerpt.&quot;</p> 
+      <p>Arranz, L. <i>Rheumatology International</i>, September 2010.</p> 
+      <p>Arthritis Foundation: &quot;Arthritis Drug Chart.&quot;</p> 
+      <p>Busch, A. <i>Current Pain and Headache Reports</i>, October 2011.</p> 
+      <p>Cleveland Clinic: &quot;Fibromyalgia.&quot;</p> 
+      <p>Hassett, A. <i>Rheumatic Diseases Clinics of North America</i>, May 2009.</p> 
+      <p>National Center for Complementary and Alternative Medicine: &quot;Fibromyalgia and Complementary Health Approaches.&quot;</p> 
+      <p>National Fibromyalgia Association: &quot;Symptoms.&quot;</p> 
+      <p>National Institute of Arthritis and Musculoskeletal and Skin Diseases: &quot;Questions and Answers about Fibromyalgia.&quot;</p> 
+      <p>UpToDate: &quot;Patient Information: Fibromyalgia.&quot;</p> 
+      <p>Womenshealth.gov: &quot;Fibromyalgia Fact Sheet.&quot;</p> 
+     </div> 
+    </div> 
+    <div id="view_disclaimer"> 
+     <a href="" id="disclaimer_button" class="hidden">This tool does not provide medical advice. See additional information:</a> 
+     <div id="disclaimer_text" class="hidden"> 
+      <p>THIS TOOL DOES NOT PROVIDE MEDICAL ADVICE. &nbsp;It is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis or treatment. Never ignore professional medical advice in seeking treatment because of something you have read on the WebMD Site. If you think you may have a medical emergency, immediately call your doctor or dial 911.</p> 
+     </div> 
+    </div> 
+    <p id="copyright_text">&copy; 2014 WebMD, LLC. All rights reserved.</p> 
+   </div> 
+   <script type="text/javascript">$('#view_sources a, #view_disclaimer a').click(function() {
+          $(this).toggleClass('hidden').next().toggleClass('hidden');
+          return false;
+        });</script>
+  </div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

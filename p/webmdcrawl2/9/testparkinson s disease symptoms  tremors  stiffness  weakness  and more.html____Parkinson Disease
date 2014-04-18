@@ -1,0 +1,704 @@
+<title>Parkinson’s Disease Symptoms: Tremors, Stiffness, Weakness, and More</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-exams-and-tests" onclick="return sl(this,'','tools-res_1');">Parkinson's Exams and Tests</a></li>
+      <li id="x57"><a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/flare-ups" onclick="return sl(this,'','tools-res_2');">Fighting MS Flare-Ups</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parkinsons-disease/guide/eating-right" onclick="return sl(this,'','tools-res_3');">Eating Right With Parkinson's</a></li>
+      <li id="x59"><a href="http://www.webmd.com/parkinsons-disease/guide/parkinsons-exercise" onclick="return sl(this,'','tools-res_4');">Exercise and Parkinson's </a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/parkinsons-disease/guide/parkinsons-daily-activities" onclick="return sl(this,'','tools-res_5');">Parkinson's Day Planning</a></li>
+      <li id="x61"><a href="http://www.webmd.com/parkinsons-disease/guide/preventing-falls" onclick="return sl(this,'','tools-res_6');">How to Prevent Falls</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e9e433"><metadata_section><i_chronicle_id>091e9c5e8001dfaf</i_chronicle_id><r_object_id>091e9c5e80e9e433</r_object_id><title>Symptoms</title><object_name>parkinsons_disease-symptoms_major_hw93214.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e9e433</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>major_hw93214</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="2" wbmd_disp_nm="Disease &amp; Condition - Symptoms"></wbmd_med_ref_type><wbmd_wdw_ttl>Parkinson’s Disease Symptoms: Tremors, Stiffness, Weakness, and More</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e803784ff</r_object_id><publ_i_chronicle_id>091e9c5e80019167</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Major</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>The most common symptoms of Parkinson's disease include tremor or shaking, stiff muscles and achiness, limited movement, and difficulty with balance.</wbmd_desc_meta><wbmd_orig_pub_dt>12/05/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>The most common symptoms of Parkinson's disease include tremor or shaking, stiff muscles and achiness, limited movement, and difficulty with balance.</wbmd_desc_user><wbmd_lk_ttl>Parkinson's Disease-Symptoms</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Parkinson's disease, symptoms, stiffness, weakness, tremors, fatigue, trouble walking</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>fit</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e9e433</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1833" wbmd_disp_nm="Parkinson s"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1092" wbmd_disp_nm="Parkinson's"></wbmd_c_channel_id><wbmd_c_frnd_nm>Parkinsons-Disease-Symptoms</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Symptoms</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Symptoms</title><pages><page><section_group><section_header></section_header><section_type>Symptoms</section_type><section_text><p><a chronic_id="" crossLinkId="31720" directive="friendlyurl" externalId="88E7D9D5C9794851" href="http://www.webmd.com/parkinsons-disease/guide/parkinsons-symptoms-types" keywordId="40872" keywordSetId="9924" object_type="" path="/webmdhttp://www.webmd.com/parkinsons-disease/guide/parkinsons-symptoms-types">Symptoms of Parkinson's</a> disease differ from person to person. They also change as the <a chronic_id="091e9c5e808f661b" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/parkinsons_disease_classification-topic_overview_special_hw78534-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/parkinsons_disease_classification-topic_overview_special_hw78534-sec.xml">disease progresses</a>. Symptoms that one person gets in
+		 the early stages of the disease, another person may not get until later—or
+		 not at all.</p><p>Symptoms typically begin
+			 appearing between the ages of 50 and 60. They develop slowly and often go
+			 unnoticed by family, friends, and even the person who has them.</p><p>The disease causes motor symptoms and non-motor symptoms. Motor symptoms are those that have to do with how you move. The most common one is tremor.</p></section_text></section_group><section_group><section_header>Tremor</section_header><section_type>Symptoms</section_type><section_text><p>Tremor, or shaking, often in a hand,
+			 arm, or leg, occurs when you're 
+			 awake and sitting or standing still (resting tremor), and it gets better when you move that body part.</p><p>Tremor is often the first symptom that people with
+		 Parkinson's disease or their family members notice. </p><p>At first the tremor may
+		 appear in just one arm or leg or only on one side of the body. The tremor also
+		 may affect the chin, lips, and <a chronic_id="091e9c5e8036685c" crossLinkId="70379" directive="friendlyurl" externalId="091e9c5e8036685c" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_tongue_2.xml" keywordId="58700" keywordSetId="25979" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_tongue_2.xml">tongue</a>. </p><p>As the disease progresses, the tremor
+		 may spread to both sides of the body. But in some cases the tremor remains
+		 on just one side.</p><p>Emotional and physical stress tends to make the
+		 tremor more noticeable. <a chronic_id="091e9c5e800251e7" crossLinkId="491" directive="friendlyurl" externalId="091e9c5e800251e7" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml" keywordId="40012" keywordSetId="1872" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml">Sleep</a>, complete relaxation, and intentional movement or
+		 action usually reduce or stop the tremor.</p><p>Although tremor is one
+		 of the most common signs of Parkinson's, not everyone with tremor has
+		 Parkinson's. Unlike tremor caused by Parkinson's, tremor caused
+		 by other conditions gets better when your arm or hand is not moving and gets
+		 worse when you try to move it. </p><p>The most common cause of non-Parkinson's tremor
+		 is <a chronic_id="091e9c5e808f6618" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/differences_between_essential_tremor_and_parkinsons_disease-topic_overview_special_hw78971-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/differences_between_essential_tremor_and_parkinsons_disease-topic_overview_special_hw78971-sec.xml">essential tremor</a>. It's a treatable condition that is often
+		 wrongly diagnosed as Parkinson's.</p></section_text></section_group><section_group><section_header>Other common symptoms</section_header><section_type>Symptoms</section_type><section_text><p>Besides tremor, the most common symptoms
+		 include:</p><ul><li><b>Stiff muscles (rigidity) and aching muscles. </b>One of the most
+			 common early signs of Parkinson's is a reduced arm swing on one side
+			 when you walk. This is caused by rigid muscles. Rigidity can also
+			 affect the muscles of the legs, face, neck, or other parts of the body. It may
+			 cause muscles to feel tired and achy.</li><li><b>Slow, limited movement,
+			 </b> especially when you try to move from a resting
+			 position. For instance, it may be hard to get out of a chair or turn over
+			 in bed. </li><li><b>Weakness of face and throat muscles.</b> It may get harder to talk and swallow. You may choke, cough, or
+			 drool. Speech becomes softer and monotonous. Loss of movement in the muscles in
+			 the face can cause a fixed, vacant facial expression, often called the
+			 "Parkinson's mask."</li><li><b>Difficulty with walking and
+			 balance.</b> A person with this disease is likely to
+			 take small steps and shuffle with his or her <a chronic_id="091e9c5e80586577" crossLinkId="1507667" directive="friendlyurl" externalId="091e9c5e80586577" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml" keywordId="62993" keywordSetId="28548" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml">feet</a> close together, bend forward
+			 slightly at the waist, and have trouble turning around.
+			 Balance and posture problems may cause frequent falls. But these
+			 problems usually don't happen until later on.</li><li><a chronic_id="091e9c5e808f6610" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/parkinsons_disease_and_freezing-topic_overview_special_hw79511-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/parkinsons_disease_and_freezing-topic_overview_special_hw79511-sec.xml">Freezing<b>Freezing</b></a>, a sudden, brief inability to move. It most
+				often affects walking.</li></ul><p>A
+			 small number of people have symptoms on only one side of the body that never
+			 move to the other side.</p></section_text></section_group><section_group><section_header>Non-motor symptoms</section_header><section_type>Symptoms</section_type><section_text><p>Parkinson's disease can cause many <a chronic_id="091e9c5e808f660b" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/parkinsons_disease_other_symptoms-topic_overview_special_hw80292-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/parkinsons_disease_other_symptoms-topic_overview_special_hw80292-sec.xml">other symptoms</a> that aren't related to how you move. These can be disabling and may include things like <a chronic_id="091e9c5e80009223" crossLinkId="5614" directive="friendlyurl" externalId="091e9c5e80009223" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_constipation.xml" keywordId="7161" keywordSetId="1029" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_constipation.xml">constipation</a>, sleep problems, and <a chronic_id="091e9c5e80732fb0" crossLinkId="65" directive="friendlyurl" externalId="091e9c5e80732fb0" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.xml" keywordId="7244" keywordSetId="1082" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.xml">depression</a>.</p><p>There are many
+		 other conditions with symptoms similar to Parkinson's disease. Some of these
+		 may be reversible.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-symptoms" owner="false"><breadcrumb><bread piece="Brain &amp; Nervous System Health Center" prefix="www" friendlyurl="/brain/default.htm"></bread><bread piece="Parkinson's Disease Health Center" prefix="www" friendlyurl="/parkinsons-disease/default.htm"></bread><bread piece="Parkinson's Disease Related Topics" prefix="www" friendlyurl="/parkinsons-disease/tc/default.htm"></bread></breadcrumb><centers><Topic id="1176" name="tmg" chronicid="091e9c5e8001d861" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-topic-overview" type="Topic">Parkinson's Disease</Topic><Health id="1242" name="health center" chronicid="091e9c5e800251f2" prefix="www" friendlyurl="/parkinsons-disease/default.htm" type="">Parkinsons</Health><Super id="740" name="super center" chronicid="091e9c5e80025343" prefix="www" friendlyurl="/brain/default.htm" type="">Brain and Nervous System</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-symptoms" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e8001d861" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-topic-overview" type="Topic">Parkinson's Disease</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e808f661b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/parkinsons_disease_classification-topic_overview_special_hw78534-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-classification-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-classification-topic-overview"></target></object><object chronic_id="091e9c5e8036685c" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_tongue_2.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/oral-health/picture-of-the-tongue"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/oral-health/picture-of-the-tongue"></target></object><object chronic_id="091e9c5e800251e7" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target><target siteid="8" name="" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target></object><object chronic_id="091e9c5e808f6618" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/differences_between_essential_tremor_and_parkinsons_disease-topic_overview_special_hw78971-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/differences-between-essential-tremor-and-parkinsons-disease-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/differences-between-essential-tremor-and-parkinsons-disease-topic-overview"></target></object><object chronic_id="091e9c5e80586577" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target></object><object chronic_id="091e9c5e808f6610" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/parkinsons_disease_and_freezing-topic_overview_special_hw79511-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-and-freezing-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-and-freezing-topic-overview"></target></object><object chronic_id="091e9c5e808f660b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/parkinsons_disease_other_symptoms-topic_overview_special_hw80292-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-other-symptoms-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-other-symptoms-topic-overview"></target></object><object chronic_id="091e9c5e80009223" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_constipation.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-constipation"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-constipation"></target></object><object chronic_id="091e9c5e80732fb0" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/default.htm" umtchronicleid="091e9c5e806934ca"></target><target siteid="8" name="" prefix="www" friendlyurl="/depression/default.htm" umtchronicleid="091e9c5e806934ca"></target></object><object chronic_id="091e9c5e8001d861" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-topic_overview_major_hw93188.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-topic-overview"></target></object><object chronic_id="091e9c5e8001e3ca" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-cause_major_hw93207.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-cause"></target></object><object chronic_id="091e9c5e8001dfaf" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-symptoms_major_hw93214.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-symptoms"></target></object><object chronic_id="091e9c5e8001de70" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-what_happens_major_hw93258.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-what-happens"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-what-happens"></target></object><object chronic_id="091e9c5e8001dad5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-what_increases_your_risk_major_hw93273.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/guide/parkinsons-disease-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/parkinsons-disease-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001d76a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-when_to_call_a_doctor_major_hw93277.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001da36" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-exams_and_tests_major_hw93296.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-exams-and-tests"></target></object><object chronic_id="091e9c5e8001de38" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-treatment_overview_major_hw93312.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-treatment-overview"></target></object><object chronic_id="091e9c5e8001dc28" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-prevention_major_hw93320.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/guide/parkinsons-disease-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/parkinsons-disease-prevention"></target></object><object chronic_id="091e9c5e8001debb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-home_treatment_major_hw93322.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-home-treatment"></target></object><object chronic_id="091e9c5e8001dc11" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-medications_major_hw93344.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-medications"></target></object><object chronic_id="091e9c5e8001dc8f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-surgery_major_hw93380.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-surgery"></target></object><object chronic_id="091e9c5e8001e0c0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-other_treatment_major_hw93402.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-other-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-other-treatment"></target></object><object chronic_id="091e9c5e8001de31" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-other_places_to_get_help_major_hw93186-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/guide/parkinsons-disease-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/parkinsons-disease-other-places-to-get-help"></target></object><object chronic_id="091e9c5e807f1483" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-related_information_major_hw93186-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-related-information"></target></object><object chronic_id="091e9c5e8001de87" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-references_major_hw93186-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-references"></target></object><object chronic_id="091e9c5e8001e1b5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-credits_major_hw93186-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parkinsons-disease/tc/parkinsons-disease-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/parkinsons-disease-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e800e6734" path="/webmd/consumer_assets/controlled_content/healthwise/toc/major/parkinsons_disease-toc_major_hw93186.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>Overview</section_type><section_link directive="article" chronic_id="091e9c5e8001d861" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-topic_overview_major_hw93188.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Cause</section_title><section_type>Cause</section_type><section_link directive="article" chronic_id="091e9c5e8001e3ca" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-cause_major_hw93207.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>Symptoms</section_type><section_link directive="article" chronic_id="091e9c5e8001dfaf" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-symptoms_major_hw93214.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Happens</section_title><section_type>WhatHappens</section_type><section_link directive="article" chronic_id="091e9c5e8001de70" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-what_happens_major_hw93258.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Increases Your Risk</section_title><section_type>WhatIncreasesYourRisk</section_type><section_link directive="article" chronic_id="091e9c5e8001dad5" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-what_increases_your_risk_major_hw93273.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>When To Call a Doctor</section_title><section_type>WhenToCall</section_type><section_link directive="article" chronic_id="091e9c5e8001d76a" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-when_to_call_a_doctor_major_hw93277.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>ExamsAndTests</section_type><section_link directive="article" chronic_id="091e9c5e8001da36" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-exams_and_tests_major_hw93296.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>TreatmentOverview</section_type><section_link directive="article" chronic_id="091e9c5e8001de38" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-treatment_overview_major_hw93312.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Prevention</section_title><section_type>Prevention</section_type><section_link directive="article" chronic_id="091e9c5e8001dc28" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-prevention_major_hw93320.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Home Treatment</section_title><section_type>HomeTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001debb" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-home_treatment_major_hw93322.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Medications</section_title><section_type>Medications</section_type><section_link directive="article" chronic_id="091e9c5e8001dc11" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-medications_major_hw93344.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Surgery</section_title><section_type>Surgery</section_type><section_link directive="article" chronic_id="091e9c5e8001dc8f" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-surgery_major_hw93380.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Treatment</section_title><section_type>OtherMedicalTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001e0c0" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-other_treatment_major_hw93402.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001de31" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-other_places_to_get_help_major_hw93186-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e807f1483" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-related_information_major_hw93186-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001de87" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-references_major_hw93186-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001e1b5" path="/webmd/consumer_assets/controlled_content/healthwise/major/parkinsons_disease-credits_major_hw93186-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Parkinson's Disease</title><dynamic_objects><callout_title>Recommended Related to Parkinson's</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e6dd88"><metadata_section><i_chronicle_id>091e9c5e804906b7</i_chronicle_id><title>Parkinson's Disease</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>
+  Important
+  It is possible that the main title of the report Parkinson's Disease is not the name you expected. Please check the synonyms listing to find the alternate name(s) and disorder subdivision(s) covered by this report.</p></section_text><link siteid="3" prefix="www" friendlyurl="/parkinsons-disease/parkinsons-disease-nord"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Parkinson's Disease - Symptoms</h2>
+     <div class="hwDefinition_fmt">
+      <h3></h3>
+      <p><a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/parkinsons-disease/guide/parkinsons-symptoms-types">Symptoms of Parkinson's</a> disease differ from person to person. They also change as the <a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-classification-topic-overview" onclick="return sl(this,'','embd-lnk');">disease progresses</a>. Symptoms that one person gets in the early stages of the disease, another person may not get until later—or not at all.</p>
+      <p>Symptoms typically begin appearing between the ages of 50 and 60. They develop slowly and often go unnoticed by family, friends, and even the person who has them.</p>
+      <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" />
+      <div class="aia_rdr rs_skip">
+       <div class="aia_top_fmt"> 
+       </div>
+       <div class="aia_border_fmt">
+        <div class="aia_title_bar_fmt">
+         <h4>Recommended Related to Parkinson's</h4>
+         <div class="clearing_fmt"> 
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/parkinsons-disease/parkinsons-disease-nord" onclick="return sl(this,'','aia-related');">Parkinson's Disease</a></p>
+        <div class="aia_section_fmt">
+         <div class="aia_content_fmt">
+          <p> Important It is possible that the main title of the report Parkinson's Disease is not the name you expected. Please check the synonyms listing to find the alternate name(s) and disorder subdivision(s) covered by this report.</p>
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/parkinsons-disease/parkinsons-disease-nord" onclick="return sl(this,'','aia-related');">Read the Parkinson's Disease article &gt; &gt;</a></p>
+        <div class="clearing_fmt"> 
+        </div>
+       </div>
+       <div class="aia_bot_fmt"> 
+       </div>
+      </div>
+      <script type="text/javascript">$(function(){
+  if(typeof(s_sponsor_program) != 'undefined' ){
+    /* remove aia if in a sponsored program */
+    if(s_sponsor_program != ""){$(".aia_rdr").remove()}
+  }
+});</script>
+      <p>The disease causes motor symptoms and non-motor symptoms. Motor symptoms are those that have to do with how you move. The most common one is tremor.</p>
+      <h3>Tremor</h3>
+      <p>Tremor, or shaking, often in a hand, arm, or leg, occurs when you're awake and sitting or standing still (resting tremor), and it gets better when you move that body part.</p>
+      <p>Tremor is often the first symptom that people with Parkinson's disease or their family members notice. </p>
+      <p>At first the tremor may appear in just one arm or leg or only on one side of the body. The tremor also may affect the chin, lips, and <a href="http://www.webmd.com/oral-health/picture-of-the-tongue" onclick="return sl(this,'','embd-lnk');">tongue</a>. </p>
+      <p>As the disease progresses, the tremor may spread to both sides of the body. But in some cases the tremor remains on just one side.</p>
+      <p>Emotional and physical stress tends to make the tremor more noticeable. <a href="http://www.webmd.com/sleep-disorders/default.htm" onclick="return sl(this,'','embd-lnk');">Sleep</a>, complete relaxation, and intentional movement or action usually reduce or stop the tremor.</p>
+      <p>Although tremor is one of the most common signs of Parkinson's, not everyone with tremor has Parkinson's. Unlike tremor caused by Parkinson's, tremor caused by other conditions gets better when your arm or hand is not moving and gets worse when you try to move it. </p>
+      <p>The most common cause of non-Parkinson's tremor is <a href="http://www.webmd.com/parkinsons-disease/tc/differences-between-essential-tremor-and-parkinsons-disease-topic-overview" onclick="return sl(this,'','embd-lnk');">essential tremor</a>. It's a treatable condition that is often wrongly diagnosed as Parkinson's.</p>
+      <h3>Other common symptoms</h3>
+      <p>Besides tremor, the most common symptoms include:</p>
+      <ul>
+       <li><b>Stiff muscles (rigidity) and aching muscles. </b>One of the most common early signs of Parkinson's is a reduced arm swing on one side when you walk. This is caused by rigid muscles. Rigidity can also affect the muscles of the legs, face, neck, or other parts of the body. It may cause muscles to feel tired and achy.</li>
+       <li><b>Slow, limited movement, </b> especially when you try to move from a resting position. For instance, it may be hard to get out of a chair or turn over in bed. </li>
+       <li><b>Weakness of face and throat muscles.</b> It may get harder to talk and swallow. You may choke, cough, or drool. Speech becomes softer and monotonous. Loss of movement in the muscles in the face can cause a fixed, vacant facial expression, often called the &quot;Parkinson's mask.&quot;</li>
+       <li><b>Difficulty with walking and balance.</b> A person with this disease is likely to take small steps and shuffle with his or her <a href="http://www.webmd.com/pain-management/picture-of-the-feet" onclick="return sl(this,'','embd-lnk');">feet</a> close together, bend forward slightly at the waist, and have trouble turning around. Balance and posture problems may cause frequent falls. But these problems usually don't happen until later on.</li>
+       <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-and-freezing-topic-overview" onclick="return sl(this,'','embd-lnk');">Freezing<b>Freezing</b></a>, a sudden, brief inability to move. It most often affects walking.</li>
+      </ul>
+      <p>A small number of people have symptoms on only one side of the body that never move to the other side.</p>
+      <h3>Non-motor symptoms</h3>
+      <p>Parkinson's disease can cause many <a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-other-symptoms-topic-overview" onclick="return sl(this,'','embd-lnk');">other symptoms</a> that aren't related to how you move. These can be disabling and may include things like <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-constipation" onclick="return sl(this,'','embd-lnk');">constipation</a>, sleep problems, and <a href="http://www.webmd.com/depression/default.htm" onclick="return sl(this,'','embd-lnk');">depression</a>.</p>
+      <p>There are many other conditions with symptoms similar to Parkinson's disease. Some of these may be reversible.</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Cause',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-cause'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-symptoms'
+			});
+            
+			topics.push({
+			title : 'What Happens',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-what-happens'
+			});
+            
+			topics.push({
+			title : 'What Increases Your Risk',
+			href : 'http://www.webmd.com/parkinsons-disease/guide/parkinsons-disease-what-increases-your-risk'
+			});
+            
+			topics.push({
+			title : 'When To Call a Doctor',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-when-to-call-a-doctor'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/parkinsons-disease/guide/parkinsons-disease-prevention'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Medications',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-medications'
+			});
+            
+			topics.push({
+			title : 'Surgery',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-surgery'
+			});
+            
+			topics.push({
+			title : 'Other Treatment',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-other-treatment'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/parkinsons-disease/guide/parkinsons-disease-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: December 05, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-topic-overview">Topic Overview</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-cause">Cause</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-symptoms">Symptoms</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-what-happens">What Happens</option><option value="http://www.webmd.com/parkinsons-disease/guide/parkinsons-disease-what-increases-your-risk">What Increases Your Risk</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-when-to-call-a-doctor">When To Call a Doctor</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/parkinsons-disease/guide/parkinsons-disease-prevention">Prevention</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-home-treatment">Home Treatment</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-medications">Medications</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-surgery">Surgery</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-other-treatment">Other Treatment</option><option value="http://www.webmd.com/parkinsons-disease/guide/parkinsons-disease-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-related-information">Related Information</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-references">References</option><option value="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Parkinson's Disease Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-cause" onclick="return sl(this,'','topicNav_2');" title="Cause">Cause</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-symptoms" onclick="return sl(this,'','topicNav_3');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-what-happens" onclick="return sl(this,'','topicNav_4');" title="What Happens">What Happens</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/guide/parkinsons-disease-what-increases-your-risk" onclick="return sl(this,'','topicNav_5');" title="What Increases Your Risk">What Increases Your Risk</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-when-to-call-a-doctor" onclick="return sl(this,'','topicNav_6');" title="When To Call a Doctor">When To Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-exams-and-tests" onclick="return sl(this,'','topicNav_7');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-treatment-overview" onclick="return sl(this,'','topicNav_8');" title="Treatment Overview">Treatment Overview</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/guide/parkinsons-disease-prevention" onclick="return sl(this,'','topicNav_9');" title="Prevention">Prevention</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-home-treatment" onclick="return sl(this,'','topicNav_10');" title="Home Treatment">Home Treatment</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-medications" onclick="return sl(this,'','topicNav_11');" title="Medications">Medications</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-surgery" onclick="return sl(this,'','topicNav_12');" title="Surgery">Surgery</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-other-treatment" onclick="return sl(this,'','topicNav_13');" title="Other Treatment">Other Treatment</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/guide/parkinsons-disease-other-places-to-get-help" onclick="return sl(this,'','topicNav_14');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-related-information" onclick="return sl(this,'','topicNav_15');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-references" onclick="return sl(this,'','topicNav_16');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-credits" onclick="return sl(this,'','topicNav_17');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Major';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="related_reading_rdr" id="rltd-p-1092"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_ss" href="http://www.webmd.com/parkinsons-disease/ss/slideshow-parkinsons-overview" onclick="return sl(this,'','rltd-p-1092_1');">A Visual Guide to Parkinson's<i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/parkinsons-disease/tc/parkinsons-disease-symptoms" onclick="return sl(this,'','rltd-p-1092_2');">Understanding Parkinson's Symptoms</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/ms-treatment" onclick="return sl(this,'','rltd-p-1092_3');">Fighting MS Flare-Ups</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/parkinsons-disease/video/early-parkinsons-surgery" onclick="return sl(this,'','rltd-p-1092_4');">Early Parkinson's Surgery</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/parkinsons-disease/guide/parkinsons-disease-and-driving-a-car" onclick="return sl(this,'','rltd-p-1092_5');">Non-Motor Parkinson's Symptoms</a> </li> 
+     <li id="x67" class="last"> <a href="http://exchanges.webmd.com/parkinsons-disease-exchange" onclick="return sl(this,'','rltd-p-1092_6');">Join the Discussion in the Parkinson's Community</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1092_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=422849820&amp;tile=931205061&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1242&amp;scent=740&amp;pos=5000&amp;xpg=1833&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fparkinsons-disease%2ftc%2fparkinsons-disease-symptoms&amp;artid=091e9c5e8001dfaf&amp;inst=0&amp;leaf=1176&amp;cc=16&amp;tmg=1&amp;bc=_fit_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=422849820&amp;amp;tile=931205061&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1242&amp;amp;scent=740&amp;amp;pos=5000&amp;amp;xpg=1833&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fparkinsons-disease%2ftc%2fparkinsons-disease-symptoms&amp;amp;artid=091e9c5e8001dfaf&amp;amp;inst=0&amp;amp;leaf=1176&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_fit_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1833";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=422849820&amp;tile=931205061&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1242&amp;scent=740&amp;pos=5001&amp;xpg=1833&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fparkinsons-disease%2ftc%2fparkinsons-disease-symptoms&amp;artid=091e9c5e8001dfaf&amp;inst=0&amp;leaf=1176&amp;cc=16&amp;tmg=1&amp;bc=_fit_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=422849820&amp;amp;tile=931205061&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1242&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=1833&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fparkinsons-disease%2ftc%2fparkinsons-disease-symptoms&amp;amp;artid=091e9c5e8001dfaf&amp;amp;inst=0&amp;amp;leaf=1176&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_fit_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1833";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

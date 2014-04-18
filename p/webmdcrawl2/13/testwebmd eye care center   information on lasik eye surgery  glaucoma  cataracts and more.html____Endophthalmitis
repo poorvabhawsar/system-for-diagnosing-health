@@ -1,0 +1,371 @@
+<title>WebMD Eye Care Center - Information on LASIK Eye Surgery, glaucoma, cataracts and more</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','prm-mnctrlc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/common_eye_conditions_slideshow/493x335_common_eye_conditions_slideshow_alt2.jpg" alt="woman wearing sunglasses" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','prm-mnctrlc_1');">Eye &amp; Vision Problems</a> </h2> 
+        <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','prm-mnctrlc_1');" class="type_ss">Color blindness, presbyopia, nearsightedness, and more.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/eye-health/eye-health-tool-spotting-vision-problems/default.htm" data-alt="eye chart" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/spotting_vision_problems_cataracts__other/493x335_spotting_vision_problems_cataracts__other.jpg" onclick="return sl(this,'','prm-mnctrlc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/eye-health/eye-health-tool-spotting-vision-problems/default.htm" onclick="return sl(this,'','prm-mnctrlc_2');">How's Your Eyesight?</a> </h2> 
+        <a href="http://www.webmd.com/eye-health/eye-health-tool-spotting-vision-problems/default.htm" onclick="return sl(this,'','prm-mnctrlc_2');">Spotting common vision problems. <i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/eye-health/ss/slideshow-contact-lens-tips" data-alt="contact lens on fingertip" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/contact_lens_tips_slideshow/getty_rf_photo_of_contact_lens_on_fingertip.jpg" onclick="return sl(this,'','prm-mnctrlc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/eye-health/ss/slideshow-contact-lens-tips" onclick="return sl(this,'','prm-mnctrlc_3');">Contact Lens Tips</a> </h2> 
+        <a href="http://www.webmd.com/eye-health/ss/slideshow-contact-lens-tips" onclick="return sl(this,'','prm-mnctrlc_3');" class="type_quiz">When to replace them, putting them in, and more. <i><span class="jawsonly">Quiz</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-mnctrlc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-mnctrlc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-mnctrlc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-mnctrlc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-mnctrlc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="teaser_fmt"> 
+    <h3>Eye Health Overview</h3> 
+    <p>Regular eye exams reveal vision problems like nearsightedness, farsightedness, presbyopia, and astigmatism. Your doctor may prescribe glasses or contact lenses. Eye conditions include pinkeye, blepharitis, glaucoma, cataracts, and macular degeneration.</p> 
+   </div>
+   <div class="guideDropdown_rdr"> 
+    <form action="" id="qform1" onsubmit="window.location=guideNavDropdown.options[guideNavDropdown.options.selectedIndex].value; return false;"> 
+     <h4>Select a Topic</h4> 
+     <select name="guideNavDropdown" id="guideNavDropdown" class="listBox_fmt"> <option value="http://www.webmd.com/eye-health/astigmatism-eyes">Astigmatism</option> <option value="http://www.webmd.com/eye-health/cataracts/health-cataracts-eyes">Cataracts</option> <option value="http://www.webmd.com/eye-health/tc/color-blindness-topic-overview">Color Blindness</option> <option value="http://www.webmd.com/eye-health/double-vision-diplopia-causes-symptoms-diagnosis-treatment">Double Vision</option> <option value="http://www.webmd.com/eye-health/tc/farsightedness-hyperopia-topic-overview">Farsightedness</option> <option value="http://www.webmd.com/eye-health/glaucoma-eyes">Glaucoma</option> <option value="http://www.webmd.com/eye-health/eye-health-keratoconus">Keratoconus</option> <option value="http://www.webmd.com/eye-health/macular-degeneration/default.htm">Macular Degeneration</option> <option value="http://www.webmd.com/eye-health/tc/nearsightedness-myopia-topic-overview">Nearsightedness</option> <option value="http://www.webmd.com/eye-health/presbyopia-directory">Presbyopia</option> <option value="http://www.webmd.com/eye-health/eye-health-retinal-detachment">Retinal Detachment</option> <option value="http://answers.webmd.com/explore-topics/eyes-questions">Eye Health Questions and Answers</option> </select> 
+     <button onclick="wmdTrack('dd-tcnav');" type="submit" name="goSingle" class="btn"> </button> 
+     <div class="clearing"> 
+     </div> 
+    </form> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="subheaderBar_rdr">
+    Latest Headlines
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainEditorial_rdr"> 
+    <a href="http://www.webmd.com/eye-health/news/20140212/bob-costass-eye-trouble-temporary-experts-say" onclick="return sl(this,'','nl-lcnwsftr_1_1');"> <img class="mainEditorial_photo_fmt" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/healthday/2014/02/costas_eyes.jpg" border="0" alt="" width="69" /> </a> 
+    <div class="mainEditorial_photo_text_fmt"> 
+     <a href="http://www.webmd.com/eye-health/news/20140212/bob-costass-eye-trouble-temporary-experts-say" onclick="return sl(this,'','nl-lcnwsftr_1_1');">Bob Costas's Eye Trouble Temporary, Experts Say</a> 
+     <br />Conjunctivitis is a common ailment and usually resolves on its own in about a week
+    </div> 
+    <p class="mainEditorial_read_link_fmt"> <a href="http://www.webmd.com/eye-health/news/20140212/bob-costass-eye-trouble-temporary-experts-say" onclick="return sl(this,'','nl-lcnwsftr_1_1');"> Read Full Article </a> </p> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainLinks_rdr latestHeadlines_fmt"> 
+    <h4 class="latestHeadlinesTitle_fmt">Top Stories</h4> 
+    <ul> 
+     <li> <a href="http://www.webmd.com/eye-health/news/20140116/gene-therapy-may-restore-sight-in-people-with-rare-blinding-disease" onclick="return sl(this,'','nl-lcnwsftr_1_2');">Gene Therapy May Restore Sight in People With Rare Blinding Disease</a> </li> 
+     <li> <a href="http://www.webmd.com/eye-health/news/20131121/you-might-see-better-in-your-eye-doctors-office" onclick="return sl(this,'','nl-lcnwsftr_1_3');">You Might See Better in Your Eye Doctor's Office</a> </li> 
+     <li> <a href="http://www.webmd.com/eye-health/news/20131024/halloween-contact-lenses-can-be-horror-story-for-eyes" onclick="return sl(this,'','nl-lcnwsftr_1_4');">Halloween Contact Lenses Can Be Horror Story for Eyes</a> </li> 
+     <li> <a href="http://www.webmd.com/eye-health/news/20130815/eye-study-results-may-offer-new-therapy-for-some-vision-loss" onclick="return sl(this,'','nl-lcnwsftr_1_5');">Eye Study Results May Offer New Therapy for Some Vision Loss</a> </li> 
+     <li> <a href="http://www.webmd.com/eye-health/features/living-with-vision-loss" onclick="return sl(this,'','nl-lcnwsftr_1_6');">Living Well With Age-Related Macular Degeneration</a> </li> 
+     <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/eye-health/news-features" onclick="return sl(this,'','nl-lcnwsftr_2_more-articles');">More Articles</a> </li> 
+    </ul> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/aca-state-promo-core.js"></script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aca-state-promo-cw.css" /> 
+   <div class="aca-state-promo-cw"> 
+    <h4>Health Insurance in Your State</h4> 
+    <div class="bg"> 
+     <p>Learn about plans, benefits, and costs in your state's Marketplace.</p> 
+     <div id="names-dropdown-container"> 
+      <select name="names-dropdown" id="names-dropdown"> <option value="">Choose a state or territory</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IO">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="DC">Washington, D.C.</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> <option value="">--------</option> <option value="AS">American Samoa</option> <option value="GU">Guam</option> <option value="MP">Northern Mariana Islands</option> <option value="PR">Puerto Rico</option> <option value="VI">Virgin Islands</option> </select> 
+     </div> 
+    </div> 
+    <span class="jawsonly">From WebMD</span> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1286497772&amp;tile=1668604550&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=892&amp;scent=&amp;pos=5000&amp;xpg=4051&amp;sec=4051&amp;au1=1&amp;au2=1&amp;uri=%2feye-health%2fdefault&amp;artid=091e9c5e800302ce&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_h25_h40_h52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1286497772&amp;amp;tile=1668604550&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=892&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=4051&amp;amp;sec=4051&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2feye-health%2fdefault&amp;amp;artid=091e9c5e800302ce&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_h25_h40_h52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4051";
+			var secTopId = "4051";
+		</script>
+   <div id="comm-grp" class="stacked_promo"> 
+    <h2>WebMD Eye Health Community<br /><a href="http://exchanges.webmd.com/eye-health-community" title="See All Eye Health Communities">Community. Experts. Support.</a></h2> 
+    <div class="promo_group"> 
+     <h3>Community &amp; Support</h3> 
+     <ul> 
+      <li> <a href="http://exchanges.webmd.com/eye-health-community" onclick="return sl(this,'','comm-grp_1-1');">WebMD Eye Health Community <i> </i></a> </li> 
+      <li> <a href="http://forums.webmd.com/3/eye-health-community/forum/226" onclick="return sl(this,'','comm-grp_1-2');" class="expert">What's Causing My Halos? <i> </i></a> </li> 
+      <li> <a href="http://forums.webmd.com/3/eye-health-community/forum/210" onclick="return sl(this,'','comm-grp_1-3');" class="expert">Eye Pain While Lying Down? <i> </i></a> </li> 
+      <li> <a href="http://forums.webmd.com/3/eye-health-community/forum/205" onclick="return sl(this,'','comm-grp_1-4');" class="expert">LASIK Complications - Help! <i> </i></a> </li> 
+     </ul> 
+    </div> 
+    <div class="promo_group"> 
+     <h3>Blogs</h3> 
+     <ul> 
+      <li> <a href="http://blogs.webmd.com/food-and-nutrition/2012/08/vision-quest-keep-an-eye-or-two-out-for-these-foods.html" onclick="return sl(this,'','comm-grp_2-1');">Keep an Eye Out for These Foods <i> </i></a> </li> 
+      <li> <a href="http://blogs.webmd.com/webmd-guests/2012/07/would-you-rather-lose-a-limb-or-your-eyesight.html" onclick="return sl(this,'','comm-grp_2-2');">Would You Rather Lose a Limb or Your Eyesight? <i> </i></a> </li> 
+      <li> <a href="http://blogs.webmd.com/childrens-health/2012/05/great-study-habits-might-lead-to-poor-eyesight.html" onclick="return sl(this,'','comm-grp_2-3');">Great Study Habits May Lead to Vision Problems <i> </i></a> </li> 
+      <li id="comm-grp_last_link"> <a href="http://exchanges.webmd.com/webmd-exchanges/blogs" onclick="return sl(this,'','comm-grp_2-4');">More Blogs <i> </i></a> </li> 
+     </ul> 
+    </div> 
+   </div>
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/parenting/answers-health/answers-pink-eye" onclick="return sl(this,'','lln-toolsres_1');">Symptoms of Pinkeye</a></li>
+      <li id="x57"><a href="http://www.webmd.com/eye-health/features/how-to-pick-good-sunglasses" onclick="return sl(this,'','lln-toolsres_2');">How to Pick Good Sunglasses</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/eye-health/eye-fatigue-causes-symptoms-treatment" onclick="return sl(this,'','lln-toolsres_3');">Preventing Eye Fatigue</a></li>
+      <li id="x59"><a href="http://www.webmd.com/eye-health/eye-vision-tv/default.htm?vid=vd-3007-cntv-ed-4003" class="type_vid" onclick="return sl(this,'','lln-toolsres_4');">Floaters: Should You Worry?<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/eye-health/how-to-use-eyedrops-and-eye-ointment" onclick="return sl(this,'','lln-toolsres_5');">How to Use Eyedrops and Ointment</a></li>
+      <li id="x61"><a href="http://www.webmd.com/eye-health/video/light-treats-dry-eyes" class="type_vid" onclick="return sl(this,'','lln-toolsres_6');">Zapping Dry Eye<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14">
+   <div class="top_search_rdr" id="lln-topsrch"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top Search Terms for Eye Health</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/tc/pinkeye-topic-overview" onclick="return sl(this,'','lln-topsrch_1');">Pinkeye</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/cataracts/" onclick="return sl(this,'','lln-topsrch_2');">Cataracts</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/macular-degeneration/" onclick="return sl(this,'','lln-topsrch_3');">Macular Degeneration</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/caring-contact-lens" onclick="return sl(this,'','lln-topsrch_4');">Contact Lens Care</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/tc/eye-injuries-topic-overview" onclick="return sl(this,'','lln-topsrch_5');">Eye Injuries</a> 
+      </div> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/tc/styes-and-chalazia-topic-overview" onclick="return sl(this,'','lln-topsrch_6');">Styes and Chalazia</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/eye-health-dry-eyes" onclick="return sl(this,'','lln-topsrch_7');">Dry Eye</a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/lasik-laser-eye-surgery" onclick="return sl(this,'','lln-topsrch_8');">LASIK</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/blepharitis" onclick="return sl(this,'','lln-topsrch_9');">Blepharitis</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/glaucoma-eyes" onclick="return sl(this,'','lln-topsrch_10');">Glaucoma</a> 
+      </div> 
+      <div class="top_search_number">
+       11
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/eye-pain-causes-symptoms-diagnosis-treatment" onclick="return sl(this,'','lln-topsrch_11');">Eye Pain</a> 
+      </div> 
+      <div class="top_search_number">
+       12
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/eye-health/vision-tests" onclick="return sl(this,'','lln-topsrch_12');">Vision Tests</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20">
+   <!--
+updated 07/13/11 at 6:40 EWS
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80b48c4c" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e80007cf3</i_chronicle_id><r_object_id>091e9c5e80b48c4c</r_object_id><title>A Visit to the Eye Doctor</title><object_name>eye_health_visit_eye_doctor.xml</object_name><content_template>consumer_article_Health_Ref.xml</content_template><r_object_id>091e9c5e80b48c4c</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e8097910c</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>01/01/2012 00:00:00</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>01/01/2013 00:00:00</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80019138</r_object_id><wbmd_bus_comp_nm>WebMD</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e802a487f" directive="imageurl" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 2012 WebMD, LLC. All rights reserved.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>/content/article/81/96828</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Visiting Your Eye Doctor</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>09/17/2012 01:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e804aeeb1</r_object_id><wbmd_publ_name>WebMD Medical Reference</wbmd_publ_name><wbmd_publ_type>1</wbmd_publ_type><wbmd_publ_display>WebMD Medical Reference</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>WebMD walks you through a visit to your eye doctor so you will know what to expect from the visit and from any tests he may conduct.</wbmd_desc_meta><wbmd_orig_pub_dt>01/27/2004 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>WebMD walks you through a visit to your eye doctor so you will know what to expect from the visit and from any tests he may conduct.</wbmd_desc_user><wbmd_lk_ttl>Visiting Your Eye Doctor</wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e808df7ab</r_object_id><wbmd_first_nm>Alan</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Kozarsky</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id chronic_id="091e9c5e808ddec1" directive="friendlyurl" path="/webmd/consumer_assets/editorial/articles/biographies/k/kozarsky_alan.xml" object_type="wbmd_cons_article"></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>eye, vision, ophthalmologist. optometrist, glasses, sight, glaucoma, checkup, check-up, eye exam, cataracts, diabetes, macular degeneration </wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>C2</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>fit</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>H25</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>H35</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>H40</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>H52</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>E1</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd></wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80b48c4c</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4051" wbmd_disp_nm="Eye Health"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4051" wbmd_disp_nm="Eye Health"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1042" wbmd_disp_nm="Eye Health"></wbmd_c_channel_id><wbmd_c_frnd_nm>visit-eye-doctor</wbmd_c_frnd_nm><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_health_ref><title>A Visit to the Eye Doctor</title><pages><page><section_group><section_header></section_header><section_text><p>Think you don't need to see an eye doctor because your vision is fine? Think again.</p><p>Eye exams aren’t only for people with poor vision. They're an important way of detecting eye problems before you have symptoms. Eye doctors can also catch other health problems &#45;&#45; like diabetes &#45;&#45; early. </p><p>If it's been more than a few years since your last appointment &#45;&#45; or if you've never had one &#45;&#45; it's time to schedule a trip to the eye doctor.</p></section_text></section_group><section_group><section_header>What to Bring to the Eye Doctor</section_header><section_text><ul type="disc"><li>Your glasses or contacts (if you wear them)</li></ul><ul type="disc"><li>You may want to not wear your contacts for a few days prior to the visit to allow for more precise measurements &#45;&#45; ask the doctor’s office when you make the appointment</li></ul><ul type="disc"><li>A list of any health conditions or allergies</li></ul><ul type="disc"><li>A list of all medications and supplements that you take</li></ul><ul type="disc"><li>A list of any specific questions you have about your eye health</li></ul><ul type="disc"><li>Your insurance information &#45;&#45; most policies will cover some eye care</li></ul></section_text></section_group><section_group><section_header>What Will Happen During an Eye Appointment?</section_header><section_text><p>After filling out paperwork, you'll go to the examining room to meet the doctor. The exact type of exam will vary. But here are some things you can expect. </p><ul type="disc"><li><b>Patient history. </b>Your doctor will ask about your general health and any family history of eye diseases.</li></ul><ul type="disc"><li><b>Vision testing.</b> Your doctor will check your close and distance vision. You'll read from charts of random letters. Your doctor may also test other aspects of your vision &#45;&#45; such as your ability to see in 3D, your peripheral (side) vision, and color perception.</li></ul><ul type="disc"><li><b>Tonometry.</b> Your doctor will test the pressure in your eye with a puff of air or a device called a tonometer. Tonometry tests for glaucoma.</li></ul><ul type="disc"><li><b>Eye exam.</b> Your doctor will closely examine the different parts of your eye. You may need drops to dilate your eyes &#45;&#45; to make the pupils open wide. This will help your doctor get a clear view of the inside of your eye. Dilation makes your eyes sensitive to light for a few hours. You'll need to wear sunglasses until the drops wear off. You may need someone to drive you home.</li></ul><ul type="disc"><li><b>Other tests.</b> Depending on your health and age, you may need other further tests or exams.</li></ul><p>Eye exams can sometimes detect early signs of glaucoma, diabetes, high blood pressure, and arthritis. If the doctor finds anything unusual, you may need a follow-up with your regular doctor or a specialist.</p><p>How long will it take? If it's your first visit to your new eye doctor, allow an hour or two. That includes time to get examined and to get fitted for a prescription if you need it. Later appointments won't take as much time.</p></section_text></section_group><section_group><section_header>Before You Leave the Office</section_header><section_text><ul type="disc"><li>Make sure you have a copy of your eyeglasses prescription, if you need one.</li></ul><ul type="disc"><li>Understand where you should go to get your glasses or contacts prescription filled.</li></ul><ul type="disc"><li>Make sure you have instructions about how to use any medication if you need it.</li></ul><ul type="disc"><li>Schedule your next appointment or check-up.</li></ul></section_text></section_group></page><page><section_group><section_header>How Often Should You Go to the Eye Doctor?</section_header><section_text><p>Everyone needs eye exams. Different medical organizations have different schedules. The American Academy of Ophthalmology suggests:</p><ul type="disc"><li>Young adults should get their eyes checked once in their 20s and twice in their 30s.</li></ul><ul type="disc"><li>Adults should get their eyes checked at age 40 with regular follow-ups, depending on their health.</li></ul><ul type="disc"><li>Adults age 65 and older should see an eye doctor every 1-2 years.</li></ul><ul type="disc"><li>Children need their vision checked at birth, 6 months, 3 years, and before entering grade school.  This is often incorporated into pediatrician and pre-school checkups.</li></ul><p>You will need more frequent check-ups if you have health conditions, such as diabetes, or a family history of vision problems, such as glaucoma, macular degeneration, and corneal diseases.</p><p>When else should you see the eye doctor? If you have any sudden symptoms &#45;&#45; such as sudden vision change, eye pain, or severe irritation &#45;&#45; see an eye doctor right away.</p></section_text></section_group></page></pages><citations><p>SOURCES:</p><p>American Academy of Ophthalmology: "eyeSmart: Eye Screening for Children."</p><p>American Academy of Ophthalmology: "eyeSmart: Vision Screening Recommendations for Adults 40 to 60."</p><p>American Academy of Ophthalmology: eyeSmart: "Vision Screening Recommendations for Adults Over 60."</p><p>American Academy of Ophthalmology: eyeSmart: "Vision Screening Recommendations for Adults Under 40."</p><p>American Optometric Association: "Comprehensive Eye and Vision Examination."</p><p>Prevent Blindness America: "How Often Should I Have an Eye Exam?"</p></citations></cons_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/eye-health/visit-eye-doctor" owner="false"><breadcrumb><bread piece="Eye Health Center" prefix="www" friendlyurl="/eye-health/default.htm"></bread></breadcrumb><centers><Health id="892" name="health center" chronicid="091e9c5e806866a2" prefix="www" friendlyurl="/eye-health/default.htm" type="">Eye Health</Health></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/eye-health/visit-eye-doctor" owner="false"><breadcrumb><bread piece="Eye Health Center" prefix="www" friendlyurl="/eye-health/default.htm"></bread></breadcrumb><centers><Health id="11085" name="health center" chronicid="091e9c5e806866a2" prefix="www" friendlyurl="/eye-health/default.htm" type="">Eye Health</Health></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e808ddec1" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/k/kozarsky_alan.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/alan-kozarsky"></target><target siteid="8" name="" prefix="www" friendlyurl="/alan-kozarsky"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><module_data><relatedLinks>Off</relatedLinks><articleLinkView>Page Refresh</articleLinkView><articleTitle chronic_id="091e9c5e80007cf3" directive="friendlyurl" object_type="wbmd_cons_article" wbmd_lookup_type="" wbmd_storage_value=""></articleTitle></module_data></webmd_rendition>
+--> 
+   <div class="article_snippet_rdr">
+    <h3>A Visit to the Eye Doctor</h3>
+    <div class="snippet_fmt" id="asnip">
+     <p xmlns:xalan="http://xml.apache.org/xalan">Think you don't need to see an eye doctor because your vision is fine? Think again.</p>
+     <p xmlns:xalan="http://xml.apache.org/xalan">Eye exams aren’t only for people with poor vision. They're an important way of detecting eye problems before you have symptoms. Eye doctors can also catch other health problems -- like diabetes -- early.&nbsp;</p>
+    </div>
+    <div class="snippet_link">
+     <a href="http://www.webmd.com/eye-health/visit-eye-doctor" onclick="return sl(this,'','asnip_1');">A Visit to the Eye Doctor</a>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+ </div> 
+</div>

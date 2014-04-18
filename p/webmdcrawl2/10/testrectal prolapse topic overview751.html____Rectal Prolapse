@@ -1,0 +1,661 @@
+<title>Rectal Prolapse-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/digestive-disorders/video/appendectomy" class="type_vid" onclick="return sl(this,'','tools-res_1');">See an Appendectomy<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/heartburn-gerd/tool-heartburn-guide#understandingHeartBurn" onclick="return sl(this,'','tools-res_2');">How Heartburn Happens</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/digestive-disorders/video/constipation-treatments" class="type_vid" onclick="return sl(this,'','tools-res_3');">Is My Constipation Serious?<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/ibs/video/ibs-trigger-foods" class="type_vid" onclick="return sl(this,'','tools-res_4');">IBS Trigger Foods<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/ibd-crohns-disease/features/cd-choosing-a-biologic" onclick="return sl(this,'','tools-res_5');">How to Choose a Biologic</a></li>
+      <li id="x61"><a href="http://www.webmd.com/digestive-disorders/ss/slideshow-digestion-tips" class="type_ss" onclick="return sl(this,'','tools-res_6');">16 Tips for Good Digestion<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80ea0dd4"><metadata_section><i_chronicle_id>091e9c5e807f143c</i_chronicle_id><r_object_id>091e9c5e80ea0dd4</r_object_id><title>Topic Overview</title><object_name>rectal_prolapse-topic_overview_special_hw181293.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80ea0dd4</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_hw181293</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Rectal Prolapse-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is rectal prolapse? Rectal prolapse occurs when part or all of the wall of the rectum slides out of place,sometimes sticking out of the anus.  See a picture of rectal prolapse.  There are three types of rectal prolapse.  Partial prolapse (also called mucosal prolapse).  The lining (mucous membrane) of the rectum slides out of place and usually sticks out of the anus.  This can happen when ...</wbmd_desc_meta><wbmd_orig_pub_dt>04/15/2013 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is rectal prolapse? Rectal prolapse occurs when part or all of the wall of the rectum slides out of place,sometimes sticking out of the anus.  See a picture of rectal prolapse.  There are three types of rectal prolapse.  Partial prolapse (also called mucosal prolapse).  The lining (mucous membrane) of the rectum slides out of place and usually sticks out of the anus.  This can happen when ...</wbmd_desc_user><wbmd_lk_ttl>Rectal Prolapse-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>internal intestinal prolapse,intussusception,mucosal prolapse,partial prolapse,rectal prolapse</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>G47.3</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80ea0dd4</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1680" wbmd_disp_nm="Health Topics A-Z"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1052" wbmd_disp_nm="Health A-Z"></wbmd_c_channel_id><wbmd_c_frnd_nm>Rectal-Prolapse-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>SpecialSection</section_type><section_text><p><img align="left" alt="gast_01.jpg" height="130" src="/webmd/consumer_assets/site_images/media/medical/hw/gast_01.jpg" type="medical" width="130" directive="imageurl" chronic_id="091e9c5e80019953" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/medical/hw/gast_01.jpg"></p></section_text></section_group><section_group><section_header>What is rectal prolapse?</section_header><section_type>SpecialSection</section_type><section_text><p>Rectal prolapse occurs
+			 when part or all of the
+			 <a chronic_id="091e9c5e8001b2d3" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/rectum_anus_and_anal_sphincter_definition_str2218.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/rectum_anus_and_anal_sphincter_definition_str2218.xml">wall of the rectum</a> slides out of place, sometimes
+			 sticking out of the <a chronic_id="091e9c5e809d6b53" crossLinkId="1551809" directive="friendlyurl" externalId="091e9c5e809d6b53" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anus.xml" keywordId="70853" keywordSetId="31981" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anus.xml">anus</a>. See a picture of
+			 <a chronic_id="091e9c5e8001eb87" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/rectal_prolapse_multimedia_tp12548.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/rectal_prolapse_multimedia_tp12548.xml">rectal prolapse</a><a chronic_id="091e9c5e8001eb87" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/rectal_prolapse_multimedia_tp12548.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/rectal_prolapse_multimedia_tp12548.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>.</p><p>There are three <a chronic_id="091e9c5e8052130c" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/types_of_rectal_prolapse_multimedia_ax2016.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/types_of_rectal_prolapse_multimedia_ax2016.xml">types of rectal prolapse</a><a chronic_id="091e9c5e8052130c" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/types_of_rectal_prolapse_multimedia_ax2016.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/types_of_rectal_prolapse_multimedia_ax2016.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>.</p><ul><li><b>Partial prolapse</b> (also called mucosal
+				prolapse). The lining (mucous membrane) of the rectum slides out of place and
+				usually sticks out of the anus. This can happen when you strain to have a bowel movement. Partial prolapse is most common in
+				children younger than 2 years. 
+				</li><li><b>Complete prolapse</b>. The entire
+				wall of the rectum slides out of place and usually sticks out of the anus. At
+				first, this may occur only during bowel movements. Eventually, it may occur
+				when you stand or walk. And in some cases, the prolapsed tissue may remain
+				outside your body all the time. </li><li><b>Internal prolapse</b> (<a chronic_id="091e9c5e8001af24" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/intussusception_definition_sti150737.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/intussusception_definition_sti150737.xml">intussusception</a>). One part of the wall of the large
+				intestine (<a chronic_id="091e9c5e803cd8fa" crossLinkId="71842" directive="friendlyurl" externalId="091e9c5e803cd8fa" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_colon.xml" keywordId="60259" keywordSetId="26564" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_colon.xml">colon</a>) or rectum may slide into or over another part, like the
+				folding parts of a toy  telescope. The rectum does not stick out of the anus. (See
+				a picture of
+				<a chronic_id="091e9c5e8001e88a" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/intussusception_multimedia_tp12520.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/intussusception_multimedia_tp12520.xml">intussusception</a><a chronic_id="091e9c5e8001e88a" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/intussusception_multimedia_tp12520.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/intussusception_multimedia_tp12520.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>.) Intussusception is most common in
+				children and rarely affects adults. In children, the cause is usually not
+				known. In adults, it is usually related to another intestinal problem, such as
+				a growth of tissue in the wall of the <a chronic_id="091e9c5e80390f7e" crossLinkId="70906" directive="friendlyurl" externalId="091e9c5e80390f7e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_intestines.xml" keywordId="60206" keywordSetId="26542" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_intestines.xml">intestines</a> (such as a
+				<a chronic_id="091e9c5e8001b1ce" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/polyp_definition_stp1841.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/polyp_definition_stp1841.xml">polyp</a> or tumor).</li></ul><p>In severe cases of rectal prolapse, a section of the
+			 <a chronic_id="091e9c5e8001e8c1" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/large_intestine_multimedia_tp12580.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/large_intestine_multimedia_tp12580.xml">large intestine</a><a chronic_id="091e9c5e8001e8c1" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/large_intestine_multimedia_tp12580.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/large_intestine_multimedia_tp12580.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a> drops from its normal position as the tissues that hold it in
+			 place stretch. Typically there is a sharp bend where the rectum begins. With
+			 rectal prolapse, this bend and other curves in the rectum may straighten,
+			 making it difficult to keep stool from leaking out (<a chronic_id="091e9c5e8001b2d0" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/fecal_incontinence_definition_stf124084.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fecal_incontinence_definition_stf124084.xml">fecal incontinence</a>).</p><p>Rectal prolapse is most common in children
+			 and older adults, especially women.</p></section_text></section_group><section_group><section_header>What causes rectal prolapse?</section_header><section_type>SpecialSection</section_type><section_text><p>Many things
+			 increase the chance of developing rectal prolapse. Risk factors for children
+			 include:</p><ul><li><a chronic_id="091e9c5e8001b1cc" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/cystic_fibrosis_definition_stc123784.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/cystic_fibrosis_definition_stc123784.xml">Cystic fibrosis</a>. A child who has rectal prolapse with no obvious cause may need
+				to be tested for cystic fibrosis.</li><li>Having had surgery on the anus as an <a chronic_id="091e9c5e80c3c634" crossLinkId="69852" directive="friendlyurl" externalId="091e9c5e80c3c634" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/baby  and newborn future toc_091e9c5e80c3c634/page_baby  and newborn future toc_091e9c5e80c3c634.xml" keywordId="31318" keywordSetId="8136" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/baby  and newborn future toc_091e9c5e80c3c634/page_baby  and newborn future toc_091e9c5e80c3c634.xml">infant</a>.</li><li>Malnutrition.</li><li>Deformities or physical development
+				problems.</li><li>Straining during bowel
+				movements.</li><li>Infections.</li></ul><p>Risk factors for adults include: </p><ul><li>Straining during bowel movements because of
+				<a chronic_id="091e9c5e80009223" crossLinkId="5614" directive="friendlyurl" externalId="091e9c5e80009223" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_constipation.xml" keywordId="7161" keywordSetId="1029" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_constipation.xml">constipation</a>.</li><li>Tissue damage caused by surgery or
+				<a chronic_id="091e9c5e80009263" crossLinkId="26138" directive="friendlyurl" externalId="091e9c5e80009263" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/womens_health/pregnancy/overview_types_of/pregnancy_methods_delivery.xml" keywordId="32989" keywordSetId="8370" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/womens_health/pregnancy/overview_types_of/pregnancy_methods_delivery.xml">childbirth</a>.</li><li>Weakness of pelvic floor muscles that occurs naturally with
+				age.</li></ul></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p> The first symptoms of
+			 rectal prolapse may be:</p><ul><li>Leakage of stool from the anus (fecal
+				incontinence).</li><li>Leakage of mucus or <a chronic_id="091e9c5e8056ea80" crossLinkId="1506783" directive="friendlyurl" externalId="091e9c5e8056ea80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml" keywordId="62987" keywordSetId="28544" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml">blood</a> from the anus (wet anus).
+				</li></ul><p>Other symptoms of rectal prolapse include:</p><ul><li>A feeling of having full bowels and an urgent
+				need to have a bowel movement.</li><li>Passage of many very small
+				stools.</li><li>The feeling of not being able to empty the bowels
+				completely.</li><li>Anal pain, <a chronic_id="091e9c5e80007e29" crossLinkId="1560181" directive="friendlyurl" externalId="091e9c5e80007e29" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/Skin_Conditions_Pruritus.xml" keywordId="36800" keywordSetId="9069" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/Skin_Conditions_Pruritus.xml">itching</a>, irritation, and
+				bleeding.</li><li>Bright red tissue that sticks out of the anus.</li></ul><p>See a doctor
+		 if you or your child has symptoms of
+		 rectal prolapse. If it is not treated, you may have more problems. For example, the leaking stool could get worse, or the rectum could be damaged. </p></section_text></section_group></page><page><section_group><section_header>How is rectal prolapse diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>Your doctor will
+			 diagnose rectal prolapse by asking you questions about your symptoms and past
+			 medical problems and surgeries. He or she will also do a <a chronic_id="091e9c5e80377b97" crossLinkId="70371" directive="friendlyurl" externalId="091e9c5e80377b97" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml" keywordId="58671" keywordSetId="25958" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml">physical exam</a>, which includes checking the rectum for loose tissue and to find out how strongly the
+			 <a chronic_id="091e9c5e8001b2d3" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/rectum_anus_and_anal_sphincter_definition_str2218.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/rectum_anus_and_anal_sphincter_definition_str2218.xml">anal sphincter</a> contracts. </p><p>You may need
+			 tests to rule out other conditions. For example, you may need a <a chronic_id="091e9c5e8001af3b" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/sigmoidoscopy_definition_tv7630.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/sigmoidoscopy_definition_tv7630.xml">sigmoidoscopy</a>, a
+			 <a chronic_id="091e9c5e8001b60b" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/colonoscopy_definition_stc123734.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/colonoscopy_definition_stc123734.xml">colonoscopy</a>, or a
+			 <a chronic_id="091e9c5e8001b637" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/barium_enema_definition_stb117016.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/barium_enema_definition_stb117016.xml">barium enema</a> to look for tumors, sores
+			 (ulcers), or abnormally narrow areas in the large intestine. Or a child may need a sweat test to check for
+cystic fibrosis if prolapse has occurred more than once or the cause is not clear.</p></section_text></section_group><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>Prolapse in children tends to
+			 go away on its own.  You can help keep the prolapse from coming back. If you can, push the prolapse into place as soon as it occurs. You can also have your  child use a
+				potty-training toilet so that he or she does not strain while having a bowel
+				movement.</p><p>Sometimes children need treatment. For example, if the prolapse doesn't go away on its own, an injection of medicine into the rectum may help. If the prolapse was caused by another condition, the child may need treatment for that condition.</p><p>Home treatment for adults may help treat the prolapse and may be tried before other types of treatments. </p><ul><li> If your doctor says it's okay, you can push the prolapse into place.</li><li>Avoid constipation. Drink plenty of water, and eat fruits,
+				vegetables, and other foods that contain fiber. Changes in <a chronic_id="091e9c5e80bd1618" crossLinkId="440" directive="friendlyurl" externalId="091e9c5e80bd1618" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet future toc_091e9c5e80bd1618/page_Diet future toc_091e9c5e80bd1618.xml" keywordId="34605" keywordSetId="2098" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet future toc_091e9c5e80bd1618/page_Diet future toc_091e9c5e80bd1618.xml">diet</a> often are
+				enough to improve or reverse a prolapse of the lining of the rectum (partial
+				prolapse).</li><li>Do
+				<a chronic_id="091e9c5e8001b662" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/kegel_exercises_definition_stk151104.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/kegel_exercises_definition_stk151104.xml">Kegel exercises</a> to help strengthen the muscles of the
+				pelvic area.</li><li>Don't strain while having a bowel movement. Use a <a chronic_id="" crossLinkId="68622" directive="friendlyurl" externalId="9514" href="http://www.webmd.com/drugs/drug-9514-stool+softener+oral.aspx" keywordId="57095" keywordSetId="24625" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-9514-stool+softener+oral.aspx">stool softener</a> if you need to.</li></ul><p>People who have a complete prolapse
+			 or who have a partial prolapse that doesn't improve with a change in diet will need surgery. Surgery
+			 involves attaching the rectum to the muscles of the pelvic floor or the lower
+			 end of the spine (<a chronic_id="091e9c5e8001b4ce" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/sacrum_definition_sts14343.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/sacrum_definition_sts14343.xml">sacrum</a>). Or surgery might involve removing a section of the
+			 large intestine that is no longer supported by the surrounding tissue. Both
+			 procedures may be done in the same surgery.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/digestive-disorders/tc/rectal-prolapse-topic-overview" owner="false"><breadcrumb><bread piece="Digestive Disorders Health Center" prefix="www" friendlyurl="/digestive-disorders/default.htm"></bread><bread piece="Digestive Disorders Related Topics" prefix="www" friendlyurl="/digestive-disorders/tc/default.htm"></bread></breadcrumb><centers><Topic id="994" name="tmg" chronicid="091e9c5e807f143c" prefix="www" friendlyurl="/digestive-disorders/tc/rectal-prolapse-topic-overview" type="Topic">Rectal Prolapse</Topic><Super id="1071" name="super center" chronicid="091e9c5e800252cc" prefix="www" friendlyurl="/digestive-disorders/default.htm" type="">Digestive Disorders</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/rectal-prolapse-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e807f143c" prefix="www" friendlyurl="/a-to-z-guides/tc/rectal-prolapse-topic-overview" type="Topic">Rectal Prolapse</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001b2d3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/rectum_anus_and_anal_sphincter_definition_str2218.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/rectum-anus-and-anal-sphincter"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/rectum-anus-and-anal-sphincter"></target></object><object chronic_id="091e9c5e809d6b53" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anus.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-anus"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-anus"></target></object><object chronic_id="091e9c5e8001eb87" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/rectal_prolapse_multimedia_tp12548.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/rectal-prolapse"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/rectal-prolapse"></target></object><object chronic_id="091e9c5e8052130c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/types_of_rectal_prolapse_multimedia_ax2016.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/types-of-rectal-prolapse"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/types-of-rectal-prolapse"></target></object><object chronic_id="091e9c5e8001af24" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/intussusception_definition_sti150737.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/intussusception-7936"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/intussusception-7936"></target></object><object chronic_id="091e9c5e803cd8fa" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_colon.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-colon"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-colon"></target></object><object chronic_id="091e9c5e8001e88a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/intussusception_multimedia_tp12520.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/intussusception"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/intussusception"></target></object><object chronic_id="091e9c5e80390f7e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_intestines.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-intestines"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-intestines"></target></object><object chronic_id="091e9c5e8001b1ce" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/polyp_definition_stp1841.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/polyp"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/polyp"></target></object><object chronic_id="091e9c5e8001e8c1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/large_intestine_multimedia_tp12580.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/large-intestine"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/large-intestine"></target></object><object chronic_id="091e9c5e8001b2d0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fecal_incontinence_definition_stf124084.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/fecal-incontinence"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/fecal-incontinence"></target></object><object chronic_id="091e9c5e8001b1cc" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/cystic_fibrosis_definition_stc123784.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/cystic-fibrosis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/cystic-fibrosis"></target></object><object chronic_id="091e9c5e80c3c634" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/baby  and newborn future toc_091e9c5e80c3c634/page_baby  and newborn future toc_091e9c5e80c3c634.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/default.htm"></target></object><object chronic_id="091e9c5e80009223" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_constipation.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-constipation"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-constipation"></target></object><object chronic_id="091e9c5e80009263" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/womens_health/pregnancy/overview_types_of/pregnancy_methods_delivery.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/guide/delivery-methods"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/guide/delivery-methods"></target></object><object chronic_id="091e9c5e8056ea80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/anatomy-picture-of-blood"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/anatomy-picture-of-blood"></target></object><object chronic_id="091e9c5e80007e29" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/Skin_Conditions_Pruritus.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/skin-conditions-pruritus"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/skin-conditions-pruritus"></target></object><object chronic_id="091e9c5e80377b97" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target></object><object chronic_id="091e9c5e8001af3b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/sigmoidoscopy_definition_tv7630.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/sigmoidoscopy"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/sigmoidoscopy"></target></object><object chronic_id="091e9c5e8001b60b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/colonoscopy_definition_stc123734.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/colonoscopy-diagram"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/colonoscopy-diagram"></target></object><object chronic_id="091e9c5e8001b637" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/barium_enema_definition_stb117016.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/barium-enema"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/barium-enema"></target></object><object chronic_id="091e9c5e80bd1618" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet future toc_091e9c5e80bd1618/page_Diet future toc_091e9c5e80bd1618.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diet/default.htm" umtchronicleid="091e9c5e8068a387"></target><target siteid="8" name="" prefix="www" friendlyurl="/diet/default.htm" umtchronicleid="091e9c5e8068a387"></target></object><object chronic_id="091e9c5e8001b662" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/kegel_exercises_definition_stk151104.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/kegel-exercises"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/kegel-exercises"></target></object><object chronic_id="091e9c5e8001b4ce" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/sacrum_definition_sts14343.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/sacrum"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/sacrum"></target></object><object chronic_id="091e9c5e807f143c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-topic_overview_special_hw181293.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/tc/rectal-prolapse-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/rectal-prolapse-topic-overview"></target></object><object chronic_id="091e9c5e807f143d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-frequently_asked_questions_special_abk7249.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/tc/rectal-prolapse-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/rectal-prolapse-frequently-asked-questions"></target></object><object chronic_id="091e9c5e807f143e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-other_places_to_get_help_special_hw181291-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/tc/rectal-prolapse-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/rectal-prolapse-other-places-to-get-help"></target></object><object chronic_id="091e9c5e807f143f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-related_information_special_hw181291-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/tc/rectal-prolapse-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/rectal-prolapse-related-information"></target></object><object chronic_id="091e9c5e807f1440" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-references_special_hw181291-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/tc/rectal-prolapse-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/rectal-prolapse-references"></target></object><object chronic_id="091e9c5e807f1441" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-credits_special_hw181291-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/tc/rectal-prolapse-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/rectal-prolapse-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e807f14ac" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/rectal_prolapse_special_hw181291.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e807f143c" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-topic_overview_special_hw181293.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e807f143d" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-frequently_asked_questions_special_abk7249.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e807f143e" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-other_places_to_get_help_special_hw181291-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e807f143f" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-related_information_special_hw181291-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e807f1440" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-references_special_hw181291-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e807f1441" path="/webmd/consumer_assets/controlled_content/healthwise/special/rectal_prolapse-credits_special_hw181291-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Rectal Prolapse</title><dynamic_objects><callout_title>Recommended Related to Health A-Z</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e89f3b"><metadata_section><i_chronicle_id>091e9c5e808f599f</i_chronicle_id><title>Amniotic Banding Syndrome</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>This information is provided as a resource and does not constitute an endorsement for any group. It is the responsibility of the reader to decide whether a group is appropriate for his/her needs. For evidence-based information on diseases, conditions, symptoms, treatment and wellness issues, continue searching this site.</p></section_text><link siteid="3" prefix="www" friendlyurl="/a-to-z-guides/amniotic-banding-syndrome"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Rectal Prolapse - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3></h3>
+      <p><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/medical/hw/gast_01.jpg" alt="gast_01.jpg" align="left" /></p>
+      <h3>What is rectal prolapse?</h3>
+      <p>Rectal prolapse occurs when part or all of the <a href="http://www.webmd.com/hw-popup/rectum-anus-and-anal-sphincter" onclick="return sl(this,'hw','embd-lnk');">wall of the rectum</a> slides out of place, sometimes sticking out of the <a href="http://www.webmd.com/digestive-disorders/picture-of-the-anus" onclick="return sl(this,'','embd-lnk');">anus</a>. See a picture of <a href="http://www.webmd.com/digestive-disorders/rectal-prolapse" onclick="return sl(this,'','embd-lnk');">rectal prolapse</a> <a href="http://www.webmd.com/digestive-disorders/rectal-prolapse" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>.</p>
+      <p>There are three <a href="http://www.webmd.com/digestive-disorders/types-of-rectal-prolapse" onclick="return sl(this,'','embd-lnk');">types of rectal prolapse</a> <a href="http://www.webmd.com/digestive-disorders/types-of-rectal-prolapse" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>.</p>
+      <ul>
+       <li><b>Partial prolapse</b> (also called mucosal prolapse). The lining (mucous membrane) of the rectum slides out of place and usually sticks out of the anus. This can happen when you strain to have a bowel movement. Partial prolapse is most common in children younger than 2 years. </li>
+       <li><b>Complete prolapse</b>. The entire wall of the rectum slides out of place and usually sticks out of the anus. At first, this may occur only during bowel movements. Eventually, it may occur when you stand or walk. And in some cases, the prolapsed tissue may remain outside your body all the time. </li>
+       <li><b>Internal prolapse</b> (<a href="http://www.webmd.com/hw-popup/intussusception-7936" onclick="return sl(this,'hw','embd-lnk');">intussusception</a>). One part of the wall of the large intestine (<a href="http://www.webmd.com/digestive-disorders/picture-of-the-colon" onclick="return sl(this,'','embd-lnk');">colon</a>) or rectum may slide into or over another part, like the folding parts of a toy telescope. The rectum does not stick out of the anus. (See a picture of <a href="http://www.webmd.com/children/intussusception" onclick="return sl(this,'','embd-lnk');">intussusception</a> <a href="http://www.webmd.com/children/intussusception" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>.) Intussusception is most common in children and rarely affects adults. In children, the cause is usually not known. In adults, it is usually related to another intestinal problem, such as a growth of tissue in the wall of the <a href="http://www.webmd.com/digestive-disorders/picture-of-the-intestines" onclick="return sl(this,'','embd-lnk');">intestines</a> (such as a <a href="http://www.webmd.com/hw-popup/polyp" onclick="return sl(this,'hw','embd-lnk');">polyp</a> or tumor).</li>
+      </ul>
+      <p>In severe cases of rectal prolapse, a section of the <a href="http://www.webmd.com/digestive-disorders/large-intestine" onclick="return sl(this,'','embd-lnk');">large intestine</a> <a href="http://www.webmd.com/digestive-disorders/large-intestine" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a> drops from its normal position as the tissues that hold it in place stretch. Typically there is a sharp bend where the rectum begins. With rectal prolapse, this bend and other curves in the rectum may straighten, making it difficult to keep stool from leaking out (<a href="http://www.webmd.com/hw-popup/fecal-incontinence" onclick="return sl(this,'hw','embd-lnk');">fecal incontinence</a>).</p>
+      <p>Rectal prolapse is most common in children and older adults, especially women.</p>
+      <h3>What causes rectal prolapse?</h3>
+      <p>Many things increase the chance of developing rectal prolapse. Risk factors for children include:</p>
+      <ul>
+       <li><a href="http://www.webmd.com/hw-popup/cystic-fibrosis" onclick="return sl(this,'hw','embd-lnk');">Cystic fibrosis</a>. A child who has rectal prolapse with no obvious cause may need to be tested for cystic fibrosis.</li>
+       <li>Having had surgery on the anus as an <a href="http://www.webmd.com/parenting/baby/default.htm" onclick="return sl(this,'','embd-lnk');">infant</a>.</li>
+       <li>Malnutrition.</li>
+       <li>Deformities or physical development problems.</li>
+       <li>Straining during bowel movements.</li>
+       <li>Infections.</li>
+      </ul>
+      <p>Risk factors for adults include: </p>
+      <ul>
+       <li>Straining during bowel movements because of <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-constipation" onclick="return sl(this,'','embd-lnk');">constipation</a>.</li>
+       <li>Tissue damage caused by surgery or <a href="http://www.webmd.com/baby/guide/delivery-methods" onclick="return sl(this,'','embd-lnk');">childbirth</a>.</li>
+       <li>Weakness of pelvic floor muscles that occurs naturally with age.</li>
+      </ul>
+      <h3>What are the symptoms?</h3>
+      <p> The first symptoms of rectal prolapse may be:</p>
+      <ul>
+       <li>Leakage of stool from the anus (fecal incontinence).</li>
+       <li>Leakage of mucus or <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> from the anus (wet anus). </li>
+      </ul>
+      <p>Other symptoms of rectal prolapse include:</p>
+      <ul>
+       <li>A feeling of having full bowels and an urgent need to have a bowel movement.</li>
+       <li>Passage of many very small stools.</li>
+       <li>The feeling of not being able to empty the bowels completely.</li>
+       <li>Anal pain, <a href="http://www.webmd.com/skin-problems-and-treatments/guide/skin-conditions-pruritus" onclick="return sl(this,'','embd-lnk');">itching</a>, irritation, and bleeding.</li>
+       <li>Bright red tissue that sticks out of the anus.</li>
+      </ul>
+      <p>See a doctor if you or your child has symptoms of rectal prolapse. If it is not treated, you may have more problems. For example, the leaking stool could get worse, or the rectum could be damaged. </p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: April 15, 2013
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-topic-overview">Topic Overview</option><option value="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-related-information">Related Information</option><option value="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-references">References</option><option value="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Rectal Prolapse Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-frequently-asked-questions" onclick="return sl(this,'','topicNav_2');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-other-places-to-get-help" onclick="return sl(this,'','topicNav_3');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-related-information" onclick="return sl(this,'','topicNav_4');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-references" onclick="return sl(this,'','topicNav_5');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/digestive-disorders/tc/rectal-prolapse-credits" onclick="return sl(this,'','topicNav_6');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1035"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/digestive-disorders/video/constipation-treatments" onclick="return sl(this,'','rltd-p-1035_1');">Common Constipation Treatments</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/ibd-crohns-disease/cd-biologics-10/cd-diagnosis-tips" onclick="return sl(this,'','rltd-p-1035_2');">Newly Diagnosed With Crohn's? Steps to Take</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/heartburn-gerd/tool-heartburn-guide#diningOut" onclick="return sl(this,'','rltd-p-1035_3');">Restaurant Heartburn Triggers</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/pain-management/guide/abdominal-pain-causes-treatments" onclick="return sl(this,'','rltd-p-1035_4');">Abdominal Pain: What Could Be Causing It</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/digestive-disorders/video/pill-celiac" onclick="return sl(this,'','rltd-p-1035_5');">Experimental Pill for Celiac Disease</a> </li> 
+     <li id="x67" class="last"> <a class="type_vid" href="http://www.webmd.com/heartburn-gerd/tc/gas-bloating-and-burping-topic-overview" onclick="return sl(this,'','rltd-p-1035_6');">Is Acid Reflux Causing Your Cough?<i> </i></a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1035_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1650242531&amp;tile=1444538538&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1071&amp;pos=5000&amp;xpg=1680&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fdigestive-disorders%2ftc%2frectal-prolapse-topic-overview&amp;artid=091e9c5e807f143c&amp;inst=0&amp;leaf=994&amp;cc=16&amp;tmg=1&amp;bc=_g473_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1650242531&amp;amp;tile=1444538538&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1071&amp;amp;pos=5000&amp;amp;xpg=1680&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fdigestive-disorders%2ftc%2frectal-prolapse-topic-overview&amp;amp;artid=091e9c5e807f143c&amp;amp;inst=0&amp;amp;leaf=994&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_g473_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1680";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1650242531&amp;tile=1444538538&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1071&amp;pos=5001&amp;xpg=1680&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fdigestive-disorders%2ftc%2frectal-prolapse-topic-overview&amp;artid=091e9c5e807f143c&amp;inst=0&amp;leaf=994&amp;cc=16&amp;tmg=1&amp;bc=_g473_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1650242531&amp;amp;tile=1444538538&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1071&amp;amp;pos=5001&amp;amp;xpg=1680&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fdigestive-disorders%2ftc%2frectal-prolapse-topic-overview&amp;amp;artid=091e9c5e807f143c&amp;amp;inst=0&amp;amp;leaf=994&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_g473_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1680";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

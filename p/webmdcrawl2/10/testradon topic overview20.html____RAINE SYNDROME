@@ -1,0 +1,603 @@
+<title>Radon-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tool-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/lung-cancer/slideshow-lung-cancer-overview" class="type_ss" onclick="return sl(this,'','tool-res_1');">Lung Cancer: A Visual Guide<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/lung-cancer/chemotherapy-non-small-cell-10/slideshow-lung-cancer-risks" class="type_ss" onclick="return sl(this,'','tool-res_2');">Lung Cancer Risks: Myth vs. Fact<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/cancer/slideshow-cancer-fighting-foods" class="type_ss" onclick="return sl(this,'','tool-res_3');">Try These Cancer-Fighting Foods<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','tool-res_4');">Assess Your Cancer Risk</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/video/lung-cancer-men-vs-women" class="type_vid" onclick="return sl(this,'','tool-res_5');">Lung Cancer: Men vs. Women<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/smoking-cessation/slideshow-13-best-quit-smoking-tips-ever" class="type_ss" onclick="return sl(this,'','tool-res_6');">13 Best Quit-Smoking Tips Ever<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tool-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80ea0d04"><metadata_section><i_chronicle_id>091e9c5e8001d475</i_chronicle_id><r_object_id>091e9c5e80ea0d04</r_object_id><title>Topic Overview</title><object_name>radon-topic_overview_special_ty6132.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80ea0d04</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_ty6132</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Radon-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is radon?Radon is a cancer - causing radioactive gas. It comes from the breakdown of uranium, which is a natural part of soil and rock. It is most commonly found in soil, water, building materials (such as granite or shale), and natural gas. Radon cannot be detected by human senses because it is odorless, tasteless, and invisible.How does radon exposure occur?In closed or poorly vented spaces</wbmd_desc_meta><wbmd_orig_pub_dt>12/27/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is radon?Radon is a cancer - causing radioactive gas. It comes from the breakdown of uranium, which is a natural part of soil and rock. It is most commonly found in soil, water, building materials (such as granite or shale), and natural gas. Radon cannot be detected by human senses because it is odorless, tasteless, and invisible.How does radon exposure occur?In closed or poorly vented spaces</wbmd_desc_user><wbmd_lk_ttl>Radon-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Radon-Topic Overview</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>sex.2</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80ea0d04</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1822" wbmd_disp_nm="Lung Cancer"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1071" wbmd_disp_nm="Lung Cancer"></wbmd_c_channel_id><wbmd_c_frnd_nm>Radon-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is radon?</section_header><section_type>SpecialSection</section_type><section_text><p>Radon is a radioactive gas that causes <a chronic_id="" crossLinkId="31192" directive="friendlyurl" externalId="9A13E96B1FF14D08" href="http://www.webmd.com/cancer/" keywordId="7043" keywordSetId="942" object_type="" path="/webmdhttp://www.webmd.com/cancer/">cancer</a>.
+			 Radon is found in rock, soil, water, some building materials, and natural gas.
+			 You can't see, taste, or smell it.</p></section_text></section_group><section_group><section_header>How does radon exposure occur?</section_header><section_type>SpecialSection</section_type><section_text><p>Any home, school,
+			 office, or other building can have high levels of radon. Radon is found in new
+			 and old buildings. It can seep in through the foundation of a house built on
+			 radon-contaminated soil. If a house's water supply contains radon, radon may enter the air inside the house through pipes, drains, faucets, or appliances that use water. Then the radon may get trapped inside the house.</p><p>Radon sinks to the low points in buildings, so it often is found in basements. But a
+			 building can have high levels of radon even if it doesn't have a basement.</p><p>Studies show that nearly 1 out of every 15 homes in the United States has
+			 unsafe levels of radon.<sup class="Reference"><a bookmark="ut1214" chronic_id="091e9c5e8001cf20" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/radon-references_special_ty6131-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-references_special_ty6131-bib.xml">1</a></sup> If you live in an area that has large deposits of uranium, you may be
+		 more likely to be exposed to high levels of radon. (To see a map of the U.S.
+		 radon zones, see the website www.epa.gov/radon/zonemap.html.) But the construction features and exact location of your house may be just as likely to
+		 affect your risk. Even houses right next to each other can have very different radon levels.</p></section_text></section_group><section_group><section_header>What are the health effects of radon exposure?</section_header><section_type>SpecialSection</section_type><section_text><p>Over time, exposure to radon can <a chronic_id="" crossLinkId="31523" directive="friendlyurl" externalId="976C0BC6500946E2" href="http://www.webmd.com/lung-cancer/guide/lung-cancer-overview-facts" keywordId="32527" keywordSetId="8309" object_type="" path="/webmdhttp://www.webmd.com/lung-cancer/guide/lung-cancer-overview-facts">cause lung cancer</a>. Radon causes about
+			 21,000 <a chronic_id="091e9c5e800234a0" crossLinkId="448" directive="friendlyurl" externalId="091e9c5e800234a0" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Lung Cancer Health Center/page_Lung Cancer Health Center_091e9c5e800234a0.xml" keywordId="7801" keywordSetId="1497" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Lung Cancer Health Center/page_Lung Cancer Health Center_091e9c5e800234a0.xml">lung cancer</a> deaths each year in the U.S. It is the second leading cause
+			 of <a chronic_id="091e9c5e803c50fe" crossLinkId="72327" directive="friendlyurl" externalId="091e9c5e803c50fe" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml" keywordId="60504" keywordSetId="26698" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml">lung</a> cancer, after tobacco <a chronic_id="091e9c5e800ab373" crossLinkId="451" directive="friendlyurl" externalId="091e9c5e800ab373" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml" keywordId="40038" keywordSetId="9788" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml">smoking</a>.<sup class="Reference"><a bookmark="ut1214" chronic_id="091e9c5e8001cf20" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/radon-references_special_ty6131-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-references_special_ty6131-bib.xml">1</a></sup> People who
+			 smoke have an even higher risk of lung cancer from radon exposure than people
+			 who don't smoke.</p><p> Radon exposure doesn't cause symptoms. Unless your home or office is tested for high radon levels, you may not realize that you are being exposed
+		 to dangerous levels of radon until you or someone in your family is diagnosed
+		 with lung cancer.</p></section_text></section_group><section_group><section_header>How can you test your home's radon levels?</section_header><section_type>SpecialSection</section_type><section_text><p>The
+			 U.S. Surgeon General and the U.S. Environmental Protection Agency (EPA)
+			 recommend that all homes be tested for radon levels. </p><p>You can hire a
+			 qualified tester to do the test, or you can use a do-it-yourself test kit. Use only home tests
+			 that are labeled "meets EPA requirements." You can buy radon test kits by calling the EPA at 1-800-SOS-RADN (1-800-767-7236). There are two types of tests. Both measure radon levels in the air.</p><ul><li>The <b>short-term test</b> kit stays in your home or office for 2 to 90 days. Radon levels vary daily and from season to season. So you may want to follow up the first short-term test with a second test.</li><li>The <b>long-term test</b> kit stays in your home or office for more than 90 days. A long-term test will give more accurate results.</li></ul><p>If you have questions about radon in your house, you can get help from the EPA by calling 1-800-55-RADON (1-800-557-2366).</p></section_text></section_group></page><page><section_group><section_header>How do you remove high levels of radon?</section_header><section_type>SpecialSection</section_type><section_text><p>If tests find a high level of radon, you'll need to reduce it. There are
+			 two parts to this:</p><ul><li><b>Preventing radon from entering the
+				building</b>. The most common way to do this is through
+		 sub-slab depressurization, which vents air
+		 from beneath the foundation. This work should be done by a qualified contractor. Other control methods include
+		 sealing cracks in the foundation or walls and using air cleaners.<sup class="Reference"><a bookmark="zh1088" chronic_id="091e9c5e8001cf20" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/radon-references_special_ty6131-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-references_special_ty6131-bib.xml">2</a></sup></li><li><b>Venting radon out of the building</b>. Once the radon is prevented from entering the building, venting can be done to reduce
+		 the level of radon.
+		 These may include using fans, blowers, and suction devices to remove radon in the air in crawl spaces, basements, and other areas.</li></ul><p>Use an EPA-qualified contractor with proper training in radon reduction to help with this work.</p><p>After radon reduction or prevention procedures
+		 are done, the home or building should be retested. You may need to retest more than once. It is usually safe to live in
+		 the home or building while the radon is being vented, but you may want to
+		 confirm this with your local EPA office.</p><p>For general information about removing or reducing radon in your house, you can call the Radon Fix-It Hotline at 1-800-644-6999. If you
+			 live outside the U.S., you can call your regional environmental protection
+			 office for more information.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/lung-cancer/tc/radon-topic-overview" owner="false"><breadcrumb><bread piece="Cancer Health Center" prefix="www" friendlyurl="/cancer/default.htm"></bread><bread piece="Lung Cancer Health Center" prefix="www" friendlyurl="/lung-cancer/default.htm"></bread><bread piece="Lung Cancer Related Topics" prefix="www" friendlyurl="/lung-cancer/tc/default.htm"></bread></breadcrumb><centers><Topic id="706" name="tmg" chronicid="091e9c5e8001d475" prefix="www" friendlyurl="/lung-cancer/tc/radon-topic-overview" type="Topic">Radon</Topic><Health id="918" name="health center" chronicid="091e9c5e800234a0" prefix="www" friendlyurl="/lung-cancer/default.htm" type="">Lung Cancer</Health><Super id="848" name="super center" chronicid="091e9c5e80024a11" prefix="www" friendlyurl="/cancer/default.htm" type="">Cancer</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/radon-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e8001d475" prefix="www" friendlyurl="/a-to-z-guides/tc/radon-topic-overview" type="Topic">Radon</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001cf20" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-references_special_ty6131-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung-cancer/tc/radon-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/radon-references"></target></object><object chronic_id="091e9c5e800234a0" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Lung Cancer Health Center/page_Lung Cancer Health Center_091e9c5e800234a0.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/lung-cancer/default.htm"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/lung-cancer-non-small-cell-directory" umtchronicleid="091e9c5e8071e15b"></target></object><object chronic_id="091e9c5e803c50fe" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/picture-of-the-lungs"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-lungs"></target></object><object chronic_id="091e9c5e800ab373" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/smoking-cessation/default.htm"></target></object><object chronic_id="091e9c5e8001d475" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-topic_overview_special_ty6132.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung-cancer/tc/radon-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/radon-topic-overview"></target></object><object chronic_id="091e9c5e80a7621b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-frequently_asked_questions_special_abl2267.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung-cancer/tc/radon-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/radon-frequently-asked-questions"></target></object><object chronic_id="091e9c5e8001cea2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-other_places_to_get_help_special_ty6131-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung-cancer/tc/radon-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/radon-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001cedb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-related_information_special_ty6131-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung-cancer/tc/radon-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/radon-related-information"></target></object><object chronic_id="091e9c5e8001cf20" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-references_special_ty6131-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung-cancer/tc/radon-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/radon-references"></target></object><object chronic_id="091e9c5e8001cea0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-credits_special_ty6131-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung-cancer/tc/radon-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/radon-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e80023761" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/radon_special_ty6131.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d475" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-topic_overview_special_ty6132.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e80a7621b" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-frequently_asked_questions_special_abl2267.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001cea2" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-other_places_to_get_help_special_ty6131-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001cedb" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-related_information_special_ty6131-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001cf20" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-references_special_ty6131-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001cea0" path="/webmd/consumer_assets/controlled_content/healthwise/special/radon-credits_special_ty6131-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Radon</title><dynamic_objects><callout_title>Recommended Related to Lung Cancer</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80c9882a"><metadata_section><i_chronicle_id>091e9c5e80008edd</i_chronicle_id><title>Understanding Lung Cancer &#45;&#45; the Basics</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>Although lung cancer is the leading cause of cancer death in the U.S. in both men and women, it is also one of the most preventable kinds of cancer. At least four out of five cases are associated with cigarette smoking, and the cause-and-effect relationship has been extensively documented. During the 1920s, large numbers of men began to smoke cigarettes, presumably in response to increased advertising. Twenty years later, the frequency of lung cancer in men climbed sharply. In the 1940s, significantly...</p></section_text><link siteid="3" prefix="www" friendlyurl="/lung-cancer/guide/understanding-lung-cancer-basics"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Radon - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What is radon?</h3>
+      <p>Radon is a radioactive gas that causes <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/cancer/">cancer</a>. Radon is found in rock, soil, water, some building materials, and natural gas. You can't see, taste, or smell it.</p>
+      <h3>How does radon exposure occur?</h3>
+      <p>Any home, school, office, or other building can have high levels of radon. Radon is found in new and old buildings. It can seep in through the foundation of a house built on radon-contaminated soil. If a house's water supply contains radon, radon may enter the air inside the house through pipes, drains, faucets, or appliances that use water. Then the radon may get trapped inside the house.</p>
+      <p>Radon sinks to the low points in buildings, so it often is found in basements. But a building can have high levels of radon even if it doesn't have a basement.</p>
+      <p>Studies show that nearly 1 out of every 15 homes in the United States has unsafe levels of radon.<sup class="Reference"><a href="http://www.webmd.com/lung-cancer/tc/radon-references#ut1214" onclick="return sl(this,'','embd-lnk');">1</a></sup> If you live in an area that has large deposits of uranium, you may be more likely to be exposed to high levels of radon. (To see a map of the U.S. radon zones, see the website www.epa.gov/radon/zonemap.html.) But the construction features and exact location of your house may be just as likely to affect your risk. Even houses right next to each other can have very different radon levels.</p>
+      <h3>What are the health effects of radon exposure?</h3>
+      <p>Over time, exposure to radon can <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/lung-cancer/guide/lung-cancer-overview-facts">cause lung cancer</a>. Radon causes about 21,000 <a href="http://www.webmd.com/lung-cancer/default.htm" onclick="return sl(this,'','embd-lnk');">lung cancer</a> deaths each year in the U.S. It is the second leading cause of <a href="http://www.webmd.com/lung/picture-of-the-lungs" onclick="return sl(this,'','embd-lnk');">lung</a> cancer, after tobacco <a href="http://www.webmd.com/smoking-cessation/default.htm" onclick="return sl(this,'','embd-lnk');">smoking</a>.<sup class="Reference"><a href="http://www.webmd.com/lung-cancer/tc/radon-references#ut1214" onclick="return sl(this,'','embd-lnk');">1</a></sup> People who smoke have an even higher risk of lung cancer from radon exposure than people who don't smoke.</p>
+      <p> Radon exposure doesn't cause symptoms. Unless your home or office is tested for high radon levels, you may not realize that you are being exposed to dangerous levels of radon until you or someone in your family is diagnosed with lung cancer.</p>
+      <h3>How can you test your home's radon levels?</h3>
+      <p>The U.S. Surgeon General and the U.S. Environmental Protection Agency (EPA) recommend that all homes be tested for radon levels. </p>
+      <p>You can hire a qualified tester to do the test, or you can use a do-it-yourself test kit. Use only home tests that are labeled &quot;meets EPA requirements.&quot; You can buy radon test kits by calling the EPA at 1-800-SOS-RADN (1-800-767-7236). There are two types of tests. Both measure radon levels in the air.</p>
+      <ul>
+       <li>The <b>short-term test</b> kit stays in your home or office for 2 to 90 days. Radon levels vary daily and from season to season. So you may want to follow up the first short-term test with a second test.</li>
+       <li>The <b>long-term test</b> kit stays in your home or office for more than 90 days. A long-term test will give more accurate results.</li>
+      </ul>
+      <p>If you have questions about radon in your house, you can get help from the EPA by calling 1-800-55-RADON (1-800-557-2366).</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/lung-cancer/tc/radon-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/lung-cancer/tc/radon-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/lung-cancer/tc/radon-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/lung-cancer/tc/radon-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/lung-cancer/tc/radon-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/lung-cancer/tc/radon-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: December 27, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/lung-cancer/tc/radon-topic-overview">Topic Overview</option><option value="http://www.webmd.com/lung-cancer/tc/radon-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/lung-cancer/tc/radon-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/lung-cancer/tc/radon-related-information">Related Information</option><option value="http://www.webmd.com/lung-cancer/tc/radon-references">References</option><option value="http://www.webmd.com/lung-cancer/tc/radon-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Radon Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/radon-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/radon-frequently-asked-questions" onclick="return sl(this,'','topicNav_2');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/radon-other-places-to-get-help" onclick="return sl(this,'','topicNav_3');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/radon-related-information" onclick="return sl(this,'','topicNav_4');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/radon-references" onclick="return sl(this,'','topicNav_5');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/lung-cancer/tc/radon-credits" onclick="return sl(this,'','topicNav_6');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1071"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/smoking-cessation/video/quit-smoking-aids" onclick="return sl(this,'','rltd-p-1071_1');">Which Quit Smoking Aid Is Right For You?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cancer/what-to-expect-from-radiation-therapy" onclick="return sl(this,'','rltd-p-1071_2');">What to Expect During Radiation Therapy</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/cancer/bone-metastasis-11/common-cancers-metastasize-bone" onclick="return sl(this,'','rltd-p-1071_3');">Lung Cancer's Link to Bone Metastasis</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/smoking-cessation/ss/slideshow-13-best-quit-smoking-tips-ever" onclick="return sl(this,'','rltd-p-1071_4');">13 Best Quit-Smoking Tips Ever</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/lung/lung-disease-health-check/default.htm" onclick="return sl(this,'','rltd-p-1071_5');">Breathless? Take the COPD Health Check</a> </li> 
+     <li id="x67" class="last"> <a class="type_vid" href="http://www.webmd.com/lung-cancer/video/detect-lung-cancer" onclick="return sl(this,'','rltd-p-1071_6');">Detecting Lung Cancer With Phlegm<i> </i></a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1071_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2134782100&amp;tile=660251231&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=918&amp;scent=848&amp;pos=5000&amp;xpg=1822&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2flung-cancer%2ftc%2fradon-topic-overview&amp;artid=091e9c5e8001d475&amp;inst=0&amp;leaf=706&amp;cc=16&amp;tmg=1&amp;bc=_sex2_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2134782100&amp;amp;tile=660251231&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=918&amp;amp;scent=848&amp;amp;pos=5000&amp;amp;xpg=1822&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2flung-cancer%2ftc%2fradon-topic-overview&amp;amp;artid=091e9c5e8001d475&amp;amp;inst=0&amp;amp;leaf=706&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_sex2_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1822";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2134782100&amp;tile=660251231&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=918&amp;scent=848&amp;pos=5001&amp;xpg=1822&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2flung-cancer%2ftc%2fradon-topic-overview&amp;artid=091e9c5e8001d475&amp;inst=0&amp;leaf=706&amp;cc=16&amp;tmg=1&amp;bc=_sex2_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2134782100&amp;amp;tile=660251231&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=918&amp;amp;scent=848&amp;amp;pos=5001&amp;amp;xpg=1822&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2flung-cancer%2ftc%2fradon-topic-overview&amp;amp;artid=091e9c5e8001d475&amp;amp;inst=0&amp;amp;leaf=706&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_sex2_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1822";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

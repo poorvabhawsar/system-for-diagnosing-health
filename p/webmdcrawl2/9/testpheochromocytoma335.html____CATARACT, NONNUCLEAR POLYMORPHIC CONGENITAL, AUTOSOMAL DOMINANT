@@ -1,0 +1,509 @@
+<title>Pheochromocytoma</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/cancer/video/men-bladder-cancer" class="type_vid" onclick="return sl(this,'','lln-toolsres_1');">Bladder Cancer in Men<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Assess Your Cancer Risk</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/breast-cancer/slideshow-breast-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">Breast Cancer: A Visual Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cancer/video/humor-therapy-cancer" class="type_vid" onclick="return sl(this,'','lln-toolsres_4');">Humor Therapy for Cancer<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/cancer/pancreatic-cancer/slideshow-pancreatic-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_5');">Understanding Pancreatic Cancer<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/lung-cancer/slideshow-lung-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_6');">Lung Cancer: The Big Picture<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e8054f59a"><metadata_section><i_chronicle_id>091e9c5e800f418c</i_chronicle_id><r_object_id>091e9c5e8054f59a</r_object_id><title>General Information</title><object_name>ncicdr0000062928-General_Information.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e8054f59a</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e8015ba98</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>Some material in CancerNet™ is from copyrighted publications of the respective copyright claimants. Users of CancerNet™ are referred to the publication data appearing in the bibliographic citations, as well as to the copyright notices appearing in the original publication, all of which are hereby incorporated by reference. </wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>nci_ncicdr0000062928-general-information</wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl>Pheochromocytoma</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378509</r_object_id><publ_i_chronicle_id>091e9c5e8001915b</publ_i_chronicle_id><wbmd_publ_name>Healthwise - NCI</wbmd_publ_name><wbmd_publ_display>WebMD Public Information from the National Cancer Institute</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Pheochromocytoma is a rare tumor of chromaffin cells most commonly arising from the adrenal medulla.  An estimated 800 cases are diagnosed yearly in the United States.  The peak incidence is in the third to fifth decades of life.  Bilateral disease is present in approximately 10% of patients.  Bilaterality is much more common in familial pheochromocytoma and is often found in association with the </wbmd_desc_meta><wbmd_orig_pub_dt>03/09/2010 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Pheochromocytoma is a rare tumor of chromaffin cells most commonly arising from the adrenal medulla.  An estimated 800 cases are diagnosed yearly in the United States.  The peak incidence is in the third to fifth decades of life.  Bilateral disease is present in approximately 10% of patients.  Bilaterality is much more common in familial pheochromocytoma and is often found in association with the </wbmd_desc_user><wbmd_lk_ttl>Pheochromocytoma</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Pheochromocytoma</wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>C74.1</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>H16</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>cust1</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>sex.2</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e8054f59a</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="2946" wbmd_disp_nm="Cancer"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1022" wbmd_disp_nm="Cancer"></wbmd_c_channel_id><wbmd_c_frnd_nm>Pheochromocytoma-Treatment-Health-Professional-Information-NCI-PDQ-General-Information</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>General Information</title><pages><page><section_group><section_header></section_header><section_type>Vendor</section_type><section_text><a name="ncicdr0000062928-general-information"></a><p>Pheochromocytoma is a rare tumor of chromaffin cells most commonly arising from the adrenal medulla. An estimated 800 cases are diagnosed yearly in the United States. The peak incidence is in the third to fifth decades of life. Bilateral disease is present in approximately 10% of patients. Bilaterality is much more common in familial pheochromocytoma and is often found in association with the familial multiple endocrine neoplasia syndromes (MEN, types 2A and 2B). In patients with MEN type 2 syndromes, the risk of developing a contralateral tumor following unilateral adrenalectomy is approximately 50%.[<a bookmark="s2.1" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">1</a>] Other syndromes associated with pheochromocytoma include neurofibromatosis, von Hippel-<a chronic_id="" crossLinkId="32713" directive="friendlyurl" externalId="091e9c5e8001ed56" href="/webmd/consumer_assets/controlled_content/healthwise/nord/Von_Hippel_Lindau_Disease.xml" keywordId="41569" keywordSetId="10061" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/nord/Von_Hippel_Lindau_Disease.xml">Lindau disease</a>, cerebellar hemangioblastoma, Sturge-Weber syndrome, and <a chronic_id="" crossLinkId="32517" directive="friendlyurl" externalId="091e9c5e8001ec48" href="/webmd/consumer_assets/controlled_content/healthwise/nord/Tuberous_Sclerosis_10961.xml" keywordId="41357" keywordSetId="10017" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/nord/Tuberous_Sclerosis_10961.xml">tuberous sclerosis</a>. In a series of 82 unselected patients with pheochromocytoma, 23% were found to be carriers of associated familial disorders.[<a bookmark="s2.2" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">2</a>] Therefore, all patients with pheochromocytomas should be screened for MEN2 and von Hippel-Lindau disease to avert further morbidity and mortality in the patients and their families. Extra-adrenal pheochromocytoma or functional paraganglioma occurs in approximately 10% to 15% of cases and may arise from any extra-adrenal chromaffin tissue in the body associated with sympathetic ganglia. </p><p>Extra-adrenal pheochromocytoma is most often located within the abdomen and may have greater malignant potential than adrenal pheochromocytoma.[<a bookmark="s2.3" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">3</a>,<a bookmark="s2.4" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">4</a>] Extra-adrenal tumors usually have a poorer prognosis than adrenal tumors.[<a bookmark="s2.3" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">3</a>,<a bookmark="s2.4" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">4</a>] In one series of 73 patients referred to tertiary care centers, however, no difference was found in the metastatic potential or the prognosis of extra-adrenal tumors compared to adrenal tumors.[<a bookmark="s2.5" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">5</a>] Because of the production and release of <a chronic_id="" crossLinkId="34192" directive="friendlyurl" externalId="091e9c5e8001f06d" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Catecholamines_14697.xml" keywordId="8402" keywordSetId="1948" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Catecholamines_14697.xml">catecholamines</a>, pheochromocytomas <a chronic_id="" crossLinkId="31519" directive="friendlyurl" externalId="4E118B21F60E42BC" href="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-overview-facts" keywordId="32461" keywordSetId="8303" object_type="" path="/webmdhttp://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-overview-facts">cause hypertension</a>. Only 0.1% to 0.5% of all <a chronic_id="091e9c5e800232f5" crossLinkId="536" directive="friendlyurl" externalId="091e9c5e800232f5" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hypertension Health Center/page_Hypertension Health Center_091e9c5e800232f5.xml" keywordId="7630" keywordSetId="1371" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hypertension Health Center/page_Hypertension Health Center_091e9c5e800232f5.xml">hypertension</a> patients, however, will be found to have a pheochromocytoma. The importance of the recognition of this disease is that more than 90% of patients properly diagnosed and treated are curable.[<a bookmark="s2.4" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">4</a>,<a bookmark="s2.6" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">6</a>,<a bookmark="s2.7" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">7</a>,<a bookmark="s2.8" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">8</a>,<a bookmark="s2.9" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">9</a>,<a bookmark="s2.10" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">10</a>]</p><p>The hypertension caused by pheochromocytoma may be sustained or paroxysmal and is often severe with occasional malignant features of encephalopathy, retinopathy, and proteinuria. Less commonly, severe hypertensive reactions may occur during incidental surgery, following trauma, <a chronic_id="091e9c5e80044b2e" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80044b2e" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Fitness Center TOC Page/page_Health and Fitness Center_091e9c5e80044b2e.xml" keywordId="35030" keywordSetId="8746" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Fitness Center TOC Page/page_Health and Fitness Center_091e9c5e80044b2e.xml">exercise</a>, or micturition (in the setting of bladder pheochromocytoma) when the diagnosis is unsuspected. Other clinical features of pheochromocytoma include <a chronic_id="091e9c5e8002394a" crossLinkId="189" directive="friendlyurl" externalId="091e9c5e8002394a" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml" keywordId="7521" keywordSetId="1291" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml">headache</a>, sweating, palpitation, tachycardia, and severe <a chronic_id="091e9c5e8003c115" crossLinkId="452" directive="friendlyurl" externalId="091e9c5e8003c115" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.xml" keywordId="31072" keywordSetId="8074" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.xml">anxiety</a> along with epigastric or <a chronic_id="" crossLinkId="47596" directive="friendlyurl" externalId="091e9c5e8001e4ea" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/Chest_Pain-Topic_Overview.xml" keywordId="32938" keywordSetId="8361" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/Chest_Pain-Topic_Overview.xml">chest pain</a>. Orthostatic hypotension is frequently present and is probably caused by reduced intravascular volume following chronic adrenergic stimulation. </p><p>The diagnosis of pheochromocytoma is established by the demonstration of elevated 24-hour urinary excretion of free catecholamines (norepinephrine and <a chronic_id="" crossLinkId="64627" directive="friendlyurl" externalId="93171" href="http://www.webmd.com/drugs/drug-93171-epinephrine+im.aspx" keywordId="53106" keywordSetId="20715" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-93171-epinephrine+im.aspx">epinephrine</a>) or catecholamine metabolites (vanillylmandelic acid and total metanephrines). The measurement of plasma catecholamines can also be of value in the diagnosis of pheochromocytoma. The measurement of plasma catecholamines, however, has limited sensitivity and specificity. Plasma metanephrines have been reported to be more sensitive than plasma catecholamines. When 52 patients with pheochromocytoma were studied, every patient was found to have elevated plasma levels of metanephrines, but eight of the patients had normal levels of plasma catecholamines.[<a bookmark="s2.11" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">11</a>] Pharmacologic testing with agents such as glucagon or <a chronic_id="" crossLinkId="31211" directive="friendlyurl" externalId="11754" href="http://www.webmd.com/drugs/drug-11754-Clonidine+Oral.aspx?drugid=11754&amp;drugname=Clonidine+Oral" keywordId="7129" keywordSetId="1005" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-11754-Clonidine+Oral.aspx?drugid=11754&amp;drugname=Clonidine+Oral">clonidine</a> is rarely required to make the diagnosis.[<a bookmark="s2.12" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">12</a>,<a bookmark="s2.13" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">13</a>]</p></section_text></section_group></page><page><section_group><section_header is_continued="true"> continued...</section_header><section_type>Vendor</section_type><section_text><p>Once the diagnosis is confirmed by biochemical determinations, the localization and extent of disease should be determined.[<a bookmark="s2.9" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">9</a>] Ninety-seven percent of the tumors are found in the abdomen, 2% to 3% are found in the thorax, and 1% are found in the neck. The initial studies should be a chest film and abdominal computed tomographic (CT) scan. I<sup>131</sup> meta-iodobenzylguanidine (MIBG) has been found to be useful as a scintigraphic localization agent.[<a bookmark="s2.14" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">14</a>,<a bookmark="s2.15" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">15</a>] If the tumor is not adequately localized by these methods, then <a chronic_id="" crossLinkId="42645" directive="friendlyurl" externalId="091e9c5e8001f07f" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Magnetic_Resonance_Imaging_MRI.xml" keywordId="7831" keywordSetId="1521" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Magnetic_Resonance_Imaging_MRI.xml">magnetic resonance imaging</a> (<a chronic_id="" crossLinkId="42645" directive="friendlyurl" externalId="091e9c5e8001f07f" href="http://www.webmd.com/a-to-z-guides/magnetic-resonance-imaging-mri" keywordId="37777" keywordSetId="7728" object_type="" path="/webmdhttp://www.webmd.com/a-to-z-guides/magnetic-resonance-imaging-mri">MRI</a>), or rarely, vena cava catheterization with selective venous sampling for catecholamines may be indicated.[<a bookmark="s2.16" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">16</a>] CT and MRI scans are about equally sensitive (98% to 100%), while MIBG scanning has a sensitivity of only 80%. MIBG scanning, however, has a specificity of 100%, compared to a specificity of 70% for CT and MRI.[<a bookmark="s2.12" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">12</a>] If extra-adrenal or metastatic disease is suspected, additional studies such as <a chronic_id="" crossLinkId="50642" directive="friendlyurl" externalId="091e9c5e8001f08b" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Bone_Scan.xml" keywordId="6994" keywordSetId="907" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Bone_Scan.xml">bone scan</a>, liver-<a chronic_id="091e9c5e8034e3f1" crossLinkId="70311" directive="friendlyurl" externalId="091e9c5e8034e3f1" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_spleen.xml" keywordId="58452" keywordSetId="25861" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_spleen.xml">spleen</a> scan, chest <a chronic_id="" crossLinkId="44946" directive="friendlyurl" externalId="091e9c5e8001f058" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Computed_Tomography_CT_Scan_of_the_Body.xml" keywordId="7212" keywordSetId="1060" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Computed_Tomography_CT_Scan_of_the_Body.xml">CT scan</a>, or <a chronic_id="" crossLinkId="43076" directive="friendlyurl" externalId="091e9c5e8001f05c" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Doppler_Ultrasound.xml" keywordId="41424" keywordSetId="10032" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Doppler_Ultrasound.xml">ultrasound</a> may aid in determining the extent of disease. </p><p>Surgical resection is the standard curative modality.[<a bookmark="s2.17" document-type="Nci" href="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml" directive="friendlyurl" chronic_id="091e9c5e800f418c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.xml">17</a>] If the primary tumor is localized to the adrenal gland and is benign, then survival is that of the normal age-matched population. In patients with unresectable, recurrent, or metastatic disease, long-term survival is possible; the overall 5-year survival, however, is less than 50%. Pharmacologic treatment of the catecholamine excess is mandatory and surgery, <a chronic_id="091e9c5e804d6f9a" crossLinkId="1049001" directive="friendlyurl" externalId="091e9c5e804d6f9a" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_to_expect_from_radiation_therapy.xml" keywordId="61840" keywordSetId="27679" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_to_expect_from_radiation_therapy.xml">radiation</a> therapy, or chemotherapy may provide palliative benefit. </p><p><b>References:</b><br></p><ol><li><a name="s2.1"></a> Lairmore TC, Ball DW, Baylin SB, et al.: Management of pheochromocytomas in patients with multiple endocrine neoplasia type 2 syndromes. Ann Surg 217 (6): 595-601; discussion 601-3, 1993.</li><li><a name="s2.2"></a> Neumann HP, Berger DP, Sigmund G, et al.: Pheochromocytomas, multiple endocrine neoplasia type 2, and von Hippel-Lindau disease. N Engl J Med 329 (21): 1531-8, 1993.</li><li><a name="s2.3"></a> Sclafani LM, Woodruff JM, Brennan MF: Extraadrenal retroperitoneal paragangliomas: natural history and response to treatment. Surgery 108 (6): 1124-9; discussion 1129-30, 1990.</li><li><a name="s2.4"></a> Whalen RK, Althausen AF, Daniels GH: Extra-adrenal pheochromocytoma. J Urol 147 (1): 1-10, 1992.</li><li><a name="s2.5"></a> Pommier RF, Vetto JT, Billingsly K, et al.: Comparison of adrenal and extraadrenal pheochromocytomas. Surgery 114 (6): 1160-5; discussion 1165-6, 1993.</li><li><a name="s2.6"></a> Manger WM, Gifford RW: Pheochromocytoma. New York: Springer-Verlag, 1977.</li><li><a name="s2.7"></a> Norton JA: Adrenal tumors. In: DeVita VT Jr, Hellman S, Rosenberg SA, eds.: <a chronic_id="" crossLinkId="31192" directive="friendlyurl" externalId="9A13E96B1FF14D08" href="http://www.webmd.com/cancer/" keywordId="7043" keywordSetId="942" object_type="" path="/webmdhttp://www.webmd.com/cancer/">Cancer</a>: Principles and Practice of Oncology. 7th ed. Philadelphia, Pa: Lippincott Williams &amp;amp; Wilkins, 2005, pp 1528-39.</li><li><a name="s2.8"></a> Young JB, Landsberg L: Catecholamines and the adrenal medulla: pheochromocytoma. In: Wilson JD, Foster DW, Kronenberg HM, et al., eds.: Williams Textbook of Endocrinology. 9th ed. Philadelphia, Pa: W.B. Saunders Company, 1998, pp 705-716.</li><li><a name="s2.9"></a> Bravo EL, Gifford RW Jr: Current concepts. Pheochromocytoma: diagnosis, localization and management. N Engl J Med 311 (20): 1298-303, 1984.</li><li><a name="s2.10"></a> Remine WH, Chong GC, Van Heerden JA, et al.: Current management of pheochromocytoma. Ann Surg 179 (5): 740-8, 1974.</li><li><a name="s2.11"></a> Lenders JW, Keiser HR, Goldstein DS, et al.: Plasma metanephrines in the diagnosis of pheochromocytoma. Ann Intern Med 123 (2): 101-9, 1995.</li><li><a name="s2.12"></a> Bravo EL: Evolving concepts in the pathophysiology, diagnosis, and treatment of pheochromocytoma. Endocr Rev 15 (3): 356-68, 1994.</li><li><a name="s2.13"></a> Sjoberg RJ, Simcic KJ, Kidd GS: The clonidine suppression test for pheochromocytoma. A review of its utility and pitfalls. Arch Intern Med 152 (6): 1193-7, 1992.</li><li><a name="s2.14"></a> McEwan AJ, Shapiro B, Sisson JC, et al.: Radio-iodobenzylguanidine for the scintigraphic location and therapy of adrenergic tumors. Semin Nucl Med 15 (2): 132-53, 1985.</li><li><a name="s2.15"></a> Shapiro B, Copp <a chronic_id="" crossLinkId="32169" directive="friendlyurl" externalId="091e9c5e8001efc8" href="/webmd/consumer_assets/controlled_content/healthwise/nord/Encephalitis_Japanese.xml" keywordId="36816" keywordSetId="9074" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/nord/Encephalitis_Japanese.xml">JE</a>, Sisson JC, et al.: Iodine-131 metaiodobenzylguanidine for the locating of suspected pheochromocytoma: experience in 400 cases. J Nucl Med 26 (6): 576-85, 1985.</li><li><a name="s2.16"></a> Fink IJ, Reinig JW, Dwyer AJ, et al.: MR imaging of pheochromocytomas. J Comput Assist Tomogr 9 (3): 454-8, 1985 May-Jun.</li><li><a name="s2.17"></a> Brennan MF, Keiser HR: Persistent and recurrent pheochromocytoma: the role of surgery. World J Surg 6 (4): 397-402, 1982.</li></ol></section_text></section_group></page><page><section_group><section_header></section_header><section_type>float</section_type><section_text><table><tr><td valign="top"><img align="top" alt="" height="64" src="/webmd/consumer_assets/site_images/media/medical/nci/ncired.gif" type="medical" width="101" directive="imageurl" chronic_id="" object_type="" path="/webmd/consumer_assets/site_images/media/medical/nci/ncired.gif"></td><td width="12"> </td><td valign="top" width="308"><p><span class="Size1">This information is produced and provided by the National Cancer Institute (NCI). The information in this topic may have changed since it was written. For the most current information, contact the National Cancer Institute via the Internet web site at http://cancer.gov or call 1-800-4-CANCER </span></p></td></tr></table><h3>Pheochromocytoma Treatment</h3></section_text></section_group></page></pages><citations></citations></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information" owner="false"><breadcrumb><bread piece="Cancer Health Center" prefix="www" friendlyurl="/cancer/default.htm"></bread><bread piece="Cancer Related Topics" prefix="www" friendlyurl="/cancer/tc/default.htm"></bread></breadcrumb><centers><Super id="848" name="super center" chronicid="091e9c5e80024a11" prefix="www" friendlyurl="/cancer/default.htm" type="">Cancer</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e800f418c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/nci/ncicdr0000062928-General_Information.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information"></target></object><object chronic_id="091e9c5e800232f5" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hypertension Health Center/page_Hypertension Health Center_091e9c5e800232f5.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/default.htm" umtchronicleid="091e9c5e807bd3c1"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/high-blood-pressure-treatment-directory" umtchronicleid="091e9c5e807bd3c1"></target></object><object chronic_id="091e9c5e80044b2e" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Fitness Center TOC Page/page_Health and Fitness Center_091e9c5e80044b2e.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/fitness-toc-old" umtchronicleid="091e9c5e80688e40"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target></object><object chronic_id="091e9c5e8002394a" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/migraines-headaches/default.htm"></target></object><object chronic_id="091e9c5e8003c115" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/anxiety-panic/default.htm"></target></object><object chronic_id="091e9c5e8034e3f1" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_spleen.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-spleen"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-spleen"></target></object><object chronic_id="091e9c5e804d6f9a" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_to_expect_from_radiation_therapy.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cancer/what-to-expect-from-radiation-therapy"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/what-to-expect-from-radiation-therapy"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><dynamic_objects><callout_title>Recommended Related to Cancer</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80939f37"><metadata_section><i_chronicle_id>091e9c5e8035f679</i_chronicle_id><title>More Information</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>
+
+  Additional Information about CAM Therapies
+
+
+  The National Center for Complementary and Alternative Medicine (NCCAM).
+  The National Cancer Institute Office of Cancer Complementary and Alternative Medicine (OCCAM).
+  CAM on PubMed, a special subset of the PubMed scientific literature database created through a partnership between NCCAM and the National Library of Medicine.
+
+
+  About PDQ
+
+
+  PDQ® - NCI's Comprehensive Cancer DatabaseFull description of the NCI PDQ database.
+
+
+...</p></section_text><link siteid="3" prefix="www" friendlyurl="/cancer/tc/ncicdr0000062975-more-information"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>General Information</h2>
+     <div class="hwDefinition_fmt">
+      <h3></h3>
+      <a name="ncicdr0000062928-general-information"></a>
+      <p>Pheochromocytoma is a rare tumor of chromaffin cells most commonly arising from the adrenal medulla. An estimated 800 cases are diagnosed yearly in the United States. The peak incidence is in the third to fifth decades of life. Bilateral disease is present in approximately 10% of patients. Bilaterality is much more common in familial pheochromocytoma and is often found in association with the familial multiple endocrine neoplasia syndromes (MEN, types 2A and 2B). In patients with MEN type 2 syndromes, the risk of developing a contralateral tumor following unilateral adrenalectomy is approximately 50%.[<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.1" onclick="return sl(this,'','embd-lnk');">1</a>] Other syndromes associated with pheochromocytoma include neurofibromatosis, von Hippel-Lindau disease, cerebellar hemangioblastoma, Sturge-Weber syndrome, and tuberous sclerosis. In a series of 82 unselected patients with pheochromocytoma, 23% were found to be carriers of associated familial disorders.[<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.2" onclick="return sl(this,'','embd-lnk');">2</a>] Therefore, all patients with pheochromocytomas should be screened for MEN2 and von Hippel-Lindau disease to avert further morbidity and mortality in the patients and their families. Extra-adrenal pheochromocytoma or functional paraganglioma occurs in approximately 10% to 15% of cases and may arise from any extra-adrenal chromaffin tissue in the body associated with sympathetic ganglia. </p>
+      <p>Extra-adrenal pheochromocytoma is most often located within the abdomen and may have greater malignant potential than adrenal pheochromocytoma.[<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.3" onclick="return sl(this,'','embd-lnk');">3</a>,<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.4" onclick="return sl(this,'','embd-lnk');">4</a>] Extra-adrenal tumors usually have a poorer prognosis than adrenal tumors.[<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.3" onclick="return sl(this,'','embd-lnk');">3</a>,<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.4" onclick="return sl(this,'','embd-lnk');">4</a>] In one series of 73 patients referred to tertiary care centers, however, no difference was found in the metastatic potential or the prognosis of extra-adrenal tumors compared to adrenal tumors.[<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.5" onclick="return sl(this,'','embd-lnk');">5</a>] Because of the production and release of catecholamines, pheochromocytomas <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-overview-facts">cause hypertension</a>. Only 0.1% to 0.5% of all <a href="http://www.webmd.com/hypertension-high-blood-pressure/default.htm" onclick="return sl(this,'','embd-lnk');">hypertension</a> patients, however, will be found to have a pheochromocytoma. The importance of the recognition of this disease is that more than 90% of patients properly diagnosed and treated are curable.[<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.4" onclick="return sl(this,'','embd-lnk');">4</a>,<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.6" onclick="return sl(this,'','embd-lnk');">6</a>,<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.7" onclick="return sl(this,'','embd-lnk');">7</a>,<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.8" onclick="return sl(this,'','embd-lnk');">8</a>,<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.9" onclick="return sl(this,'','embd-lnk');">9</a>,<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.10" onclick="return sl(this,'','embd-lnk');">10</a>]</p>
+      <p>The hypertension caused by pheochromocytoma may be sustained or paroxysmal and is often severe with occasional malignant features of encephalopathy, retinopathy, and proteinuria. Less commonly, severe hypertensive reactions may occur during incidental surgery, following trauma, <a href="http://www.webmd.com/fitness-exercise/fitness-toc-old" onclick="return sl(this,'','embd-lnk');">exercise</a>, or micturition (in the setting of bladder pheochromocytoma) when the diagnosis is unsuspected. Other clinical features of pheochromocytoma include <a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">headache</a>, sweating, palpitation, tachycardia, and severe <a href="http://www.webmd.com/anxiety-panic/default.htm" onclick="return sl(this,'','embd-lnk');">anxiety</a> along with epigastric or chest pain. Orthostatic hypotension is frequently present and is probably caused by reduced intravascular volume following chronic adrenergic stimulation. </p>
+      <p>The diagnosis of pheochromocytoma is established by the demonstration of elevated 24-hour urinary excretion of free catecholamines (norepinephrine and <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-93171-epinephrine+im.aspx">epinephrine</a>) or catecholamine metabolites (vanillylmandelic acid and total metanephrines). The measurement of plasma catecholamines can also be of value in the diagnosis of pheochromocytoma. The measurement of plasma catecholamines, however, has limited sensitivity and specificity. Plasma metanephrines have been reported to be more sensitive than plasma catecholamines. When 52 patients with pheochromocytoma were studied, every patient was found to have elevated plasma levels of metanephrines, but eight of the patients had normal levels of plasma catecholamines.[<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.11" onclick="return sl(this,'','embd-lnk');">11</a>] Pharmacologic testing with agents such as glucagon or <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-11754-Clonidine+Oral.aspx?drugid=11754&amp;drugname=Clonidine+Oral">clonidine</a> is rarely required to make the diagnosis.[<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.12" onclick="return sl(this,'','embd-lnk');">12</a>,<a href="http://www.webmd.com/cancer/tc/pheochromocytoma-treatment-health-professional-information-nci-pdq-general-information#s2.13" onclick="return sl(this,'','embd-lnk');">13</a>]</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=3">3</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a><span class="pipe_fmt">|</span><a href="?page=3">3</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+		
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Public Information from the National Cancer Institute</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: March 09, 2010
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - NCI';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1022"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/cancer/features/15-cancer-symptoms-women-ignore" onclick="return sl(this,'','rltd-p-1022_1');">15 Cancer Symptoms Women Ignore</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cancer/video/sleep-and-cancer" onclick="return sl(this,'','rltd-p-1022_2');">Sleep Problems and Cancer</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/cancer/features/see-cancer-specialist" onclick="return sl(this,'','rltd-p-1022_3');">Cancer: Should You See a Specialist?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/cancer/features/8-ways-to-lower-cancer-risk" onclick="return sl(this,'','rltd-p-1022_4');">8 Ways to Lower Your Cancer Risk</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/cancer/video/chemo-nausea-side-effect" onclick="return sl(this,'','rltd-p-1022_5');">Chemotherapy Side Effects</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/melanoma-skin-cancer/slideshow-precancerous-skin-lesions-and-skin-cancer" onclick="return sl(this,'','rltd-p-1022_6');">See What Skin Cancer Looks Like</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1022_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1312687699&amp;tile=1485961238&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=848&amp;pos=5000&amp;xpg=2946&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fcancer%2ftc%2fpheochromocytoma-treatment-health-professional-information-nci-pdq-general-information&amp;artid=091e9c5e800f418c&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_c741_cust4_h16_cust1_sex2_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1312687699&amp;amp;tile=1485961238&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=848&amp;amp;pos=5000&amp;amp;xpg=2946&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fcancer%2ftc%2fpheochromocytoma-treatment-health-professional-information-nci-pdq-general-information&amp;amp;artid=091e9c5e800f418c&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_c741_cust4_h16_cust1_sex2_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2946";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1312687699&amp;tile=1485961238&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=848&amp;pos=5001&amp;xpg=2946&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fcancer%2ftc%2fpheochromocytoma-treatment-health-professional-information-nci-pdq-general-information&amp;artid=091e9c5e800f418c&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_c741_cust4_h16_cust1_sex2_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1312687699&amp;amp;tile=1485961238&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=848&amp;amp;pos=5001&amp;amp;xpg=2946&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fcancer%2ftc%2fpheochromocytoma-treatment-health-professional-information-nci-pdq-general-information&amp;amp;artid=091e9c5e800f418c&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_c741_cust4_h16_cust1_sex2_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2946";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,562 @@
+<title>Rash, Age 12 and Older-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/shingles-chickenpox" onclick="return sl(this,'','tools-res_1');"> What Causes Shingles?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent1209&amp;ch=18" onclick="return sl(this,'','tools-res_2');">Signs of Gum Disease</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://teens.webmd.com/rm-quiz-teen-acne" onclick="return sl(this,'','tools-res_3');">Teen Acne: Myths and Facts</a></li>
+      <li id="x59"><a href="https://www.webmd.com/lupus/d2n-coping-with-lupus-11/default.htm?scene=morning&amp;vid=5" onclick="return sl(this,'','tools-res_4');">Skin Care for Lupus</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/skin-problems-and-treatments/psoriasis/psoriasis-health-check/psoriasis-hc" onclick="return sl(this,'','tools-res_5');">Psoriasis? Assess Your Symptoms</a></li>
+      <li id="x61"><a href="http://www.webmd.com/skin-problems-and-treatments/teen-acne-10/clear-skin-slideshow" class="type_ss" onclick="return sl(this,'','tools-res_6');">16 Tips for Clear Skin<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="rightHeader_rdr"> 
+      <div class="font_sizer_fmt"> 
+       <div class="font_sizer_text_fmt">
+        Font Size
+       </div> 
+       <div class="font_sizer_001_fmt"> 
+       </div> 
+       <div id="fs_01" class="font_sizer_002b_fmt"> 
+        <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+       </div> 
+       <div id="fs_02" class="font_sizer_002a_fmt"> 
+        <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+       </div> 
+       <div id="fs_03" class="font_sizer_002a_fmt"> 
+        <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+       </div> 
+       <div class="font_sizer_003_fmt"> 
+       </div> 
+      </div> 
+      <div class="topicArtNav_rdr" id="TopicListCenter"> 
+       <div class="header_fmt"> 
+        <h4>Rash,Age 12 and Older Topics </h4> 
+       </div> 
+       <ul class="topicList_fmt"> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview" onclick="return sl(this,'','aia-topicNav_1');">Topic Overview</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms" onclick="return sl(this,'','aia-topicNav_2');">Check Your Symptoms</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-home-treatment" onclick="return sl(this,'','aia-topicNav_3');">Home Treatment</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-prevention" onclick="return sl(this,'','aia-topicNav_4');">Prevention</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-preparing-for-your-appointment" onclick="return sl(this,'','aia-topicNav_5');">Preparing For Your Appointment</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-related-information" onclick="return sl(this,'','aia-topicNav_6');">Related Information</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-credits" onclick="return sl(this,'','aia-topicNav_7');">Credits</a> </li> 
+       </ul> 
+      </div> 
+      <script language="javascript" type="text/javascript">
+				highlightCenter();
+	</script> 
+     </div> 
+     <h2>Rash,Age 12 and Older - Topic Overview</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <div class="hwDefinition_fmt"> 
+      <p>Healthy skin provides a barrier between the inside of the body and the outside environment. A <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview" onclick="return sl(this,'','embd-lnk');">rash</a> means some change has affected the <a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-the-skin" onclick="return sl(this,'','embd-lnk');">skin</a>.</p> 
+      <p>Rashes are generally caused by skin irritation, which can have many causes. A rash is generally a minor problem that may go away with home treatment. In some cases a rash does not go away or the skin may become so irritated that medical care is needed.</p> 
+      <p>In adults and older children, rashes are often caused by contact with a substance that irritates the skin (<a href="http://www.webmd.com/skin-problems-and-treatments/contact-dermatitis-rash" onclick="return sl(this,'hw','embd-lnk');">contact dermatitis</a><a href="http://www.webmd.com/skin-problems-and-treatments/contact-dermatitis-rash" onclick="return sl(this,'hw','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>). The rash usually starts within 48 hours after contact with the irritating substance. Contact dermatitis may cause mild redness of the skin or a rash of small red bumps. A more severe reaction may cause swelling, redness, and larger <a href="http://www.webmd.com/skin-problems-and-treatments/guide/understanding-blisters-basics" onclick="return sl(this,'','embd-lnk');">blisters</a>. The location of the rash may give you a clue about the cause.</p> 
+      <p>Contact dermatitis does not always occur the first time you are in contact with the irritating substance (<a href="http://www.webmd.com/hw-popup/allergen" onclick="return sl(this,'hw','embd-lnk');">allergen</a>). After you have had a reaction to the substance, a rash can occur in response to even very small amounts of the substance. Contact dermatitis is not serious, but it is often very itchy. Common causes of contact dermatitis include:</p> 
+      <ul> 
+       <li>Poisonous plants, such as <a href="http://www.webmd.com/hw-popup/poison-ivy-oak-and-sumac" onclick="return sl(this,'hw','embd-lnk');">poison ivy, oak, or sumac</a>.</li> 
+       <li>Soaps, detergents, shampoos, perfumes, cosmetics, or lotions.</li> 
+       <li>Jewelry or fabrics.</li> 
+       <li>New tools, toys, appliances, or other objects.</li> 
+       <li> <a href="http://www.webmd.com/allergies/allergy-to-natural-rubber-latex" onclick="return sl(this,'hw','embd-lnk');">Latex</a>. <a href="http://www.webmd.com/allergies/default.htm" onclick="return sl(this,'','embd-lnk');">Allergy</a> to natural rubber latex affects people who are exposed to rubber products on a regular basis, especially <a href="http://www.webmd.com/health-insurance/default.htm" onclick="return sl(this,'','embd-lnk');">health care</a> workers, rubber industry workers, and people who have had multiple surgeries. <a href="http://www.webmd.com/skin-problems-and-treatments/latex-allergy" onclick="return sl(this,'','embd-lnk');">Latex allergies</a> can cause a severe reaction. </li> 
+      </ul> 
+      <p>Rashes may occur with <a href="http://www.webmd.com/a-to-z-guides/bacterial-and-viral-infections" onclick="return sl(this,'','embd-lnk');">viral infections</a>, such as <a href="http://www.webmd.com/hw-popup/shingles-def" onclick="return sl(this,'hw','embd-lnk');">herpes zoster</a>; fungal infections, such as a yeast infection (<i>Candida albicans</i>); bacterial infections, such as <a href="http://www.webmd.com/hw-popup/impetigo" onclick="return sl(this,'hw','embd-lnk');">impetigo;</a> and <a href="http://www.webmd.com/hw-popup/sexually-transmitted-diseases-stds" onclick="return sl(this,'hw','embd-lnk');">sexually transmitted infections (STIs)</a>. Rashes may also occur as a symptom of a more serious disease, such as <a href="http://www.webmd.com/digestive-disorders/picture-of-the-liver" onclick="return sl(this,'','embd-lnk');">liver</a> disease, <a href="http://www.webmd.com/urinary-incontinence-oab/picture-of-the-kidneys" onclick="return sl(this,'','embd-lnk');">kidney</a> disease, or some types of <a onclick="return sl(this,'','embd-lnk');" chronic_id="" crosslinkid="31192" directive="friendlyurl" externalid="9A13E96B1FF14D08" href="http://www.webmd.com/cancer/" keywordid="7043" keywordsetid="942" object_type="" path="/webmdhttp://www.webmd.com/cancer/">cancer</a>. </p> 
+      <p>Rashes may also appear after exposure to an insect or a parasite, such as the <a href="http://www.webmd.com/hw-popup/scabies" onclick="return sl(this,'hw','embd-lnk');">scabies</a> mite. You may develop a rash when you travel to a rural area or go hiking or camping in the woods. </p> 
+      <p>A rash may be a sign of a chronic skin problem, such as <a href="http://www.webmd.com/hw-popup/acne" onclick="return sl(this,'hw','embd-lnk');">acne</a>, <a href="http://www.webmd.com/hw-popup/eczema" onclick="return sl(this,'hw','embd-lnk');">eczema</a>, <a href="http://www.webmd.com/hw-popup/psoriasis-7622" onclick="return sl(this,'hw','embd-lnk');">psoriasis</a>, or <a href="http://www.webmd.com/hw-popup/seborrhea" onclick="return sl(this,'hw','embd-lnk');">seborrheic dermatitis</a>. Other causes of rash include dry, cold weather; extremely hot weather (<a href="http://www.webmd.com/skin-problems-and-treatments/understanding-heat-rash-basics" onclick="return sl(this,'','embd-lnk');">heat rash</a>); and emotional stress. Emotions such as frustration or embarrassment may lead to an itchy rash. </p> 
+      <p> Some <a href="http://www.webmd.com/skin-problems-and-treatments/medications-that-may-cause-a-rash" onclick="return sl(this,'hw','embd-lnk');">medicines</a> can cause a rash as a side effect. A very rare and serious type of generalized red rash called toxic epidermal necrolysis (TEN) may occur after using sulfa <a onclick="return sl(this,'','embd-lnk');" chronic_id="" crosslinkid="31476" directive="friendlyurl" externalid="09D1C68D81D74991" href="http://www.webmd.com/drugs/index-drugs.aspx" keywordid="34730" keywordsetid="8684" object_type="" path="/webmdhttp://www.webmd.com/drugs/index-drugs.aspx">drugs</a>. TEN can cause the skin to peel away, leaving large areas of tissue that weep or ooze fluid like a severe burn. TEN may occur after the use of some medicines. If this type of rash occurs, you need to see a doctor.</p> 
+      <p>The need for medical treatment often depends on what other symptoms are present. A rash that occurs with other symptoms, such as shortness of breath or fever, may mean another problem, such as a serious <a href="http://www.webmd.com/hw-popup/allergic-reaction" onclick="return sl(this,'hw','embd-lnk');">allergic reaction</a> or infection.</p> 
+      <p> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms" onclick="return sl(this,'','embd-lnk');">Check your symptoms</a> to decide if and when you should see a doctor.</p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attributionTR_rdr"> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+      <div class="outline_fmt"> 
+       <a href=""> &lt; Previous </a> 
+      </div> 
+     </div> 
+     <div class="right_fmt"> 
+      <span class="pages_fmt"> <span class="current_fmt">1</span> </span> 
+      <div class="outline_fmt right"> 
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a> 
+      </div> 
+      <style type="text/css">
+                            .pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style> 
+     </div> 
+    </div> 
+   </div> 
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Check Your Symptoms',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-prevention'
+			});
+            
+			topics.push({
+			title : 'Preparing For Your Appointment',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-preparing-for-your-appointment'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-related-information'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+	
+	/* Secondary pages with no data move to the next page.  */
+
+
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: February 21, 2012
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt"> 
+    <script type="text/javascript" language="javascript">
+				var externalUrlList = new Array(
+			'xxx');
+		</script> 
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview">Topic Overview</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms">Check Your Symptoms</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-home-treatment">Home Treatment</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-prevention">Prevention</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-preparing-for-your-appointment">Preparing For Your Appointment</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-related-information">Related Information</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form> 
+   </div> 
+   <script type="text/javascript" language="JavaScript">
+				selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+		</script> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+				/* Array of Partner Names */
+				var partnerNames=[
+				"Good Housekeeping",
+				"Redbook",
+				"Esquire",
+				"Country Living",
+				"Marie Claire",
+				"Oxmoor House",
+				"\"Health",
+				"Southern Living",
+				"Psychology Today",
+				"EatingWell",
+				"DrGreene.com",
+				"Men's Health",
+				"Women's Health",
+				"Prevention",
+				"eDiets",
+				"Feature from \"body",
+				"Runner's World",
+				"Men's Fitness\" Magazine",
+				"Shape\" Magazine",
+				"Fit Pregnancy\" Magazine",
+				"Natural Health\" Magazine"
+				]
+				
+				/* Array of names that go with files in partners node */
+				var partnerScripts=[
+				"goodHousekeeping",
+				"redbook",
+				"esquire",
+				"countryLiving",
+				"marieClaire",
+				"cookingLight",
+				"health",
+				"southernLiving",
+				"psychToday",
+				"eatingWell",
+				"drGreene",
+				"mensHealth",
+				"womensHealth",
+				"prevention",
+				"eDiets",
+				"bodySoul",
+				"runnersWorld",
+				"mensFitness",
+				"shapeMag",
+				"fitPregnancy",
+				"naturalHealth"
+				]
+				
+				/* Variables for whether a partner exists and which one in the array it is */
+				var isThere;
+				var whichOne = -1;
+				
+				/* Pulls the pub source out of the XML */
+				var pubSource = 'Healthwise - Symptom';		  			  	
+				
+				/* Runs through the different partners and sees if one of them exists in the pub source */
+				for (var i=0; i <= partnerNames.length-1; i++) {
+					isThere = pubSource.search(partnerNames[i]);
+					if (isThere != -1)
+						{whichOne = i}
+				}
+								
+				/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+				if (whichOne != -1) {
+					
+					document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+				
+					var moduleCenter = "ContentPane8";
+					var moduleRight = "ContentPane25";
+					
+					addLoadEvent(function() {
+							document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+							document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+					})
+					
+				}
+				
+			</script> 
+   <script type="text/javascript">
+				if (document.getElementById("headerLinks_print")) { 
+				setClass('headerLinks_print','headerLinks_fmt_on');
+				};
+			</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+				#url_reference {display: none};
+				</style> 
+   <style media="print">
+				#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+				#logo_rdr img { visibility: visible; }
+				.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+				</style> 
+   <script type="text/javascript">
+					var insert1 = document.getElementById("ContentPane2");
+					var urlDiv = articleUrl();
+					if (insert1) {
+						insert1.appendChild(urlDiv);
+						}
+				</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="related_reading_rdr" id="rltd-p-1028"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" onclick="return sl(this,'','rltd-p-1028_1');">Skin Allergies? Don't Forget This Essential Item</a> </li> 
+     <li id="x63"> <a href="http://teens.webmd.com/rm-quiz-teen-acne" onclick="return sl(this,'','rltd-p-1028_2');">Myths and Facts About Teen Acne</a> </li> 
+     <li id="x64"> <a class="type_vid" href="http://lupus.webmd.com/d2n-coping-with-lupus-11/default.htm?scene=morning&amp;vid=5" onclick="return sl(this,'','rltd-p-1028_3');">Skin Care for Lupus<i> </i></a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/diabetes-skin-conditions" onclick="return sl(this,'','rltd-p-1028_4');">Diabetes? Prevent Common Skin Conditions</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/parenting/features/teaching-your-teen-about-skin-care" onclick="return sl(this,'','rltd-p-1028_5');">Skin Care Tips for Teens</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0610&amp;ch=8" onclick="return sl(this,'','rltd-p-1028_6');">What to Do About Yellowish Teeth</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1028_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806954d1" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806954d1</chronic_id><r_object_id>091e9c5e806954d1</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806954d1.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/04/2010 11:11:52</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Skin Problems Health Center/template_Skin Problems and Treatments Health Center_091e9c5e80033cdc.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80033cdc"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Rashes</name><link_title>Rashes</link_title><description>A rash is a change in the skin due to skin irritation. Most rashes go away on their own or require only minor treatment. Some rashes may need medical attention. Some rash symptoms are redness, itching, bumps, redness, and swelling. Some causes of rashes are allergic reactions; plants such as poison ivy; or irritation due to jewelry, chemicals, or makeup. Rashes are also sometimes symptoms of another condition, as with impetigo or scabies. Treatments vary based on the cause, but many can be treated with medications. Follow the links below to find WebMD's comprehensive coverage about what causes a rash, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/skin-problems-and-treatments/rashes-directory</friendly_url></topic_dir><related_assets><asset id=""><link_title>What does a rash from poisonous plants look like?</link_title><friendly_url>http://answers.webmd.com/answers/1180495/what-does-a-rash-from-poisonous</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804cb7b6"><link_title>Toilet Seat Dermatitis Making a Comeback</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20100125/toilet-seat-dermatitis-making-a-comeback</friendly_url><thumbnail height="" width="" alt="poop_dermatitis_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/01_2010/poop_dermatitis_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80511af4"><link_title>Chemical in Furniture Linked to Skin Rashes</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20100305/chemical-in-furniture-linked-to-skin-rashes</friendly_url><thumbnail height="" width="" alt="furniture_skin_rashes.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/03_2010/furniture_skin_rashes.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80668b27"><link_title>Slideshow: Scabies Symptoms, Cause, and Treatments</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/ss/slideshow-scabies-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802f29a0"><link_title>Picture of Pityriasis Rosea</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/toc-image-picture-of-pityriasis-rosea</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000823c"><link_title>Poison Ivy, Oak, &amp; Sumac Symptoms</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/understanding-poison-ivy-oak-sumac-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800081aa"><link_title>Impetigo Symptoms</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/understanding-impetigo-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800083ce"><link_title>Diagnosing and Treating Eczema</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/eczema/understanding-eczema-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000835c"><link_title>Symptoms of Lyme Disease</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/understanding-lyme-disease-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8052b97f"><link_title>Nickel (Jewelry) Allergies: Symptoms, Treatments, and Avoiding Triggers</link_title><friendly_url>http://www.webmd.com/allergies/guide/nickel-jewelry-allergy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007bf3"><link_title>Common Skin Rashes</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/guide/common-rashes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802f1c2f"><link_title>Picture of Rash from Poisonous Plants</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-rash-poisonous-plants</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80212433"><link_title>Allergy: Poison Ivy, Oak, and Sumac Treatment</link_title><friendly_url>http://www.webmd.com/first-aid/allergy-poison-ivy-oak-and-sumac-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8032a480"><link_title>Slideshow: Baby Skin Care &#45;&#45; Simple Tips to Keep Baby's Skin Healthy</link_title><friendly_url>http://www.webmd.com/parenting/baby/ss/slideshow-baby-skin-care</friendly_url><thumbnail height="" width="" alt="Baby in bath">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/baby_skin_care/69x75_baby_skin_care.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8072ca85"><link_title>Slideshow: A Visual Guide to Eczema</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/eczema/ss/slideshow-eczema-overview</friendly_url><thumbnail height="" width="" alt="Eczema on arm">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/eczema_overview_slideshow/69x75_eczema_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80010d8c"><link_title>Life-Threatening Skin Rashes</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/life-threatening-skin-rashes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80422805"><link_title>Picture of Scurvy</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/picture-of-scurvy-perifollicular</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000837a"><link_title>Eczema Prevention</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/eczema/understanding-eczema-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804229da"><link_title>Picture of Urticaria</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-urticaria-wheals</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804287b3"><link_title>Picture of Allergic Contact Dermatitis</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-allergic-contact-dermatitis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804389a1"><link_title>Picture of Systemic Lupus Erythematosus</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-systemic-lupus-erythematosus-face</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80435659"><link_title>Picture of Folliculitis</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-folliculitis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80434c51"><link_title>Picture of Poison Ivy Exposure</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-allergic-contact-dermatitis-poison-ivy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80436ce0"><link_title>Picture of Morbilliform Drug Eruption</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-morbilliform-rash</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8042cda9"><link_title>Picture of Nickel Contact Dermatitis</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-nickel-contact-dermatitis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8042e6ca"><link_title>Picture of Vitiligo on Neck</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-vitiligo-neck</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8042cbe9"><link_title>Picture of Milia</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-milia</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80438876"><link_title>Picture of Seabather's Itch</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-seabathers-itch</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8042cdf7"><link_title>Picture of Nickel Contact Dermatitis from Necklace</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-nickel-contact-dermatitis-necklace</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802f078e"><link_title>Picture of Shingles (Herpes Zoster)</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/shingles/picture-of-shingles-herpes-zoster</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/ss/slideshow-scabies-overview" onclick="return sl(this,'','td-rltd-art_1');">Slideshow: Scabies Symptoms, Cause, and Treatments</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/toc-image-picture-of-pityriasis-rosea" onclick="return sl(this,'','td-rltd-art_2');">Picture of Pityriasis Rosea</a></li>
+      <li><a href="http://answers.webmd.com/answers/1180495/what-does-a-rash-from-poisonous" onclick="return sl(this,'','td-rltd-art_3');">What does a rash from poisonous plants look like?</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/understanding-poison-ivy-oak-sumac-symptoms" onclick="return sl(this,'','td-rltd-art_4');">Poison Ivy, Oak, &amp; Sumac Symptoms</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/understanding-impetigo-symptoms" onclick="return sl(this,'','td-rltd-art_5');">Impetigo Symptoms</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/eczema/understanding-eczema-treatment" onclick="return sl(this,'','td-rltd-art_6');">Diagnosing and Treating Eczema</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/understanding-lyme-disease-symptoms" onclick="return sl(this,'','td-rltd-art_7');">Symptoms of Lyme Disease</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/skin-problems-and-treatments/rashes-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Rashes Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=770286335&amp;tile=1587133505&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1028&amp;scent=&amp;pos=5000&amp;xpg=6067&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2fskin-problems-and-treatments%2ftc%2frash-age-12-and-older-topic-overview&amp;artid=091e9c5e8001e47b&amp;inst=0&amp;leaf=1243&amp;cc=16&amp;tmg=1&amp;bc=_b24_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=770286335&amp;amp;tile=1587133505&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1028&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=6067&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fskin-problems-and-treatments%2ftc%2frash-age-12-and-older-topic-overview&amp;amp;artid=091e9c5e8001e47b&amp;amp;inst=0&amp;amp;leaf=1243&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_b24_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "6067";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=770286335&amp;tile=1587133505&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1028&amp;scent=&amp;pos=5001&amp;xpg=6067&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2fskin-problems-and-treatments%2ftc%2frash-age-12-and-older-topic-overview&amp;artid=091e9c5e8001e47b&amp;inst=0&amp;leaf=1243&amp;cc=16&amp;tmg=1&amp;bc=_b24_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=770286335&amp;amp;tile=1587133505&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1028&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=6067&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fskin-problems-and-treatments%2ftc%2frash-age-12-and-older-topic-overview&amp;amp;artid=091e9c5e8001e47b&amp;amp;inst=0&amp;amp;leaf=1243&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_b24_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "6067";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

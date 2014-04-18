@@ -1,0 +1,348 @@
+<title>Chronic Fatigue Syndrome - CFS - Center: Symptoms, Causes, Tests, and Treatments</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/chronic-fatigue-syndrome/ss/slideshow-cfs-overview" onclick="return sl(this,'','prm-mc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/chronic_fatigue_overview_slideshow/getty_rm_photo_of_woman_rubbing_eye.jpg.jpg" alt="Woman with chronic fatigue syndrome" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/chronic-fatigue-syndrome/ss/slideshow-cfs-overview" onclick="return sl(this,'','prm-mc_1');">Guide to CFS</a> </h2> 
+        <a href="http://www.webmd.com/chronic-fatigue-syndrome/ss/slideshow-cfs-overview" onclick="return sl(this,'','prm-mc_1');" class="type_ss">Learn about symptoms, diagnosis, and treatment options. <i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/women/rm-quiz-fatigue-something-else" data-alt="young woman hiding face in folded hands" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/dealing_with_fatique_rmq/493x335_dealing_with_fatique_rmq.jpg" onclick="return sl(this,'','prm-mc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/women/rm-quiz-fatigue-something-else" onclick="return sl(this,'','prm-mc_2');">Is It Fatigue?</a> </h2> 
+        <a href="http://www.webmd.com/women/rm-quiz-fatigue-something-else" onclick="return sl(this,'','prm-mc_2');" class="type_quiz">Learn about chronic and acute fatigue, when to get help, and more.<i><span class="jawsonly">Quiz</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/sleep-disorders/ss/slideshow-fatigue-causes-and-remedies" data-alt="Woman Looking out of a Window" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/fatigue_slideshow/photolibrary_rf_photo_of_woman_looking_out_window.jpg" onclick="return sl(this,'','prm-mc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/sleep-disorders/ss/slideshow-fatigue-causes-and-remedies" onclick="return sl(this,'','prm-mc_3');">Always Tired?</a> </h2> 
+        <a href="http://www.webmd.com/sleep-disorders/ss/slideshow-fatigue-causes-and-remedies" onclick="return sl(this,'','prm-mc_3');" class="type_ss">See fatigue causes and how to fight them. <i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-mc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-mc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-mc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-mc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-mc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="teaser_fmt"> 
+    <h3>Chronic Fatigue Syndrome</h3> 
+    <p>Chronic fatigue syndrome, or CFS, causes you to feel so tired that you can’t complete normal, daily activities. While chronic fatigue syndrome has no known cause and is difficult to diagnose, its major symptoms can be treated. </p> 
+   </div>
+   <div class="subheaderBar_rdr">
+    Latest Headlines
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainEditorial_rdr"> 
+    <a href="http://www.webmd.com/chronic-fatigue-syndrome/news/20120229/web-therapy-helps-teens-with-chronic-fatigue-syndrome" onclick="return sl(this,'','head-mc_1_1');"> <img class="mainEditorial_photo_fmt" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/2012/02_2012/internet_treatment_for_cfs/69x75_internet_treatment_for_cfs.jpg" border="0" alt="" width="69" /> </a> 
+    <div class="mainEditorial_photo_text_fmt"> 
+     <a href="http://www.webmd.com/chronic-fatigue-syndrome/news/20120229/web-therapy-helps-teens-with-chronic-fatigue-syndrome" onclick="return sl(this,'','head-mc_1_1');">Web Therapy Helps With Chronic Fatigue Syndrome</a> 
+     <br />Internet-based behavioral therapy appears to be a highly effective new tool for the treatment of teenagers with chronic fatigue syndrome (CFS), according to a new study from the Netherlands.
+    </div> 
+    <p class="mainEditorial_read_link_fmt"> <a href="http://www.webmd.com/chronic-fatigue-syndrome/news/20120229/web-therapy-helps-teens-with-chronic-fatigue-syndrome" onclick="return sl(this,'','head-mc_1_1');"> Read Full Article </a> </p> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainLinks_rdr latestHeadlines_fmt"> 
+    <h4 class="latestHeadlinesTitle_fmt">Top Stories</h4> 
+    <ul> 
+     <li> <a href="http://www.webmd.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-home-treatment" onclick="return sl(this,'','head-mc_2_1');">Home Treatment Critical To Ease CFS Symptoms</a> </li> 
+     <li> <a href="http://www.webmd.com/sleep-disorders/excessive-sleepiness-10/natural-tips-sleepiness" onclick="return sl(this,'','head-mc_2_2');">12 Tips to Stay Awake Naturally</a> </li> 
+     <li> <a href="http://www.webmd.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-exams-and-tests" onclick="return sl(this,'','head-mc_2_3');">Tests &amp; Exams for Chronic Fatigue </a> </li> 
+     <li> <a href="http://www.webmd.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-medications" onclick="return sl(this,'','head-mc_2_4');">Can Medications Help Chronic Fatigue Syndrome?</a> </li> 
+     <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/chronic-fatigue-syndrome/news-features" onclick="return sl(this,'','head-mc_2_more-articles');">More Articles</a> </li> 
+    </ul> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="cwpad_09"> 
+    <div class="mainEditorialContainer_rdr" id="lvng-with"> 
+     <div class="mainEditorial_top_fmt"> 
+      <h2>Living With Fatigue and Pain</h2> 
+     </div> 
+     <div class="mainEditorialPadding_fmt"> 
+      <div class="mainEditorialContent_fmt"> 
+       <div class="mainEditorial_rdr mainEditorialTopOne_rdr"> 
+        <div class="iconBlock_fmt"> 
+         <div class="icon_fmt"> 
+          <a href="http://arthritis.webmd.com/psoriatic-arthritis-9/preventing-fatigue" onclick="return sl(this,'','lvng-with_1_img');"> <img class="mainEditorial_photo_fmt" src="http://img.webmd.com/dtmcms/live//webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/December08/fibro_04.jpg" alt="WebMD" border="0" /> </a> 
+         </div> 
+        </div> 
+        <div class="mainEditorial_photo_text_fmt"> 
+         <a href="http://arthritis.webmd.com/psoriatic-arthritis-9/preventing-fatigue" onclick="return sl(this,'','lvng-with_1_link');">WebMD</a> 
+        </div> 
+        <div class="clearBoth_fmt"> 
+        </div> 
+       </div> 
+       <div class="moduleSpacer_rdr"> 
+       </div> 
+       <div class="mainEditorialLinks_fmt"> 
+        <ul> 
+         <li> <a href="http://www.webmd.com/pain-management/guide/11-tips-for-living-with-chronic-pain" onclick="return sl(this,'','lvng-with_2_link');">11 Tips for Living With Chronic Pain </a> </li> 
+         <li> <a href="http://www.webmd.com/add-adhd/slideshow-brain-foods-that-help-you-concentrate" class="type_f_ss" onclick="return sl(this,'','lvng-with_3_link');">Brain Foods To Help You Focus<i> </i></a> </li> 
+         <li> <a href="http://www.webmd.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-exams-and-tests" onclick="return sl(this,'','lvng-with_4_link');">6 Tests for Chronic Fatigue </a> </li> 
+         <li> <a href="http://www.webmd.com/women/guide/why-so-tired-10-causes-fatigue" onclick="return sl(this,'','lvng-with_5_link');">7 Causes of Fatigue </a> </li> 
+        </ul> 
+        <div class="clearBoth_fmt"> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=47845437&amp;tile=2033397324&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=&amp;pos=5000&amp;xpg=1673&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fchronic-fatigue-syndrome%2fdefault&amp;artid=091e9c5e800dcf74&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_cust4_f48_m797_cust1_&amp;mcent=1619&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=47845437&amp;amp;tile=2033397324&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=1673&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fchronic-fatigue-syndrome%2fdefault&amp;amp;artid=091e9c5e800dcf74&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_cust4_f48_m797_cust1_&amp;amp;mcent=1619&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1673";
+			var secTopId = "";
+		</script>
+   <div class="pop_toolst_rdr" id="tool-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-topic-overview" onclick="return sl(this,'','tool-res_1');">What Is Chronic Fatigue Syndrome?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/chronic-fatigue-syndrome/cognitive-behavioral-therapy-for-chronic-fatigue-syndrome" onclick="return sl(this,'','tool-res_2');">Can Talk Therapy Help?</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/rheumatoid-arthritis/biologics-10/ra-fatigue-fighter" onclick="return sl(this,'','tool-res_3');">RA Fatigue Fighter Tool</a></li>
+      <li id="x59"><a href="http://www.webmd.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-exams-and-tests" onclick="return sl(this,'','tool-res_4');">Chronic Fatigue: Tests &amp; Exams</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/chronic-fatigue-syndrome/graded-exercise-for-chronic-fatigue-syndrome" onclick="return sl(this,'','tool-res_5');">Chronic Fatigue Exercises</a></li>
+      <li id="x61"><a href="https://www.webmd.com/lupus/d2n-coping-with-lupus-11/default.htm?article=091e9c5e806dec2f&amp;scene=morning" onclick="return sl(this,'','tool-res_6');">5 Ways to Cope With Fatigue</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tool-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div id="comm-grp" class="stacked_promo"> 
+    <h2>WebMD Chronic Fatigue Syndrome Community<br /><a href="http://exchanges.webmd.com/chronic-fatigue-syndrome-exchange" title="See All Chronic Fatigue Syndrome Communities">Community. Experts. Support.</a></h2> 
+    <div class="promo_group"> 
+     <h3>Community</h3> 
+     <ul> 
+      <li> <a href="http://exchanges.webmd.com/chronic-fatigue-syndrome-exchange" onclick="return sl(this,'','comm-grp_1-1');">Chronic Fatigue Syndrome Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/fibromyalgia-exchange" onclick="return sl(this,'','comm-grp_1-2');">WebMD Fibromyalgia Community <i> </i></a> </li> 
+      <li id="comm-grp_last_link"> <a href="http://exchanges.webmd.com/default.htm" onclick="return sl(this,'','comm-grp_1-3');">See All Communities <i> </i></a> </li> 
+     </ul> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15">
+   <div class="top_search_rdr" id="top-twlv"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top Search Terms for Chronic Fatigue Syndrome</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-symptoms" onclick="return sl(this,'','top-twlv_1');">Chronic Fatigue Syndrome Symptoms</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-medications" onclick="return sl(this,'','top-twlv_2');">CFS and Medications</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/energy-boosters-can-supplements-and-vitamins-help" onclick="return sl(this,'','top-twlv_3');">Supplements and Vitamins</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-cause" onclick="return sl(this,'','top-twlv_4');">Chronic Fatigue Syndrome Virus</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/depression/guide/chronic-illnesses-depression" onclick="return sl(this,'','top-twlv_5');">Chronic Fatigue Syndrome and Depression</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/fibromyalgia/features/living-with-fibromyalgia-and-chronic-fatigue" onclick="return sl(this,'','top-twlv_6');">Chronic Fatigue Syndrome and Fibromyalgia</a> 
+      </div> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/chronic-fatigue-syndrome/graded-exercise-for-chronic-fatigue-syndrome" onclick="return sl(this,'','top-twlv_7');">Chronic Fatigue Syndrome Exercises</a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/chronic-fatigue-syndrome/graded-exercise-for-chronic-fatigue-syndrome" onclick="return sl(this,'','top-twlv_8');">Chronic Fatigue Syndrome and Exercise</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-exams-and-tests" onclick="return sl(this,'','top-twlv_9');">Chronic Fatigue Syndrome Tests</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/sleep-disorders/sleep-disorders-sleep-and-chronic-illness" onclick="return sl(this,'','top-twlv_10');">Chronic Fatigue Syndrome and Sleep</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!-- WidgetID:091e9c5e80895c0c. Error=Root element is missing.-->
+  </div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

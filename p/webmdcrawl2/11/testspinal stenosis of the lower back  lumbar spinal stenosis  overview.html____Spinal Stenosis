@@ -1,0 +1,745 @@
+<title>Spinal Stenosis of the Lower Back (Lumbar Spinal Stenosis) Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/back-pain/ss/slideshow-low-back-pain-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_1');">Low Back Pain Causes<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/back-pain/ss/slideshow-visual-guide-to-sciatica" class="type_ss" onclick="return sl(this,'','lln-toolsres_2');">Is Your Back Pain Sciatica?<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/pain-management/video/disc-herniation" class="type_vid" onclick="return sl(this,'','lln-toolsres_3');">Herniated Disk: What Happens<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/back-pain/rm-quiz-low-back-pain" onclick="return sl(this,'','lln-toolsres_4');">Lower Back Pain Quiz</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/pain-management/rm-quiz-everyday-aches-pains" onclick="return sl(this,'','lln-toolsres_5');">Everyday Aches and Pains Quiz</a></li>
+      <li id="x61"><a href="http://www.webmd.com/pain-management/chronic-pain-health-check/default.htm" onclick="return sl(this,'','lln-toolsres_6');">Get Chronic Pain Coping Tips</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e974f5" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e8001e302</i_chronicle_id><r_object_id>091e9c5e80e974f5</r_object_id><title>Topic Overview</title><object_name>lumbar_spinal_stenosis-topic_overview_major_aa118986.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e974f5</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>major_aa118986</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Spinal Stenosis of the Lower Back (Lumbar Spinal Stenosis) Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e803784ff</r_object_id><publ_i_chronicle_id>091e9c5e80019167</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Major</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Spinal stenosis is narrowing of the spinal canal that occurs when excessive growth of bone and/or tissue reduces the size of the openings in the spinal bones. </wbmd_desc_meta><wbmd_orig_pub_dt>02/13/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Spinal stenosis is narrowing of the spinal canal that occurs when excessive growth of bone and/or tissue reduces the size of the openings in the spinal bones. </wbmd_desc_user><wbmd_lk_ttl>Lumbar Spinal Stenosis-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>lumbar stenosis, spinal stenosis</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>R52</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e974f5</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1661" wbmd_disp_nm="Back Pain"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1010" wbmd_disp_nm="Back Pain"></wbmd_c_channel_id><wbmd_c_frnd_nm>Lumbar-Spinal-Stenosis-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>Overview</section_type><section_text><p><img align="left" alt="ortho_04.jpg" height="130" src="/webmd/consumer_assets/site_images/media/medical/hw/ortho_04.jpg" type="medical" width="130" directive="imageurl" chronic_id="091e9c5e80019c34" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/medical/hw/ortho_04.jpg"></p></section_text></section_group><section_group><section_header>Is this topic for you?</section_header><section_type>Overview</section_type><section_text><p>This
+		 topic is about <a chronic_id="091e9c5e800125e1" crossLinkId="13077" directive="friendlyurl" externalId="091e9c5e800125e1" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/joints_bones_and_muscles/back_pain/overview_types_of/pain_management_spinal_stenosis.xml" keywordId="58388" keywordSetId="25846" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/joints_bones_and_muscles/back_pain/overview_types_of/pain_management_spinal_stenosis.xml">spinal stenosis</a> of the lower back, also known as the lumbar
+		 area. If you need information on spinal stenosis of the neck, see the topic
+		 <a chronic_id="091e9c5e8001d14e" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/cervical_spinal_stenosis-topic_overview_special_uh2004.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/cervical_spinal_stenosis-topic_overview_special_uh2004.xml">Cervical Spinal Stenosis</a>.</p></section_text></section_group><section_group><section_header>What is lumbar spinal stenosis?</section_header><section_type>Overview</section_type><section_text><p> Lumbar spinal
+		 stenosis is a
+		 <a chronic_id="091e9c5e8001e9e2" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_stenosis_lumbar_multimedia_tp12608.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_stenosis_lumbar_multimedia_tp12608.xml">narrowing</a><a chronic_id="091e9c5e8001e9e2" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_stenosis_lumbar_multimedia_tp12608.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_stenosis_lumbar_multimedia_tp12608.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a> of the
+		 <a chronic_id="091e9c5e8001e817" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_canal_multimedia_tp12604.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_canal_multimedia_tp12604.xml">spinal canal</a><a chronic_id="091e9c5e8001e817" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_canal_multimedia_tp12604.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_canal_multimedia_tp12604.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a> in the lower back, known as the lumbar area. </p><p>This usually happens when bone or tissue—or both—grow in the openings in
+		 the spinal bones. This growth can squeeze and irritate nerves that
+		 branch out from the
+		 <a chronic_id="091e9c5e8001ebfa" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_cord_anatomy_multimedia_zm2325.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_cord_anatomy_multimedia_zm2325.xml">spinal cord</a><a chronic_id="091e9c5e8001ebfa" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_cord_anatomy_multimedia_zm2325.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_cord_anatomy_multimedia_zm2325.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>.</p><p>The result can be pain, numbness, or weakness, most often in the legs, <a chronic_id="091e9c5e80586577" crossLinkId="1507667" directive="friendlyurl" externalId="091e9c5e80586577" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml" keywordId="62993" keywordSetId="28548" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml">feet</a>, and buttocks.
+		 </p></section_text></section_group><section_group><section_header>What causes lumbar spinal stenosis?</section_header><section_type>Overview</section_type><section_text><p>It's most often caused by changes that can happen as people age. For example:</p><ul><li>Connective tissues called
+			 <a chronic_id="091e9c5e8001b5b0" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ligament_definition_stl158147.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ligament_definition_stl158147.xml">ligaments</a> get thicker.</li><li><a chronic_id="091e9c5e8001b501" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/osteoarthritis_definition_sto167524.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/osteoarthritis_definition_sto167524.xml">Arthritis</a> leads to the growth of bony spurs that
+			 push on the nerves that branch out from the spinal cord.</li><li>Discs between the bones may be pushed
+			 backward into the spinal canal.</li></ul></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>Overview</section_type><section_text><p> Symptoms may include:</p><ul><li>Numbness, weakness, cramping, or pain in the
+			 legs, feet, or buttocks. These symptoms get worse when you walk, stand
+			 straight, or lean backward. The pain gets better when you sit down or lean
+			 forward.</li><li>Stiffness in the legs and thighs.</li><li>Low back
+			 pain.</li><li>In severe cases, loss of <a chronic_id="091e9c5e803acac6" crossLinkId="73852" directive="friendlyurl" externalId="091e9c5e803acac6" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_bladder.xml" keywordId="60402" keywordSetId="26631" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_bladder.xml">bladder</a> and bowel control.</li></ul><p>Symptoms may be severe at times and not as bad at other
+		 times. Most people aren't severely disabled. In fact, many people don't have symptoms at all.</p></section_text></section_group><section_group><section_header>How is lumbar spinal stenosis diagnosed?</section_header><section_type>Overview</section_type><section_text><p>Your doctor can tell if you have it by asking questions about your symptoms and past health and by
+		 doing a <a chronic_id="091e9c5e80377b97" crossLinkId="70371" directive="friendlyurl" externalId="091e9c5e80377b97" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml" keywordId="58671" keywordSetId="25958" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml">physical exam</a>. </p><p>You will probably need imaging tests such as an
+		 <a chronic_id="091e9c5e8001b209" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_imaging_mri_definition_stm159519.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_imaging_mri_definition_stm159519.xml">MRI</a>, a
+		 <a chronic_id="091e9c5e8001b485" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ct_or_cat_scan_definition_stc123812.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ct_or_cat_scan_definition_stc123812.xml">CT scan</a>, and sometimes
+		 <a chronic_id="091e9c5e8001b0d1" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/x-ray_definition_tu6485.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/x-ray_definition_tu6485.xml">X-rays</a>.</p></section_text></section_group><section_group><section_header>How is it treated?</section_header><section_type>Overview</section_type><section_text><p>You can most likely control mild to moderate
+		 symptoms with pain medicines, <a chronic_id="091e9c5e80c1b43d" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80c1b43d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml" keywordId="35030" keywordSetId="8746" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml">exercise</a>, and <a chronic_id="091e9c5e8001b55b" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/physical_therapy_definition_zt1096.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/physical_therapy_definition_zt1096.xml">physical therapy</a>. Your doctor may
+		 also give you a spinal shot of <a chronic_id="091e9c5e8001b405" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/corticosteroid_injection_definition_zd1023.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/corticosteroid_injection_definition_zd1023.xml">corticosteroid</a>, a medicine that reduces
+		 inflammation.</p><p>You may need surgery if your symptoms get worse or
+		 if they limit what you can do. Surgery to remove bone and
+		 tissue that are squeezing the nerve roots can help relieve leg pain and allow
+		 you to get back to normal activity. But it may not help back pain as much.</p></section_text></section_group><section_group><section_header>Frequently Asked Questions</section_header><section_type>Overview</section_type><section_text><table cellpadding="0" cellspacing="0"><col><tr><td valign="top"><p><b>Learning about lumbar spinal stenosis:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001e302" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-topic_overview_major_aa118986.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-topic_overview_major_aa118986.xml">What is lumbar spinal stenosis?</a></li><li><a chronic_id="091e9c5e8001dac4" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-cause_major_aa118989.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-cause_major_aa118989.xml">What causes it?</a></li><li><a chronic_id="091e9c5e8001dd53" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-symptoms_major_aa118994.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-symptoms_major_aa118994.xml">What are the symptoms?</a></li><li><a chronic_id="091e9c5e8001dd30" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-prevention_major_aa119044.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-prevention_major_aa119044.xml">Can I prevent it?</a></li><li><a chronic_id="091e9c5e8001e42c" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_happens_major_aa119018.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_happens_major_aa119018.xml">What happens when I have it?</a></li><li><a chronic_id="091e9c5e8001d7dc" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_increases_your_risk_major_aa119019.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_increases_your_risk_major_aa119019.xml">What increases my risk for lumbar spinal stenosis?</a></li><li><a chronic_id="091e9c5e807f0d8a" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/how_common_is_lumbar_spinal_stenosis-topic_overview_special_aa122549-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/how_common_is_lumbar_spinal_stenosis-topic_overview_special_aa122549-sec.xml">How common is it?</a></li></ul></td></tr><tr><td valign="top"><p><b>Being diagnosed:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001d952" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-when_to_call_a_doctor_major_aa119020.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-when_to_call_a_doctor_major_aa119020.xml">Who can diagnose lumbar spinal stenosis?</a></li><li><a chronic_id="091e9c5e8001deb8" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-exams_and_tests_major_aa119024.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-exams_and_tests_major_aa119024.xml">How is it diagnosed?</a></li></ul></td></tr><tr><td valign="top"><p><b>Getting treatment:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001ddce" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-treatment_overview_major_aa119029.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-treatment_overview_major_aa119029.xml">How is lumbar spinal stenosis treated?</a></li><li><a chronic_id="091e9c5e8001dbe0" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-surgery_major_aa119050.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-surgery_major_aa119050.xml">Will I need surgery?</a></li><li><a chronic_id="091e9c5e8001dc2d" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-medications_major_aa119046.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-medications_major_aa119046.xml">What medicines will I need to take?</a></li><li><a chronic_id="091e9c5e8001d8fe" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-other_treatment_major_aa119054.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-other_treatment_major_aa119054.xml">What other treatments might be recommended?</a></li></ul></td></tr><tr><td valign="top"><p><b>Ongoing concerns:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001e42c" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_happens_major_aa119018.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_happens_major_aa119018.xml">How will I know if it's getting worse?</a></li><li><a chronic_id="" directive="friendlyurl" document-type="DecisionPoint" href="/webmd/consumer_assets/controlled_content/healthwise/decisionpoint/lumbar_spinal_stenosis_should_i_have_surgery_decisionpoint_aa121240.xml" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/decisionpoint/lumbar_spinal_stenosis_should_i_have_surgery_decisionpoint_aa121240.xml"><img alt="dplink.gif" border="0" height="24" src="/webmd/consumer_assets/site_images/media/interface/dplink.gif" type="interface" width="77" directive="imageurl" chronic_id="091e9c5e80019c59" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/dplink.gif"></a><a chronic_id="" directive="friendlyurl" document-type="DecisionPoint" href="/webmd/consumer_assets/controlled_content/healthwise/decisionpoint/lumbar_spinal_stenosis_should_i_have_surgery_decisionpoint_aa121240.xml" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/decisionpoint/lumbar_spinal_stenosis_should_i_have_surgery_decisionpoint_aa121240.xml">Should I have surgery?</a></li></ul></td></tr><tr><td valign="top"><p><b>Living with lumbar spinal stenosis:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001d82f" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-home_treatment_major_aa119045.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-home_treatment_major_aa119045.xml">What can I do at home to feel better?</a></li><li><a chronic_id="091e9c5e8001d952" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-when_to_call_a_doctor_major_aa119020.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-when_to_call_a_doctor_major_aa119020.xml">When should I call my doctor?</a></li></ul></td></tr></table></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-topic-overview" owner="false"><breadcrumb><bread piece="Back Pain Health Center" prefix="www" friendlyurl="/back-pain/default.htm"></bread><bread piece="Back Pain Topics" prefix="www" friendlyurl="/back-pain/tc/default.htm"></bread></breadcrumb><centers><Topic id="915" name="tmg" chronicid="091e9c5e8001e302" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-topic-overview" type="Topic">Lumbar Spinal Stenosis</Topic><Health id="972" name="health center" chronicid="091e9c5e8068fb85" prefix="www" friendlyurl="/back-pain/default.htm" type="">Back Pain</Health></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-topic-overview" owner="false"><breadcrumb><bread piece="Back Pain Health Center" prefix="www" friendlyurl="/back-pain/default.htm"></bread><bread piece="Back Pain Related Topics" prefix="www" friendlyurl="/back-pain/tc/default.htm"></bread></breadcrumb><centers><Topic id="11047" name="tmg" chronicid="091e9c5e8001e302" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-topic-overview" type="Topic">Lumbar Spinal Stenosis</Topic><Health id="11044" name="health center" chronicid="091e9c5e8068fb85" prefix="www" friendlyurl="/back-pain/default.htm" type="">Back Pain</Health></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e800125e1" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/joints_bones_and_muscles/back_pain/overview_types_of/pain_management_spinal_stenosis.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/guide/spinal-stenosis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/guide/spinal-stenosis"></target></object><object chronic_id="091e9c5e8001d14e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/cervical_spinal_stenosis-topic_overview_special_uh2004.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/cervical-spinal-stenosis-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/cervical-spinal-stenosis-topic-overview"></target></object><object chronic_id="091e9c5e8001e9e2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_stenosis_lumbar_multimedia_tp12608.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/spinal-stenosis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/spinal-stenosis"></target></object><object chronic_id="091e9c5e8001e817" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_canal_multimedia_tp12604.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/spinal-canal"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/spinal-canal"></target></object><object chronic_id="091e9c5e8001ebfa" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/spinal_cord_anatomy_multimedia_zm2325.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/spinal-cord-anatomy"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/spinal-cord-anatomy"></target></object><object chronic_id="091e9c5e80586577" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target></object><object chronic_id="091e9c5e8001b5b0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ligament_definition_stl158147.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/ligament"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/ligament"></target></object><object chronic_id="091e9c5e8001b501" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/osteoarthritis_definition_sto167524.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/osteoarthritis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/osteoarthritis"></target></object><object chronic_id="091e9c5e803acac6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_bladder.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/urinary-incontinence-oab/picture-of-the-bladder"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-bladder"></target></object><object chronic_id="091e9c5e80377b97" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target></object><object chronic_id="091e9c5e8001b209" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_imaging_mri_definition_stm159519.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/magnetic-resonance-imaging-mri"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/magnetic-resonance-imaging-mri"></target></object><object chronic_id="091e9c5e8001b485" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ct_or_cat_scan_definition_stc123812.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/ct-or-cat-scan"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/ct-or-cat-scan"></target></object><object chronic_id="091e9c5e8001b0d1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/x-ray_definition_tu6485.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/x-ray"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/x-ray"></target></object><object chronic_id="091e9c5e80c1b43d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target></object><object chronic_id="091e9c5e8001b55b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/physical_therapy_definition_zt1096.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/physical-therapy"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/physical-therapy"></target></object><object chronic_id="091e9c5e8001b405" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/corticosteroid_injection_definition_zd1023.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/corticosteroid-injection"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/corticosteroid-injection"></target></object><object chronic_id="091e9c5e8001e302" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-topic_overview_major_aa118986.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-topic-overview"></target></object><object chronic_id="091e9c5e8001dac4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-cause_major_aa118989.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-cause"></target></object><object chronic_id="091e9c5e8001dd53" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-symptoms_major_aa118994.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-symptoms"></target></object><object chronic_id="091e9c5e8001dd30" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-prevention_major_aa119044.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-prevention"></target></object><object chronic_id="091e9c5e8001e42c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_happens_major_aa119018.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-what-happens"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-what-happens"></target></object><object chronic_id="091e9c5e8001d7dc" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_increases_your_risk_major_aa119019.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-what-increases-your-risk"></target></object><object chronic_id="091e9c5e807f0d8a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/how_common_is_lumbar_spinal_stenosis-topic_overview_special_aa122549-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/how-common-is-spinal-stenosis-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/how-common-is-spinal-stenosis-topic-overview"></target></object><object chronic_id="091e9c5e8001d952" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-when_to_call_a_doctor_major_aa119020.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001deb8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-exams_and_tests_major_aa119024.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-exams-and-tests"></target></object><object chronic_id="091e9c5e8001ddce" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-treatment_overview_major_aa119029.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-treatment-overview"></target></object><object chronic_id="091e9c5e8001dbe0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-surgery_major_aa119050.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-surgery"></target></object><object chronic_id="091e9c5e8001dc2d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-medications_major_aa119046.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-medications"></target></object><object chronic_id="091e9c5e8001d8fe" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-other_treatment_major_aa119054.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-other-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-other-treatment"></target></object><object chronic_id="091e9c5e8001d82f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-home_treatment_major_aa119045.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-home-treatment"></target></object><object chronic_id="091e9c5e8001e302" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-topic_overview_major_aa118986.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-topic-overview"></target></object><object chronic_id="091e9c5e8001e255" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-health_tools_major_aa118983-healthtools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-health-tools"></target></object><object chronic_id="091e9c5e8001dac4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-cause_major_aa118989.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-cause"></target></object><object chronic_id="091e9c5e8001dd53" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-symptoms_major_aa118994.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-symptoms"></target></object><object chronic_id="091e9c5e8001e42c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_happens_major_aa119018.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-what-happens"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-what-happens"></target></object><object chronic_id="091e9c5e8001d7dc" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_increases_your_risk_major_aa119019.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001d952" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-when_to_call_a_doctor_major_aa119020.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001deb8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-exams_and_tests_major_aa119024.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-exams-and-tests"></target></object><object chronic_id="091e9c5e8001ddce" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-treatment_overview_major_aa119029.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-treatment-overview"></target></object><object chronic_id="091e9c5e8001dd30" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-prevention_major_aa119044.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-prevention"></target></object><object chronic_id="091e9c5e8001d82f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-home_treatment_major_aa119045.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-home-treatment"></target></object><object chronic_id="091e9c5e8001dc2d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-medications_major_aa119046.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-medications"></target></object><object chronic_id="091e9c5e8001dbe0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-surgery_major_aa119050.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-surgery"></target></object><object chronic_id="091e9c5e8001d8fe" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-other_treatment_major_aa119054.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-other-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-other-treatment"></target></object><object chronic_id="091e9c5e8001dbf8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-other_places_to_get_help_major_aa118983-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001ddf9" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-related_information_major_aa118983-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-related-information"></target></object><object chronic_id="091e9c5e8001d82e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-references_major_aa118983-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-references"></target></object><object chronic_id="091e9c5e8001de17" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-credits_major_aa118983-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/tc/lumbar-spinal-stenosis-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e8002122a" path="/webmd/consumer_assets/controlled_content/healthwise/toc/major/lumbar_spinal_stenosis-toc_major_aa118983.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>Overview</section_type><section_link directive="article" chronic_id="091e9c5e8001e302" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-topic_overview_major_aa118986.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e8001e255" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-health_tools_major_aa118983-healthtools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Cause</section_title><section_type>Cause</section_type><section_link directive="article" chronic_id="091e9c5e8001dac4" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-cause_major_aa118989.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>Symptoms</section_type><section_link directive="article" chronic_id="091e9c5e8001dd53" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-symptoms_major_aa118994.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Happens</section_title><section_type>WhatHappens</section_type><section_link directive="article" chronic_id="091e9c5e8001e42c" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_happens_major_aa119018.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Increases Your Risk</section_title><section_type>WhatIncreasesYourRisk</section_type><section_link directive="article" chronic_id="091e9c5e8001d7dc" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-what_increases_your_risk_major_aa119019.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>When To Call a Doctor</section_title><section_type>WhenToCall</section_type><section_link directive="article" chronic_id="091e9c5e8001d952" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-when_to_call_a_doctor_major_aa119020.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>ExamsAndTests</section_type><section_link directive="article" chronic_id="091e9c5e8001deb8" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-exams_and_tests_major_aa119024.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>TreatmentOverview</section_type><section_link directive="article" chronic_id="091e9c5e8001ddce" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-treatment_overview_major_aa119029.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Prevention</section_title><section_type>Prevention</section_type><section_link directive="article" chronic_id="091e9c5e8001dd30" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-prevention_major_aa119044.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Home Treatment</section_title><section_type>HomeTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001d82f" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-home_treatment_major_aa119045.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Medications</section_title><section_type>Medications</section_type><section_link directive="article" chronic_id="091e9c5e8001dc2d" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-medications_major_aa119046.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Surgery</section_title><section_type>Surgery</section_type><section_link directive="article" chronic_id="091e9c5e8001dbe0" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-surgery_major_aa119050.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Treatment</section_title><section_type>OtherMedicalTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001d8fe" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-other_treatment_major_aa119054.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001dbf8" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-other_places_to_get_help_major_aa118983-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001ddf9" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-related_information_major_aa118983-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001d82e" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-references_major_aa118983-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001de17" path="/webmd/consumer_assets/controlled_content/healthwise/major/lumbar_spinal_stenosis-credits_major_aa118983-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Lumbar Spinal Stenosis</title><dynamic_objects><callout_title>Recommended Related to Back Pain</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80a62042"><metadata_section><i_chronicle_id>091e9c5e807feb96</i_chronicle_id><title>10 Tips for a Healthy Back</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>You never truly appreciate your back and all it does for you &#45;&#45; until it starts to hurt. Then every move brings a symphony of agony, until all you want to do is make your back pain stop.
+The bones, muscles, and joints that make up your back are among your body's biggest support systems. When any part of that system is weakened or injured, it becomes harder for your back to bear your weight.
+Up to 80% of adults have low back pain at some point in their lives. Instead of resorting to back pain treatment...</p></section_text><link siteid="3" prefix="www" friendlyurl="/back-pain/lower-back-pain-10/tips-for-a-healthy-back"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Lumbar Spinal Stenosis - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <p><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/medical/hw/ortho_04.jpg" alt="ortho_04.jpg" align="left" /></p>
+      <p>This topic is about <a href="http://www.webmd.com/back-pain/guide/spinal-stenosis" onclick="return sl(this,'','embd-lnk');">spinal stenosis</a> of the lower back, also known as the lumbar area. If you need information on spinal stenosis of the neck, see the topic <a href="http://www.webmd.com/a-to-z-guides/cervical-spinal-stenosis-topic-overview" onclick="return sl(this,'','embd-lnk');">Cervical Spinal Stenosis</a>.</p>
+      <p> Lumbar spinal stenosis is a <a href="http://www.webmd.com/back-pain/spinal-stenosis" onclick="return sl(this,'','embd-lnk');">narrowing</a> <a href="http://www.webmd.com/back-pain/spinal-stenosis" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a> of the <a href="http://www.webmd.com/back-pain/spinal-canal" onclick="return sl(this,'','embd-lnk');">spinal canal</a> <a href="http://www.webmd.com/back-pain/spinal-canal" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a> in the lower back, known as the lumbar area. </p>
+      <p>This usually happens when bone or tissue—or both—grow in the openings in the spinal bones. This growth can squeeze and irritate nerves that branch out from the <a href="http://www.webmd.com/back-pain/spinal-cord-anatomy" onclick="return sl(this,'','embd-lnk');">spinal cord</a> <a href="http://www.webmd.com/back-pain/spinal-cord-anatomy" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>.</p>
+      <p>The result can be pain, numbness, or weakness, most often in the legs, <a href="http://www.webmd.com/pain-management/picture-of-the-feet" onclick="return sl(this,'','embd-lnk');">feet</a>, and buttocks. </p>
+      <p>It's most often caused by changes that can happen as people age. For example:</p>
+      <ul>
+       <li>Connective tissues called <a href="http://www.webmd.com/hw-popup/ligament" onclick="return sl(this,'hw','embd-lnk');">ligaments</a> get thicker.</li>
+       <li><a href="http://www.webmd.com/hw-popup/osteoarthritis" onclick="return sl(this,'hw','embd-lnk');">Arthritis</a> leads to the growth of bony spurs that push on the nerves that branch out from the spinal cord.</li>
+       <li>Discs between the bones may be pushed backward into the spinal canal.</li>
+      </ul>
+      <p> Symptoms may include:</p>
+      <ul>
+       <li>Numbness, weakness, cramping, or pain in the legs, feet, or buttocks. These symptoms get worse when you walk, stand straight, or lean backward. The pain gets better when you sit down or lean forward.</li>
+       <li>Stiffness in the legs and thighs.</li>
+       <li>Low back pain.</li>
+       <li>In severe cases, loss of <a href="http://www.webmd.com/urinary-incontinence-oab/picture-of-the-bladder" onclick="return sl(this,'','embd-lnk');">bladder</a> and bowel control.</li>
+      </ul>
+      <p>Symptoms may be severe at times and not as bad at other times. Most people aren't severely disabled. In fact, many people don't have symptoms at all.</p>
+      <p>Your doctor can tell if you have it by asking questions about your symptoms and past health and by doing a <a href="http://www.webmd.com/a-to-z-guides/annual-physical-examinations" onclick="return sl(this,'','embd-lnk');">physical exam</a>. </p>
+      <p>You will probably need imaging tests such as an <a href="http://www.webmd.com/hw-popup/magnetic-resonance-imaging-mri" onclick="return sl(this,'hw','embd-lnk');">MRI</a>, a <a href="http://www.webmd.com/hw-popup/ct-or-cat-scan" onclick="return sl(this,'hw','embd-lnk');">CT scan</a>, and sometimes <a href="http://www.webmd.com/hw-popup/x-ray" onclick="return sl(this,'hw','embd-lnk');">X-rays</a>.</p>
+      <p>You can most likely control mild to moderate symptoms with pain medicines, <a href="http://www.webmd.com/fitness-exercise/default.htm" onclick="return sl(this,'','embd-lnk');">exercise</a>, and <a href="http://www.webmd.com/hw-popup/physical-therapy" onclick="return sl(this,'hw','embd-lnk');">physical therapy</a>. Your doctor may also give you a spinal shot of <a href="http://www.webmd.com/hw-popup/corticosteroid-injection" onclick="return sl(this,'hw','embd-lnk');">corticosteroid</a>, a medicine that reduces inflammation.</p>
+      <p>You may need surgery if your symptoms get worse or if they limit what you can do. Surgery to remove bone and tissue that are squeezing the nerve roots can help relieve leg pain and allow you to get back to normal activity. But it may not help back pain as much.</p>
+      <table cellpadding="0" cellspacing="0">
+       <colgroup>
+        <col />
+       </colgroup>
+       <tbody>
+        <tr>
+         <td valign="top"><p><b>Learning about lumbar spinal stenosis:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-topic-overview" onclick="return sl(this,'','embd-lnk');">What is lumbar spinal stenosis?</a></li>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-cause" onclick="return sl(this,'','embd-lnk');">What causes it?</a></li>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-symptoms" onclick="return sl(this,'','embd-lnk');">What are the symptoms?</a></li>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-prevention" onclick="return sl(this,'','embd-lnk');">Can I prevent it?</a></li>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-what-happens" onclick="return sl(this,'','embd-lnk');">What happens when I have it?</a></li>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-what-increases-your-risk" onclick="return sl(this,'','embd-lnk');">What increases my risk for lumbar spinal stenosis?</a></li>
+           <li><a href="http://www.webmd.com/a-to-z-guides/how-common-is-spinal-stenosis-topic-overview" onclick="return sl(this,'','embd-lnk');">How common is it?</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td valign="top"><p><b>Being diagnosed:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-when-to-call-a-doctor" onclick="return sl(this,'','embd-lnk');">Who can diagnose lumbar spinal stenosis?</a></li>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-exams-and-tests" onclick="return sl(this,'','embd-lnk');">How is it diagnosed?</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td valign="top"><p><b>Getting treatment:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-treatment-overview" onclick="return sl(this,'','embd-lnk');">How is lumbar spinal stenosis treated?</a></li>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-surgery" onclick="return sl(this,'','embd-lnk');">Will I need surgery?</a></li>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-medications" onclick="return sl(this,'','embd-lnk');">What medicines will I need to take?</a></li>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-other-treatment" onclick="return sl(this,'','embd-lnk');">What other treatments might be recommended?</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td valign="top"><p><b>Ongoing concerns:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-what-happens" onclick="return sl(this,'','embd-lnk');">How will I know if it's getting worse?</a></li>
+           <li> Should I have surgery?</li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td valign="top"><p><b>Living with lumbar spinal stenosis:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-home-treatment" onclick="return sl(this,'','embd-lnk');">What can I do at home to feel better?</a></li>
+           <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-when-to-call-a-doctor" onclick="return sl(this,'','embd-lnk');">When should I call my doctor?</a></li>
+          </ul></td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-health-tools'
+			});
+            
+			topics.push({
+			title : 'Cause',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-cause'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-symptoms'
+			});
+            
+			topics.push({
+			title : 'What Happens',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-what-happens'
+			});
+            
+			topics.push({
+			title : 'What Increases Your Risk',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-what-increases-your-risk'
+			});
+            
+			topics.push({
+			title : 'When To Call a Doctor',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-when-to-call-a-doctor'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-prevention'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Medications',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-medications'
+			});
+            
+			topics.push({
+			title : 'Surgery',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-surgery'
+			});
+            
+			topics.push({
+			title : 'Other Treatment',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-other-treatment'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: February 13, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-topic-overview">Topic Overview</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-health-tools">Health Tools</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-cause">Cause</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-symptoms">Symptoms</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-what-happens">What Happens</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-what-increases-your-risk">What Increases Your Risk</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-when-to-call-a-doctor">When To Call a Doctor</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-prevention">Prevention</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-home-treatment">Home Treatment</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-medications">Medications</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-surgery">Surgery</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-other-treatment">Other Treatment</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-related-information">Related Information</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-references">References</option><option value="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Lumbar Spinal Stenosis Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-cause" onclick="return sl(this,'','topicNav_3');" title="Cause">Cause</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-symptoms" onclick="return sl(this,'','topicNav_4');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-what-happens" onclick="return sl(this,'','topicNav_5');" title="What Happens">What Happens</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-what-increases-your-risk" onclick="return sl(this,'','topicNav_6');" title="What Increases Your Risk">What Increases Your Risk</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-when-to-call-a-doctor" onclick="return sl(this,'','topicNav_7');" title="When To Call a Doctor">When To Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-exams-and-tests" onclick="return sl(this,'','topicNav_8');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-treatment-overview" onclick="return sl(this,'','topicNav_9');" title="Treatment Overview">Treatment Overview</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-prevention" onclick="return sl(this,'','topicNav_10');" title="Prevention">Prevention</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-home-treatment" onclick="return sl(this,'','topicNav_11');" title="Home Treatment">Home Treatment</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-medications" onclick="return sl(this,'','topicNav_12');" title="Medications">Medications</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-surgery" onclick="return sl(this,'','topicNav_13');" title="Surgery">Surgery</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-other-treatment" onclick="return sl(this,'','topicNav_14');" title="Other Treatment">Other Treatment</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-other-places-to-get-help" onclick="return sl(this,'','topicNav_15');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-related-information" onclick="return sl(this,'','topicNav_16');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-references" onclick="return sl(this,'','topicNav_17');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-credits" onclick="return sl(this,'','topicNav_18');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Major';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1010"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_vid" href="http://www.webmd.com/pain-management/video/corrective-exercises" onclick="return sl(this,'','rltd-p-1010_1');">Exercises for Chronic Pain <i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/back-pain/guide/back-pain-injection-treatments" onclick="return sl(this,'','rltd-p-1010_2');">Injections for Back Pain: What You Need to Know</a> </li> 
+     <li id="x64"> <a class="type_vid" href="http://www.webmd.com/back-pain/video/abcs-of-back-pain" onclick="return sl(this,'','rltd-p-1010_3');">Back Pain: What You Need to Know<i> </i></a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/fibromyalgia/ss/slideshow-fibromyalgia-overview" onclick="return sl(this,'','rltd-p-1010_4');">What Fibromyalgia Looks Like</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/back-pain/features/back-pain-remedies-and-tips" onclick="return sl(this,'','rltd-p-1010_5');">12 Tips to Ease Back Pain</a> </li> 
+     <li id="x67" class="last"> <a class="type_vid" href="http://www.webmd.com/back-pain/video/water-knife-surgery" onclick="return sl(this,'','rltd-p-1010_6');">Water Knife Surgery for Back Pain<i> </i></a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1010_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80d3bc82" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806a4ecd</chronic_id><r_object_id>091e9c5e80d3bc82</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e806a4ecd.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>08/21/2013 15:08:37</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Back Pain Center/template_Back Pain Center_091e9c5e80022eb9.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80022eb9"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Lumbar Spinal Stenosis</name><link_title>Lumbar Spinal Stenosis</link_title><description>Lumbar spinal stenosis is spinal stenosis of the lower back. In spinal stenosis, the spinal canal narrows and irritates the spinal nerves causing back pain, weakness, and numbness. Follow the links below to find WebMD's comprehensive coverage about how spinal stenosis is caused as well as its symptoms, treatments, and prevention.</description><friendly_url>http://www.webmd.com/back-pain/lumbar-spinal-stenosis-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8001a92d"><link_title>Epidural Steroid Injections for Lumbar Spinal Stenosis</link_title><friendly_url>http://www.webmd.com/back-pain/epidural-steroid-injections-for-lumbar-spinal-stenosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e255"><link_title>Lumbar Spinal Stenosis-Health Tools</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dc2d"><link_title>Lumbar Spinal Stenosis-Medications</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-medications</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d8fe"><link_title>Lumbar Spinal Stenosis-Other Treatment</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-other-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d82f"><link_title>Lumbar Spinal Stenosis-Home Treatment</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dac4"><link_title>Lumbar Spinal Stenosis-Cause</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e42c"><link_title>Lumbar Spinal Stenosis-What Happens</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-what-happens</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d952"><link_title>Lumbar Spinal Stenosis-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dd30"><link_title>Lumbar Spinal Stenosis-Prevention</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001deb8"><link_title>Lumbar Spinal Stenosis-Exams and Tests</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dbe0"><link_title>Lumbar Spinal Stenosis-Surgery</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dd53"><link_title>Lumbar Spinal Stenosis-Symptoms</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ddce"><link_title>Lumbar Spinal Stenosis-Treatment Overview</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e806e72a0"><link_title>Laminectomy Animation</link_title><friendly_url>http://www.webmd.com/pain-management/video/laminectomy</friendly_url><thumbnail height="48" width="48" alt="laminectomy">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/joints_bones_and_muscles/back-pain/laminectomy/graphics/thumbnails/final/laminectomy-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801848be"><link_title>Surgery an Option for Spinal Stenosis</link_title><friendly_url>http://www.webmd.com/back-pain/news/20080220/surgery-an-option-for-spinal-stenosis</friendly_url><thumbnail height="" width="" alt="Surgery Helps Spinal Stenosis">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/February08/surgery_helps_spinal_stenosis.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e803e358c"><link_title>Back Pain Myths Slideshow</link_title><friendly_url>http://www.webmd.com/back-pain/ss/slideshow-back-pain-myths</friendly_url><thumbnail height="" width="" alt="Hand on back">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/back_pain_myths_slideshow/69x75_back_pain_myths_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80535355"><link_title>Slideshow: Surprising Reasons You're in Pain</link_title><friendly_url>http://www.webmd.com/pain-management/ss/slideshow-reasons-for-pain</friendly_url><thumbnail height="" width="" alt="woman holding neck">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/surprising_reasons_for_pain_slideshow/69x75_surprising_reasons_for_pain_slideshow_1.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ccc0"><link_title>Should I (or my child) have surgery for scoliosis?</link_title><friendly_url>http://www.webmd.com/back-pain/should-i-or-my-child-have-surgery-for-scoliosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061afc4"><link_title>Should I have magnetic resonance imaging (MRI) for low back pain?</link_title><friendly_url>http://www.webmd.com/back-pain/should-i-have-magnetic-resonance-imaging-mri-for-low-back-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061afe8"><link_title>Should I have surgery for spinal stenosis?</link_title><friendly_url>http://www.webmd.com/back-pain/should-i-have-surgery-for-spinal-stenosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001cc9d"><link_title>Decompressive Laminectomy for Lumbar Spinal Stenosis</link_title><friendly_url>http://www.webmd.com/back-pain/decompressive-laminectomy-for-spinal-stenosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dbf8"><link_title>Lumbar Spinal Stenosis-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001bec1"><link_title>Personal stories about having surgery for spinal stenosis</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/personal-stories-about-having-surgery-for-spinal-stenosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d0e0"><link_title>Cervical Spinal Stenosis-Related Information</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/cervical-spinal-stenosis-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001f137"><link_title>Myelogram</link_title><friendly_url>http://www.webmd.com/back-pain/myelogram-16147</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001a96d"><link_title>Opiate Pain Relievers for Spinal Stenosis</link_title><friendly_url>http://www.webmd.com/back-pain/opioids-for-spinal-stenosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/back-pain/ss/slideshow-back-pain-myths" onclick="return sl(this,'','lln-tdrelcon_1');">Back Pain Myths Slideshow</a></li>
+      <li><a href="http://www.webmd.com/pain-management/ss/slideshow-reasons-for-pain" onclick="return sl(this,'','lln-tdrelcon_2');">Slideshow: Surprising Reasons You're in Pain</a></li>
+      <li><a href="http://www.webmd.com/back-pain/epidural-steroid-injections-for-lumbar-spinal-stenosis" onclick="return sl(this,'','lln-tdrelcon_3');">Epidural Steroid Injections for Lumbar Spinal Stenosis</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-health-tools" onclick="return sl(this,'','lln-tdrelcon_4');">Lumbar Spinal Stenosis-Health Tools</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-medications" onclick="return sl(this,'','lln-tdrelcon_5');">Lumbar Spinal Stenosis-Medications</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-other-treatment" onclick="return sl(this,'','lln-tdrelcon_6');">Lumbar Spinal Stenosis-Other Treatment</a></li>
+      <li><a href="http://www.webmd.com/back-pain/tc/lumbar-spinal-stenosis-home-treatment" onclick="return sl(this,'','lln-tdrelcon_7');">Lumbar Spinal Stenosis-Home Treatment</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/back-pain/lumbar-spinal-stenosis-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Lumbar Spinal Stenosis Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1135280514&amp;tile=2029726173&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=972&amp;scent=&amp;pos=5000&amp;xpg=1661&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fback-pain%2ftc%2flumbar-spinal-stenosis-topic-overview&amp;artid=091e9c5e8001e302&amp;inst=0&amp;leaf=915&amp;cc=16&amp;tmg=1&amp;bc=_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1135280514&amp;amp;tile=2029726173&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=972&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=1661&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fback-pain%2ftc%2flumbar-spinal-stenosis-topic-overview&amp;amp;artid=091e9c5e8001e302&amp;amp;inst=0&amp;amp;leaf=915&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1661";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1135280514&amp;tile=2029726173&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=972&amp;scent=&amp;pos=5001&amp;xpg=1661&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fback-pain%2ftc%2flumbar-spinal-stenosis-topic-overview&amp;artid=091e9c5e8001e302&amp;inst=0&amp;leaf=915&amp;cc=16&amp;tmg=1&amp;bc=_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1135280514&amp;amp;tile=2029726173&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=972&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1661&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fback-pain%2ftc%2flumbar-spinal-stenosis-topic-overview&amp;amp;artid=091e9c5e8001e302&amp;amp;inst=0&amp;amp;leaf=915&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1661";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

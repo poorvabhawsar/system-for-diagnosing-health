@@ -1,0 +1,590 @@
+<title>Diabetic Retinopathy: Symptoms, Treatment &amp; More</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/diabetes/diabetes-health-check/diabetes-health-check-old" onclick="return sl(this,'','lln-toolsres_1');">Is Your Diabetes Under Control?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Tips: Stay Healthy With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853920" onclick="return sl(this,'','lln-toolsres_3');">How to Count Carbs With Diabetes</a></li>
+      <li id="x59"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/preventing-complications" onclick="return sl(this,'','lln-toolsres_4');">Preventing Diabetes Complications</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853926" onclick="return sl(this,'','lln-toolsres_5');">Diabetes Menu Plan</a></li>
+      <li id="x61"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/taking-care" onclick="return sl(this,'','lln-toolsres_6');">4 Every Day Tips for Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="article_rdr"> 
+    <div id="readspeaker_area" style="display: none;"> 
+     <div id="readspeaker_button1" class="rs_skip"> 
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /> </a> 
+     </div> 
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript">
+    </script> 
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:2});
+                    });
+                })();
+                </script> 
+     <div id="xp1"> 
+     </div> 
+    </div> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Diabetic Retinopathy</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <h3></h3> 
+     <p>Diabetic retinopathy occurs as a result of high <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> sugar and can cause blindness if left untreated.</p> 
+     <p>Diabetic retinopathy is an <a href="http://www.webmd.com/eye-health/picture-of-the-eyes" onclick="return sl(this,'','embd-lnk');">eye</a> condition that affects people with <a href="http://www.webmd.com/diabetes/default.htm" onclick="return sl(this,'','embd-lnk');">diabetes</a> who have high blood glucose, or sugar, over a prolonged period of time. Too much blood sugar can destroy the blood vessels in the back of the eye, preventing the retina from receiving the proper amount of nutrients it needs to maintain <a href="http://www.webmd.com/eye-health/default.htm" onclick="return sl(this,'','embd-lnk');">vision</a>.</p> 
+     <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" /> 
+     <div class="aia_rdr rs_skip"> 
+      <div class="aia_top_fmt"> 
+      </div> 
+      <div class="aia_border_fmt"> 
+       <div class="aia_title_bar_fmt"> 
+        <h4>Recommended Related to Diabetes</h4> 
+        <div class="clearing_fmt"> 
+        </div> 
+       </div> 
+       <p class="aia_read_full_fmt"> <a href="http://www.webmd.com/diabetes/features/how-a-diabetes-diet-protects-your-health" onclick="return sl(this,'','aia-related');">How a 'Diabetes Diet' Protects Your Health</a> </p> 
+       <div class="aia_section_fmt"> 
+        <div class="aia_content_fmt"> 
+         <p>If you have diabetes, a healthy diet does more than keep your blood sugar under better control. A good diabetes diet can also help prevent or delay the onset of complications such as nerve pain or heart disease. Although some people talk about a &quot;diabetes diet,&quot; there's really no such thing, experts say. The same healthy diet recommended for those without diabetes will help you if you have diabetes, too. You may need to then tailor the meal plan to your specific needs, such as lowering your cholesterol...</p> 
+        </div> 
+       </div> 
+       <p class="aia_read_full_fmt"> <a href="http://www.webmd.com/diabetes/features/how-a-diabetes-diet-protects-your-health" onclick="return sl(this,'','aia-related');">Read the How a 'Diabetes Diet' Protects Your Health article &gt; &gt;</a> </p> 
+       <div class="clearing_fmt"> 
+       </div> 
+      </div> 
+      <div class="aia_bot_fmt"> 
+      </div> 
+     </div> 
+     <script type="text/javascript">$(function(){
+if(typeof(s_sponsor_program) != 'undefined' ){
+/* remove aia if in a sponsored program */
+if(s_sponsor_program != ""){$(".aia_rdr").remove()}
+}
+});</script> 
+     <p>The retina is a light-sensitive nerve tissue at the back of the eye. As light enters the front of the eye, the retina converts the light rays into electrical impulses that travel along the optic nerve to part of the <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a> called the visual cortex. The brain then combines images sent from both eyes to interpret them as a single, three-dimensional image. This allows us to perceive depth and distance. Without the retina, the eye cannot communicate with the brain, making vision impossible.</p> 
+     <p>In the early stages of diabetic retinopathy, called nonproliferative retinopathy, these blood vessels leak fluid and distort sight. In the more advanced stage of diabetic retinopathy, called proliferative retinopathy, fragile new blood vessels grow around the retina and in the vitreous humor (a clear substance that fills the eye). If left untreated, these blood vessels may bleed, clouding vision or scar detaching the retina.</p> 
+     <p>Anyone with diabetes -- both type 1 or <a href="http://www.webmd.com/diabetes/guide/type-2-diabetes" onclick="return sl(this,'','embd-lnk');">type 2 diabetes</a> -- is at risk of developing diabetic retinopathy. However, the type of diabetes a person has, how often their blood glucose fluctuates, how well controlled the sugars are, and how long a person has had diabetes all affects his or her risk. The better you control <a href="http://www.webmd.com/diabetes/how-sugar-affects-diabetes" onclick="return sl(this,'','embd-lnk');">blood sugar levels</a>, the lower your risk.</p> 
+     <p>The National Eye Institute estimates that 40%-45% of all Americans with diabetes are affected by diabetic retinopathy, and 24,000 of them go blind each year.</p> 
+     <h3>What Happens if Diabetic Retinopathy Is Not Treated?</h3> 
+     <p>In untreated diabetic retinopathy, scar tissue that forms on the back of the retina as a result of a contraction of the new blood vessels can cause the retina to pull away from the back of the eye. This is called a retinal detachment. <a onclick="return sl(this,'','embd-lnk');" href="/content/article/63/72012.htm">Retinal detachment</a> can cause permanent blindness if left untreated.</p> 
+     <p>Diabetic retinopathy can also cause macular <a href="http://www.webmd.com/heart-disease/heart-failure/edema-overview" onclick="return sl(this,'','embd-lnk');">edema</a>. The macula is the inner part of the retina that allows for detail to be seen. When fluid from blood vessels leaks into the macula, it can swell making vision blurry.</p> 
+     <h3>Symptoms of Diabetic Retinopathy</h3> 
+     <p>There are often no early signs of diabetic retinopathy and sight may not be affected until the condition is severe. Sometimes loss of central vision when reading or driving, loss of the ability to see color, and blurriness of vision are the only signs of diabetic retinopathy. Small spots or <a href="http://www.webmd.com/eye-health/eye-floater" onclick="return sl(this,'','embd-lnk');">floaters</a> may also indicate blood vessel leaks and may clear up in days, weeks, or even months. But, because bleeding often occurs more than once, it is important to have an <a href="http://www.webmd.com/eye-health/ophthalmoscopy" onclick="return sl(this,'','embd-lnk');">eye exam</a> each year, and immediately if you experience any of these symptoms.</p> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <script type="text/javascript">
+var pagination_title=new Array();
+var pagination_current=1;
+
+pagination_title[1]="";
+pagination_title[2]="Diagnosing Diabetic Retinopathy";
+</script> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+     </div> 
+     <div class="right_fmt"> 
+      <span class="current_fmt">1</span> 
+      <span class="pipe_fmt">|</span> 
+      <a href="?page=2" title="Page 2">2</a> 
+      <div class="outline_fmt right"> 
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "editorial";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'WebMD Medical Reference';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1037"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','rltd-p-1037_1');">Diabetes? Get Tips to Avoid Health Problems</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1037_2');">Images of Diabetic Retinopathy and Other Vision Problems</a> </li> 
+     <li id="x64"> <a href="http://diabetes.webmd.com/diabetes-health-check/default.htm" onclick="return sl(this,'','rltd-p-1037_3');">Is Your Type 2 Diabetes Under Control?</a> </li> 
+     <li id="x65"> <a href="http://diabetes.webmd.com/diabetes-your-menu-6/alcohol" onclick="return sl(this,'','rltd-p-1037_4');">Dos and Don'ts: Diabetes and Alcohol Consumption</a> </li> 
+     <li id="x66"> <a href="http://diabetes.webmd.com/treating-diabetes-11/insulin-questions" onclick="return sl(this,'','rltd-p-1037_5');">Your Insulin Management Questions Answered</a> </li> 
+     <li id="x67" class="last"> <a href="http://arthritis.webmd.com/living-with-chronic-gout-11/gout-and-diabetes" onclick="return sl(this,'','rltd-p-1037_6');">Diabetes and Gout: Know the Risk Factors</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1037_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80a7df5a" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069325b</chronic_id><r_object_id>091e9c5e80a7df5a</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8069325b.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>05/30/2012 23:35:23</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Diabetes Health Center/template_Diabetes Health Center_091e9c5e800245f8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800245f8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Diabetic Retinopathy</name><link_title>Diabetic Retinopathy</link_title><description>Diabetic retinopathy is an eye condition that affects people with diabetes who have high blood glucose over a prolonged period of time. Too much blood sugar can destroy the blood vessels in the back of the eye, preventing the retina from receiving the proper amount of nutrients it needs to maintain vision. If left untreated, diabetes can cause a person to become blind. But with good blood sugar control, people with diabetes can reduce their risk of diabetic retinopathy. Follow the links below to find WebMD's comprehensive coverage about diabetic retinopathy, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/diabetes/diabetic-retinopathy-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e800084ed"><link_title>Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000c8ec"><link_title>New Approach Tried for Diabetic Blindness</link_title><friendly_url>http://www.webmd.com/diabetes/news/20050110/new-approach-tried-for-diabetic-blindness</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b650"><link_title>FDA Warning for 2 Diabetes Drugs</link_title><friendly_url>http://www.webmd.com/diabetes/news/20060105/fda-warning-for-2-diabetes-drugs</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8019fb89"><link_title>"Robo" Gene Fights Macular Degeneration</link_title><friendly_url>http://www.webmd.com/eye-health/macular-degeneration/news/20080317/robo-gene-fights-macular-degeneration</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/March08/reversing_amd-and_retinopathy.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000697f"><link_title>Your Eyesight and Diabetic Retinopathy</link_title><friendly_url>http://www.webmd.com/diabetes/features/eye-health-diabetic-retinopathy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007f36"><link_title>Causes and Treatments of Diabetic Retinopathy</link_title><friendly_url>http://www.webmd.com/diabetes/retinopathy-causes-treatments</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007f41"><link_title>Diabetic Eye Disease</link_title><friendly_url>http://www.webmd.com/diabetes/diabetic-eye-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800085cb"><link_title>A Closer Look at Diabetic Retinopathy</link_title><friendly_url>http://www.webmd.com/diabetes/closer-look-diabetic-retinopathy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dc85"><link_title>Diabetic Retinopathy-Exams and Tests</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e102"><link_title>Diabetic Retinopathy-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e32d"><link_title>Diabetic Retinopathy-Other Treatment</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-other-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80019f16"><link_title>Laser Photocoagulation for Diabetic Retinopathy</link_title><friendly_url>http://www.webmd.com/diabetes/laser-photocoagulation-for-diabetic-retinopathy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e20c"><link_title>Diabetic Retinopathy-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e028"><link_title>Diabetic Retinopathy-Prevention</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e205"><link_title>Diabetic Retinopathy-Surgery</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dc9b"><link_title>Diabetic Retinopathy-Topic Overview</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001f12c"><link_title>Eye Angiogram</link_title><friendly_url>http://www.webmd.com/eye-health/eye-angiogram</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e1a4"><link_title>Diabetic Retinopathy-Cause</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d8ca"><link_title>Diabetic Retinopathy-Health Tools</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dd29"><link_title>Diabetic Retinopathy-Treatment Overview</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001da56"><link_title>Diabetic Retinopathy-What Increases Your Risk</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-what-increases-your-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dbf2"><link_title>Diabetic Retinopathy-Symptoms</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e1c8"><link_title>Diabetic Retinopathy-Related Information</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d988"><link_title>Diabetic Retinopathy-What Happens</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-retinopathy-what-happens</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001adb3"><link_title>Diabetic Nephropathy-Related Information</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetic-nephropathy-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ec78"><link_title>Retinopathy, Diabetic</link_title><friendly_url>http://www.webmd.com/diabetes/retinopathy-diabetic</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is retinal detachment?</link_title><friendly_url>http://answers.webmd.com/answers/1192336/what-is-retinal-detachment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000ddee"><link_title>Sight-Saving Surgery Shows Promise, but Not Without Risk</link_title><friendly_url>http://www.webmd.com/eye-health/news/20000223/sight-saving-surgery-shows-promise-not-without-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800101ae"><link_title>Why We're Losing Sight</link_title><friendly_url>http://www.webmd.com/eye-health/news/20010501/why-were-losing-sight</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006b77"><link_title>Elderly People With Common Eye Disease Respond Well to Program</link_title><friendly_url>http://www.webmd.com/eye-health/news/20000228/elderly-people-with-common-eye-disease-respond-well-to-program</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://answers.webmd.com/answers/1192336/what-is-retinal-detachment" onclick="return sl(this,'','lln-tdrelcon_1');">What is retinal detachment?</a></li>
+      <li><a href="http://www.webmd.com/diabetes/type-2-diabetes" onclick="return sl(this,'','lln-tdrelcon_2');">Type 2 Diabetes</a></li>
+      <li><a href="http://www.webmd.com/diabetes/features/eye-health-diabetic-retinopathy" onclick="return sl(this,'','lln-tdrelcon_3');">Your Eyesight and Diabetic Retinopathy</a></li>
+      <li><a href="http://www.webmd.com/diabetes/retinopathy-causes-treatments" onclick="return sl(this,'','lln-tdrelcon_4');">Causes and Treatments of Diabetic Retinopathy</a></li>
+      <li><a href="http://www.webmd.com/diabetes/diabetic-eye-disease" onclick="return sl(this,'','lln-tdrelcon_5');">Diabetic Eye Disease</a></li>
+      <li><a href="http://www.webmd.com/diabetes/closer-look-diabetic-retinopathy" onclick="return sl(this,'','lln-tdrelcon_6');">A Closer Look at Diabetic Retinopathy</a></li>
+      <li><a href="http://www.webmd.com/diabetes/tc/diabetic-retinopathy-exams-and-tests" onclick="return sl(this,'','lln-tdrelcon_7');">Diabetic Retinopathy-Exams and Tests</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/diabetes/diabetic-retinopathy-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Diabetic Retinopathy Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=2092172138&tile=1572349844&tug=&pug=_2147_&site=2&affiliate=20&hcent=1037&scent=&pos=113&xpg=3630&sec=3630|4051&amp;au1=1&au2=1&uri=%2fdiabetes%2fdiabetic-retinopathy&artid=091e9c5e80007e43&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_i10_cust4_h35_h360_h54_e1_cust1_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'2092172138',
+                    tile:'1572349844',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "3630";
+      var secTopId = "3630|4051";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2092172138&amp;tile=1572349844&amp;tug=&amp;pug=_2147_&amp;site=2&amp;affiliate=20&amp;hcent=1037&amp;scent=&amp;pos=5001&amp;xpg=3630&amp;sec=3630|4051&amp;au1=1&amp;au2=1&amp;uri=%2fdiabetes%2fdiabetic-retinopathy&amp;artid=091e9c5e80007e43&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_i10_cust4_h35_h360_h54_e1_cust1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2092172138&amp;amp;tile=1572349844&amp;amp;tug=&amp;amp;pug=_2147_&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1037&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=3630&amp;amp;sec=3630|4051&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fdiabetes%2fdiabetic-retinopathy&amp;amp;artid=091e9c5e80007e43&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_i10_cust4_h35_h360_h54_e1_cust1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3630";
+			var secTopId = "3630|4051";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

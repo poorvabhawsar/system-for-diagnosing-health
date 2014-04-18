@@ -1,0 +1,910 @@
+<title>Which treatment should I have for my stage I nonseminoma testicular cancer?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/cancer/video/men-bladder-cancer" class="type_vid" onclick="return sl(this,'','lln-toolsres_1');">Bladder Cancer in Men<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Assess Your Cancer Risk</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/breast-cancer/slideshow-breast-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">Breast Cancer: A Visual Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cancer/video/humor-therapy-cancer" class="type_vid" onclick="return sl(this,'','lln-toolsres_4');">Humor Therapy for Cancer<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/cancer/pancreatic-cancer/slideshow-pancreatic-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_5');">Understanding Pancreatic Cancer<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/lung-cancer/slideshow-lung-cancer-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_6');">Lung Cancer: The Big Picture<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionset.js">
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="headerLink_fmt"> 
+      <a href="/www/decision-point" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;">What is a Decision Point?</a> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionsetTOC_decsion_pt.jpg" alt="decision point" width="77" height="20" class="headerImg_fmt" />Which treatment should I have for stage I nonseminoma testicular cancer?</h2> 
+     <div class="decisionPoint_fmt"> 
+      <div class="section_fmt "> 
+       <div class="arrowFirst_fmt"> 
+        <div class="leftBorder_fmt"> 
+         <div class="rounded_fmt"> 
+          <div class="vertical1_fmt"> 
+           <div class="vertical2_fmt"> 
+            <div class="vertical3_fmt"> 
+             <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Introduction</a> 
+            </div> 
+           </div> 
+          </div> 
+          <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP1Arrw" alt="arrow" /> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail1_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="zr1065-Intro"></a> 
+          <p>For most men faced with testicular cancer, surgery to remove the affected testicle (radical inguinal orchiectomy) is the first treatment. After you have completed this step, you and your doctor will discuss your options for further treatment.</p> 
+          <p>If you are diagnosed with nonseminoma testicular cancer and tests suggest that it has not spread beyond the testicles (testes), you might have choices. Your options may include a watchful waiting program, chemotherapy to kill any stray cancer cells, or surgery to remove the lymph nodes in your lower back (retroperitoneal lymph node dissection, or RPLND). Think about the following when making your decision:</p> 
+          <ul> 
+           <li>If your biggest concern is that testicular cancer might come back elsewhere in your body (metastasize), consider RPLND or chemotherapy. These treatments are the best options for completely getting rid of the cancer. </li> 
+           <li>RPLND surgery and chemotherapy do have risks. Watchful waiting allows you to avoid these risks, at least for now.</li> 
+           <li>You could be one of the 1 out of 4 men who get cancer again after a period of watchful waiting.<sup class="Reference">1</sup> If so, you may need to have more aggressive treatment than if you have RPLND or chemotherapy right after your orchiectomy.</li> 
+           <li>If you are willing to follow a schedule of regular checkups and tests, you can consider watchful waiting. If cancer comes back, it is important to treat it in its early stage. </li> 
+           <li>If you want to avoid the intense follow-up required for watchful waiting but are worried that RPLND or chemotherapy might harm your fertility, ask your doctor about sperm banking before treatment.</li> 
+          </ul> 
+          <p>For information about treatment options for stage I seminoma testicular cancer, see: </p> 
+          <dl> 
+           <dd>
+             Which treatment should I have for stage I seminoma testicular cancer?
+           </dd> 
+          </dl> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Medical Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP2Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail2_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="zr1065-MedInfo"></a> 
+          <h4>What is stage I nonseminoma testicular cancer?</h4> 
+          <p>Testicular cancer is a disease involving the uncontrolled growth of cells on or inside the testicles, or testes. </p> 
+          <p>There are two main types of testicular cancer: seminoma and nonseminoma germ-cell tumors (also called NSGCTs). Unlike seminomas, nonseminomas tend to be very resistant to radiation therapy. Nonseminoma cells are also more likely to travel through the bloodstream to the lungs, liver, bones, and brain.</p> 
+          <p>Stage I cancers are those that are believed to be confined to the testes, though in some cases they may have spread to the lymph nodes of the lower back (retroperitoneum) but cannot be detected.</p> 
+          <p>Both seminomas and nonseminomas are highly curable, especially when they are diagnosed and treated early. When compared to other forms of cancer, even those testicular cancers that have spread beyond the testes to other parts of the body have a very high cure rate.</p> 
+          <h4>What are the treatment choices for stage I nonseminoma germ-cell tumors?</h4> 
+          <p>Following orchiectomy, stage I nonseminoma germ-cell tumors (NSGCTs) are usually treated with additional surgery, chemotherapy, or watchful waiting. NSGCTs are rarely treated with radiation therapy.</p> 
+          <ul> 
+           <li> <b>Retroperitoneal lymph node dissection (RPLND)</b> is surgery to remove lymph nodes that may be cancerous from the lower back and pelvis. During the early phases of stage I nonseminoma testicular cancer, it can be very difficult to tell whether these lymph nodes are cancerous without surgically removing them first. In the past, RPLND was associated with high rates of infertility. Modern &quot;nerve-sparing&quot; and laparoscopic surgical techniques have lowered the chances of becoming infertile following RPLND.</li> 
+           <li> <b>Chemotherapy</b>. Chemotherapy is the use of very powerful medicines to kill cancer cells. The most common chemotherapy used to treat nonseminoma testicular cancer is called cisplatin combination therapy and involves the use of several different medicines. This treatment varies in intensity and is often used for men whose cancer has spread beyond the testes to lymph nodes or other organs.</li> 
+           <li> <b>Watchful waiting</b> means you are being monitored closely by your doctor but are not receiving active treatment such as surgery or chemotherapy. Men who choose watchful waiting for stage I nonseminomas usually have monthly physical exams, chest X-rays, and blood tests for the first year as well as one CT scan every 3 months. If no recurrent cancer is found, the number of physical exams and blood and imaging tests will gradually decrease to about one a year after 5 years following orchiectomy.<sup class="Reference">2</sup> This follow-up work can be hard for some men to do.</li> 
+          </ul> 
+          <h4>What are the risks of RPLND?</h4> 
+          <p>RPLND is a surgical procedure and carries all the risks of any major surgery, including:</p> 
+          <ul> 
+           <li>Reactions to anesthesia or medicines.</li> 
+           <li>Infection.</li> 
+           <li>Bleeding.</li> 
+          </ul> 
+          <p> RPLND can cause retrograde ejaculation, which can make you infertile. This can happen as a result of nerve damage caused by the surgery. With retrograde ejaculation, the semen flows from the prostate gland into the bladder rather than out through the penis. </p> 
+          <p>Men with retrograde ejaculation typically do not have erection problems or difficulty enjoying sex.</p> 
+          <p>Laparoscopic and other <b>&quot;nerve-sparing&quot; techniques</b> now used in many RPLND surgeries have greatly lowered the risk of retrograde ejaculation following RPLND. Studies show that 95% of men who have nerve-sparing RPLND have normal ejaculation after surgery.<sup class="Reference">2</sup> Nerve-sparing RPLND surgery may be more difficult or impossible for men who have previously had chemotherapy treatment for cancer. Talk to your doctor about whether nerve-sparing surgery is possible for you.</p> 
+          <p>Other risks associated with RPLND include:</p> 
+          <ul> 
+           <li>Postoperative pain.</li> 
+           <li> Chylous ascites, a condition in which digestive fluids collect inside the abdominal (belly) cavity. This may lead to abdominal pain and difficulty breathing.</li> 
+           <li>Lymphedema, which is a collection of fluid that causes swelling (edema) in the arms and legs. This type of edema occurs when the amount of lymph fluid in a person's arm or leg exceeds the body's ability to remove it, and the fluid then collects in the tissues of the limb. </li> 
+           <li>Excessive bleeding (hemorrhage). </li> 
+           <li>Pulmonary embolism, which is a sudden blockage of arterial blood flow within the lung.</li> 
+          </ul> 
+          <h4>What are the risks of chemotherapy?</h4> 
+          <p>Chemotherapy affects rapidly growing cells in your body. Besides cancer cells, this includes blood cells, hair cells, and the cells that line your digestive tract. Common short-term side effects include nausea and vomiting, hair thinning or hair loss, mouth sores, diarrhea, and an increased chance of bleeding and infection. Many men do not have problems with these side effects. Other men have a great deal of difficulty. If you have problems, your doctor can use other medicines to help relieve some of these side effects.</p> 
+          <p>Combination chemotherapy for the treatment of testicular cancer has also been associated with serious long-term side effects. These side effects are uncommon. They include high blood pressure, increased cholesterol levels, kidney, heart, and lung damage, and also an increased risk of secondary cancers including leukemia and melanoma.<sup class="Reference">1</sup> (But these long-term side effects have been linked to higher doses of chemotherapy than are usually used for stage I testicular cancers.) Before beginning treatment, talk to your doctor about any concerns you may have about the long-term side effects of chemotherapy.</p> 
+          <p>Chemotherapy for treatment of testicular cancer has been linked to permanent infertility in some men. Most men diagnosed with testicular cancer are younger than 35, so fertility issues are often important in determining which treatment they receive. Most chemotherapy does not permanently affect healthy sperm counts, but many doctors recommend sperm banking prior to any treatment for testicular cancer for those men who may wish to have children. Talk to your doctor about any fertility concerns you have. </p> 
+          <h4>What are the risks of watchful waiting?</h4> 
+          <p> About 25% of men (1 out of 4) who choose watchful waiting instead of RPLND following orchiectomy will have their cancer return and will need chemotherapy.<sup class="Reference">1</sup> Watchful waiting is a reasonable choice for many men with stage I nonseminoma testicular cancer. But watchful waiting depends on diligent follow-up care by you and your doctor. </p> 
+          <p>In most cases of careful watchful waiting, recurrent cancer is confined to lymph nodes in the lower back and pelvis. This can usually be successfully treated when the testing schedule has been closely followed and the cancer is discovered when it first appears. </p> 
+          <p>Cancer that appears in the retroperitoneal lymph nodes during watchful waiting may require more aggressive therapy than if RPLND or chemotherapy had been done right after orchiectomy. </p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Your Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP3Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail3_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="zr1065-YourInfo"></a> 
+          <p>Your choices are:</p> 
+          <ul> 
+           <li>Have a retroperitoneal lymph node dissection (RPLND).</li> 
+           <li>Have chemotherapy treatment.</li> 
+           <li>Try watchful waiting.</li> 
+          </ul> 
+          <p>The decision about whether to choose RPLND surgery, chemotherapy, or watchful waiting takes into account your personal feelings and the medical facts.</p> 
+          <p> <b>Stage I nonseminoma testicular cancer treatment choices</b> </p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0"> 
+           <caption> 
+            <b>Retroperitoneal lymph node dissection (RPLND)</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th scope="col">Reasons to choose RPLND surgery</th> 
+             <th scope="col">Reasons not to choose RPLND surgery</th> 
+            </tr> 
+            <tr> 
+             <td valign="top"> 
+              <ul> 
+               <li>Provides a very high rate of cure for stage I nonseminomas. Up to 90% of men (9 out of 10) who have RPLND are cured of testicular cancer and require no further treatment.<sup class="Reference">1</sup></li> 
+               <li>Newer &quot;nerve-sparing&quot; surgical techniques have greatly reduced the chance of becoming infertile.</li> 
+               <li>There is a smaller chance that chemotherapy will be needed as a part of future treatment.</li> 
+              </ul> <p>Are there other reasons you might want to choose RPLND surgery?</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>RPLND is considered a major surgery and as such, it involves some risk.</li> 
+               <li>Even with nerve-sparing techniques, retrograde ejaculation and infertility results in 5% of cases (5 out of 100).<sup class="Reference">2</sup></li> 
+              </ul> <p> Are there other reasons you might not want to choose RPLND surgery?</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0"> 
+           <caption> 
+            <b>Chemotherapy</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th scope="col">Reasons to choose chemotherapy</th> 
+             <th scope="col">Reasons not to choose chemotherapy</th> 
+            </tr> 
+            <tr> 
+             <td valign="top"> 
+              <ul> 
+               <li>Chemotherapy provides a very high cure rate for stage I nonseminomas. About 90% to 95% of men who have chemotherapy for stage I nonseminomas are cured of the disease.<sup class="Reference">1</sup></li> 
+               <li>Chemotherapy given for stage I nonseminomas is usually at a low dose, so long-term side effects are rare.</li> 
+              </ul> <p>Are there other reasons you might want to choose chemotherapy?</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>Chemotherapy can cause serious long-term health problems, including secondary cancers. (This is uncommon.) These cancers may not appear until many years after treatment.</li> 
+               <li>Surgery to remove damaged tissue or remaining cancer may be required after chemotherapy. In these cases, nerve-sparing techniques may not be possible.</li> 
+              </ul> <p>Are there other reasons you might not want to choose chemotherapy?</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0"> 
+           <caption> 
+            <b>Watchful waiting</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th scope="col"> Reasons to choose watchful waiting</th> 
+             <th scope="col"> Reasons not to choose watchful waiting</th> 
+            </tr> 
+            <tr> 
+             <td valign="top"> 
+              <ul> 
+               <li>You may be able to avoid the risks and side effects associated with RPLND surgery and chemotherapy. About 3 out of 4 men (75%) who choose watchful waiting are cured and avoid the possible side effects of other therapies.<sup class="Reference">1</sup></li> 
+              </ul> <p>Are there other reasons you might want to choose watchful waiting?</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>Watchful waiting entails a very intense and prolonged observation schedule that some men find difficult to follow. </li> 
+               <li>If cancer appears in the lymph nodes during watchful waiting, there is a greater chance that more intensive chemotherapy will be required to cure the disease and that RPLND will be necessary after chemotherapy.</li> 
+              </ul> <p>Are there other reasons you might not want to choose watchful waiting?</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p>These personal stories may help you make your decision.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Wise Health Decision</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP4Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail4_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="zr1065-WiseDecision"></a> 
+          <p> Use this worksheet to help you make your decision. After completing it, you should have a better idea of how you feel about choosing between watchful waiting, chemotherapy, and RPLND surgery. Discuss the worksheet with your doctor.</p> 
+          <p>Circle the answer that best applies to you.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody> 
+            <tr> 
+             <td valign="top"> <p>I am concerned that if I have treatment, I may never be able to have children.</p> </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%"> Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>I am willing to put up with the possibility of being unable to have children if it means that my testicular cancer will be cured for good. </p> </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>I am concerned that I won't be able to stick to my doctor's follow-up schedule if I choose watchful waiting.</p> </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>I am willing to put up with the stress of a watchful waiting program if it means I may not need additional surgery to cure my cancer.</p> </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>I am concerned that if I choose watchful waiting and my cancer returns, I may need more aggressive treatment than if I had chosen RPLND or chemotherapy to begin with.</p> </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <p>Use the following space to list any other important concerns you have about this decision.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <tbody>
+            <tr> 
+             <td valign="top" width="98%"> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <h4>What is your overall impression?</h4> 
+          <p>Your answers in the above worksheet are meant to give you a general idea of where you stand on this decision. You may have one overriding reason to choose watchful waiting, chemotherapy, or RPLND surgery.</p> 
+          <p>Check the box below that represents your overall impression about your decision.</p> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward watchful waiting</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="25%"> <p> <b>Leaning toward treatment</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward RPLND</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="25%"> <p> <b>Leaning toward chemotherapy</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">References</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP5Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail5_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="zr1065-Bib"></a> 
+          <blockquote> 
+           <h3>Citations</h3> 
+           <ol> 
+            <li> <p> <a name="zr1028"></a>Raghavan D, et al. (2007). Bladder, renal, and testicular cancer. In DC Dale, DD Federman, eds., <u>ACP Medicine</u>, section 12, chap. 14. New York: WebMD.</p> </li> 
+            <li> <p> <a name="zr1068"></a>Vuky J, Motzer RJ (2003). Testicular germ cell cancer. In B Furie et al., eds., <u>Clinical Hematology and Oncology</u>, pp. 813–824. Philadelphia: Churchill Livingstone. </p> </li> 
+           </ol> 
+          </blockquote> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt  last_fmt"> 
+       <div class="arrowLast_fmt" id="lastDiv"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;">Credits</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP6Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail6_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="zr1065-Credits"></a> 
+          <table border="0" cellpadding="5"> 
+           <tbody>
+            <tr> 
+             <td valign="top"> <b>Author</b> </td> 
+             <td>Bets Davis, MFA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Editor</b> </td> 
+             <td>Susan Van Houten, RN, BSN, MBA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Pat Truman, MATC</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+             <td>Anne C. Poinier, MD - Internal Medicine</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+             <td>Christopher G. Wood, MD, FACS - Urology/Oncology</td> 
+            </tr> 
+            <tr> 
+             <td> <b>Last Updated</b> </td> 
+             <td>January 26, 2009</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: January 26, 2009
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - DecisionPoint';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1022"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/cancer/features/15-cancer-symptoms-women-ignore" onclick="return sl(this,'','rltd-p-1022_1');">15 Cancer Symptoms Women Ignore</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cancer/video/sleep-and-cancer" onclick="return sl(this,'','rltd-p-1022_2');">Sleep Problems and Cancer</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/cancer/features/see-cancer-specialist" onclick="return sl(this,'','rltd-p-1022_3');">Cancer: Should You See a Specialist?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/cancer/features/8-ways-to-lower-cancer-risk" onclick="return sl(this,'','rltd-p-1022_4');">8 Ways to Lower Your Cancer Risk</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/cancer/video/chemo-nausea-side-effect" onclick="return sl(this,'','rltd-p-1022_5');">Chemotherapy Side Effects</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/melanoma-skin-cancer/slideshow-precancerous-skin-lesions-and-skin-cancer" onclick="return sl(this,'','rltd-p-1022_6');">See What Skin Cancer Looks Like</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1022_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80b888df" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80692f78</chronic_id><r_object_id>091e9c5e80b888df</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e80692f78.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>10/26/2012 12:56:58</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Cancer Health Center/template_Cancer Health Center_091e9c5e80024927.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80024927"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Testicular Cancer</name><link_title>Testicular Cancer</link_title><description>Testicular cancer begins in the testicles, the two glands that produce male hormones and sperm. Although rare, testicular cancer is the most common type of cancer in men aged 15 to 35. Testicular cancer is among the more curable cancers, even at an advanced stage, thanks to improved detection and treatment. There is a higher incidence in men who had or have a condition called an undescended testicle, who have fertility problems, and who've had a father with the disease. Symptoms include swelling and hardening of a testicle and a change in its shape or size. Treatment includes surgically removing the cancerous testicle, radiation therapy, and chemotherapy. Follow the links below to find WebMD's comprehensive coverage about testicular cancer, its causes, symptoms, treatments, and much more.</description><friendly_url>http://www.webmd.com/cancer/testicular-cancer-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8001bb4e"><link_title>Personal stories about choosing radiation therapy or watchful waiting for stage I seminoma</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/personal-stories-about-choosing-radiation-therapy-or-watchful-waiting-for-stage-i-seminoma</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is testicular cancer?</link_title><friendly_url>http://answers.webmd.com/answers/1194654/what-is-testicular-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000d91d"><link_title>Testicular Cancer Survivors Still at Risk</link_title><friendly_url>http://www.webmd.com/cancer/news/20050920/testicular-cancer-survivors-still-at-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e486"><link_title>Testicular Cancer Likely to Be Cured, Even When It Recurs</link_title><friendly_url>http://www.webmd.com/cancer/news/20001003/testicular-cancer-likely-to-be-cured-even-when-recurs</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006926"><link_title>Experts Raise Eyebrow at Link Between Exercise in Teen Years and Testicular Cancer</link_title><friendly_url>http://www.webmd.com/fitness-exercise/news/20000121/teen-exercise-testicular-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006cd9"><link_title>Experts Raise Eyebrow at Link Between Exercise in Teen Years and Testicular Cancer</link_title><friendly_url>http://www.webmd.com/parenting/news/20000120/experts-raise-eyebrow-link-between-exercise-teen-years-testicular-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001008e"><link_title>One-Shot Treatment Can Cure Testicular Cancer</link_title><friendly_url>http://www.webmd.com/cancer/news/20040609/one-shot-treatment-can-cure-testicular-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ef78"><link_title>Fathering a Child After Testicular Cancer</link_title><friendly_url>http://www.webmd.com/men/news/20051104/fathering-child-after-testicular-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ff43"><link_title>Testicular Cancer Test May Give Early Diagnosis</link_title><friendly_url>http://www.webmd.com/cancer/news/20050302/testicular-cancer-test-may-give-early-diagnosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010f36"><link_title>Testicular Cancer and Infertility Link</link_title><friendly_url>http://www.webmd.com/infertility-and-reproduction/news/20051118/testicular-cancer-infertility-link</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801c1e00"><link_title>Cancer Risk Lingers for Long-Banned DDT</link_title><friendly_url>http://www.webmd.com/men/news/20080428/cancer-risk-lingers-for-long-banned-ddt</friendly_url><thumbnail height="" width="" alt="pesticides and testicular cancer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/April08/pesticides-and_testicular_cancer_risk.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80216c54"><link_title>Olympian's Cancer: Treat or Compete?</link_title><friendly_url>http://www.webmd.com/men/news/20080714/olympian-shanteau-testicular-cancer-treat-or-compete</friendly_url><thumbnail height="" width="" alt="testicular_cancer_faq.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/July08/testicular_cancer_faq.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d477"><link_title>Testicular Cancer Cure Poses Problems</link_title><friendly_url>http://www.webmd.com/cancer/news/20020228/testicular-cancer-cure-poses-problems</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007bd5"><link_title>Testicular Cancer &#45;&#45; the Basics</link_title><friendly_url>http://www.webmd.com/cancer/understanding-testicular-cancer-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008e1b"><link_title>Treating Testicular Cancer</link_title><friendly_url>http://www.webmd.com/cancer/understanding-testicular-cancer-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80005f21"><link_title>An Overview of Testicular Cancer</link_title><friendly_url>http://www.webmd.com/cancer/preventing-testicular-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e805f96df"><link_title>Healthy Sex Life: Better Health Evaluator from WebMD</link_title><friendly_url>http://www.webmd.com/sex-relationships/bhc-healthy-sex-life/default.htm</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1004</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000d5f5"><link_title>Food Toxin Linked to Testicular Cancer</link_title><friendly_url>http://www.webmd.com/baby/news/20020207/food-toxin-linked-to-testicular-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001a929"><link_title>Bleomycin</link_title><friendly_url>http://www.webmd.com/cancer/bleomycin</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001a9aa"><link_title>Ifosfamide</link_title><friendly_url>http://www.webmd.com/cancer/ifosfamide</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f452c"><link_title>Testicular Cancer Screening (PDQ®): Screening - Health Professional Information [NCI]-Questions or Comments About This Summary</link_title><friendly_url>http://www.webmd.com/cancer/tc/testicular-cancer-screening-health-professional-information-nci-pdq-questions-or-comments-about</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f43b9"><link_title>Screening for Testicular Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/testicular-cancer-screening-patient-information-nci-pdq-to-learn-more</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802491eb"><link_title>Testicular Cancer Treatment (PDQ®): Treatment - Health Professional Information [NCI]-Get More Information From NCI</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000062899-get-more-information-from-nci</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f42d4"><link_title>Testicular Cancer Treatment (PDQ®): Treatment - Health Professional Information [NCI]-Recurrent Testicular Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/germ-cell-tumors-testicular-treatment-health-professional-information-nci-pdq-recurrent-testicular</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f42d3"><link_title>Testicular Cancer Treatment (PDQ®): Treatment - Health Professional Information [NCI]-Stage III Testicular Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/germ-cell-tumors-testicular-treatment-health-professional-information-nci-pdq-stage-iii-testicular</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4047"><link_title>Testicular Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-Stages of Testicular Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/germ-cell-tumors-testicular-treatment-patient-information-nci-pdq-stages-of-testicular-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4048"><link_title>Testicular Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-Recurrent Testicular Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/germ-cell-tumors-testicular-treatment-patient-information-nci-pdq-recurrent-testicular-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80298eb8"><link_title>Testicular Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-To Learn More About Testicular Cancer</link_title><friendly_url>http://www.webmd.com/cancer/tc/ncicdr0000257530-to-learn-more-about-testicular-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f4049"><link_title>Testicular Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-Treatment Option Overview</link_title><friendly_url>http://www.webmd.com/cancer/tc/germ-cell-tumors-testicular-treatment-patient-information-nci-pdq-treatment-option-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800f404a"><link_title>Testicular Cancer Treatment (PDQ®): Treatment - Patient Information [NCI]-Treatment Options by Stage</link_title><friendly_url>http://www.webmd.com/cancer/tc/germ-cell-tumors-testicular-treatment-patient-information-nci-pdq-treatment-options-by-stage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/sex-relationships/bhc-healthy-sex-life/default.htm" onclick="return sl(this,'','lln-tdrelcon_1');">Healthy Sex Life: Better Health Evaluator from WebMD</a></li>
+      <li><a href="http://answers.webmd.com/answers/1194654/what-is-testicular-cancer" onclick="return sl(this,'','lln-tdrelcon_2');">What is testicular cancer?</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/personal-stories-about-choosing-radiation-therapy-or-watchful-waiting-for-stage-i-seminoma" onclick="return sl(this,'','lln-tdrelcon_3');">Personal stories about choosing radiation therapy or watchful waiting for stage I seminoma</a></li>
+      <li><a href="http://www.webmd.com/cancer/understanding-testicular-cancer-basics" onclick="return sl(this,'','lln-tdrelcon_4');">Testicular Cancer -- the Basics</a></li>
+      <li><a href="http://www.webmd.com/cancer/understanding-testicular-cancer-treatment" onclick="return sl(this,'','lln-tdrelcon_5');">Treating Testicular Cancer</a></li>
+      <li><a href="http://www.webmd.com/cancer/preventing-testicular-cancer" onclick="return sl(this,'','lln-tdrelcon_6');">An Overview of Testicular Cancer</a></li>
+      <li><a href="http://www.webmd.com/cancer/bleomycin" onclick="return sl(this,'','lln-tdrelcon_7');">Bleomycin</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/cancer/testicular-cancer-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Testicular Cancer Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=623696729&tile=378290733&tug=&pug=__&site=2&affiliate=20&hcent=&scent=848&pos=113&xpg=2946&sec=&amp;au1=2&au2=1&uri=%2fcancer%2fwhich-treatment-should-i-have-for-my-stage-i-nonseminoma-testicular-cancer&artid=091e9c5e8001cca6&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_gen1_cust4_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'623696729',
+                    tile:'378290733',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "2946";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=623696729&amp;tile=378290733&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=848&amp;pos=5001&amp;xpg=2946&amp;sec=&amp;au1=2&amp;au2=1&amp;uri=%2fcancer%2fwhich-treatment-should-i-have-for-my-stage-i-nonseminoma-testicular-cancer&amp;artid=091e9c5e8001cca6&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_gen1_cust4_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=623696729&amp;amp;tile=378290733&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=848&amp;amp;pos=5001&amp;amp;xpg=2946&amp;amp;sec=&amp;amp;au1=2&amp;amp;au2=1&amp;amp;uri=%2fcancer%2fwhich-treatment-should-i-have-for-my-stage-i-nonseminoma-testicular-cancer&amp;amp;artid=091e9c5e8001cca6&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_gen1_cust4_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2946";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

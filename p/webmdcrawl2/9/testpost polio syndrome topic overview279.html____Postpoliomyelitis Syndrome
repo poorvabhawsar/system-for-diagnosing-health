@@ -1,0 +1,615 @@
+<title>Post-Polio Syndrome-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/alzheimers/ss/slideshow-alzheimers-overview" class="type_ss" onclick="return sl(this,'','tools-res_1');">Caregiver's Guide to Alzheimer's<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/stroke/ss/slideshow-stroke-overview" class="type_ss" onclick="return sl(this,'','tools-res_2');">Stroke Explained in Photos<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parkinsons-disease/ss/slideshow-parkinsons-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">Parkinson's Disease Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/brain/ss/slideshow-concussions-brain-injuries" class="type_ss" onclick="return sl(this,'','tools-res_4');">What Concussions and Brain Injuries Look Like<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/default.htm" onclick="return sl(this,'','tools-res_5');">The Secret to Managing Your MS</a></li>
+      <li id="x61"><a href="http://www.webmd.com/brain/video/skull-implant" class="type_vid" onclick="return sl(this,'','tools-res_6');">Implants Aid Skull Healing<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e9f34c"><metadata_section><i_chronicle_id>091e9c5e80a75ff3</i_chronicle_id><r_object_id>091e9c5e80e9f34c</r_object_id><title>Topic Overview</title><object_name>post-polio_syndrome-topic_overview_special_hw184076.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e9f34c</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_hw184076</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Post-Polio Syndrome-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is post-polio syndrome? Post-polio syndrome is an illness of the nervous system that can appear 15 to 50 years after you had polio.  It affects your muscles and nerves,and it causes you to have weakness,fatigue,and muscle or joint pain.  Although post-polio syndrome can make some day-to-day activities more difficult,treatment can help control symptoms and help you stay active.  Your ...</wbmd_desc_meta><wbmd_orig_pub_dt>03/08/2013 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is post-polio syndrome? Post-polio syndrome is an illness of the nervous system that can appear 15 to 50 years after you had polio.  It affects your muscles and nerves,and it causes you to have weakness,fatigue,and muscle or joint pain.  Although post-polio syndrome can make some day-to-day activities more difficult,treatment can help control symptoms and help you stay active.  Your ...</wbmd_desc_user><wbmd_lk_ttl>Post-Polio Syndrome-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>polio,poliomyelitis,post-polio syndrome</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>R52</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e9f34c</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4094" wbmd_disp_nm="Brain &amp; Nervous System"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1018" wbmd_disp_nm="Brain &amp; Nervous System"></wbmd_c_channel_id><wbmd_c_frnd_nm>Post-Polio-Syndrome-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>SpecialSection</section_type><section_text><p><img align="left" alt="neuro_02.jpg" height="102" src="/webmd/consumer_assets/site_images/media/medical/hw/neuro_02.jpg" type="medical" width="130" directive="imageurl" chronic_id="091e9c5e80019c2b" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/medical/hw/neuro_02.jpg"></p></section_text></section_group><section_group><section_header>What is post-polio syndrome?</section_header><section_type>SpecialSection</section_type><section_text><p>Post-<a chronic_id="091e9c5e8039cf8f" crossLinkId="1585021" directive="friendlyurl" externalId="091e9c5e8039cf8f" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/miscellaneous/polio_vaccine_ipv.xml" keywordId="72437" keywordSetId="32683" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/miscellaneous/polio_vaccine_ipv.xml">polio</a>
+			 syndrome is an illness of the
+			 <a chronic_id="091e9c5e8001b4da" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/nervous_system_definition_stn166121.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/nervous_system_definition_stn166121.xml">nervous system</a> that can appear 15 to 50 years after you
+			 had
+			 <a chronic_id="091e9c5e8001b057" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/polio_definition_stp1874.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/polio_definition_stp1874.xml">polio</a>. It affects your muscles and nerves, and it
+			 causes you to have weakness, <a chronic_id="091e9c5e8001e577" crossLinkId="43920" directive="friendlyurl" externalId="091e9c5e8001e577" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/weakness_and_fatigue-topic_overview_symptom_hw90102.xml" keywordId="7389" keywordSetId="1192" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/weakness_and_fatigue-topic_overview_symptom_hw90102.xml">fatigue</a>, and muscle or <a chronic_id="091e9c5e803c78f0" crossLinkId="1506303" directive="friendlyurl" externalId="091e9c5e803c78f0" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/joints_bones_and_muscles/miscellaneous/joint_pain.xml" keywordId="60370" keywordSetId="26609" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/joints_bones_and_muscles/miscellaneous/joint_pain.xml">joint pain</a>. </p><p>Although post-polio syndrome can make some day-to-day activities more difficult, treatment can help control symptoms and help you stay active. Your symptoms may not get worse for many years. Post-polio syndrome usually progresses very slowly. </p><p>Only people who
+			 have had polio can get post-polio syndrome. But having post-polio syndrome
+			 doesn't mean that you have polio again. Unlike polio, post-polio syndrome doesn't spread from person to person.</p></section_text></section_group><section_group><section_header>What causes post-polio syndrome?</section_header><section_type>SpecialSection</section_type><section_text><p>Post-polio syndrome most likely
+			 arises from the damage left over from having polio.</p><p>The polio
+			 virus harms the nerves that control muscles, and it makes the muscles weak. If
+			 you had polio, you may have gained back the use of your muscles. But the nerves
+			 that connect to the muscles could be damaged without your knowing it. The
+			 nerves may break down over time and cause you to have weak muscles
+			 again.</p><p>Researchers are studying other possible causes of
+			 post-polio syndrome. One theory is that the
+			 <a chronic_id="091e9c5e8001af55" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/immune_system_definition_sti150867.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/immune_system_definition_sti150867.xml">immune system</a> plays a role.</p></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p>Symptoms of post-polio
+			 syndrome tend to show up very slowly. The main symptoms are:</p><ul><li><b>New muscle weakness</b>. This is most common in the muscles that had nerve
+			 damage from polio.
+			 You may also have weakness in muscles that you didn't realize had been affected by
+			 polio. Overuse or underuse of the muscles can lead to weakness. </li><li><b>Fatigue</b>. You may find that the activities you used to do without getting tired are now causing fatigue. You may often feel tired, have a heavy feeling in your muscles, or feel sleepy. At times you may have trouble thinking clearly. </li><li><b>Muscle or joint pain</b>. Muscles affected by polio tend to be weaker than normal. To make up for this weakness, other muscles have to work harder. This puts extra wear and tear on muscles, joints, and tendons, sometimes leading to aches, cramping, and pain.</li></ul><p>Depending on which muscles are affected, this trio of muscle weakness, fatigue, and pain can make daily activities more difficult. For example, people with <a chronic_id="091e9c5e80583331" crossLinkId="1507498" directive="friendlyurl" externalId="091e9c5e80583331" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.xml" keywordId="62991" keywordSetId="28547" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.xml">shoulder</a> or arm weakness may have trouble getting dressed. People who have weakness in their legs may have trouble walking or climbing stairs.</p><p>Some people who have post-polio syndrome
+			 also have problems with swallowing, sleeping, and tolerating cold
+			 temperatures. Or they may need help to improve their breathing.</p></section_text></section_group><section_group><section_header>How is post-polio syndrome diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>Doctors diagnose post-polio syndrome based on your symptoms, medical history, and lab tests. Your doctor will look at how polio affected you and how well you healed from
+			 it. Lab tests will be done to check for other causes of your symptoms. If your symptoms and history point to post-polio syndrome, and if tests cannot find another cause, then your doctor may diagnose post-polio syndrome.</p><p>You may
+			 need to have more tests or exams if your symptoms change. </p></section_text></section_group></page><page><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>Post-polio syndrome is a
+			 condition that you may have for the rest of your life. The goal of treatment is to help you control symptoms and learn ways to stay active in spite of your
+			 muscle weakness. Here are some things you can do to stay active and feel better:</p><ul><li><b>Get enough <a chronic_id="091e9c5e80c1b43d" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80c1b43d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml" keywordId="35030" keywordSetId="8746" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml">exercise</a>, and get enough rest</b>. Finding this balance is the most important part of your treatment. Work with your doctor or a physical therapist to plan an <a chronic_id="" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80c1b43d" href="http://www.webmd.com/fitness-exercise/default.htm" keywordId="35082" keywordSetId="8753" object_type="" path="/webmdhttp://www.webmd.com/fitness-exercise/default.htm">exercise program</a> that will help strengthen your muscles without making your pain and fatigue worse. Try to adjust your daily schedule so that your routine is less tiring, and make time for rest periods or naps. Ask others for help.</li><li><b>Use ice, heat, and physical therapies</b> like <a chronic_id="091e9c5e802398c6" crossLinkId="56662" directive="friendlyurl" externalId="091e9c5e802398c6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/massage_therapy_styles_and_health_benefits.xml" keywordId="37853" keywordSetId="9282" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/massage_therapy_styles_and_health_benefits.xml">massage</a>. These can help relieve pain.</li><li><b>Try medicines for pain, fatigue, and <a chronic_id="091e9c5e800251e7" crossLinkId="491" directive="friendlyurl" externalId="091e9c5e800251e7" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml" keywordId="40012" keywordSetId="1872" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml">sleep</a> problems</b>. Talk with your doctor about what medicines can help.</li><li><b>Try to stay at a <a chronic_id="091e9c5e8001d084" crossLinkId="50064" directive="friendlyurl" externalId="091e9c5e8001d084" href="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.xml" keywordId="35918" keywordSetId="8910" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.xml">healthy weight</a></b>. This can help <a chronic_id="091e9c5e8001cfc7" crossLinkId="49713" directive="friendlyurl" externalId="091e9c5e8001cfc7" href="/webmd/consumer_assets/controlled_content/healthwise/special/stress_management-ways_to_relieve_stress_special_ta4381.xml" keywordId="40201" keywordSetId="9828" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/stress_management-ways_to_relieve_stress_special_ta4381.xml">reduce stress</a> on your joints. Eat healthy foods, and stay as active as you can.</li><li><b>Use assistive devices</b> to make activities easier. An occupational therapist can help you find what devices might be most helpful, such as a cane, different types of braces or splints, or a powered chair.</li></ul><p>If your condition gets worse, your treatment needs may increase. Be sure to see your doctor whenever new symptoms occur or your symptoms get worse.</p><p><a chronic_id="091e9c5e80732fb0" crossLinkId="65" directive="friendlyurl" externalId="091e9c5e80732fb0" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.xml" keywordId="7244" keywordSetId="1082" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.xml">Depression</a>
+		 is common in people who have post-polio syndrome, as with many long-term illnesses. But it may be hard to recognize, because symptoms of fatigue, low energy, and sleep problems can occur
+		 with both conditions. If you think you may be depressed, talk to your doctor. Treatment can often greatly improve
+		 <a chronic_id="" crossLinkId="31695" directive="friendlyurl" externalId="B50DFC0E198F4D76" href="http://www.webmd.com/depression/guide/depression-symptoms-and-types" keywordId="40482" keywordSetId="9877" object_type="" path="/webmdhttp://www.webmd.com/depression/guide/depression-symptoms-and-types">symptoms of depression</a>.</p></section_text></section_group><section_group><section_header>Who is at risk for post-polio syndrome?</section_header><section_type>SpecialSection</section_type><section_text><p>Not everyone who had polio gets post-polio syndrome. It's hard
+			 to predict who will get symptoms, when symptoms will begin, and how severe they
+			 will be. The exact amount of time it takes for symptoms to start is different
+			 for each person. Symptoms may have started as soon as 15 years after you had polio.
+			 </p><p>You are more
+			 likely to get post-polio syndrome if you:</p><ul><li>Had polio when you were a teen or an adult, rather than as a
+				child.</li><li>Had serious muscle weakness or <a chronic_id="091e9c5e8026fa00" crossLinkId="58314" directive="friendlyurl" externalId="091e9c5e8026fa00" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/miscellaneous/breathing_problems_causes_tests_treatments.xml" keywordId="42643" keywordSetId="10390" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/miscellaneous/breathing_problems_causes_tests_treatments.xml">breathing problems</a> when you had
+				polio.</li><li>Recovered well from the polio. The more fully a person
+				recovered from the polio, the more likely it is that he or she will get
+				post-polio syndrome.</li></ul><p>It's hard to know how many adults who had polio will get post-polio syndrome. The symptoms (such as fatigue and weakness) are sometimes ignored or considered part of "normal aging." Between 2 and 4 out of 10 adults who had polio may get post-polio syndrome.<sup class="Reference"><a bookmark="abo9342" chronic_id="091e9c5e80a75ff7" directive="friendlyurl" document-type="special" href="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-references_special_hw184074-bib.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-references_special_hw184074-bib.xml">1</a></sup></p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/brain/tc/post-polio-syndrome-topic-overview" owner="false"><breadcrumb><bread piece="Brain &amp; Nervous System Health Center" prefix="www" friendlyurl="/brain/default.htm"></bread><bread piece="Brain &amp; Nervous System Related Topics" prefix="www" friendlyurl="/brain/tc/default.htm"></bread></breadcrumb><centers><Topic id="703" name="tmg" chronicid="091e9c5e80a75ff3" prefix="www" friendlyurl="/brain/tc/post-polio-syndrome-topic-overview" type="Topic">Post-Polio Syndrome</Topic><Super id="740" name="super center" chronicid="091e9c5e80025343" prefix="www" friendlyurl="/brain/default.htm" type="">Brain and Nervous System</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/post-polio-syndrome-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e80a75ff3" prefix="www" friendlyurl="/a-to-z-guides/tc/post-polio-syndrome-topic-overview" type="Topic">Post-Polio Syndrome</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8039cf8f" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/miscellaneous/polio_vaccine_ipv.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/vaccines/polio-vaccine-ipv"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/polio-vaccine-ipv"></target></object><object chronic_id="091e9c5e8001b4da" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/nervous_system_definition_stn166121.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/nervous-system-7782"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/nervous-system-7782"></target></object><object chronic_id="091e9c5e8001b057" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/polio_definition_stp1874.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/polio"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/polio"></target></object><object chronic_id="091e9c5e8001e577" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/weakness_and_fatigue-topic_overview_symptom_hw90102.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/weakness-and-fatigue-topic-overview" status="deleted"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/weakness-and-fatigue-topic-overview" status="deleted"></target></object><object chronic_id="091e9c5e803c78f0" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/joints_bones_and_muscles/miscellaneous/joint_pain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/guide/joint-pain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/guide/joint-pain"></target></object><object chronic_id="091e9c5e8001af55" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/immune_system_definition_sti150867.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/immune-system-7922"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/immune-system-7922"></target></object><object chronic_id="091e9c5e80583331" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/picture-of-the-shoulder"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-shoulder"></target></object><object chronic_id="091e9c5e80c1b43d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target></object><object chronic_id="091e9c5e802398c6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/massage_therapy_styles_and_health_benefits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/balance/massage-therapy-styles-and-health-benefits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/massage-therapy-styles-and-health-benefits"></target></object><object chronic_id="091e9c5e800251e7" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target><target siteid="8" name="" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target></object><object chronic_id="091e9c5e8001d084" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diet/tc/healthy-weight-what-is-a-healthy-weight"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diet/tc/healthy-weight-what-is-a-healthy-weight"></target></object><object chronic_id="091e9c5e8001cfc7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/stress_management-ways_to_relieve_stress_special_ta4381.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/balance/stress-management/stress-management-relieving-stress"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/stress-management-relieving-stress"></target></object><object chronic_id="091e9c5e80732fb0" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/default.htm" umtchronicleid="091e9c5e806934ca"></target><target siteid="8" name="" prefix="www" friendlyurl="/depression/default.htm" umtchronicleid="091e9c5e806934ca"></target></object><object chronic_id="091e9c5e8026fa00" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/miscellaneous/breathing_problems_causes_tests_treatments.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/breathing-problems-causes-tests-treatments"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/breathing-problems-causes-tests-treatments"></target></object><object chronic_id="091e9c5e80a75ff7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-references_special_hw184074-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/post-polio-syndrome-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/post-polio-syndrome-references"></target></object><object chronic_id="091e9c5e80a75ff3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-topic_overview_special_hw184076.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/post-polio-syndrome-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/post-polio-syndrome-topic-overview"></target></object><object chronic_id="091e9c5e80a75ff4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-frequently_asked_questions_special_abn1374.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/post-polio-syndrome-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/post-polio-syndrome-frequently-asked-questions"></target></object><object chronic_id="091e9c5e80a75ff5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-other_places_to_get_help_special_hw184074-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/post-polio-syndrome-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/post-polio-syndrome-other-places-to-get-help"></target></object><object chronic_id="091e9c5e80a75ff6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-related_information_special_hw184074-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/post-polio-syndrome-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/post-polio-syndrome-related-information"></target></object><object chronic_id="091e9c5e80a75ff7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-references_special_hw184074-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/post-polio-syndrome-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/post-polio-syndrome-references"></target></object><object chronic_id="091e9c5e80a75ff8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-credits_special_hw184074-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/tc/post-polio-syndrome-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/post-polio-syndrome-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e80a76425" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/post-polio_syndrome_special_hw184074.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e80a75ff3" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-topic_overview_special_hw184076.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e80a75ff4" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-frequently_asked_questions_special_abn1374.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e80a75ff5" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-other_places_to_get_help_special_hw184074-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e80a75ff6" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-related_information_special_hw184074-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e80a75ff7" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-references_special_hw184074-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e80a75ff8" path="/webmd/consumer_assets/controlled_content/healthwise/special/post-polio_syndrome-credits_special_hw184074-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Post-Polio Syndrome</title><dynamic_objects><callout_title>Recommended Related to Brain &amp; Nervous System</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e9258d"><metadata_section><i_chronicle_id>091e9c5e807f09b6</i_chronicle_id><title>Familial Encephalopathy with Neuroserpin Inclusion Bodies</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>
+  Important
+  It is possible that the main title of the report Familial Encephalopathy with Neuroserpin Inclusion Bodies is not the name you expected. Please check the synonyms listing to find the alternate name(s) and disorder subdivision(s) covered by this report.</p></section_text><link siteid="3" prefix="www" friendlyurl="/brain/familial-encephalopathy-with-neuroserpin-inclusion-bodies"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Post-Polio Syndrome - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3></h3>
+      <p><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/medical/hw/neuro_02.jpg" alt="neuro_02.jpg" align="left" /></p>
+      <h3>What is post-polio syndrome?</h3>
+      <p>Post-<a href="http://www.webmd.com/children/vaccines/polio-vaccine-ipv" onclick="return sl(this,'','embd-lnk');">polio</a> syndrome is an illness of the <a href="http://www.webmd.com/hw-popup/nervous-system-7782" onclick="return sl(this,'hw','embd-lnk');">nervous system</a> that can appear 15 to 50 years after you had <a href="http://www.webmd.com/hw-popup/polio" onclick="return sl(this,'hw','embd-lnk');">polio</a>. It affects your muscles and nerves, and it causes you to have weakness, <a href="http://www.webmd.com/a-to-z-guides/weakness-and-fatigue-topic-overview" onclick="return sl(this,'','embd-lnk');">fatigue</a>, and muscle or <a href="http://www.webmd.com/pain-management/guide/joint-pain" onclick="return sl(this,'','embd-lnk');">joint pain</a>. </p>
+      <p>Although post-polio syndrome can make some day-to-day activities more difficult, treatment can help control symptoms and help you stay active. Your symptoms may not get worse for many years. Post-polio syndrome usually progresses very slowly. </p>
+      <p>Only people who have had polio can get post-polio syndrome. But having post-polio syndrome doesn't mean that you have polio again. Unlike polio, post-polio syndrome doesn't spread from person to person.</p>
+      <h3>What causes post-polio syndrome?</h3>
+      <p>Post-polio syndrome most likely arises from the damage left over from having polio.</p>
+      <p>The polio virus harms the nerves that control muscles, and it makes the muscles weak. If you had polio, you may have gained back the use of your muscles. But the nerves that connect to the muscles could be damaged without your knowing it. The nerves may break down over time and cause you to have weak muscles again.</p>
+      <p>Researchers are studying other possible causes of post-polio syndrome. One theory is that the <a href="http://www.webmd.com/hw-popup/immune-system-7922" onclick="return sl(this,'hw','embd-lnk');">immune system</a> plays a role.</p>
+      <h3>What are the symptoms?</h3>
+      <p>Symptoms of post-polio syndrome tend to show up very slowly. The main symptoms are:</p>
+      <ul>
+       <li><b>New muscle weakness</b>. This is most common in the muscles that had nerve damage from polio. You may also have weakness in muscles that you didn't realize had been affected by polio. Overuse or underuse of the muscles can lead to weakness. </li>
+       <li><b>Fatigue</b>. You may find that the activities you used to do without getting tired are now causing fatigue. You may often feel tired, have a heavy feeling in your muscles, or feel sleepy. At times you may have trouble thinking clearly. </li>
+       <li><b>Muscle or joint pain</b>. Muscles affected by polio tend to be weaker than normal. To make up for this weakness, other muscles have to work harder. This puts extra wear and tear on muscles, joints, and tendons, sometimes leading to aches, cramping, and pain.</li>
+      </ul>
+      <p>Depending on which muscles are affected, this trio of muscle weakness, fatigue, and pain can make daily activities more difficult. For example, people with <a href="http://www.webmd.com/pain-management/picture-of-the-shoulder" onclick="return sl(this,'','embd-lnk');">shoulder</a> or arm weakness may have trouble getting dressed. People who have weakness in their legs may have trouble walking or climbing stairs.</p>
+      <p>Some people who have post-polio syndrome also have problems with swallowing, sleeping, and tolerating cold temperatures. Or they may need help to improve their breathing.</p>
+      <h3>How is post-polio syndrome diagnosed?</h3>
+      <p>Doctors diagnose post-polio syndrome based on your symptoms, medical history, and lab tests. Your doctor will look at how polio affected you and how well you healed from it. Lab tests will be done to check for other causes of your symptoms. If your symptoms and history point to post-polio syndrome, and if tests cannot find another cause, then your doctor may diagnose post-polio syndrome.</p>
+      <p>You may need to have more tests or exams if your symptoms change. </p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/brain/tc/post-polio-syndrome-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/brain/tc/post-polio-syndrome-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/brain/tc/post-polio-syndrome-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/brain/tc/post-polio-syndrome-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/brain/tc/post-polio-syndrome-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/brain/tc/post-polio-syndrome-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: March 08, 2013
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/brain/tc/post-polio-syndrome-topic-overview">Topic Overview</option><option value="http://www.webmd.com/brain/tc/post-polio-syndrome-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/brain/tc/post-polio-syndrome-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/brain/tc/post-polio-syndrome-related-information">Related Information</option><option value="http://www.webmd.com/brain/tc/post-polio-syndrome-references">References</option><option value="http://www.webmd.com/brain/tc/post-polio-syndrome-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Post-Polio Syndrome Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/brain/tc/post-polio-syndrome-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/post-polio-syndrome-frequently-asked-questions" onclick="return sl(this,'','topicNav_2');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/post-polio-syndrome-other-places-to-get-help" onclick="return sl(this,'','topicNav_3');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/brain/tc/post-polio-syndrome-related-information" onclick="return sl(this,'','topicNav_4');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/post-polio-syndrome-references" onclick="return sl(this,'','topicNav_5');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/brain/tc/post-polio-syndrome-credits" onclick="return sl(this,'','topicNav_6');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1018"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_ss" href="http://www.webmd.com/a-to-z-guides/dupuytrens-contracture-10/slideshow-treatment" onclick="return sl(this,'','rltd-p-1018_1');">Seizures and Dupuytren's Contracture: What's the Link?<i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/alzheimers/early-warning-signs-when-to-call-the-doctor-about-alzheimers" onclick="return sl(this,'','rltd-p-1018_2');">Early Signs of Alzheimer's</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1018_3');">What Vision Problems Look Like</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/brain/video/brain-injury-rehab" onclick="return sl(this,'','rltd-p-1018_4');">Rehab Programs After Brain Injury</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/multiple-sclerosis/your-best-life-11/ms-symptoms" onclick="return sl(this,'','rltd-p-1018_5');">Treating Relapsing MS</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/brain/video/moyamoya-cerebral-bypass" onclick="return sl(this,'','rltd-p-1018_6');">Cerebral Bypass Surgery</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1018_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2084526716&amp;tile=649513846&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5000&amp;xpg=4094&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fbrain%2ftc%2fpost-polio-syndrome-topic-overview&amp;artid=091e9c5e80a75ff3&amp;inst=0&amp;leaf=703&amp;cc=16&amp;tmg=1&amp;bc=_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2084526716&amp;amp;tile=649513846&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5000&amp;amp;xpg=4094&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fbrain%2ftc%2fpost-polio-syndrome-topic-overview&amp;amp;artid=091e9c5e80a75ff3&amp;amp;inst=0&amp;amp;leaf=703&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4094";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2084526716&amp;tile=649513846&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5001&amp;xpg=4094&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fbrain%2ftc%2fpost-polio-syndrome-topic-overview&amp;artid=091e9c5e80a75ff3&amp;inst=0&amp;leaf=703&amp;cc=16&amp;tmg=1&amp;bc=_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2084526716&amp;amp;tile=649513846&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=4094&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fbrain%2ftc%2fpost-polio-syndrome-topic-overview&amp;amp;artid=091e9c5e80a75ff3&amp;amp;inst=0&amp;amp;leaf=703&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4094";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,569 @@
+<title>The Placebo Effect: What Is It? </title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/pain-management/chronic-pain-11/slideshow-pain-tips" class="type_ss" onclick="return sl(this,'','tools-res_1');">10 Tips to Reduce Chronic Pain<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/depression/treating-depression-9/managing-pain" onclick="return sl(this,'','tools-res_2');">Chronic Pain &amp; Depression</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/pain-management/carpal-tunnel/ss/slideshow-carpal-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">Carpal Tunnel Syndrome Pictures<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/pain-management/rm-quiz-everyday-aches-pains" onclick="return sl(this,'','tools-res_4');">Quiz: Everyday Aches and Pains</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/pain-management/treating-nerve-pain-10/slideshow-neuropathy" class="type_ss" onclick="return sl(this,'','tools-res_5');">Nerve Pain 101<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/arthritis/living-with-chronic-gout-11/gout-attacks-at-home" onclick="return sl(this,'','tools-res_6');">Home Treatments for Gout Pain</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="readspeaker_area" style="display: none;"> 
+     <div id="readspeaker_button1" class="rs_skip"> 
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /> </a> 
+     </div> 
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript">
+    </script> 
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:2});
+                    });
+                })();
+                </script> 
+     <div id="xp1"> 
+     </div> 
+    </div> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>What Is the Placebo Effect?</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <h3></h3> 
+     <p>A placebo is anything that seems to be a &quot;real&quot; medical treatment -- but isn't. It could be a pill, a shot, or some other type of &quot;fake&quot; treatment. What all placebos have in common is that they do not contain an active substance meant to affect health.</p> 
+     <h3>How Are Placebos Used?</h3> 
+     <p>Researchers use placebos during studies to help them understand what effect a new drug or some other treatment might have on a particular condition.</p> 
+     <p>For instance, some people in a study might be given a new drug to <a href="http://www.webmd.com/cholesterol-management/default.htm" onclick="return sl(this,'','embd-lnk');">lower cholesterol</a>. Others would get a placebo. None of the people in the study will know if they got the real treatment or the placebo.</p> 
+     <p>Researchers then compare the effects of the drug and the placebo on the people in the study. That way, they can determine the effectiveness of the new drug and check for side effects.</p> 
+     <h3>What Is the Placebo Effect?</h3> 
+     <p>Sometimes a person can have a response to a placebo. The response can be positive or negative. For instance, the person's symptoms may improve. Or the person may have what appears to be side effects from the treatment. These responses are known as the &quot;placebo effect.&quot;</p> 
+     <p>There are some conditions in which a placebo can produce results even when people know they are taking a placebo. Studies show that placebos can have an effect on conditions such as:</p> 
+     <ul> 
+      <li>Depression</li> 
+      <li>Pain</li> 
+      <li>Sleep disorders</li> 
+      <li>Irritable bowel syndrome</li> 
+      <li>Menopause</li> 
+     </ul> 
+     <p>In one study involving <a href="http://www.webmd.com/asthma/default.htm" onclick="return sl(this,'','embd-lnk');">asthma</a>, people using a placebo <a href="http://www.webmd.com/asthma/guide/asthma-inhalers" onclick="return sl(this,'','embd-lnk');">inhaler</a> did no better on breathing tests than sitting and doing nothing. But when researchers asked for people's perception of how they felt, the placebo inhaler was reported as being as effective as medicine in providing relief.</p> 
+     <h3>How Does the Placebo Effect Work?</h3> 
+     <p>Research on the placebo effect has focused on the relationship of mind and body. One of the most common theories is that the placebo effect is due to a person's expectations. If a person expects a pill to do something, then it's possible that the body's own chemistry can cause effects similar to what a <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/index-drugs.aspx">medication</a> might have caused.</p> 
+     <p>For instance, in one study, people were given a placebo and told it was a stimulant. After taking the pill, their pulse rate sped up, their <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/blood-pressure-causes" onclick="return sl(this,'','embd-lnk');">blood pressure</a> increased, and their reaction speeds improved. When people were given the same pill and told it was to help them get to <a href="http://www.webmd.com/sleep-disorders/default.htm" onclick="return sl(this,'','embd-lnk');">sleep</a>, they experienced the opposite effects.</p> 
+     <p>Experts also say that there is a relationship between how strongly a person expects to have results and whether or not results occur. The stronger the feeling, the more likely it is that a person will experience positive effects. There may be a profound effect due to the interaction between a patient and health care provider.</p> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <script type="text/javascript">
+var pagination_title=new Array();
+var pagination_current=1;
+
+pagination_title[1]="";
+pagination_title[2]="How Does the Placebo Effect Work? continued...";
+</script> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+     </div> 
+     <div class="right_fmt"> 
+      <span class="current_fmt">1</span> 
+      <span class="pipe_fmt">|</span> 
+      <a href="?page=2" title="Page 2">2</a> 
+      <div class="outline_fmt right"> 
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "editorial";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'WebMD Medical Reference';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1090"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_ss" href="http://www.webmd.com/back-pain/ss/slideshow-low-back-pain-overview" onclick="return sl(this,'','rltd-p-1090_1');">Low Back Pain: Causes and Treatments<i> </i></a> </li> 
+     <li id="x63"> <a class="type_ss" href="http://www.webmd.com/pain-management/chronic-pain-11/slideshow-pain-tips" onclick="return sl(this,'','rltd-p-1090_2');">10 Tips to Reduce Chronic Pain<i> </i></a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/pain-management/what-is-the-placebo-effect" onclick="return sl(this,'','rltd-p-1090_3');">What Is the Placebo Effect?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/fibromyalgia/guide/fibromyalgia-the-diet-connection" onclick="return sl(this,'','rltd-p-1090_4');">Could Changing Your Diet Help Your Fibromyalgia Pain?</a> </li> 
+     <li id="x66"> <a class="type_vid" href="http://arthritis.webmd.com/living-with-chronic-gout-11/default.htm?vid=vd-1210-hzim-002" onclick="return sl(this,'','rltd-p-1090_5');">Living With Gout Pain<i> </i></a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/pain-management/features/prescription-painkiller-addiction-7-myths" onclick="return sl(this,'','rltd-p-1090_6');">Prescription Painkiller Addiction: 7 Myths</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1090_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80a3e299" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80690f47</chronic_id><r_object_id>091e9c5e80a3e299</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e80690f47.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>04/25/2012 11:14:33</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Pain Management Health Center/template_Pain Management Health Center_091e9c5e8002468c.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002468c"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Medicines</name><link_title>Medicines</link_title><description>Medicine can make our lives better in so many ways. They can help relieve pain, increase our lifespan, and ease the symptoms of colds and flus. Medicines come in all different forms, from new nanotechnology to liquid medications, to over the counter medicines and prescriptions given by doctors. Read about new medicines, how to administer them to the elderly and children, and what signs to look for in teen medicine abuse.</description><friendly_url>http://www.webmd.com/drug-medication/medicines-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8049086b"><link_title>Living With More Than One Health Problem-Dealing With Medicines</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/living-with-more-than-one-health-problem-dealing-with-medicines</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8029905d"><link_title>Dealing With Medicine Side Effects and Interactions-Credits</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/dealing-with-medicine-side-effects-and-interactions-credits</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80299059"><link_title>Dealing With Medicine Side Effects and Interactions-Topic Overview</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/dealing-with-medicine-side-effects-and-interactions-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ce7f"><link_title>Prescription Medicines-Medicine Problems</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/prescription-medications-medication-problems</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8029905b"><link_title>Dealing With Medicine Side Effects and Interactions-Medicine Interactions</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/dealing-with-medicine-side-effects-and-interactions-medicine-interactions</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80490868"><link_title>Dealing With Medicine Side Effects and Interactions-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/dealing-with-medicine-side-effects-and-interactions-other-places-to-get</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80490869"><link_title>Dealing With Medicine Side Effects and Interactions-Related Information</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/dealing-with-medicine-side-effects-and-interactions-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8013594e"><link_title>The New Over the Counter Medicine Label: Take a Look</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/the-new-over-the-counter-medicine-label-take-a-look</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80246707"><link_title>Picking the Right Osteoporosis Medicine for You</link_title><friendly_url>http://www.webmd.com/osteoporosis/living-with-osteoporosis-7/medicine-choices</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000820d"><link_title>Administering Children's Medicine</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/give-medicine-children</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e806cf8d1"><link_title>Dosing Confusion Common With Kids' Liquid Medicines</link_title><friendly_url>http://www.webmd.com/children/news/20101130/dosing-confusion-common-kids-liquid-medicines</friendly_url><thumbnail height="" width="" alt="spoon and green cough medicine">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_instructions-otc_meds_confusing_v03.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80246386"><link_title>Online Ayurvedic Medicine May Be Unsafe</link_title><friendly_url>http://www.webmd.com/balance/news/20080826/online-ayurvedic-medicine-may-be-unsafe</friendly_url><thumbnail height="" width="" alt="lead_mercury_ayurvedic_medicine.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/August08/lead_mercury_ayurvedic_medicine.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80012679"><link_title>Antique Medicines</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/features/look-back-old-time-medicines</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80319f92"><link_title>Which Allergy Medicine Is Best for You?</link_title><friendly_url>http://www.webmd.com/allergies/features/medications</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80022978"><link_title>Targeting Asthma Treatments</link_title><friendly_url>http://www.webmd.com/asthma/features/targeting-asthma-treatments</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800b2211"><link_title>Questions to Ask Your Doctor About Arthritis Pain Medicine</link_title><friendly_url>http://www.webmd.com/arthritis/10-questions-to-ask-your-doctor-about-arthritis-pain-medicine</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8048cb9d"><link_title>Off-Label Prescription Drugs Use: Benefits and Risks</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/features/off-label-drug-use-what-you-need-to-know</friendly_url><thumbnail height="" width="" alt="off_label_drugs_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/december_2009/off_label_drugs_2.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80608a7f"><link_title>How Antidepressants and Depression Medication Can Affect Your Life</link_title><friendly_url>http://www.webmd.com/depression/features/antidepressant-effects</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006ac1"><link_title>Small Wonders: Micro-Machines in Medicine</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/features/micro-machines-in-medicine</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800769ca"><link_title>Migraines &amp; Headaches: Medicine</link_title><friendly_url>http://www.webmd.com/migraines-headaches/guide/migraines-headaches-medicine</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8025dfd0"><link_title>Preventive Migraine Medicine</link_title><friendly_url>http://www.webmd.com/migraines-headaches/preventive-migraine-medicine</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80271584"><link_title>FDA Mulls Limits on Kids' Cough Medicine</link_title><friendly_url>http://www.webmd.com/cold-and-flu/news/20081002/fda-mulls-limits-on-kids-cough-medicine</friendly_url><thumbnail height="" width="" alt="fda_kids_cold_meds.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/October08/fda_kids_cold_meds.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e803854b5"><link_title>Shopping Tips for Buying OTC Drugs</link_title><friendly_url>http://www.webmd.com/pain-management/features/savvy-shopping-tips-otc-medicines</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e803ac93a"><link_title>Medication Side Effects: Types of Side Effects and FDA Regulations</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/drug-side-effects-explained</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80459ca6"><link_title>Survey Shows Risks of Borrowed Medicine</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20091111/survey-shows-risks-of-borrowed-medicine</friendly_url><thumbnail height="" width="" alt="borrowing_medications__3.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/november_2009/borrowing_medications__3.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80539c01"><link_title>New Prescriptions</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/features/new-prescriptions</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806e9980"><link_title>Cough Medicine That Looks Like Candy Gets FDA Warning</link_title><friendly_url>http://www.webmd.com/parenting/news/20101214/cough-medicine-that-looks-like-candy-gets-fda-warning</friendly_url><thumbnail height="" width="" alt="prescription bottle">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/12_2010/69x75_tessalon_child_deaths_03.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807c89cc"><link_title>Many Kids With Epilepsy Don’t Take Their Medicine</link_title><friendly_url>http://www.webmd.com/epilepsy/news/20110426/many-kids-with-epilepsy-dont-take-their-medicine</friendly_url><thumbnail height="" width="" alt="young boy holding pill organizer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/04_2011/69x75_epilepsy_medication_nonadherence_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8083f7e8"><link_title>FDA Prepares for Nanomedicine Revolution</link_title><friendly_url>http://www.webmd.com/healthy-aging/news/20110621/fda-prepares-for-nanomedicine-revolution</friendly_url><thumbnail height="" width="" alt="Microchip">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/06_2011/69x75_fda_nano_regulation.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801a2e7f"><link_title>Allergy Medicine Tips for Children</link_title><friendly_url>http://www.webmd.com/allergies/allergy-medicine-tips-for-children</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/a-to-z-guides/living-with-more-than-one-health-problem-dealing-with-medicines" onclick="return sl(this,'','td-rltd-art_1');">Living With More Than One Health Problem-Dealing With Medicines</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/dealing-with-medicine-side-effects-and-interactions-credits" onclick="return sl(this,'','td-rltd-art_2');">Dealing With Medicine Side Effects and Interactions-Credits</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/dealing-with-medicine-side-effects-and-interactions-overview" onclick="return sl(this,'','td-rltd-art_3');">Dealing With Medicine Side Effects and Interactions-Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/prescription-medications-medication-problems" onclick="return sl(this,'','td-rltd-art_4');">Prescription Medicines-Medicine Problems</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/dealing-with-medicine-side-effects-and-interactions-medicine-interactions" onclick="return sl(this,'','td-rltd-art_5');">Dealing With Medicine Side Effects and Interactions-Medicine Interactions</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/dealing-with-medicine-side-effects-and-interactions-other-places-to-get" onclick="return sl(this,'','td-rltd-art_6');">Dealing With Medicine Side Effects and Interactions-Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/dealing-with-medicine-side-effects-and-interactions-related-information" onclick="return sl(this,'','td-rltd-art_7');">Dealing With Medicine Side Effects and Interactions-Related Information</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/drug-medication/medicines-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Medicines Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=199654466&tile=376957263&tug=&pug=__&site=2&affiliate=20&hcent=1222&scent=&pos=113&xpg=1832&sec=&amp;au1=1&au2=8|18|17|16|15|14&uri=%2fpain-management%2fwhat-is-the-placebo-effect&artid=091e9c5e809b4f11&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_cust4_r52_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'199654466',
+                    tile:'376957263',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1832";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=199654466&amp;tile=376957263&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1222&amp;scent=&amp;pos=5001&amp;xpg=1832&amp;sec=&amp;au1=1&amp;au2=8|18|17|16|15|14&amp;uri=%2fpain-management%2fwhat-is-the-placebo-effect&amp;artid=091e9c5e809b4f11&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_cust4_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=199654466&amp;amp;tile=376957263&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1222&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1832&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=8|18|17|16|15|14&amp;amp;uri=%2fpain-management%2fwhat-is-the-placebo-effect&amp;amp;artid=091e9c5e809b4f11&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_cust4_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1832";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

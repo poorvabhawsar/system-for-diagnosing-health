@@ -1,0 +1,424 @@
+<title>Cholesterol Management Center - WebMD</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/cholesterol-management/cholesterol-health-check/default.htm" onclick="return sl(this,'','prm-mnctrlc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/health_checks/cholesterol_healthcheck/493x335_cholesterol_healthcheck.jpg" alt="Fried egg and bacon" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/cholesterol-management/cholesterol-health-check/default.htm" onclick="return sl(this,'','prm-mnctrlc_1');">High Cholesterol Concerns?</a> </h2> 
+        <a href="http://www.webmd.com/cholesterol-management/cholesterol-health-check/default.htm" onclick="return sl(this,'','prm-mnctrlc_1');">Get personalized tips.<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/cholesterol-management/assessment-triglycerides/default.htm" data-alt="blood lipid test results" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/2012/11_2012/fasting_before_lipid_test_11122012xml/493x335_fasting_before_lipid_test_11122012xml.jpg" onclick="return sl(this,'','prm-mnctrlc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/cholesterol-management/assessment-triglycerides/default.htm" onclick="return sl(this,'','prm-mnctrlc_2');">High Triglycerides</a> </h2> 
+        <a href="http://www.webmd.com/cholesterol-management/assessment-triglycerides/default.htm" onclick="return sl(this,'','prm-mnctrlc_2');">Get tips tailored for you.<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="" data-alt="egg yolk" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/cholesterol_2_rmq/493x335_cholesterol_2_rmq.jpg" onclick="return sl(this,'','prm-mnctrlc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="" onclick="return sl(this,'','prm-mnctrlc_3');">The Truth About Cholesterol</a> </h2> 
+        <a href="" onclick="return sl(this,'','prm-mnctrlc_3');" class="type_quiz">How much do you know?<i><span class="jawsonly">Quiz</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-mnctrlc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-mnctrlc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-mnctrlc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-mnctrlc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-mnctrlc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="teaser_fmt"> 
+    <h3>Cholesterol Health Check</h3> 
+    <p>High cholesterol, also known as hypercholesterolemia, is a major risk factor for heart disease and stroke. Abnormal levels of LDL cholesterol or HDL cholesterol are treated with a low-fat diet, exercise, and medications such as statins.</p> 
+   </div>
+   <div class="guideDropdown_rdr"> 
+    <form action="" id="qform1" onsubmit="window.location=guideNavDropdown.options[guideNavDropdown.options.selectedIndex].value; return false;"> 
+     <h4>Select a Chapter</h4> 
+     <select name="guideNavDropdown" class="listBox_fmt"> <option value="http://www.webmd.com/cholesterol-management/guide/cholesterol-management-overview">Overview &amp; Facts</option> <option value="http://www.webmd.com/cholesterol-management/guide/cholesterol-management-symptoms-types">Symptoms &amp; Types</option> <option value="http://www.webmd.com/cholesterol-management/guide/cholesterol-management-diagnosis-tests">Diagnosis &amp; Tests</option> <option value="http://www.webmd.com/cholesterol-management/guide/cholesterol-management-treatment-care">Treatment &amp; Care</option> <option value="http://www.webmd.com/cholesterol-management/guide/cholesterol-management-living-managing">Living &amp; Managing</option> <option value="http://www.webmd.com/cholesterol-management/guide/cholesterol-managment-support-resources">Support &amp; Resources</option> </select> 
+     <button onclick="wmdTrack('dd-fullgd');" type="submit" name="goSingle" class="btn"> </button> 
+     <div class="clearing"> 
+     </div> 
+    </form> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="latest_headlines_rdr" id="nl-lcnwsftr"> 
+    <div class="lh_header"> 
+     <span class="lh_rss"> <a href="http://rssfeeds.webmd.com/rss/rss.aspx" class="lh_rss_link" id="rssFeedLink" onclick="return sl(this,'','head-p_rss');">Get News Updates</a> | <a href="http://www.webmd.com/rss/default.htm">RSS Help</a></span> 
+     <h2>latest headlines</h2> 
+    </div> 
+    <script type="text/javascript"><!--
+/* Create a feed to match the center_ID variable with the RSS FeedID to pass to the URL */
+var rssFeeds = [
+    {"centerName": "ADD/ADHD","centerID": "1178","feedID": "1001"},
+    {"centerName": "Allergies","centerID": "893","feedID": "1004"},
+    {"centerName": "Alzheimer's","centerID": "1030","feedID": "1005"},
+    {"centerName": "Anxiety & Panic Disorders","centerID": "648","feedID": "1007"},
+    {"centerName": "Arthritis","centerID": "1194","feedID": "1008"},
+    {"centerName": "Asthma","centerID": "947","feedID": "1009"},
+    {"centerName": "Back Pain","centerID": "972","feedID": "1010"},
+    {"centerName": "Bipolar Disorder","centerID": "694","feedID": "1013"},
+    {"centerName": "Breast Cancer","centerID": "1074","feedID": "1020"},
+    {"centerName": "Cancer","centerID": "848","feedID": "1022"},
+    {"centerName": "Cholesterol Management","centerID": "1017","feedID": "1026"},
+    {"centerName": "Cold & Flu","centerID": "1202","feedID": "1029"},
+    {"centerName": "Crohn's Disease","centerID": "1018","feedID": "1119"},
+    {"centerName": "Depression","centerID": "1020","feedID": "1032"},
+    {"centerName": "Diabetes","centerID": "1037","feedID": "1033"},
+    {"centerName": "Hearth Health","centerID": "948","feedID": "1056"},
+    {"centerName": "Heartburn/GERD","centerID": "1134","feedID": "1057"},
+    {"centerName": "Hypertension/High Blood Pressure","centerID": "1011","feedID": "1063"},
+    {"centerName": "Incontinence/OAB","centerID": "961","feedID": "1112"},
+    {"centerName": "Lupus","centerID": "829","feedID": "1073"},
+    {"centerName": "Menopause","centerID": "789","feedID": "1077"},
+    {"centerName": "Migraines/Headaches","centerID": "903","feedID": "1080"},
+    {"centerName": "Oral Health","centerID": "872","feedID": "1085"},
+    {"centerName": "Osteoporosis","centerID": "1166","feedID": "1088"},
+    {"centerName": "Skin Problems & Treatments","centerID": "1028","feedID": "1105"},
+    {"centerName": "Sleep Disorders","centerID": "1206","feedID": "1106"}
+];
+
+var feedID = "";
+    feedURL = document.getElementById('rssFeedLink');
+    for (i=0;i<rssFeeds.length;i++) {				
+        curCenter = rssFeeds[i].centerID;
+        if (curCenter == center_id) {
+        feedID = rssFeeds[i].feedID;
+        feedURL.href = feedURL.href + "?cid=" + feedID;
+        break;
+        }
+    }
+
+//--></script> 
+    <div class="lh_feature_story"> 
+     <div class="lh_feature_story_thumbnail"> 
+      <a href="http://www.webmd.com/cholesterol-management/news/20140319/almost-13-million-more-americans-could-take-statins-under-new-guidelines" onclick="return sl(this,'','nl-lcnwsftr_1_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/healthday/2013/01/40047.jpg" alt="" border="0" /> </a> 
+     </div> 
+     <div class="lh_feature_story_desc"> 
+      <p> <a href="http://www.webmd.com/cholesterol-management/news/20140319/almost-13-million-more-americans-could-take-statins-under-new-guidelines" onclick="return sl(this,'','nl-lcnwsftr_1_1');">Almost 13 Million More Americans Could Take Statins Under New Guidelines</a> </p> 
+      <p>Biggest jump in cholesterol-lowering drugs would be among men over 60, study estimates</p> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/cholesterol-management/news/20140319/almost-13-million-more-americans-could-take-statins-under-new-guidelines" onclick="return sl(this,'','nl-lcnwsftr_1_1');">Read Full Article</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="lh_links"> 
+     <h3>Top Stories</h3> 
+     <ul> 
+      <li> <a href="http://www.webmd.com/cholesterol-management/news/20140114/merck-recalls-cholesterol-drug-liptruzet" onclick="return sl(this,'','nl-lcnwsftr_1_2');">Merck Recalls Cholesterol Drug Liptruzet</a> </li> 
+      <li> <a href="http://www.webmd.com/cholesterol-management/news/20131230/unhealthy-cholesterol-levels-might-raise-alzheimers-risk" onclick="return sl(this,'','nl-lcnwsftr_1_3');">Unhealthy Cholesterol Levels Might Raise Alzheimer's Risk</a> </li> 
+      <li> <a href="http://www.webmd.com/cholesterol-management/news/20131118/some-doctors-challenge-new-statin-guidelines" onclick="return sl(this,'','nl-lcnwsftr_1_4');">Some Doctors Challenge New Statin Guidelines</a> </li> 
+      <li> <a href="http://www.webmd.com/cholesterol-management/news/20131113/new-cholesterol-drug-guidelines-qa" onclick="return sl(this,'','nl-lcnwsftr_1_5');">New Cholesterol Drug Guidelines: Q&amp;A</a> </li> 
+      <li> <a href="http://www.webmd.com/cholesterol-management/tc/lipid-panel-topic-overview" onclick="return sl(this,'','nl-lcnwsftr_1_6');">Understanding the Lipid Panel</a> </li> 
+      <li> <a href="http://www.webmd.com/cholesterol-management/high-triglycerides-what-you-need-to-know" onclick="return sl(this,'','nl-lcnwsftr_1_7');">High Triglycerides: What You Need to Know</a> </li> 
+      <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/cholesterol-management/news-features" onclick="return sl(this,'','nl-lcnwsftr_2_more-articles');">More Articles</a> </li> 
+     </ul> 
+     <div class="moduleSpacer_rdr"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/aca-state-promo-core.js"></script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aca-state-promo-cw.css" /> 
+   <div class="aca-state-promo-cw"> 
+    <h4>Health Insurance in Your State</h4> 
+    <div class="bg"> 
+     <p>Learn about plans, benefits, and costs in your state's Marketplace.</p> 
+     <div id="names-dropdown-container"> 
+      <select name="names-dropdown" id="names-dropdown"> <option value="">Choose a state or territory</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IO">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="DC">Washington, D.C.</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> <option value="">--------</option> <option value="AS">American Samoa</option> <option value="GU">Guam</option> <option value="MP">Northern Mariana Islands</option> <option value="PR">Puerto Rico</option> <option value="VI">Virgin Islands</option> </select> 
+     </div> 
+    </div> 
+    <span class="jawsonly">From WebMD</span> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1429079420&amp;tile=554492186&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1017&amp;scent=948&amp;pos=5000&amp;xpg=1809&amp;sec=1809&amp;au1=1&amp;au2=1&amp;uri=%2fcholesterol-management%2fdefault&amp;artid=091e9c5e80022f64&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_e780_i_gen1_cust4_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1429079420&amp;amp;tile=554492186&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1017&amp;amp;scent=948&amp;amp;pos=5000&amp;amp;xpg=1809&amp;amp;sec=1809&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fcholesterol-management%2fdefault&amp;amp;artid=091e9c5e80022f64&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_e780_i_gen1_cust4_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1809";
+			var secTopId = "1809";
+		</script>
+   <div id="commgrp" class="stacked_promo"> 
+    <h2>WebMD Cholesterol Management Community<br /><a href="http://exchanges.webmd.com/cholesterol-management-exchange" title="See All Cholesterol Management Communities">Community. Experts. Support.</a></h2> 
+    <div class="promo_group"> 
+     <h3>Discussions</h3> 
+     <ul> 
+      <li> <a href="http://forums.webmd.com/3/cholesterol-management-exchange/forum/1188" onclick="return sl(this,'','commgrp_1-1');">Medication in Addition to Diet and Exercise? <i> </i></a> </li> 
+      <li> <a href="http://forums.webmd.com/3/heart-disease-exchange/forum/3458" onclick="return sl(this,'','commgrp_1-2');">Confused About Cholesterol Test Results <i> </i></a> </li> 
+     </ul> 
+    </div> 
+    <div class="promo_group"> 
+     <h3>Expert Blogs</h3> 
+     <ul> 
+      <li> <a href="http://blogs.webmd.com/cholesterol-management/2011/03/do-statins-harm-the-liver.html" onclick="return sl(this,'','commgrp_2-1');">Do Statins Harm the Liver? <i> </i></a> </li> 
+      <li> <a href="http://blogs.webmd.com/cholesterol-management/2011/04/triglycerides-and-cardiovascular-disease.html" onclick="return sl(this,'','commgrp_2-2');">Triglycerides and Cardiovascular Disease <i> </i></a> </li> 
+      <li> <a href="http://health-insurance-navigator.blogs.webmd.com/2011/05/shopping-for-prescription-drugs-online.html" onclick="return sl(this,'','commgrp_2-3');">Safely Shopping for Prescriptions Online <i> </i></a> </li> 
+     </ul> 
+    </div> 
+    <div class="promo_group"> 
+     <h3>Community</h3> 
+     <ul> 
+      <li> <a href="http://exchanges.webmd.com/cholesterol-management-exchange" onclick="return sl(this,'','commgrp_3-1');" class="expert">WebMD Cholesterol Management Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/heart-disease-exchange" onclick="return sl(this,'','commgrp_3-2');" class="expert">WebMD Heart Disease Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/food-and-cooking-exchange" onclick="return sl(this,'','commgrp_3-3');" class="expert">WebMD Food &amp; Cooking Community <i> </i></a> </li> 
+      <li id="comm-grp_last_link"> <a href="http://exchanges.webmd.com/" onclick="return sl(this,'','commgrp_3-4');">See All Communities <i> </i></a> </li> 
+     </ul> 
+    </div> 
+   </div>
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/heart/features/job-stress-and-your-heart" onclick="return sl(this,'','lln-toolsres_1');">Is Your Job Wrecking Your Heart?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/cholesterol-management/slideshow-cholesterol-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_2');">Understanding Cholesterol Basics<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/cholesterol-management/slideshow-lowering-cholesterol" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">Tips for Avoiding Heart Disease<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','lln-toolsres_4');">What's Your Cholesterol IQ?</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/women/pharmacist-11/answers-apple-cider-cholesterol" onclick="return sl(this,'','lln-toolsres_5');">Q&amp;A: Cholesterol Medications</a></li>
+      <li id="x61"><a href="http://www.webmd.com/diet/slideshow-omega-3-health-benefits" class="type_ss" onclick="return sl(this,'','lln-toolsres_6');">The Truth About Omega-3<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14">
+   <div class="top_search_rdr" id="lln-topsrch"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top Search Terms for Cholesterol &amp; Triglycerides</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/tests-for-high-cholesterol-lipid-panel" onclick="return sl(this,'','lln-topsrch_1');">Tests for High Cholesterol (Lipid Panel)</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/finding-the-ideal-cholesterol-ratio" onclick="return sl(this,'','lln-topsrch_2');">Cholesterol Numbers</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/guide/high-cholesterol-risk-factors" onclick="return sl(this,'','lln-topsrch_3');">High Cholesterol</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/guide/lower-cholesterol-risk" onclick="return sl(this,'','lln-topsrch_4');">How to Lower Cholesterol</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/heart-disease/guide/heart-disease-lower-cholesterol-risk" onclick="return sl(this,'','lln-topsrch_5');">High Cholesterol and Heart Risk</a> 
+      </div> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/guide/cholesterol-lowering-foods" onclick="return sl(this,'','lln-topsrch_6');">Low Cholesterol Foods</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/side-effects-of-statin-drugs" onclick="return sl(this,'','lln-topsrch_7');">Statins</a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/lowering-triglyceride-levels" onclick="return sl(this,'','lln-topsrch_8');">Triglycerides</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/guide/cholesterol-management-food" onclick="return sl(this,'','lln-topsrch_9');">Low Cholesterol Diet</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/tc/high-cholesterol-medications" onclick="return sl(this,'','lln-topsrch_10');">Cholesterol Drugs</a> 
+      </div> 
+      <div class="top_search_number">
+       11
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/hdl-cholesterol-the-good-cholesterol" onclick="return sl(this,'','lln-topsrch_11');">HDL Cholesterol</a> 
+      </div> 
+      <div class="top_search_number">
+       12
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cholesterol-management/ldl-cholesterol-the-bad-cholesterol" onclick="return sl(this,'','lln-topsrch_12');">LDL Cholesterol</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20">
+   <!--
+updated 07/13/11 at 6:40 EWS
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80b14627" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e80007f2e</i_chronicle_id><r_object_id>091e9c5e80b14627</r_object_id><title>The Basics of Cholesterol</title><object_name>high_cholesterol_cholesterol_basics.xml</object_name><content_template>consumer_article_Health_Ref.xml</content_template><r_object_id>091e9c5e80b14627</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e8097910c</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>01/01/2012 00:00:00</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>01/01/2013 00:00:00</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80019138</r_object_id><wbmd_bus_comp_nm>WebMD</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e802a487f" directive="imageurl" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 2012 WebMD, LLC. All rights reserved.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>/content/article/98/104659</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Cholesterol Basics: Types, Risk Factors, Levels, and Treatment</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>08/07/2012 00:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e804aeeb1</r_object_id><wbmd_publ_name>WebMD Medical Reference</wbmd_publ_name><wbmd_publ_type>1</wbmd_publ_type><wbmd_publ_display>WebMD Medical Reference</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Learn about cholesterol, including the types, the factors that affect cholesterol levels, and how high cholesterol is treated.</wbmd_desc_meta><wbmd_orig_pub_dt>12/08/2004 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Learn about cholesterol, including the types, the factors that affect cholesterol levels, and how high cholesterol is treated. </wbmd_desc_user><wbmd_lk_ttl>The Basics of Cholesterol</wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e809d1f4d</r_object_id><wbmd_first_nm>Thomas</wbmd_first_nm><wbmd_middle_name>M.</wbmd_middle_name><wbmd_lst_nm>Maddox</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id chronic_id="091e9c5e809d1f4e" directive="friendlyurl" path="/webmd/consumer_assets/editorial/articles/biographies/m/Maddox_Thomas.xml" object_type="wbmd_cons_article"></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>Cholesterol, LDL, HDL, lipid profile, triglyceride, diet, exercise, drug, risk factor, heart disease</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>E78.0</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>E78.1</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>I</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>fit</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>diet</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd></wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80b14627</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1809" wbmd_disp_nm="Cholesterol Management"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="15" wbmd_disp_nm="Adult (31-40)"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="11" wbmd_disp_nm="All USA"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="8999" wbmd_disp_nm="Lovaza Embargo"></wbmd_c_sec_top_id><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="18092" wbmd_disp_nm="Cholesterol Management Newly Diagnosed"></wbmd_c_sec_top_id><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1809" wbmd_disp_nm="Cholesterol Management"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1026" wbmd_disp_nm="Cholesterol Management"></wbmd_c_channel_id><wbmd_c_frnd_nm>cholesterol-basics</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="091e9c5e80d13182"></wbmd_c_mini_article></metadata_section><content_section><cons_health_ref><title>The Basics of Cholesterol</title><pages><page><section_group><section_header></section_header><section_text><p>Have you been diagnosed with high cholesterol? Is lowering your cholesterol a goal? The first step is to find out: What is cholesterol?</p><p>Cholesterol is a waxy, fat-like substance made in the liver and other cells and found in certain foods, such as food from animals, like dairy products, eggs, and meat.</p><p>The body needs some cholesterol in order to function properly. Its cell walls, or membranes, need cholesterol in order to produce hormones, vitamin D, and the bile acids that help to digest fat. But the body needs only a limited amount of cholesterol to meet its needs. When too much is present health problems such as heart disease may develop.</p></section_text></section_group><section_group><section_header>Cholesterol and Heart Disease</section_header><section_text><p>When too much cholesterol is present, plaque (a thick, hard deposit) may form in the body's arteries narrowing the space for blood to flow to the heart. Over time, this buildup causes atherosclerosis (hardening of the arteries) which can lead to heart disease.</p><p>When not enough oxygen-carrying blood reaches the heart chest pain &#45;&#45; called angina &#45;&#45; can result. If the blood supply to a portion of the heart is completely cut off by total blockage of a coronary artery, the result is a heart attack. This is usually due to a sudden closure from a blood clot forming on top of a previous narrowing.</p></section_text></section_group><section_group><section_header>Types of Cholesterol</section_header><section_text><p>Cholesterol travels through the blood attached to a protein &#45;&#45; this cholesterol-protein package is called a lipoprotein. Lipoproteins are classified as high density, low density, or very low density, depending on how much protein there is in relation to fat.</p><ul><li><b>Low density lipoproteins (LDL):</b> LDL, also called "bad" cholesterol, can cause buildup of plaque on the walls of arteries. The more LDL there is in the blood, the greater the risk of heart disease.</li><li><b>High density lipoproteins (HDL):</b> HDL, also called "good" cholesterol, helps the body get rid <span style=" background-color: #ffffff;">of bad</span> cholesterol in the blood. The higher the level of HDL cholesterol, the better. If levels of HDL are low, the risk of heart disease increases.</li><li><b>Very low density lipoproteins (VLDL):</b> VLDL is similar to LDL cholesterol in that it contains mostly fat and not much protein.</li><li><b>Triglycerides:</b> Triglycerides are another type of fat that is carried in the blood by very low density lipoproteins. Excess calories, alcohol, or sugar in the body are converted into triglycerides and stored in fat cells throughout the body.</li></ul><p> </p></section_text></section_group><section_group><section_header>What Factors Affect Cholesterol Levels?</section_header><section_text><p>A variety of factors can affect cholesterol levels. They include:</p><ul><li><a href="/content/article/98/104656.htm" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/content/article/98/104656.htm"><b>Diet.</b></a> Saturated fat and cholesterol in the food you eat increase cholesterol levels. Try to reduce the amount of saturated fat and cholesterol in your diet.</li><li><b>Weight.</b> In addition to being a risk factor for heart disease, being overweight can also increase cholesterol. Losing weight can help lower your LDL and total cholesterol levels, as well as increase HDL cholesterol.</li><li><a href="/content/article/98/104654.htm" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/content/article/98/104654.htm"><b>Exercise.</b></a> Regular exercise can lower LDL cholesterol and raise HDL cholesterol. You should try to be physically active for at least 30 minutes on most days.</li><li><b>Age and Gender.</b> As we get older, cholesterol levels rise. Before menopause, women tend to have lower total cholesterol levels than men of the same age. After menopause, however, women's LDL levels tend to rise.</li><li><b>Diabetes.</b> Poorly controlled diabetes increases cholesterol levels. With improvements in control, cholesterol levels can fall.</li><li><b>Heredity.</b> Your genes partly determine how much cholesterol the body makes. High blood cholesterol can run in families.</li><li><b>Other causes.</b> Certain medications and medical conditions can cause high cholesterol.</li></ul></section_text></section_group></page><page><section_group><section_header>How Much Cholesterol Is Too Much?</section_header><section_text><p>Everyone over the age of 20 should get their cholesterol levels measured at least once every five years.</p><p>When being tested, your doctor may recommend a non-fasting cholesterol test or a fasting cholesterol test. A non-fasting cholesterol test will show total cholesterol and HDL cholesterol. A fasting cholesterol test, called a lipid profile or a lipoprotein analysis, will measure your LDL, HDL, and total cholesterol. It will also measure triglycerides.</p><p>Your doctor may start with a non-fasting cholesterol test and then recommend a lipid profile, based on the results.</p><p>Doctors recommend that total cholesterol stay below 200. Here is the breakdown:</p><table border="1" cellpadding="3" cellspacing="3"><tbody><tr><td><b>Total Cholesterol</b></td><td><b>Category</b></td></tr><tr><td>Less than 200</td><td>Desirable</td></tr><tr><td>200 - 239</td><td>Borderline High</td></tr><tr><td>240 and above</td><td>High</td></tr></tbody></table><p>Your LDL, HDL, and triglyceride levels are important as well.</p></section_text></section_group><section_group><section_header>How Can I Lower My Cholesterol and Risk of Heart Disease?</section_header><section_text><p>A few simple changes can help lower cholesterol and risk for heart disease:</p><ul><li><a href="/content/article/98/104665" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/content/article/98/104665"><b>Eat low-cholesterol foods.</b></a> The American Heart Association recommends that you limit your average daily cholesterol intake to less than 300 milligrams. If you have heart disease, limit daily intake to less than 200 milligrams. People can significantly lower their dietary cholesterol intake by keeping their dietary intake of saturated fats low and by avoiding foods that are high in saturated fat and that contain substantial amounts of dietary cholesterol.</li><li><b>Quit smoking.</b> Smoking lowers HDL ("good") cholesterol levels. This trend can be reversed if you quit smoking.</li><li><a href="/content/article/98/104654" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/content/article/98/104654"><b>Exercise.</b></a> Exercise increases HDL cholesterol in some people. Even moderate-intensity activities, if done daily, can help control weight, diabetes, and high blood pressure &#45;&#45; all risk factors for heart disease.</li><li><a href="/content/article/98/104670" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/content/article/98/104670"><b>Take medication as prescribed by your doctor.</b></a> Sometimes making changes to your diet and increasing exercise is not enough to bring cholesterol down. You may also need to take a cholesterol-lowering drug.</li></ul></section_text></section_group><section_group><section_header>How Is High Cholesterol Treated?</section_header><section_text><p>The main goal in lowering cholesterol is to lower LDL and raise your HDL. There are two key ways to lower cholesterol: eat a heart-healthy diet and take cholesterol-lowering drugs.</p><p>Doctors determine your "goals" for lowering LDL based on the number of risk factors you have for heart disease.</p><ul><li>If you have 0-1 risk factor for heart disease, you are at low-to-moderate risk. Lifestyle changes are recommended to keep the cholesterol in check.</li><li>If you have 2 or more risk factors, you are at moderate risk or next-highest risk, depending on what heart disease risk factors you have. Sometimes your doctor will try lifestyle changes alone, but most of these people require cholesterol-lowering drugs.</li><li>If you have known heart disease, diabetes, or multiple risk factors, you are at high, or very high, risk. The<span style=" background-color: #ffffff;">se people may require </span>a combination of cholesterol-lowering drugs and lifestyle changes to control their cholesterol levels.</li></ul><p> </p></section_text></section_group></page><page><section_group><section_header>What Drugs Are Used to Treat High Cholesterol?</section_header><section_text><p>Cholesterol-lowering drugs include:</p><ul><li>Statins</li><li>Niacin</li><li>Bile-acid resins</li><li>Fibric acid derivatives</li></ul><p>Of these, statins are the only drugs proven to prevent heart attacks. These medications are most effective when combined with a low-cholesterol diet.</p><p> </p></section_text></section_group></page></pages><citations><p>SOURCE:</p><p>American Heart Association.</p></citations><related_links_type>Community</related_links_type><related_links_header></related_links_header><related_links_text><p><a href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cholesterol Health Check/page_Cholesterol Health Check_091e9c5e80295735.xml" directive="friendlyurl" chronic_id="091e9c5e80295735" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cholesterol Health Check/page_Cholesterol Health Check_091e9c5e80295735.xml"><b>Health Check: Is High Cholesterol Putting Your Health at Risk?</b></a></p></related_links_text></cons_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/cholesterol-management/guide/cholesterol-basics" owner="false"><breadcrumb><bread piece="Heart Health Center" prefix="www" friendlyurl="/heart/default.htm"></bread><bread piece="Cholesterol &amp; Triglycerides Health Center" prefix="www" friendlyurl="/cholesterol-management/default.htm"></bread><bread piece="Cholesterol &amp; Triglycerides Guide" prefix="www" friendlyurl="/cholesterol-management/guide/default.htm"></bread></breadcrumb><centers><Topic id="1087" name="tmg" chronicid="091e9c5e800338e8" prefix="www" friendlyurl="/cholesterol-management/guide/default.htm" type="Guide">Cholesterol Management Guide</Topic><Health id="1017" name="health center" chronicid="091e9c5e80022f64" prefix="www" friendlyurl="/cholesterol-management/default.htm" type="">Cholesterol Management</Health><Super id="948" name="super center" chronicid="091e9c5e80027294" prefix="www" friendlyurl="/heart/default.htm" type="">Heart Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/cholesterol-basics" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e809d1f4e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/m/Maddox_Thomas.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/thomas-maddox"></target><target siteid="8" name="" prefix="www" friendlyurl="/thomas-maddox"></target></object><object chronic_id="091e9c5e80295735" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cholesterol Health Check/page_Cholesterol Health Check_091e9c5e80295735.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/cholesterol-management/cholesterol-health-check/default.htm"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects><object chronic_id="091e9c5e80d13182" path="/webmd/consumer_assets/editorial/short_text/call_outs/fully_programmed/health_care_reform/aca_preventive_screenings_heart_diseasey.wxml"><webmd_rendition_expanded><content_expanded><wbmd_asset_expanded object_type="wbmd_cons_shrt_txt" id="091e9c5e80d50bce"><metadata_section_expanded><i_chronicle_id>091e9c5e80d13182</i_chronicle_id><r_object_id>091e9c5e80d50bce</r_object_id><title>ACA Preventive Screenings - Heart Disease</title><object_name>aca_preventive_screenings_heart_diseasey.xml</object_name><content_template>consumer_article_ProgCallout.xml</content_template><r_object_id>091e9c5e80d50bce</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="104" wbmd_disp_nm="Article within Article"></wbmd_bus_ref><wbmd_cpyrt></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl></wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta></wbmd_desc_meta><wbmd_orig_pub_dt>nulldate</wbmd_orig_pub_dt><wbmd_desc_user></wbmd_desc_user><wbmd_lk_ttl></wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords></wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80d50bce</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4241" wbmd_disp_nm="Health Insurance and Affordable Care Act"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><r_object_id>091e9c5e80d50bce</r_object_id><wbmd_c_cons_parent_obj_id></wbmd_c_cons_parent_obj_id><wbmd_c_cons_term></wbmd_c_cons_term><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_channel_id>1074</wbmd_c_channel_id></metadata_section_expanded><content_section_expanded><prog_callout><callout_title_bar>Did You Know?</callout_title_bar><component><component_title></component_title><component_thumbnail></component_thumbnail><component_thumbnail_link></component_thumbnail_link><component_text><p>Under the Affordable Care Act, many health insurance plans will cover preventive care services, including blood pressure and cholesterol screenings, at no cost to you. <a href="http://www.webmd.com/health-insurance/insurance-plans/health-reform-heart-disease-prevention-screening" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/health-insurance/insurance-plans/health-reform-heart-disease-prevention-screening">Learn more</a>.<b> </b></p><p><a href="http://www.webmd.com/health-insurance/default.htm" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/health-insurance/default.htm"><b>Health Insurance Center</b></a></p></component_text><break_section>0</break_section></component></prog_callout></content_section_expanded></wbmd_asset_expanded></content_expanded><friendlyurls_expanded></friendlyurls_expanded><referenced_objects_expanded></referenced_objects_expanded><container_hierarchy></container_hierarchy><expanded_objects_expanded></expanded_objects_expanded></webmd_rendition_expanded></object></expanded_objects><module_data><relatedLinks>Off</relatedLinks><articleLinkView>Page Refresh</articleLinkView><articleTitle chronic_id="091e9c5e80007f2e" directive="friendlyurl" object_type="wbmd_cons_article" wbmd_lookup_type="" wbmd_storage_value=""></articleTitle></module_data></webmd_rendition>
+--> 
+   <div class="article_snippet_rdr">
+    <h3>The Basics of Cholesterol</h3>
+    <div class="snippet_fmt" id="asnip">
+     <p xmlns:xalan="http://xml.apache.org/xalan">Have you been diagnosed with high cholesterol? Is lowering your cholesterol a goal? The first step is to find out: What is cholesterol?</p>
+     <p xmlns:xalan="http://xml.apache.org/xalan">Cholesterol is a waxy, fat-like substance made in the liver and other cells&nbsp;and found in certain foods, such as food from animals, like dairy products, eggs, and meat.</p>
+    </div>
+    <div class="snippet_link">
+     <a href="http://www.webmd.com/cholesterol-management/guide/cholesterol-basics" onclick="return sl(this,'','asnip_1');">The Basics of Cholesterol</a>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+ </div> 
+</div>

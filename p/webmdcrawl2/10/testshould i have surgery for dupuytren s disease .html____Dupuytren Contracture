@@ -1,0 +1,846 @@
+<title>Should I have surgery for Dupuytren's disease?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/rheumatoid-arthritis/patient-support-12/video-ra-foods-to-eat" onclick="return sl(this,'','tools-res_1');">RA and Diet: Foods to Eat</a></li>
+      <li id="x57"><a href="http://www.webmd.com/pain-management/chronic-pain-11/slideshow-pain-tips" class="type_ss" onclick="return sl(this,'','tools-res_2');">10 Habits to Reduce Chronic Pain<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/rheumatoid-arthritis/features/ra-physical-therapy" onclick="return sl(this,'','tools-res_3');">Make Physical Therapy Work for You</a></li>
+      <li id="x59"><a href="http://arthritis.webmd.com/living-with-chronic-gout-11/default.htm?vid=vd-1210-hzim-001" class="type_vid" onclick="return sl(this,'','tools-res_4');">Gout Risk Factors and Triggers<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/arthritis/ss/slideshow-keep-joints-healthy" class="type_ss" onclick="return sl(this,'','tools-res_5');">Tips for Healthy Joints<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/rheumatoid-arthritis/rheumatoid-arthritis-health-check/old-hck" onclick="return sl(this,'','tools-res_6');">Manage Your RA</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionset.js">
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="headerLink_fmt"> 
+      <a href="/www/decision-point" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;">What is a Decision Point?</a> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionsetTOC_decsion_pt.jpg" alt="decision point" width="77" height="20" class="headerImg_fmt" />Should I have surgery for Dupuytren's disease?</h2> 
+     <div class="decisionPoint_fmt"> 
+      <div class="section_fmt "> 
+       <div class="arrowFirst_fmt"> 
+        <div class="leftBorder_fmt"> 
+         <div class="rounded_fmt"> 
+          <div class="vertical1_fmt"> 
+           <div class="vertical2_fmt"> 
+            <div class="vertical3_fmt"> 
+             <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Introduction</a> 
+            </div> 
+           </div> 
+          </div> 
+          <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP1Arrw" alt="arrow" /> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail1_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="uh1924-Intro"></a> 
+          <p>Surgery may be recommended for severe cases of Dupuytren's disease in which the tissue beneath the skin in the palm thickens to the point that your hand movement is limited. Consider the following when making your treatment decision:</p> 
+          <ul> 
+           <li>Before considering surgery, you might try nonsurgical treatment including physical or occupational therapy and home stretching exercises.</li> 
+           <li>You may want to consider surgery if your finger or fingers are bent to the palm and cannot be straightened (contracture).</li> 
+           <li> You may not want to consider surgery if you are able to move your fingers and do daily activities.</li> 
+           <li>You may need to have surgery again if the disease recurs and you lose mobility in your hands.</li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Medical Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP2Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail2_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="uh1924-MedInfo"></a> 
+          <h4>What is Dupuytren's disease?</h4> 
+          <p>Dupuytren's disease is an abnormal thickening of tissue beneath the skin in the palm of the hand. It occasionally occurs in the soles of the feet. This condition usually progresses very slowly and may never require treatment. But for some, Dupuytren's disease may eventually cause the fingers to bend so that they cannot be straightened (contracture). </p> 
+          <p>Dupuytren's disease usually does not cause pain. The first noticeable symptom often is a small lump (nodule) felt in the palm, usually near the base of the fingers. A fibrous, ropelike cord may gradually develop in the palm tissue (fascia). The cord pulls the finger toward the palm (Dupuytren's contracture). Eventually you will not be able to flatten your palm on an even surface, such as a table. </p> 
+          <h4>What happens in Dupuytren's disease?</h4> 
+          <p>When it is severe, Dupuytren's contracture can make everyday activities-such as picking up items, putting on gloves, or washing hands-difficult or impossible. </p> 
+          <h4>What are the nonsurgical treatments for Dupuytren's disease?</h4> 
+          <p>In mild cases, regular stretching of the involved fingers may be enough to maintain your hand mobility. Twice-daily sessions of massaging the hand and then gently stretching your fingers back relieves tightness and helps keep the fingers flexible. For some people with mild disease, hand function may be maintained with physical therapy and range-of-motion exercises.</p> 
+          <p>Injections of lidocaine or corticosteroids or both may provide some temporary relief from your symptoms. Other treatments that may provide some relief include splinting.</p> 
+          <h4>What are the surgical options for Dupuytren's disease?</h4> 
+          <p>Surgery for Dupuytren's disease may relieve severe cases of contracture but will not cure the disease. The most common surgery done for Dupuytren's disease is removal of the abnormally thick and fibrous tissue (fasciectomy). If your palm skin has become stuck (adhered) to the abnormal tissue, the skin may be removed along with the tissue.</p> 
+          <p>Another surgical procedure done in some cases of Dupuytren's disease is fasciotomy, in which the cords of fiber in the palm are divided through small incisions. This procedure is usually reserved for people who, because of general health, are not good candidates for fasciectomy or who have recurrent disease.<sup class="Reference"><a href="http://www.webmd.com/arthritis/should-i-have-surgery-for-dupuytrens-disease#uh1923" onclick="return sl(this,'','embd-lnk');">1</a></sup></p> 
+          <p> Surgery usually provides relief from contracture and restores mobility in the fingers, but the condition may return.<sup class="Reference"><a href="http://www.webmd.com/arthritis/should-i-have-surgery-for-dupuytrens-disease#zt1797" onclick="return sl(this,'','embd-lnk');">2</a></sup></p> 
+          <p>Delaying surgery until you have a severe contracture of the fingers makes surgery and recovery more difficult.</p> 
+          <h4>What are the possible complications from surgery for Dupuytren's disease?</h4> 
+          <p>Complications are common during surgery for Dupuytren's disease. They occur in about 1 in 5 cases.<sup class="Reference"><a href="http://www.webmd.com/arthritis/should-i-have-surgery-for-dupuytrens-disease#za1042" onclick="return sl(this,'','embd-lnk');">3</a></sup> Complications can include:</p> 
+          <ul> 
+           <li>Delayed wound healing. This is the most common complication and it is usually mild.</li> 
+           <li>Infection of the wound.</li> 
+           <li>Stiffness or contracture, with the fingers still being curled.</li> 
+           <li>Nerve injury.</li> 
+           <li>Loss of circulation in the fingers.</li> 
+           <li>Collection of blood or blood clots in the tissues (hematoma).</li> 
+           <li>Damage to the skin, which results from trying to surgically separate the skin from the diseased tissue (palmar fascia).</li> 
+           <li>Reflex sympathetic dystrophy.</li> 
+          </ul> 
+          <p>Surgery usually improves but may not completely restore hand function. Even with successful surgery, thickened palm tissue may develop again in the same place or in a new area of the hands. Reoperation may be necessary to maintain hand function.</p> 
+          <h4>If surgery is done, what follow-up exercises and treatment might be required?</h4> 
+          <p>After surgery, the disease may recur in the same area or may appear in a new location. But the outcome may be better if you routinely do finger exercises and use splints as instructed by your health professional.</p> 
+          <p>A physical or occupational therapist can teach you how to do exercises to gently move your finger joints through their normal range of motion. These exercises help prevent joint stiffness. Range-of-motion exercises do not include motions that stress or overextend the joint.</p> 
+          <p> Splints may be used after surgery for about 8 to 10 weeks to help restore hand function and prevent symptoms of Dupuytren's disease from recurring. Splints support your palm and help straighten your fingers during the healing process. In some cases, splints are worn only at night, but in others they are worn at all times, except when the wound needs cleaning or during finger exercises. Your health professional will help you learn how and when you wear the splint during recovery.</p> 
+          <p>If you need more information, see the topic <a href="http://www.webmd.com/arthritis/tc/dupuytrens-disease-topic-overview" onclick="return sl(this,'','embd-lnk');">Dupuytren's Disease</a>.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Your Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP3Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail3_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="uh1924-YourInfo"></a> 
+          <p>Your choices are:</p> 
+          <ul> 
+           <li>Have surgery to relieve symptoms of Dupuytren's disease.</li> 
+           <li>Do not have surgery to relieve symptoms of Dupuytren's disease.</li> 
+          </ul> 
+          <p>The decision about whether to have surgery takes into account your personal feelings and the medical facts.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <caption> 
+            <b>Deciding about surgery for Dupuytren's disease</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th scope="col" valign="top"> Reasons to have surgery for Dupuytren's disease</th> 
+             <th scope="col" valign="top"> Reasons not to have surgery for Dupuytren's disease</th> 
+            </tr> 
+            <tr> 
+             <td valign="top" width="50%"> 
+              <ul> 
+               <li>You have been doing finger exercises regularly, but your fingers are increasingly bent to the palm and incapable of flattening.</li> 
+               <li>You have pain from nodules.</li> 
+               <li>You are unable to pick up things, put on gloves, or do other everyday activities with your hand(s).</li> 
+               <li>You accept that the disease may recur in a few years and repeat surgery may be necessary.</li> 
+               <li>Delaying surgery until you have a severe contracture of the fingers makes surgery and recovery more difficult.</li> 
+              </ul> <p>Are there other reasons you might want to have surgery?</p> </td> 
+             <td valign="top" width="50%"> 
+              <ul> 
+               <li>You are able to move your fingers and do daily activities.</li> 
+               <li>You have had surgery at least once to correct severe contracture of your fingers, but the condition returned within a few years, and you do not want to have surgery again.</li> 
+               <li>Complications from surgery can include nerve injury and loss of mobility.</li> 
+               <li>Surgery may improve but not completely restore hand function.</li> 
+              </ul> <p>Are there other reasons you might not want to have surgery?</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p>These personal stories may help you make your decision.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Wise Health Decision</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP4Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail4_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="uh1924-WiseDecision"></a> 
+          <p> Use this worksheet to help you make your decision. After completing it, you should have a better idea of how you feel about having surgery for Dupuytren's disease. Discuss the worksheet with your doctor.</p> 
+          <p>Circle the answer that best applies to you.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody> 
+            <tr> 
+             <td valign="top">My fingers are rigidly bent, and it's getting harder for me to even wash my hands. </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%"> Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I realize that after surgery I still may not be able to flatten my hand on a table.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">My physical therapist has taught me how to exercise my fingers every day, and it seems to be helping.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA*</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I understand that there's a chance my bent finger condition will return after surgery.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">The pain in my hand is affecting my quality of life.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I understand the possible complications from surgery.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I am still fairly young, and I don't like the idea of having this surgery every few years.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I don't want to get as bad as my dad. By the time he was 80, he couldn't pick up anything.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">Whatever it takes to let me use my hands again is worth it.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA</td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <p> <i>*NA = Not applicable</i> </p> 
+          <p>Use the following space to list any other important concerns you have about this decision.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <tbody>
+            <tr> 
+             <td valign="top" width="98%"> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <h4>What is your overall impression?</h4> 
+          <p>Your answers in the above worksheet are meant to give you a general idea of where you stand on this decision. You may have one overriding reason to have or not have surgery for Dupuytren's disease.</p> 
+          <p>Check the box below that represents your overall impression about your decision.</p> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward having surgery</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="25%"> <p> <b>Leaning toward NOT having surgery</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">References</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP5Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail5_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="uh1924-Bib"></a> 
+          <blockquote> 
+           <h3>Citations</h3> 
+           <ol> 
+            <li> <p> <a name="uh1923"></a>Gudmundsson KG, et al. (2003). Guillaume Dupuytren and finger contractures. <u>Lancet</u>, 362(9378): 165–168. </p> </li> 
+            <li> <p> <a name="zt1797"></a>Townley WA, et al. (2006) Dupuytren's contracture unfolded. <u>BMJ</u>, 332(7538): 397–400.</p> </li> 
+            <li> <p> <a name="za1042"></a>Brown AN, Gilkeson GS (2005). Fibrosing diseases: Diabetic stiff hand syndrome, Dupuytren's contracture, palmar and plantar fasciitis, retroperitoneal fibrosis, and Peyronie's disease. In WJ Koopman, LW Moreland, eds., <u>Arthritis and Allied Conditions: A Textbook of Rheumatology</u>, 15th ed., vol. 2, pp. 2093–2108. Philadelphia: Lippincott Williams and Wilkins.</p> </li> 
+           </ol> 
+          </blockquote> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt  last_fmt"> 
+       <div class="arrowLast_fmt" id="lastDiv"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;">Credits</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP6Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail6_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="uh1924-Credits"></a> 
+          <table border="0" cellpadding="5"> 
+           <tbody>
+            <tr> 
+             <td valign="top"> <b>Author</b> </td> 
+             <td>Shannon Erstad, MBA/MPH</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Editor</b> </td> 
+             <td>Kathleen M. Ariss, MS</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Pat Truman, MATC</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+             <td>William M. Green, MD - Emergency Medicine</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+             <td>David Pichora, MD, FRCSC - Orthopedic Surgery</td> 
+            </tr> 
+            <tr> 
+             <td> <b>Last Updated</b> </td> 
+             <td>March 31, 2008</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: March 31, 2008
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - DecisionPoint';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1008"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/rheumatoid-arthritis/first-biologic-fails" onclick="return sl(this,'','rltd-p-1008_1');">If Your Biologic for RA Fails: What Next?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/osteoarthritis/features/lose-weight" onclick="return sl(this,'','rltd-p-1008_2');">Could Losing Weight Ease Your Arthritis Pain?</a> </li> 
+     <li id="x64"> <a class="type_ss" href="http://www.webmd.com/osteoarthritis/managing-oa-pain-10/everyday-exercises-for-oa-slideshow" onclick="return sl(this,'','rltd-p-1008_3');">Easy Exercises for Pain Relief<i> </i></a> </li> 
+     <li id="x65"> <a href="https://www.webmd.com/lupus/d2n-coping-with-lupus-11/default.htm?article=091e9c5e806dec2f&amp;scene=morning" onclick="return sl(this,'','rltd-p-1008_4');">Fighting Lupus Fatigue</a> </li> 
+     <li id="x66"> <a class="type_ss" href="http://arthritis.webmd.com/living-with-chronic-gout-11/slideshow-gout-diet" onclick="return sl(this,'','rltd-p-1008_5');">Gout and Diet: Foods That Help, Foods That Hurt<i> </i></a> </li> 
+     <li id="x67" class="last"> <a class="type_ss" href="http://www.webmd.com/osteoarthritis/ss/slideshow-daily-living-osteoarthritis" onclick="return sl(this,'','rltd-p-1008_6');">How to Live Day to Day With Arthritis<i> </i></a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1008_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80695290" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80695290</chronic_id><r_object_id>091e9c5e80695290</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e80695290.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/04/2010 10:40:41</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Arthritis Health Center/template_Arthritis Health Center_091e9c5e8003451e.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8003451e"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Dupuytren's Contracture</name><link_title>Dupuytren's Contracture</link_title><description>In Dupuytren's contracture, the connective tissue in your palm restricts and thickens to the point that it affects your finger movement. Usually, your ring finger and pinky finger curl in. When this happens, even the simplest tasks can prove difficult. Symptoms include nodules of hard tissue in the palm, curling in of the fingers, and more. Treatments may include corticosteroid injections, surgery, physical therapy, and more. Follow the links below to find WebMD's comprehensive coverage about what causes Dupuytren's contracture, what the condition looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/arthritis/dupuytrens-contracture-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8060d766"><link_title>Slideshow: What Is Dupuytren's Contracture?</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/dupuytrens-contracture-10/slideshow-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80605289"><link_title>Dupuytren’s: Questions for and From Your Doctor</link_title><friendly_url>http://www.webmd.com/arthritis/questions-for-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e805d27b8"><link_title>Dupuytren's Contracture: Causes, Symptoms, and Treatment</link_title><friendly_url>http://www.webmd.com/pain-management/dupuytrens-contracture-causes-symptoms-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80604eb2"><link_title>Understanding Dupuytren's Contracture</link_title><friendly_url>http://www.webmd.com/arthritis/understanding-dupuytrens-contracture</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001da5d"><link_title>Dupuytren's Disease-Cause</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001db24"><link_title>Dupuytren's Disease-Exams and Tests</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001de16"><link_title>Dupuytren's Disease-Health Tools</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001da23"><link_title>Dupuytren's Disease-Medications</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-medications</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001db0b"><link_title>Dupuytren's Disease-Home Treatment</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d8b4"><link_title>Dupuytren's Disease-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e240"><link_title>Dupuytren's Disease-Other Treatment</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-other-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dbe4"><link_title>Dupuytren's Disease-Prevention</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d8eb"><link_title>Dupuytren's Disease-Surgery</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e278"><link_title>Dupuytren's Disease-Symptoms</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d961"><link_title>Dupuytren's Disease-Treatment Overview</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e08c"><link_title>Dupuytren's Disease-Topic Overview</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001daef"><link_title>Dupuytren's Disease-What Increases Your Risk</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-what-increases-your-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e09e"><link_title>Dupuytren's Disease-What Happens</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-what-happens</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ddd8"><link_title>Dupuytren's Disease-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/arthritis/tc/dupuytrens-disease-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001bbd6"><link_title>Personal stories about having surgery for Dupuytren's disease</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/personal-stories-about-having-surgery-for-dupuytrens-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80490698"><link_title>Dupuytren's Contracture</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/dupuytrens-contracture</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80605288"><link_title>Dupuytren’s Contracture: Causes and Risk Factors</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/features/dupuytrens-contracture-causes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fe2e"><link_title>Who's Watching Your Genes</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/news/20010424/whos-watching-your-genes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800829b9"><link_title>Carpal Tunnel? Blame Genes Not Overuse</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/news/20070216/carpal-tunnel-blame-genes-not-overuse</friendly_url><thumbnail height="" width="" alt="typing on a keyboard">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/February07/typing_dangers_exaggerated.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8026477b"><link_title>New Screening for Carpal Tunnel Syndrome</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/news/20080917/new-screening-for-carpal-tunnel-syndrome</friendly_url><thumbnail height="" width="" alt="Carpal Tunnel Syndrome Screening">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/September08/carpal_tunnel_syndrome_screening.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8060528a"><link_title>How Dupuytren’s Contracture Progresses</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/features/dupuytrens-contracture-progression</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80714a49"><link_title>Preventing and Treating Dry, Chapped Hands in Winter</link_title><friendly_url>http://www.webmd.com/beauty/skin/prevent-soothe-chapped-winter-hands</friendly_url><thumbnail height="" width="" alt="womans hands">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/01_2011/69x75_save_your_winter_hands_v02.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8064dae4"><link_title>Causes of Tingling in Hands and Feet</link_title><friendly_url>http://www.webmd.com/brain/tingling-in-hands-and-feet</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000d060"><link_title>Injection of Steroid Improves Symptoms of Carpal Tunnel Syndrome for at Least a Year</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/news/19991015/injection-of-steroid-improves-symptoms-of-carpal-tunnel-syndrome-for-at-least-year</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80009237"><link_title>An Overview of Psoriatic Arthritis</link_title><friendly_url>http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/a-to-z-guides/dupuytrens-contracture-10/slideshow-treatment" onclick="return sl(this,'','td-rltd-art_1');">Slideshow: What Is Dupuytren's Contracture?</a></li>
+      <li><a href="http://www.webmd.com/arthritis/questions-for-doctor" onclick="return sl(this,'','td-rltd-art_2');">Dupuytren’s: Questions for and From Your Doctor</a></li>
+      <li><a href="http://www.webmd.com/pain-management/dupuytrens-contracture-causes-symptoms-treatment" onclick="return sl(this,'','td-rltd-art_3');">Dupuytren's Contracture: Causes, Symptoms, and Treatment</a></li>
+      <li><a href="http://www.webmd.com/arthritis/understanding-dupuytrens-contracture" onclick="return sl(this,'','td-rltd-art_4');">Understanding Dupuytren's Contracture</a></li>
+      <li><a href="http://www.webmd.com/arthritis/tc/dupuytrens-disease-cause" onclick="return sl(this,'','td-rltd-art_5');">Dupuytren's Disease-Cause</a></li>
+      <li><a href="http://www.webmd.com/arthritis/tc/dupuytrens-disease-exams-and-tests" onclick="return sl(this,'','td-rltd-art_6');">Dupuytren's Disease-Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/arthritis/tc/dupuytrens-disease-health-tools" onclick="return sl(this,'','td-rltd-art_7');">Dupuytren's Disease-Health Tools</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/arthritis/dupuytrens-contracture-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Dupuytren's Contracture Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=723890546&tile=1606987640&tug=&pug=__&site=2&affiliate=20&hcent=&scent=1194&pos=113&xpg=3635&sec=&amp;au1=1&au2=1&uri=%2farthritis%2fshould-i-have-surgery-for-dupuytrens-disease&artid=091e9c5e8001ccb9&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_h16_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'723890546',
+                    tile:'1606987640',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "3635";
+      var secTopId = "";
+    </script>
+   <!-- ID:091e9c5e805e3739.Error in AdModuleWidget::GenerateADCode(). Root element is missing. -->
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

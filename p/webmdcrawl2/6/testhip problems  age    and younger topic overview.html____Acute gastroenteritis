@@ -1,0 +1,629 @@
+<title>Hip Problems, Age 11 and Younger-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/parenting/features/inside-look-at-the-teen-brain" onclick="return sl(this,'','tools-res_1');">What Makes Your Teen Tick?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/bedwetting-solutions-12/default.htm" onclick="return sl(this,'','tools-res_2');">How to Stop Bedwetting</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" class="type_ss" onclick="return sl(this,'','tools-res_3');">Allergy Relief: What You Need<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/children/digestion-in-children-11/constipation-treatment" onclick="return sl(this,'','tools-res_4');">Treating Constipation in Kids</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/preventative-health-vaccines" onclick="return sl(this,'','tools-res_5');">Protect Your Kids: Get Your Shots</a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-strep-symptoms" onclick="return sl(this,'','tools-res_6');">Strep Throat Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e95030"><metadata_section><i_chronicle_id>091e9c5e8001e75b</i_chronicle_id><r_object_id>091e9c5e80e95030</r_object_id><title>Topic Overview</title><object_name>hip_problems_age_11_and_younger-topic_overview_symptom_tq2990.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e95030</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>symptom_tq2990</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Hip Problems, Age 11 and Younger-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378519</r_object_id><publ_i_chronicle_id>091e9c5e80019169</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Symptom</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>A hip problem can be upsetting, both to the child who has the problem and to the parent or caregiver. A child who has a hip problem may feel pain in the hip, groin, thigh, or knee. </wbmd_desc_meta><wbmd_orig_pub_dt>07/30/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>A hip problem can be upsetting, both to the child who has the problem and to the parent or caregiver. A child who has a hip problem may feel pain in the hip, groin, thigh, or knee. </wbmd_desc_user><wbmd_lk_ttl>Hip Problems, Age 11 and Younger-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>aseptic necrosis, avascular necrosis, avascular necrosis (osteonecrosis), avn, broken hip, dislocated hip, displaced hip, hip dislocation, hip fracture, hip pain, idiopathic osteonecrosis of the capital femoral epiphysis of the femoral head, ischemic bone</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.131</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e95030</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3549" wbmd_disp_nm="Parenting - Young Child (5 years to 8 years)"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1025" wbmd_disp_nm="Children"></wbmd_c_channel_id><wbmd_c_frnd_nm>Hip-Problems-Age-11-and-Younger-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>Overview</section_type><section_text><p>A hip problem can be hard to deal with, both for the child who has
+		the problem and to the parent or caregiver. A child who has a hip problem may
+		feel pain in the hip, groin, thigh, or <a chronic_id="091e9c5e805835c7" crossLinkId="1507497" directive="friendlyurl" externalId="091e9c5e805835c7" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_knee.xml" keywordId="71305" keywordSetId="32194" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_knee.xml">knee</a>. A child in pain may limp or be
+		unable or unwilling to stand, walk, or move the affected leg. A baby in pain
+		may cry, be fussy, and have other
+		<a chronic_id="091e9c5e808f673f" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/evaluating_pain_in_a_child-topic_overview_special_not25253-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/evaluating_pain_in_a_child-topic_overview_special_not25253-sec.xml">signs of pain</a>. Hip problems may be present at birth
+		(congenital) or may develop from injury, overuse,
+		<a chronic_id="091e9c5e8001b4ec" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/inflammation_definition_sti150782.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/inflammation_definition_sti150782.xml">inflammation</a>, infection, or tumor growth.</p><p>To better understand hip problems, it may be helpful to know how the
+		<a chronic_id="091e9c5e8001e943" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/hip_anatomy_in_a_child_multimedia_tp10918.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/hip_anatomy_in_a_child_multimedia_tp10918.xml">hip</a><a chronic_id="091e9c5e8001e943" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/hip_anatomy_in_a_child_multimedia_tp10918.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/hip_anatomy_in_a_child_multimedia_tp10918.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a> works. It is the largest ball-and-socket joint in
+		the body. The thighbone (femur) fits tightly into a cup-shaped socket
+		(acetabulum) in the pelvis. The hip joint is tighter and more stable than the
+		<a chronic_id="091e9c5e80583331" crossLinkId="1507498" directive="friendlyurl" externalId="091e9c5e80583331" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.xml" keywordId="62991" keywordSetId="28547" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.xml">shoulder</a> joint but it does not move as freely. The hip joint is held together
+		by muscles in the buttock, groin, and spine; tendons; ligaments; and a joint
+		capsule. Several fluid-filled sacs (bursae) cushion and lubricate the hip joint
+		and let the tendons and muscles glide and move smoothly. The largest nerve in
+		the body (<a chronic_id="091e9c5e8000b107" crossLinkId="13098" directive="friendlyurl" externalId="091e9c5e8000b107" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/pain_management_sciatica_symptoms.xml" keywordId="39808" keywordSetId="9729" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/pain_management_sciatica_symptoms.xml">sciatic nerve</a>) passes through the pelvis into the leg.</p></section_text></section_group><section_group><section_header>Hip problems</section_header><section_type>Overview</section_type><section_text><p>Hip problems may develop from overuse,
+		 infection, or a problem that was present from birth (congenital). Oddly enough,
+		 a child who has a hip problem often feels pain in the knee or thigh instead of
+		 the hip. Hip problems that affect children include:</p><ul><li>An inflammatory reaction, such as
+			 <a chronic_id="091e9c5e8001b63e" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/toxic_synovitis_definition_stt11443.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/toxic_synovitis_definition_stt11443.xml">transient or toxic synovitis</a>. This generally occurs
+			 after the child has had a cold or other upper respiratory infection. This is
+			 the most common cause of <a chronic_id="091e9c5e8059968e" crossLinkId="1534571" directive="friendlyurl" externalId="091e9c5e8059968e" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/joints_bones_and_muscles/miscellaneous/hip_pain_causes_and_treatment.xml" keywordId="36234" keywordSetId="8960" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/joints_bones_and_muscles/miscellaneous/hip_pain_causes_and_treatment.xml">hip pain</a> in children.</li><li>A
+			 <a chronic_id="091e9c5e8001b6a3" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/slipped_capital_femoral_epiphysis_definition_th1534.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/slipped_capital_femoral_epiphysis_definition_th1534.xml">slipped capital femoral epiphysis</a>. This occurs when
+			 the upper end of the thighbone (head of the femur) slips at the growth plate
+			 (epiphysis) and does not fit in the hip socket correctly.</li><li><a chronic_id="091e9c5e8001b658" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/legg-calve-perthes_disease_lcpd_definition_tv7923.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/legg-calve-perthes_disease_lcpd_definition_tv7923.xml">Legg-Calve-Perthes disease</a>. This condition is caused
+			 by decreased <a chronic_id="091e9c5e8056ea80" crossLinkId="1506783" directive="friendlyurl" externalId="091e9c5e8056ea80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml" keywordId="62987" keywordSetId="28544" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml">blood</a> flow to the head of the femur which affects the bone as seen on the
+			 <a chronic_id="091e9c5e8001e8be" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/x-ray_and_mri_of_legg-calve-perthes_disease_multimedia_zm6085.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/x-ray_and_mri_of_legg-calve-perthes_disease_multimedia_zm6085.xml">X-ray and an MRI of a child</a><a chronic_id="091e9c5e8001e8be" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/x-ray_and_mri_of_legg-calve-perthes_disease_multimedia_zm6085.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/x-ray_and_mri_of_legg-calve-perthes_disease_multimedia_zm6085.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a> with this problem.</li><li>An inward twisting of
+			 the thighbone (femoral anteversion). This condition causes the knees and <a chronic_id="091e9c5e80586577" crossLinkId="1507667" directive="friendlyurl" externalId="091e9c5e80586577" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml" keywordId="62993" keywordSetId="28548" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml">feet</a>
+			 to turn inward. The child will have a "pigeon-toed" appearance and may have a
+			 clumsy walk.</li><li><a chronic_id="091e9c5e8001b1b3" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/developmental_dysplasia_of_the_hip_definition_ux1060.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/developmental_dysplasia_of_the_hip_definition_ux1060.xml">Developmental dysplasia of the hip (DDH)</a>. This condition is caused by a problem in the development of the
+			 hip joint. The top of the femur does not fit correctly into the hip socket
+			 (acetabulum) so the femur can partially or completely slip out of the
+			 socket.</li><li><a chronic_id="091e9c5e8001b63b" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/juvenile_idiopathic_arthritis_definition_uh1906.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/juvenile_idiopathic_arthritis_definition_uh1906.xml">Juvenile idiopathic arthritis (JIA)</a>.
+			 This condition causes inflamed, swollen joints that are often stiff and
+			 painful.</li><li> Infection in the joint (<a chronic_id="091e9c5e8001b248" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/infectious_arthritis_definition_sti150808.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/infectious_arthritis_definition_sti150808.xml">septic arthritis</a>), the bursa (<a chronic_id="091e9c5e8001b688" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/septic_bursitis_definition_sts14516.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/septic_bursitis_definition_sts14516.xml">septic bursitis</a>), or the hip or pelvic
+			 bone (<a chronic_id="091e9c5e8001b697" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/osteomyelitis_definition_sto167507.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/osteomyelitis_definition_sto167507.xml">osteomyelitis</a>).</li><li>In rare cases, <a chronic_id="" crossLinkId="31192" directive="friendlyurl" externalId="9A13E96B1FF14D08" href="http://www.webmd.com/cancer/" keywordId="7043" keywordSetId="942" object_type="" path="/webmdhttp://www.webmd.com/cancer/">cancer</a> of
+			 the bone, such as osteosarcoma.</li></ul><p>Treatment for a hip problem depends on the location, type,
+		and severity of the problem as well as the child's age, general health, and
+		activity level. Treatment may include first aid measures; application of a
+		brace, cast, harness, or traction; <a chronic_id="091e9c5e8001d247" crossLinkId="47180" directive="friendlyurl" externalId="091e9c5e8001d247" href="/webmd/consumer_assets/controlled_content/healthwise/special/physical_therapy-topic_overview_special_zt1046.xml" keywordId="72583" keywordSetId="32734" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/physical_therapy-topic_overview_special_zt1046.xml">physical therapy</a>; medicines; or
+		surgery.</p><p><a chronic_id="091e9c5e8001e445" directive="friendlyurl" document-type="Symptom" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-check_your_symptoms_symptom_tq3039.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-check_your_symptoms_symptom_tq3039.xml">Check your child's symptoms</a> to decide if and when
+		your child should see a doctor.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-topic-overview" owner="false"><breadcrumb><bread piece="Children's Health" prefix="www" friendlyurl="/children/default.htm"></bread><bread piece="Children's Health Related Topics" prefix="www" friendlyurl="/children/tc/default.htm"></bread></breadcrumb><centers><Topic id="1262" name="tmg" chronicid="091e9c5e8001e75b" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-topic-overview" type="Topic">Hip Problems,Age 11 and Younger</Topic><Super id="859" name="super center" chronicid="091e9c5e80024767" prefix="www" friendlyurl="/children/default.htm" type="">Children's Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-topic-overview" owner="false"><breadcrumb><bread piece="Children's Health" prefix="www" friendlyurl="/children/default.htm"></bread><bread piece="Children's Health Related Topics" prefix="www" friendlyurl="/children/tc/default.htm"></bread></breadcrumb><centers><Topic id="11180" name="tmg" chronicid="091e9c5e8001e75b" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-topic-overview" type="Topic">Hip Problems,Age 11 and Younger</Topic><Super id="11177" name="super center" chronicid="091e9c5e8068d722" prefix="www" friendlyurl="/children/default.htm" type="">Children</Super></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e805835c7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_knee.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/knee-pain/picture-of-the-knee"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-knee"></target></object><object chronic_id="091e9c5e808f673f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/evaluating_pain_in_a_child-topic_overview_special_not25253-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/tc/evaluating-pain-in-a-child-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/evaluating-pain-in-a-child-topic-overview"></target></object><object chronic_id="091e9c5e8001b4ec" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/inflammation_definition_sti150782.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/inflammation"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/inflammation"></target></object><object chronic_id="091e9c5e8001e943" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/hip_anatomy_in_a_child_multimedia_tp10918.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/hip-anatomy-in-a-child"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/hip-anatomy-in-a-child"></target></object><object chronic_id="091e9c5e80583331" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/picture-of-the-shoulder"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-shoulder"></target></object><object chronic_id="091e9c5e8000b107" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/pain_management_sciatica_symptoms.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/back-pain/guide/sciatica-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/back-pain/guide/sciatica-symptoms"></target></object><object chronic_id="091e9c5e8001b63e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/toxic_synovitis_definition_stt11443.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/toxic-synovitis"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/toxic-synovitis"></target></object><object chronic_id="091e9c5e8059968e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/joints_bones_and_muscles/miscellaneous/hip_pain_causes_and_treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/guide/hip-pain-causes-and-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/guide/hip-pain-causes-and-treatment"></target></object><object chronic_id="091e9c5e8001b6a3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/slipped_capital_femoral_epiphysis_definition_th1534.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/slipped-capital-femoral-epiphysis"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/slipped-capital-femoral-epiphysis"></target></object><object chronic_id="091e9c5e8001b658" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/legg-calve-perthes_disease_lcpd_definition_tv7923.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/legg-calve-perthes-disease-lcpd"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/legg-calve-perthes-disease-lcpd"></target></object><object chronic_id="091e9c5e8056ea80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/anatomy-picture-of-blood"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/anatomy-picture-of-blood"></target></object><object chronic_id="091e9c5e8001e8be" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/x-ray_and_mri_of_legg-calve-perthes_disease_multimedia_zm6085.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/x-ray-and-mri-of-legg-calve-perthes-disease"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/x-ray-and-mri-of-legg-calve-perthes-disease"></target></object><object chronic_id="091e9c5e80586577" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target></object><object chronic_id="091e9c5e8001b1b3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/developmental_dysplasia_of_the_hip_definition_ux1060.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/developmental-dysplasia-of-the-hip"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/developmental-dysplasia-of-the-hip"></target></object><object chronic_id="091e9c5e8001b63b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/juvenile_idiopathic_arthritis_definition_uh1906.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/juvenile-rheumatoid-arthritis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/juvenile-rheumatoid-arthritis"></target></object><object chronic_id="091e9c5e8001b248" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/infectious_arthritis_definition_sti150808.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/infectious-arthritis"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/infectious-arthritis"></target></object><object chronic_id="091e9c5e8001b688" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/septic_bursitis_definition_sts14516.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/septic-bursitis"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/septic-bursitis"></target></object><object chronic_id="091e9c5e8001b697" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/osteomyelitis_definition_sto167507.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/osteomyelitis"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/osteomyelitis"></target></object><object chronic_id="091e9c5e8001d247" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/physical_therapy-topic_overview_special_zt1046.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/tc/physical-therapy-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/tc/physical-therapy-topic-overview"></target></object><object chronic_id="091e9c5e8001e445" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-check_your_symptoms_symptom_tq3039.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-check-your-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-check-your-symptoms"></target></object><object chronic_id="091e9c5e8001e75b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-topic_overview_symptom_tq2990.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-topic-overview"></target></object><object chronic_id="091e9c5e8001e445" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-check_your_symptoms_symptom_tq3039.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-check-your-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-check-your-symptoms"></target></object><object chronic_id="091e9c5e8001e531" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-home_treatment_symptom_tq3243.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-home-treatment"></target></object><object chronic_id="091e9c5e8001e5d7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-prevention_symptom_tq3282.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-prevention"></target></object><object chronic_id="091e9c5e8001e490" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-preparing_for_your_appointment_symptom_tq3307.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-preparing-for-your-appointment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-preparing-for-your-appointment"></target></object><object chronic_id="091e9c5e8001e6c0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-related_information_symptom_hip10-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-related-information"></target></object><object chronic_id="091e9c5e8001e6cd" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-credits_symptom_hip10-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hip-problems-age-11-and-younger-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e8002356a" path="/webmd/consumer_assets/controlled_content/healthwise/toc/symptom/hip_problems_age_11_and_younger-toc_symptom_hip10.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>Overview</section_type><section_link directive="article" chronic_id="091e9c5e8001e75b" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-topic_overview_symptom_tq2990.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Check Your Symptoms</section_title><section_type>CheckYourSymptoms</section_type><section_link directive="article" chronic_id="091e9c5e8001e445" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-check_your_symptoms_symptom_tq3039.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Home Treatment</section_title><section_type>HomeTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001e531" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-home_treatment_symptom_tq3243.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Prevention</section_title><section_type>Prevention</section_type><section_link directive="article" chronic_id="091e9c5e8001e5d7" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-prevention_symptom_tq3282.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Preparing For Your Appointment</section_title><section_type>PreparingForYourAppointment</section_type><section_link directive="article" chronic_id="091e9c5e8001e490" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-preparing_for_your_appointment_symptom_tq3307.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001e6c0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-related_information_symptom_hip10-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001e6cd" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/hip_problems_age_11_and_younger-credits_symptom_hip10-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Hip Problems,Age 11 and Younger</title><dynamic_objects><callout_title>Recommended Related to Children</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e738e6"><metadata_section><i_chronicle_id>091e9c5e80490692</i_chronicle_id><title>Phenylketonuria</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>
+  Important
+  It is possible that the main title of the report Phenylketonuria is not the name you expected. Please check the synonyms listing to find the alternate name(s) and disorder subdivision(s) covered by this report.</p></section_text><link siteid="3" prefix="www" friendlyurl="/children/phenylketonuria"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Hip Problems,Age 11 and Younger - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <p>A hip problem can be hard to deal with, both for the child who has the problem and to the parent or caregiver. A child who has a hip problem may feel pain in the hip, groin, thigh, or <a href="http://www.webmd.com/pain-management/knee-pain/picture-of-the-knee" onclick="return sl(this,'','embd-lnk');">knee</a>. A child in pain may limp or be unable or unwilling to stand, walk, or move the affected leg. A baby in pain may cry, be fussy, and have other <a href="http://www.webmd.com/parenting/tc/evaluating-pain-in-a-child-topic-overview" onclick="return sl(this,'','embd-lnk');">signs of pain</a>. Hip problems may be present at birth (congenital) or may develop from injury, overuse, <a href="http://www.webmd.com/hw-popup/inflammation" onclick="return sl(this,'hw','embd-lnk');">inflammation</a>, infection, or tumor growth.</p>
+      <p>To better understand hip problems, it may be helpful to know how the <a href="http://www.webmd.com/children/hip-anatomy-in-a-child" onclick="return sl(this,'','embd-lnk');">hip</a> <a href="http://www.webmd.com/children/hip-anatomy-in-a-child" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a> works. It is the largest ball-and-socket joint in the body. The thighbone (femur) fits tightly into a cup-shaped socket (acetabulum) in the pelvis. The hip joint is tighter and more stable than the <a href="http://www.webmd.com/pain-management/picture-of-the-shoulder" onclick="return sl(this,'','embd-lnk');">shoulder</a> joint but it does not move as freely. The hip joint is held together by muscles in the buttock, groin, and spine; tendons; ligaments; and a joint capsule. Several fluid-filled sacs (bursae) cushion and lubricate the hip joint and let the tendons and muscles glide and move smoothly. The largest nerve in the body (<a href="http://www.webmd.com/back-pain/guide/sciatica-symptoms" onclick="return sl(this,'','embd-lnk');">sciatic nerve</a>) passes through the pelvis into the leg.</p>
+      <p>Hip problems may develop from overuse, infection, or a problem that was present from birth (congenital). Oddly enough, a child who has a hip problem often feels pain in the knee or thigh instead of the hip. Hip problems that affect children include:</p>
+      <ul>
+       <li>An inflammatory reaction, such as <a href="http://www.webmd.com/hw-popup/toxic-synovitis" onclick="return sl(this,'hw','embd-lnk');">transient or toxic synovitis</a>. This generally occurs after the child has had a cold or other upper respiratory infection. This is the most common cause of <a href="http://www.webmd.com/pain-management/guide/hip-pain-causes-and-treatment" onclick="return sl(this,'','embd-lnk');">hip pain</a> in children.</li>
+       <li>A <a href="http://www.webmd.com/hw-popup/slipped-capital-femoral-epiphysis" onclick="return sl(this,'hw','embd-lnk');">slipped capital femoral epiphysis</a>. This occurs when the upper end of the thighbone (head of the femur) slips at the growth plate (epiphysis) and does not fit in the hip socket correctly.</li>
+       <li><a href="http://www.webmd.com/hw-popup/legg-calve-perthes-disease-lcpd" onclick="return sl(this,'hw','embd-lnk');">Legg-Calve-Perthes disease</a>. This condition is caused by decreased <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> flow to the head of the femur which affects the bone as seen on the <a href="http://www.webmd.com/children/x-ray-and-mri-of-legg-calve-perthes-disease" onclick="return sl(this,'','embd-lnk');">X-ray and an MRI of a child</a> <a href="http://www.webmd.com/children/x-ray-and-mri-of-legg-calve-perthes-disease" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a> with this problem.</li>
+       <li>An inward twisting of the thighbone (femoral anteversion). This condition causes the knees and <a href="http://www.webmd.com/pain-management/picture-of-the-feet" onclick="return sl(this,'','embd-lnk');">feet</a> to turn inward. The child will have a &quot;pigeon-toed&quot; appearance and may have a clumsy walk.</li>
+       <li><a href="http://www.webmd.com/hw-popup/developmental-dysplasia-of-the-hip" onclick="return sl(this,'hw','embd-lnk');">Developmental dysplasia of the hip (DDH)</a>. This condition is caused by a problem in the development of the hip joint. The top of the femur does not fit correctly into the hip socket (acetabulum) so the femur can partially or completely slip out of the socket.</li>
+       <li><a href="http://www.webmd.com/hw-popup/juvenile-rheumatoid-arthritis" onclick="return sl(this,'hw','embd-lnk');">Juvenile idiopathic arthritis (JIA)</a>. This condition causes inflamed, swollen joints that are often stiff and painful.</li>
+       <li> Infection in the joint (<a href="http://www.webmd.com/hw-popup/infectious-arthritis" onclick="return sl(this,'hw','embd-lnk');">septic arthritis</a>), the bursa (<a href="http://www.webmd.com/hw-popup/septic-bursitis" onclick="return sl(this,'hw','embd-lnk');">septic bursitis</a>), or the hip or pelvic bone (<a href="http://www.webmd.com/hw-popup/osteomyelitis" onclick="return sl(this,'hw','embd-lnk');">osteomyelitis</a>).</li>
+       <li>In rare cases, <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/cancer/">cancer</a> of the bone, such as osteosarcoma.</li>
+      </ul>
+      <p>Treatment for a hip problem depends on the location, type, and severity of the problem as well as the child's age, general health, and activity level. Treatment may include first aid measures; application of a brace, cast, harness, or traction; <a href="http://www.webmd.com/pain-management/tc/physical-therapy-topic-overview" onclick="return sl(this,'','embd-lnk');">physical therapy</a>; medicines; or surgery.</p>
+      <p><a href="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-check-your-symptoms" onclick="return sl(this,'','embd-lnk');">Check your child's symptoms</a> to decide if and when your child should see a doctor.</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Check Your Symptoms',
+			href : 'http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-check-your-symptoms'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-prevention'
+			});
+            
+			topics.push({
+			title : 'Preparing For Your Appointment',
+			href : 'http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-preparing-for-your-appointment'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-related-information'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: July 30, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-topic-overview">Topic Overview</option><option value="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-check-your-symptoms">Check Your Symptoms</option><option value="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-home-treatment">Home Treatment</option><option value="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-prevention">Prevention</option><option value="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-preparing-for-your-appointment">Preparing For Your Appointment</option><option value="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-related-information">Related Information</option><option value="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Hip Problems,Age 11 and Younger Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-check-your-symptoms" onclick="return sl(this,'','topicNav_2');" title="Check Your Symptoms">Check Your Symptoms</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-home-treatment" onclick="return sl(this,'','topicNav_3');" title="Home Treatment">Home Treatment</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-prevention" onclick="return sl(this,'','topicNav_4');" title="Prevention">Prevention</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-preparing-for-your-appointment" onclick="return sl(this,'','topicNav_5');" title="Preparing For Your Appointment">Preparing For Your Appointment</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-related-information" onclick="return sl(this,'','topicNav_6');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-credits" onclick="return sl(this,'','topicNav_7');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Symptom';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-859"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/parenting/bedwetting-solutions-12/bedwetting-stress-anxiety" onclick="return sl(this,'','rltd-p-859_1');">Can Stress Lead to Bedwetting?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/healthy-aging/drug-costs-12/save-money-prescription-drugs" onclick="return sl(this,'','rltd-p-859_2');">How to Save Money on Prescriptions</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/parenting/answers-health/answers-sick-from-school" onclick="return sl(this,'','rltd-p-859_3');">When Is a Child Too Sick for School?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0812&amp;ch=3" onclick="return sl(this,'','rltd-p-859_4');">How Important Is Fluoride for Kids' Teeth?</a> </li> 
+     <li id="x66"> <a href="http://children.webmd.com/digestion-in-children-11/fiber-rich-lunch" onclick="return sl(this,'','rltd-p-859_5');">Fiber-Rich Lunch Ideas for Kids</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0001" onclick="return sl(this,'','rltd-p-859_6');">What Causes Ringworm?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-859_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e808b8d13" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb82</chronic_id><r_object_id>091e9c5e808b8d13</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8068fb82.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/12/2011 11:02:27</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Childrens Health Portal Template/template_Childrens Health Portal Template_091e9c5e80024677.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80024677"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Osteonecrosis</name><link_title>Osteonecrosis</link_title><description>Osteonecrosis is the death of bone due to a lack of blood flow. It is also called avascular necrosis, aseptic necrosis, or ischemic necrosis. Osteonecrosis most often affects the ends of the thigh bone near the hip or knee.  It may also affect the upper arm, shoulders, knees, ankles, or even the jaw. Osteonecrosis of the jaw, commonly called "jaw death," is a rare condition linked to the use of certain osteoporosis medications. Bone death caused by osteonecrosis can result in damage or collapse of surrounding tissues and joints.  It is important to receive proper, early treatment to prevent permanent joint damage. Follow the links below to find WebMD's comprehensive coverage about  osteonecrosis, what the symptoms are, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/arthritis/osteonecrosis-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80012481"><link_title>Tour de France Champ Faces Hip Surgery</link_title><friendly_url>http://www.webmd.com/arthritis/features/tour-de-france-champ-hip-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cf66"><link_title>Drug for Bone Disease Linked to 'Jaw Death'</link_title><friendly_url>http://www.webmd.com/news/20051003/drug-for-bone-disease-linked-to-jaw-death</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800107a5"><link_title>Fosamax and Jaw Problems: Osteonecrosis</link_title><friendly_url>http://www.webmd.com/osteoporosis/news/20070101/fosamax-and-jaw-problems-osteonecrosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80788652"><link_title>Low Risk of Jaw Problems With Oral Osteoporosis Drugs</link_title><friendly_url>http://www.webmd.com/osteoporosis/news/20110317/low-risk-of-jaw-problems-with-oral-osteoporosis-drugs</friendly_url><thumbnail height="" width="" alt="jaw xray">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/03_2011/69x75_oral_biphosphonates_risk.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805f1c6f"><link_title>Avascular Necrosis (Osteonecrosis): Symptoms, Treatment, and More</link_title><friendly_url>http://www.webmd.com/arthritis/avascular-necrosis-osteonecrosis-symptoms-treatments</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80019e4d"><link_title>Osteonecrosis / Avascular Necrosis</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/osteonecrosis-avascular-necrosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ee4f"><link_title>Osteonecrosis</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/osteonecrosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e807f1135"><link_title>Avascular Necrosis (Osteonecrosis)-Topic Overview</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/avascular-necrosis-osteonecrosis-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802bb6e7"><link_title>Fosamax: Higher Risk of Jawbone Death?</link_title><friendly_url>http://www.webmd.com/osteoporosis/news/20090101/fosamax-higher-risk-of-jawbone-death</friendly_url><thumbnail height="" width="" alt="bone x-ray">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/01_02_09/fosamax_and_jaw_necrosis.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801bdd52"><link_title>When to Call the Doctor About Osteoporosis</link_title><friendly_url>http://www.webmd.com/osteoporosis/when-to-call-the-doctor-about-osteoporosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800533df"><link_title>Metatarsalgia</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/metatarsalgia</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ae54"><link_title>Developmental Dysplasia of the Hip-Exams and Tests</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/developmental-dysplasia-of-the-hip-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ab82"><link_title>Developmental Dysplasia of the Hip-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/developmental-dysplasia-of-the-hip-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001abfd"><link_title>Developmental Dysplasia of the Hip-Home Treatment</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/developmental-dysplasia-of-the-hip-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ae65"><link_title>Developmental Dysplasia of the Hip-Symptoms</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/developmental-dysplasia-of-the-hip-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ac5b"><link_title>Developmental Dysplasia of the Hip-Treatment Overview</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/developmental-dysplasia-of-the-hip-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ad7e"><link_title>Developmental Dysplasia of the Hip-Topic Overview</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/developmental-dysplasia-of-the-hip-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ae46"><link_title>Developmental Dysplasia of the Hip-Health Tools</link_title><friendly_url>http://www.webmd.com/parenting/baby/tc/developmental-dysplasia-of-the-hip-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d732"><link_title>Hip Dysplasia: Caring for Your Child in a Body (Spica) Cast</link_title><friendly_url>http://www.webmd.com/children/caring-for-your-child-in-a-spica-cast</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800e008a"><link_title>Hip Injuries, Age 12 and Older-Credits</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/hip-injuries-age-12-and-older-credits</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800e0092"><link_title>Hip Injuries, Age 11 and Younger-Credits</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/hip-injuries-age-11-and-younger-credits</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e5c2"><link_title>Hip Problems, Age 12 and Older-Credits</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/hip-problems-age-12-and-older-credits</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8059968e"><link_title>Hip Pain: Causes, Symptoms, Treatment, and More</link_title><friendly_url>http://www.webmd.com/pain-management/guide/hip-pain-causes-and-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e74f"><link_title>Hip Problems, Age 12 and Older-Check Your Symptoms</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/hip-problems-age-12-and-older-check-your-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e445"><link_title>Hip Problems, Age 11 and Younger-Check Your Symptoms</link_title><friendly_url>http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-check-your-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e4f1"><link_title>Hip Problems, Age 12 and Older-Topic Overview</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/hip-problems-age-12-and-older-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e490"><link_title>Hip Problems, Age 11 and Younger-Preparing For Your Appointment</link_title><friendly_url>http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-preparing-for-your-appointment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e531"><link_title>Hip Problems, Age 11 and Younger-Home Treatment</link_title><friendly_url>http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e5c7"><link_title>Hip Problems, Age 12 and Older-Home Treatment</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/hip-problems-age-12-and-older-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e5d7"><link_title>Hip Problems, Age 11 and Younger-Prevention</link_title><friendly_url>http://www.webmd.com/children/tc/hip-problems-age-11-and-younger-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/arthritis/features/tour-de-france-champ-hip-surgery" onclick="return sl(this,'','td-rltd-art_1');">Tour de France Champ Faces Hip Surgery</a></li>
+      <li><a href="http://www.webmd.com/arthritis/avascular-necrosis-osteonecrosis-symptoms-treatments" onclick="return sl(this,'','td-rltd-art_2');">Avascular Necrosis (Osteonecrosis): Symptoms, Treatment, and More</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/osteonecrosis-avascular-necrosis" onclick="return sl(this,'','td-rltd-art_3');">Osteonecrosis / Avascular Necrosis</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/osteonecrosis" onclick="return sl(this,'','td-rltd-art_4');">Osteonecrosis</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/avascular-necrosis-osteonecrosis-topic-overview" onclick="return sl(this,'','td-rltd-art_5');">Avascular Necrosis (Osteonecrosis)-Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/osteoporosis/when-to-call-the-doctor-about-osteoporosis" onclick="return sl(this,'','td-rltd-art_6');">When to Call the Doctor About Osteoporosis</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/metatarsalgia" onclick="return sl(this,'','td-rltd-art_7');">Metatarsalgia</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/arthritis/osteonecrosis-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Osteonecrosis Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=855314572&amp;tile=1028619542&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5000&amp;xpg=3549&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2fchildren%2ftc%2fhip-problems-age-11-and-younger-topic-overview&amp;artid=091e9c5e8001e75b&amp;inst=0&amp;leaf=1262&amp;cc=16&amp;tmg=1&amp;bc=_age131_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=855314572&amp;amp;tile=1028619542&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5000&amp;amp;xpg=3549&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fchildren%2ftc%2fhip-problems-age-11-and-younger-topic-overview&amp;amp;artid=091e9c5e8001e75b&amp;amp;inst=0&amp;amp;leaf=1262&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age131_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3549";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=855314572&amp;tile=1028619542&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5001&amp;xpg=3549&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2fchildren%2ftc%2fhip-problems-age-11-and-younger-topic-overview&amp;artid=091e9c5e8001e75b&amp;inst=0&amp;leaf=1262&amp;cc=16&amp;tmg=1&amp;bc=_age131_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=855314572&amp;amp;tile=1028619542&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5001&amp;amp;xpg=3549&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fchildren%2ftc%2fhip-problems-age-11-and-younger-topic-overview&amp;amp;artid=091e9c5e8001e75b&amp;amp;inst=0&amp;amp;leaf=1262&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age131_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3549";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

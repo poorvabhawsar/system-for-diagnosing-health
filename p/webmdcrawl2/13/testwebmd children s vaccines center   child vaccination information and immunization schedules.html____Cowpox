@@ -1,0 +1,358 @@
+<title>WebMD Children's Vaccines Center – Child Vaccination Information and Immunization Schedules </title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="https://vaccinetracker.webmd.com/" onclick="return sl(this,'','prm-mnctrlc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/webmd_vaccine_tracker/493x335_webmd_vaccine_tracker.jpg" alt="syringes and graph illustration" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="https://vaccinetracker.webmd.com/" onclick="return sl(this,'','prm-mnctrlc_1');">Vaccine Tracker</a> </h2> 
+        <a href="https://vaccinetracker.webmd.com/" onclick="return sl(this,'','prm-mnctrlc_1');">Are your child’s shots up to date?<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/children/vaccines/features/robert-sears-alternative-vaccine-schedule" data-alt="child vaccination" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/_2013/11_2013/what_is_the_alternative_vaccine_schedule_features/493x335_what_is_the_alternative_vaccine_schedule_features.jpg" onclick="return sl(this,'','prm-mnctrlc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/children/vaccines/features/robert-sears-alternative-vaccine-schedule" onclick="return sl(this,'','prm-mnctrlc_2');">Alternative Schedule</a> </h2> 
+        <a href="http://www.webmd.com/children/vaccines/features/robert-sears-alternative-vaccine-schedule" onclick="return sl(this,'','prm-mnctrlc_2');">Should you space out your child’s vaccines?<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/children/vaccines/flu-shot-nasal-spray" data-alt="Flumist nasal spray" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/flu_shot_or_nasal_spray_ref_guide/493x335_flu_shot_or_nasal_spray_ref_guide.jpg" onclick="return sl(this,'','prm-mnctrlc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/children/vaccines/flu-shot-nasal-spray" onclick="return sl(this,'','prm-mnctrlc_3');">Flu Shot vs Nasal Spray</a> </h2> 
+        <a href="http://www.webmd.com/children/vaccines/flu-shot-nasal-spray" onclick="return sl(this,'','prm-mnctrlc_3');">What’s the difference?<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x11"> 
+     <div class="slide" id="prm-hp_n4s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/children/video/should-your-child-get-hpv-vaccine" data-alt="group of tweens" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/_2012/11_2012/facts_about_the_hpv_vaccine_features/493x335_facts_about_the_hpv_vaccine_features.jpg" onclick="return sl(this,'','prm-mnctrlc_4-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/children/video/should-your-child-get-hpv-vaccine" onclick="return sl(this,'','prm-mnctrlc_4');">HPV Vaccine</a> </h2> 
+        <a href="http://www.webmd.com/children/video/should-your-child-get-hpv-vaccine" onclick="return sl(this,'','prm-mnctrlc_4');">Should your child get it?<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-mnctrlc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-mnctrlc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-mnctrlc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-mnctrlc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-mnctrlc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_n4"> <span class="jawsonly">Slide 4</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="teaser_fmt"> 
+    <h3>Children's Vaccines Overview</h3> 
+    <p>Immunizations protect us from serious diseases and also prevent the spread of those diseases to others. Here, you'll learn more about which vaccines children need and find the latest immunization schedules. </p> 
+   </div> 
+   <div class="singleDropdown_rdr" id="dd-minigd"> 
+    <div class="contentDiv_fmt"> 
+     <label for="guideNavDropdown">Select an Article</label> 
+     <form action="" id="qform1" onsubmit="window.location=guideNavDropdown.options[guideNavDropdown.options.selectedIndex].value; return false;"> 
+      <select name="guideNavDropdown" id="guideNavDropdown" class="listBox_fmt"> <option value="http://www.webmd.com/children/vaccines/immunization-charts-for-children-and-adults">All Vaccines Schedules</option> <option value="http://www.webmd.com/children/vaccines/dtap-and-tdap-vaccines">Diphtheria, Tetanus, Pertussis (DTaP)</option> <option value="http://www.webmd.com/children/vaccines/polio-vaccine-ipv">Polio (IPV)</option> <option value="http://www.webmd.com/children/vaccines/measles-mumps-and-rubella-mmr-vaccine">Measles, Mumps, Rubella (MMR)</option> <option value="http://www.webmd.com/children/vaccines/chickenpox-varicella-vaccine">Chickenpox (Varicella)</option> <option value="http://www.webmd.com/children/vaccines/hepatitis-a-and-b-vaccines">Hepatitis A and B</option> <option value="http://www.webmd.com/children/vaccines/hib-h-influenzae-type-b-vaccine">H. influenzae (Hib)</option> <option value="http://www.webmd.com/children/vaccines/pneumococcal-vaccine-1">Pneumococcal (PCV13)</option> <option value="http://www.webmd.com/children/vaccines/rotavirus-rv-vaccine">Rotavirus (RV)</option> <option value="http://www.webmd.com/children/vaccines/seasonal-flu-shot-and-nasal-spray">Flu Vaccine</option> <option value="http://www.webmd.com/children/vaccines/meningococcal-vaccine">Meningococcal (MPSV4/MCV4)</option> <option value="http://www.webmd.com/children/vaccines/hpv-vaccine-what-you-need-know">HPV Vaccine</option> </select> 
+      <input onclick="return sl('','','dd-minigd');" type="image" name="goSingle" class="btn" alt="Go to article" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/btn_go.gif" /> 
+     </form> 
+    </div> 
+    <div class="singleDropdown_bottom_fmt"> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="subheaderBar_rdr">
+    Latest Headlines
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainEditorial_rdr"> 
+    <a href="http://www.webmd.com/children/vaccines/news/20140211/states-may-be-getting-stricter-on-child-vaccine-exemptions" onclick="return sl(this,'','nl-lcnwsftr_1_1');"> <img class="mainEditorial_photo_fmt" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/healthday/2013/02/vaccination.jpg" border="0" alt="" width="69" /> </a> 
+    <div class="mainEditorial_photo_text_fmt"> 
+     <a href="http://www.webmd.com/children/vaccines/news/20140211/states-may-be-getting-stricter-on-child-vaccine-exemptions" onclick="return sl(this,'','nl-lcnwsftr_1_1');">States May Be Getting Stricter on Child Vaccine Exemptions</a> 
+     <br />Study finds bills to expand parental opt-outs are failing, while others to limit them have passed
+    </div> 
+    <p class="mainEditorial_read_link_fmt"> <a href="http://www.webmd.com/children/vaccines/news/20140211/states-may-be-getting-stricter-on-child-vaccine-exemptions" onclick="return sl(this,'','nl-lcnwsftr_1_1');"> Read Full Article </a> </p> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainLinks_rdr latestHeadlines_fmt"> 
+    <h4 class="latestHeadlinesTitle_fmt">Top Stories</h4> 
+    <ul> 
+     <li> <a href="http://www.webmd.com/vaccines/news/20140206/many-us-adults-not-getting-key-vaccines-cdc" onclick="return sl(this,'','nl-lcnwsftr_1_2');">Many U.S. Adults Not Getting Key Vaccines: CDC</a> </li> 
+     <li> <a href="http://www.webmd.com/children/vaccines/features/whooping-cough-rising-despite-new-vaccine" onclick="return sl(this,'','nl-lcnwsftr_1_3');">Why Whooping Cough Is Rising Despite a New Vaccine</a> </li> 
+     <li> <a href="http://www.webmd.com/children/vaccines/news/20131205/measles-still-a-threat-us-health-officials-warn" onclick="return sl(this,'','nl-lcnwsftr_1_4');">Measles Still a Threat, U.S. Health Officials Warn</a> </li> 
+     <li> <a href="http://www.webmd.com/children/vaccines/news/20131202/chickenpox-vaccine-not-responsible-for-rise-in-shingles-study-says" onclick="return sl(this,'','nl-lcnwsftr_1_5');">Chickenpox Vaccine Not Responsible for Rise in Shingles, Study Says</a> </li> 
+     <li> <a href="http://www.webmd.com/children/vaccines/news/20131125/why-many-us-preteens-arent-getting-the-hpv-shot" onclick="return sl(this,'','nl-lcnwsftr_1_6');">Why Many U.S. Preteens Aren't Getting the HPV Shot</a> </li> 
+     <li> <a href="http://www.webmd.com/children/vaccines/news/20131008/second-dose-of-vaccine-cuts-chickenpox-cases-even-more-study-finds" onclick="return sl(this,'','nl-lcnwsftr_1_7');">Second Dose of Vaccine Cuts Chickenpox Cases Even More, Study Finds</a> </li> 
+     <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/children/vaccines/news-features" onclick="return sl(this,'','nl-lcnwsftr_2_more-articles');">More Articles</a> </li> 
+    </ul> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/aca-state-promo-core.js"></script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aca-state-promo-cw.css" /> 
+   <div class="aca-state-promo-cw"> 
+    <h4>Health Insurance in Your State</h4> 
+    <div class="bg"> 
+     <p>Learn about plans, benefits, and costs in your state's Marketplace.</p> 
+     <div id="names-dropdown-container"> 
+      <select name="names-dropdown" id="names-dropdown"> <option value="">Choose a state or territory</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IO">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="DC">Washington, D.C.</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> <option value="">--------</option> <option value="AS">American Samoa</option> <option value="GU">Guam</option> <option value="MP">Northern Mariana Islands</option> <option value="PR">Puerto Rico</option> <option value="VI">Virgin Islands</option> </select> 
+     </div> 
+    </div> 
+    <span class="jawsonly">From WebMD</span> 
+   </div>
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/parenting/answers-health/answers-missed-vaccine" onclick="return sl(this,'','lln-toolsres_1');">Missed a Vaccine?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/children/vaccines/vaccines-what-todays-parents-should-know/vaccine-guide-risks-vs-benefits/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Vaccines: Benefits vs. Risks</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/children/vaccines/vaccines-what-todays-parents-should-know/vaccine-exemption-rates/default.htm" onclick="return sl(this,'','lln-toolsres_3');">Map: Who Is Refusing Vaccines?</a></li>
+      <li id="x59"><a href="http://www.webmd.com/children/vaccines/features/childhood-vaccine-safety" onclick="return sl(this,'','lln-toolsres_4');">Expert Q&amp;A: Vaccine Safety</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/slideshow-adult-vaccines" class="type_ss" onclick="return sl(this,'','lln-toolsres_5');">Vaccines for Adults<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/children/vaccines/vaccines-what-todays-parents-should-know/robert-sears-alternative-vaccine-schedule" onclick="return sl(this,'','lln-toolsres_6');">Alternate Vaccine Schedule</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div id="commgrp" class="stacked_promo"> 
+    <h2>WebMD Parenting Community<br /><a href="http://exchanges.webmd.com/parenting-exchange" title="See All Parenting Communities">Community. Experts. Support.</a></h2> 
+    <div class="promo_group"> 
+     <h3>Expert Blogs</h3> 
+     <ul> 
+      <li> <a href="http://blogs.webmd.com/webmd-guests/2013/10/to-vaccinate-or-not-to-vaccinate-is-that-really-a-question.html" onclick="return sl(this,'','commgrp_1-1');" class="expert">The Case for Vaccinations <i> </i></a> </li> 
+     </ul> 
+    </div> 
+    <div class="promo_group"> 
+     <h3>Community</h3> 
+     <ul> 
+      <li> <a href="http://exchanges.webmd.com/parenting-exchange" onclick="return sl(this,'','commgrp_2-1');" class="expert">WebMD Parenting Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/newborn-and-baby-exchange" onclick="return sl(this,'','commgrp_2-2');" class="expert">WebMD Baby's First Year Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/parenting-friends-talking-exchange" onclick="return sl(this,'','commgrp_2-3');" class="expert">Parenting: Friends Talking <i> </i></a> </li> 
+      <li id="comm-grp_last_link"> <a href="http://exchanges.webmd.com/webmd-exchanges/parenting-exchanges" onclick="return sl(this,'','commgrp_2-4');">See All Parenting Communities <i> </i></a> </li> 
+     </ul> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="top_search_rdr" id="lln-topsrch"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top Search Terms for Children's Vaccines</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/vaccines/polio-vaccine-ipv" onclick="return sl(this,'','lln-topsrch_1');">Polio Vaccine</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/vaccines/chickenpox-varicella-vaccine" onclick="return sl(this,'','lln-topsrch_2');">Varicella Vaccine Schedule</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/vaccines/dtap-and-tdap-vaccines" onclick="return sl(this,'','lln-topsrch_3');">Dtap, Tdap Vaccines</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/vaccines/meningococcal-vaccine" onclick="return sl(this,'','lln-topsrch_4');">MCV4 (Meningococcal Vaccine)</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/vaccines/immunization-charts-for-children-and-adults" onclick="return sl(this,'','lln-topsrch_5');">Immunization Charts</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/vaccines/chickenpox-varicella-vaccine" onclick="return sl(this,'','lln-topsrch_6');">Chickenpox Vaccine Side Effects</a> 
+      </div> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/vaccines/rotavirus-rv-vaccine" onclick="return sl(this,'','lln-topsrch_7');">Rotavirus (RV) Vaccine</a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/vaccines/pneumococcal-vaccine-1" onclick="return sl(this,'','lln-topsrch_8');">PPSV (Pneumococcal Vaccine)</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/vaccines/measles-mumps-and-rubella-mmr-vaccine" onclick="return sl(this,'','lln-topsrch_9');">MMR (Measles, Mumps, and Rubella)</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/children/vaccines/hepatitis-a-and-b-vaccines" onclick="return sl(this,'','lln-topsrch_10');"> Hepatitis Vaccines</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=305977393&amp;tile=1320019404&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5000&amp;xpg=1633&amp;sec=1633&amp;au1=1&amp;au2=22|10|21&amp;uri=%2fchildren%2fvaccines%2fdefault&amp;artid=091e9c5e80226ae0&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_gen1_vac_b01_j10_b05_b06_b26_k7_a630_age1_&amp;mcent=2179&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=305977393&amp;amp;tile=1320019404&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5000&amp;amp;xpg=1633&amp;amp;sec=1633&amp;amp;au1=1&amp;amp;au2=22|10|21&amp;amp;uri=%2fchildren%2fvaccines%2fdefault&amp;amp;artid=091e9c5e80226ae0&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_gen1_vac_b01_j10_b05_b06_b26_k7_a630_age1_&amp;amp;mcent=2179&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1633";
+			var secTopId = "1633";
+		</script>
+  </div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

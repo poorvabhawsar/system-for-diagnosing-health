@@ -1,0 +1,945 @@
+<title>Should I have medical, surgical, or no treatment to complete a miscarriage?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Pregnancy Essentials</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/baby/video/morning-sickness-treatments" class="type_vid" onclick="return sl(this,'','tools-res_1');">Managing Morning Sickness<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/baby/video/eddleman-what-expect-during-labor" class="type_vid" onclick="return sl(this,'','tools-res_2');">What to Expect During Labor<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/baby/rm-quiz-pregnancy-food-facts" onclick="return sl(this,'','tools-res_3');">Pregnancy Food Facts: What's Safe?</a></li>
+      <li id="x59"><a href="http://www.webmd.com/baby/video/amniocentesis" class="type_vid" onclick="return sl(this,'','tools-res_4');">What Is Amniocentesis?<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/baby/video/pregnancy-vitamin-d" class="type_vid" onclick="return sl(this,'','tools-res_5');"> Pregnancy and Vitamin D<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/beauty/answers-hair/answers-hair-thicker-pregnant" onclick="return sl(this,'','tools-res_6');">Q&amp;A: Pregnancy and Your Hair</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionset.js">
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="headerLink_fmt"> 
+      <a href="/www/decision-point" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;">What is a Decision Point?</a> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionsetTOC_decsion_pt.jpg" alt="decision point" width="77" height="20" class="headerImg_fmt" />Should I have medical, surgical, or no treatment to complete a miscarriage?</h2> 
+     <div class="decisionPoint_fmt"> 
+      <div class="section_fmt "> 
+       <div class="arrowFirst_fmt"> 
+        <div class="leftBorder_fmt"> 
+         <div class="rounded_fmt"> 
+          <div class="vertical1_fmt"> 
+           <div class="vertical2_fmt"> 
+            <div class="vertical3_fmt"> 
+             <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Introduction</a> 
+            </div> 
+           </div> 
+          </div> 
+          <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP1Arrw" alt="arrow" /> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail1_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tn7433-Intro"></a> 
+          <p> There is no treatment that can reverse a miscarriage after it has started. The main goal of <a href="http://www.webmd.com/infertility-and-reproduction/guide/pregnancy-miscarriage" onclick="return sl(this,'','embd-lnk');">miscarriage</a> treatment is to prevent infection and excessive <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> loss. These complications are most likely to develop when the uterus does not completely empty (an incomplete miscarriage). </p> 
+          <p>For decades, incomplete miscarriages were routinely treated surgically with a dilation and curettage (D&amp;amp;C), which quickly clears the uterus of its contents. Women now have more choices. Many women miscarrying in the <a href="http://www.webmd.com/baby/1to3-months" onclick="return sl(this,'','embd-lnk');">first trimester</a> who are otherwise stable (with no fever or excessive bleeding) can now also choose to have nonsurgical treatment.</p> 
+          <p>If you are medically stable and are miscarrying, you may have more than one option for completing the miscarriage. Consider the following when you make your decision:</p> 
+          <ul> 
+           <li> For many women, the body completes the miscarriage process on its own. During this time the doctor will watch closely for any problems (expectant management). </li> 
+           <li>Surgical treatment quickly clears the uterus. If you develop heavy bleeding or infection during a miscarriage, surgical treatment will be needed.</li> 
+           <li> Medicine causes the uterus to contract and empty. This treatment is called medical management. Medicine takes longer than a surgical treatment and can <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/pain-management/guide/pain-management-overview-facts">cause pain</a> and unpleasant side effects. But it does not require surgery or anesthesia, both of which have risks.</li> 
+           <li>Nonsurgical treatment is not always effective in clearing the uterus. If medicine, watchful waiting, or a combination of the two do not clear the uterus after several weeks, surgical treatment is the next course of treatment. </li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Medical Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP2Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail2_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tn7433-MedInfo"></a> 
+          <h4>What is a miscarriage?</h4> 
+          <p>A miscarriage is the loss of a <a href="http://www.webmd.com/baby/pregnancy-toc-old" onclick="return sl(this,'','embd-lnk');">pregnancy</a> during the first 20 weeks. (After 20 weeks, pregnancy loss is known as a stillbirth.) </p> 
+          <p>See a table that shows how <a href="http://www.webmd.com/baby/miscarriage-rate" onclick="return sl(this,'','embd-lnk');">miscarriage risk increases as a woman ages</a> <a href="http://www.webmd.com/baby/miscarriage-rate" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" align="" style="" /></a>.</p> 
+          <p>The natural miscarriage process can take days to weeks. Common signs of a miscarriage can include vaginal bleeding; pain in the abdomen, lower back, or pelvis; or passing fetal tissue from the <a href="http://www.webmd.com/women/picture-of-the-vagina" onclick="return sl(this,'','embd-lnk');">vagina</a>. Bleeding may be light or heavy and constant or irregular. It can sometimes be hard to know whether light bleeding is a sign of miscarriage. When bleeding is accompanied by pain, though, the likelihood of a miscarriage is high. </p> 
+          <h4>What should I do if I am or might be miscarrying? What are the risks of not calling a doctor?</h4> 
+          <p> If you have <a href="http://www.webmd.com/baby/understanding-miscarriage-symptoms" onclick="return sl(this,'','embd-lnk');">miscarriage symptoms</a>, call your doctor or nurse-midwife immediately. Going without medical care or advice increases your risk of complications. Your doctor or nurse-midwife will want to be sure that you:</p> 
+          <ul> 
+           <li>Are not losing too much blood or getting an infection.</li> 
+           <li>Do not have signs of an ectopic pregnancy, which can be life-threatening and requires emergency surgery to remove the embryo or <a href="http://www.webmd.com/parenting/baby/baby-toc-old" onclick="return sl(this,'','embd-lnk');">fetus</a>.</li> 
+           <li>Are not at risk of Rh sensitization, which may be dangerous to a fetus in your next pregnancy. If your blood type is Rh-negative and your partner's is Rh-positive, you will need preventive treatment. For more information, see the topic Rh Sensitization During Pregnancy.</li> 
+          </ul> 
+          <h4>How is a miscarriage treated?</h4> 
+          <p>Although there is no treatment to reverse a miscarriage, there are several treatment options for preventing complications. Depending on your condition, you may be able to choose:</p> 
+          <ul> 
+           <li>Watchful waiting and close medical observation, known as expectant management, as the miscarriage progresses over several days or weeks.</li> 
+           <li>Medicine to complete the miscarriage process, known as medical management.</li> 
+           <li>Surgical treatment with dilation and curettage (D&amp;amp;C) or vacuum aspiration to complete the miscarriage process.</li> 
+          </ul> 
+          <p> <b>If your doctor or nurse-midwife has confirmed that your first-trimester or early second-trimester miscarriage is complete</b> and all tissue has passed from your uterus, expect the bleeding to taper off within a week or so. Unless you develop a fever or heavy bleeding, you will not need follow-up treatment. Your doctor or nurse-midwife may want to see you sometime during the next month, though.</p> 
+          <p> <b>If you are miscarrying and do not have signs of infection or severe bleeding</b>, there is little risk involved in medically supervised watching and waiting (expectant management). </p> 
+          <p> <b>If you are miscarrying, are bleeding heavily (using one or more sanitary pads in an hour), have severe pain, or have a fever</b> of about 100F or higher, you are at significant risk of life-threatening blood loss or infection if you are not treated. See a doctor immediately. </p> 
+          <p>If you need more information, see the topic Miscarriage.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Your Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP3Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail3_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tn7433-YourInfo"></a> 
+          <p>Your choices are:</p> 
+          <ul> 
+           <li>Try watching and waiting (expectant management) for up to 4 weeks, to see whether the miscarriage resolves naturally over time. </li> 
+           <li>Use medicine that is likely to cause the uterus to empty. </li> 
+           <li>Have a surgical procedure that clears the uterus.</li> 
+          </ul> 
+          <p>The decision about whether to have treatment to complete a miscarriage takes into account your personal feelings and the medical facts.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <caption> 
+            <b>Deciding about treatment</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th scope="col" valign="top"> Reasons to try watchful waiting (expectant management)</th> 
+             <th scope="col" valign="top"> Reasons not to try watchful waiting (expectant management)</th> 
+            </tr> 
+            <tr> 
+             <td valign="top" width="50%"> 
+              <ul> 
+               <li>You are stable and have no fever or heavy bleeding.</li> 
+               <li>You are miscarrying in the first trimester.</li> 
+               <li>You have ready access to emergency health care services.</li> 
+              </ul> <p>Are there other reasons that you might want to try watchful waiting?</p> </td> 
+             <td valign="top" width="50%"> 
+              <ul> 
+               <li>You are not comfortable with the idea of waiting for days or weeks until the miscarriage ends on its own.</li> 
+               <li>You are bleeding severely.</li> 
+               <li>You have signs of infection, such as: 
+                <ul>
+                 <li>A fever of around 100F or higher.</li>
+                 <li>Moderate to severe abdominal pain or cramping.</li>
+                 <li>Smelly <a href="http://www.webmd.com/women/guide/vaginal-discharge-whats-abnormal" onclick="return sl(this,'','embd-lnk');">vaginal discharge</a>.</li>
+                </ul></li> 
+              </ul> <p>Are there other reasons that you might not want to try watchful waiting?</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p>&nbsp;</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <caption> 
+            <b>Comparison of miscarriage treatment options</b> 
+           </caption> 
+           <tbody> 
+            <tr> 
+             <th scope="col" valign="top"> Reasons to have treatment</th> 
+             <th scope="col" valign="top"> Reasons not to have treatment</th> 
+            </tr> 
+            <tr> 
+             <td valign="top" width="40%"> <p>Watchful waiting (expectant management): </p> 
+              <ul> 
+               <li>Allows the body to take its natural course.</li> 
+               <li>May be less emotionally stressful than medicine or surgery. </li> 
+              </ul> </td> 
+             <td valign="top" width="40%"> <p>Watchful waiting (expectant management): </p> 
+              <ul> 
+               <li>Allows bleeding to run its course, if not heavy. Bleeding can last for days to weeks.</li> 
+               <li>May not succeed in clearing the uterus (after several weeks, and surgical treatment is considered the next course of treatment).</li> 
+               <li> May result in infection or heavy bleeding. </li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td valign="top" width="40%"> <p>Medicine (medical management):</p> 
+              <ul> 
+               <li>Does not require surgery. </li> 
+               <li>Is as effective as surgical treatment for early first-trimester miscarriage.<sup class="Reference">1</sup></li> 
+              </ul> </td> 
+             <td valign="top" width="40%"> <p>Medicine (medical management):</p> 
+              <ul> 
+               <li>Fails to resolve about 50% of later first-trimester miscarriages. Surgery then becomes necessary.<sup class="Reference">1</sup></li> 
+               <li>Is not an effective treatment for second-trimester miscarriages.<sup class="Reference">1</sup></li> 
+               <li>Can cause unpleasant side effects.</li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td valign="top" width="40%"> <p>Surgery (D&amp;amp;C or vacuum aspiration):</p> 
+              <ul> 
+               <li>Most quickly ends an incomplete miscarriage. </li> 
+              </ul> </td> 
+             <td valign="top" width="40%"> <p>Surgery (D&amp;amp;C or vacuum aspiration):</p> 
+              <ul> 
+               <li>Causes pain, although shorter-term than with medicine.</li> 
+               <li>Carries a slight risk of needing a repeat D&amp;amp;C (2% in one study).<sup class="Reference">1</sup></li> 
+               <li>Carries a slight risk of uterine or cervical injury, which can cause heavy bleeding or infection. </li> 
+              </ul> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <p>These personal stories may help you make your decision.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Wise Health Decision</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP4Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail4_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tn7433-WiseDecision"></a> 
+          <p> Use this worksheet to help you make your decision. After completing it, you should have a better idea of how you feel about treating a miscarriage. Discuss the worksheet with your doctor or nurse-midwife.</p> 
+          <p>Circle the answer that best applies to you. Consider your options in terms of what feels right for you: </p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody> 
+            <tr> 
+             <td valign="top">I am waiting for obvious signs of this miscarriage. My doctor says that the fetus isn't alive, but I have no symptoms. </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">A prolonged miscarriage would be the most difficult for me.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%"> Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I do not tolerate pain well.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I prefer to let my body take its natural course.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">A surgery would be the most difficult for me.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I would like this miscarriage to end quickly, so I prefer surgery.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">Compared with surgery, I prefer the idea of using medicine to complete a miscarriage.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I am concerned about the pain and side effects of medicine for miscarriage.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I understand that watchful waiting or medicine may not work and I would then need a D&amp;amp;C or vacuum aspiration.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <p>Use the following space to list any other important concerns you have about this decision.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="95%"> 
+           <tbody>
+            <tr> 
+             <td valign="top" width="98%"> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <h4>What is your overall impression?</h4> 
+          <p>Your answers in the above worksheet are meant to give you a general idea of where you stand on this decision. You may have one overriding reason to use or not use treatment to complete a miscarriage.</p> 
+          <p>Check the box below that represents your overall impression about your decision.</p> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="89%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward watchful waiting (expectant management)</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="24%"> <p> <b>Leaning toward NOT trying watchful waiting (expectant management)</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward medicine for miscarriage</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="25%"> <p> <b>Leaning toward surgery for miscarriage</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">References</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP5Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail5_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tn7433-Bib"></a> 
+          <blockquote> 
+           <h3>Citations</h3> 
+           <ol> 
+            <li> <p> <a name="tn7430"></a>Ankum WM, et al. (2001). Management of spontaneous miscarriage in the first trimester: An example of putting informed shared decision-making into practice. <u>BMJ</u>, 322(7298): 1343-1346.</p> </li> 
+           </ol> 
+          </blockquote> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt  last_fmt"> 
+       <div class="arrowLast_fmt" id="lastDiv"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;">Credits</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP6Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail6_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tn7433-Credits"></a> 
+          <table border="0" cellpadding="5"> 
+           <tbody>
+            <tr> 
+             <td valign="top"> <b>Author</b> </td> 
+             <td>Sandy Jocoy, RN</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Editor</b> </td> 
+             <td>Kathleen M. Ariss, MS</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Pat Truman, MATC</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+             <td>Sarah Marshall, MD - Family Medicine</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+             <td>Deborah A. Penava, BA, MD, FRCSC, MPH - Obstetrics and Gynecology</td> 
+            </tr> 
+            <tr> 
+             <td> <b>Last Updated</b> </td> 
+             <td>May 7, 2009</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: May 07, 2009
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - DecisionPoint';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1096"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/baby/skin-conditions-pregnancy" onclick="return sl(this,'','rltd-p-1096_1');">Skin Conditions in Pregnancy</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/baby/features/7-embarrassing-pregnancy-symptoms" onclick="return sl(this,'','rltd-p-1096_2');">7 Embarrassing Pregnancy Symptoms</a> </li> 
+     <li id="x64"> <a class="type_vid" href="http://www.webmd.com/baby/video/dangers-inducing-labor-pregnancy" onclick="return sl(this,'','rltd-p-1096_3');">The Downside of Inducing Labor<i> </i></a> </li> 
+     <li id="x65"> <a class="type_ss" href="http://www.webmd.com/baby/ss/slideshow-pregnant-beauty" onclick="return sl(this,'','rltd-p-1096_4');">How to Look and Feel Your Best in Pregnancy<i> </i></a> </li> 
+     <li id="x66"> <a class="type_vid" href="http://www.webmd.com/baby/video/eddleman-which-foods-unsafe-during-pregnancy" onclick="return sl(this,'','rltd-p-1096_5');">Which Foods Are Unsafe During Pregnancy?<i> </i></a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/baby/understanding-labor-delivery-complications-prevention" onclick="return sl(this,'','rltd-p-1096_6');">Labor and Delivery Complications</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1096_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e8068f9a6" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068f9a6</chronic_id><r_object_id>091e9c5e8068f9a6</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8068f9a6.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/02/2010 12:12:24</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Pregnancy/template_Pregnancy_091e9c5e80042f2b.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80042f2b"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Miscarriage</name><link_title>Miscarriage</link_title><description>A miscarriage is the loss (death) of a baby before the 20th week of pregnancy. According to the March of Dimes, as many as 50% of all pregnancies end in miscarriage &#45;&#45; most often before a woman even knows she is pregnant. About 15% of recognized pregnancies will end in a miscarriage. The majority of miscarriages occur because the baby was not healthy. Having a miscarriage can be hard for a woman, both physically and emotionally. But just because you have a miscarriage doesn't mean you can't have a healthy baby. Follow the links below to find WebMD's comprehensive coverage about miscarriage, the symptoms, what happens if it occurs, and much more.</description><friendly_url>http://www.webmd.com/baby/miscarriage-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e800076d5"><link_title>Preventing Miscarriages</link_title><friendly_url>http://www.webmd.com/baby/understanding-miscarriage-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800076d7"><link_title>Symptoms of a Miscarriage</link_title><friendly_url>http://www.webmd.com/baby/understanding-miscarriage-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007708"><link_title>Miscarriage</link_title><friendly_url>http://www.webmd.com/infertility-and-reproduction/guide/pregnancy-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80565816"><link_title>The D&amp;C (Dilation and Curettage) Procedure</link_title><friendly_url>http://www.webmd.com/women/guide/d-and-c-dilation-and-curettage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is a miscarriage?</link_title><friendly_url>http://answers.webmd.com/answers/1194447/what-is-a-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000d3ff"><link_title>Infertility Treatments Not Shown to Up Miscarriage Risk</link_title><friendly_url>http://www.webmd.com/infertility-and-reproduction/news/20030502/infertility-treatments-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fb89"><link_title>Diabetes Drug Helps Prevent Miscarriage</link_title><friendly_url>http://www.webmd.com/infertility-and-reproduction/news/20020301/diabetes-drug-helps-prevent-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001043f"><link_title>How Stress Causes Miscarriage</link_title><friendly_url>http://www.webmd.com/infertility-and-reproduction/news/20030605/how-stress-causes-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80771071"><link_title>Depression After Miscarriage Can Linger</link_title><friendly_url>http://www.webmd.com/depression/postpartum-depression/news/20110303/depression-after-miscarriage-can-linger</friendly_url><thumbnail height="" width="" alt="depressed woman">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/03_2011/69x75_depression_and_miscarriage.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ee20"><link_title>Miscarriages Linked to Heart Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20030220/miscarriages-linked-to-heart-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c55a"><link_title>Couples May Change After Miscarriage</link_title><friendly_url>http://www.webmd.com/infertility-and-reproduction/news/20031008/couples-may-change-after-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805aedc1"><link_title>Antidepressants Linked to Miscarriage Risk</link_title><friendly_url>http://www.webmd.com/depression/news/20100602/antidepressants-linked-to-miscarriage-risk</friendly_url><thumbnail height="" width="" alt="antidepressants_pregnancy_miscarriage.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/06_2010/antidepressants_pregnancy_miscarriage.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006b4d"><link_title>Low Immune System: Miscarriage</link_title><friendly_url>http://www.webmd.com/baby/news/20040108/low-immune-system-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800076d3"><link_title>The Basics About Miscarriage</link_title><friendly_url>http://www.webmd.com/baby/understanding-miscarriage-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800076d9"><link_title>Treatment of Miscarriages</link_title><friendly_url>http://www.webmd.com/baby/understanding-miscarriage-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800090bd"><link_title>Pregnancy and Miscarriage</link_title><friendly_url>http://www.webmd.com/baby/pregnancy-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000c504"><link_title>Low Folic Acid Linked to Miscarriage</link_title><friendly_url>http://www.webmd.com/baby/news/20021015/low-folic-acid-linked-to-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000de38"><link_title>Stress May Up Early Miscarriage Risk</link_title><friendly_url>http://www.webmd.com/baby/news/20060221/stress-may-up-early-miscarriage-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010e97"><link_title>Steroid May Prevent Recurrent Miscarriages</link_title><friendly_url>http://www.webmd.com/baby/news/20050621/steroid-may-prevent-recurrent-miscarriages</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006450"><link_title>Bulimia Increases Risk of Miscarriage, Premature Delivery</link_title><friendly_url>http://www.webmd.com/mental-health/bulimia-nervosa/news/20000711/bulimia-miscarraige-risks</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800065ea"><link_title>Painkillers May Raise Miscarriage Risk</link_title><friendly_url>http://www.webmd.com/baby/news/20030818/painkillers-miscarriage-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006e53"><link_title>Common Miscarriage Treatment Doesn't Work</link_title><friendly_url>http://www.webmd.com/baby/news/19991116/treatment-prevent-miscarriage-doesnt-work</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006e57"><link_title>Moderate Caffeine Consumption Does Not Increase Miscarriage Risk</link_title><friendly_url>http://www.webmd.com/baby/news/19991124/moderate-caffeine-consumption-does-not-increase-miscarriage-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b991"><link_title>Multiple Miscarriages Linked to Gene</link_title><friendly_url>http://www.webmd.com/baby/news/20010730/multiple-miscarriages-linked-to-gene</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cecc"><link_title>Folic Acid Doesn't Increase Miscarriage Risk</link_title><friendly_url>http://www.webmd.com/baby/news/20010906/folic-acid-doesnt-increase-miscarriage-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e380"><link_title>Popular Painkillers May Increase Risk of Miscarriage</link_title><friendly_url>http://www.webmd.com/baby/news/20010201/popular-painkillers-may-increase-risk-of-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f634"><link_title>Older Mothers Have Higher Risk of Miscarriage</link_title><friendly_url>http://www.webmd.com/baby/news/20000626/older-mothers-have-higher-risk-of-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fbf1"><link_title>Genital Infection Linked to Miscarriage</link_title><friendly_url>http://www.webmd.com/baby/news/20021205/genital-infection-linked-to-miscarriage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8021784e"><link_title>Miscarriage Treatment</link_title><friendly_url>http://www.webmd.com/first-aid/miscarriage-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802e3764"><link_title>Bleeding During Pregnancy Stages</link_title><friendly_url>http://www.webmd.com/baby/guide/bleeding-during-pregnancy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://answers.webmd.com/answers/1194447/what-is-a-miscarriage" onclick="return sl(this,'','td-rltd-art_1');">What is a miscarriage?</a></li>
+      <li><a href="http://www.webmd.com/baby/understanding-miscarriage-prevention" onclick="return sl(this,'','td-rltd-art_2');">Preventing Miscarriages</a></li>
+      <li><a href="http://www.webmd.com/baby/understanding-miscarriage-symptoms" onclick="return sl(this,'','td-rltd-art_3');">Symptoms of a Miscarriage</a></li>
+      <li><a href="http://www.webmd.com/infertility-and-reproduction/guide/pregnancy-miscarriage" onclick="return sl(this,'','td-rltd-art_4');">Miscarriage</a></li>
+      <li><a href="http://www.webmd.com/women/guide/d-and-c-dilation-and-curettage" onclick="return sl(this,'','td-rltd-art_5');">The D&amp;C (Dilation and Curettage) Procedure</a></li>
+      <li><a href="http://www.webmd.com/baby/understanding-miscarriage-basics" onclick="return sl(this,'','td-rltd-art_6');">The Basics About Miscarriage</a></li>
+      <li><a href="http://www.webmd.com/baby/understanding-miscarriage-treatment" onclick="return sl(this,'','td-rltd-art_7');">Treatment of Miscarriages</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/baby/miscarriage-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Miscarriage Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+   <div id="preg-module"> 
+    <h4>Pregnancy Week-By-Week Newsletter</h4> 
+    <p class="desc">Delivered right to your inbox, get pictures and facts on<br />what to expect each week of your pregnancy.</p> 
+    <a onclick="return sl(this,'','nl-preg');" href="https://member.webmd.com/newsletters/newsletters.aspx"><img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/layout/shared/nl/modules/signup_btn.gif" border="0" width="75" height="27" /></a> 
+   </div>
+  </div> 
+  <div id="ContentPane18">
+   <div class="multi-grp-linked-list"> 
+    <h3 class="no_description">Related to Pregnancy &amp; Baby</h3> 
+    <div class="unord-lists layout_2_col"> 
+     <div class="col_1"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/heartburn-gerd/heartburn-health-check/zz-heartburn-health-check" onclick="return sl(this,'Page Refresh(Default)','lln-cntrcross_1');">Tips for Heartburn Relief</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/d2n-stopping-germs-12/default.htm?article=091e9c5e803dad01&amp;scene=bathroom#rtn" onclick="return sl(this,'Page Refresh(Default)','lln-cntrcross_2');">Healthy Diapering: The Basics</a> </li> 
+       <li> <a class="type_vid" href="http://www.webmd.com/oral-health/video/eddleman-dental-hygiene-during-pregnancy" onclick="return sl(this,'Page Refresh(Default)','lln-cntrcross_3');">Dental Visits for Pregnant Women<i> </i></a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_2"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/heartburn-gerd/tool-heartburn-guide#heartburnrecipes" onclick="return sl(this,'Page Refresh(Default)','lln-cntrcross_4');">Healthy Recipes Minus the Heartburn</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/d2n-stopping-germs-12/default.htm?scene=school&amp;vid=3#rtn" onclick="return sl(this,'Page Refresh(Default)','lln-cntrcross_5');">Protect Your Family From Germs</a> </li> 
+       <li> <a class="type_ss" href="http://www.webmd.com/urinary-incontinence-oab/coping-12/slideshow-incontinence-embarrassment" onclick="return sl(this,'Page Refresh(Default)','lln-cntrcross_6');">Embarrassed by Incontinence?<i> </i></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1776279686&tile=271524031&tug=&pug=__&site=2&affiliate=20&hcent=793&scent=&pos=113&xpg=3541&sec=7009&amp;au1=3&au2=1&uri=%2fbaby%2fshould-i-have-medical-surgical-or-no-treatment-to-complete-a-miscarriage&artid=091e9c5e8001cd12&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_cust013_gen2_gen1_cust4_o03_o04_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1776279686',
+                    tile:'271524031',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "3541";
+      var secTopId = "7009";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1776279686&amp;tile=271524031&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=793&amp;scent=&amp;pos=5001&amp;xpg=3541&amp;sec=7009&amp;au1=3&amp;au2=1&amp;uri=%2fbaby%2fshould-i-have-medical-surgical-or-no-treatment-to-complete-a-miscarriage&amp;artid=091e9c5e8001cd12&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_cust013_gen2_gen1_cust4_o03_o04_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1776279686&amp;amp;tile=271524031&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=793&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=3541&amp;amp;sec=7009&amp;amp;au1=3&amp;amp;au2=1&amp;amp;uri=%2fbaby%2fshould-i-have-medical-surgical-or-no-treatment-to-complete-a-miscarriage&amp;amp;artid=091e9c5e8001cd12&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_cust013_gen2_gen1_cust4_o03_o04_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3541";
+			var secTopId = "7009";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

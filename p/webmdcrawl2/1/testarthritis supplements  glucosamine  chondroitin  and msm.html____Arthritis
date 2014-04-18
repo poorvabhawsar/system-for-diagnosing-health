@@ -1,0 +1,106 @@
+<title>Arthritis Supplements: Glucosamine, Chondroitin, and MSM</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="nextArticleBox_rdr" id="art-top"> 
+    <h5>Next Article:</h5> 
+    <a href="#article" class="hide_label">Skip to Article Content</a> 
+    <ul> 
+     <li> <a href="http://www.webmd.com/arthritis/osteoarthritis-women-12/default.htm" title="Go to next article" onclick="return sl(this,'','art-top_1');">Osteoarthritis in Women: Tips for Pain-Free Living</a> </li> 
+     <li> <a href="http://www.webmd.com/arthritis/osteoarthritis-women-12/women-coping" title="Go to next article" onclick="return sl(this,'','art-top_2');">For Women: Coping With OA</a> Get simple tips on how to cope with osteoarthritis pain. </li> 
+     <li> <a href="http://www.webmd.com/arthritis/osteoarthritis-women-12/oa-exercises" title="Go to next article" onclick="return sl(this,'','art-top_3');">Exercise to Ease OA Pains</a> Exercise can strengthen muscles, improve flexibility, and calm OA joint pain.</li> 
+     <li> <a href="http://www.webmd.com/arthritis/osteoarthritis-women-12/oa-treatment" title="Go to next article" onclick="return sl(this,'','art-top_4');">OA Medications and Surgery</a> OTC meds, prescription drugs, or surgery? Know your options. </li> 
+     <li> <a href="http://www.webmd.com/arthritis/osteoarthritis-women-12/relax-arthritis" title="Go to next article" onclick="return sl(this,'','art-top_5');">Learn to Relax for Arthritis Pain</a> 6 relaxation tips for reducing stress and improving arthritis </li> 
+     <li> <a href="http://www.webmd.com/arthritis/osteoarthritis-women-12/arthritis-supplements" title="Go to next article" onclick="return sl(this,'','art-top_6');">Supplements for Arthritis Pain? </a> Find out if supplements can ease your osteoarthritis pains.</li> 
+    </ul> 
+   </div> 
+   <script type="text/javascript">
+$(document).ready(function() { showNextLnk();});
+
+function showNextLnk() {
+	var cu = webmd.url.clear();
+	var sh = false;
+	var sg = false;
+	if(cu.indexOf("-results") > 0) { cu = cu.replace("-results",""); }
+	if(webmd.url.getParam("print")){
+		$(".nextArticleBox_rdr").css("display","none");
+	}
+	else{
+		$(".nextArticleBox_rdr ul").each(function() {
+			$(this).children("li").each(function() {
+				if(sh) {$(this).css("display","block"); $(".nextArticleBox_rdr").css("display","block"); sh = false; sg = true;}
+				else {$(this).css("display","none");}
+				$(this).children("a").each(function() {if(webmd.url.clear(this.href) == cu && !sg) {sh = true;}});
+			});
+			if(!sg) {$(this).children("li:first").css("display","block"); $(".nextArticleBox_rdr").css("display","block");}
+		});
+	}
+}
+</script>
+   <div class="debug" style="display: none;">
+    False
+   </div> 
+   <div id="article"> 
+    <div class="article_metadata"> 
+     <h2 class="article_title">Arthritis Supplements</h2> 
+    </div> 
+    <div class="article_content"> 
+     <p>Many people with arthritis -- especially osteoarthritis -- use supplements in their diet to ease the pain of arthritis. Glucosamine and chondroitin are the most well-known. Methyl sulfonylmethane (MSM) is another supplement used to ease the pain of arthritis, but it has not been through as much scientific testing.</p> 
+     <p>It is important to check with your doctor before starting any new treatments. Your doctor can review the other medications you are taking and help you decide whether or not these arthritis supplements are right for you. In addition, always follow the instructions on the medication label. Do not take more of the supplements than is recommended.</p> 
+     <h3>What Are Glucosamine and Chondroitin?</h3> 
+     <p>Glucosamine and chondroitin sulfate are components of normal cartilage. In the body, they are the building blocks for cartilage and appear to stimulate the body to make more cartilage.</p> 
+     <p>There are conflicting studies on glucosamine and chondroitin, some demonstrating a beneficial effect on osteoarthritis pain. Others, including the NIH-sponsored multicenter Glucosamine/Chondroitin Arthritis Intervention Trial (GAIT), did not show benefit for the primary outcome of reducing pain. More recently another study also found that glucosamine did not slow down cartilage damage or reduce knee pain.</p> 
+     <p>The supplements, which are available in pharmacies and health food stores without a prescription, are well-tolerated and appear to be safe. However, there are no long-term studies to confirm their long-term safety and effectiveness. Many physicians may still recommend a trial of glucosamine at this point, and if there is not apparent improvement by three months, it would be reasonable to stop glucosamine. More research is ongoing.</p> 
+     <p>&nbsp;</p> 
+     <h3>Which Brand of Arthritis Supplement Should I Use?</h3> 
+     <p>There are many different brands of glucosamine and chondroitin, which are usually sold together as one arthritis supplement. Unfortunately at this time, there is no government monitoring to ensure the purity of these products.</p> 
+     <p>In order to assure that you get a consistent dose of the supplements, stick with a reputable manufacturer; choose products sold by large and well-established companies. If you don't recognize a brand name, ask about the company's reputation, how long it has been in business, and how long the store has stocked the brand.</p> 
+     <h3>Who Should Not Take These Arthritis Supplements?</h3> 
+     <p>People with diabetes should use caution when taking glucosamine because it may raise blood sugar. People taking blood-thinning medication (anticoagulants) should check with their doctors before taking glucosamine and chondroitin.</p> 
+     <p>These arthritis supplements may also have a blood-thinning effect so people taking these supplements in addition to an anticoagulant may have to have their blood tested more often. People who are allergic to shellfish also should consult their doctors before using glucosamine and chondroitin. Glucosamine is extracted from a substance in shellfish.</p> 
+     <p>The effects of these supplements on a growing child or developing baby are not yet known. For that reason, glucosamine and chondroitin are not recommended for children, women who are pregnant, women who are nursing, and women who could become pregnant.</p> 
+    </div> 
+    <div class="clear"> 
+    </div> 
+    <div class="pagination"> 
+     <span class="number current">1</span> 
+     <span class="number"> <a href="?page=2" title="Page 2">2</a> </span> 
+     <a href="?page=2" title="Next page"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/2009_funded/pagination-next.gif" alt="Go to next page" class="next_page" /> </a> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) { 
+    setClass('headerLinks_print','headerLinks_fmt_on');
+};
+
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+    insert1.appendChild(urlDiv);
+}
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen" type="text/css">#url_reference {display: none};
+			</style> 
+   <style media="print" type="text/css">#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em;}
+				</style>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,750 @@
+<title>COPD (Chronic Obstructive Pulmonary Disease)-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tool-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/lung/copd/ss/slideshow-copd-overview" class="type_ss" onclick="return sl(this,'','tool-res_1');">COPD 101<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/video/diagnosing-copd" class="type_vid" onclick="return sl(this,'','tool-res_2');">What Are the Early Signs of COPD?<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/lung/slideshow-bronchitis-overview" class="type_ss" onclick="return sl(this,'','tool-res_3');">Bronchitis: A Visual Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/lung/video/bacteria-hot-tub-disease" class="type_vid" onclick="return sl(this,'','tool-res_4');">Hot Tub Disease<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/lung/rm-quiz-myths-facts-copd" onclick="return sl(this,'','tool-res_5');">Test Your COPD IQ</a></li>
+      <li id="x61"><a href="http://www.webmd.com/healthy-home-health-check/default.htm" onclick="return sl(this,'','tool-res_6');">Assess the Health of Your Home</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tool-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e8eb3c"><metadata_section><i_chronicle_id>091e9c5e8001cea4</i_chronicle_id><r_object_id>091e9c5e80e8eb3c</r_object_id><title>Topic Overview</title><object_name>copd_chronic_obstructive_pulmonary_disease-topic_overview_special_hw32561.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e8eb3c</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_hw32561</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>COPD (Chronic Obstructive Pulmonary Disease)-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is COPD? Chronic obstructive pulmonary disease?Chronic obstructive pulmonary disease (COPD) is a group of long - term (chronic) lung diseases that makes it hard to breathe. In COPD, airflow through the airways leading to and within the lungs (bronchial tubes) is partially blocked, resulting in difficulty breathing. As the disease gets worse, breathing becomes more difficult, and it may become hard </wbmd_desc_meta><wbmd_orig_pub_dt>10/16/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is COPD? Chronic obstructive pulmonary disease?Chronic obstructive pulmonary disease (COPD) is a group of long - term (chronic) lung diseases that makes it hard to breathe. In COPD, airflow through the airways leading to and within the lungs (bronchial tubes) is partially blocked, resulting in difficulty breathing. As the disease gets worse, breathing becomes more difficult, and it may become hard </wbmd_desc_user><wbmd_lk_ttl>COPD (Chronic Obstructive Pulmonary Disease)-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>breathing disorders, breathing problems, Chronic Obstructive Lung Disease, Chronic Obstructive Pulmonary Disease, Chronic Obstructive Pulmonary Diseases, COPD, lung diseases, lung problems, pulmonary disorder, pulmonary problems, respiratory disorder</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>A08.0</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e8eb3c</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4292" wbmd_disp_nm="Lung Disease (COPD)"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1164" wbmd_disp_nm="COPD"></wbmd_c_channel_id><wbmd_c_frnd_nm>Chronic-Obstructive-Pulmonary-Disease-COPD-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>SpecialSection</section_type><section_text><p><img align="left" alt="pulm_01.jpg" height="115" src="/webmd/consumer_assets/site_images/media/medical/hw/pulm_01.jpg" type="medical" width="130" directive="imageurl" chronic_id="091e9c5e80019af0" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/medical/hw/pulm_01.jpg"></p></section_text></section_group><section_group><section_header>What is chronic obstructive pulmonary disease (COPD)?</section_header><section_type>SpecialSection</section_type><section_text><p><a chronic_id="091e9c5e8036cc2f" crossLinkId="70872" directive="friendlyurl" externalId="091e9c5e8036cc2f" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/COPD Health Center_091e9c5e8036cc2f/page_COPD Health Center_091e9c5e8036cc2f.xml" keywordId="7166" keywordSetId="1034" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/COPD Health Center_091e9c5e8036cc2f/page_COPD Health Center_091e9c5e8036cc2f.xml">COPD</a> is a <a chronic_id="091e9c5e803c43a7" crossLinkId="71454" directive="friendlyurl" externalId="091e9c5e803c43a7" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/lung_diseases_overview.xml" keywordId="60245" keywordSetId="26554" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/lung_diseases_overview.xml">lung disease</a> that makes it hard to breathe. It is caused by
+			 damage to the lungs over many years, usually from <a chronic_id="091e9c5e800ab373" crossLinkId="451" directive="friendlyurl" externalId="091e9c5e800ab373" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml" keywordId="40038" keywordSetId="9788" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml">smoking</a>. </p><p>COPD
+			 is often a mix of two diseases:</p><ul><li><a chronic_id="091e9c5e8001ebd7" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/chronic_bronchitis_multimedia_zm2393.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/chronic_bronchitis_multimedia_zm2393.xml">Chronic bronchitis</a><a chronic_id="091e9c5e8001ebd7" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/chronic_bronchitis_multimedia_zm2393.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/chronic_bronchitis_multimedia_zm2393.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a> (say "bron-KY-tus").
+				In <a chronic_id="091e9c5e80009206" crossLinkId="5708" directive="friendlyurl" externalId="091e9c5e80009206" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/understanding_bronchitis_basics.xml" keywordId="72120" keywordSetId="32552" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/understanding_bronchitis_basics.xml">chronic bronchitis</a>, the airways that carry air to the lungs (<a chronic_id="091e9c5e8001e9cb" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/airways_inside_the_lungs_multimedia_hw141715.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/airways_inside_the_lungs_multimedia_hw141715.xml">bronchial tubes</a><a chronic_id="091e9c5e8001e9cb" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/airways_inside_the_lungs_multimedia_hw141715.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/airways_inside_the_lungs_multimedia_hw141715.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>) get inflamed and make a lot of
+				mucus. This can narrow or block the airways, making it
+				hard for you to breathe. </li><li><a chronic_id="091e9c5e8001eb83" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/emphysema_multimedia_zm2394.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/emphysema_multimedia_zm2394.xml">Emphysema</a><a chronic_id="091e9c5e8001eb83" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/emphysema_multimedia_zm2394.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/emphysema_multimedia_zm2394.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a> (say "em-fuh-ZEE-muh"). In a
+				healthy person, the tiny air sacs in the lungs are like balloons. As you
+				breathe in and out, they get bigger and smaller to move air through your lungs.
+				But with <a chronic_id="091e9c5e803dbc41" crossLinkId="72272" directive="friendlyurl" externalId="091e9c5e803dbc41" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/what_is_emphysema.xml" keywordId="34876" keywordSetId="8717" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/what_is_emphysema.xml">emphysema</a>, these air sacs are damaged and lose their stretch. Less air
+				gets in and out of the lungs, which makes you feel short of breath. </li></ul><p>COPD gets worse over time. You can't undo the damage to
+			 your lungs. But you can take steps to prevent more damage and to feel
+			 better.</p></section_text></section_group><section_group><section_header>What causes COPD?</section_header><section_type>SpecialSection</section_type><section_text><p>COPD is almost always caused by
+			 smoking. Over time, breathing tobacco smoke irritates the airways and destroys
+			 the stretchy fibers in the lungs. </p><p>Other things that may put you
+			 at risk include breathing chemical fumes, dust, or air pollution over a long
+			 period of time. <a chronic_id="091e9c5e8039beb0" crossLinkId="70858" directive="friendlyurl" externalId="091e9c5e8039beb0" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/effects_of_secondhand_smoke.xml" keywordId="60202" keywordSetId="26537" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/effects_of_secondhand_smoke.xml">Secondhand smoke</a> also may damage the lungs.</p><p>It usually takes
+			 many years for the lung damage to start causing symptoms, so COPD is most
+			 common in people who are older than 60.</p><p>You may be more likely to
+			 get COPD if you had a lot of serious lung infections when you were a child.
+			 People who get emphysema in their 30s or 40s may have a disorder that runs in
+			 families, called alpha-1 antitrypsin deficiency. But this is rare.</p></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p>The main symptoms
+			 are:</p><ul><li> A long-lasting (chronic) cough.</li><li>Mucus that comes up when you cough.</li><li> Shortness of breath that gets worse when you <a chronic_id="091e9c5e80c1b43d" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80c1b43d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml" keywordId="35030" keywordSetId="8746" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml">exercise</a>.</li></ul><p>As COPD gets worse, you may be short of breath even when
+			 you do simple things like get dressed or fix a meal. It gets harder to eat or
+			 exercise, and breathing takes much more energy. People often <a chronic_id="091e9c5e80bd1618" crossLinkId="440" directive="friendlyurl" externalId="091e9c5e80bd1618" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet future toc_091e9c5e80bd1618/page_Diet future toc_091e9c5e80bd1618.xml" keywordId="41673" keywordSetId="7929" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet future toc_091e9c5e80bd1618/page_Diet future toc_091e9c5e80bd1618.xml">lose weight</a> and
+			 get weaker.</p><p>At times, your symptoms may suddenly flare up and get
+			 much worse. This is called a COPD exacerbation (say "egg-ZASS-er-BAY-shun"). An
+			 exacerbation can range from mild to life-threatening. The longer you have COPD,
+			 the more severe these flare-ups will be. </p></section_text></section_group><section_group><section_header>How is COPD diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>To find out if you have
+			 COPD, a doctor will:</p><ul><li>Do a <a chronic_id="091e9c5e80377b97" crossLinkId="70371" directive="friendlyurl" externalId="091e9c5e80377b97" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml" keywordId="58671" keywordSetId="25958" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml">physical exam</a> and listen to your lungs. </li><li>Ask you questions about your past health and whether you smoke
+				or have been exposed to other things that can irritate your lungs.</li><li>Have you do breathing tests, including
+				<a chronic_id="091e9c5e8001b09b" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/spirometry_definition_sts15108.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/spirometry_definition_sts15108.xml">spirometry</a>, to find out how well your lungs work.</li><li>Do chest
+				X-rays and other tests to help rule out other problems
+				that could be causing your symptoms.</li></ul><p>If there is a chance you could have COPD, it is very
+			 important to find out as soon as you can. This gives you time to take steps to
+			 slow the damage to your lungs. </p></section_text></section_group></page><page><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>The best way to slow COPD is to
+			 <a chronic_id="" crossLinkId="451" directive="friendlyurl" externalId="091e9c5e800ab373" href="http://www.webmd.com/smoking-cessation/default.htm" keywordId="40044" keywordSetId="1876" object_type="" path="/webmdhttp://www.webmd.com/smoking-cessation/default.htm">quit smoking</a>. This is the most important thing you can do. It is never too late
+			 to quit. No matter how long you have smoked or how serious your COPD is,
+			 quitting smoking can help stop the damage to your lungs. </p><p>Your doctor can prescribe
+			 treatments that may help you manage your symptoms and feel better. </p><ul><li>Medicines can help you breathe easier. Most of them are inhaled
+				so they go straight to your lungs. If you get an inhaler, it is very important
+				to use it just the way your doctor shows you.</li><li>A lung (pulmonary) rehab program can help you learn to manage
+				your disease. A team of health professionals can provide counseling and teach
+				you how to breathe easier, exercise, and eat well.</li><li>In time, you may need to use
+				oxygen some or most of the time.</li></ul><p>People who have COPD are more likely to get lung
+			 infections, so you will need to get a
+			 <a chronic_id="091e9c5e800074f2" crossLinkId="1508168" directive="friendlyurl" externalId="091e9c5e800074f2" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/cold_and_flu/overview_types_of/fact_sheet_flu_vaccines.xml" keywordId="35423" keywordSetId="8813" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/cold_and_flu/overview_types_of/fact_sheet_flu_vaccines.xml">flu vaccine</a> every year. You should also get a
+			 pneumococcal shot. It may not keep you from getting
+			 <a chronic_id="091e9c5e8001daa4" crossLinkId="49039" directive="friendlyurl" externalId="091e9c5e8001daa4" href="/webmd/consumer_assets/controlled_content/healthwise/major/pneumonia-topic_overview_major_hw63870.xml" keywordId="8104" keywordSetId="1728" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/pneumonia-topic_overview_major_hw63870.xml">pneumonia</a>. But if you do get pneumonia, you probably won't be as
+			 sick.</p></section_text></section_group><section_group><section_header>How can you live well with COPD?</section_header><section_type>SpecialSection</section_type><section_text><p>There are many things you can do at home to stay as healthy
+			 as you can.</p><ul><li>Avoid things that can irritate your lungs, such as smoke and air 
+				pollution.</li><li>Use an air filter in your home.</li><li>Get regular exercise to stay as strong as you can.</li><li>Eat well so you can keep up your strength. If you are losing
+				weight, ask your doctor or
+				dietitian about ways to make it easier to get the
+				calories you need. </li></ul><p><b>Dealing with flare-ups:</b> As COPD gets worse, you may have flare-ups when
+			 your symptoms quickly get worse and stay worse. It is important to know what to
+			 do if this happens. Your doctor may give you an action plan and medicines to help you breathe if you have a flare-up. But if the
+			 attack is severe, you may need to go to the emergency room or call
+			 <inline.emer-num></inline.emer-num>.</p><p><b><a chronic_id="" crossLinkId="31627" directive="friendlyurl" externalId="EA898FFBA953443C" href="http://www.webmd.com/depression/guide/depression-living-managing" keywordId="37356" keywordSetId="9178" object_type="" path="/webmdhttp://www.webmd.com/depression/guide/depression-living-managing">Managing depression</a> and <a chronic_id="091e9c5e8003c115" crossLinkId="452" directive="friendlyurl" externalId="091e9c5e8003c115" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.xml" keywordId="31072" keywordSetId="8074" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.xml">anxiety</a>:</b> Knowing that you have a disease that
+			 gets worse over time can be hard. It's common to feel sad or hopeless
+			 sometimes. Having <a chronic_id="091e9c5e8026fa00" crossLinkId="58314" directive="friendlyurl" externalId="091e9c5e8026fa00" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/miscellaneous/breathing_problems_causes_tests_treatments.xml" keywordId="42644" keywordSetId="10390" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/miscellaneous/breathing_problems_causes_tests_treatments.xml">trouble breathing</a> can also make you feel very anxious. If
+			 these feelings last, be sure to tell your doctor. Counseling, medicine, and
+			 support groups can help you cope.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-overview" owner="false"><breadcrumb><bread piece="Lung Disease &amp; Respiratory Health Center" prefix="www" friendlyurl="/lung/default.htm"></bread><bread piece="COPD Health Center" prefix="www" friendlyurl="/lung/copd/default.htm"></bread><bread piece="COPD Related Topics" prefix="www" friendlyurl="/lung/copd/tc/default.htm"></bread></breadcrumb><centers><Topic id="2915" name="tmg" chronicid="091e9c5e8001cea4" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-overview" type="Topic">COPD (Chronic Obstructive Pulmonary Disease)</Topic><Mini id="2912" name="" chronicid="091e9c5e8036cc2f" prefix="www" friendlyurl="/lung/copd/default.htm" type="Mini">COPD</Mini><Health id="2892" name="health center" chronicid="091e9c5e803c0c52" prefix="www" friendlyurl="/lung/default.htm" type="">Lung</Health></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e8001cea4" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-overview" type="Topic">COPD (Chronic Obstructive Pulmonary Disease)</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8036cc2f" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/COPD Health Center_091e9c5e8036cc2f/page_COPD Health Center_091e9c5e8036cc2f.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/default.htm"></target></object><object chronic_id="091e9c5e803c43a7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/lung_diseases_overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/lung-diseases-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/lung-diseases-overview"></target></object><object chronic_id="091e9c5e800ab373" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/smoking-cessation/default.htm"></target></object><object chronic_id="091e9c5e8001ebd7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/chronic_bronchitis_multimedia_zm2393.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/chronic-bronchitis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/chronic-bronchitis"></target></object><object chronic_id="091e9c5e80009206" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/understanding_bronchitis_basics.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/understanding-bronchitis-basics"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/understanding-bronchitis-basics"></target></object><object chronic_id="091e9c5e8001e9cb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/airways_inside_the_lungs_multimedia_hw141715.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/asthma/airways-inside-the-lungs"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/airways-inside-the-lungs"></target></object><object chronic_id="091e9c5e8001eb83" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/emphysema_multimedia_zm2394.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/emphysema"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/emphysema"></target></object><object chronic_id="091e9c5e803dbc41" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/what_is_emphysema.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/what-is-emphysema"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/what-is-emphysema"></target></object><object chronic_id="091e9c5e8039beb0" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/effects_of_secondhand_smoke.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/smoking-cessation/effects-of-secondhand-smoke"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/effects-of-secondhand-smoke"></target></object><object chronic_id="091e9c5e80c1b43d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target></object><object chronic_id="091e9c5e80bd1618" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet future toc_091e9c5e80bd1618/page_Diet future toc_091e9c5e80bd1618.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diet/default.htm" umtchronicleid="091e9c5e8068a387"></target><target siteid="8" name="" prefix="www" friendlyurl="/diet/default.htm" umtchronicleid="091e9c5e8068a387"></target></object><object chronic_id="091e9c5e80377b97" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target></object><object chronic_id="091e9c5e8001b09b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/spirometry_definition_sts15108.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/spirometry"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/spirometry"></target></object><object chronic_id="091e9c5e800074f2" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/cold_and_flu/overview_types_of/fact_sheet_flu_vaccines.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cold-and-flu/flu-guide/fact-sheet-vaccines"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/cold-and-flu/flu-guide/fact-sheet-vaccines"></target></object><object chronic_id="091e9c5e8001daa4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/pneumonia-topic_overview_major_hw63870.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/tc/pneumonia-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/pneumonia-topic-overview"></target></object><object chronic_id="091e9c5e8003c115" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Anxiety and Panic Disorders Health Center TOC/page_Anxiety and Panic Disorders Health Center_091e9c5e8003c115.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/anxiety-panic/default.htm"></target></object><object chronic_id="091e9c5e8026fa00" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/miscellaneous/breathing_problems_causes_tests_treatments.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/breathing-problems-causes-tests-treatments"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/breathing-problems-causes-tests-treatments"></target></object><object chronic_id="091e9c5e8001cea4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-topic_overview_special_hw32561.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-overview"></target></object><object chronic_id="091e9c5e8001cd60" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-health_tools_special_hw32559-healthtools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-health-tools"></target></object><object chronic_id="091e9c5e8001d1f7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-frequently_asked_questions_special_ug1584.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-frequently-asked-questions"></target></object><object chronic_id="091e9c5e8001d654" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-cause_special_aa33397.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-cause"></target></object><object chronic_id="091e9c5e8001d239" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-symptoms_special_aa33413.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-symptoms"></target></object><object chronic_id="091e9c5e8001ceff" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-what_increases_your_risk_special_aa33466.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001d63f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-when_to_call_a_doctor_special_aa33488.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001d140" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-exams_and_tests_special_aa33512.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-exams-and-tests"></target></object><object chronic_id="091e9c5e8001d150" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-treatment_overview_special_aa33562.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-treatment-overview"></target></object><object chronic_id="091e9c5e8001d315" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-prevention_special_aa33596.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-prevention"></target></object><object chronic_id="091e9c5e8001d566" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-ongoing_concerns_special_aa33431.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-ongoing-concerns"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-ongoing-concerns"></target></object><object chronic_id="091e9c5e8001d6ec" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-living_with_copd_special_aa33600.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-living-with-copd"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-living-with-copd"></target></object><object chronic_id="091e9c5e8001d1cd" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-medications_special_aa33619.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-medications"></target></object><object chronic_id="091e9c5e8001cd67" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-surgery_special_aa33652.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-surgery"></target></object><object chronic_id="091e9c5e8001d1a9" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-other_treatment_special_aa33665.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-other-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-other-treatment"></target></object><object chronic_id="091e9c5e8001d2ed" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-other_places_to_get_help_special_hw32559-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001d51b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-related_information_special_hw32559-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-related-information"></target></object><object chronic_id="091e9c5e8001d27a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-references_special_hw32559-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-references"></target></object><object chronic_id="091e9c5e8001d4fe" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-credits_special_hw32559-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/chronic-obstructive-pulmonary-disease-copd-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e800236b1" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/copd_chronic_obstructive_pulmonary_disease_special_hw32559.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cea4" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-topic_overview_special_hw32561.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e8001cd60" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-health_tools_special_hw32559-healthtools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d1f7" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-frequently_asked_questions_special_ug1584.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Cause</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d654" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-cause_special_aa33397.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d239" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-symptoms_special_aa33413.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Increases Your Risk</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001ceff" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-what_increases_your_risk_special_aa33466.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>When to Call a Doctor</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d63f" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-when_to_call_a_doctor_special_aa33488.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d140" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-exams_and_tests_special_aa33512.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d150" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-treatment_overview_special_aa33562.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Prevention</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d315" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-prevention_special_aa33596.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Ongoing Concerns</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d566" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-ongoing_concerns_special_aa33431.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Living With COPD</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d6ec" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-living_with_copd_special_aa33600.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Medications</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d1cd" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-medications_special_aa33619.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Surgery</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cd67" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-surgery_special_aa33652.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Treatment</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d1a9" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-other_treatment_special_aa33665.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001d2ed" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-other_places_to_get_help_special_hw32559-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d51b" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-related_information_special_hw32559-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001d27a" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-references_special_hw32559-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d4fe" path="/webmd/consumer_assets/controlled_content/healthwise/special/copd_chronic_obstructive_pulmonary_disease-credits_special_hw32559-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>COPD (Chronic Obstructive Pulmonary Disease)</title><dynamic_objects><callout_title>Recommended Related to COPD</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e8067d17e"><metadata_section><i_chronicle_id>091e9c5e8067c437</i_chronicle_id><title>COPD Exacerbation Symptoms: Wheezing, Coughing, and More</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>
+  
+
+Early warning signs of an acute exacerbation are unique to each person. Usually you are the best person to know if you are having sustained breathing problems. However, some changes are more likely to be noticed by other persons. So it is important to share this information with your family and those close to you.
+The most common signs and symptoms of an acute exacerbation are:
+
+  Worsening of your stable condition
+  Increased difficulty breathing, even at rest
+  Increased wheezing
+...</p></section_text><link siteid="3" prefix="www" friendlyurl="/lung/copd/knowing-when-you-are-having-an-exacerbation"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>COPD (Chronic Obstructive Pulmonary Disease) - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>How is it treated?</h3>
+      <p>The best way to slow COPD is to <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/smoking-cessation/default.htm">quit smoking</a>. This is the most important thing you can do. It is never too late to quit. No matter how long you have smoked or how serious your COPD is, quitting smoking can help stop the damage to your lungs. </p>
+      <p>Your doctor can prescribe treatments that may help you manage your symptoms and feel better. </p>
+      <ul>
+       <li>Medicines can help you breathe easier. Most of them are inhaled so they go straight to your lungs. If you get an inhaler, it is very important to use it just the way your doctor shows you.</li>
+       <li>A lung (pulmonary) rehab program can help you learn to manage your disease. A team of health professionals can provide counseling and teach you how to breathe easier, exercise, and eat well.</li>
+       <li>In time, you may need to use oxygen some or most of the time.</li>
+      </ul>
+      <p>People who have COPD are more likely to get lung infections, so you will need to get a <a href="http://www.webmd.com/cold-and-flu/flu-guide/fact-sheet-vaccines" onclick="return sl(this,'','embd-lnk');">flu vaccine</a> every year. You should also get a pneumococcal shot. It may not keep you from getting <a href="http://www.webmd.com/lung/tc/pneumonia-topic-overview" onclick="return sl(this,'','embd-lnk');">pneumonia</a>. But if you do get pneumonia, you probably won't be as sick.</p>
+      <h3>How can you live well with COPD?</h3>
+      <p>There are many things you can do at home to stay as healthy as you can.</p>
+      <ul>
+       <li>Avoid things that can irritate your lungs, such as smoke and air pollution.</li>
+       <li>Use an air filter in your home.</li>
+       <li>Get regular exercise to stay as strong as you can.</li>
+       <li>Eat well so you can keep up your strength. If you are losing weight, ask your doctor or dietitian about ways to make it easier to get the calories you need. </li>
+      </ul>
+      <p><b>Dealing with flare-ups:</b> As COPD gets worse, you may have flare-ups when your symptoms quickly get worse and stay worse. It is important to know what to do if this happens. Your doctor may give you an action plan and medicines to help you breathe if you have a flare-up. But if the attack is severe, you may need to go to the emergency room or call <span class="red_fmt">911</span>.</p>
+      <p><b><a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/depression/guide/depression-living-managing">Managing depression</a> and <a href="http://www.webmd.com/anxiety-panic/default.htm" onclick="return sl(this,'','embd-lnk');">anxiety</a>:</b> Knowing that you have a disease that gets worse over time can be hard. It's common to feel sad or hopeless sometimes. Having <a href="http://www.webmd.com/lung/breathing-problems-causes-tests-treatments" onclick="return sl(this,'','embd-lnk');">trouble breathing</a> can also make you feel very anxious. If these feelings last, be sure to tell your doctor. Counseling, medicine, and support groups can help you cope.</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-overview">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-overview">1</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">2</span>
+      <style type="text/css">
+            .pagination_fmt .center_fmt { width: 375px !important;}
+            </style>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-overview">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-overview">1</a><span class="pipe_fmt">|</span><span class="current_fmt">2</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-health-tools'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Cause',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-cause'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-symptoms'
+			});
+            
+			topics.push({
+			title : 'What Increases Your Risk',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-what-increases-your-risk'
+			});
+            
+			topics.push({
+			title : 'When to Call a Doctor',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-when-to-call-a-doctor'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-prevention'
+			});
+            
+			topics.push({
+			title : 'Ongoing Concerns',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-ongoing-concerns'
+			});
+            
+			topics.push({
+			title : 'Living With COPD',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-living-with-copd'
+			});
+            
+			topics.push({
+			title : 'Medications',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-medications'
+			});
+            
+			topics.push({
+			title : 'Surgery',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-surgery'
+			});
+            
+			topics.push({
+			title : 'Other Treatment',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-other-treatment'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: October 16, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-overview">Topic Overview</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-health-tools">Health Tools</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-cause">Cause</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-symptoms">Symptoms</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-what-increases-your-risk">What Increases Your Risk</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-when-to-call-a-doctor">When to Call a Doctor</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-prevention">Prevention</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-ongoing-concerns">Ongoing Concerns</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-living-with-copd">Living With COPD</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-medications">Medications</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-surgery">Surgery</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-other-treatment">Other Treatment</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-related-information">Related Information</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-references">References</option><option value="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>COPD (Chronic Obstructive Pulmonary Disease) Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-frequently-asked-questions" onclick="return sl(this,'','topicNav_3');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-cause" onclick="return sl(this,'','topicNav_4');" title="Cause">Cause</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-symptoms" onclick="return sl(this,'','topicNav_5');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-what-increases-your-risk" onclick="return sl(this,'','topicNav_6');" title="What Increases Your Risk">What Increases Your Risk</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-when-to-call-a-doctor" onclick="return sl(this,'','topicNav_7');" title="When to Call a Doctor">When to Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-exams-and-tests" onclick="return sl(this,'','topicNav_8');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-treatment-overview" onclick="return sl(this,'','topicNav_9');" title="Treatment Overview">Treatment Overview</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-prevention" onclick="return sl(this,'','topicNav_10');" title="Prevention">Prevention</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-ongoing-concerns" onclick="return sl(this,'','topicNav_11');" title="Ongoing Concerns">Ongoing Concerns</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-living-with-copd" onclick="return sl(this,'','topicNav_12');" title="Living With COPD">Living With COPD</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-medications" onclick="return sl(this,'','topicNav_13');" title="Medications">Medications</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-surgery" onclick="return sl(this,'','topicNav_14');" title="Surgery">Surgery</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-other-treatment" onclick="return sl(this,'','topicNav_15');" title="Other Treatment">Other Treatment</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-other-places-to-get-help" onclick="return sl(this,'','topicNav_16');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-related-information" onclick="return sl(this,'','topicNav_17');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-references" onclick="return sl(this,'','topicNav_18');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/tc/chronic-obstructive-pulmonary-disease-copd-credits" onclick="return sl(this,'','topicNav_19');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1164"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_vid" href="http://www.webmd.com/lung/video/causes-symptoms-copd" onclick="return sl(this,'','rltd-p-1164_1');">COPD Causes and Symptoms<i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/lung/copd/reducing-the-occurrence-and-seriousness-of-your-exacerbations" onclick="return sl(this,'','rltd-p-1164_2');">Quick Tips To Reduce Breathing Exacerbations</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/lung/lung-function-tests" onclick="return sl(this,'','rltd-p-1164_3');">All About Lung Function Tests</a> </li> 
+     <li id="x65"> <a class="type_vid" href="http://www.webmd.com/lung/video/living-with-copd" onclick="return sl(this,'','rltd-p-1164_4');">Real Stories: Living With COPD<i> </i></a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/lung/rm-quiz-myths-facts-copd" onclick="return sl(this,'','rltd-p-1164_5');">Quiz: Myths &amp; Facts About COPD</a> </li> 
+     <li id="x67" class="last"> <a class="type_vid" href="http://www.webmd.com/lung/video/diagnosing-copd" onclick="return sl(this,'','rltd-p-1164_6');">Diagnosing COPD<i> </i></a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1164_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806a23df" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806a23df</chronic_id><r_object_id>091e9c5e806a23df</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806a23df.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/10/2010 10:00:48</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/COPD_091e9c5e8036764d/template_COPD_091e9c5e8036764d.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8036764d"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Breathlessness</name><link_title>Breathlessness</link_title><description>Breathlessness could be a symptom of many things including asthma, allergies, heart disease, lung disease, or simply being overweight. Treatments depend on which condition is causing the shortness of breath. Some tests that may help in diagnosing the problem are spirometry, X-rays, CT scans, and others. Follow the links below to find WebMD's comprehensive coverage about how breathlessness is caused, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/lung/breathlessness-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8098cd4e"><link_title>Slideshow: A Visual Guide to COPD</link_title><friendly_url>http://www.webmd.com/lung/copd/ss/slideshow-copd-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000e3ee"><link_title>Left Breathless?</link_title><friendly_url>http://www.webmd.com/lung/copd/news/20010223/left-breathless</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e803590ad"><link_title>10 Signs of a COPD Exacerbation</link_title><friendly_url>http://www.webmd.com/lung/10-signs-copd-exacerbation</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e803590f3"><link_title>Short of Breath? Tips for COPD Breathlessness</link_title><friendly_url>http://www.webmd.com/lung/features/short-breath-tips-copd-breathlessness</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8062e64a"><link_title>Restrictive vs. Obstructive Lung Disease</link_title><friendly_url>http://www.webmd.com/lung/obstructive-and-restrictive-lung-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8067c437"><link_title>COPD Exacerbation Symptoms: Wheezing, Coughing, and More</link_title><friendly_url>http://www.webmd.com/lung/copd/knowing-when-you-are-having-an-exacerbation</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e808e162b"><link_title>COPD Quiz: Emphysema, Bronchitis and Keeping Your Lungs Healthy</link_title><friendly_url>http://www.webmd.com/lung/rm-quiz-myths-facts-copd</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1078</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008261"><link_title>Understanding the Symptoms of Wheezing</link_title><friendly_url>http://www.webmd.com/lung/understanding-wheezing-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e595"><link_title>Respiratory Problems, Age 12 and Older-Check Your Symptoms</link_title><friendly_url>http://www.webmd.com/lung/tc/respiratory-problems-age-12-and-older-check-your-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e608"><link_title>Anxiety-Check Your Symptoms</link_title><friendly_url>http://www.webmd.com/anxiety-panic/tc/anxiety-check-your-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d894"><link_title>Pulmonary Embolism-Medications</link_title><friendly_url>http://www.webmd.com/lung/tc/pulmonary-embolism-medications</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d7e5"><link_title>Pulmonary Embolism-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/lung/tc/pulmonary-embolism-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e252"><link_title>Pulmonary Embolism-What Increases Your Risk</link_title><friendly_url>http://www.webmd.com/lung/tc/pulmonary-embolism-what-increases-your-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ce50"><link_title>Bronchiolitis-Topic Overview</link_title><friendly_url>http://www.webmd.com/lung/tc/bronchiolitis-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ed02"><link_title>Bronchiolitis Obliterans Organizing Pneumonia</link_title><friendly_url>http://www.webmd.com/lung/bronchiolitis-obliterans-organizing-pneumonia</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What causes emphysema?</link_title><friendly_url>http://answers.webmd.com/answers/1182060/what-causes-emphysema</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008a88"><link_title>Exercise-Induced Asthma</link_title><friendly_url>http://www.webmd.com/asthma/guide/exercise-induced-asthma</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000b99b"><link_title>Lung Surgery Helps, but Doesn't Cure Emphysema</link_title><friendly_url>http://www.webmd.com/lung/copd/news/19991103/lung-surgery-helps-doesnt-cure-emphysema</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e0fd"><link_title>Lung Volume Reduction Surgery Eases Emphysema Symptoms</link_title><friendly_url>http://www.webmd.com/lung/copd/news/20030325/lung-surgery-eases-emphysema-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000eeb6"><link_title>Wrinkles Predict Smokers' Emphysema</link_title><friendly_url>http://www.webmd.com/news/20060613/wrinkles-predict-smokers-emphysema</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f09b"><link_title>Lung Surgery for Emphysema Improves Life</link_title><friendly_url>http://www.webmd.com/lung/copd/news/20030520/lung-surgery-for-emphysema-improves-life</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f50a"><link_title>Antibiotics No Help for Most Emphysema, Chronic Bronchitis</link_title><friendly_url>http://www.webmd.com/lung/copd/news/20010402/antibiotics-no-help-for-most-emphysema-chronic-bronchitis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fa01"><link_title>Asthma, Emphysema Drug May Weaken Bones</link_title><friendly_url>http://www.webmd.com/asthma/news/20041216/asthma-emphysema-drug-may-weaken-bones</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fa67"><link_title>The Dangers of Emphysema Surgery</link_title><friendly_url>http://www.webmd.com/lung/copd/news/20011010/dangers-of-emphysema-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010094"><link_title>Experts Find Dangers in Emphysema Surgery</link_title><friendly_url>http://www.webmd.com/lung/copd/news/20010815/experts-find-dangers-in-emphysema-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800104f7"><link_title>Inhaled Steroids May Cause Osteoperosis</link_title><friendly_url>http://www.webmd.com/lung/copd/news/20070101/inhaled-steroids-may-weaken-bones</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011a87"><link_title>Fish Oil May Treat Lung Disease</link_title><friendly_url>http://www.webmd.com/lung/news/20051212/fish-oil-may-treat-lung-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001228b"><link_title>Less Lung Means More Comfort for Emphysema Patients</link_title><friendly_url>http://www.webmd.com/lung/copd/news/20001024/less-lung-means-more-comfort-for-emphysema-patients</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801626a9"><link_title>Pulmonary Fibrosis</link_title><friendly_url>http://www.webmd.com/lung/pulmonary-fibrosis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80271f28"><link_title>Spiriva Eases Lung Disease Symptoms</link_title><friendly_url>http://www.webmd.com/lung/copd/news/20081005/spiriva-eases-lung-disease-symptoms</friendly_url><thumbnail height="" width="" alt="how_effective_spiriva.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/October08/how_effective_spiriva.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/lung/copd/ss/slideshow-copd-overview" onclick="return sl(this,'','td-rltd-art_1');">Slideshow: A Visual Guide to COPD</a></li>
+      <li><a href="http://answers.webmd.com/answers/1182060/what-causes-emphysema" onclick="return sl(this,'','td-rltd-art_2');">What causes emphysema?</a></li>
+      <li><a href="http://www.webmd.com/lung/10-signs-copd-exacerbation" onclick="return sl(this,'','td-rltd-art_3');">10 Signs of a COPD Exacerbation</a></li>
+      <li><a href="http://www.webmd.com/lung/features/short-breath-tips-copd-breathlessness" onclick="return sl(this,'','td-rltd-art_4');">Short of Breath? Tips for COPD Breathlessness</a></li>
+      <li><a href="http://www.webmd.com/lung/obstructive-and-restrictive-lung-disease" onclick="return sl(this,'','td-rltd-art_5');">Restrictive vs. Obstructive Lung Disease</a></li>
+      <li><a href="http://www.webmd.com/lung/copd/knowing-when-you-are-having-an-exacerbation" onclick="return sl(this,'','td-rltd-art_6');">COPD Exacerbation Symptoms: Wheezing, Coughing, and More</a></li>
+      <li><a href="http://www.webmd.com/lung/rm-quiz-myths-facts-copd" onclick="return sl(this,'','td-rltd-art_7');">COPD Quiz: Emphysema, Bronchitis and Keeping Your Lungs Healthy</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/lung/breathlessness-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Breathlessness Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=675042882&amp;tile=1566611357&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2892&amp;scent=&amp;pos=5000&amp;xpg=4292&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2flung%2fcopd%2ftc%2fchronic-obstructive-pulmonary-disease-copd-overview&amp;artid=091e9c5e8001cea4&amp;inst=0&amp;leaf=2915&amp;cc=16&amp;tmg=1&amp;bc=_a080_&amp;mcent=2912&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=675042882&amp;amp;tile=1566611357&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2892&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=4292&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2flung%2fcopd%2ftc%2fchronic-obstructive-pulmonary-disease-copd-overview&amp;amp;artid=091e9c5e8001cea4&amp;amp;inst=0&amp;amp;leaf=2915&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_a080_&amp;amp;mcent=2912&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4292";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=675042882&amp;tile=1566611357&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2892&amp;scent=&amp;pos=5001&amp;xpg=4292&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2flung%2fcopd%2ftc%2fchronic-obstructive-pulmonary-disease-copd-overview&amp;artid=091e9c5e8001cea4&amp;inst=0&amp;leaf=2915&amp;cc=16&amp;tmg=1&amp;bc=_a080_&amp;mcent=2912&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=675042882&amp;amp;tile=1566611357&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2892&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=4292&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2flung%2fcopd%2ftc%2fchronic-obstructive-pulmonary-disease-copd-overview&amp;amp;artid=091e9c5e8001cea4&amp;amp;inst=0&amp;amp;leaf=2915&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_a080_&amp;amp;mcent=2912&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4292";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,518 @@
+<title>Congenital Hydrocele-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Essentials for Baby</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0002" class="type_ss" onclick="return sl(this,'','tools-res_1');">Fungal Infections in Babies<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/answers-health/answers-baby-sleep-habits" onclick="return sl(this,'','tools-res_2');">Helping Baby Sleep </a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parenting/baby/features/6-serious-symptoms-in-babies-never-to-ignore" onclick="return sl(this,'','tools-res_3');">6 Serious Baby Symptoms</a></li>
+      <li id="x59"><a href="http://www.webmd.com/parenting/baby/video/introducing-new-foods-to-baby" class="type_vid" onclick="return sl(this,'','tools-res_4');">Baby Food Options<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/eye-health/eye-vision-tv/default.htm?vid=vd-3007-cntv-ed-2002" class="type_vid" onclick="return sl(this,'','tools-res_5');">Your Baby's Vision<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-cry-to-sleep" onclick="return sl(this,'','tools-res_6');">Should Baby 'Cry It Out'?</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e8ea27" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e807f0ea1</i_chronicle_id><r_object_id>091e9c5e80e8ea27</r_object_id><title>Topic Overview</title><object_name>congenital_hydrocele-topic_overview_special_ug1045.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e8ea27</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_ug1045</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Congenital Hydrocele-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is a hydrocele? A hydrocele (say "HY-druh-seel") is a buildup of watery fluid around one or both testicles.  It causes the scrotum or groin area to swell.  A congenital hydrocele is one that a baby is born with.  Hydroceles can also occur later in life for a number of reasons.  This topic is about congenital hydroceles,which are common in male newborns.  The swelling from a hydrocele may ...</wbmd_desc_meta><wbmd_orig_pub_dt>12/28/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is a hydrocele? A hydrocele (say "HY-druh-seel") is a buildup of watery fluid around one or both testicles.  It causes the scrotum or groin area to swell.  A congenital hydrocele is one that a baby is born with.  Hydroceles can also occur later in life for a number of reasons.  This topic is about congenital hydroceles,which are common in male newborns.  The swelling from a hydrocele may ...</wbmd_desc_user><wbmd_lk_ttl>Congenital Hydrocele-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>birth defect,birth defects,communicating hydrocele,congenital anomaly,congenital defect,congenital hydrocele,genetic defect,noncommunicating hydrocele</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.11</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e8ea27</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3545" wbmd_disp_nm="Parenting - Newborn &amp; Infant"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1162" wbmd_disp_nm="Parenting - Baby (0-12 months)"></wbmd_c_channel_id><wbmd_c_frnd_nm>Congenital-Hydrocele-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is a hydrocele?</section_header><section_type>SpecialSection</section_type><section_text><p>A hydrocele (say "HY-druh-seel") is a buildup of
+		 watery fluid around one or both
+		 <a chronic_id="091e9c5e8001b0af" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/testicles_definition_stt11336.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/testicles_definition_stt11336.xml">testicles</a>. It causes the
+		 <a chronic_id="091e9c5e8001b21b" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/scrotum_definition_sts14273.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/scrotum_definition_sts14273.xml">scrotum</a> or
+		 <a chronic_id="091e9c5e8001b44a" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/groin_area_definition_stg124249.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/groin_area_definition_stg124249.xml">groin area</a> to swell. </p><p>A congenital
+		 hydrocele is one that a baby is born with. Hydroceles can also occur later in
+		 life for a number of reasons. This topic is about congenital hydroceles, which
+		 are common in male newborns.</p><p>The swelling from a hydrocele may look scary,
+		 but it is usually not a problem. It will probably go away by the time your baby
+		 is 2 years old. </p></section_text></section_group><section_group><section_header>What causes a congenital hydrocele?</section_header><section_type>SpecialSection</section_type><section_text><p>A month or so
+			 before birth, a baby's testicles move from the belly area down into the
+			 scrotum, along with a bit of the lining of the belly area. The lining shrivels
+			 up, leaving a small empty space around the testicles. This space normally
+			 closes up by the time a baby is 2 years old. </p><p>Sometimes fluid
+			 leaks into the space, filling it like a small water balloon. This is a
+			 <a chronic_id="091e9c5e8001ebbd" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/hydroceles_multimedia_zm2443.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/hydroceles_multimedia_zm2443.xml">hydrocele</a><a chronic_id="091e9c5e8001ebbd" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/hydroceles_multimedia_zm2443.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/hydroceles_multimedia_zm2443.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>. When the space closes up and traps the
+			 fluid inside, it's called a noncommunicating hydrocele. Usually, the body
+			 absorbs the fluid over time.</p><p>If the space doesn't close up the way
+			 it should, the fluid moves back and forth between the scrotum and the belly
+			 area. This is called a communicating hydrocele. The swelling comes and goes.
+			 This problem is usually fixed with surgery to help prevent a
+			 <a chronic_id="091e9c5e8001b0a1" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/hernia_definition_sth149784.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/hernia_definition_sth149784.xml">hernia</a> in the groin. </p><p>Another type of
+			 hydrocele is a hydrocele of the
+			 <a chronic_id="091e9c5e8001b1f5" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/spermatic_cord_definition_sts15126.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/spermatic_cord_definition_sts15126.xml">spermatic cord</a>. It is located higher up in the
+			 scrotum. The fluid is usually absorbed within a few months and at the latest by
+			 age 1 or 2. A hydrocele of the cord may be mistaken for an
+			 <a chronic_id="091e9c5e8001b62e" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/inguinal_hernia_definition_sti150835.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/inguinal_hernia_definition_sti150835.xml">inguinal hernia</a>.</p></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p>The usual symptom is a
+			 swollen scrotum. The swelling does not hurt. If your child seems to be in pain,
+			 call the doctor. Pain may mean that your child has a hernia or other
+			 problem.</p></section_text></section_group><section_group><section_header>How is a congenital hydrocele diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>Doctors
+			 diagnose a congenital hydrocele during a <a chronic_id="091e9c5e80377b97" crossLinkId="70371" directive="friendlyurl" externalId="091e9c5e80377b97" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml" keywordId="58671" keywordSetId="25958" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml">physical exam</a> that includes questions
+			 about the child's health. The swelling is often easy to see, so the hydrocele is typically
+			 not hard to identify. But the doctor will want to rule out other conditions.</p></section_text></section_group><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>Most of the time, all you need
+			 to do is watch for changes in the swelling. If the swelling gets bigger or
+			 if it comes and goes, tell your doctor. </p><p>Your child may need
+			 surgery to remove the fluid if:</p><ul><li>He still has the hydrocele at age
+				2.</li><li>The swelling comes and goes.</li><li>The swelling causes
+				pain.</li><li>The swelling gets worse.</li></ul><p> If surgery is needed, the doctor or nurse will give your child medicine to make him or her <a chronic_id="091e9c5e800251e7" crossLinkId="491" directive="friendlyurl" externalId="091e9c5e800251e7" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml" keywordId="40012" keywordSetId="1872" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml">sleep</a>. A small cut (incision) will be made in the groin area. At the end of the surgery, the cut will be stitched up. The doctor may ask you if you want him or her to check the opposite groin area for a hydrocele or other problem during the same
+		 surgery. After surgery, you'll need to care for the groin incision and watch for signs of infection.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocele-topic-overview" owner="false"><breadcrumb><bread piece="Health &amp; Parenting Center" prefix="www" friendlyurl="/parenting/default.htm"></bread><bread piece="Health &amp; Baby Center" prefix="www" friendlyurl="/parenting/baby/default.htm"></bread><bread piece="Health &amp; Baby Related Topics" prefix="www" friendlyurl="/parenting/baby/tc/default.htm"></bread></breadcrumb><centers><Topic id="2790" name="tmg" chronicid="091e9c5e807f0ea1" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocele-topic-overview" type="Topic">Congenital Hydrocele</Topic><Health id="2786" name="health center" chronicid="091e9c5e80c3c634" prefix="www" friendlyurl="/parenting/baby/default.htm" type="">Baby Center</Health><Super id="1190" name="super center" chronicid="091e9c5e80c3d141" prefix="www" friendlyurl="/parenting/default.htm" type="">Health &amp; Parenting</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocele-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e807f0ea1" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocele-topic-overview" type="Topic">Congenital Hydrocele</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001b0af" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/testicles_definition_stt11336.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/testicles"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/testicles"></target></object><object chronic_id="091e9c5e8001b21b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/scrotum_definition_sts14273.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/scrotum"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/scrotum"></target></object><object chronic_id="091e9c5e8001b44a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/groin_area_definition_stg124249.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/groin-area"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/groin-area"></target></object><object chronic_id="091e9c5e8001ebbd" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/hydroceles_multimedia_zm2443.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/men/hydroceles"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/men/hydroceles"></target></object><object chronic_id="091e9c5e8001b0a1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/hernia_definition_sth149784.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/hernia"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/hernia"></target></object><object chronic_id="091e9c5e8001b1f5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/spermatic_cord_definition_sts15126.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/spermatic-cord"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/spermatic-cord"></target></object><object chronic_id="091e9c5e8001b62e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/inguinal_hernia_definition_sti150835.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/inguinal-hernia"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/inguinal-hernia"></target></object><object chronic_id="091e9c5e80377b97" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target></object><object chronic_id="091e9c5e800251e7" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target><target siteid="8" name="" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target></object><object chronic_id="091e9c5e807f0ea1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-topic_overview_special_ug1045.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocele-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocele-topic-overview"></target></object><object chronic_id="091e9c5e807f0ea2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-frequently_asked_questions_special_abk4340.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocele-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocele-frequently-asked-questions"></target></object><object chronic_id="091e9c5e807f0ea3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-other_places_to_get_help_special_ug1044-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocele-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocele-other-places-to-get-help"></target></object><object chronic_id="091e9c5e807f0ea4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-related_information_special_ug1044-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocele-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocele-related-information"></target></object><object chronic_id="091e9c5e807f0ea5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-references_special_ug1044-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocele-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocele-references"></target></object><object chronic_id="091e9c5e807f0ea6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-credits_special_ug1044-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocele-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocele-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e807f1719" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/congenital_hydrocele_special_ug1044.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e807f0ea1" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-topic_overview_special_ug1045.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e807f0ea2" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-frequently_asked_questions_special_abk4340.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e807f0ea3" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-other_places_to_get_help_special_ug1044-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e807f0ea4" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-related_information_special_ug1044-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e807f0ea5" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-references_special_ug1044-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e807f0ea6" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocele-credits_special_ug1044-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Congenital Hydrocele</title><dynamic_objects><callout_title>Recommended Related to Parenting - Baby (0-12 months)</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80929e03"><metadata_section><i_chronicle_id>091e9c5e8091f482</i_chronicle_id><title>Does My Baby Have Colic?</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>In every issue of WebMD the Magazine, we ask our experts to answer readers' questions about a wide range of topics. In our November-December 2011 issue, we asked WebMD's baby expert, Sarah DuMond, MD, about crying and colic in babies.
+
+  Q: My 2-month-old baby cries a lot. Could he have colic?
+
+  A: Babies cry and they often cry a lot. It's the only way they can communicate their hunger, fatigue, pain, fear, or sense of being overwhelmed. So crying itself is very normal.
+Colic, on the other...</p></section_text><link siteid="3" prefix="www" friendlyurl="/parenting/baby/features/does-my-baby-have-colic"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Congenital Hydrocele - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What is a hydrocele?</h3>
+      <p>A hydrocele (say &quot;HY-druh-seel&quot;) is a buildup of watery fluid around one or both <a href="http://www.webmd.com/hw-popup/testicles" onclick="return sl(this,'hw','embd-lnk');">testicles</a>. It causes the <a href="http://www.webmd.com/hw-popup/scrotum" onclick="return sl(this,'hw','embd-lnk');">scrotum</a> or <a href="http://www.webmd.com/hw-popup/groin-area" onclick="return sl(this,'hw','embd-lnk');">groin area</a> to swell. </p>
+      <p xmlns:xalan="http://xml.apache.org/xalan">A congenital hydrocele is one that a baby is born with. Hydroceles can also occur later in life for a number of reasons. This topic is about congenital hydroceles, which are common in male newborns.</p>
+      <p>The swelling from a hydrocele may look scary, but it is usually not a problem. It will probably go away by the time your baby is 2 years old. </p>
+      <h3>What causes a congenital hydrocele?</h3>
+      <p>A month or so before birth, a baby's testicles move from the belly area down into the scrotum, along with a bit of the lining of the belly area. The lining shrivels up, leaving a small empty space around the testicles. This space normally closes up by the time a baby is 2 years old. </p>
+      <p>Sometimes fluid leaks into the space, filling it like a small water balloon. This is a <a href="http://www.webmd.com/men/hydroceles" onclick="return sl(this,'','embd-lnk');">hydrocele</a> <a href="http://www.webmd.com/men/hydroceles" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>. When the space closes up and traps the fluid inside, it's called a noncommunicating hydrocele. Usually, the body absorbs the fluid over time.</p>
+      <p>If the space doesn't close up the way it should, the fluid moves back and forth between the scrotum and the belly area. This is called a communicating hydrocele. The swelling comes and goes. This problem is usually fixed with surgery to help prevent a <a href="http://www.webmd.com/hw-popup/hernia" onclick="return sl(this,'hw','embd-lnk');">hernia</a> in the groin. </p>
+      <p>Another type of hydrocele is a hydrocele of the <a href="http://www.webmd.com/hw-popup/spermatic-cord" onclick="return sl(this,'hw','embd-lnk');">spermatic cord</a>. It is located higher up in the scrotum. The fluid is usually absorbed within a few months and at the latest by age 1 or 2. A hydrocele of the cord may be mistaken for an <a href="http://www.webmd.com/hw-popup/inguinal-hernia" onclick="return sl(this,'hw','embd-lnk');">inguinal hernia</a>.</p>
+      <h3>What are the symptoms?</h3>
+      <p>The usual symptom is a swollen scrotum. The swelling does not hurt. If your child seems to be in pain, call the doctor. Pain may mean that your child has a hernia or other problem.</p>
+      <h3>How is a congenital hydrocele diagnosed?</h3>
+      <p>Doctors diagnose a congenital hydrocele during a <a href="http://www.webmd.com/a-to-z-guides/annual-physical-examinations" onclick="return sl(this,'','embd-lnk');">physical exam</a> that includes questions about the child's health. The swelling is often easy to see, so the hydrocele is typically not hard to identify. But the doctor will want to rule out other conditions.</p>
+      <h3>How is it treated?</h3>
+      <p>Most of the time, all you need to do is watch for changes in the swelling. If the swelling gets bigger or if it comes and goes, tell your doctor. </p>
+      <p>Your child may need surgery to remove the fluid if:</p>
+      <ul>
+       <li>He still has the hydrocele at age 2.</li>
+       <li>The swelling comes and goes.</li>
+       <li>The swelling causes pain.</li>
+       <li>The swelling gets worse.</li>
+      </ul>
+      <p> If surgery is needed, the doctor or nurse will give your child medicine to make him or her <a href="http://www.webmd.com/sleep-disorders/default.htm" onclick="return sl(this,'','embd-lnk');">sleep</a>. A small cut (incision) will be made in the groin area. At the end of the surgery, the cut will be stitched up. The doctor may ask you if you want him or her to check the opposite groin area for a hydrocele or other problem during the same surgery. After surgery, you'll need to care for the groin incision and watch for signs of infection.</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: December 28, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-topic-overview">Topic Overview</option><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-related-information">Related Information</option><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-references">References</option><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Congenital Hydrocele Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-frequently-asked-questions" onclick="return sl(this,'','topicNav_2');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-other-places-to-get-help" onclick="return sl(this,'','topicNav_3');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-related-information" onclick="return sl(this,'','topicNav_4');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-references" onclick="return sl(this,'','topicNav_5');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocele-credits" onclick="return sl(this,'','topicNav_6');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1570926372&amp;tile=1420827437&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2786&amp;scent=1190&amp;pos=5000&amp;xpg=3545&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fparenting%2fbaby%2ftc%2fcongenital-hydrocele-topic-overview&amp;artid=091e9c5e807f0ea1&amp;inst=0&amp;leaf=2790&amp;cc=16&amp;tmg=1&amp;bc=_age11_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1570926372&amp;amp;tile=1420827437&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2786&amp;amp;scent=1190&amp;amp;pos=5000&amp;amp;xpg=3545&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fparenting%2fbaby%2ftc%2fcongenital-hydrocele-topic-overview&amp;amp;artid=091e9c5e807f0ea1&amp;amp;inst=0&amp;amp;leaf=2790&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age11_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3545";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1570926372&amp;tile=1420827437&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2786&amp;scent=1190&amp;pos=5001&amp;xpg=3545&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fparenting%2fbaby%2ftc%2fcongenital-hydrocele-topic-overview&amp;artid=091e9c5e807f0ea1&amp;inst=0&amp;leaf=2790&amp;cc=16&amp;tmg=1&amp;bc=_age11_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1570926372&amp;amp;tile=1420827437&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2786&amp;amp;scent=1190&amp;amp;pos=5001&amp;amp;xpg=3545&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fparenting%2fbaby%2ftc%2fcongenital-hydrocele-topic-overview&amp;amp;artid=091e9c5e807f0ea1&amp;amp;inst=0&amp;amp;leaf=2790&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age11_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3545";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

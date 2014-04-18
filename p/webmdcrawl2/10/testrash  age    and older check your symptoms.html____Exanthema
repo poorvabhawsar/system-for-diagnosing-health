@@ -1,0 +1,2112 @@
+<title>Rash, Age 12 and Older-Check Your Symptoms</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/shingles-chickenpox" onclick="return sl(this,'','tools-res_1');"> What Causes Shingles?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent1209&amp;ch=18" onclick="return sl(this,'','tools-res_2');">Signs of Gum Disease</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://teens.webmd.com/rm-quiz-teen-acne" onclick="return sl(this,'','tools-res_3');">Teen Acne: Myths and Facts</a></li>
+      <li id="x59"><a href="https://www.webmd.com/lupus/d2n-coping-with-lupus-11/default.htm?scene=morning&amp;vid=5" onclick="return sl(this,'','tools-res_4');">Skin Care for Lupus</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/skin-problems-and-treatments/psoriasis/psoriasis-health-check/psoriasis-hc" onclick="return sl(this,'','tools-res_5');">Psoriasis? Assess Your Symptoms</a></li>
+      <li id="x61"><a href="http://www.webmd.com/skin-problems-and-treatments/teen-acne-10/clear-skin-slideshow" class="type_ss" onclick="return sl(this,'','tools-res_6');">16 Tips for Clear Skin<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionset.js">
+</script> 
+   <div class="HW_checkSymptoms_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="rightHeader_rdr"> 
+      <div class="font_sizer_fmt"> 
+       <div class="font_sizer_text_fmt">
+        Font Size
+       </div> 
+       <div class="font_sizer_001_fmt"> 
+       </div> 
+       <div id="fs_01" class="font_sizer_002b_fmt"> 
+        <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+       </div> 
+       <div id="fs_02" class="font_sizer_002a_fmt"> 
+        <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+       </div> 
+       <div id="fs_03" class="font_sizer_002a_fmt"> 
+        <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+       </div> 
+       <div class="font_sizer_003_fmt"> 
+       </div> 
+      </div> 
+      <div class="topicArtNav_rdr" id="TopicListCenter"> 
+       <div class="header_fmt"> 
+        <h4>Rash,Age 12 and Older Topics </h4> 
+       </div> 
+       <ul class="topicList_fmt"> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview" onclick="return sl(this,'','aia-topicNav_1');">Topic Overview</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms" onclick="return sl(this,'','aia-topicNav_2');">Check Your Symptoms</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-home-treatment" onclick="return sl(this,'','aia-topicNav_3');">Home Treatment</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-prevention" onclick="return sl(this,'','aia-topicNav_4');">Prevention</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-preparing-for-your-appointment" onclick="return sl(this,'','aia-topicNav_5');">Preparing For Your Appointment</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-related-information" onclick="return sl(this,'','aia-topicNav_6');">Related Information</a> </li> 
+        <li> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-credits" onclick="return sl(this,'','aia-topicNav_7');">Credits</a> </li> 
+       </ul> 
+      </div> 
+      <script language="javascript" type="text/javascript">
+				highlightCenter();
+	</script> 
+     </div> 
+     <h2>Rash,Age 12 and Older - Check Your Symptoms</h2> 
+     <div class="moduleSpacer_rdr"> 
+     </div> 
+     <div id="head"> 
+      <div id="step1_head"> 
+       <div id="step1_blurb"> 
+        <p>If you answer yes to any of the following questions, click on the &quot;Yes&quot; in front of the question for information about how soon to see a health professional.</p> 
+        <p>Review health risks that may increase the seriousness of your symptoms.</p> 
+       </div> 
+      </div> 
+      <div id="step2_head" style="display:none;"> 
+       <div id="step2_q1_blurb" style="display:none;"> 
+        <p>See significance of tiny purple or red spots if you need information to help you answer the questions below.</p> 
+        <p>Review health risks that may increase the seriousness of your symptoms.</p> 
+       </div> 
+       <div id="step2_q2_blurb" style="display:none;"> 
+        <p>See significance of a rash with a fever if you need information to help you answer the questions below.</p> 
+        <p>Review health risks that may increase the seriousness of your symptoms.</p> 
+       </div> 
+       <div id="step2_q3_blurb" style="display:none;"> 
+        <p>See significance of a generalized rash if you need information to help you answer the questions below.</p> 
+        <p>Review health risks that may increase the seriousness of your symptoms.</p> 
+       </div> 
+       <div id="step2_q4_blurb" style="display:none;"> 
+        <p>See significance of a rash caused by a medicine if you need information to help you answer the questions below.</p> 
+        <p>Review health risks that may increase the seriousness of your symptoms.</p> 
+       </div> 
+       <div id="step2_q5_blurb" style="display:none;"> 
+        <p>See significance of a rash and signs of infection if you need information to help you answer the questions below.</p> 
+        <p>Review health risks that may increase the seriousness of your symptoms.</p> 
+       </div> 
+       <div id="step2_q6_blurb" style="display:none;"> 
+        <p>See significance of a localized rash if you need information to help you answer the questions below.</p> 
+        <p>Review health risks that may increase the seriousness of your symptoms.</p> 
+       </div> 
+       <div id="step2_q7_blurb" style="display:none;"> 
+        <p>See significance of itching if you need information to help you answer the questions below.</p> 
+        <p>Review health risks that may increase the seriousness of your symptoms.</p> 
+       </div> 
+      </div> 
+      <div id="step3_head" style="display:none;"> 
+       <div id="step3_blurb"> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="tabLevel"> 
+      <div id="step1Tab" class="tab1_fmt">
+       Step One
+      </div> 
+      <div id="step1TabB" class="tab1_fmt" style="display:none;"> 
+       <a href="#" onclick="javascript:controlSymptomTabs('step1');">Step One</a> 
+      </div> 
+      <div> 
+      </div> 
+      <div id="step2Tab" class="tabGray_fmt">
+       Step Two
+      </div> 
+      <div id="step2TabB" class="tab_fmt" style="display:none;"> 
+       <a href="#" onclick="javascript:controlSymptomTabs('step2');">Step Two</a> 
+      </div> 
+      <div> 
+      </div> 
+      <div id="step3Tab" class="tabGray_fmt">
+       Step Three
+      </div> 
+     </div> 
+     <div id="step1" class="fontDefault_fmt"> 
+      <div class="boundingBox_fmt"> 
+       <div class="highlightBox_fmt"> 
+        <table border="0"> 
+         <tbody>
+          <tr> 
+           <td align="left" valign="top"> <b>Note: </b> </td> 
+           <td> <p>If you have any of the following symptoms, evaluate those symptoms first.</p> 
+            <ul> 
+             <li>You have hives or suspect an allergic reaction: Go to the topic Allergic Reaction.</li> 
+             <li>Your rash began after a tick bite, spider bite, or insect bite or sting: Go to the topic Tick Bites or Insect Bites and Stings and Spider Bites.</li> 
+            </ul> </td> 
+          </tr> 
+         </tbody>
+        </table> 
+        <div class="dashed_fmt"> 
+        </div> 
+        <div class="rightButton_fmt"> 
+         <div class="wmdButton"> 
+          <table cellpadding="0" cellspacing="0" border="0"> 
+           <tbody> 
+            <tr class="t"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="c"> 
+             <td class="l"> </td> 
+             <td class="m"> <a href="javascript:advanceNextStep('step2','step2','qu_1','step2_head','step2_qu1_blurb');">Yes</a> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="b"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+         </div> 
+        </div> 
+        <p class="symptomQuestion_fmt">Do you have bruises (purpura) or tiny purple or red blood spots (petechiae) under the skin?</p> 
+        <div class="dashed_fmt"> 
+        </div> 
+        <div class="rightButton_fmt"> 
+         <div class="wmdButton"> 
+          <table cellpadding="0" cellspacing="0" border="0"> 
+           <tbody> 
+            <tr class="t"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="c"> 
+             <td class="l"> </td> 
+             <td class="m"> <a href="javascript:advanceNextStep('step2','step2','qu_2','step2_head','step2_qu2_blurb');">Yes</a> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="b"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+         </div> 
+        </div> 
+        <p class="symptomQuestion_fmt">Do you have a rash with a fever?</p> 
+        <div class="dashed_fmt"> 
+        </div> 
+        <div class="rightButton_fmt"> 
+         <div class="wmdButton"> 
+          <table cellpadding="0" cellspacing="0" border="0"> 
+           <tbody> 
+            <tr class="t"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="c"> 
+             <td class="l"> </td> 
+             <td class="m"> <a href="javascript:advanceNextStep('step2','step2','qu_3','step2_head','step2_qu3_blurb');">Yes</a> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="b"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+         </div> 
+        </div> 
+        <p class="symptomQuestion_fmt">Do you have a generalized rash?</p> 
+        <div class="dashed_fmt"> 
+        </div> 
+        <div class="rightButton_fmt"> 
+         <div class="wmdButton"> 
+          <table cellpadding="0" cellspacing="0" border="0"> 
+           <tbody> 
+            <tr class="t"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="c"> 
+             <td class="l"> </td> 
+             <td class="m"> <a href="javascript:advanceNextStep('step2','step2','qu_4','step2_head','step2_qu4_blurb');">Yes</a> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="b"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+         </div> 
+        </div> 
+        <p class="symptomQuestion_fmt">Do you think your rash may be caused by a medicine?</p> 
+        <div class="dashed_fmt"> 
+        </div> 
+        <div class="rightButton_fmt"> 
+         <div class="wmdButton"> 
+          <table cellpadding="0" cellspacing="0" border="0"> 
+           <tbody> 
+            <tr class="t"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="c"> 
+             <td class="l"> </td> 
+             <td class="m"> <a href="javascript:advanceNextStep('step2','step2','qu_5','step2_head','step2_qu5_blurb');">Yes</a> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="b"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+         </div> 
+        </div> 
+        <p class="symptomQuestion_fmt">Do you have a rash and signs of a skin infection?</p> 
+        <div class="dashed_fmt"> 
+        </div> 
+        <div class="rightButton_fmt"> 
+         <div class="wmdButton"> 
+          <table cellpadding="0" cellspacing="0" border="0"> 
+           <tbody> 
+            <tr class="t"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="c"> 
+             <td class="l"> </td> 
+             <td class="m"> <a href="javascript:advanceNextStep('step2','step2','qu_6','step2_head','step2_qu6_blurb');">Yes</a> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="b"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+         </div> 
+        </div> 
+        <p class="symptomQuestion_fmt">Do you have a localized rash in one area of the body?</p> 
+        <div class="dashed_fmt"> 
+        </div> 
+        <div class="rightButton_fmt"> 
+         <div class="wmdButton"> 
+          <table cellpadding="0" cellspacing="0" border="0"> 
+           <tbody> 
+            <tr class="t"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="c"> 
+             <td class="l"> </td> 
+             <td class="m"> <a href="javascript:advanceNextStep('step2','step2','qu_7','step2_head','step2_qu7_blurb');">Yes</a> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="b"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+           </tbody> 
+          </table> 
+         </div> 
+        </div> 
+        <p class="symptomQuestion_fmt">Do you have itching?</p> 
+       </div> 
+      </div> 
+     </div> 
+     <div id="step2" class="fontDefault_fmt" style="display:none;"> 
+      <div id="qu_1"> 
+       <div class="boundingBox_fmt"> 
+        <div class="highlightBox_fmt"> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Have you had any abnormal bleeding within the last 12 hours?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have other signs of a serious illness? These symptoms may include:Severe neck stiffness or pain.Confusion or extreme irritability.Very sleepy and hard to wake up.Fever.Ongoing nausea or vomiting.Eyes very sensitive to light (photophobia).Unsteady on your feet that keeps you from standing or walking (ataxia or vertigo).New double vision, blurred vision, or blind spots in your vision.Very rapid, difficult breathing.Severe pain.New and different skin rash or severe bruises.</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have many new tiny purple or red spots (petechiae) or bruises without other symptoms?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <p> If you have answered <b>&quot;No&quot;</b> to the above questions, go back to <b>Check Your Symptoms</b> and continue to answer the questions to evaluate your symptoms. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="qu_2"> 
+       <div class="boundingBox_fmt"> 
+        <div class="highlightBox_fmt"> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have a fever of or higher?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you think that you have a high fever but you are not able to measure your temperature?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have a fever and any signs of a serious illness?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Have you developed a rash that looks like a sunburn with a fever higher than ?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Have you developed a rash that looks like a sunburn and you think you have a moderate fever but you are not able to measure your temperature?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you know or think you have a fever?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <p> If you have answered <b>&quot;No&quot;</b> to the above questions, go back to <b>Check Your Symptoms</b> and continue to answer the questions to evaluate your symptoms. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="qu_3"> 
+       <div class="boundingBox_fmt"> 
+        <div class="highlightBox_fmt"> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have a red rash that peels skin away, leaving very large areas of tissue that weep or ooze fluid?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Have you developed a rash that looks like a sunburn with a fever higher than ?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Have you developed a rash that looks like a sunburn and you think you have a moderate fever, but you are unable to measure your temperature?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Is your rash painful?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s4', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have a rash that has not gotten better after 2 weeks?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <p> If you have answered <b>&quot;No&quot;</b> to the above questions, go back to <b>Check Your Symptoms</b> and continue to answer the questions to evaluate your symptoms. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="qu_4"> 
+       <div class="boundingBox_fmt"> 
+        <div class="highlightBox_fmt"> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Has a hivelike rash that covers all or most of your body appeared over the past 1 to 3 hours?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Has swelling in your mouth or throat appeared within the past 1 to 3 hours but you do not have trouble breathing?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you think your rash may be caused by a medicine?Note: If your answer is Yes:Call the doctor who prescribed the medicine to determine whether you should stop taking the medicine or take a different one. An appointment may not be necessary. Do not take another dose of the medicine until you have spoken to your doctor.If you are taking a nonprescription medicine or an herbal remedy, stop taking the medicine. Call your doctor if you feel you need to continue taking the medicine.</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <p> If you have answered <b>&quot;No&quot;</b> to the above questions, go back to <b>Check Your Symptoms</b> and continue to answer the questions to evaluate your symptoms. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="qu_5"> 
+       <div class="boundingBox_fmt"> 
+        <div class="highlightBox_fmt"> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have diabetes?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have peripheral arterial disease?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have a disease or take medicine that causes problems with your immune system?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s1', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have red streaks spreading from the rash?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have increased pain, swelling, redness, or warmth around the rash?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Is the area around your rash more tender to the touch?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have pus in or around the rash?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you know or think you have a fever?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have a rash with honey-colored drainage which dries into crusts and covers an area larger than ?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s3', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Have you had mild pain and swelling with redness less than around the rash for longer than 24 hours?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s3', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Have you had swollen glands (lymph nodes) in the neck, armpit, or groin for longer than 72 hours?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <p> If you have answered <b>&quot;No&quot;</b> to the above questions, go back to <b>Check Your Symptoms</b> and continue to answer the questions to evaluate your symptoms. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="qu_6"> 
+       <div class="boundingBox_fmt"> 
+        <div class="highlightBox_fmt"> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have painful blisters in a band around one side of the chest, abdomen, or face or down one arm or leg?Note: Call your doctor as soon as possible. If shingles is causing your symptoms, there may be a medicine you can take that will relieve the pain and limit the rash. Medicines are most effective if begun within 2 to 3 days of the start of the rash.</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Are you sexually active and you have a rash or sore in the genital area?Note: If you think that you have been exposed to a sexually transmitted disease (STD), it is important to be checked right away by your doctor. This will help prevent serious health problems for you and will lower the chance of spreading the infection to others. Do not have sexual contact while waiting for your appointment. This will lower the chance of spreading a disease to your partner. Your partner may need to be checked as well.Do not douche. Douching may flush an infection up into the uterus or fallopian tubes and cause pelvic inflammatory disease (PID). Many STD symptoms will go away or change quickly. This does not mean that the STD has gone away. It will be harder for your doctor to diagnose your STD after the symptoms have changed. A delay in being checked may lead to a more serious problem.</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s3', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have a ring-like rash?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s4', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Have you had a skin sore or ulcer for longer than 1 week?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s4', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have a rash that has not improved after 2 weeks?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s4', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have a mild rash that has lasted longer than 1 week?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s4', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Is a rash that has been checked by a doctor not following the expected course?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <p> If you have answered <b>&quot;No&quot;</b> to the above questions, go back to <b>Check Your Symptoms</b> and continue to answer the questions to evaluate your symptoms. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="qu_7"> 
+       <div class="boundingBox_fmt"> 
+        <div class="highlightBox_fmt"> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have a painful rash with severe itching?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Is severe itching stopping your usual activities or preventing sleep even after 12 hours of home treatment?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s2', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have new patches of itchy, oozing rash?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s3', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have moderate itching after 48 hours of home treatment?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s3', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have moderate to mild itching that has not gotten better after 1 week of home treatment?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s4', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Have you had itching for longer than 1 week?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="rightButton_fmt"> 
+          <div class="wmdButton"> 
+           <table cellpadding="0" cellspacing="0" border="0"> 
+            <tbody> 
+             <tr class="t"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="c"> 
+              <td class="l"> </td> 
+              <td class="m"> <a href="javascript:advanceNextStep('step3','step3','s4', 'step3_head','step3_blurb');">Yes</a> </td> 
+              <td class="r"> </td> 
+             </tr> 
+             <tr class="b"> 
+              <td class="l"> </td> 
+              <td class="m"> </td> 
+              <td class="r"> </td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <p class="symptomQuestion_fmt">Do you have patches of itchy rash that have not been checked by a doctor or have gotten worse since being checked?</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <p> If you have answered <b>&quot;No&quot;</b> to the above questions, go back to <b>Check Your Symptoms</b> and continue to answer the questions to evaluate your symptoms. </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div id="step3" class="fontDefault_fmt" style="display:none;"> 
+      <div id="s1" style="display:none"> 
+       <div class="boundingBox_fmt"> 
+        <div class="highlightBox_fmt"> 
+         <div class="iconTitle_fmt"> 
+          <div class="icon_fmt"> 
+           <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/red.gif" width="20" height="20" alt="Call Immediately" /> 
+          </div> 
+          <div class="instructions_fmt">
+           Call your health professional immediately.
+          </div> 
+         </div> 
+         <div class="clearBoth_fmt"> 
+         </div> 
+         <p>You have answered &quot;Yes&quot; to a question that indicates you may need immediate care. Call your health professional now to discuss your symptoms and arrange for your care.</p> 
+         <ul> 
+          <li>Symptoms are likely to worsen without medical care.</li> 
+          <li>If you do not have a health professional, seek emergency care.</li> 
+          <li>Emergency transportation is not needed. However, if you are not able to travel safely either by driving yourself or having someone else drive you, call an ambulance.</li> 
+         </ul> 
+         <p>You do not need to answer any of the other questions.</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="space_fmt"> 
+         </div> 
+         <div class="wmdButton"> 
+          <table cellpadding="0" cellspacing="0" border="0"> 
+           <tbody>
+            <tr class="t"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="c"> 
+             <td class="l"> </td> 
+             <td class="m"> <a href="http://doctor.webmd.com/physician_finder/home.aspx?sponsor=core" onclick="return sl(this,'','embd-lnk');">physician directory</a> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="b"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="s2" style="display:none"> 
+       <div class="boundingBox_fmt"> 
+        <div class="highlightBox_fmt"> 
+         <div class="iconTitle_fmt"> 
+          <div class="icon_fmt"> 
+           <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/yellow.gif" width="20" height="20" alt="Call Today" /> 
+          </div> 
+          <div class="instructions_fmt">
+           Call your health professional today.
+          </div> 
+         </div> 
+         <div class="clearBoth_fmt"> 
+         </div> 
+         <p>You have answered &quot;Yes&quot; to a question that indicates you need to call your health professional to discuss your symptoms and arrange for care.</p> 
+         <ul> 
+          <li>An appointment today is usually needed.</li> 
+          <li>Symptoms are unlikely to improve without medical care.</li> 
+         </ul> 
+         <p>Return to the Check Your Symptoms section and answer the questions. You may need to see a health professional sooner if you have other more serious symptoms.</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="space_fmt"> 
+         </div> 
+         <div class="wmdButton"> 
+          <table cellpadding="0" cellspacing="0" border="0"> 
+           <tbody>
+            <tr class="t"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="c"> 
+             <td class="l"> </td> 
+             <td class="m"> <a href="http://doctor.webmd.com/physician_finder/home.aspx?sponsor=core" onclick="return sl(this,'','embd-lnk');">physician directory</a> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="b"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="s3" style="display:none"> 
+       <div class="boundingBox_fmt"> 
+        <div class="highlightBox_fmt"> 
+         <div class="iconTitle_fmt"> 
+          <div class="icon_fmt"> 
+           <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/green.gif" width="20" height="20" alt="Wait" /> 
+          </div> 
+          <div class="instructions_fmt">
+           You may wait to see if the symptoms improve over the next 24 hours.
+          </div> 
+         </div> 
+         <div class="clearBoth_fmt"> 
+         </div> 
+         <p>You have answered &quot;Yes&quot; to a question that indicates you may wait to see if your symptoms improve over the next 24 hours (or the specified time period). If symptoms improve, no appointment is needed.</p> 
+         <ul> 
+          <li>If symptoms do not improve after 24 hours (or the specified time period), an appointment within the next 24 hours is usually needed.</li> 
+          <li>If appropriate, try home treatment to relieve your symptoms.</li> 
+          <li>Check your symptoms in 24 hours, or sooner if there is any change.</li> 
+          <li>Call your health professional if symptoms get worse.</li> 
+         </ul> 
+         <p>Return to the Check Your Symptoms section and answer the questions. You may need to see a health professional sooner if you have other more serious symptoms.</p> 
+         <div class="dashed_fmt"> 
+         </div> 
+         <div class="space_fmt"> 
+         </div> 
+         <div class="wmdButton"> 
+          <table cellpadding="0" cellspacing="0" border="0"> 
+           <tbody>
+            <tr class="t"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="c"> 
+             <td class="l"> </td> 
+             <td class="m"> <a href="http://doctor.webmd.com/physician_finder/home.aspx?sponsor=core" onclick="return sl(this,'','embd-lnk');">physician directory</a> </td> 
+             <td class="r"> </td> 
+            </tr> 
+            <tr class="b"> 
+             <td class="l"> </td> 
+             <td class="m"> </td> 
+             <td class="r"> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="moduleSpacer_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_fmt"> 
+    </div> 
+    <div class="subheaderBar_fmt">
+     Other Symptoms to Watch For
+    </div> 
+    <div class="moduleSpacer_fmt"> 
+    </div> 
+    <div class="articleLinks_fmt"> 
+     <p class="articleLinkstopQuestion_fmt"></p> 
+    </div> 
+    <div class="mainContentSectionFooter_fmt"> 
+    </div> 
+    <div class="selfCare_fmt"> 
+     <p>Review health risks that may increase the seriousness of your symptoms.</p> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+      <div class="outline_fmt"> 
+       <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms">&lt; Previous <strong>Page</strong></a> 
+      </div> 
+     </div> 
+     <div class="right_fmt"> 
+      <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms">1</a> 
+      <span class="pipe_fmt">|</span> 
+      <span class="current_fmt">2</span> 
+      <style type="text/css">
+						.pagination_fmt .center_fmt { width: 375px !important;}
+						</style> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attributionTR_rdr"> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+      <div class="outline_fmt"> 
+       <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms">&lt; Previous </a> 
+      </div> 
+     </div> 
+     <div class="right_fmt"> 
+      <span class="pages_fmt"> <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms">1</a> <span class="pipe_fmt">|</span> <span class="current_fmt">2</span> </span> 
+      <div class="outline_fmt right"> 
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a> 
+      </div> 
+      <style type="text/css">
+                            .pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style> 
+     </div> 
+    </div> 
+   </div> 
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Check Your Symptoms',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-prevention'
+			});
+            
+			topics.push({
+			title : 'Preparing For Your Appointment',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-preparing-for-your-appointment'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-related-information'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+	
+	/* Secondary pages with no data move to the next page.  */
+
+
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: February 21, 2012
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt"> 
+    <script type="text/javascript" language="javascript">
+				var externalUrlList = new Array(
+			'xxx');
+		</script> 
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview">Topic Overview</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-check-your-symptoms">Check Your Symptoms</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-home-treatment">Home Treatment</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-prevention">Prevention</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-preparing-for-your-appointment">Preparing For Your Appointment</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-related-information">Related Information</option><option value="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form> 
+   </div> 
+   <script type="text/javascript" language="JavaScript">
+				selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+		</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+				/* Array of Partner Names */
+				var partnerNames=[
+				"Good Housekeeping",
+				"Redbook",
+				"Esquire",
+				"Country Living",
+				"Marie Claire",
+				"Oxmoor House",
+				"\"Health",
+				"Southern Living",
+				"Psychology Today",
+				"EatingWell",
+				"DrGreene.com",
+				"Men's Health",
+				"Women's Health",
+				"Prevention",
+				"eDiets",
+				"Feature from \"body",
+				"Runner's World",
+				"Men's Fitness\" Magazine",
+				"Shape\" Magazine",
+				"Fit Pregnancy\" Magazine",
+				"Natural Health\" Magazine"
+				]
+				
+				/* Array of names that go with files in partners node */
+				var partnerScripts=[
+				"goodHousekeeping",
+				"redbook",
+				"esquire",
+				"countryLiving",
+				"marieClaire",
+				"cookingLight",
+				"health",
+				"southernLiving",
+				"psychToday",
+				"eatingWell",
+				"drGreene",
+				"mensHealth",
+				"womensHealth",
+				"prevention",
+				"eDiets",
+				"bodySoul",
+				"runnersWorld",
+				"mensFitness",
+				"shapeMag",
+				"fitPregnancy",
+				"naturalHealth"
+				]
+				
+				/* Variables for whether a partner exists and which one in the array it is */
+				var isThere;
+				var whichOne = -1;
+				
+				/* Pulls the pub source out of the XML */
+				var pubSource = 'Healthwise - Symptom';		  			  	
+				
+				/* Runs through the different partners and sees if one of them exists in the pub source */
+				for (var i=0; i <= partnerNames.length-1; i++) {
+					isThere = pubSource.search(partnerNames[i]);
+					if (isThere != -1)
+						{whichOne = i}
+				}
+								
+				/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+				if (whichOne != -1) {
+					
+					document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+				
+					var moduleCenter = "ContentPane8";
+					var moduleRight = "ContentPane25";
+					
+					addLoadEvent(function() {
+							document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+							document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+					})
+					
+				}
+				
+			</script> 
+   <script type="text/javascript">
+				if (document.getElementById("headerLinks_print")) { 
+				setClass('headerLinks_print','headerLinks_fmt_on');
+				};
+			</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+				#url_reference {display: none};
+				</style> 
+   <style media="print">
+				#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+				#logo_rdr img { visibility: visible; }
+				.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+				</style> 
+   <script type="text/javascript">
+					var insert1 = document.getElementById("ContentPane2");
+					var urlDiv = articleUrl();
+					if (insert1) {
+						insert1.appendChild(urlDiv);
+						}
+				</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="related_reading_rdr" id="rltd-p-1028"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" onclick="return sl(this,'','rltd-p-1028_1');">Skin Allergies? Don't Forget This Essential Item</a> </li> 
+     <li id="x63"> <a href="http://teens.webmd.com/rm-quiz-teen-acne" onclick="return sl(this,'','rltd-p-1028_2');">Myths and Facts About Teen Acne</a> </li> 
+     <li id="x64"> <a class="type_vid" href="http://lupus.webmd.com/d2n-coping-with-lupus-11/default.htm?scene=morning&amp;vid=5" onclick="return sl(this,'','rltd-p-1028_3');">Skin Care for Lupus<i> </i></a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/diabetes-skin-conditions" onclick="return sl(this,'','rltd-p-1028_4');">Diabetes? Prevent Common Skin Conditions</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/parenting/features/teaching-your-teen-about-skin-care" onclick="return sl(this,'','rltd-p-1028_5');">Skin Care Tips for Teens</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0610&amp;ch=8" onclick="return sl(this,'','rltd-p-1028_6');">What to Do About Yellowish Teeth</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1028_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806954d1" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806954d1</chronic_id><r_object_id>091e9c5e806954d1</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806954d1.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/04/2010 11:11:52</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Skin Problems Health Center/template_Skin Problems and Treatments Health Center_091e9c5e80033cdc.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80033cdc"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Hives</name><link_title>Hives</link_title><description>Hives are raised red bumps on the skin most often caused by an allergic reaction. Hives usually cause itching, but may also burn or sting. They can appear anywhere on the body, including the face, lips, tongue, throat, or ears. Hives vary in size (from the size of a pencil eraser to that of a dinner plate), and may join together to form larger areas known as plaques. Occasionally, hives can signal more serious problems, especially when accompanied by symptoms such as difficult breathing. Follow the links below to find WebMD's comprehensive coverage of hives, what they look like, how to treat them, and much more.</description><friendly_url>http://www.webmd.com/skin-problems-and-treatments/hives-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80668b27"><link_title>Slideshow: Scabies Symptoms, Cause, and Treatments</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/ss/slideshow-scabies-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802f29a0"><link_title>Picture of Pityriasis Rosea</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/toc-image-picture-of-pityriasis-rosea</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8032a480"><link_title>Slideshow: Baby Skin Care &#45;&#45; Simple Tips to Keep Baby's Skin Healthy</link_title><friendly_url>http://www.webmd.com/parenting/baby/ss/slideshow-baby-skin-care</friendly_url><thumbnail height="" width="" alt="Baby in bath">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/baby_skin_care/69x75_baby_skin_care.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8072ca85"><link_title>Slideshow: A Visual Guide to Eczema</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/eczema/ss/slideshow-eczema-overview</friendly_url><thumbnail height="" width="" alt="Eczema on arm">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/eczema_overview_slideshow/69x75_eczema_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804229da"><link_title>Picture of Urticaria</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-urticaria-wheals</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id=""><link_title>Can adult sunscreen lotion cause a rash on children?</link_title><friendly_url>http://answers.webmd.com/answers/1192995/can-adult-sunscreen-lotion-cause-a</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What are hives?</link_title><friendly_url>http://answers.webmd.com/answers/1179036/what-are-hives</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What does a rash from poisonous plants look like?</link_title><friendly_url>http://answers.webmd.com/answers/1180495/what-does-a-rash-from-poisonous</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804cb7b6"><link_title>Toilet Seat Dermatitis Making a Comeback</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20100125/toilet-seat-dermatitis-making-a-comeback</friendly_url><thumbnail height="" width="" alt="poop_dermatitis_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/01_2010/poop_dermatitis_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80511af4"><link_title>Chemical in Furniture Linked to Skin Rashes</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20100305/chemical-in-furniture-linked-to-skin-rashes</friendly_url><thumbnail height="" width="" alt="furniture_skin_rashes.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/03_2010/furniture_skin_rashes.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006b04"><link_title>Cleanliness May Not Be Next to Godliness When it Comes to Allergies, Asthma</link_title><friendly_url>http://www.webmd.com/allergies/news/20000211/cleanliness-may-not-next-godliness-when-comes-allergies-asthma</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006f37"><link_title>Allergy Symptoms Shouldn't Be Ignored</link_title><friendly_url>http://www.webmd.com/allergies/news/20000317/allergy-symptoms-ignored</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80008723"><link_title>How Will My Doctor Diagnose My Allergies?</link_title><friendly_url>http://www.webmd.com/allergies/guide/allergies-doctor-exam</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802117b5"><link_title>Yeast Infection Skin Rash Treatment</link_title><friendly_url>http://www.webmd.com/first-aid/yeast-infection-skin-rash-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801608ec"><link_title>What Causes Chronic Allergies?</link_title><friendly_url>http://www.webmd.com/allergies/guide/chronic-allergies-causes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000823c"><link_title>Poison Ivy, Oak, &amp; Sumac Symptoms</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/understanding-poison-ivy-oak-sumac-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800081aa"><link_title>Impetigo Symptoms</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/understanding-impetigo-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800083ce"><link_title>Diagnosing and Treating Eczema</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/eczema/understanding-eczema-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000835c"><link_title>Symptoms of Lyme Disease</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/understanding-lyme-disease-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8052b97f"><link_title>Nickel (Jewelry) Allergies: Symptoms, Treatments, and Avoiding Triggers</link_title><friendly_url>http://www.webmd.com/allergies/guide/nickel-jewelry-allergy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007bf3"><link_title>Common Skin Rashes</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/guide/common-rashes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001135b"><link_title>Latex Allergies</link_title><friendly_url>http://www.webmd.com/allergies/latex-allergy-treatments</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007836"><link_title>Childhood Skin Problems</link_title><friendly_url>http://www.webmd.com/children/childhood-skin-problems</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8062e64c"><link_title>Protect Your Child’s Skin From Irritants</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/features/childrens-skin</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80212433"><link_title>Allergy: Poison Ivy, Oak, and Sumac Treatment</link_title><friendly_url>http://www.webmd.com/first-aid/allergy-poison-ivy-oak-and-sumac-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80010d8c"><link_title>Life-Threatening Skin Rashes</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/life-threatening-skin-rashes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8021166b"><link_title>Skin Rashes in Children Treatment</link_title><friendly_url>http://www.webmd.com/children/skin-rashes-in-children-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000826e"><link_title>Understanding Treatment of Hives</link_title><friendly_url>http://www.webmd.com/allergies/understanding-hives-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000918d"><link_title>Common Allergy Triggers</link_title><friendly_url>http://www.webmd.com/allergies/guide/allergy-triggers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801028f8"><link_title>Pregnancy Skin Care: Get That Glow!</link_title><friendly_url>http://www.webmd.com/baby/features/pregnancy-skin-care-get-that-glow</friendly_url><thumbnail height="" width="" alt="Feature Get That Pregnancy Glow">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/August07/feature_get_that_pregnancy_glow.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/ss/slideshow-scabies-overview" onclick="return sl(this,'','td-rltd-art_1');">Slideshow: Scabies Symptoms, Cause, and Treatments</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/toc-image-picture-of-pityriasis-rosea" onclick="return sl(this,'','td-rltd-art_2');">Picture of Pityriasis Rosea</a></li>
+      <li><a href="http://answers.webmd.com/answers/1192995/can-adult-sunscreen-lotion-cause-a" onclick="return sl(this,'','td-rltd-art_3');">Can adult sunscreen lotion cause a rash on children?</a></li>
+      <li><a href="http://www.webmd.com/allergies/guide/allergies-doctor-exam" onclick="return sl(this,'','td-rltd-art_4');">How Will My Doctor Diagnose My Allergies?</a></li>
+      <li><a href="http://www.webmd.com/first-aid/yeast-infection-skin-rash-treatment" onclick="return sl(this,'','td-rltd-art_5');">Yeast Infection Skin Rash Treatment</a></li>
+      <li><a href="http://www.webmd.com/allergies/guide/chronic-allergies-causes" onclick="return sl(this,'','td-rltd-art_6');">What Causes Chronic Allergies?</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/understanding-poison-ivy-oak-sumac-symptoms" onclick="return sl(this,'','td-rltd-art_7');">Poison Ivy, Oak, &amp; Sumac Symptoms</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/skin-problems-and-treatments/hives-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Hives Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=133886959&amp;tile=1439468815&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1028&amp;scent=&amp;pos=5000&amp;xpg=6067&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fskin-problems-and-treatments%2ftc%2frash-age-12-and-older-check-your-symptoms&amp;artid=091e9c5e8001e656&amp;inst=0&amp;leaf=1243&amp;cc=16&amp;tmg=1&amp;bc=_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=133886959&amp;amp;tile=1439468815&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1028&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=6067&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fskin-problems-and-treatments%2ftc%2frash-age-12-and-older-check-your-symptoms&amp;amp;artid=091e9c5e8001e656&amp;amp;inst=0&amp;amp;leaf=1243&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "6067";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=133886959&amp;tile=1439468815&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1028&amp;scent=&amp;pos=5001&amp;xpg=6067&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fskin-problems-and-treatments%2ftc%2frash-age-12-and-older-check-your-symptoms&amp;artid=091e9c5e8001e656&amp;inst=0&amp;leaf=1243&amp;cc=16&amp;tmg=1&amp;bc=_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=133886959&amp;amp;tile=1439468815&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1028&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=6067&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fskin-problems-and-treatments%2ftc%2frash-age-12-and-older-check-your-symptoms&amp;amp;artid=091e9c5e8001e656&amp;amp;inst=0&amp;amp;leaf=1243&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "6067";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,568 @@
+<title>Toilet Training-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/parenting/features/inside-look-at-the-teen-brain" onclick="return sl(this,'','tools-res_1');">What Makes Your Teen Tick?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/bedwetting-solutions-12/default.htm" onclick="return sl(this,'','tools-res_2');">How to Stop Bedwetting</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" class="type_ss" onclick="return sl(this,'','tools-res_3');">Allergy Relief: What You Need<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/children/digestion-in-children-11/constipation-treatment" onclick="return sl(this,'','tools-res_4');">Treating Constipation in Kids</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/preventative-health-vaccines" onclick="return sl(this,'','tools-res_5');">Protect Your Kids: Get Your Shots</a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-strep-symptoms" onclick="return sl(this,'','tools-res_6');">Strep Throat Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80a799e5"><metadata_section><i_chronicle_id>091e9c5e8005b4d6</i_chronicle_id><r_object_id>091e9c5e80a799e5</r_object_id><title>Topic Overview</title><object_name>Toilet_Training-Topic_Overview.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80a799e5</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>tp16642</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Toilet Training-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>When should I start toilet training my child?Your child must be both physically and emotionally ready for toilet training. Most children are ready when they are between 22 and 30 months of age, although every child is different. Toilet training usually becomes a long and frustrating process if you try to start it before your child is ready. Before children can use the toilet, they must be able to </wbmd_desc_meta><wbmd_orig_pub_dt>03/24/2011 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>When should I start toilet training my child?Your child must be both physically and emotionally ready for toilet training. Most children are ready when they are between 22 and 30 months of age, although every child is different. Toilet training usually becomes a long and frustrating process if you try to start it before your child is ready. Before children can use the toilet, they must be able to </wbmd_desc_user><wbmd_lk_ttl>Toilet Training-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>developmental milestones, potty training</wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>F</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>Age.122</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80a799e5</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3547" wbmd_disp_nm="Parenting - Toddler (1 year to 2 years)"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1025" wbmd_disp_nm="Children"></wbmd_c_channel_id><wbmd_c_frnd_nm>Toilet-Training-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>SpecialSection</section_type><section_text><a name="tp16642"></a><h4>When should I start toilet training my child?</h4><p>Your child must be both physically and emotionally ready for
+			 <a bookmark="tb1021-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Toilet_training.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Toilet_training.xml">toilet training</a>. Most children are ready when they are
+			 between 22 and 30 months of age, although every child is different. Toilet
+			 training usually becomes a long and frustrating process if you try to start it
+			 before your child is ready. </p><p>Before children can use the toilet,
+			 they must be able to control their bowel and bladder muscles. Some signs of
+			 this control are having bowel movements around the same time each day, not
+			 having bowel movements at night, and having a dry diaper after a nap or for at
+			 least 2 hours at a time. Children must also be able to climb, talk, remove
+			 clothing, and have mastered other basic <a bookmark="zj1208-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Motor_skills_in_babies__zj1208.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Motor_skills_in_babies__zj1208.xml">motor skills</a> before they can use the
+			 toilet by themselves.</p><p> Most children are physically ready to
+			 toilet train before they are emotionally ready. Your child must want to use the
+			 toilet and be willing to cooperate with you. He or she may even talk about
+			 being a "big boy" or "big girl" and wearing underpants rather than diapers.
+			 Training generally does not go well if your child is in the stage where "no" is
+			 his or her automatic response to every request. </p><h4>How long does it take to toilet train?</h4><p>A child is
+			 considered toilet-trained when he or she knows that it is time to go to the
+			 bathroom and is able to climb onto and use the toilet with little help. In a
+			 study of children who started training between 22 and 30 months of age, boys
+			 were fully trained at an average age of 38 months, while girls were trained
+			 slightly earlier, around 36 months.<sup class="Reference"><a bookmark="ue5343" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training-References.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training-References.xml">1</a></sup></p><p>
+			 Your child will likely need help with wiping after a bowel movement until age 4
+			 or 5. He or she may also need extra help in unfamiliar bathrooms, such as
+			 public restrooms, until about age 5 or 6.</p><h4>What if my child resists?</h4><p>If your child resists
+			 using the toilet, he or she probably isn't ready. Sometimes toilet training
+			 disruptions or delays are caused by stress or major changes in routine. Also, a
+			 child who is doing well with toilet training may suddenly have difficulty for
+			 no obvious reason. This is a normal part of toilet training. It is best to
+			 start or resume toilet training when your child is receptive to it and in a
+			 stable environment. </p><p>Your child's toilet training experience
+			 should be positive. If it becomes a struggle or a battle of wills, it is best
+			 to ease up or stop for a while. Although you may be ready for toilet training,
+			 your child may not be.</p><p><b>Frequently Asked Questions</b></p><table cellpadding="0" cellspacing="0"><col><tr><td valign="top"><p><b>Learning about toilet training:</b></p></td><td valign="top"><ul><li><a document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training-What_Is_Normal.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training-What_Is_Normal.xml">When should I start toilet training my child?</a></li><li><a document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training-Common_Concerns.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training-Common_Concerns.xml">What are some common concerns?</a></li><li><a document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training-When_To_Call_a_Doctor.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training-When_To_Call_a_Doctor.xml">When should I call the doctor?</a></li><li><a document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training_Knowing_When_Your_Child_Is_Ready-Topic_Overview__ue5344-sec.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training_Knowing_When_Your_Child_Is_Ready-Topic_Overview__ue5344-sec.xml">How do I know when my child is physically and emotionally ready to begin toilet training?</a></li><li><a document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training-Home_Treatment.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/Toilet_Training-Home_Treatment.xml">How can I help my child learn to use the toilet?</a></li><li><a bookmark="ue5345-sec" document-type="Frame" href="/webmd/consumer_assets/controlled_content/healthwise/frame/Types_of_toddler_toilets.xml" directive="friendlyurl" chronic_id="091e9c5e8001c18a" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Types_of_toddler_toilets.xml">What kind of toddler toilets are there?</a></li></ul></td></tr></table></section_text></section_group></page></pages><citations></citations></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/children/tc/toilet-training-topic-overview" owner="false"><breadcrumb><bread piece="Children's Health" prefix="www" friendlyurl="/children/default.htm"></bread><bread piece="Children's Health Related Topics" prefix="www" friendlyurl="/children/tc/default.htm"></bread></breadcrumb><centers><Super id="859" name="super center" chronicid="091e9c5e80024767" prefix="www" friendlyurl="/children/default.htm" type="">Children's Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/children/tc/toilet-training-topic-overview" owner="false"><breadcrumb><bread piece="Children's Health" prefix="www" friendlyurl="/children/default.htm"></bread><bread piece="Children's Health Related Topics" prefix="www" friendlyurl="/children/tc/default.htm"></bread></breadcrumb><centers><Super id="11177" name="super center" chronicid="091e9c5e8068d722" prefix="www" friendlyurl="/children/default.htm" type="">Children</Super></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001c18a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Types_of_toddler_toilets.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/types-of-toddler-toilets"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/types-of-toddler-toilets"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><dynamic_objects><callout_title>Recommended Related to Children</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e6c996"><metadata_section><i_chronicle_id>091e9c5e80a75e16</i_chronicle_id><title>Treatment of Newly Diagnosed and Recurrent Childhood Spinal Cord Tumors</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>Tumors of many different cell types may form in the spinal cord. Low-grade spinal cord tumors usually do not spread. High-grade spinal cord tumors may spread to other places in the spinal cord or to the brain. See the following PDQ summaries for more information on staging and treatment of newly diagnosed and recurrent childhood spinal cord tumors:
+
+  Childhood Astrocytomas Treatment
+  Childhood Central Nervous System Embryonal Tumors Treatment
+  Childhood Ependymoma Treatment
+</p></section_text><link siteid="3" prefix="www" friendlyurl="/cancer/tc/ncicdr0000257997-treatment-of-newly-diagnosed-and-recurrent-childhood-spinal-cord-tumors"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3></h3>
+      <a name="tp16642"></a>
+      <h4>When should I start toilet training my child?</h4>
+      <p>Your child must be both physically and emotionally ready for toilet training. Most children are ready when they are between 22 and 30 months of age, although every child is different. Toilet training usually becomes a long and frustrating process if you try to start it before your child is ready. </p>
+      <p>Before children can use the toilet, they must be able to control their bowel and bladder muscles. Some signs of this control are having bowel movements around the same time each day, not having bowel movements at night, and having a dry diaper after a nap or for at least 2 hours at a time. Children must also be able to climb, talk, remove clothing, and have mastered other basic motor skills before they can use the toilet by themselves.</p>
+      <p> Most children are physically ready to toilet train before they are emotionally ready. Your child must want to use the toilet and be willing to cooperate with you. He or she may even talk about being a &quot;big boy&quot; or &quot;big girl&quot; and wearing underpants rather than diapers. Training generally does not go well if your child is in the stage where &quot;no&quot; is his or her automatic response to every request. </p>
+      <h4>How long does it take to toilet train?</h4>
+      <p>A child is considered toilet-trained when he or she knows that it is time to go to the bathroom and is able to climb onto and use the toilet with little help. In a study of children who started training between 22 and 30 months of age, boys were fully trained at an average age of 38 months, while girls were trained slightly earlier, around 36 months.<sup class="Reference">1</sup></p>
+      <p> Your child will likely need help with wiping after a bowel movement until age 4 or 5. He or she may also need extra help in unfamiliar bathrooms, such as public restrooms, until about age 5 or 6.</p>
+      <h4>What if my child resists?</h4>
+      <p>If your child resists using the toilet, he or she probably isn't ready. Sometimes toilet training disruptions or delays are caused by stress or major changes in routine. Also, a child who is doing well with toilet training may suddenly have difficulty for no obvious reason. This is a normal part of toilet training. It is best to start or resume toilet training when your child is receptive to it and in a stable environment. </p>
+      <p>Your child's toilet training experience should be positive. If it becomes a struggle or a battle of wills, it is best to ease up or stop for a while. Although you may be ready for toilet training, your child may not be.</p>
+      <p><b>Frequently Asked Questions</b></p>
+      <table cellpadding="0" cellspacing="0">
+       <colgroup>
+        <col />
+       </colgroup>
+       <tbody>
+        <tr>
+         <td valign="top"><p><b>Learning about toilet training:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li>When should I start toilet training my child?</li>
+           <li>What are some common concerns?</li>
+           <li>When should I call the doctor?</li>
+           <li>How do I know when my child is physically and emotionally ready to begin toilet training?</li>
+           <li>How can I help my child learn to use the toilet?</li>
+           <li><a href="http://www.webmd.com/parenting/types-of-toddler-toilets" onclick="return sl(this,'hw','embd-lnk');">What kind of toddler toilets are there?</a></li>
+          </ul></td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+		
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: March 24, 2011
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-859"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/parenting/bedwetting-solutions-12/bedwetting-stress-anxiety" onclick="return sl(this,'','rltd-p-859_1');">Can Stress Lead to Bedwetting?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/healthy-aging/drug-costs-12/save-money-prescription-drugs" onclick="return sl(this,'','rltd-p-859_2');">How to Save Money on Prescriptions</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/parenting/answers-health/answers-sick-from-school" onclick="return sl(this,'','rltd-p-859_3');">When Is a Child Too Sick for School?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0812&amp;ch=3" onclick="return sl(this,'','rltd-p-859_4');">How Important Is Fluoride for Kids' Teeth?</a> </li> 
+     <li id="x66"> <a href="http://children.webmd.com/digestion-in-children-11/fiber-rich-lunch" onclick="return sl(this,'','rltd-p-859_5');">Fiber-Rich Lunch Ideas for Kids</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0001" onclick="return sl(this,'','rltd-p-859_6');">What Causes Ringworm?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-859_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e808b8d13" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb82</chronic_id><r_object_id>091e9c5e808b8d13</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8068fb82.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/12/2011 11:02:27</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Childrens Health Portal Template/template_Childrens Health Portal Template_091e9c5e80024677.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80024677"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Toddlers</name><link_title>Toddlers</link_title><description>Once your child begins to walk, he or she is considered a toddler. Although toddlers are still very attached to their caregivers, they want to do things on their own and according to their own wishes. This sets the stage for conflict, confusion, and occasional breakdowns. There is a reason the toddler stage is also called the "terrible twos."  Follow the links below to find WebMD's comprehensive coverage about toddlers, how to handle temper tantrums, keep toddlers safe, help them grow, and much more.</description><friendly_url>http://www.webmd.com/parenting/toddler-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e802fda01"><link_title>Slideshow: Toddler Milestones &#45;&#45; Your Child's Second Year of Development</link_title><friendly_url>http://www.webmd.com/parenting/ss/slideshow-toddler-milestones-second-year</friendly_url><thumbnail height="" width="" alt="toddler climbing">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/toddler_milestones_2nd_year_slideshow/69x75_toddler_milestones_2nd_year_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800eb8ce"><link_title>Your Toddler Says 'No'? It's Healthy</link_title><friendly_url>http://www.webmd.com/parenting/news/20070723/your-toddler-says-no-its-healthy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fe30"><link_title>1.2 Million Graco Toddler Beds Recalled</link_title><friendly_url>http://www.webmd.com/parenting/news/20050322/graco-toddler-beds-recalled</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8069fe88"><link_title>3- to 4-Year-Old Developmental Milestones: Cognitive, Language, and Motor Skills</link_title><friendly_url>http://www.webmd.com/parenting/guide/3-to-4-year-old-milestones</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000c79e"><link_title>The Resurgence of the House Call</link_title><friendly_url>http://www.webmd.com/parenting/news/20010420/resurgence-of-house-call</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cefa"><link_title>Paper Shredders May Hurt Kids' Hands</link_title><friendly_url>http://www.webmd.com/parenting/news/20060206/paper-shredders-may-hurt-kids-hands</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800118c1"><link_title>Surprising Advice on Kids and Dogs</link_title><friendly_url>http://www.webmd.com/parenting/news/20060306/advice-kids-dogs</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80119855"><link_title>Building Blocks May Aid Language Skills</link_title><friendly_url>http://www.webmd.com/children/news/20071001/building-blocks-may-aid-language-skills</friendly_url><thumbnail height="" width="" alt="Block Play and Language">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/October_07/block_play_and_language.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80105b26"><link_title>Can You Make Your Child Smarter?</link_title><friendly_url>http://www.webmd.com/parenting/baby/features/can-you-boost-your-childs-intelligence</friendly_url><thumbnail height="" width="" alt="two boys">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/July07/assessing_adhd_drugs.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010d17"><link_title>Neglected Tots: Brain Hormones Lowered</link_title><friendly_url>http://www.webmd.com/parenting/news/20051121/neglected-tots-brain-hormones-lowered</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006117"><link_title>Are bicycle-towed trailers safer than mounted bicycle seats?</link_title><friendly_url>http://www.webmd.com/parenting/news/20000522/child-health-risks-on-mounted-bicycle-seats</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ebec"><link_title>Babies Learn Visual Continuity Early On, Peek-a-Boo Gets Old Fast</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20030219/babies-beat-peek-a-boo-early-on</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8062658a"><link_title>No Siblings? Your Social Skills Are Just Fine</link_title><friendly_url>http://www.webmd.com/children/news/20100817/no-siblings-your-social-skills-are-just-fine</friendly_url><thumbnail height="" width="" alt="single_kids_no_harm_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/08_2010/single_kids_no_harm_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d264"><link_title>The Bottom Line on Toilet Training</link_title><friendly_url>http://www.webmd.com/parenting/news/20010330/bottom-line-on-toilet-training</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8004a48a"><link_title>Strengthen Your Mom Muscles</link_title><friendly_url>http://www.webmd.com/fitness-exercise/video/mom-muscles</friendly_url><thumbnail height="48" width="48" alt="women working out">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/healthy-living/fitness-and-exercise/mom-muscles/graphics/thumbnails/final/mom-muscles-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8047a706"><link_title>Keeping Toddlers Safe From Germs</link_title><friendly_url>http://www.webmd.com/parenting/video/limited-hygiene-children</friendly_url><thumbnail height="48" width="48" alt="toilet">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/parenting/miscellaneous/limited-hygiene-children/graphics/thumbnails/final/limited-hygiene-children-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000fb91"><link_title>Baby Einstein: Tots Can Do Math?</link_title><friendly_url>http://www.webmd.com/parenting/news/20060807/baby-einstein-tots-can-do-math</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80668d9d"><link_title>Potty Training and Your Preschooler: Advice for Parents</link_title><friendly_url>http://www.webmd.com/parenting/guide/potty-training-preschoolers</friendly_url><thumbnail height="" width="" alt="two men performing compression cpr on man">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/10_2010/69x75_compression_only_cpr_01.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000693a"><link_title>Tune In to Find Out if Your Child Is Developing Normally</link_title><friendly_url>http://www.webmd.com/parenting/news/20000328/television-child-development</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80676cfd"><link_title>Piaget Cognitive Stages of Development</link_title><friendly_url>http://www.webmd.com/children/piaget-stages-of-development</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800c4573"><link_title>When to Introduce Potty Training</link_title><friendly_url>http://www.webmd.com/parenting/video/brazelton-early-toilet-training</friendly_url><thumbnail height="48" width="48" alt="girl upset">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/parenting/miscellaneous/brazelton-early-toilet-training/graphics/thumbnails/final/brazelton-early-toilet-training-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800c4548"><link_title>Potty Training 101</link_title><friendly_url>http://www.webmd.com/parenting/video/brazelton-toilet-training</friendly_url><thumbnail height="48" width="48" alt="girl frustrated">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/parenting/miscellaneous/brazelton-toilet-training/graphics/thumbnails/final/brazelton-toilet-training-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8075a4b8"><link_title>Babies from 4- to 7-Months</link_title><friendly_url>http://www.webmd.com/parenting/baby/video/how-4-to-7-month-old-infants-learn</friendly_url><thumbnail height="48" width="48" alt="toddler pointing at camera">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/parenting/miscellaneous/how-4-to-7-month-old-infants-learn/graphics/thumbnails/final/how-4-to-7-month-old-infants-learn-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8075a4b7"><link_title>Baby Growth from 8 to 12 Months</link_title><friendly_url>http://www.webmd.com/parenting/baby/video/how-8-to-12-month-infants-learn</friendly_url><thumbnail height="48" width="48" alt="baby playing with toy">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/parenting/miscellaneous/how-8-to-12-month-infants-learn/graphics/thumbnails/final/how-8-to-12-month-infants-learn-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000cba7"><link_title>Autism Spotted at Age 14 Months</link_title><friendly_url>http://www.webmd.com/brain/autism/news/20060602/autism-spotted-at-age-14-months</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806b09f9"><link_title>Child Development Delays and Planning Guide for Parents</link_title><friendly_url>http://www.webmd.com/brain/autism/features/developmental-planning</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80116182"><link_title>When Should Kids Learn to Read, Write, and Do Math?</link_title><friendly_url>http://www.webmd.com/children/features/when-should-kids-learn-read-write-math</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/Features/children/ctp_backpack.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8041a5c2"><link_title>Parents Unaware of Risks of Tiny Batteries</link_title><friendly_url>http://www.webmd.com/children/news/20091005/parents-unaware-of-risks-of-tiny-batteries</friendly_url><thumbnail height="" width="" alt="swallowing_batteries_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/october_2009/swallowing_batteries_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000da6f"><link_title>Fortified Formula Boosts Infant Development</link_title><friendly_url>http://www.webmd.com/parenting/baby/news/20050425/fortified-formula-boosts-infant-development</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801013e6"><link_title>Can You Boost Your Child’s IQ?</link_title><friendly_url>http://www.webmd.com/parenting/baby/features/can-you-boost-your-childs-iq</friendly_url><thumbnail height="" width="" alt="Feature Backpack">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/August07/feature_backpack_101.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/ss/slideshow-toddler-milestones-second-year" onclick="return sl(this,'','td-rltd-art_1');">Slideshow: Toddler Milestones -- Your Child's Second Year of Development</a></li>
+      <li><a href="http://www.webmd.com/parenting/guide/3-to-4-year-old-milestones" onclick="return sl(this,'','td-rltd-art_2');">3- to 4-Year-Old Developmental Milestones: Cognitive, Language, and Motor Skills</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/features/can-you-boost-your-childs-intelligence" onclick="return sl(this,'','td-rltd-art_3');">Can You Make Your Child Smarter?</a></li>
+      <li><a href="http://www.webmd.com/fitness-exercise/video/mom-muscles" onclick="return sl(this,'','td-rltd-art_4');">Strengthen Your Mom Muscles</a></li>
+      <li><a href="http://www.webmd.com/parenting/video/limited-hygiene-children" onclick="return sl(this,'','td-rltd-art_5');">Keeping Toddlers Safe From Germs</a></li>
+      <li><a href="http://www.webmd.com/parenting/guide/potty-training-preschoolers" onclick="return sl(this,'','td-rltd-art_6');">Potty Training and Your Preschooler: Advice for Parents</a></li>
+      <li><a href="http://www.webmd.com/children/piaget-stages-of-development" onclick="return sl(this,'','td-rltd-art_7');">Piaget Cognitive Stages of Development</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/parenting/toddler-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Toddlers Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=533534936&amp;tile=924835953&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5000&amp;xpg=3547&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2fchildren%2ftc%2ftoilet-training-topic-overview&amp;artid=091e9c5e8005b4d6&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_f_age122_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=533534936&amp;amp;tile=924835953&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5000&amp;amp;xpg=3547&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fchildren%2ftc%2ftoilet-training-topic-overview&amp;amp;artid=091e9c5e8005b4d6&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_f_age122_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3547";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=533534936&amp;tile=924835953&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5001&amp;xpg=3547&amp;sec=&amp;au1=1&amp;au2=&amp;uri=%2fchildren%2ftc%2ftoilet-training-topic-overview&amp;artid=091e9c5e8005b4d6&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_f_age122_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=533534936&amp;amp;tile=924835953&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5001&amp;amp;xpg=3547&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fchildren%2ftc%2ftoilet-training-topic-overview&amp;amp;artid=091e9c5e8005b4d6&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_f_age122_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3547";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

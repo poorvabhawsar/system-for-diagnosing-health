@@ -1,0 +1,448 @@
+<title>Creutzfeldt Jakob Disease</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/alzheimers/ss/slideshow-alzheimers-overview" class="type_ss" onclick="return sl(this,'','tools-res_1');">Caregiver's Guide to Alzheimer's<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/stroke/ss/slideshow-stroke-overview" class="type_ss" onclick="return sl(this,'','tools-res_2');">Stroke Explained in Photos<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parkinsons-disease/ss/slideshow-parkinsons-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">Parkinson's Disease Overview<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/brain/ss/slideshow-concussions-brain-injuries" class="type_ss" onclick="return sl(this,'','tools-res_4');">What Concussions and Brain Injuries Look Like<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/multiple-sclerosis/ms-early-treatment-11/default.htm" onclick="return sl(this,'','tools-res_5');">The Secret to Managing Your MS</a></li>
+      <li id="x61"><a href="http://www.webmd.com/brain/video/skull-implant" class="type_vid" onclick="return sl(this,'','tools-res_6');">Implants Aid Skull Healing<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Creutzfeldt Jakob Disease</h2> 
+     <div class="symptomatic_fmt"> 
+      <h3></h3> 
+      <p> <b>Important</b> <br />It is possible that the main title of the report <a href="http://www.webmd.com/brain/creutzfeldt-jakob-disease" onclick="return sl(this,'','embd-lnk');">Creutzfeldt Jakob Disease</a> is not the name you expected. Please check the <a href="http://www.webmd.com/brain/creutzfeldt-jakob-disease" onclick="return sl(this,'','embd-lnk');">synonyms</a> listing to find the alternate name(s) and <a href="http://www.webmd.com/brain/creutzfeldt-jakob-disease" onclick="return sl(this,'','embd-lnk');">disorder subdivision(s)</a> covered by this report.<br /></p> 
+      <h3>Synonyms</h3> 
+      <ul> 
+       <li>CJD</li> 
+       <li>Jakob-Creutzfeldt Disease</li> 
+       <li>Subacute Spongiform Encephalopathy</li> 
+       <li>Jakob's Disease</li> 
+      </ul> 
+      <h3>Disorder Subdivisions</h3> 
+      <ul> 
+       <li>Variant Creutzfeldt-Jakob Disease (V-CJD)</li> 
+      </ul> 
+      <h3>General Discussion</h3> 
+      <p>Creutzfeldt-Jakob disease (CJD) is an extremely rare degenerative <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a> disorder (i.e., spongiform encephalopathy) characterized by sudden development of rapidly progressive neurological and neuromuscular symptoms. With symptom onset, affected individuals may develop confusion, <a href="http://www.webmd.com/depression/default.htm" onclick="return sl(this,'','embd-lnk');">depression</a>, behavioral changes, impaired <a href="http://www.webmd.com/eye-health/default.htm" onclick="return sl(this,'','embd-lnk');">vision</a>, and/or impaired coordination. As the disease progresses, there may be rapidly progressive deterioration of cognitive processes and memory (<a href="http://www.webmd.com/alzheimers/guide/alzheimers-dementia" onclick="return sl(this,'','embd-lnk');">dementia</a>), resulting in confusion and disorientation, impairment of memory control, personality disintegration, agitation, restlessness, and other symptoms and findings. Affected individuals also develop neuromuscular abnormalities such as muscle weakness and loss of muscle mass (wasting); irregular, rapid, shock-like <a href="http://www.webmd.com/pain-management/muscle-spasms-cramps-charley-horse" onclick="return sl(this,'','embd-lnk');">muscle spasms</a> (myoclonus); and/or relatively slow, involuntary, continual writhing movements (athetosis), particularly of the arms and legs. Later stages of the disease may include further loss of physical and intellectual functions, a state of unconsciousness (<a href="http://www.webmd.com/brain/coma-types-causes-treatments-prognosis" onclick="return sl(this,'','embd-lnk');">coma</a>), and increased susceptibility to repeated infections of the respiratory tract (e.g., <a href="http://www.webmd.com/lung/tc/pneumonia-topic-overview" onclick="return sl(this,'','embd-lnk');">pneumonia</a>). In many affected individuals, life-threatening complications may develop less than a year after the disorder becomes apparent.<br /><br /> In approximately 90 percent of cases, CJD appears to occur randomly for no apparent reason (sporadically). About 10 percent of affected individuals may have a hereditary predisposition for the disorder. Reports in the medical literature suggest that familial cases of CJD are consistent with an autosomal dominant mode of inheritance. In addition, in some extremely rare cases, CJD may take an infectious form. The disorder is thought to result from changes (mutations) in the gene that regulates the production of the human prion protein or direct contamination (transmission) with abnormal prion protein in infected brain tissue.<br /><br /> A variant form of CJD (V-CJD) has been reported in the United Kingdom that affects younger people (median age at onset: 28 years) than does classic CJD. In 1996, experts suggested the possibility that this variant might be associated with consumption of beef from cows with a related infectious brain disorder known as <a href="http://www.webmd.com/brain/mad-cow-disease-basics" onclick="return sl(this,'','embd-lnk');">Bovine Spongiform Encephalopathy</a> (BSE) or &quot;Mad Cow Disease.&quot; BSE was first identified in the UK in 1986 and the number of reported cases grew rapidly, peaking in the winter of 1992-93 when almost 1,000 new cases were reported each week. Later, BSE also began to appear in some other European countries. Scientific research and debate continue concerning the potential link between BSE and V-CJD. In addition, coordinated national and international efforts are in place concerning the prevention, study, and surveillance of BSE and CJD. In early December 2000, European Union agriculture ministers agreed upon new measures to combat the spread of mad cow disease, including incinerating any cow over 30 months of age that had not tested negative for BSE. (BSE is thought to become detectable and infectious when cattle are approximately 30 months old.)</p> 
+      <h3>Resources</h3> 
+      <p> <b> <a href="http://www.webmd.com/alzheimers/default.htm" onclick="return sl(this,'','embd-lnk');">Alzheimer's</a> Association</b> <br /> 225 N. Michigan Avenue<br /> 17th Floor<br /> Chicago, IL 60601<br /> USA<br /> Tel: (312)335-8700<br /> Fax: (866)699-1246<br /> Tel: (800)272-3900<br /> TDD: (312)335-5886<br /> Email: info@alz.org<br /> Internet: http://www.alz.org<br /><br /><b>Alzheimer's Disease Education and Referral Center</b><br /> P.O. Box 8250<br /> Silver Spring, MD 20907-8250<br /> Tel: (301)495-3311<br /> Fax: (301)495-3334<br /> Tel: (800)438-4380<br /> Email: adear@nia.nih.gov<br /> Internet: http://www.nia.nih.gov/alzheimers<br /><br /><b>Centers for Disease Control and Prevention</b><br /> 1600 Clifton Road NE<br /> Atlanta, GA 30333<br /> Tel: (404)639-3534<br /> Tel: (800)232-4636<br /> TDD: (888)232-6348<br /> Email: cdcinfo@cdc.gov<br /> Internet: http://www.cdc.gov/<br /><br /><b>National <a href="http://www.webmd.com/palliative-care/hospice-care" onclick="return sl(this,'','embd-lnk');">Hospice</a> and Palliative Care Organization</b><br /> 1731 King Street, Suite 100<br /> Alexandria, VA 22314<br /> USA<br /> Tel: (703)837-1500<br /> Fax: (703)837-1233<br /> Tel: (800)658-8898<br /> Email: nhpco_info@nhpco.org<br /> Internet: http://www.nhpco.org<br /><br /><b>NIH/National Institute of <a href="http://www.webmd.com/allergies/default.htm" onclick="return sl(this,'','embd-lnk');">Allergy</a> and Infectious Diseases</b><br /> Office of Communications and Government Relations<br /> 6610 Rockledge Drive, MSC 6612<br /> Bethesda, MD 20892-6612<br /> Tel: (301)496-5717<br /> Fax: (301)402-3573<br /> Tel: (866)284-4107<br /> TDD: (800)877-8339<br /> Email: ocpostoffice@niaid.nih.gov<br /> Internet: http://www.niaid.nih.gov/<br /><br /><b>NIH/National Institute of Neurological Disorders and <a href="http://www.webmd.com/stroke/default.htm" onclick="return sl(this,'','embd-lnk');">Stroke</a></b><br /> P.O. Box 5801<br /> Bethesda, MD 20824<br /> Tel: (301)496-5751<br /> Fax: (301)402-2186<br /> Tel: (800)352-9424<br /> TDD: (301)468-5981<br /> Internet: http://www.ninds.nih.gov/<br /><br /><b>World Health Organization (WHO)</b><br /> Avenue Appia 20<br /> Geneva 27, 1211<br /> Switzerland<br /> Tel: 41227912111<br /> Fax: 41227913111<br /> Internet: http://www.who.int/en/<br /><br /><b>Creutzfeldt-Jakob Disease Foundation, Inc.</b><br /> PO Box 5312<br /> Akron, OH 44334<br /> USA<br /> Tel: (330)665-5590<br /> Fax: (330)668-2474<br /> Tel: (800)659-1991<br /> Email: help@cjdfoundation.org<br /> Internet: http://www.cjdfoundation.org<br /><br /><b>CJD Voice</b><br /> Internet: http://www.cjdvoice.org<br /><br /><b>CJD Aware!</b><br /> 2527 South Carrollton Avenue<br /> New Orleans, LA 70118-3013<br /> USA<br /> Tel: (504)861-4627<br /> Email: info@cjdaware.com<br /> Internet: http://www.cjdaware.com<br /><br /><b>National Prion Disease Pathology Surveillance Center</b><br /> Institute of Pathology<br /> Case Western Reserve University<br /> 2085 Adelbert Road, Room 418<br /> Cleveland, OH 44106-4907<br /> USA<br /> Tel: (216)368-0587<br /> Fax: (216)368-4090<br /> Email: cjdsurv@cwru.edu<br /> Internet: http://www.cjdsurveillance.com<br /><br /><b>Genetic and Rare Diseases (GARD) Information Center</b><br /> PO Box 8126<br /> Gaithersburg, MD 20898-8126<br /> Tel: (301)251-4925<br /> Fax: (301)251-4911<br /> Tel: (888)205-2311<br /> TDD: (888)205-3223<br /> Internet: http://rarediseases.info.nih.gov/GARD/<br /><br /><b>UCSF Memory and Aging Center</b><br /> 350 Parnassus Avenue<br /> Suite 905<br /> San Francisco, CA 94117<br /> Tel: (415)476-6880<br /> Fax: (415)476-4800<br /> Email: mgeschwind@memory.ucsf.edu<br /> Internet: http://www.memory.ucsf.edu<br /><br /><b>C-Mac Informational Services, Inc.</b><br /> 120 Clinton Lane<br /> Cookeville, TN 38501-8946<br /> Tel: (931)268-1201<br /> Email: caregiver_cmi@hotmail.com<br /> Internet: http://www.caregivernews.org<br /><br /></p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="verifiedBox_rdr"> 
+    <div class="verifiedBoxTop_lt_fmt"> 
+    </div> 
+    <div class="verifiedBoxMiddle_lt_fmt"> 
+     <h2>For a Complete Report: </h2> 
+     <p>This is an abstract of a report from the National Organization for Rare Disorders (NORD). A copy of the complete report can be downloaded free from the NORD website for registered users. The complete report contains additional information including symptoms, causes, affected population, related disorders, standard and investigational therapies (if available), and references from medical literature. For a full-text version of this topic, go to www.rarediseases.org and click on Rare Disease Database under &quot;Rare Disease Information&quot;.</p> 
+     <div class="dottedline_fmt"> 
+     </div> 
+    </div> 
+    <div class="verifiedBoxMiddle_symptomatic_fmt"> 
+     <blockquote> 
+      <div class="Sizeminus"> 
+       <p>The information provided in this report is not intended for diagnostic purposes. It is provided for informational purposes only. NORD recommends that affected individuals seek the advice or counsel of their own personal physicians.</p> 
+       <p>It is possible that the title of this topic is not the name you selected. Please check the Synonyms listing to find the alternate name(s) and Disorder Subdivision(s) covered by this report</p> 
+       <p>This disease entry is based upon medical information available through the date at the end of the topic. Since NORD's resources are limited, it is not possible to keep every entry in the Rare Disease Database completely current and accurate. Please check with the agencies listed in the Resources section for the most current information about this disorder.</p> 
+       <p>For additional information and assistance about rare disorders, please contact the National Organization for Rare Disorders at P.O. Box 1968, Danbury, CT 06813-1968; phone (203) 744-0100; web site www.rarediseases.org or email orphan@rarediseases.org<br /></p> 
+       <p>Last Updated: &nbsp;4/7/2009<br />Copyright &nbsp;1984, 1985, 1987, 1988, 1990, 1991, 1992, 1994, 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2007, 2009&nbsp;National Organization for Rare Disorders, Inc.</p> 
+      </div> 
+     </blockquote> 
+    </div> 
+    <div class="verifiedBoxBottom_fmt"> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from the National Organization of Rare Disorders</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: February 25, 2014
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - Nord';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1018"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a class="type_ss" href="http://www.webmd.com/a-to-z-guides/dupuytrens-contracture-10/slideshow-treatment" onclick="return sl(this,'','rltd-p-1018_1');">Seizures and Dupuytren's Contracture: What's the Link?<i> </i></a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/alzheimers/early-warning-signs-when-to-call-the-doctor-about-alzheimers" onclick="return sl(this,'','rltd-p-1018_2');">Early Signs of Alzheimer's</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1018_3');">What Vision Problems Look Like</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/brain/video/brain-injury-rehab" onclick="return sl(this,'','rltd-p-1018_4');">Rehab Programs After Brain Injury</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/multiple-sclerosis/your-best-life-11/ms-symptoms" onclick="return sl(this,'','rltd-p-1018_5');">Treating Relapsing MS</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/brain/video/moyamoya-cerebral-bypass" onclick="return sl(this,'','rltd-p-1018_6');">Cerebral Bypass Surgery</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1018_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80693664" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80693664</chronic_id><r_object_id>091e9c5e80693664</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e80693664.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/03/2010 14:49:33</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Brain and Nervous System Super Center/template_Brain and Nervous System Super Center_091e9c5e8002531d.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002531d"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Creutzfeldt-Jakob Disease</name><link_title>Creutzfeldt-Jakob Disease</link_title><description>Creutzfeldt-Jakob disease is a brain disorder affecting mental function and muscle coordination  thought to be caused by a protein called a prion. Cattle sometimes get a disease similar to Creutzfeldt-Jakob disease called mad cow disease. Treatments include medications to ease symptoms, but the prognosis for this rare condition is poor. Follow the links below to find WebMD's comprehensive coverage about how Creutzfeldt-Jakob disease  is contracted, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/brain/creutzfeldt-jakob-disease-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80019e83"><link_title>Creutzfeldt-Jakob Disease</link_title><friendly_url>http://www.webmd.com/brain/creutzfeldt-jakob-disease-shc</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000bb8e"><link_title>Link Between Mad Cow Disease and Human Deaths Questioned</link_title><friendly_url>http://www.webmd.com/news/20011011/link-between-mad-cow-disease-human-deaths-questioned</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006037"><link_title>Mad Cow Disease May Be Transmitted Before Symptoms Appear</link_title><friendly_url>http://www.webmd.com/brain/news/20000915/mad-cow-disease-transmitted-symptoms-appear</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000bdb8"><link_title>Mad Cow: Symptoms Emerge Years Later</link_title><friendly_url>http://www.webmd.com/brain/news/20060623/mad-cow-symptoms-emerge-years-later</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fdac"><link_title>New Theory on How Mad Cow Disease Started</link_title><friendly_url>http://www.webmd.com/news/20050901/new-theory-on-how-mad-cow-disease-started</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006bf6"><link_title>Mad Cow response debated by regulators.</link_title><friendly_url>http://www.webmd.com/brain/news/20000526/regulators-debate-mad-cow-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800100dc"><link_title>Mad Cow Disease: U.S. Experts Work to Stop It Before It Starts</link_title><friendly_url>http://www.webmd.com/brain/news/20010126/mad-cow-disease-us-experts-work-to-stop-before-starts</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000de80"><link_title>Of Mad Cows, Cannibals, and New Life Forms</link_title><friendly_url>http://www.webmd.com/brain/news/20010125/of-mad-cows-cannibals-new-life-forms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c914"><link_title>Feds Tighten Protections Against Mad Cow Disease</link_title><friendly_url>http://www.webmd.com/brain/news/20010112/feds-tighten-protections-against-mad-cow-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000b91b"><link_title>Building a Better 'Mad Cow' Test</link_title><friendly_url>http://www.webmd.com/brain/news/20010228/building-better-mad-cow-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80005fd3"><link_title>FDA Vetoes Tighter 'Mad Cow' Blood Restrictions</link_title><friendly_url>http://www.webmd.com/brain/news/20000601/fda-vetoes-tighter-mad-cow-restrictions</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006b2e"><link_title>USDA: Mad Cow Risk Low in U.S.</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20031229/usda-mad-cow-risk-us-low</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800077e4"><link_title>FDA Strengthens Safeguards Against Mad Cow</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20040127/fda-strengthens-safeguards-against-mad-cow</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000bb7c"><link_title>Udderly Clean: No 'Mad Cow' in U.S., Feds Claim</link_title><friendly_url>http://www.webmd.com/brain/news/20010416/udderly-clean-no-mad-cow-in-us-feds-claim</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d39d"><link_title>Mad Cow Disease Monitoring Is Lacking, Consumer Group Says</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20010719/mad-cow-disease-monitoring-is-lacking-consumer-group-says</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ff70"><link_title>Canadian Beef Banned After Mad Cow Scare</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20030521/canadian-beef-banned-after-mad-cow-scare</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010cd3"><link_title>Second U.S. Case of Mad Cow Disease Confirmed</link_title><friendly_url>http://www.webmd.com/brain/news/20050624/second-us-case-of-mad-cow-disease-confirmed</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011902"><link_title>Alabama Cow Has Mad Cow Disease</link_title><friendly_url>http://www.webmd.com/news/20060313/alabama-mad-cow</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80012181"><link_title>FDA Proposes New Rules to Avoid 'Mad Cow'</link_title><friendly_url>http://www.webmd.com/news/20051004/fda-proposes-new-rules-to-avoid-mad-cow</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80181e02"><link_title>Beef Recall Largest in U.S. History</link_title><friendly_url>http://www.webmd.com/food-recipes/food-poisoning/news/20080218/beef-recall-largest-in-us-history</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801824c9"><link_title>Beef Recall FAQ</link_title><friendly_url>http://www.webmd.com/food-recipes/food-poisoning/news/20080218/beef-recall-faq</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/February08/meat_recall_faq.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001012a"><link_title>Mad Cow Agent Found in Sheep Muscle</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20040524/mad-cow-agent-found-in-sheep-muscle</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80012285"><link_title>Americans Shrug Off Mad Cow Worries</link_title><friendly_url>http://www.webmd.com/food-recipes/news/20040109/americans-shrug-off-mad-cow-worries</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/brain/creutzfeldt-jakob-disease-shc" onclick="return sl(this,'','td-rltd-art_1');">Creutzfeldt-Jakob Disease</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/brain/creutzfeldt-jakob-disease-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Creutzfeldt-Jakob Disease Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1030123638&amp;tile=1093892452&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5000&amp;xpg=4094&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fbrain%2fcreutzfeldt-jakob-disease&amp;artid=091e9c5e8001ef42&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_h_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1030123638&amp;amp;tile=1093892452&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5000&amp;amp;xpg=4094&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fbrain%2fcreutzfeldt-jakob-disease&amp;amp;artid=091e9c5e8001ef42&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_h_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4094";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1030123638&amp;tile=1093892452&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=740&amp;pos=5001&amp;xpg=4094&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fbrain%2fcreutzfeldt-jakob-disease&amp;artid=091e9c5e8001ef42&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_h_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1030123638&amp;amp;tile=1093892452&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=4094&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fbrain%2fcreutzfeldt-jakob-disease&amp;amp;artid=091e9c5e8001ef42&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_h_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4094";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

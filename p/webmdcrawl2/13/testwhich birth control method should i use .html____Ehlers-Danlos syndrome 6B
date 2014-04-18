@@ -1,0 +1,966 @@
+<title>Which birth control method should I use?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tool-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/drugs/condition-3454-Pregnancy+Contraception.aspx?diseaseid=3454&amp;diseasename=Pregnancy+Contraception&amp;source=1" onclick="return sl(this,'','tool-res_1');">Contraception User Reviews</a></li>
+      <li id="x57"><a href="http://www.webmd.com/women/guide/vasectomy-tubal-litigation-options" onclick="return sl(this,'','tool-res_2');">Permanent Birth Control Options</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://teens.webmd.com/rm-quiz-safe-sex" onclick="return sl(this,'','tool-res_3');">Quiz: Safe Sex</a></li>
+      <li id="x59"><a href="http://www.webmd.com/women/guide/comparing-birth-control-pill-types-combination-mini-pills-more" onclick="return sl(this,'','tool-res_4');">Compare Birth Control Pills</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/sex/birth-control/birth-control-birth-control-methods" onclick="return sl(this,'','tool-res_5');">Birth Control Methods</a></li>
+      <li id="x61"><a href="http://www.webmd.com/sex/birth-control/forgot-to-take-your-birth-control-pills" onclick="return sl(this,'','tool-res_6');">Forgot Your Pill?</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tool-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionset.js">
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="headerLink_fmt"> 
+      <a href="/www/decision-point" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;">What is a Decision Point?</a> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionsetTOC_decsion_pt.jpg" alt="decision point" width="77" height="20" class="headerImg_fmt" />Which birth control method should I use?</h2> 
+     <div class="decisionPoint_fmt"> 
+      <div class="section_fmt "> 
+       <div class="arrowFirst_fmt"> 
+        <div class="leftBorder_fmt"> 
+         <div class="rounded_fmt"> 
+          <div class="vertical1_fmt"> 
+           <div class="vertical2_fmt"> 
+            <div class="vertical3_fmt"> 
+             <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Introduction</a> 
+            </div> 
+           </div> 
+          </div> 
+          <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP1Arrw" alt="arrow" /> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail1_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tw9251-Intro"></a> 
+          <p> Birth control methods allow a woman or a couple to choose whether or when to have a child. Consider the following when making your decision:</p> 
+          <ul> 
+           <li> <b>Permanence.</b> If you are certain that you don't want children (or more children), you might consider a permanent method of birth control, such as female tubal ligation or implants or male vasectomy. </li> 
+           <li> <b>Effectiveness.</b> Consider how important it is to you to avoid <a href="http://www.webmd.com/baby/pregnancy-toc-old" onclick="return sl(this,'','embd-lnk');">pregnancy</a>, and then look at how well each method works. Hormonal implants and injections (Depo-<a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-6996-provera+oral.aspx">Provera</a>) and the hormonal and copper IUDs are the most effective. <a href="http://www.webmd.com/sex/birth-control/birth-control-pills" onclick="return sl(this,'','embd-lnk');">Birth control pills</a> (both <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-6028-esterified+estrogens+oral.aspx">estrogen</a>-progestin and progestin-only), patches, and rings are highly (but slightly less) effective. Barrier methods such as <a href="http://www.webmd.com/sex/birth-control/birth-control-condoms" onclick="return sl(this,'','embd-lnk');">condoms</a>, diaphragms, and spermicides are only moderately effective. See a reliability table for details on each method.</li> 
+           <li> <b>Convenience.</b> Some methods require more effort than others. Do a <a href="http://www.webmd.com/sex/birth-control/reality-check-for-birth-control-methods" onclick="return sl(this,'hw','embd-lnk');">reality check</a> by asking yourself how likely you are to use the method consistently. Answer whether you are willing to interrupt lovemaking, to abstain from <a href="http://www.webmd.com/men/guide/7-sex-mistakes-men-make" onclick="return sl(this,'','embd-lnk');">sex</a> during certain times of the month, or to remember to take a pill every day. </li> 
+           <li> <b>Sexually transmitted disease protection.</b> The most highly effective hormonal and <a href="http://www.webmd.com/sex/birth-control/iud-intrauterine-device" onclick="return sl(this,'','embd-lnk');">IUD</a> methods do not protect you from sexually transmitted diseases (STDs). Condoms are the best available protection you have from <a href="http://www.webmd.com/sexual-conditions/default.htm" onclick="return sl(this,'','embd-lnk');">STDs</a>. But condoms alone are not a highly effective <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/sex/birth-control/">birth control</a> method. To avoid both STD infection and pregnancy, be sure to combine a condom with a more effective birth control method.</li> 
+           <li> <b>Health risks.</b> If you have health risks, some <a href="http://www.webmd.com/sex/birth-control/default.htm" onclick="return sl(this,'','embd-lnk');">birth control methods</a> may not be right for you. For example, combined (estrogen and progestin) birth control methods are not recommended for women older than 35 who smoke. Other conditions that may limit your choices of birth control include having migraines, <a href="http://www.webmd.com/heart-disease/default.htm" onclick="return sl(this,'','embd-lnk');">heart disease</a>, high blood pressure, blood clots, or diabetes.</li> 
+           <li> <b>Return to <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/medical_information/health_tools/interactive/ovu_calendar">fertility</a>.</b> If you plan to have children within the next year or two, you may want to avoid the Depo-Provera (progestin-only) shot, which can stop your monthly periods and delay your return to fertility.<sup class="Reference"><a href="http://www.webmd.com/sex/birth-control/which-birth-control-method-should-i-use#tn10012" onclick="return sl(this,'','embd-lnk');">1</a></sup> Taking estrogen-progestin for a long time can also make your periods stop. You might not start periods again for several months after you stop taking hormones. But it isn't permanent. You will start <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/medical_information/health_tools/interactive/ovu_calendar">ovulating</a> and having your periods, and your fertility should get back to normal. </li> 
+           <li> <b>Other benefits.</b> Some birth control methods have beneficial side effects. Combination hormonal methods (estrogen and progestin) can improve <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/skin-problems-and-treatments/acne/">acne</a>. Both combination and progestin-only methods reduce menstrual cramping and flow. In fact, with the <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/mono-115-PROGESTIN%2fESTROGEN+CONTRACEPTIVE+-+ORAL.aspx?drugid=148507&amp;drugname=Lybrel+Oral">Lybrel</a> combination pill, the Depo-Provera shot, or the <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-20420-mirena+iu.aspx">Mirena</a> IUD, your period may stop altogether.</li> 
+          </ul> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Medical Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP2Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail2_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tw9251-MedInfo"></a> 
+          <h4>What are the different methods of birth control?</h4> 
+          <p> <b>Sterilization</b> is a surgical procedure done for men or women who decide that they do not want to have any or more children. Sterilization is one of the most effective forms of birth control. Sterilization is intended to be permanent, and while you can try to reverse it with another surgery, reversal is not always successful. Methods include:</p> 
+          <ul> 
+           <li>Tubal ligation or implants. The fallopian tubes , which carry the eggs from the ovaries to the uterus, are tied, cut, or blocked. A new type of procedure, using a device (called Essure) to block the fallopian tubes, is done without an incision and on an outpatient basis. </li> 
+           <li>Vasectomy. In this minor procedure, the vas deferens-the tube that carries sperm from the testicles to the seminal fluid (semen)-from each testicle is cut and blocked so that sperm are no longer present in the semen.</li> 
+          </ul> 
+          <p> <b>Hormonal methods</b> are very effective means of birth control. Hormonal methods use two basic formulas:</p> 
+          <ul> 
+           <li>Combination hormonal methods contain both estrogen and progestin (synthetic progesterone). Combination methods include pills, skin patches, and rings . </li> 
+           <li>Progestin-only hormonal methods include pills (also called the &quot;mini-pill&quot;), an implant (<a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-144857-implanon+sdrm.aspx">Implanon</a>), and injections (Depo-Provera). Progestin-only methods are an option for women who cannot take estrogen. </li> 
+          </ul> 
+          <p>Compare the:</p> 
+          <ul> 
+           <li>Advantages and disadvantages of combination hormonal methods with progestin-only pills, patches, and rings.</li> 
+           <li> <a href="http://www.webmd.com/sex/birth-control/advantages-and-disadvantages-of-hormone-injections-for-birth-control" onclick="return sl(this,'hw','embd-lnk');">Advantages and disadvantages</a> of the progestin-only (Depo-Provera) shot. </li> 
+           <li> <a href="http://www.webmd.com/sex/birth-control/advantages-and-disadvantages-of-the-hormonal-implant-for-birth-control" onclick="return sl(this,'hw','embd-lnk');">Advantages and disadvantages</a> of the progestin-only (Implanon) implant.</li> 
+          </ul> 
+          <p>An intrauterine device (IUD) is a small device that is placed in your uterus to prevent pregnancy. There are two main types of IUDs: copper IUDs (such as Paragard) and hormonal IUDs (such as Mirena). IUDs can provide birth control for 5 to 10 years.</p> 
+          <p>Barrier methods include the <b>diaphragm, cervical cap, Lea's Shield, male condom, female condom, spermicidal foam, sponges, and film</b> . Barrier methods prevent sperm from entering the uterus and reaching the egg. Typically, barrier methods are not highly effective, but they generally have fewer side effects than hormonal methods or IUDs. Spermicides and condoms should be used together or along with another method to increase their effectiveness. Barrier methods can interrupt lovemaking because they must be used every time you have sex. (A diaphragm, cap, or shield can be put in a few hours beforehand, if you can plan ahead.)</p> 
+          <p>Fertility awareness, or natural family planning, requires that a couple chart the time during a woman's menstrual cycle that she is most likely to become pregnant and avoid intercourse or use a barrier method during that time. Fertility awareness is not a highly effective method of preventing pregnancy.</p> 
+          <p>If you are at risk of getting or spreading a sexually transmitted disease (such as genital herpes, chlamydia, and AIDS), <b>use a condom</b> . To most effectively prevent pregnancy, combine a condom with a highly effective birth control method. </p> 
+          <h4>How effective are birth control methods?</h4> 
+          <p>Hormonal implants, injections (Depo-Provera), and the hormonal and copper IUDs are <b>very highly</b> successful methods of birth control. These methods are 97% to 99.9% effective. That means fewer than 1 to 3 women out of 100 women who are using these methods will become pregnant during the first year of use.</p> 
+          <p>Birth control pills (both combination and progestin-only) have a <b>high</b> success rate of 92%. But if taken properly (every day or at the same time every day), birth control pills can be highly successful. The hormonal <a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-the-skin" onclick="return sl(this,'','embd-lnk');">skin</a> patch and vaginal ring are thought to be about as effective as birth control pills, but how well they actually work has not been well studied.</p> 
+          <p>Barrier methods, such as the diaphragm or condom, are <b>moderately</b> successful at preventing pregnancy. The diaphragm and cervical cap are 84% effective for women who have not had children or who have had a cesarean section. Women who have delivered children vaginally have lower rates of success with diaphragms and cervical caps. They are more effective when used consistently and fitted correctly, although not all women are able to achieve this.</p> 
+          <p>Doctors often recommend that you use spermicides and condoms together or along with another method to increase their effectiveness. The male condom is 85% effective. The female condom is 79% effective. Spermicide is 71% effective. In real numbers, this means that of women who use male condoms alone for birth control each time they have sex, 15 out of 100 will become pregnant in the first year of use. Consider carefully whether this risk is acceptable to you.</p> 
+          <p>Using fertility awareness takes organization, good record keeping, close observation of your body changes, and cooperation from your partner. Even when practiced carefully and consistently, fertility awareness is not a reliable method of birth control. Of women who use fertility awareness for birth control, 20 to 25 out of 100 will become pregnant in the first year of use.</p> 
+          <p>See a table detailing the failure rate of each method. </p> 
+          <p>Consider how comfortable you feel about using a particular method of birth control. If you are not comfortable or will not consistently use a birth control method for any reason, that method may not be effective. A <a href="http://www.webmd.com/sex/birth-control/reality-check-for-birth-control-methods" onclick="return sl(this,'hw','embd-lnk');">reality check for birth control methods</a> can help you determine which method is right for you.</p> 
+          <p> <b>Patch warnings</b> </p> 
+          <ul> 
+           <li>The patch delivers more estrogen than the low-dose birth control pills do. The U.S. Food and Drug Administration (FDA) warns that women using the patch are slightly more likely to get dangerous blood clots in the legs and <a href="http://www.webmd.com/lung/picture-of-the-lungs" onclick="return sl(this,'','embd-lnk');">lungs</a> than women using birth control pills. So talk to your doctor about your risks before using the patch.</li> 
+           <li>Direct sunlight or high heat can increase, then lower, the amount of hormone released from a patch. This can give you a big dose at the time and leave less hormone for the patch to release later in the week. This increases your risk of pregnancy. <b>Avoid</b> direct sunlight on the hormone patch. Also avoid using a tanning bed, heating pad, electric blanket, hot tub, or sauna while you are using a hormone patch.</li> 
+          </ul> 
+          <p> <b>Spermicide warning</b> </p> 
+          <ul> 
+           <li>Most spermicides contain a chemical called nonoxynol-9 (N9). The U.S. Food and Drug Administration (FDA) warns that N9 in vaginal <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/sex/birth-control/default.htm">contraceptives</a> and spermicides may irritate the lining of the <a href="http://www.webmd.com/women/picture-of-the-vagina" onclick="return sl(this,'','embd-lnk');">vagina</a> or rectum. This may increase the risk of getting <a href="http://www.webmd.com/hiv-aids/default.htm" onclick="return sl(this,'','embd-lnk');">HIV</a>/<a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/hiv-aids/default.htm">AIDS</a> from an infected partner.</li> 
+          </ul> 
+          <h4>What are health risks that may affect my choices?</h4> 
+          <p>Some health conditions may limit your choice of birth control methods. Discuss appropriate methods of birth control with your doctor if you:</p> 
+          <ul> 
+           <li>Have a chronic illness, such as diabetes or heart disease.</li> 
+           <li>Have a history of cardiovascular problems, such as high blood pressure (hypertension), stroke, high cholesterol, or blood clots.</li> 
+           <li>Have a history of nervous system problems, such as seizures or <a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">headaches</a>.</li> 
+           <li>Have a history of migraines.</li> 
+           <li>Smoke cigarettes.</li> 
+           <li>Have a history of <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/cancer/">cancer</a>.</li> 
+           <li>Use prescription medicines. Certain antibiotics, antiretrovirals, and anticonvulsants, as well as St. John's wort, make certain hormonal birth control less effective.<sup class="Reference"><a href="http://www.webmd.com/sex/birth-control/which-birth-control-method-should-i-use#tn9967" onclick="return sl(this,'','embd-lnk');">2</a></sup></li> 
+           <li>Are <a href="http://www.webmd.com/diet/what-is-obesity" onclick="return sl(this,'','embd-lnk');">overweight</a>. The pill and the patch may not work as well if you are overweight, so talk with your doctor about the type of birth control that will be best for you. </li> 
+          </ul> 
+          <p> <b>Bone thinning.</b> Using Depo-Provera for 2 or more years can cause bone loss, which may not be fully reversible after stopping the medicine. This concern may be greatest during the teen years, when young women should be building bone mass. Depo-Provera use is not recommended to be used for longer than 2 years unless you are protecting your bones with daily <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/vitamins-supplements/ingredientmono-781-calcium.aspx?activeingredientid=781&amp;activeingredientname=calcium">calcium</a> and regular weight-bearing <a href="http://www.webmd.com/fitness-exercise/fitness-toc-old" onclick="return sl(this,'','embd-lnk');">exercise</a>, such as walking or running.<sup class="Reference"><a href="http://www.webmd.com/sex/birth-control/which-birth-control-method-should-i-use#tn9947" onclick="return sl(this,'','embd-lnk');">3</a>, </sup><sup class="Reference"><a href="http://www.webmd.com/sex/birth-control/which-birth-control-method-should-i-use#tn9968" onclick="return sl(this,'','embd-lnk');">4</a></sup> Talk to your doctor about your risks if you have been using Depo-Provera for longer than 2 years.</p> 
+          <p> <b>Sexually transmitted disease.</b> If a sexually transmitted disease is present at the time an IUD is inserted, a woman is at increased risk for pelvic inflammatory disease (PID) in the 20 days after insertion. <a href="http://www.webmd.com/women/guide/sexual-health-your-guide-to-pelvic-inflammatory-disease" onclick="return sl(this,'','embd-lnk');">Pelvic inflammatory disease</a> can lead to infertility.<sup class="Reference"><a href="http://www.webmd.com/sex/birth-control/which-birth-control-method-should-i-use#te7793" onclick="return sl(this,'','embd-lnk');">5</a></sup> This is why a test for STDs is important before inserting an IUD.</p> 
+          <p> For more information, see the topic Exposure to Sexually Transmitted Diseases.</p> 
+          <h4>Will some temporary birth control methods prevent me from having children when I want them?</h4> 
+          <p>Consider how soon, if ever, you would like to become pregnant. Except for sterilization methods, which permanently prevent pregnancy, all currently available birth control methods allow you to become pregnant again, although some may cause a delay. </p> 
+          <p> <b>Depo-Provera.</b> For some women, it may take 3 to 18 months to get pregnant after the last Depo-Provera (a progestin-only hormonal method) shot. </p> 
+          <p> <b>Implanon</b> . You can get pregnant right away after you have the implant removed. The implant provides birth control for 3 years and must be inserted and removed by a trained health professional.</p> 
+          <p> <b>The estrogen-progestin pill.</b> If you take monthly cycles of birth control hormones for a long time, your periods might stop. You might not start periods again for several months after you stop taking hormones. But it isn't permanent. You will start ovulating and having your periods, and your fertility will get back to the pattern you had before you started the pill. Since it is common to ovulate before your first period comes back, it is possible to get pregnant sooner than you expect. So if you aren't in a rush to get pregnant, use some form of birth control after you stop birth control hormones.</p> 
+          <h4>What can I do if I have unprotected sex?</h4> 
+          <p>Emergency contraception is a backup method for unprotected intercourse. This would be when you have not used a birth control method or have reason to believe that your method has not protected you as it should. For example, you could use emergency <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/a-to-z-guides/Birth-Control-Overview">contraception</a> if the condom breaks during sex.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Your Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP3Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail3_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tw9251-YourInfo"></a> 
+          <p>One method may work better than others for a woman or for a couple. You may use more than one method at a time, especially if you need sexually transmitted disease protection <b>and</b> highly effective birth control. And birth control needs change over time. Consider the information below as you make your decision.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <caption> 
+            <b>Deciding about birth control</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th align="center" scope="col" valign="top"> Method</th> 
+             <th align="center" scope="col" valign="top"> Reasons to use the method</th> 
+             <th align="center" scope="col" valign="top"> Reasons not to use the method</th> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>Fertility awareness</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>You and partner can be diligent about charting fertile times and either using barrier methods or not having sex during those times.</li> 
+               <li>Your birth control options are limited by your moral beliefs or your religion's laws. </li> 
+              </ul> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>Not highly reliable (75% effective, or 25 pregnancies out of 100 women each year) </li> 
+               <li>Requires close observation of body changes and abstinence or use of barrier methods during fertile times</li> 
+               <li>You are looking for protection from sexually transmitted diseases. This method provides no protection. </li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>Condoms (male or female)</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>Reduces risk of sexually transmitted diseases (STDs)</li> 
+               <li>You want a method that is inexpensive and widely available.</li> 
+              </ul> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>Not highly reliable (79%-85%, or 15-21 pregnancies out of 100 women each year) </li> 
+               <li>Interrupts lovemaking and decreases sensation</li> 
+               <li>Some men don't like or are not willing to use</li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>Female barriers (diaphragm, cap, Lea's Shield, sponge)</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>You have health risks, such as having migraines or being a smoker older than 35, and can't use other methods.</li> 
+               <li>Your relationship will comfortably and consistently allow their use.</li> 
+               <li>You want a method that is available without a prescription (sponge).</li> 
+              </ul> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>Can interrupt lovemaking and be messy </li> 
+               <li>Not highly reliable (60%-85%, or 15-40 pregnancies out of 100 women each year) </li> 
+               <li>You are looking for protection from sexually transmitted diseases. This method provides no dependable protection. Using spermicide may actually increase your risk for getting HIV/AIDS.</li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>Combination estrogen and progestin hormone methods (pill, ring, patch)</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>You want a method that doesn't interrupt intercourse. Use once a day (pills), once a week (patch), or once a month (vaginal ring).</li> 
+               <li>You need a highly effective method (92%-97% or 3-8 pregnancies out of 100 women each year).</li> 
+               <li>You want a method that improves acne and reduces menstrual cramping and flow and premenstrual symptoms.</li> 
+               <li>You want to have few or no menstrual periods.</li> 
+               <li>Ring and patch: You don't have to remember to take a pill every day.</li> 
+              </ul> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>You have health risks, such as being a smoker older than 35, or have migraines, high blood pressure, stroke, blood clots, <a href="http://www.webmd.com/digestive-disorders/picture-of-the-liver" onclick="return sl(this,'','embd-lnk');">liver</a> disease, heart disease, or diabetes. </li> 
+               <li>Pills: You have difficulty remembering to take one every day.</li> 
+               <li>Patch: You cannot avoid exposing the patch to direct sunlight or high heat, which can make it less effective. </li> 
+               <li>Patch: You want a low-estrogen option. The birth control patch delivers more estrogen than the low-dose birth control pills do. </li> 
+               <li>You are looking for protection from sexually transmitted diseases. (Condoms are necessary for protection.) </li> 
+               <li>You experience side effects, including <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting" onclick="return sl(this,'','embd-lnk');">nausea</a> and vomiting, headaches, breast tenderness, or mood changes.</li> 
+               <li>You are obese. The pills and the patch may not work as well if your body mass index is 30 or higher.</li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>Progestin-only pills, implant (Implanon), or injection (Depo-Provera)</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>You have health risks and can't use combination hormonal methods.</li> 
+               <li> You need a highly effective method (92%-100%, or 0-8 pregnancies out of 100 women each year).</li> 
+               <li> You want a method that doesn't interrupt intercourse. You can use this method once a day (pills), once every 3 months (injection), or once every 3 years (implant).</li> 
+               <li>You are breast-feeding.</li> 
+              </ul> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>Pills: You must remember to take them at the <b>same time</b> each day.</li> 
+               <li>Injections: You don't like shots.</li> 
+               <li> Implant: You need to see your doctor to have this inserted or removed. </li> 
+               <li>You are looking for protection from sexually transmitted diseases. (Condoms are necessary for protection.) </li> 
+               <li>Depo-Provera use may increase your risk of chlamydia or gonorrhea infection if you are exposed.<sup class="Reference"><a href="http://www.webmd.com/sex/birth-control/which-birth-control-method-should-i-use#tn9946" onclick="return sl(this,'','embd-lnk');">6</a></sup></li> 
+               <li>You experience side effects, including breast tenderness, spotting, mood changes, and <a href="http://www.webmd.com/diet/old-diet-toc" onclick="return sl(this,'','embd-lnk');">weight gain</a>.</li> 
+               <li>Injections: You need a long-term method. Using Depo-Provera for 2 or more years can cause significant bone loss, which may not be fully reversible after stopping the medicine.<sup class="Reference"><a href="http://www.webmd.com/sex/birth-control/which-birth-control-method-should-i-use#tn9947" onclick="return sl(this,'','embd-lnk');">3</a></sup></li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>IUD</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>You need a highly effective means of birth control (more than 99%, or fewer than 1 pregnancy out of 100 women each year).</li> 
+               <li>You have a low risk of having a sexually transmitted disease infection (which could be carried into the uterus with IUD insertion).</li> 
+               <li>You want a method that requires little effort. You do not have to remember to take pills, and the IUD can prevent pregnancy for 5 to 10 years.</li> 
+               <li>Hormonal IUDs decrease menstrual flow and cramping.</li> 
+              </ul> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>You are looking for protection from sexually transmitted diseases. (Condoms are necessary for protection.) </li> 
+               <li>You find the IUD to be uncomfortable (more common in women who have not had children).</li> 
+               <li>Copper IUD increases menstrual flow and cramping. </li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <p>Tubal ligation or implants or vasectomy</p> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>You are absolutely sure you do not want children or do not want more children.</li> 
+               <li>You want a method that is permanent.</li> 
+              </ul> </td> 
+             <td valign="top"> 
+              <ul> 
+               <li>You may regret your decision later (if you are young, have few or no children, or are choosing sterilization for the wrong reasons). </li> 
+               <li>Permanent (although vasectomy takes several months after surgery before it is effective)</li> 
+               <li>You are looking for protection from sexually transmitted diseases. (Condoms are necessary for protection.) </li> 
+               <li> You do not want to have a surgical procedure.</li> 
+              </ul> </td> 
+            </tr> 
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top"> <p>Are there other reasons you might want to use a certain method?</p> <p>&nbsp;</p> </td> 
+             <td valign="top"> <p>Are there other reasons you might not want to use a certain method?</p> <p>&nbsp;</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p> These personal stories may help you make your decision.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Wise Health Decision</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP4Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail4_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tw9251-WiseDecision"></a> 
+          <p> Use this worksheet to help you decide if the method you're considering is right for you. After completing it, you should have a better idea of your priorities. Discuss the worksheet with your doctor. </p> 
+          <p>Circle the answer that best applies to you.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody> 
+            <tr> 
+             <td valign="top">I do not want to have any (more) children and need a permanent method of birth control.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I absolutely cannot get pregnant right now, but I do want a family some day.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I need a birth control method that I don’t have to think about every day or every time I want to have sex.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I do well with birth control pills and can remember to take one each day.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I like the convenience of birth control pills, but I cannot use estrogen (or I am over 35 and smoke cigarettes).</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I am not comfortable with hormonal birth control, and I would prefer to use another method.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I want birth control that will help with my acne or cramps or allow me to have lighter, fewer, or no periods.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <p>Use the following space to list any other important concerns you have about this decision.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top" width="98%"> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <h4>What is your overall impression?</h4> 
+          <p>Your answers in the above worksheet are meant to give you a general idea of where you stand on this decision. You may have one overriding reason to use or not use a particular birth control method.</p> 
+          <p>Check the box below that represents your overall impression about your decision.</p> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward (you fill in) method</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="25%"> <p> <b>Leaning toward (you fill in) method</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p>Effectiveness data for birth control methods from: </p> 
+          <p>U.S. Food and Drug Administration (2003). <u>Birth Control Guide</u>. Available online: http://www.fda.gov/fdac/features/1997/babytabl.html.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">References</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP5Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail5_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tw9251-Bib"></a> 
+          <blockquote> 
+           <h3>Citations</h3> 
+           <ol> 
+            <li> <p> <a name="tn10012"></a>Speroff L, Fritz MA (2005). Oral contraception. In <u>Clinical Gynecologic Endocrinology and Infertility</u>, 7th ed., pp. 861-942. Philadelphia: Lippincott Williams and Wilkins. </p> </li> 
+            <li> <p> <a name="tn9967"></a>Hatcher RA, Nelson A (2004). Combined hormonal contraceptive methods. In RA Hatcher et al., eds., <u>Contraceptive Technology</u>, 18th ed., pp. 391-460. New York: Ardent Media.</p> </li> 
+            <li> <p> <a name="tn9947"></a>U.S. Food and Drug Administration (2004). Black box warning added concerning long-term use of Depo-Provera contraceptive injection. <u>FDA Talk Paper No. T04-50</u>. Available online: http://www.fda.gov/bbs/topics/ANSWERS/2004/ANS01325.html. </p> </li> 
+            <li> <p> <a name="tn9968"></a>Hatcher RA (2004). Depo-Provera injections, implants, and progestin-only pills (minipills). In RA Hatcher et al., eds., <u>Contraceptive Technology</u>, 18th ed., pp. 461-494. New York: Ardent Media.</p> </li> 
+            <li> <p> <a name="te7793"></a>Cheng D (2000). The intrauterine device: Still misunderstood after all these years. <u>Southern Medical Journal</u>, 93(9): 859-864.</p> </li> 
+            <li> <p> <a name="tn9946"></a>Morrison <a onclick="return sl(this,'','embd-lnk');" href="http://children.webmd.com/Cockayne-Syndrome-11124">CS</a>, et al. (2004). Hormonal contraceptive use, cervical ectopy, and the acquisition of cervical infections. <u>Sexually Transmitted Diseases</u>, 31(9): 561-567.</p> </li> 
+           </ol> 
+          </blockquote> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt  last_fmt"> 
+       <div class="arrowLast_fmt" id="lastDiv"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;">Credits</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP6Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail6_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tw9251-Credits"></a> 
+          <table border="0" cellpadding="5"> 
+           <tbody>
+            <tr> 
+             <td valign="top"> <b>Author</b> </td> 
+             <td>Bets Davis, MFA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Editor</b> </td> 
+             <td>Maria G. Essig, MS, ELS</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Michele Cronen</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Denele Ivins</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Pat Truman, MATC</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+             <td>Joy Melnikow, MD, MPH - Family Medicine</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+             <td>Kirtly Jones, MD - Obstetrics and Gynecology</td> 
+            </tr> 
+            <tr> 
+             <td> <b>Last Updated</b> </td> 
+             <td>May 22, 2008</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: May 22, 2008
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - DecisionPoint';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1014"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://teens.webmd.com/girls/features/the-pill-myths-and-facts" onclick="return sl(this,'','rltd-p-1014_1');">Myths and Facts About the Pill</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/sex/birth-control/birth-control-pills" onclick="return sl(this,'','rltd-p-1014_2');">Birth Control Pills: Effectiveness, Side Effects, and More</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/sex/birth-control/intrauterine-device-iud-for-birth-control" onclick="return sl(this,'','rltd-p-1014_3');">An Introduction to the Intrauterine Device</a> </li> 
+     <li id="x65"> <a href="http://women.webmd.com/guide/comparing-birth-control-pill-types-combination-mini-pills-more" onclick="return sl(this,'','rltd-p-1014_4');">Compare Birth Control Pills</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/sex/birth-control/birth-control-rm-quiz" onclick="return sl(this,'','rltd-p-1014_5');">Quiz: Does Your Birth Control Fit You? </a> </li> 
+     <li id="x67" class="last"> <a href="http://teens.webmd.com/girls-puberty-10/gynecologist-visit" onclick="return sl(this,'','rltd-p-1014_6');">First Trip to the Gyno? What to Expect</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1014_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=224713533&tile=306092453&tug=&pug=__&site=2&affiliate=20&hcent=&scent=962&pos=113&xpg=4272&sec=&amp;au1=1&au2=1&uri=%2fsex%2fbirth-control%2fwhich-birth-control-method-should-i-use&artid=091e9c5e8001ccfe&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_o_gen2_sex1_sex3_age121_&mcent=1520&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'224713533',
+                    tile:'306092453',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "4272";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=224713533&amp;tile=306092453&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=962&amp;pos=5001&amp;xpg=4272&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fsex%2fbirth-control%2fwhich-birth-control-method-should-i-use&amp;artid=091e9c5e8001ccfe&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_o_gen2_sex1_sex3_age121_&amp;mcent=1520&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=224713533&amp;amp;tile=306092453&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=962&amp;amp;pos=5001&amp;amp;xpg=4272&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fsex%2fbirth-control%2fwhich-birth-control-method-should-i-use&amp;amp;artid=091e9c5e8001ccfe&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_o_gen2_sex1_sex3_age121_&amp;amp;mcent=1520&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4272";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

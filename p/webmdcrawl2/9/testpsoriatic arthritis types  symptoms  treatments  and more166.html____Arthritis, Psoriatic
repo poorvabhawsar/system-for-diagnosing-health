@@ -1,0 +1,626 @@
+<title>Psoriatic Arthritis Types, Symptoms, Treatments, and More</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/rheumatoid-arthritis/slideshow-rheumatoid-arthritis-exercises" class="type_ss" onclick="return sl(this,'','tools-res_1');">Joint-Friendly Exercises<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-quiz" onclick="return sl(this,'','tools-res_2');">Psoriatic Arthritis Quiz</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-symptoms" onclick="return sl(this,'','tools-res_3');">Psoriatic Arthritis Symptoms</a></li>
+      <li id="x59"><a href="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-prevention" onclick="return sl(this,'','tools-res_4');">Psoriatic Arthritis Prevention</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/drug-medication/medicationawareness/default.htm" onclick="return sl(this,'','tools-res_5');">Test Your Medication IQ</a></li>
+      <li id="x61"><a href="http://www.webmd.com/rheumatoid-arthritis/life-with-ra-11/ra-diet" onclick="return sl(this,'','tools-res_6');">Eat to Beat Inflammation</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="article_rdr"> 
+    <div id="readspeaker_area" style="display: none;"> 
+     <div id="readspeaker_button1" class="rs_skip"> 
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /> </a> 
+     </div> 
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript">
+    </script> 
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:3});
+                    });
+                })();
+                </script> 
+     <div id="xp1"> 
+     </div> 
+    </div> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Psoriatic Arthritis</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <h3>Who Is at Risk for Psoriatic Arthritis?</h3> 
+     <p>Affecting men and women equally, approximately 10% to 30% of people with psoriasis develop psoriatic arthritis. Psoriatic arthritis may develop at any age, but usually affects people between the ages of 30 and 50. While the cause is not known, genetic factors, along with the immune system, infection, and physical trauma likely play a role in determining who will develop the disorder.</p> 
+     <p>As many as 40% of people with psoriatic arthritis have a family history of skin or joint disease. Having a parent with psoriasis triples the chance of getting psoriasis yourself and thus increases the chance of developing psoriatic arthritis.</p> 
+     <h3>How Is Psoriatic Arthritis Diagnosed?</h3> 
+     <p>The diagnosis of psoriatic arthritis is based on the following:</p> 
+     <ul> 
+      <li>Appearance of symptoms (as described above)</li> 
+      <li>Complete evaluation of your medical history</li> 
+      <li>Physical exam</li> 
+      <li>Blood tests</li> 
+      <li>X-rays of the joints</li> 
+     </ul> 
+     <p>Diagnosis may be easier for your doctor to confirm if psoriasis is also present with arthritis symptoms. However, in some cases, symptoms of psoriatic arthritis appear before the <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview" onclick="return sl(this,'','embd-lnk');">skin rash</a> of psoriasis. <a href="http://www.webmd.com/skin-problems-and-treatments/psoriasis/psoriasis-symptoms" onclick="return sl(this,'','embd-lnk');">Symptoms of psoriasis</a> may include frequent episodes of redness and itching; thick, dry, silvery scales on the scalp, elbow, knees, or the trunk; and nail abnormalities.</p> 
+     <p>Because psoriatic arthritis closely resembles rheumatoid arthritis, a blood test to check for rheumatoid arthritis is required to make an accurate diagnosis. Tests for rheumatoid arthritis are usually normal (negative) in patients with psoriatic arthritis. People with psoriatic arthritis may have a mild <a href="http://www.webmd.com/a-to-z-guides/understanding-anemia-basics" onclick="return sl(this,'','embd-lnk');">anemia</a>. Blood tests can also reveal an elevated erythrocyte sedimentation rate (ESR), a marker of inflammation.</p> 
+     <p>A definitive diagnosis of psoriatic arthritis cannot be made until skin and nail changes associated with psoriasis appear or until characteristic X-ray changes in the bones of the hands or feet develop.</p> 
+     <h3>Psoriatic Arthritis Treatment</h3> 
+     <p>Psoriatic <a href="http://www.webmd.com/arthritis/understanding-arthritis-treatment" onclick="return sl(this,'','embd-lnk');">arthritis treatment</a> is intended to relieve the symptoms of the disorder and may include any combination of the following:</p> 
+     <blockquote> 
+      <div style=" margin-left: 0;"> 
+       <p> <b>Medication</b> </p> 
+       <p>Non-steroidal anti-inflammatory <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/index-drugs.aspx">drugs</a> (<a href="http://www.webmd.com/arthritis/features/pain-relief-how-nsaids-work" onclick="return sl(this,'','embd-lnk');">NSAIDs</a>) can provide long-term relief from chronic pain and inflammation. NSAIDs work by blocking the production of certain body chemicals that cause inflammation. There are many different NSAIDs to choose from and your doctor may have to try several to find the right one for you.</p> 
+       <p>Long-term use of NSAIDs can cause <a href="http://www.webmd.com/digestive-disorders/picture-of-the-stomach" onclick="return sl(this,'','embd-lnk');">stomach</a> irritation, <a href="http://www.webmd.com/digestive-disorders/understanding-ulcers-basic-information" onclick="return sl(this,'','embd-lnk');">ulcers</a>, and even bleeding by inhibiting the production of the stomach's protective mucus layer. <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-1786-cytotec+oral.aspx">Cytotec</a> (<a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-6111-misoprostol+oral.aspx">misoprostol</a>) reverses this effect on the stomach, so some doctors recommend taking this medication along with NSAIDs. Other doctors prefer to protect the stomach by giving stomach acid blockers (proton pump inhibitors such as <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/mono-2250-OMEPRAZOLE+DELAYED+RELEASE+TABLET+-+ORAL.aspx?drugid=3766&amp;drugname=omeprazole+oral">omeprazole</a>). However, not everyone will need something to protect the stomach.</p> 
+       <p>Corticosteroids (commonly referred to as steroids) are powerful anti-inflammatory drugs that can be taken by mouth or injected directly into a joint or muscle to relieve severe pain and inflammation. They are chemically different from the muscle-building type of anabolic&nbsp;steroids.</p> 
+       <p> <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/mono-9383-PREDNISONE+-+ORAL.aspx?drugid=6007&amp;drugname=prednisone+oral">Prednisone</a> is the steroid most commonly used to treat certain <a href="http://www.webmd.com/rheumatoid-arthritis/an-overview-of-rheumatic-diseases" onclick="return sl(this,'','embd-lnk');">rheumatic diseases</a>. However, steroids are used only when absolutely needed because long-term use may cause serious side effects such as bone deterioration and joint weakness.</p> 
+       <p>Disease modifying anti-rheumatic drugs (DMARDs) have been shown to slow the progress of psoriatic arthritis. Available only by prescription, DMARDs are more powerful, yet slower acting, than NSAIDs and must be closely monitored by a doctor for side effects. DMARDs that are used to treat psoriatic arthritis include <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-20909-Methotrexate+Sodium+Oral.aspx?drugid=20909&amp;drugname=Methotrexate+Sodium+Oral">methotrexate</a> and <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-6260-sulfasalazine+oral.aspx">sulfasalazine</a>. Newer drugs, known as biologicals, target inflammation-causing substances that can lead to worsening of the disease. <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-16772-enbrel+subq.aspx">Enbrel</a>, Humira, <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-16554-remicade+iv.aspx">Remicade</a>, and Simponi are examples of&nbsp; these drugs.</p> 
+       <p> <b> <a href="http://www.webmd.com/fitness-exercise/guide/default.htm" onclick="return sl(this,'','embd-lnk');">Exercise</a> </b> </p> 
+       <p>Moderate, regular exercise may relieve <a href="http://www.webmd.com/rheumatoid-arthritis/guide/joint-stiffness-and-rheumatoid-arthritis" onclick="return sl(this,'','embd-lnk');">joint stiffness</a> and pain associated with psoriatic arthritis. A tailored program of range-of-motion and strengthening exercises, combined with cardiovascular exercise, can help:</p> 
+       <ul> 
+        <li>Relieve arthritis symptoms.</li> 
+        <li>Maintain normal joint movement.</li> 
+        <li>Increase flexibility and muscle strength.</li> 
+        <li>Maintain <a href="http://www.webmd.com/diet/tc/healthy-weight-what-is-a-healthy-weight" onclick="return sl(this,'','embd-lnk');">weight</a> to reduce pressure on joints.</li> 
+        <li>Improve endurance and cardiovascular fitness.</li> 
+       </ul> 
+       <p>Hydrotherapy or aqua therapy (water therapy) is a program of exercises performed in a large pool. Aqua therapy may be easier on painful joints from psoriatic arthritis because the water takes some of the weight off the affected areas. Appropriate recreational exercise also may be beneficial, but only if it is preceded by a program of range-of-motion, strength, and aerobic exercises to reduce the chance of injury. Regardless of the <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/fitness-exercise/guide/default.htm">exercise program</a> you select, it's important to choose one you enjoy so that you maintain it.</p> 
+       <p>Before beginning any new exercise program, discuss exercise options with your doctor. Also, begin new exercise programs under the supervision of a physical therapist or qualified professional, preferably one who has experience working with arthritis patients.</p> 
+       <p>Improper exercise programs may make psoriatic arthritis worse. Check with your doctor or therapist and adjust your program if you experience any of the following:</p> 
+       <ul> 
+        <li>Unusual or persistent fatigue</li> 
+        <li>Increased weakness</li> 
+        <li>Decreased range of motion</li> 
+        <li>Increased joint swelling</li> 
+        <li>Continuing pain (lasting more than an hour after exercising)</li> 
+       </ul> 
+      </div> 
+      <div style=" margin-left: 0;"> 
+       <b>Heat and Cold Therapy</b> 
+       <p>Heat and cold therapy involves alternating moist heat and cold to affected joints to provide temporary relief of pain and swelling associated with psoriatic arthritis. Moist heat -- supplied by a warm towel, hot pack, warm paraffin bath, or a simple warm bath or shower -- can help relax aching muscles and relieve <a href="http://www.webmd.com/pain-management/guide/joint-pain" onclick="return sl(this,'','embd-lnk');">joint pain</a> and soreness.</p> 
+       <p>Your doctor also may recommend <a href="http://www.webmd.com/a-to-z-guides/what-is-an-ultrasound" onclick="return sl(this,'','embd-lnk');">ultrasound</a> therapy for deep heating in some joints, depending on your condition.</p> 
+       <p>Cold therapy -- supplied by a bag of ice or even frozen vegetables wrapped in a towel -- can reduce swelling and relieve pain by numbing the affected joints.</p> 
+      </div> 
+      <div style=" margin-left: 0;"> 
+       <b>Joint Protection and Energy Conservation</b> 
+       <p>Daily activities should be performed in ways that reduce excess <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/balance/stress-management/">stress</a> and fatigue on joints. Proper body mechanics (the way you position your body during a physical task) may not only protect joints, but also conserve energy. People with psoriatic arthritis are encouraged to frequently change body position at work, at home, and during leisure activities. Maintaining good posture -- sitting and standing up straight and not arching the back -- also is valuable for preserving function.</p> 
+       <p>Three techniques can help distribute workloads and stress throughout the body to prevent overworking affected joints:</p> 
+       <ul> 
+        <li> <b>Pacing</b>. Alternate heavy, hard, or repetitive tasks with light or easy tasks, or with breaks from the activity.</li> 
+        <li> <b>Conservative joint use</b>. Use joints in a manner that produces the least amount of stress on them, such as using larger, stronger joints in place of smaller ones whenever possible. For example, use a <a href="http://www.webmd.com/pain-management/picture-of-the-shoulder" onclick="return sl(this,'','embd-lnk');">shoulder</a> bag rather than a hand-held purse.</li> 
+        <li> <b>Assistive devices</b>. A variety of helpful devices, such as canes, grab bars, extra-thick pens, luggage carts, or sit/stand stools can relieve stress on joints and make daily activities more comfortable. An occupational therapist can help you select devices that are appropriate for your type of psoriatic arthritis.</li> 
+       </ul> 
+      </div> 
+      <div style=" margin-left: 0;"> 
+       <b>Splinting</b> 
+       <p>Your doctor may recommend splinting to help with inflammation or problems with joint alignment or stability. Splints also can help minimize joint destruction that can be seen with psoriatic arthritis. Wrist or finger splints may help rest joints at night or hold them in a comfortable position during work or exercise. However, joints should not be totally immobilized. Splints should be removed periodically to perform gentle range-of-motion exercises to maintain mobility in those joints.</p> 
+      </div> 
+      <div style=" margin-left: 0;"> 
+       <b>Surgery</b> 
+       <p>Most people with psoriatic arthritis will never need surgery. However, when all other treatments fail, a surgical procedure called synovectomy may be required to restore joint function or remove diseased portions of the joints. Severely damaged joints may require arthroplasty or joint replacement surgery, in which natural joints are replaced with artificial ones to restore function in the affected area. Joint fusions also may be needed to take care of pain that doesn't respond to medications. Surgery also may relieve pain, increase movement, or improve the physical appearance of the affected area.</p> 
+      </div> 
+     </blockquote> 
+     <p>&nbsp;</p> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <script type="text/javascript">
+var pagination_title=new Array();
+var pagination_current=2;
+
+pagination_title[1]="";
+pagination_title[2]="Who Is at Risk for Psoriatic Arthritis?";
+pagination_title[3]="Living With Psoriatic Arthritis";
+</script> 
+    <div class="pagination_fmt"> 
+     <div class="left_fmt"> 
+      <div class="outline_fmt"> 
+       <a href="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis">&lt; Previous Page</a> 
+      </div> 
+     </div> 
+     <div class="right_fmt"> 
+      <a href="http://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis">1</a> 
+      <span class="pipe_fmt">|</span> 
+      <span class="current_fmt">2</span> 
+      <span class="pipe_fmt">|</span> 
+      <a href="?page=3" title="Page 3">3</a> 
+      <div class="outline_fmt right"> 
+       <a href="?page=3">Next Page <span class="symbol_fmt">&gt;</span></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "editorial";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'WebMD Medical Reference';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1161"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://arthritis.webmd.com/psoriatic-arthritis/stress-relief" onclick="return sl(this,'','rltd-p-1161_1');">Psoriatic Arthritis: 5 Tips to Beat Stress</a> </li> 
+     <li id="x63"> <a href="http://arthritis.webmd.com/psoriatic-arthritis/preventing-fatigue" onclick="return sl(this,'','rltd-p-1161_2');">Psoriatic Arthritis: 10 Fatigue-Fighting Tips</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/sleep-disorders/living-with-insomnia-11/pain-and-sleep" onclick="return sl(this,'','rltd-p-1161_3');">When Pain Interrupts Your Sleep</a> </li> 
+     <li id="x65"> <a class="type_vid" href="http://www.webmd.com/rheumatoid-arthritis/life-with-ra-10/default.htm?video=4" onclick="return sl(this,'','rltd-p-1161_4');"> 8 Joint-Friendly Exercises <i> </i></a> </li> 
+     <li id="x66"> <a href="http://arthritis.webmd.com/psoriatic-arthritis-quiz" onclick="return sl(this,'','rltd-p-1161_5');">Is Psoriatic Arthritis Limiting Your Life?</a> </li> 
+     <li id="x67" class="last"> <a href="http://arthritis.webmd.com/psoriatic-arthritis/features/coping" onclick="return sl(this,'','rltd-p-1161_6');">Psoriatic Arthritis: How to Cope</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1161_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806a7c23" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806a7b6c</chronic_id><r_object_id>091e9c5e806a7c23</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806a7b6c.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/12/2010 10:34:09</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Psoriatic Arthritis/template_Psoriatic Arthritis_091e9c5e802400f6.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e802400f6"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Hand Conditions</name><link_title>Hand Conditions</link_title><description>Hand conditions are typically part of a larger syndrome or disease &#45;&#45; such as arthritis, rheumatoid arthritis, and diabetes &#45;&#45; but they can stand alone. Carpal tunnel syndrome is the result of a pinched nerve near the wrist that causes a loss of feeling in the hand, Raynaud's disease is the constriction of blood vessels in the hand, and Dupuytren's disease is a thickening of the skin on the palm that eventually cuts off hand mobility. Follow the links below to find WebMD's comprehensive coverage about various hand conditions, how they are diagnosed, how they are treated, and much more.</description><friendly_url>http://www.webmd.com/pain-management/hand-conditions-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80605288"><link_title>Dupuytren’s Contracture: Causes and Risk Factors</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/features/dupuytrens-contracture-causes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fe2e"><link_title>Who's Watching Your Genes</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/news/20010424/whos-watching-your-genes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800829b9"><link_title>Carpal Tunnel? Blame Genes Not Overuse</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/news/20070216/carpal-tunnel-blame-genes-not-overuse</friendly_url><thumbnail height="" width="" alt="typing on a keyboard">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/February07/typing_dangers_exaggerated.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8026477b"><link_title>New Screening for Carpal Tunnel Syndrome</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/news/20080917/new-screening-for-carpal-tunnel-syndrome</friendly_url><thumbnail height="" width="" alt="Carpal Tunnel Syndrome Screening">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/September08/carpal_tunnel_syndrome_screening.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8060528a"><link_title>How Dupuytren’s Contracture Progresses</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/features/dupuytrens-contracture-progression</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80714a49"><link_title>Preventing and Treating Dry, Chapped Hands in Winter</link_title><friendly_url>http://www.webmd.com/beauty/skin/prevent-soothe-chapped-winter-hands</friendly_url><thumbnail height="" width="" alt="womans hands">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/01_2011/69x75_save_your_winter_hands_v02.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8064dae4"><link_title>Causes of Tingling in Hands and Feet</link_title><friendly_url>http://www.webmd.com/brain/tingling-in-hands-and-feet</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000d060"><link_title>Injection of Steroid Improves Symptoms of Carpal Tunnel Syndrome for at Least a Year</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/news/19991015/injection-of-steroid-improves-symptoms-of-carpal-tunnel-syndrome-for-at-least-year</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010835"><link_title>Finger Infection</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/finger-infection</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000f5ea"><link_title>For Treating Carpal Tunnel, the Best Treatment May Be None</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/news/20010612/for-treating-carpal-tunnel-best-treatment-may-be-none</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011098"><link_title>How to Handle High-Tech Hand Injuries</link_title><friendly_url>http://www.webmd.com/arthritis/features/how-to-handle-high-tech-hand-injuries</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8061af1a"><link_title>Lump or bump on the fingers,hand,or wrist</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/lump-or-bump-on-the-fingers-hand-or-wrist</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061af20"><link_title>Signs of infection in a finger,hand,or wrist</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/signs-of-infection-in-a-finger-hand-or-wrist</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061af1e"><link_title>Snap,pop,or grating of finger,hand,or wrist</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/snap-pop-or-grating-of-finger-hand-or-wrist</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e5b3"><link_title>Finger, Hand, and Wrist Problems, Noninjury-Check Your Symptoms</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/finger-hand-and-wrist-problems-noninjury-check-your-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001de1d"><link_title>Carpal Tunnel Syndrome-Exams and Tests</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/carpal-tunnel-syndrome-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e808f687c"><link_title>Dupuytren's Disease: Surgery Complications-Topic Overview</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/dupuytrens-disease-surgery-complications-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e529"><link_title>Finger, Hand, and Wrist Injuries-Home Treatment</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/finger-hand-and-wrist-injuries-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e808f687d"><link_title>Dupuytren's Disease: Surgery Complications-Related Information</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/dupuytrens-disease-surgery-complications-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d897"><link_title>Carpal Tunnel Syndrome-Topic Overview</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/carpal-tunnel-syndrome-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ea9c"><link_title>De Quervain's Tenosynovitis</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/de-quervains-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e808f687e"><link_title>Dupuytren's Disease: Surgery Complications-References</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/dupuytrens-disease-surgery-complications-references</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dd31"><link_title>Carpal Tunnel Syndrome-Health Tools</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/carpal-tunnel-syndrome-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001db5e"><link_title>Carpal Tunnel Syndrome-Treatment Overview</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/carpal-tunnel-syndrome-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d923"><link_title>Carpal Tunnel Syndrome-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/carpal-tunnel-syndrome-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e6e8"><link_title>Finger, Hand, and Wrist Injuries-Related Information</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/finger-hand-and-wrist-injuries-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e7b0"><link_title>Finger, Hand, and Wrist Injuries-Credits</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/finger-hand-and-wrist-injuries-credits</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e48f"><link_title>Finger, Hand, and Wrist Problems, Noninjury-Credits</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/finger-hand-and-wrist-problems-noninjury-credits</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e808f6994"><link_title>Preventing Finger, Hand, and Wrist Problems-Related Information</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/tc/preventing-finger-hand-and-wrist-problems-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e808f6993"><link_title>Preventing Finger, Hand, and Wrist Problems-Topic Overview</link_title><friendly_url>http://www.webmd.com/pain-management/carpal-tunnel/tc/preventing-finger-hand-and-wrist-problems-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/a-to-z-guides/features/dupuytrens-contracture-causes" onclick="return sl(this,'','td-rltd-art_1');">Dupuytren’s Contracture: Causes and Risk Factors</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/features/dupuytrens-contracture-progression" onclick="return sl(this,'','td-rltd-art_2');">How Dupuytren’s Contracture Progresses</a></li>
+      <li><a href="http://www.webmd.com/beauty/skin/prevent-soothe-chapped-winter-hands" onclick="return sl(this,'','td-rltd-art_3');">Preventing and Treating Dry, Chapped Hands in Winter</a></li>
+      <li><a href="http://www.webmd.com/brain/tingling-in-hands-and-feet" onclick="return sl(this,'','td-rltd-art_4');">Causes of Tingling in Hands and Feet</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/finger-infection" onclick="return sl(this,'','td-rltd-art_5');">Finger Infection</a></li>
+      <li><a href="http://www.webmd.com/arthritis/features/how-to-handle-high-tech-hand-injuries" onclick="return sl(this,'','td-rltd-art_6');">How to Handle High-Tech Hand Injuries</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/lump-or-bump-on-the-fingers-hand-or-wrist" onclick="return sl(this,'','td-rltd-art_7');">Lump or bump on the fingers,hand,or wrist</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/pain-management/hand-conditions-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Hand Conditions Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=373953497&tile=1882137442&tug=&pug=__&site=2&affiliate=20&hcent=&scent=1194&pos=113&xpg=2945&sec=&amp;au1=1&au2=1&uri=%2farthritis%2fpsoriatic-arthritis%2fpsoriatic-arthritis&artid=091e9c5e80009237&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_cust4_a080_l40_m07_m45_fit_r52_&mcent=2390&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'373953497',
+                    tile:'1882137442',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "2945";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=373953497&amp;tile=1882137442&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1194&amp;pos=5001&amp;xpg=2945&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2farthritis%2fpsoriatic-arthritis%2fpsoriatic-arthritis&amp;artid=091e9c5e80009237&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_cust4_a080_l40_m07_m45_fit_r52_&amp;mcent=2390&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=373953497&amp;amp;tile=1882137442&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1194&amp;amp;pos=5001&amp;amp;xpg=2945&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2farthritis%2fpsoriatic-arthritis%2fpsoriatic-arthritis&amp;amp;artid=091e9c5e80009237&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_cust4_a080_l40_m07_m45_fit_r52_&amp;amp;mcent=2390&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2945";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

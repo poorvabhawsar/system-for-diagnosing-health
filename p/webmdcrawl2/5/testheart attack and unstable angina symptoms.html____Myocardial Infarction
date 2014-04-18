@@ -1,0 +1,711 @@
+<title>Heart Attack and Unstable Angina-Symptoms</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/heart-disease/guide/what-to-do-after-a-heart-attack" onclick="return sl(this,'','lln-toolsres_1');">After a Heart Attack</a></li>
+      <li id="x57"><a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/heart-healthy-diet" onclick="return sl(this,'','lln-toolsres_2');">A Diet To Lower Cholesterol</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/heart-disease/slideshow-visual-guide-to-heart-disease" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">A Visual Guide to Heart Disease<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','lln-toolsres_4');">Test Your Cholesterol Smarts</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/heart-disease/exercising-for-a-healthy-heart" onclick="return sl(this,'','lln-toolsres_5');">Exercising for a Healthy Heart</a></li>
+      <li id="x61"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e8085e992&amp;promo=1" onclick="return sl(this,'','lln-toolsres_6');">Heart-Healthy Living With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e944e3" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e8001d0cc</i_chronicle_id><r_object_id>091e9c5e80e944e3</r_object_id><title>Symptoms</title><object_name>heart_attack_and_unstable_angina-symptoms_special_tx2309.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e944e3</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_tx2309</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="2" wbmd_disp_nm="Disease &amp; Condition - Symptoms"></wbmd_med_ref_type><wbmd_wdw_ttl>Heart Attack and Unstable Angina-Symptoms</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>The most common symptom of a heart attack is severe chest pain, although this sensation is not always present. In a recent review of 700 people treated for heart attack, 47% came to the emergency room because they had symptoms other than chest pain, including shortness of breath, dizziness, weakness or fainting, and abdominal pain.2Women, older adults, and people with diabetes are less likely to .</wbmd_desc_meta><wbmd_orig_pub_dt>05/08/2013 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>The most common symptom of a heart attack is severe chest pain, although this sensation is not always present. In a recent review of 700 people treated for heart attack, 47% came to the emergency room because they had symptoms other than chest pain, including shortness of breath, dizziness, weakness or fainting, and abdominal pain.2Women, older adults, and people with diabetes are less likely to .</wbmd_desc_user><wbmd_lk_ttl>Heart Attack and Unstable Angina-Symptoms</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Heart Attack and Unstable Angina-Symptoms</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.23</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e944e3</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1675" wbmd_disp_nm="Heart Disease"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3559" wbmd_disp_nm="Vascular Disease"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1054" wbmd_disp_nm="Heart Disease"></wbmd_c_channel_id><wbmd_c_frnd_nm>Heart-Attack-and-Unstable-Angina-Symptoms</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Symptoms</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Symptoms</title><pages><page><section_group><section_header>Heart attack</section_header><section_type>SpecialSection</section_type><section_text><p>Symptoms of a <a chronic_id="091e9c5e80012609" crossLinkId="1575935" directive="friendlyurl" externalId="091e9c5e80012609" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/heart_disease_heart_attacks.xml" keywordId="35941" keywordSetId="8911" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/heart_disease_heart_attacks.xml">heart attack</a> include:</p><ul><li><a chronic_id="091e9c5e80521096" crossLinkId="1514340" directive="friendlyurl" externalId="091e9c5e80521096" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/whats_causing_my_chest_pain.xml" keywordId="32938" keywordSetId="8361" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/whats_causing_my_chest_pain.xml">Chest pain</a> or pressure, or a strange feeling in the chest.</li><li><a chronic_id="091e9c5e80099369" crossLinkId="1559765" directive="friendlyurl" externalId="091e9c5e80099369" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/hyperhidrosis.xml" keywordId="70978" keywordSetId="32063" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/hyperhidrosis.xml">Sweating</a>.</li><li>Shortness of breath.</li><li><a chronic_id="091e9c5e800079b6" crossLinkId="5629" directive="friendlyurl" externalId="091e9c5e800079b6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml" keywordId="38405" keywordSetId="9410" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml">Nausea</a> or vomiting.</li><li>Pain, pressure, or a strange feeling in the back, neck, jaw, or upper belly, or in one or both shoulders or arms.</li><li>Lightheadedness or sudden weakness.</li><li>A fast or <a chronic_id="091e9c5e8084eeb7" crossLinkId="1534566" directive="friendlyurl" externalId="091e9c5e8084eeb7" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/heart_palpitations_.xml" keywordId="35967" keywordSetId="8916" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/heart_palpitations_.xml">irregular heartbeat</a>.</li></ul><p><b>Call </b><inline.emer-num></inline.emer-num><b> or other emergency services immediately</b> if you think you are having a <a chronic_id="091e9c5e803739e7" crossLinkId="70400" directive="friendlyurl" externalId="091e9c5e803739e7" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.xml" keywordId="58691" keywordSetId="25969" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.xml">heart</a> attack.</p><p><b><a chronic_id="" crossLinkId="66820" directive="friendlyurl" externalId="18030" href="http://www.webmd.com/drugs/drug-18030-nitroglycerin+oral.aspx" keywordId="55293" keywordSetId="22853" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-18030-nitroglycerin+oral.aspx">Nitroglycerin</a>.</b> If you typically use nitroglycerin to relieve <a chronic_id="091e9c5e800092ca" crossLinkId="23253" directive="friendlyurl" externalId="091e9c5e800092ca" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/Heart_Disease_Angina.xml" keywordId="6829" keywordSetId="794" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/Heart_Disease_Angina.xml">angina</a> and if one dose of nitroglycerin has not relieved your symptoms
+			 within 5 minutes, call <inline.emer-num></inline.emer-num>. Do not wait to call for help.</p></section_text></section_group><section_group><section_header>Unstable angina</section_header><section_type>SpecialSection</section_type><section_text><p><a chronic_id="091e9c5e8001b4e7" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/unstable_angina_definition_stu3088.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/unstable_angina_definition_stu3088.xml">Unstable angina</a> symptoms are similar to a heart attack. </p><p><b>Call </b><inline.emer-num></inline.emer-num><b> or other emergency services immediately</b> if you think you are having a heart attack or unstable angina.</p><p>People who have <b>unstable angina</b> often describe
+		 their symptoms as:</p><ul><li>Starting within the past 2 months and becoming more
+			 severe.</li><li>Limiting their <a chronic_id="091e9c5e80c1b43d" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80c1b43d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml" keywordId="35037" keywordSetId="8746" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml">physical activity</a>.</li><li>Suddenly becoming more frequent, severe, or longer-lasting or
+			 being brought on by less exertion than before.</li><li>Occurring at rest with no obvious exertion or stress. Some say these symptoms may wake
+			 you up.</li><li>Not responding to rest or nitroglycerin.</li></ul><p> The symptoms of <a chronic_id="091e9c5e8001b5d0" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/stable_angina_definition_sts15235.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stable_angina_definition_sts15235.xml">stable angina</a> are different from those of
+		 unstable angina. Stable angina occurs at predictable times with a specific
+		 amount of exertion or activity and may continue without much change for years.
+		 It is relieved by rest or nitrates (nitroglycerin) and usually lasts less than
+		 5 minutes.</p></section_text></section_group><section_group><section_header>Women's symptoms</section_header><section_type>SpecialSection</section_type><section_text><p> For men and women, the most common symptom is chest pain or pressure. But women are somewhat more likely than men to have other symptoms like shortness of breath, nausea, and back or <a chronic_id="091e9c5e800091bf" crossLinkId="3533" directive="friendlyurl" externalId="091e9c5e800091bf" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/dental_health/miscellaneous/dental_health_toothache.xml" keywordId="72264" keywordSetId="32616" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/dental_health/miscellaneous/dental_health_toothache.xml">jaw pain</a>.</p><p>Women are more likely than men to delay seeking help for a possible heart attack. Women delay for many reasons, like not being sure it is a heart attack or not wanting to bother others. But it is better to be safe than sorry. If you have symptoms of a possible heart attack, call for help.
+
+When you get to the hospital, don't be afraid to speak up for what you need. To get the tests and care that you need, be sure your doctors know that you think you might be having a heart attack.</p><p>For more information, see <a chronic_id="091e9c5e8001d0b0" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/women_and_coronary_artery_disease-topic_overview_special_te7821.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/women_and_coronary_artery_disease-topic_overview_special_te7821.xml">Women and Coronary Artery Disease</a>.</p></section_text></section_group><section_group><section_header>Other ways to describe chest pain</section_header><section_type>SpecialSection</section_type><section_text><p>People who are having a heart attack
+		 often describe their chest pain in various ways. The pain:</p><ul><li>May feel like pressure, heaviness, <a chronic_id="091e9c5e8001d084" crossLinkId="50064" directive="friendlyurl" externalId="091e9c5e8001d084" href="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.xml" keywordId="35927" keywordSetId="8910" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.xml">weight</a>, tightness, squeezing,
+			 discomfort, burning, a sharp ache (less common), or a dull ache. People often
+			 put a fist to the chest when describing the pain.</li><li>May radiate from the chest down the left <a chronic_id="091e9c5e80583331" crossLinkId="1507498" directive="friendlyurl" externalId="091e9c5e80583331" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.xml" keywordId="62991" keywordSetId="28547" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.xml">shoulder</a> and arm (the
+			 most common site) and also to <a chronic_id="091e9c5e8001e8f2" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/angina_symptoms_multimedia_tp10966.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/angina_symptoms_multimedia_tp10966.xml">other areas</a><a chronic_id="091e9c5e8001e8f2" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/angina_symptoms_multimedia_tp10966.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/angina_symptoms_multimedia_tp10966.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>, including the left shoulder, middle
+			 of the back, upper portion of the <a chronic_id="091e9c5e803c7410" crossLinkId="73848" directive="friendlyurl" externalId="091e9c5e803c7410" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_abdomen.xml" keywordId="60258" keywordSetId="26563" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_abdomen.xml">abdomen</a>, right arm, neck, and jaw.</li><li>May be diffuse—the exact location of the pain is usually
+			 difficult to point out.</li><li>Is not made worse by taking a deep breath or pressing on the
+			 chest.</li><li>Usually begins at a low level, then gradually increases over
+			 several minutes to a peak. The discomfort may come and go. Chest pain that
+			 reaches its maximum intensity within seconds may represent another serious
+			 problem, such as an
+			 <a chronic_id="091e9c5e8001b4dd" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/aortic_dissection_definition_te7786.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/aortic_dissection_definition_te7786.xml">aortic dissection</a>.</li></ul><p>It is possible to have a "silent heart attack" without any symptoms, but
+		 this is rare. </p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-symptoms" owner="false"><breadcrumb><bread piece="Heart Health Center" prefix="www" friendlyurl="/heart/default.htm"></bread><bread piece="Heart Disease Health Center" prefix="www" friendlyurl="/heart-disease/default.htm"></bread><bread piece="Heart Disease Related Topics" prefix="www" friendlyurl="/heart-disease/tc/default.htm"></bread></breadcrumb><centers><Topic id="899" name="tmg" chronicid="091e9c5e8001d2a5" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-overview" type="Topic">Heart Attack and Unstable Angina</Topic><Health id="968" name="health center" chronicid="091e9c5e80688800" prefix="www" friendlyurl="/heart-disease/default.htm" type="">Heart Disease</Health><Super id="948" name="super center" chronicid="091e9c5e80027294" prefix="www" friendlyurl="/heart/default.htm" type="">Heart Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-symptoms" owner="false"><breadcrumb><bread piece="Heart Disease Health Center" prefix="www" friendlyurl="/heart-disease/default.htm"></bread><bread piece="Heart Disease Related Topics" prefix="www" friendlyurl="/heart-disease/tc/default.htm"></bread></breadcrumb><centers><Topic id="11108" name="tmg" chronicid="091e9c5e8001d2a5" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-overview" type="Topic">Heart Attack and Unstable Angina</Topic><Health id="11105" name="health center" chronicid="091e9c5e80688800" prefix="www" friendlyurl="/heart-disease/default.htm" type="">Heart Disease</Health></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e80012609" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/heart_disease_heart_attacks.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/guide/heart-disease-heart-attacks"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/guide/heart-disease-heart-attacks"></target></object><object chronic_id="091e9c5e80521096" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/whats_causing_my_chest_pain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/guide/whats-causing-my-chest-pain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/guide/whats-causing-my-chest-pain"></target></object><object chronic_id="091e9c5e80099369" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/hyperhidrosis.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/hyperhidrosis2"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/hyperhidrosis2"></target></object><object chronic_id="091e9c5e800079b6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-nausea-vomiting"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-nausea-vomiting"></target></object><object chronic_id="091e9c5e8084eeb7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/heart_palpitations_.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/guide/what-causes-heart-palpitations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/guide/what-causes-heart-palpitations"></target></object><object chronic_id="091e9c5e803739e7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/picture-of-the-heart"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-heart"></target></object><object chronic_id="091e9c5e800092ca" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/Heart_Disease_Angina.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/guide/heart-disease-angina"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/guide/heart-disease-angina"></target></object><object chronic_id="091e9c5e8001b4e7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/unstable_angina_definition_stu3088.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/unstable-angina"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/unstable-angina"></target></object><object chronic_id="091e9c5e80c1b43d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target></object><object chronic_id="091e9c5e8001b5d0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stable_angina_definition_sts15235.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/stable-angina"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/stable-angina"></target></object><object chronic_id="091e9c5e800091bf" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/dental_health/miscellaneous/dental_health_toothache.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/oral-health/toothaches"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/oral-health/toothaches"></target></object><object chronic_id="091e9c5e8001d0b0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/women_and_coronary_artery_disease-topic_overview_special_te7821.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/women-and-coronary-artery-disease-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/women-and-coronary-artery-disease-topic-overview"></target></object><object chronic_id="091e9c5e8001d084" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diet/tc/healthy-weight-what-is-a-healthy-weight"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diet/tc/healthy-weight-what-is-a-healthy-weight"></target></object><object chronic_id="091e9c5e80583331" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_shoulder.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/picture-of-the-shoulder"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-shoulder"></target></object><object chronic_id="091e9c5e8001e8f2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/angina_symptoms_multimedia_tp10966.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/most-common-areas-of-pain-caused-by-angina"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/most-common-areas-of-pain-caused-by-angina"></target></object><object chronic_id="091e9c5e803c7410" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_abdomen.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-abdomen"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-abdomen"></target></object><object chronic_id="091e9c5e8001b4dd" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/aortic_dissection_definition_te7786.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/aortic-dissection-6512"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/aortic-dissection-6512"></target></object><object chronic_id="091e9c5e8001d2a5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-overview_special_tx2303.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-overview"></target></object><object chronic_id="091e9c5e8001d454" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-health_tools_special_tx2300-healthtools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-health-tools"></target></object><object chronic_id="091e9c5e8001cd39" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-frequently_asked_questions_special_ug1800.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-frequently-asked-questions"></target></object><object chronic_id="091e9c5e8001d68c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-cause_special_tx2307.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-cause"></target></object><object chronic_id="091e9c5e8001d0cc" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-symptoms_special_tx2309.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-symptoms"></target></object><object chronic_id="091e9c5e8001cd53" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-what_increases_your_risk_special_tx2315.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001d669" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-when_to_call_a_doctor_special_tx2317.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001d6d6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-exams_and_tests_special_tx2323.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-exams-and-tests"></target></object><object chronic_id="091e9c5e8001d292" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-treatment_overview_special_tx2328.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-treatment-overview"></target></object><object chronic_id="091e9c5e8001cfa3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-prevention_special_tx2335.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-prevention"></target></object><object chronic_id="091e9c5e8001cdb5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-preventing_another_heart_attack_special_ug1801.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-ongoing-concerns"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-ongoing-concerns"></target></object><object chronic_id="091e9c5e8001cf62" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-life_after_a_heart_attack_special_tx2339.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-life-after-a-heart-attack"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-life-after-a-heart-attack"></target></object><object chronic_id="091e9c5e8001cfb0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-medications_special_tx2341.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-medications"></target></object><object chronic_id="091e9c5e8001d0c2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-surgery_special_tx2353.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-surgery"></target></object><object chronic_id="091e9c5e8001d4cc" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-treatment_for_complications_special_tx2359.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-other-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-other-treatment"></target></object><object chronic_id="091e9c5e8001ce9f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-end-of-life_decisions_special_te7737.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-end-of-life-decisions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-end-of-life-decisions"></target></object><object chronic_id="091e9c5e8001d6d4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-other_places_to_get_help_special_tx2300-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001ce7a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-related_information_special_tx2300-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-related-information"></target></object><object chronic_id="091e9c5e8001d414" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-references_special_tx2300-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-references"></target></object><object chronic_id="091e9c5e8001d67b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-credits_special_tx2300-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/heart-attack-and-unstable-angina-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e80023771" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/heart_attack_and_unstable_angina_special_tx2300.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d2a5" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-overview_special_tx2303.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e8001d454" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-health_tools_special_tx2300-healthtools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cd39" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-frequently_asked_questions_special_ug1800.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Cause</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d68c" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-cause_special_tx2307.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d0cc" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-symptoms_special_tx2309.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Increases Your Risk</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cd53" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-what_increases_your_risk_special_tx2315.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>When to Call a Doctor</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d669" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-when_to_call_a_doctor_special_tx2317.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d6d6" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-exams_and_tests_special_tx2323.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d292" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-treatment_overview_special_tx2328.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Prevention</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cfa3" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-prevention_special_tx2335.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Preventing Another Heart Attack</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cdb5" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-preventing_another_heart_attack_special_ug1801.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Life After a Heart Attack</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cf62" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-life_after_a_heart_attack_special_tx2339.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Medications</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001cfb0" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-medications_special_tx2341.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Surgery</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d0c2" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-surgery_special_tx2353.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment for Complications</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d4cc" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-treatment_for_complications_special_tx2359.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>End-of-Life Decisions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001ce9f" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-end-of-life_decisions_special_te7737.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001d6d4" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-other_places_to_get_help_special_tx2300-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001ce7a" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-related_information_special_tx2300-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001d414" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-references_special_tx2300-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d67b" path="/webmd/consumer_assets/controlled_content/healthwise/special/heart_attack_and_unstable_angina-credits_special_tx2300-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Heart Attack and Unstable Angina</title><dynamic_objects><callout_title>Recommended Related to Heart Disease</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80a74b94"><metadata_section><i_chronicle_id>091e9c5e80007ae2</i_chronicle_id><title>Heart Disease and a Heart-Healthy Diet</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>If you have heart disease, a heart-healthy diet begins by paying close attention to what you eat. You can reduce your chance of developing atherosclerosis, the blocked arteries that cause heart disease, with a heart-healthy diet. If the artery-clogging process has already begun, you can slow the rate at which it progresses.
+While this is very important for everyone at risk for atherosclerosis, it is even more important if you have had a heart attack or a procedure to restore blood flow to your heart...</p></section_text><link siteid="3" prefix="www" friendlyurl="/heart-disease/guide/heart-healthy-diet"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Heart Attack and Unstable Angina - Symptoms</h2>
+     <div class="hwDefinition_fmt">
+      <h3>Heart attack</h3>
+      <p>Symptoms of a <a href="http://www.webmd.com/heart-disease/guide/heart-disease-heart-attacks" onclick="return sl(this,'','embd-lnk');">heart attack</a> include:</p>
+      <ul>
+       <li><a href="http://www.webmd.com/pain-management/guide/whats-causing-my-chest-pain" onclick="return sl(this,'','embd-lnk');">Chest pain</a> or pressure, or a strange feeling in the chest.</li>
+       <li><a href="http://www.webmd.com/skin-problems-and-treatments/hyperhidrosis2" onclick="return sl(this,'','embd-lnk');">Sweating</a>.</li>
+       <li>Shortness of breath.</li>
+       <li><a href="http://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting" onclick="return sl(this,'','embd-lnk');">Nausea</a> or vomiting.</li>
+       <li>Pain, pressure, or a strange feeling in the back, neck, jaw, or upper belly, or in one or both shoulders or arms.</li>
+       <li>Lightheadedness or sudden weakness.</li>
+       <li>A fast or <a href="http://www.webmd.com/heart-disease/guide/what-causes-heart-palpitations" onclick="return sl(this,'','embd-lnk');">irregular heartbeat</a>.</li>
+      </ul>
+      <p xmlns:xalan="http://xml.apache.org/xalan"><b>Call </b><span class="red_fmt">911</span><b> or other emergency services immediately</b> if you think you are having a <a href="http://www.webmd.com/heart/picture-of-the-heart" onclick="return sl(this,'','embd-lnk');">heart</a> attack.</p>
+      <p><b><a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-18030-nitroglycerin+oral.aspx">Nitroglycerin</a>.</b> If you typically use nitroglycerin to relieve <a href="http://www.webmd.com/heart-disease/guide/heart-disease-angina" onclick="return sl(this,'','embd-lnk');">angina</a> and if one dose of nitroglycerin has not relieved your symptoms within 5 minutes, call <span class="red_fmt">911</span>. Do not wait to call for help.</p>
+      <h3>Unstable angina</h3>
+      <p><a href="http://www.webmd.com/hw-popup/unstable-angina" onclick="return sl(this,'hw','embd-lnk');">Unstable angina</a> symptoms are similar to a heart attack. </p>
+      <p><b>Call </b><span class="red_fmt">911</span><b> or other emergency services immediately</b> if you think you are having a heart attack or unstable angina.</p>
+      <p>People who have <b>unstable angina</b> often describe their symptoms as:</p>
+      <ul>
+       <li>Starting within the past 2 months and becoming more severe.</li>
+       <li>Limiting their <a href="http://www.webmd.com/fitness-exercise/default.htm" onclick="return sl(this,'','embd-lnk');">physical activity</a>.</li>
+       <li>Suddenly becoming more frequent, severe, or longer-lasting or being brought on by less exertion than before.</li>
+       <li>Occurring at rest with no obvious exertion or stress. Some say these symptoms may wake you up.</li>
+       <li>Not responding to rest or nitroglycerin.</li>
+      </ul>
+      <p> The symptoms of <a href="http://www.webmd.com/hw-popup/stable-angina" onclick="return sl(this,'hw','embd-lnk');">stable angina</a> are different from those of unstable angina. Stable angina occurs at predictable times with a specific amount of exertion or activity and may continue without much change for years. It is relieved by rest or nitrates (nitroglycerin) and usually lasts less than 5 minutes.</p>
+      <h3>Women's symptoms</h3>
+      <p> For men and women, the most common symptom is chest pain or pressure. But women are somewhat more likely than men to have other symptoms like shortness of breath, nausea, and back or <a href="http://www.webmd.com/oral-health/toothaches" onclick="return sl(this,'','embd-lnk');">jaw pain</a>.</p>
+      <p>Women are more likely than men to delay seeking help for a possible heart attack. Women delay for many reasons, like not being sure it is a heart attack or not wanting to bother others. But it is better to be safe than sorry. If you have symptoms of a possible heart attack, call for help. When you get to the hospital, don't be afraid to speak up for what you need. To get the tests and care that you need, be sure your doctors know that you think you might be having a heart attack.</p>
+      <p>For more information, see <a href="http://www.webmd.com/heart-disease/tc/women-and-coronary-artery-disease-topic-overview" onclick="return sl(this,'','embd-lnk');">Women and Coronary Artery Disease</a>.</p>
+      <h3>Other ways to describe chest pain</h3>
+      <p>People who are having a heart attack often describe their chest pain in various ways. The pain:</p>
+      <ul>
+       <li>May feel like pressure, heaviness, <a href="http://www.webmd.com/diet/tc/healthy-weight-what-is-a-healthy-weight" onclick="return sl(this,'','embd-lnk');">weight</a>, tightness, squeezing, discomfort, burning, a sharp ache (less common), or a dull ache. People often put a fist to the chest when describing the pain.</li>
+       <li>May radiate from the chest down the left <a href="http://www.webmd.com/pain-management/picture-of-the-shoulder" onclick="return sl(this,'','embd-lnk');">shoulder</a> and arm (the most common site) and also to <a href="http://www.webmd.com/heart-disease/most-common-areas-of-pain-caused-by-angina" onclick="return sl(this,'','embd-lnk');">other areas</a> <a href="http://www.webmd.com/heart-disease/most-common-areas-of-pain-caused-by-angina" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>, including the left shoulder, middle of the back, upper portion of the <a href="http://www.webmd.com/digestive-disorders/picture-of-the-abdomen" onclick="return sl(this,'','embd-lnk');">abdomen</a>, right arm, neck, and jaw.</li>
+       <li>May be diffuse—the exact location of the pain is usually difficult to point out.</li>
+       <li>Is not made worse by taking a deep breath or pressing on the chest.</li>
+       <li>Usually begins at a low level, then gradually increases over several minutes to a peak. The discomfort may come and go. Chest pain that reaches its maximum intensity within seconds may represent another serious problem, such as an <a href="http://www.webmd.com/hw-popup/aortic-dissection-6512" onclick="return sl(this,'hw','embd-lnk');">aortic dissection</a>.</li>
+      </ul>
+      <p>It is possible to have a &quot;silent heart attack&quot; without any symptoms, but this is rare. </p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Overview',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-health-tools'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Cause',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-cause'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-symptoms'
+			});
+            
+			topics.push({
+			title : 'What Increases Your Risk',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-what-increases-your-risk'
+			});
+            
+			topics.push({
+			title : 'When to Call a Doctor',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-when-to-call-a-doctor'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-prevention'
+			});
+            
+			topics.push({
+			title : 'Preventing Another Heart Attack',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-ongoing-concerns'
+			});
+            
+			topics.push({
+			title : 'Life After a Heart Attack',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-life-after-a-heart-attack'
+			});
+            
+			topics.push({
+			title : 'Medications',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-medications'
+			});
+            
+			topics.push({
+			title : 'Surgery',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-surgery'
+			});
+            
+			topics.push({
+			title : 'Treatment for Complications',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-other-treatment'
+			});
+            
+			topics.push({
+			title : 'End-of-Life Decisions',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-end-of-life-decisions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: May 08, 2013
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-overview">Overview</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-health-tools">Health Tools</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-cause">Cause</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-symptoms">Symptoms</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-what-increases-your-risk">What Increases Your Risk</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-when-to-call-a-doctor">When to Call a Doctor</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-prevention">Prevention</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-ongoing-concerns">Preventing Another Heart Attack</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-life-after-a-heart-attack">Life After a Heart Attack</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-medications">Medications</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-surgery">Surgery</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-other-treatment">Treatment for Complications</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-end-of-life-decisions">End-of-Life Decisions</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-related-information">Related Information</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-references">References</option><option value="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Heart Attack and Unstable Angina Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-overview" onclick="return sl(this,'','topicNav_1');" title="Overview">Overview</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-frequently-asked-questions" onclick="return sl(this,'','topicNav_3');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-cause" onclick="return sl(this,'','topicNav_4');" title="Cause">Cause</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-symptoms" onclick="return sl(this,'','topicNav_5');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-what-increases-your-risk" onclick="return sl(this,'','topicNav_6');" title="What Increases Your Risk">What Increases Your Risk</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-when-to-call-a-doctor" onclick="return sl(this,'','topicNav_7');" title="When to Call a Doctor">When to Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-exams-and-tests" onclick="return sl(this,'','topicNav_8');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-treatment-overview" onclick="return sl(this,'','topicNav_9');" title="Treatment Overview">Treatment Overview</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-prevention" onclick="return sl(this,'','topicNav_10');" title="Prevention">Prevention</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-ongoing-concerns" onclick="return sl(this,'','topicNav_11');" title="Preventing Another Heart Attack">Preventing Another Heart Attack</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-life-after-a-heart-attack" onclick="return sl(this,'','topicNav_12');" title="Life After a Heart Attack">Life After a Heart Attack</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-medications" onclick="return sl(this,'','topicNav_13');" title="Medications">Medications</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-surgery" onclick="return sl(this,'','topicNav_14');" title="Surgery">Surgery</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-other-treatment" onclick="return sl(this,'','topicNav_15');" title="Treatment for Complications">Treatment for Complications</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-end-of-life-decisions" onclick="return sl(this,'','topicNav_16');" title="End-of-Life Decisions">End-of-Life Decisions</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-other-places-to-get-help" onclick="return sl(this,'','topicNav_17');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-related-information" onclick="return sl(this,'','topicNav_18');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-references" onclick="return sl(this,'','topicNav_19');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/heart-attack-and-unstable-angina-credits" onclick="return sl(this,'','topicNav_20');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1054"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/healthy-aging/medical-cost-disability-11/heart-disease" onclick="return sl(this,'','rltd-p-1054_1');">Heart Disease: What Are the Medical Costs?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','rltd-p-1054_2');">Quiz: Test Your Cholesterol Smarts</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/slideshow-living-with-a-fib" onclick="return sl(this,'','rltd-p-1054_3');">10 Tips for Living With Atrial Fibrillation</a> </li> 
+     <li id="x65"> <a href="http://men.webmd.com/erectile-dysfunction-11/myths-and-facts" onclick="return sl(this,'','rltd-p-1054_4');">Heart Problems and ED: What's the Link?</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/oral-health/answers-periodontal" onclick="return sl(this,'','rltd-p-1054_5');">Gum Disease: Linked to Heart Problems?</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/medication" onclick="return sl(this,'','rltd-p-1054_6');">Cholesterol Medications: Which Drug Is Right for You?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1054_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80b52be3" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb80</chronic_id><r_object_id>091e9c5e80b52be3</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8068fb80.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/30/2012 19:27:36</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Heart Disease Center/template_Heart Disease Health Center_091e9c5e8002329b.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002329b"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Heart Attack</name><link_title>Heart Attack</link_title><description>More than 1 million Americans have heart attacks each year. Also called myocardial infarction, or MI, heart attacks can be deadly if medical care isn't received quickly. Besides taking steps to keep your heart healthy, such as eat right, exercise, maintain a healthy weight, keep your blood cholesterol and blood pressure in check, recognizing and responding to heart attack symptoms is key to survival. Follow the links below to find WebMD's comprehensive coverage about heart attack, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/heart-disease/heart-attack-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e801ecd5b"><link_title>Heart attack warning signs. How much do you know? - WebMD</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-attack-quiz</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1078</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is variant angina in the chest?</link_title><friendly_url>http://answers.webmd.com/answers/1196417/what-is-variant-angina-in-the</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>How does coronary artery disease develop?</link_title><friendly_url>http://answers.webmd.com/answers/1170825/how-does-coronary-artery-disease-develop</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is a heart attack?</link_title><friendly_url>http://answers.webmd.com/answers/1179015/what-is-a-heart-attack</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is unstable angina in the heart?</link_title><friendly_url>http://answers.webmd.com/answers/1196415/what-is-unstable-angina-in-the</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800e6aed"><link_title>How Heart Attacks are Different in Women</link_title><friendly_url>http://www.webmd.com/women/video/heart-attack-women-different</friendly_url><thumbnail height="48" width="48" alt="marianne legato md">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/heart-health/heart-disease/legato-heart-attack-differences/graphics/thumbnails/final/legato-heart-attack-differences-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007125"><link_title>How to Handle Heart Emergencies</link_title><friendly_url>http://www.webmd.com/heart-disease/handle-cardiac-emergencies</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8018c836"><link_title>Why is Heart Disease a Major Killer?</link_title><friendly_url>http://www.webmd.com/heart-disease/video/bernstein-heart-disease-kill</friendly_url><thumbnail height="48" width="48" alt="man getting heart checked">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/heart-health/heart-disease/bernstein-heart-disease-kill/graphics/thumbnails/final/bernstein-heart-disease-kill-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80005ff6"><link_title>Faster Action for Heart Attack</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040614/faster-action-urged-for-heart-attack-care</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800060fd"><link_title>CPR, minus mouth-to-mouth, still effective.</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000524/cpr-without-mouth-to-mouth-effective</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800062db"><link_title>Is heart disease a bigger killer of women than Cancer?</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000608/heart-disease-kills-women-too</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000632a"><link_title>9/11 Sent Real Shocks to Hearts Near and Far</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040310/9-11-shocks-hearts</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000636c"><link_title>heart disease &#45;&#45; at risk</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040519/high-risk-heart-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800064ce"><link_title>heart attack treatment</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040517/northeast-heart-attack</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006590"><link_title>treatments for heart patients</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-failure/news/20040519/implants-heart-failure</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800065c0"><link_title>Aspirin Helps Prevent First Heart Attack</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20030924/aspirin-prevent-attack</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800068aa"><link_title>Too Many Heart Attack Victims Don't Call 911</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000710/heart-attack-no-911-call</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006958"><link_title>Are All Hospitals Created Equal When Treating Unstable Angina?</link_title><friendly_url>http://www.webmd.com/heart-disease/news/19991203/hospital-treatment-varies-unstable-angina</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006983"><link_title>Travel Checklist for Heart Patients</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040719/new-air-travel-checklist-for-heart-patients</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006a76"><link_title>Are All Hospitals Created Equal When Treating Unstable Angina?</link_title><friendly_url>http://www.webmd.com/news/19991203/hospital-treatment-varies-unstable-angina</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006b8d"><link_title>After a Heart Attack, Heartbeat Disturbance Can Be Deadly</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000306/after-a-heart-attack-heartbeat-disturbance-can-be-deadly</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006dd8"><link_title>Light Smoking Doubles Heart Attack Risk in Young Women</link_title><friendly_url>http://www.webmd.com/heart-disease/news/19991213/light-smoking-doubles-risk-heart-attack-young-women</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006edd"><link_title>Custom Chest Pain Centers Lure Patients in Early</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000210/custom-chest-pain-centers-lure-patients-early</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006ee1"><link_title>Benefits of B Vitamins Unsettled</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000210/benefits-bs-unsettled</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006f43"><link_title>Too Few Patients With Heart Disease Take Aspirin</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000313/patients-heart-disease-aspirin</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006f45"><link_title>Three Days in Hospital Enough for Some Heart Attack Patients?</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000315/three-days-hospital-heart-attack-patients</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006fd5"><link_title>Is heart disease a bigger killer of women than Cancer?</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000614/woman-fear-cancer-not-heart-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80006fe7"><link_title>St. John's Wort and Plavix May Be Risky Combo</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20050308/st-johns-wort-plavix-may-be-risky-combo</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000728a"><link_title>Portable defibrillators are saving lives.</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000518/shocking-way-to-save-lives</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007387"><link_title>Heart patients and medication</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040310/heart-patients-medication</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://answers.webmd.com/answers/1196417/what-is-variant-angina-in-the" onclick="return sl(this,'','lln-tdrelcon_1');">What is variant angina in the chest?</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/heart-attack-quiz" onclick="return sl(this,'','lln-tdrelcon_2');">Heart attack warning signs. How much do you know? - WebMD</a></li>
+      <li><a href="http://www.webmd.com/women/video/heart-attack-women-different" onclick="return sl(this,'','lln-tdrelcon_3');">How Heart Attacks are Different in Women</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/handle-cardiac-emergencies" onclick="return sl(this,'','lln-tdrelcon_4');">How to Handle Heart Emergencies</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/video/bernstein-heart-disease-kill" onclick="return sl(this,'','lln-tdrelcon_5');">Why is Heart Disease a Major Killer?</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/heart-disease/heart-attack-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Heart Attack Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1598053074&amp;tile=1204880334&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=968&amp;scent=948&amp;pos=5000&amp;xpg=1675&amp;sec=3559&amp;au1=1&amp;au2=1&amp;uri=%2fheart-disease%2ftc%2fheart-attack-and-unstable-angina-symptoms&amp;artid=091e9c5e8001d0cc&amp;inst=0&amp;leaf=899&amp;cc=16&amp;tmg=1&amp;bc=_age23_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1598053074&amp;amp;tile=1204880334&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=968&amp;amp;scent=948&amp;amp;pos=5000&amp;amp;xpg=1675&amp;amp;sec=3559&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fheart-disease%2ftc%2fheart-attack-and-unstable-angina-symptoms&amp;amp;artid=091e9c5e8001d0cc&amp;amp;inst=0&amp;amp;leaf=899&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age23_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1675";
+			var secTopId = "3559";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1598053074&amp;tile=1204880334&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=968&amp;scent=948&amp;pos=5001&amp;xpg=1675&amp;sec=3559&amp;au1=1&amp;au2=1&amp;uri=%2fheart-disease%2ftc%2fheart-attack-and-unstable-angina-symptoms&amp;artid=091e9c5e8001d0cc&amp;inst=0&amp;leaf=899&amp;cc=16&amp;tmg=1&amp;bc=_age23_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1598053074&amp;amp;tile=1204880334&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=968&amp;amp;scent=948&amp;amp;pos=5001&amp;amp;xpg=1675&amp;amp;sec=3559&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fheart-disease%2ftc%2fheart-attack-and-unstable-angina-symptoms&amp;amp;artid=091e9c5e8001d0cc&amp;amp;inst=0&amp;amp;leaf=899&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age23_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1675";
+			var secTopId = "3559";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

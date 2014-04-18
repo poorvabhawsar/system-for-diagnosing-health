@@ -1,0 +1,644 @@
+<title>Exercise, Workout, and Fitness Center: Yoga, Cardio, Strength Training, and More</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <script type="text/javascript">
+  <!--
+if(typeof webmd=="undefined"){webmd={};webmd.m={}}webmd.m.ss={delay:5000,init:function(){function A(){if(j<($(".slides .slide").length-1)){webmd.m.ss.fade(j,j+1,$('#ss').trigger('promoSlideChange'));j++}else{webmd.m.ss.fade(j,0,$('#ss').trigger('promoSlideChange'));j=0}}this.ss=$("#ss");j=0;$(this.ss).find(".slide").not(':eq(0)').each(function(){var alt = $(this).find("a").html().replace(/['"\\\/]+/g,'');$(this).find("a").html('<img src="'+$(this).find("a").attr("rel")+'" alt="'+alt+'" border="0" />')});$(this.ss).find(".btn").each(function(B){$(this).click(function(){clearInterval(fadeSS);webmd.m.ss.fade(j,B,$('#ss').trigger('promoSlideChange'));j=B;return false})});fadeSS=setInterval(A,webmd.m.ss.delay)},fade:function(B,C,A){$(A).find(".slide:eq("+B+") a").fadeOut("medium");$(A).find(".slide:eq("+C+") a").fadeIn("medium");$(A).find(".btn").each(function(){$(this).removeClass("on")});$(A).find(".btn:eq("+C+")").addClass("on")}};$(document).ready(function(){webmd.m.ss.init();$('#ss').trigger('promoSlideChange')});
+-->
+</script> 
+   <div class="cwpad_09"> 
+    <div id="ss"> 
+     <div class="slides"> 
+      <div class="slide first"> 
+       <div id="btn_1" class="btn on"> 
+        <h2>Build a Better Butt</h2> 
+       </div> 
+       <a href="http://www.webmd.com/fitness-exercise/ss/slideshow-build-a-better-butt" rel="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/tocs/wellnessctr/fitness_promos/342x265/fitness_how_to_build_a_better_butt.jpg" onclick="return sl(this,'','promo-wc_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/tocs/wellnessctr/fitness_promos/342x265/fitness_how_to_build_a_better_butt.jpg" alt="woman doing squats" border="0" /> </a> 
+      </div> 
+      <div class="slide"> 
+       <div id="btn_2" class="btn"> 
+        <h2>7 Least Effective Exercises</h2> 
+       </div> 
+       <a href="http://www.webmd.com/fitness-exercise/ss/slideshow-9-least-effective-exercises" rel="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/tocs/wellnessctr/fitness_promos/342x265/fitness_7_least_effective_exercises.jpg" onclick="return sl(this,'','promo-wc_2');">man holding barbell</a> 
+      </div> 
+      <div class="slide"> 
+       <div id="btn_3" class="btn"> 
+        <h2>Truth About Metabolism</h2> 
+       </div> 
+       <a href="http://www.webmd.com/fitness-exercise/rm-quiz-truth-about-metabolism" rel="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/tocs/wellnessctr/fitness_promos/342x265/fitness_the_truth_about_metabolism.jpg" onclick="return sl(this,'','promo-wc_3');">thermal body scan</a> 
+      </div> 
+     </div> 
+     <div class="controls"> 
+     </div> 
+    </div> 
+   </div>
+   <div class="EditorialwBkgr_rdr" id="lnch-ffp"> 
+    <div class="EditorialwBkgr_top_fmt"> 
+    </div> 
+    <div class="EditorialwBkgr_content_fmt" style="background:transparent url(http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/ffp-promo/ffp_2012_back.jpg) no-repeat scroll left top"> 
+     <h3>Food &amp; Fitness Planner</h3> 
+     <ul> 
+      <li> <a href="http://www.webmd.com/diet/food-fitness-planner/default.htm" onclick="s_objectID='lnch-ffp_1';return sl(this,'','lnch-ffp_1');">Set goals</a> </li> 
+      <li> <a href="http://www.webmd.com/diet/food-fitness-planner/default.htm" onclick="s_objectID='lnch-ffp_2';return sl(this,'','lnch-ffp_2');">Count<br />calories</a> </li> 
+      <li> <a href="http://www.webmd.com/diet/food-fitness-planner/default.htm" onclick="s_objectID='lnch-ffp_3';return sl(this,'','lnch-ffp_3');">Track workouts</a> </li> 
+      <li> <a href="http://www.webmd.com/diet/food-fitness-planner/default.htm" onclick="s_objectID='lnch-ffp_4';return sl(this,'','lnch-ffp_4');">Shed pounds</a> </li> 
+     </ul> 
+     <a href="http://www.webmd.com/diet/food-fitness-planner/default.htm" onclick="return sl(this,'','lnch-ffp_btn');" class="btn"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/ffp-promo/ffp_getstarted.png" alt="get started" border="0" /> </a> 
+    </div> 
+    <div class="EditorialwBkgr_bot_fmt"> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Fitness 411</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/fitness-exercise/video/fitness-myths" class="type_vid" onclick="return sl(this,'','tools-res_1');">Exercise Myths<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/fitness-exercise/video/exercise-personality" class="type_vid" onclick="return sl(this,'','tools-res_2');">Your Exercise Personality<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://fit.webmd.com/teen/move/slideshow/slideshow-best-workout-shoes" class="type_ss" onclick="return sl(this,'','tools-res_3');">Best Teen Workout Shoes<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/osteoarthritis/joint-injections-9/slideshow-knee-exercises" class="type_ss" onclick="return sl(this,'','tools-res_4');">Exercises for Sore Knees<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/fitness-exercise/video/cheap-home-gym" class="type_vid" onclick="return sl(this,'','tools-res_5');">Cheap Home Gym<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/balance/diet-exercise-stress-10/default.htm?vid=vd-2167-hzim-0003" onclick="return sl(this,'','tools-res_6');">5-Minute Desk Workout</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div id="ed-fitness" class="hc2012hslider hc2012hslider4panel"> 
+    <div class="hc2012hslider_head"> 
+     <h3>Workouts A-Z</h3> 
+    </div> 
+    <div class="hc2012hslider_nav"> 
+     <a href="" class="hc2012hslider_nav_prev" onclick="wmdPageLink('ed-fitness_prev'); return false;"> <span class="jawsonly">Previous</span> </a> 
+     <a href="" class="hc2012hslider_nav_next" onclick="wmdPageLink('ed-fitness_next'); return false;"> <span class="jawsonly">Next</span> </a> 
+    </div> 
+    <div class="hc2012hslider_slides"> 
+     <div class="hc2012hslider_slide"> 
+      <div id="x32" class="hc2012hslider_slide_panel hc2012hslider_slide_panel1"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/the-300-workout-can-you-handle-it" onclick="return sl(this,'','ed-fitness_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/300_workout_can_you_handle_it_features/110x70_300_workout_can_you_handle_it_features.jpg" alt="muscular man flexing his muscles" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/the-300-workout-can-you-handle-it" onclick="return sl(this,'','ed-fitness_1');">The 300 Workout</a> 
+       </div> 
+      </div> 
+      <div id="x33" class="hc2012hslider_slide_panel hc2012hslider_slide_panel2"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/expert-reviews-timothy-ferriss-4-hour-body" onclick="return sl(this,'','ed-fitness_2');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/_2012/06_2012/4hour_body_experts_reviews__features/110x70_4hour_body_experts_reviews__features.jpg" alt="cottage cheese" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/expert-reviews-timothy-ferriss-4-hour-body" onclick="return sl(this,'','ed-fitness_2');">The 4-Hour Body</a> 
+       </div> 
+      </div> 
+      <div id="x34" class="hc2012hslider_slide_panel hc2012hslider_slide_panel3"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/diet/features/body_for_life_what_it_is" onclick="return sl(this,'','ed-fitness_3');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/_2013/01_2013/body_for_life_features/110x70_body_for_life_features.jpg" alt="yoga at sunset" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/diet/features/body_for_life_what_it_is" onclick="return sl(this,'','ed-fitness_3');">Body For Life</a> 
+       </div> 
+      </div> 
+      <div id="x35" class="hc2012hslider_slide_panel hc2012hslider_slide_panel4"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/fitness-boot-camps-should-you-enlist" onclick="return sl(this,'','ed-fitness_4');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/_2012/11_2012/fitness_boot_camps_should_you_enlist_features/110x70_fitness_boot_camps_should_you_enlist_features.jpg" alt="women in fitness bootcamp" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/fitness-boot-camps-should-you-enlist" onclick="return sl(this,'','ed-fitness_4');">Boot Camps</a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="hc2012hslider_slide"> 
+      <div id="x36" class="hc2012hslider_slide_panel hc2012hslider_slide_panel1"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/crossfit-review" onclick="return sl(this,'','ed-fitness_5');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/2011/08_2011/crossfit_review/110x70_crossfit_review.jpg" alt="woman doing pushups" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/crossfit-review" onclick="return sl(this,'','ed-fitness_5');">CrossFit</a> 
+       </div> 
+      </div> 
+      <div id="x37" class="hc2012hslider_slide_panel hc2012hslider_slide_panel2"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/fitness-review-beach-body-insanity-program" onclick="return sl(this,'','ed-fitness_6');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/_2012/06_2012/insanity_program_fitness_review_features/110x70_insanity_program_fitness_review_features.jpg" alt="muscleman doing situp" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/fitness-review-beach-body-insanity-program" onclick="return sl(this,'','ed-fitness_6');">Insanity Workout</a> 
+       </div> 
+      </div> 
+      <div id="x38" class="hc2012hslider_slide_panel hc2012hslider_slide_panel3"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/interval-training-how-to-do-it" onclick="return sl(this,'','ed-fitness_7');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/interval_training_how_to_do_it_features/110x70_interval_training_how_to_do_it_features.jpg" alt="Speed" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/interval-training-how-to-do-it" onclick="return sl(this,'','ed-fitness_7');">Interval Training</a> 
+       </div> 
+      </div> 
+      <div id="x39" class="hc2012hslider_slide_panel hc2012hslider_slide_panel4"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/spin-workouts-for-fitness-and-weight-loss" onclick="return sl(this,'','ed-fitness_8');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/indoor_cycling_workouts_firming_up_riding_high/110x70_indoor_cycling_workouts_firming_up_riding_high.jpg" alt="Bicycle Spinning in gym" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/fitness-exercise/features/spin-workouts-for-fitness-and-weight-loss" onclick="return sl(this,'','ed-fitness_8');">Spinning Classes</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script class="oas_template" id="health-center-slider_ed-fitness" type="text/html">
+  <div class="attr {attr_active}">
+    <a class="{attr_link}" onclick="return sl(this,'sp','disclaimer');" href="{attr_link}">{attr_text}</a>
+    <span>{attr}</span>
+  </div>
+  <div class="hc2012hslider_slide_panel_img">
+    <a onclick="return sl(this,'','ed-fitness_{link_position}');" href="{href}">
+      <img src="{img}" alt="{alt_text}" />
+    </a>
+  </div>
+  <div class="hc2012hslider_slide_panel_text">{text}</div>
+  <div class="hc2012hslider_slide_panel_link type_{type}">
+    <a onclick="return sl(this,'','ed-fitness_{link_position}');" href="{href}">{alt}</a>
+  </div>
+</script> 
+   <script type="text/javascript">
+ 				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {};
+			webmd.oas.mapping['health-center-slider_ed-fitness'] = ['x32','x33','x34','x35','x36','x37','x38','x39']; </script>
+  </div> 
+  <div id="ContentPane7">
+   <div class="latest-headlines"> 
+    <div class="subheaderBar"> 
+     <span class="rss"> <a id="rssFeedLink" class="rss_link" href="http://rssfeeds.webmd.com/rss/rss.aspx" onclick="return sl(this,'','news-ftr_rss');">RSS Feed</a> | <a href="http://www.webmd.com/rss/default.htm" onclick="return sl(this,'','news-ftr_hlp');">Help</a></span> 
+     <h2>News and Features</h2> 
+    </div> 
+    <script type="text/javascript"><!--
+/* Create a feed to match the center_ID variable with the RSS FeedID to pass to the URL */
+var rssFeeds = [
+    {"centerName": "ADD/ADHD","centerID": "1178","feedID": "1001"},
+    {"centerName": "Allergies","centerID": "893","feedID": "1004"},
+    {"centerName": "Alzheimer's","centerID": "1030","feedID": "1005"},
+    {"centerName": "Anxiety & Panic Disorders","centerID": "648","feedID": "1007"},
+    {"centerName": "Arthritis","centerID": "1194","feedID": "1008"},
+    {"centerName": "Asthma","centerID": "947","feedID": "1009"},
+    {"centerName": "Back Pain","centerID": "972","feedID": "1010"},
+	{"centerName": "Balance","centerID": "840","feedID": "1081"},
+    {"centerName": "Bipolar Disorder","centerID": "694","feedID": "1013"},
+    {"centerName": "Breast Cancer","centerID": "1074","feedID": "1020"},
+    {"centerName": "Cancer","centerID": "848","feedID": "1022"},
+	{"centerName": "Cats","centerID": "2935","feedID": "1698"},
+    {"centerName": "Cholesterol Management","centerID": "1017","feedID": "1026"},
+    {"centerName": "Cold & Flu","centerID": "1202","feedID": "1029"},
+    {"centerName": "Crohn's Disease","centerID": "1018","feedID": "1119"},
+    {"centerName": "Depression","centerID": "1020","feedID": "1032"},
+    {"centerName": "Diabetes","centerID": "1037","feedID": "1033"},
+	{"centerName": "Diet & Weight Loss","centerID": "1004","feedID": "1115"},
+	{"centerName": "Dogs","centerID": "2936","feedID": "1697"},
+	{"centerName": "Fitness & Exercise","centerID": "960","feedID": "1046"},
+	{"centerName": "Food & Cooking","centerID": "745","feedID": "1047"},
+    {"centerName": "Hearth Health","centerID": "948","feedID": "1056"},
+    {"centerName": "Heartburn/GERD","centerID": "1134","feedID": "1057"},
+    {"centerName": "Hypertension/High Blood Pressure","centerID": "1011","feedID": "1063"},
+    {"centerName": "Incontinence/OAB","centerID": "961","feedID": "1112"},
+    {"centerName": "Lupus","centerID": "829","feedID": "1073"},
+    {"centerName": "Menopause","centerID": "789","feedID": "1077"},
+    {"centerName": "Migraines/Headaches","centerID": "903","feedID": "1080"},
+    {"centerName": "Oral Health","centerID": "872","feedID": "1085"},
+    {"centerName": "Osteoporosis","centerID": "1166","feedID": "1088"},
+	{"centerName": "Parenting","centerID": "1190","feedID": "1091"},
+	{"centerName": "Pets","centerID": "2934","feedID": "1696"},
+	{"centerName": "Pregnancy","centerID": "793","feedID": "1096"},
+	{"centerName": "Sex & Relationships","centerID": "865","feedID": "1101"},
+	{"centerName": "Skin & Beauty","centerID": "1013","feedID": "1011"},
+    {"centerName": "Skin Problems & Treatments","centerID": "1028","feedID": "1105"},
+    {"centerName": "Sleep Disorders","centerID": "1206","feedID": "1106"}
+];
+
+var feedID = "";
+    feedURL = document.getElementById('rssFeedLink');
+    for (i=0;i<rssFeeds.length;i++) {				
+        curCenter = rssFeeds[i].centerID;
+        if (curCenter == center_id) {
+        feedID = rssFeeds[i].feedID;
+        if(feedID=="1696"||feedID=="1697"||feedID=="1698"){
+			feedURL.href = feedURL.href + "?list=pets&channel=" + feedID;
+		}else{
+			feedURL.href = feedURL.href + "?cid=" + feedID;
+		}
+        break;
+        }
+    }
+
+//--></script> 
+    <div class="editorial"> 
+     <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/default.jpg" alt="Thumbnail Image:Why Warming Up and Cooling Down are Important" class="icon" /> 
+     <h3> <a href="http://www.webmd.com/fitness-exercise/features/warming-up-cooling-down" onclick="return sl(this,'','news-ftr_1-1');">Why Warming Up and Cooling Down are Important</a> </h3> 
+     <p>Think warm-ups and cool-downs are overrated? They might give you a better workout.</p> 
+     <p> <a class="read_link" href="http://www.webmd.com/fitness-exercise/features/warming-up-cooling-down" onclick="return sl(this,'','news-ftr_1-more');">Read More</a> </p> 
+    </div> 
+    <div class="features"> 
+     <div class="features_grp col_1"> 
+      <h4 class="title">Top Stories</h4> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/fitness-exercise/news/20140220/scientists-use-fishing-line-thread-to-make-artificial-muscles" onclick="return sl(this,'','news-ftr_2-1');">Scientists Use Fishing Line, Thread to Make Artificial Muscles</a> </li> 
+       <li> <a href="http://www.webmd.com/fitness-exercise/news/20140220/average-obese-woman-gets-just-1-hour-of-exercise-a-year-study" onclick="return sl(this,'','news-ftr_2-2');">Average Obese Woman Gets Just 1 Hour of Exercise a Year: Study</a> </li> 
+      </ul> 
+     </div> 
+     <div class="features_grp col_2 no_header"> 
+      <ul> 
+       <li id="x08"> <a href="http://www.webmd.com/fitness-exercise/news/20120824/30-minutes-daily-exercise-shed-pounds" onclick="return sl(this,'','news-ftr_3-1');">30 Minutes of Daily Exercise Enough to Shed Pounds</a> </li> 
+       <li id="x09"> <a href="http://www.webmd.com/fitness-exercise/features/5-best-winter-sports-to-try" onclick="return sl(this,'','news-ftr_3-2');">5 Best Winter Sports </a> </li> 
+      </ul> 
+     </div> 
+     <script class="oas_template" id="oas_top_stories" type="text/html">
+      <a onclick="return sl(this,'','news-ftr_3-{link_position}');" href="{href}">{alt}</a>
+    </script> 
+     <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_stories'] = ['x08','x09','x10','x11','x12','x13','x14','x15'];
+			</script> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane8">
+   <div id="ex-tips" class="two-col-editorial"> 
+    <h2 class="no_description">Learn, Share, and Get Expert Tips</h2> 
+    <div class="col_1_layout"> 
+     <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/lodge_guest_expert_program_other/69x75_lodge_guest_expert_program_other.jpg" alt="guest expert" class="icon" /> 
+     <div class="editorial"> 
+      <h3>Discussions</h3> 
+      <ul class="articles"> 
+       <li> <a class="type_com" href="http://forums.webmd.com/3/fitness-and-exercise-exchange/forum/3168" onclick="return sl(this,'','ex-tips_1-2');">What Shape Are You Really In?<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://forums.webmd.com/3/fitness-and-exercise-exchange/forum/3198/3" onclick="return sl(this,'','ex-tips_1-3');">Optimal Time Of Day To Exercise<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://forums.webmd.com/3/fitness-and-exercise-exchange/forum/3164" onclick="return sl(this,'','ex-tips_1-4');">What's The Best Pre-Workout Meal?<i> </i></a> </li> 
+       <li class="see_all_link"> <a class="type_com" href="http://exchanges.webmd.com/fitness-and-exercise-exchange" onclick="return sl(this,'','ex-tips_1-5');">See All Discussions<i> </i></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="col_2_layout"> 
+     <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/other_conditions_with_symptoms_similar_to_rls_other/69x75_other_conditions_with_symptoms_similar_to_rls_other.jpg" alt="man with leg cramp" class="icon" /> 
+     <div class="editorial"> 
+      <h3>Blogs</h3> 
+      <ul class="articles"> 
+       <li> <a class="type_com" href="http://blogs.webmd.com/food-and-nutrition/2012/08/cramping-your-style.html" onclick="return sl(this,'','ex-tips_2-2');">Tips to Ease Your Leg Cramps<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://blogs.webmd.com/sleep-disorders/2014/01/does-circidian-timing-give-west-coast-teams-an-edge.html" onclick="return sl(this,'','ex-tips_2-3');">Circadian Timing: An Advantage?<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://blogs.webmd.com/pamela-peeke-md/2013/01/weight-a-minute-being-overweight-is-ok.html" onclick="return sl(this,'','ex-tips_2-4');">Is It Ok to Be Overweight?<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://blogs.webmd.com/food-and-nutrition/2012/08/your-brain-on-exercise.html" onclick="return sl(this,'','ex-tips_2-5');">This Is Your Brain on Exercise<i> </i></a> </li> 
+       <li class="see_all_link"> <a class="type_com" href="
+          http://exchanges.webmd.com/webmd-exchanges/blogs" onclick="return sl(this,'','ex-tips_2-6');">See All Blogs<i> </i></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane9">
+   <div class="multi-grp-linked-list"> 
+    <h3 class="no_description">Top Searches</h3> 
+    <div class="ord-lists layout_4_col"> 
+     <div class="col_1"> 
+      <ul> 
+       <li> <span class="number">1</span> <a href="http://www.webmd.com/fitness-exercise/plantar-fasciitis-directory" onclick="return sl(this,'Page Refresh(Default)','top-searches_1');">Plantar Fasciitis</a> </li> 
+       <li> <span class="number">2</span> <a href="http://www.webmd.com/fitness-exercise/tendinitis-directory" onclick="return sl(this,'Page Refresh(Default)','top-searches_2');">Tendonitis</a> </li> 
+       <li> <span class="number">3</span> <a href="http://www.webmd.com/fitness-exercise/features/the-benefits-of-pilates" onclick="return sl(this,'Page Refresh(Default)','top-searches_3');">Pilates</a> </li> 
+       <li> <span class="number">4</span> <a href="http://www.webmd.com/fitness-exercise/tc/dehydration-topic-overview" onclick="return sl(this,'Page Refresh(Default)','top-searches_4');">Dehydration</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_2"> 
+      <ul> 
+       <li> <span class="number">5</span> <a href="http://www.webmd.com/fitness-exercise/shin-splints" onclick="return sl(this,'Page Refresh(Default)','top-searches_5');">Shin Splints</a> </li> 
+       <li> <span class="number">6</span> <a href="http://www.webmd.com/fitness-exercise/yoga-directory" onclick="return sl(this,'Page Refresh(Default)','top-searches_6');">Yoga</a> </li> 
+       <li> <span class="number">7</span> <a href="http://www.webmd.com/fitness-exercise/hamstring-strain" onclick="return sl(this,'Page Refresh(Default)','top-searches_7');">Hamstring injury</a> </li> 
+       <li> <span class="number">8</span> <a href="http://www.webmd.com/fitness-exercise/stress-fractures-the-basics" onclick="return sl(this,'Page Refresh(Default)','top-searches_8');">Stress fracture</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_3"> 
+      <ul> 
+       <li> <span class="number">9</span> <a href="http://www.webmd.com/fitness-exercise/features/the-p90x-system" onclick="return sl(this,'Page Refresh(Default)','top-searches_9');">P90X</a> </li> 
+       <li> <span class="number">10</span> <a href="http://www.webmd.com/fitness-exercise/tc/medial-collateral-ligament-mcl-injury-topic-overview" onclick="return sl(this,'Page Refresh(Default)','top-searches_10');">Mcl</a> </li> 
+       <li> <span class="number">11</span> <a href="http://www.webmd.com/fitness-exercise/ankle-injuries-causes-and-treatments" onclick="return sl(this,'Page Refresh(Default)','top-searches_11');">Broken Ankle</a> </li> 
+       <li> <span class="number">12</span> <a href="http://www.webmd.com/pain-management/ankle-pain-directory" onclick="return sl(this,'Page Refresh(Default)','top-searches_12');">Ankle Pain</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_4"> 
+      <ul> 
+       <li> <span class="number">13</span> <a href="http://www.webmd.com/fitness-exercise/acl-injuries-directory" onclick="return sl(this,'Page Refresh(Default)','top-searches_13');">Torn Acl</a> </li> 
+       <li> <span class="number">14</span> <a href="http://www.webmd.com/fitness-exercise/rm-quiz-truth-about-metabolism" onclick="return sl(this,'Page Refresh(Default)','top-searches_14');">Metabolism</a> </li> 
+       <li> <span class="number">15</span> <a href="http://www.webmd.com/fitness-exercise/shin-splints" onclick="return sl(this,'Page Refresh(Default)','top-searches_15');">Shin Splints</a> </li> 
+       <li> <span class="number">16</span> <a class="type_ss" href="http://www.webmd.com/diet/ss/slideshow-best-diet-tips-ever" onclick="return sl(this,'Page Refresh(Default)','top-searches_16');">Weight Loss<i> </i></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane10">
+   <div id="ed-vid-ss" class="hc2012hslider hc2012hslider4panel"> 
+    <div class="hc2012hslider_head"> 
+     <h3>Videos and Slideshows</h3> 
+    </div> 
+    <div class="hc2012hslider_nav"> 
+     <a href="" class="hc2012hslider_nav_prev" onclick="wmdPageLink('ed-vid-ss_prev'); return false;"> <span class="jawsonly">Previous</span> </a> 
+     <a href="" class="hc2012hslider_nav_next" onclick="wmdPageLink('ed-vid-ss_next'); return false;"> <span class="jawsonly">Next</span> </a> 
+    </div> 
+    <div class="hc2012hslider_slides"> 
+     <div class="hc2012hslider_slide"> 
+      <div id="x86" class="hc2012hslider_slide_panel hc2012hslider_slide_panel1"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/slideshow-7-most-effective-exercises" onclick="return sl(this,'','ed-vid-ss_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/7_most_effective_exercises_slideshow/110x70_7_most_effective_exercises_slideshow_alt.jpg" alt="trainer doing pushups" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/fitness-exercise/slideshow-7-most-effective-exercises" onclick="return sl(this,'','ed-vid-ss_1');">7 Most Effective Exercises</a> 
+       </div> 
+      </div> 
+      <div id="x87" class="hc2012hslider_slide_panel hc2012hslider_slide_panel2"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/video/best-butt-exercises" onclick="return sl(this,'','ed-vid-ss_2');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/best_butt_exercises_video/110x70_best_butt_exercises_video.jpg" alt="woman fitness stepping" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/video/best-butt-exercises" onclick="return sl(this,'','ed-vid-ss_2');">Best Butt Exercises</a> 
+       </div> 
+      </div> 
+      <div id="x88" class="hc2012hslider_slide_panel hc2012hslider_slide_panel3"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/slideshow-30-minute-workout-routine" onclick="return sl(this,'','ed-vid-ss_3');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/30_minute_workout_slideshow/110x70_30_minute_workout_slideshow_alt1.jpg" alt="woman after workout" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/fitness-exercise/slideshow-30-minute-workout-routine" onclick="return sl(this,'','ed-vid-ss_3');">The 30-Minute Workout </a> 
+       </div> 
+      </div> 
+      <div id="x89" class="hc2012hslider_slide_panel hc2012hslider_slide_panel4"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/video/rippe-hate-working-out" onclick="return sl(this,'','ed-vid-ss_4');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/hate_to_work_out_video/110x70_hate_to_work_out_video.jpg" alt="woman laying on stationary bike" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/fitness-exercise/video/rippe-hate-working-out" onclick="return sl(this,'','ed-vid-ss_4');">Hate To Work Out?</a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="hc2012hslider_slide"> 
+      <div id="x90" class="hc2012hslider_slide_panel hc2012hslider_slide_panel1"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/ss/slideshow-9-tips-flat-abs" onclick="return sl(this,'','ed-vid-ss_5');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/9_tips_for_flat_abs_slideshow/110x70_9_tips_for_flat_abs_slideshow.jpg" alt="Young woman with flat abs" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/fitness-exercise/ss/slideshow-9-tips-flat-abs" onclick="return sl(this,'','ed-vid-ss_5');">9 Tips For Flat Abs</a> 
+       </div> 
+      </div> 
+      <div id="x91" class="hc2012hslider_slide_panel hc2012hslider_slide_panel2"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/video/body-rolling" onclick="return sl(this,'','ed-vid-ss_6');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/body_rolling_video/110x70_body_rolling_video.jpg" alt="woman stretching on exercise ball" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/fitness-exercise/video/body-rolling" onclick="return sl(this,'','ed-vid-ss_6');">Body Rolling</a> 
+       </div> 
+      </div> 
+      <div id="x92" class="hc2012hslider_slide_panel hc2012hslider_slide_panel3"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/ss/slideshow-9-least-effective-exercises" onclick="return sl(this,'','ed-vid-ss_7');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/9_least_effective_exercises_sideshow/110x70_9_least_effective_exercises_sideshow.jpg" alt="man lifting barbell behind shoulders" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/fitness-exercise/ss/slideshow-9-least-effective-exercises" onclick="return sl(this,'','ed-vid-ss_7');">7 Least Effective Exercises</a> 
+       </div> 
+      </div> 
+      <div id="x93" class="hc2012hslider_slide_panel hc2012hslider_slide_panel4"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/fitness-exercise/video/gym-smarts-awesome-abs" onclick="return sl(this,'','ed-vid-ss_8');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/gym_smarts_awesome_abs_video/110x70_gym_smarts_awesome_abs_video.jpg" alt="crunches" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/fitness-exercise/video/gym-smarts-awesome-abs" onclick="return sl(this,'','ed-vid-ss_8');">Gym Smarts: How Not To Do Sit Ups</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script class="oas_template" id="health-center-slider_ed-vid-ss" type="text/html">
+  <div class="attr {attr_active}">
+    <a class="{attr_link}" onclick="return sl(this,'sp','disclaimer');" href="{attr_link}">{attr_text}</a>
+    <span>{attr}</span>
+  </div>
+  <div class="hc2012hslider_slide_panel_img">
+    <a onclick="return sl(this,'','ed-vid-ss_{link_position}');" href="{href}">
+      <img src="{img}" alt="{alt_text}" />
+    </a>
+  </div>
+  <div class="hc2012hslider_slide_panel_text">{text}</div>
+  <div class="hc2012hslider_slide_panel_link type_{type}">
+    <a onclick="return sl(this,'','ed-vid-ss_{link_position}');" href="{href}">{alt}</a>
+  </div>
+</script> 
+   <script type="text/javascript">
+ 				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {};
+			webmd.oas.mapping['health-center-slider_ed-vid-ss'] = ['x86','x87','x88','x89','x90','x91','x92','x93']; </script>
+  </div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"> 
+   <style type="text/css">
+	#txtFreeSearch
+	{
+		width: 250px;
+	}
+
+.input-prompt 
+	{
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 12px;
+		position: absolute;
+		font-style: italic;
+		color: #656565;
+		margin: 0.6em 0 0 0.5em;
+	}
+</style> 
+   <div id="recipe_finder" class="recipe_finder_rdr"> 
+    <div class="toc_promo"> 
+     <h3>WebMD Recipe Finder</h3> 
+     <p>Browse our collection of healthy, delicious recipes, from WebMD and <em>Eating Well</em> magazine.</p> 
+     <input id="txtFreeSearch" type="text" title="Enter a keyword or phrase" /> 
+     <br />
+     <br />
+     <input type="image" alt="Search" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/tools/recipe-finder/btn_search.gif" onclick="sendToTOC()" /> 
+    </div> 
+   </div> 
+   <script>
+function sendToTOC()
+{
+	//get the text value and strip the special chars
+	var search_string = $('#txtFreeSearch').val();
+
+        search_string = search_string.replace("#",""); //firefox fix
+
+        search_string = encodeURIComponent(search_string);
+	
+	//put in the script to pass value to the toc
+	window.location = '/food-recipes/healthy-recipe-finder#f=' + search_string + '&s=0&m=1&o=srch-rcp_rr'
+	
+}
+
+//put the script to create a prompt in the text box
+$(document).ready(function()
+{
+  $('input[type=text][title]').each(function(i){
+    $(this).addClass('input-prompt-' + i);
+    var promptSpan = $('<span class="input-prompt"/>');
+    $(promptSpan).attr('id', 'input-prompt-' + i);
+    $(promptSpan).append($(this).attr('title'));
+    $(promptSpan).click(function(){
+      $(this).hide();
+      $('.' + $(this).attr('id')).focus();
+    });
+    if($(this).val() != ''){
+      $(promptSpan).hide();
+    }
+    $(this).before(promptSpan);
+    $(this).focus(function(){
+      $('#input-prompt-' + i).hide();
+    });
+    $(this).blur(function()
+    {
+      if($(this).val() == '')
+      {
+        $('#input-prompt-' + i).show();
+      }
+    });
+  });
+});
+
+$(document).ready(function() 
+{
+  //set the enter key
+  $("#txtFreeSearch").keyup(function(event){ 
+    if(event.keyCode == 13){ 
+       sendToTOC(); 
+    } 
+  }); 
+  
+})
+
+</script>
+  </div> 
+  <div id="ContentPane13">
+   <div class="multi-grp-linked-list"> 
+    <h3 class="no_description">Related Resources</h3> 
+    <div class="unord-lists layout_4_col"> 
+     <div class="col_1"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/diet/default.htm" onclick="return sl(this,'Page Refresh(Default)','rltd-res_1');">Diet &amp; Weight Loss</a> </li> 
+       <li> <a href="http://www.webmd.com/food-recipes/old-toc" onclick="return sl(this,'Page Refresh(Default)','rltd-res_2');">Food &amp; Recipes</a> </li> 
+       <li> <a href="http://www.webmd.com/vitamins-and-supplements/lifestyle-guide-11/default.htm" onclick="return sl(this,'Page Refresh(Default)','rltd-res_3');">Vitamins &amp; Supplements</a> </li> 
+       <li> <a href="http://www.webmd.com/living-healthy" onclick="return sl(this,'Page Refresh(Default)','rltd-res_4');">More Living Healthy</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_2"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/food-recipes/healthy-recipe-finder" onclick="return sl(this,'Page Refresh(Default)','rltd-res_5');">Healthy Recipe Finder</a> </li> 
+       <li> <a href="http://www.webmd.com/diet/food-fitness-planner/default.htm" onclick="return sl(this,'Page Refresh(Default)','rltd-res_6');">Food &amp; Fitness Planner</a> </li> 
+       <li> <a href="http://answers.webmd.com/explore-topics/nutrition-questions" onclick="return sl(this,'Page Refresh(Default)','rltd-res_7');">Nutrition Q &amp; A</a> </li> 
+       <li> <a href="http://answers.webmd.com/explore-topics/exercise-questions" onclick="return sl(this,'Page Refresh(Default)','rltd-res_8');">Exercise Q &amp; A</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_3"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/fitness-exercise/guide/health-fitness-get-lean" onclick="return sl(this,'Page Refresh(Default)','rltd-res_9');">Get Lean</a> </li> 
+       <li> <a href="http://www.webmd.com/fitness-exercise/guide/health-fitness-get-strong" onclick="return sl(this,'Page Refresh(Default)','rltd-res_10');">Get Strong</a> </li> 
+       <li> <a href="http://www.webmd.com/fitness-exercise/guide/health-fitness-fuel-your-body" onclick="return sl(this,'Page Refresh(Default)','rltd-res_11');">Fuel Your Body</a> </li> 
+       <li> <a href="http://www.webmd.com/fitness-exercise/guide/health-fitness-tips-success" onclick="return sl(this,'Page Refresh(Default)','rltd-res_12');">Tips for Success</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_4"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/fitness-exercise/guide/health-fitness-fact-vs-fiction" onclick="return sl(this,'Page Refresh(Default)','rltd-res_13');">Exercise Benefits</a> </li> 
+       <li> <a href="http://www.webmd.com/fitness-exercise/sports-injuries-a-to-z" onclick="return sl(this,'Page Refresh(Default)','rltd-res_14');">Sports Injuries A to Z</a> </li> 
+       <li> <a href="http://www.webmd.com/fitness-exercise/guide/health-fitness-expert-help" onclick="return sl(this,'Page Refresh(Default)','rltd-res_15');">Expert Help</a> </li> 
+       <li> <a href="http://www.webmd.com/fitness-exercise/directory-index" onclick="return sl(this,'Page Refresh(Default)','rltd-res_16');">Head to Toe Fitness</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20">
+   <iframe src="http://pn1.adserver.yahoo.com/a?f=2142453895&amp;pn=webmd&amp;p=ptrvrthlth&amp;l=VR&amp;c=sh" width="1" height="1" marginwidth="0" marginheight="0" title="Empty Frame" role="presentation" frameborder="0" scrolling="no"></iframe>
+  </div> 
+ </div> 
+</div>

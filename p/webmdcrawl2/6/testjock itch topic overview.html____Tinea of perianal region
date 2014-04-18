@@ -1,0 +1,636 @@
+<title>Jock Itch-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/sex-relationships/low-testosterone-8/low-sex-drive" onclick="return sl(this,'','lln-toolsres_1');">Low Libido Equals Low T?</a></li>
+      <li id="x57"><a href="http://men.webmd.com/erectile-dysfunction-11/lifestyle-changes" onclick="return sl(this,'','lln-toolsres_2');">How to Help ED Without Meds</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">Common Eye Problems<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/men/ss/slideshow-men-good-habits-self-image" class="type_ss" onclick="return sl(this,'','lln-toolsres_4');">Ways to Look and Feel Your Best<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/oral-health/healthy-teeth-4/dental-care-tv?vid=vd-2125-wrld-0005" class="type_vid" onclick="return sl(this,'','lln-toolsres_5');">Best Food for Your Teeth<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/sex-relationships/low-testosterone-8/treatment" onclick="return sl(this,'','lln-toolsres_6');">Subtle Symptoms of Low T</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e969ea"><metadata_section><i_chronicle_id>091e9c5e8001d0c8</i_chronicle_id><r_object_id>091e9c5e80e969ea</r_object_id><title>Topic Overview</title><object_name>jock_itch-topic_overview_special_tp23587.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e969ea</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_tp23587</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Jock Itch-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is jock itch?Jock itch (tinea cruris) is a form of ringworm. Ringworm is not a worm at all; it is a fungal infection of the outer layers of skin, hair, or nails. Fungi (plural of fungus) are present everywhere in our environment.Ringworm of the skin appears as a rash with patches that may be red or peeling or that have bumps on the edges that look like blisters. The skin often is itchy, and .</wbmd_desc_meta><wbmd_orig_pub_dt>03/01/2013 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is jock itch?Jock itch (tinea cruris) is a form of ringworm. Ringworm is not a worm at all; it is a fungal infection of the outer layers of skin, hair, or nails. Fungi (plural of fungus) are present everywhere in our environment.Ringworm of the skin appears as a rash with patches that may be red or peeling or that have bumps on the edges that look like blisters. The skin often is itchy, and .</wbmd_desc_user><wbmd_lk_ttl>Jock Itch-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>jock itch, crotch rot, antifungal drugs, antifungals, Clotrimazole, Lamisil, Lotrimin, Micatin, Miconazole, miconazole nitrate, Monistat, Terbinafine, tinea cruris</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>A08.0</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e969ea</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="2952" wbmd_disp_nm="Mens Conditions"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1076" wbmd_disp_nm="Men"></wbmd_c_channel_id><wbmd_c_frnd_nm>Jock-Itch-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is jock itch?</section_header><section_type>SpecialSection</section_type><section_text><p>Jock itch (tinea cruris) is a form of
+		 <a chronic_id="091e9c5e801071db" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ringworm_of_the_skin_definition_za1268.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ringworm_of_the_skin_definition_za1268.xml">ringworm</a>. Ringworm is not a worm at all. It is a
+		 <a chronic_id="091e9c5e8001b1c6" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/fungal_infection_definition_stf124047.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fungal_infection_definition_stf124047.xml">fungal infection</a> of the outer layers of <a chronic_id="091e9c5e80396037" crossLinkId="70837" directive="friendlyurl" externalId="091e9c5e80396037" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.xml" keywordId="60205" keywordSetId="26541" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.xml">skin</a>, hair, or
+		 nails. Fungi (plural of fungus) are present everywhere in our
+		 environment.</p><p>Ringworm of the skin appears as a <a chronic_id="091e9c5e8001e47b" crossLinkId="48338" directive="friendlyurl" externalId="091e9c5e8001e47b" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/rash_age_12_and_older-topic_overview_symptom_hw80304.xml" keywordId="8192" keywordSetId="1787" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/rash_age_12_and_older-topic_overview_symptom_hw80304.xml">rash</a> with patches
+		 that may be red or peeling or that have bumps on the edges that look like
+		 <a chronic_id="091e9c5e80008616" crossLinkId="1560131" directive="friendlyurl" externalId="091e9c5e80008616" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/miscellaneous/understanding_blister_basics.xml" keywordId="6973" keywordSetId="888" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/miscellaneous/understanding_blister_basics.xml">blisters</a>. The skin often is itchy, and the rash can spread quickly. You can
+		 have both jock <a chronic_id="091e9c5e80007e29" crossLinkId="1560181" directive="friendlyurl" externalId="091e9c5e80007e29" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/Skin_Conditions_Pruritus.xml" keywordId="36799" keywordSetId="9069" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/Skin_Conditions_Pruritus.xml">itch</a> and <a chronic_id="091e9c5e8001da49" crossLinkId="44870" directive="friendlyurl" externalId="091e9c5e8001da49" href="/webmd/consumer_assets/controlled_content/healthwise/major/athletes_foot-topic_overview_major_hw28394.xml" keywordId="6884" keywordSetId="833" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/athletes_foot-topic_overview_major_hw28394.xml">athlete's foot</a> (tinea pedis) at the same time.</p></section_text></section_group><section_group><section_header>What causes jock itch?</section_header><section_type>SpecialSection</section_type><section_text><p>Jock itch is
+		 caused by a fungus. Fungi commonly grow on or in the top layer of skin. They
+		 may or may not cause an infection. Fungi grow best in warm, moist areas of the
+		 body such as the groin, inner thighs, and buttocks.</p><p>As the name
+		 suggests, jock itch mostly affects male athletes, but anyone can get it. Using
+		 public showers and locker rooms increases your chances of getting jock itch.
+		 Fungi grow best in the steamy rooms among damp towels, sweaty <a chronic_id="091e9c5e80c1b43d" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80c1b43d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml" keywordId="35039" keywordSetId="8746" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml">workout</a> clothes,
+		 and wet floors. So it's not surprising that jock itch and athlete's foot often
+		 occur at the same time, since both are caused by fungi.</p></section_text></section_group><section_group><section_header>What are the symptoms of jock itch?</section_header><section_type>SpecialSection</section_type><section_text><p>Symptoms of
+		 jock itch include the following:</p><ul><li>Itching and pain are common.</li><li>A rash
+			 is on the groin, skin folds, inner thighs, or buttocks. The rash usually does
+			 not occur on the scrotum or <a chronic_id="091e9c5e80449b94" crossLinkId="1585633" directive="friendlyurl" externalId="091e9c5e80449b94" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_penis.xml" keywordId="60521" keywordSetId="26706" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_penis.xml">penis</a>.</li><li>The edge of the rash is very
+			 distinct and may be scaly or have bumps that look like
+			 blisters.</li><li>The center of the rash may have a red-brown color.</li></ul></section_text></section_group><section_group><section_header>How is jock itch diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>Jock itch is annoying, but it usually is not serious. If you have had
+		 jock itch in the past, you may recognize the symptoms. Your doctor can tell if
+		 you have jock itch after asking questions about your symptoms and past health
+		 and by looking at your rash. Your doctor may scrape a little of the rash on a
+		 glass slide so that he or she can look at it under a microscope. </p></section_text></section_group><section_group><section_header>How is jock itch treated?</section_header><section_type>SpecialSection</section_type><section_text><p>Most
+		 ringworm infections of the skin, such as jock itch, can be treated at home with
+		 antifungal creams and powders you can buy without a prescription. But have your
+		 doctor look at any infection that does not go away, is severe, or comes back.
+		 To treat jock itch, follow these steps:</p><ul><li>Wash the rash with soap and water. Spread an
+			 <a chronic_id="" crossLinkId="62610" directive="friendlyurl" externalId="61279" href="http://www.webmd.com/drugs/drug-61279-antifungal+cream+top.aspx" keywordId="51088" keywordSetId="18727" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-61279-antifungal+cream+top.aspx">antifungal cream</a> over the rash. Apply the cream beyond the edge of the
+			 rash.</li><li>Use an antifungal cream or powder that contains
+			 terbinafine, <a chronic_id="" crossLinkId="66400" directive="friendlyurl" externalId="787" href="http://www.webmd.com/drugs/mono-787-MICONAZOLE+-+TOPICAL.aspx?drugid=3841&amp;drugname=Miconazole+Nitrate+Top" keywordId="54873" keywordSetId="22441" object_type="" path="/webmdhttp://www.webmd.com/drugs/mono-787-MICONAZOLE+-+TOPICAL.aspx?drugid=3841&amp;drugname=Miconazole+Nitrate+Top">miconazole</a>, or <a chronic_id="" crossLinkId="63603" directive="friendlyurl" externalId="4316" href="http://www.webmd.com/drugs/drug-4316-clotrimazole+top.aspx" keywordId="52084" keywordSetId="19708" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-4316-clotrimazole+top.aspx">clotrimazole</a>. You can buy these products without a
+			 prescription. Brand names include <a chronic_id="" crossLinkId="65833" directive="friendlyurl" externalId="7135" href="http://www.webmd.com/drugs/drug-7135-Lamisil+Top.aspx?drugid=7135&amp;drugname=Lamisil+Top" keywordId="54308" keywordSetId="21895" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-7135-Lamisil+Top.aspx?drugid=7135&amp;drugname=Lamisil+Top">Lamisil</a>, <a chronic_id="" crossLinkId="66056" directive="friendlyurl" externalId="11218" href="http://www.webmd.com/drugs/drug-11218-lotrimin+top.aspx" keywordId="54531" keywordSetId="22108" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-11218-lotrimin+top.aspx">Lotrimin</a>, <a chronic_id="" crossLinkId="66398" directive="friendlyurl" externalId="3741" href="http://www.webmd.com/drugs/drug-3741-micatin+top.aspx" keywordId="54871" keywordSetId="22439" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-3741-micatin+top.aspx">Micatin</a>, and <a chronic_id="" crossLinkId="66490" directive="friendlyurl" externalId="16614" href="http://www.webmd.com/drugs/drug-16614-monistat+1+vagl.aspx" keywordId="54963" keywordSetId="22530" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-16614-monistat+1+vagl.aspx">Monistat</a>.
+			 Follow the directions on the package, and don't stop using the medicine just
+			 because your symptoms go away. Use the medicine exactly as the label says. If
+			 symptoms do not improve after 2 weeks, call your doctor.</li><li>In rare
+			 cases, ringworm of the skin causes large areas of blisters. If your ringworm
+			 forms blisters, you can use compresses (such as Burow's compress, which you can
+			 buy without a prescription) to soothe and dry out the blisters. After the skin
+			 is dried out, use antifungal creams that you can buy without a
+			 prescription.</li><li>If you have jock itch and athlete's foot, you should treat both
+			 to prevent reinfecting your groin when you put on your underwear.</li></ul></section_text></section_group></page><page><section_group><section_header>How can I prevent jock itch?</section_header><section_type>SpecialSection</section_type><section_text><p>You can help prevent jock itch by keeping your groin, inner thighs, and
+		 buttocks clean and dry. Dry off well after you exercise and shower. Try these
+		 other steps to prevent jock itch:</p><ul><li>Wash your workout clothes, underwear, socks,
+			 and towels after each use.</li><li>Wear shower shoes when you use public
+			 showers and locker rooms.</li><li>If you have athlete's foot, you should
+			 treat it. During treatment, put your socks on before you put on your underwear.
+			 This will prevent the spread of the fungus from your feet to your
+			 groin.</li><li>If you keep getting athlete's foot, dry your feet last when
+			 you towel off after a shower or bath. This can help prevent spreading infection
+			 from your feet to your groin.</li></ul></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/men/tc/jock-itch-topic-overview" owner="false"><breadcrumb><bread piece="Men's Health" prefix="www" friendlyurl="/men/default.htm"></bread><bread piece="Men's Health Related Topics" prefix="www" friendlyurl="/men/tc/default.htm"></bread></breadcrumb><centers><Topic id="1263" name="tmg" chronicid="091e9c5e8001d0c8" prefix="www" friendlyurl="/men/tc/jock-itch-topic-overview" type="Topic">Jock Itch</Topic><Super id="1188" name="super center" chronicid="091e9c5e80026088" prefix="www" friendlyurl="/men/default.htm" type="">Men's Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/men/tc/jock-itch-topic-overview" owner="false"><breadcrumb><bread piece="Men's Health" prefix="www" friendlyurl="/men/default.htm"></bread><bread piece="Men's Health Related Topics" prefix="www" friendlyurl="/men/tc/default.htm"></bread></breadcrumb><centers><Topic id="11289" name="tmg" chronicid="091e9c5e8001d0c8" prefix="www" friendlyurl="/men/tc/jock-itch-topic-overview" type="Topic">Jock Itch</Topic><Super id="11286" name="super center" chronicid="091e9c5e80688fe0" prefix="www" friendlyurl="/men/default.htm" type="">Men</Super></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e801071db" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ringworm_of_the_skin_definition_za1268.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hw-popup/ringworm-of-the-skin"></target><target siteid="8" name="" prefix="www" friendlyurl="/hw-popup/ringworm-of-the-skin"></target></object><object chronic_id="091e9c5e8001b1c6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fungal_infection_definition_stf124047.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/fungal-infection"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/fungal-infection"></target></object><object chronic_id="091e9c5e80396037" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/picture-of-the-skin"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/picture-of-the-skin"></target></object><object chronic_id="091e9c5e8001e47b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/rash_age_12_and_older-topic_overview_symptom_hw80304.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview"></target></object><object chronic_id="091e9c5e80008616" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/miscellaneous/understanding_blister_basics.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/understanding-blisters-basics"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/understanding-blisters-basics"></target></object><object chronic_id="091e9c5e80007e29" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/skin_and_beauty/skin_problems/overview_types_of/Skin_Conditions_Pruritus.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/skin-conditions-pruritus"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/guide/skin-conditions-pruritus"></target></object><object chronic_id="091e9c5e8001da49" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/athletes_foot-topic_overview_major_hw28394.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/tc/athletes-foot-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/tc/athletes-foot-topic-overview"></target></object><object chronic_id="091e9c5e80c1b43d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target></object><object chronic_id="091e9c5e80449b94" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_penis.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/men/picture-of-the-penis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/men/picture-of-the-penis"></target></object><object chronic_id="091e9c5e8001d0c8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/jock_itch-topic_overview_special_tp23587.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/men/tc/jock-itch-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/men/tc/jock-itch-topic-overview"></target></object><object chronic_id="091e9c5e8001d61d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/jock_itch-related_information_special_aa45969spec-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/men/tc/jock-itch-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/men/tc/jock-itch-related-information"></target></object><object chronic_id="091e9c5e8001d194" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/jock_itch-references_special_aa45969spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/men/tc/jock-itch-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/men/tc/jock-itch-references"></target></object><object chronic_id="091e9c5e8001ce01" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/jock_itch-credits_special_aa45969spec-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/men/tc/jock-itch-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/men/tc/jock-itch-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e800236e2" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/jock_itch_special_aa45969spec.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d0c8" path="/webmd/consumer_assets/controlled_content/healthwise/special/jock_itch-topic_overview_special_tp23587.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d61d" path="/webmd/consumer_assets/controlled_content/healthwise/special/jock_itch-related_information_special_aa45969spec-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001d194" path="/webmd/consumer_assets/controlled_content/healthwise/special/jock_itch-references_special_aa45969spec-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001ce01" path="/webmd/consumer_assets/controlled_content/healthwise/special/jock_itch-credits_special_aa45969spec-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Jock Itch</title><dynamic_objects><callout_title>Recommended Related to Men</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80161bda"><metadata_section><i_chronicle_id>091e9c5e801619e5</i_chronicle_id><title>Causes of Obesity in Men</title><wbmd_c_art_thmbnl directive="imageurl" chronic_id="091e9c5e8004dc17" path="/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/obesity_prostate_ca.jpg" object_type="wbmd_cons_img"></wbmd_c_art_thmbnl></metadata_section><section_text><p>The prevalence of obesity among American men has doubled in only 25 years,
+and it’s killing us. A 2004 survey published in the Journal of the American
+Medical Association found that 71% of men 20 years old and over were
+overweight and 31% were obese. The same survey conducted in the late 1970s had
+found 47% of men were overweight and 15% were obese.
+Science is searching for the causes of obesity and exploring the role of
+genes, the diets of pregnant women, and the feeding habits of babies....</p></section_text><link siteid="3" prefix="www" friendlyurl="/men/features/causes-obesity-men"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Jock Itch - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>How can I prevent jock itch?</h3>
+      <p>You can help prevent jock itch by keeping your groin, inner thighs, and buttocks clean and dry. Dry off well after you exercise and shower. Try these other steps to prevent jock itch:</p>
+      <ul>
+       <li>Wash your workout clothes, underwear, socks, and towels after each use.</li>
+       <li>Wear shower shoes when you use public showers and locker rooms.</li>
+       <li>If you have athlete's foot, you should treat it. During treatment, put your socks on before you put on your underwear. This will prevent the spread of the fungus from your feet to your groin.</li>
+       <li>If you keep getting athlete's foot, dry your feet last when you towel off after a shower or bath. This can help prevent spreading infection from your feet to your groin.</li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/men/tc/jock-itch-topic-overview">&lt; Previous Page</a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <a href="http://www.webmd.com/men/tc/jock-itch-topic-overview">1</a>
+      <span class="pipe_fmt">|</span>
+      <span class="current_fmt">2</span>
+      <style type="text/css">
+            .pagination_fmt .center_fmt { width: 375px !important;}
+            </style>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href="http://www.webmd.com/men/tc/jock-itch-topic-overview">&lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><a href="http://www.webmd.com/men/tc/jock-itch-topic-overview">1</a><span class="pipe_fmt">|</span><span class="current_fmt">2</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/men/tc/jock-itch-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/men/tc/jock-itch-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/men/tc/jock-itch-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/men/tc/jock-itch-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: March 01, 2013
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/men/tc/jock-itch-topic-overview">Topic Overview</option><option value="http://www.webmd.com/men/tc/jock-itch-related-information">Related Information</option><option value="http://www.webmd.com/men/tc/jock-itch-references">References</option><option value="http://www.webmd.com/men/tc/jock-itch-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Jock Itch Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/men/tc/jock-itch-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/men/tc/jock-itch-related-information" onclick="return sl(this,'','topicNav_2');" title="Related Information">Related Information</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/men/tc/jock-itch-references" onclick="return sl(this,'','topicNav_3');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/men/tc/jock-itch-credits" onclick="return sl(this,'','topicNav_4');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1188"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80854c0a" onclick="return sl(this,'','rltd-p-1188_1');">Diabetes and ED: What's the Link?</a> </li> 
+     <li id="x63"> <a href="http://men.webmd.com/slideshow-muscle-building-for-men" onclick="return sl(this,'','rltd-p-1188_2');">Fast Track to Bigger Muscles</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/depression/antidepressants-9/side-effects" onclick="return sl(this,'','rltd-p-1188_3');">Antidepresants: Sexual Side Effects and More</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/healthy-beauty/dry-skin-10/dry-skin-causes" onclick="return sl(this,'','rltd-p-1188_4');">Dry, Itchy Skin? Here's Why</a> </li> 
+     <li id="x66"> <a href="http://men.webmd.com/erectile-dysfunction-11/talking-to-your-doctor" onclick="return sl(this,'','rltd-p-1188_5');">How to Talk to Your Doctor About ED</a> </li> 
+     <li id="x67" class="last"> <a href="http://men.webmd.com/guide/7-sex-mistakes-men-make" onclick="return sl(this,'','rltd-p-1188_6');">7 Sex Mistakes Men Make</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1188_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80a7f238" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80692cd9</chronic_id><r_object_id>091e9c5e80a7f238</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e80692cd9.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>05/31/2012 14:25:08</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Mens Health Portal Template/template_Mens Health Portal Template_091e9c5e80025ba8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80025ba8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Jock Itch</name><link_title>Jock Itch</link_title><description>Jock itch, also called tinea cruris, is a fungal infection in the groin. It is a form of ringworm that appears as a rash that can be red, itchy, and have bumps. Many catch jock itch in warm, moist public places like restrooms and locker rooms.  Not changing sweaty clothes can also lead to jock itch. Symptoms include a rash that may itch. You can treat jock itch by  using antifungal creams and prevent it by staying clean and dry. Follow the links below to find WebMD's comprehensive coverage about how jock itch is contracted, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/men/jock-itch-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e802f760b"><link_title>Picture of Ringworm of the Groin (Tinea Cruris)</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-ringworm-of-the-groin-tinea-cruris</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What does ringworm of the groin (tinea cruris) look like?</link_title><friendly_url>http://answers.webmd.com/answers/1180496/what-does-ringworm-of-the-groin</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802f75aa"><link_title>Picture of Ringworm of the Foot (Tinea Pedis)</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-ringworm-of-the-foot-tinea-pedis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802f5418"><link_title>Picture of Ringworm</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-ringworm</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80011bf7"><link_title>Jock Itch</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/jock-itch</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80435239"><link_title>Picture of Cercarial Dermatitis: Swimmer's Itch</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-cercarial-dermatitis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80273dca"><link_title>Slideshow: Ringworm &#45;&#45; A Collection of Photos</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/ss/slideshow-ringworm</friendly_url><thumbnail height="" width="" alt="ringworm">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/ringworm_slideshow/69x75_ringworm_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d61d"><link_title>Jock Itch-Related Information</link_title><friendly_url>http://www.webmd.com/men/tc/jock-itch-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What are signs and symptoms of jock itch?</link_title><friendly_url>http://answers.webmd.com/answers/1178083/what-are-signs-and-symptoms-of</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What causes jock itch, and who gets it?</link_title><friendly_url>http://answers.webmd.com/answers/1178087/what-causes-jock-itch-and-who</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What home remedy can I use for jock itch?</link_title><friendly_url>http://answers.webmd.com/answers/1178079/what-home-remedy-can-i-use</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What causes itching?</link_title><friendly_url>http://answers.webmd.com/answers/1175954/what-causes-itching</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is ringworm?</link_title><friendly_url>http://answers.webmd.com/answers/1179115/what-is-ringworm</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802f55dc"><link_title>Picture of Does Ringworm Mean I Have Worms?</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-does-ringworm-mean-i-have-worms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802f7784"><link_title>Picture of How Is Ringworm Diagnosed?</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-how-is-ringworm-diagnosed</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802f7471"><link_title>Picture of Ringworm of the Body (Tinea Corporis)</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-ringworm-of-the-body-tinea-corporis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8056231a"><link_title>Ringworm Is Common Among School-Age Kids</link_title><friendly_url>http://www.webmd.com/children/news/20100419/ringworm-is-common-among-school-age-kids</friendly_url><thumbnail height="" width="" alt="ring_worm_prevalence_in_kids_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/04_2010/ring_worm_prevalence_in_kids_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f11b"><link_title>Ringworm: There's a Fungus Among Us</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20010417/ringworm-theres-fungus-among-us</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cf96"><link_title>Hair Grooming Not Linked to Ringworm</link_title><friendly_url>http://www.webmd.com/children/news/20010730/hair-grooming-not-linked-to-ringworm</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806bfe52"><link_title>Slideshow: Embarrassing Male Body Problems</link_title><friendly_url>http://www.webmd.com/men/ss/slideshow-mens-body-problems</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e807940ae"><link_title>Is Itching Contagious?</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20110324/is-itching-contagious</friendly_url><thumbnail height="" width="" alt="person scratching arm">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/03_2011/69x75_contagious_itch.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807e8c15"><link_title>Itchy Skin: Imaginary Bugs Often Blamed</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/news/20110516/biopsies-samples-no-benefit-for-delusional-bug-syndrome</friendly_url><thumbnail height="" width="" alt="hand scratching arm">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/05_2011/69x75_delusional_skin_infestation.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80337fe6"><link_title>Itching for Allergy Relief</link_title><friendly_url>http://www.webmd.com/fda/itching-allergy-relief</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8058d852"><link_title>FDA: Don't Swallow Benadryl Extra Strength Itch Stopping Gel</link_title><friendly_url>http://www.webmd.com/allergies/news/20100512/fda-dont-swallow-benadryl-gel</friendly_url><thumbnail height="" width="" alt="topical_benadryl_risks_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/05_2010/topical_benadryl_risks_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800083e0"><link_title>Fungal Infections of the Skin</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/guide/fungal-infections-skin</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-ringworm-of-the-groin-tinea-cruris" onclick="return sl(this,'','lln-tdrelcon_1');">Picture of Ringworm of the Groin (Tinea Cruris)</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-ringworm-of-the-foot-tinea-pedis" onclick="return sl(this,'','lln-tdrelcon_2');">Picture of Ringworm of the Foot (Tinea Pedis)</a></li>
+      <li><a href="http://answers.webmd.com/answers/1180496/what-does-ringworm-of-the-groin" onclick="return sl(this,'','lln-tdrelcon_3');">What does ringworm of the groin (tinea cruris) look like?</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/jock-itch" onclick="return sl(this,'','lln-tdrelcon_4');">Jock Itch</a></li>
+      <li><a href="http://www.webmd.com/men/tc/jock-itch-related-information" onclick="return sl(this,'','lln-tdrelcon_5');">Jock Itch-Related Information</a></li>
+      <li><a href="http://www.webmd.com/fda/itching-allergy-relief" onclick="return sl(this,'','lln-tdrelcon_6');">Itching for Allergy Relief</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/guide/fungal-infections-skin" onclick="return sl(this,'','lln-tdrelcon_7');">Fungal Infections of the Skin</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/men/jock-itch-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Jock Itch Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1658126305&amp;tile=1720254315&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1188&amp;pos=5000&amp;xpg=2952&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fmen%2ftc%2fjock-itch-topic-overview&amp;artid=091e9c5e8001d0c8&amp;inst=0&amp;leaf=1263&amp;cc=16&amp;tmg=1&amp;bc=_a080_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1658126305&amp;amp;tile=1720254315&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1188&amp;amp;pos=5000&amp;amp;xpg=2952&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fmen%2ftc%2fjock-itch-topic-overview&amp;amp;artid=091e9c5e8001d0c8&amp;amp;inst=0&amp;amp;leaf=1263&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_a080_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2952";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1658126305&amp;tile=1720254315&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1188&amp;pos=5001&amp;xpg=2952&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fmen%2ftc%2fjock-itch-topic-overview&amp;artid=091e9c5e8001d0c8&amp;inst=0&amp;leaf=1263&amp;cc=16&amp;tmg=1&amp;bc=_a080_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1658126305&amp;amp;tile=1720254315&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1188&amp;amp;pos=5001&amp;amp;xpg=2952&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fmen%2ftc%2fjock-itch-topic-overview&amp;amp;artid=091e9c5e8001d0c8&amp;amp;inst=0&amp;amp;leaf=1263&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_a080_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "2952";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

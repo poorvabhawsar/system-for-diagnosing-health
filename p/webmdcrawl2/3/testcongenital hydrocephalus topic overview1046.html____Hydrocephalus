@@ -1,0 +1,537 @@
+<title>Congenital Hydrocephalus-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Essentials for Baby</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0002" class="type_ss" onclick="return sl(this,'','tools-res_1');">Fungal Infections in Babies<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/answers-health/answers-baby-sleep-habits" onclick="return sl(this,'','tools-res_2');">Helping Baby Sleep </a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/parenting/baby/features/6-serious-symptoms-in-babies-never-to-ignore" onclick="return sl(this,'','tools-res_3');">6 Serious Baby Symptoms</a></li>
+      <li id="x59"><a href="http://www.webmd.com/parenting/baby/video/introducing-new-foods-to-baby" class="type_vid" onclick="return sl(this,'','tools-res_4');">Baby Food Options<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/eye-health/eye-vision-tv/default.htm?vid=vd-3007-cntv-ed-2002" class="type_vid" onclick="return sl(this,'','tools-res_5');">Your Baby's Vision<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-cry-to-sleep" onclick="return sl(this,'','tools-res_6');">Should Baby 'Cry It Out'?</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e8e751" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e80a76294</i_chronicle_id><r_object_id>091e9c5e80e8e751</r_object_id><title>Topic Overview</title><object_name>congenital_hydrocephalus-topic_overview_special_hw198129.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e8e751</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_hw198129</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Congenital Hydrocephalus-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is congenital hydrocephalus? Congenital hydrocephalus is a buildup of excess cerebrospinal fluid (CSF) in the brain at birth.  The extra fluid can increase pressure in the baby's brain,causing brain damage and mental and physical problems.  This condition is rare.  Finding the condition early and treating it quickly can help limit any long-term problems.  But long-term effects mostly ...</wbmd_desc_meta><wbmd_orig_pub_dt>01/24/2012 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is congenital hydrocephalus? Congenital hydrocephalus is a buildup of excess cerebrospinal fluid (CSF) in the brain at birth.  The extra fluid can increase pressure in the baby's brain,causing brain damage and mental and physical problems.  This condition is rare.  Finding the condition early and treating it quickly can help limit any long-term problems.  But long-term effects mostly ...</wbmd_desc_user><wbmd_lk_ttl>Congenital Hydrocephalus-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>congenital hydrocephalus</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.122</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e8e751</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3609" wbmd_disp_nm="Parenting"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1162" wbmd_disp_nm="Parenting - Baby (0-12 months)"></wbmd_c_channel_id><wbmd_c_frnd_nm>Congenital-Hydrocephalus-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is congenital hydrocephalus?</section_header><section_type>SpecialSection</section_type><section_text><p>Congenital hydrocephalus is a buildup of excess
+			 <a chronic_id="091e9c5e8001b18f" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/cerebrospinal_fluid_csf_definition_stc123704.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/cerebrospinal_fluid_csf_definition_stc123704.xml">cerebrospinal fluid (CSF)</a> in the <a chronic_id="091e9c5e8041fa4e" crossLinkId="73853" directive="friendlyurl" externalId="091e9c5e8041fa4e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml" keywordId="60487" keywordSetId="26677" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml">brain</a> at birth. The
+			 <a chronic_id="091e9c5e8001eb8a" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/congenital_hydrocephalus_multimedia_tp12484.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/congenital_hydrocephalus_multimedia_tp12484.xml">extra fluid can increase pressure in the baby's brain</a><a chronic_id="091e9c5e8001eb8a" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/congenital_hydrocephalus_multimedia_tp12484.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/congenital_hydrocephalus_multimedia_tp12484.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>, causing <a chronic_id="091e9c5e8027906b" crossLinkId="58508" directive="friendlyurl" externalId="091e9c5e8027906b" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/brain_damage_symptoms_causes_treatments.xml" keywordId="42669" keywordSetId="10403" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/brain_damage_symptoms_causes_treatments.xml">brain damage</a> and
+			 mental and physical problems. This condition is rare. </p><p>Finding the condition early and treating it
+			 quickly can help limit any long-term problems. But long-term effects mostly
+			 depend on what caused the fluid buildup, how bad it gets, and how the baby
+			 responds to treatment.</p><p>When
+			 hydrocephalus doesn't occur until later in life, it is called acquired
+			 hydrocephalus. This topic focuses on hydrocephalus that is present at birth
+			 (congenital).</p></section_text></section_group><section_group><section_header>What causes congenital hydrocephalus?</section_header><section_type>SpecialSection</section_type><section_text><p>This
+			 condition is caused by an imbalance between how much fluid the brain makes and
+			 how well the body is able to process it.</p><p>Normally, fluid flows
+			 through and out of chambers of the brain called ventricles, and then around the
+			 brain and spinal cord. The fluid is then absorbed by the thin tissue around the
+			 brain and spinal cord. But with hydrocephalus, the fluid can't move where it
+			 needs to or is not absorbed as it should be. And in rare cases the brain makes
+			 too much fluid.</p><p>Congenital hydrocephalus may happen because
+			 of:</p><ul><li>Bleeding in the
+				<a chronic_id="091e9c5e8001b341" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/fetus_definition_stf124121.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fetus_definition_stf124121.xml">fetus</a> before birth.</li><li>Certain infections in
+				the mother, such as
+				<a chronic_id="091e9c5e8001b674" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/toxoplasmosis_definition_stt11551.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/toxoplasmosis_definition_stt11551.xml">toxoplasmosis</a> or
+				<a chronic_id="091e9c5e8001b48a" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/syphilis_definition_sts15389.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/syphilis_definition_sts15389.xml">syphilis</a>.</li><li> Other <a chronic_id="091e9c5e8001d08d" crossLinkId="47107" directive="friendlyurl" externalId="091e9c5e8001d08d" href="/webmd/consumer_assets/controlled_content/healthwise/special/birth_defects_testing-topic_overview_special_uf6261.xml" keywordId="31577" keywordSetId="8182" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/birth_defects_testing-topic_overview_special_uf6261.xml">birth defects</a>, like
+				<a chronic_id="091e9c5e8001b5db" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/spina_bifida_definition_sts15021.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/spina_bifida_definition_sts15021.xml">spina bifida</a>.</li><li>A <a chronic_id="091e9c5e8001b44c" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/gene_definition_stg124306.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/gene_definition_stg124306.xml">genetic defect</a>.</li></ul></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>SpecialSection</section_type><section_text><p>The clearest symptom of
+			 hydrocephalus is a head that is larger than normal. You and your doctor may
+			 notice it when the baby is born or within the first several months of life. It's normal for a baby's head to grow a lot during the first year. But with congenital hydrocephalus, the head may grow faster than the normal rate for a baby's height
+			 and <a chronic_id="091e9c5e8001d084" crossLinkId="50064" directive="friendlyurl" externalId="091e9c5e8001d084" href="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.xml" keywordId="35927" keywordSetId="8910" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.xml">weight</a>.</p><p>The
+			 condition may cause the
+			 <a chronic_id="091e9c5e8001b3bd" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/soft_spots_fontanelles_definition_sts14959.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/soft_spots_fontanelles_definition_sts14959.xml">soft spot</a> (fontanelle) on your baby’s head to feel
+			 firm or bulge out. Also, the areas between the skull bones (<a chronic_id="091e9c5e8001e7fc" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/skull_sutures_and_bony_plates_in_fetuses_and_infants_multimedia_tp12496.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/skull_sutures_and_bony_plates_in_fetuses_and_infants_multimedia_tp12496.xml">sutures</a><a chronic_id="091e9c5e8001e7fc" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/skull_sutures_and_bony_plates_in_fetuses_and_infants_multimedia_tp12496.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/skull_sutures_and_bony_plates_in_fetuses_and_infants_multimedia_tp12496.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>) may be larger than normal. </p><p>If pressure builds in the brain, your baby may:</p><ul><li> Be irritable.</li><li><a chronic_id="091e9c5e800251e7" crossLinkId="491" directive="friendlyurl" externalId="091e9c5e800251e7" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml" keywordId="40012" keywordSetId="1872" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml">Sleep</a> too
+				much.</li><li> Vomit.</li><li> Eat very little.</li></ul></section_text></section_group><section_group><section_header>How is congenital hydrocephalus diagnosed?</section_header><section_type>SpecialSection</section_type><section_text><p>A <a chronic_id="091e9c5e8001b4c3" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/fetal_ultrasound_definition_stf124115.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fetal_ultrasound_definition_stf124115.xml">fetal ultrasound</a> can sometimes show the problem before birth. But most cases are found during a
+			 <a chronic_id="091e9c5e80377b97" crossLinkId="70371" directive="friendlyurl" externalId="091e9c5e80377b97" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml" keywordId="58671" keywordSetId="25958" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml">physical exam</a> soon after birth. Your
+			 doctor may suspect that your baby has congenital hydrocephalus if your baby’s
+			 head is larger than normal. </p><p>Your baby may need imaging tests,
+			 such as a
+			 <a chronic_id="091e9c5e8001b485" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ct_or_cat_scan_definition_stc123812.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ct_or_cat_scan_definition_stc123812.xml">CT scan</a>, an
+			 <a chronic_id="091e9c5e8001b209" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_imaging_mri_definition_stm159519.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_imaging_mri_definition_stm159519.xml">MRI</a>, or an
+			 <a chronic_id="091e9c5e8001b2d6" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ultrasound_test_definition_stu3177.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ultrasound_test_definition_stu3177.xml">ultrasound</a>, that can give a picture of the brain with
+			 more detail. Genetic tests may be done in some cases.</p></section_text></section_group><section_group><section_header>How is it treated?</section_header><section_type>SpecialSection</section_type><section_text><p>Early treatment—before age 4 months—is important to help limit or prevent brain
+			 damage. Treatment focuses on reducing the amount of fluid in the brain to relieve
+			 pressure. </p></section_text></section_group></page><page><section_group><section_header is_continued="true">How is it treated? continued...</section_header><section_type>SpecialSection</section_type><section_text><p>In most cases, the doctor places a flexible tube, called a <b>shunt</b>, in the brain to drain the fluid. The shunt carries fluid to another part of the body (usually the belly or the <a chronic_id="091e9c5e803739e7" crossLinkId="70400" directive="friendlyurl" externalId="091e9c5e803739e7" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.xml" keywordId="58691" keywordSetId="25969" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.xml">heart</a>), which then absorbs the fluid. The shunt may stay in the brain
+			 for life, though it may be have to be fixed or replaced later if it becomes blocked or infected. </p><p>A surgery called endoscopic third ventriculostomy (ETV) may be used instead of a shunt in some cases. In ETV, a small hole is made in the deep part of the brain so that the fluid in the brain can flow freely. </p><p>Sometimes emergency treatment is needed to reduce the fluid. This may include medicines, a <a chronic_id="091e9c5e8001f100" crossLinkId="1511399" directive="friendlyurl" externalId="091e9c5e8001f100" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/lumbar_puncture_medicaltest_hw234563.xml" keywordId="7797" keywordSetId="1494" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/lumbar_puncture_medicaltest_hw234563.xml">lumbar puncture</a> (sometimes called a spinal tap), or a procedure to drain fluid from the brain until a shunt can be put in.</p><p>If your child has any developmental problems or delays caused by damage to the brain, your doctor can help you find the care you need. Treatment will focus on the specific problems your child has. For example, speech therapy can help with speech delays. <a chronic_id="091e9c5e8001d247" crossLinkId="47180" directive="friendlyurl" externalId="091e9c5e8001d247" href="/webmd/consumer_assets/controlled_content/healthwise/special/physical_therapy-topic_overview_special_zt1046.xml" keywordId="72583" keywordSetId="32734" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/physical_therapy-topic_overview_special_zt1046.xml">Physical therapy</a> can help with motor skill problems. </p></section_text></section_group><section_group><section_header>What kind of ongoing care will your child need?</section_header><section_type>SpecialSection</section_type><section_text><p>No matter what kind of treatment your child has had, you and your child's doctors will need to watch your child closely to make sure that the fluid in the brain continues to drain properly. Pressure can build up in the brain again. Shunts can become blocked or infected. These problems need to be treated right away to prevent permanent damage. </p><p>Symptoms such as irritability, poor appetite, sleeping too much, and <a chronic_id="091e9c5e800079b6" crossLinkId="5629" directive="friendlyurl" externalId="091e9c5e800079b6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml" keywordId="38407" keywordSetId="9410" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml">vomiting</a> often may be signs that fluid has built up again in your child's brain. After early childhood, there may be other symptoms to watch for, such as <a chronic_id="091e9c5e8002394a" crossLinkId="189" directive="friendlyurl" externalId="091e9c5e8002394a" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml" keywordId="7522" keywordSetId="1291" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml">headaches</a>, <a chronic_id="091e9c5e800302ce" crossLinkId="166" directive="friendlyurl" externalId="091e9c5e800302ce" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml" keywordId="35136" keywordSetId="1184" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml">vision</a> problems, confusion, slurred speech, or problems walking. Shunt infections may also cause a fever and redness along the shunt tract or valve. </p><p>As your child grows, you'll need to watch for problems with brain development. These could include things like delayed learning, problems with motor skills, and speech problems. Talk to your doctor about any new problems or changes you notice.</p><p>It can be hard to wait and see if symptoms will return. And if your child has special needs, it can be a challenge to take care of him or her. Try to take good care of yourself. And ask your
+				doctor about support groups and organizations that can help.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocephalus-topic-overview" owner="false"><breadcrumb><bread piece="Health &amp; Parenting Center" prefix="www" friendlyurl="/parenting/default.htm"></bread><bread piece="Health &amp; Baby Center" prefix="www" friendlyurl="/parenting/baby/default.htm"></bread><bread piece="Health &amp; Baby Related Topics" prefix="www" friendlyurl="/parenting/baby/tc/default.htm"></bread></breadcrumb><centers><Topic id="2790" name="tmg" chronicid="091e9c5e80a76294" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocephalus-topic-overview" type="Topic">Congenital Hydrocephalus</Topic><Health id="2786" name="health center" chronicid="091e9c5e80c3c634" prefix="www" friendlyurl="/parenting/baby/default.htm" type="">Baby Center</Health><Super id="1190" name="super center" chronicid="091e9c5e80c3d141" prefix="www" friendlyurl="/parenting/default.htm" type="">Health &amp; Parenting</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocephalus-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e80a76294" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocephalus-topic-overview" type="Topic">Congenital Hydrocephalus</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001b18f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/cerebrospinal_fluid_csf_definition_stc123704.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/cerebrospinal-fluid-csf"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/cerebrospinal-fluid-csf"></target></object><object chronic_id="091e9c5e8041fa4e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/picture-of-the-brain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-brain"></target></object><object chronic_id="091e9c5e8001eb8a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/congenital_hydrocephalus_multimedia_tp12484.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/congenital-hydrocephalus"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/congenital-hydrocephalus"></target></object><object chronic_id="091e9c5e8027906b" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/miscellaneous/brain_damage_symptoms_causes_treatments.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/brain-damage-symptoms-causes-treatments"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/brain-damage-symptoms-causes-treatments"></target></object><object chronic_id="091e9c5e8001b341" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fetus_definition_stf124121.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/fetus"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/fetus"></target></object><object chronic_id="091e9c5e8001b674" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/toxoplasmosis_definition_stt11551.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/toxoplasmosis-7333"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/toxoplasmosis-7333"></target></object><object chronic_id="091e9c5e8001b48a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/syphilis_definition_sts15389.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/syphilis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/syphilis"></target></object><object chronic_id="091e9c5e8001d08d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/birth_defects_testing-topic_overview_special_uf6261.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/birth-defects-testing-what-are-birth-defects-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/birth-defects-testing-what-are-birth-defects-tests"></target></object><object chronic_id="091e9c5e8001b5db" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/spina_bifida_definition_sts15021.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/spina-bifida"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/spina-bifida"></target></object><object chronic_id="091e9c5e8001b44c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/gene_definition_stg124306.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/gene"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/gene"></target></object><object chronic_id="091e9c5e8001d084" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diet/tc/healthy-weight-what-is-a-healthy-weight"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diet/tc/healthy-weight-what-is-a-healthy-weight"></target></object><object chronic_id="091e9c5e8001b3bd" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/soft_spots_fontanelles_definition_sts14959.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/soft-spots-fontanelles"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/soft-spots-fontanelles"></target></object><object chronic_id="091e9c5e8001e7fc" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/skull_sutures_and_bony_plates_in_fetuses_and_infants_multimedia_tp12496.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/skull-sutures-in-infants-and-fetuses"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/skull-sutures-in-infants-and-fetuses"></target></object><object chronic_id="091e9c5e800251e7" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target><target siteid="8" name="" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target></object><object chronic_id="091e9c5e8001b4c3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fetal_ultrasound_definition_stf124115.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/fetal-ultrasound"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/fetal-ultrasound"></target></object><object chronic_id="091e9c5e80377b97" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target></object><object chronic_id="091e9c5e8001b485" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ct_or_cat_scan_definition_stc123812.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/ct-or-cat-scan"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/ct-or-cat-scan"></target></object><object chronic_id="091e9c5e8001b209" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_imaging_mri_definition_stm159519.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/magnetic-resonance-imaging-mri"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/magnetic-resonance-imaging-mri"></target></object><object chronic_id="091e9c5e8001b2d6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ultrasound_test_definition_stu3177.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/ultrasound"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/ultrasound"></target></object><object chronic_id="091e9c5e803739e7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/picture-of-the-heart"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-heart"></target></object><object chronic_id="091e9c5e8001f100" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/lumbar_puncture_medicaltest_hw234563.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/lumbar-puncture" status="deleted"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/lumbar-puncture" status="deleted"></target></object><object chronic_id="091e9c5e8001d247" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/physical_therapy-topic_overview_special_zt1046.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/tc/physical-therapy-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/tc/physical-therapy-topic-overview"></target></object><object chronic_id="091e9c5e800079b6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-nausea-vomiting"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-nausea-vomiting"></target></object><object chronic_id="091e9c5e8002394a" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/migraines-headaches/default.htm"></target></object><object chronic_id="091e9c5e800302ce" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target><target siteid="8" name="" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target></object><object chronic_id="091e9c5e80a76294" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-topic_overview_special_hw198129.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocephalus-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocephalus-topic-overview"></target></object><object chronic_id="091e9c5e80a76295" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-frequently_asked_questions_special_abn2341.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocephalus-frequently-asked-questions"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocephalus-frequently-asked-questions"></target></object><object chronic_id="091e9c5e80e718bb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-other_places_to_get_help_special_hw198127-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocephalus-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocephalus-other-places-to-get-help"></target></object><object chronic_id="091e9c5e80a76296" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-related_information_special_hw198127-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocephalus-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocephalus-related-information"></target></object><object chronic_id="091e9c5e80a76297" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-references_special_hw198127-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocephalus-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocephalus-references"></target></object><object chronic_id="091e9c5e80a76298" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-credits_special_hw198127-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/tc/congenital-hydrocephalus-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/congenital-hydrocephalus-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e80a76414" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/congenital_hydrocephalus_special_hw198127.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e80a76294" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-topic_overview_special_hw198129.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Frequently Asked Questions</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e80a76295" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-frequently_asked_questions_special_abn2341.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e80e718bb" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-other_places_to_get_help_special_hw198127-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e80a76296" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-related_information_special_hw198127-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e80a76297" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-references_special_hw198127-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e80a76298" path="/webmd/consumer_assets/controlled_content/healthwise/special/congenital_hydrocephalus-credits_special_hw198127-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Congenital Hydrocephalus</title><dynamic_objects><callout_title>Recommended Related to Parenting - Baby (0-12 months)</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80abc37a"><metadata_section><i_chronicle_id>091e9c5e8022e063</i_chronicle_id><title>Baby Talk: Communicating With Your Baby</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>Your baby's first year will be a flurry of changes &#45;&#45; and not just diapers. From the first smiles, gurgles, and coos to learning to say "mama" or "dada," babies love to communicate with their own form of baby talk. And they hope you'll "baby talk" right back.
+All through this first year, you can do a lot to encourage your baby's communication skills. And it's easy. All you need do is smile, talk, sing, and read to your baby.
+Why focus on communicating with your baby? Because early speech and language...</p></section_text><link siteid="3" prefix="www" friendlyurl="/parenting/baby/infant-development-9/baby-talk"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Congenital Hydrocephalus - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What is congenital hydrocephalus?</h3>
+      <p>Congenital hydrocephalus is a buildup of excess <a href="http://www.webmd.com/hw-popup/cerebrospinal-fluid-csf" onclick="return sl(this,'hw','embd-lnk');">cerebrospinal fluid (CSF)</a> in the <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a> at birth. The <a href="http://www.webmd.com/brain/congenital-hydrocephalus" onclick="return sl(this,'','embd-lnk');">extra fluid can increase pressure in the baby's brain</a> <a href="http://www.webmd.com/brain/congenital-hydrocephalus" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>, causing <a href="http://www.webmd.com/brain/brain-damage-symptoms-causes-treatments" onclick="return sl(this,'','embd-lnk');">brain damage</a> and mental and physical problems. This condition is rare. </p>
+      <p xmlns:xalan="http://xml.apache.org/xalan">Finding the condition early and treating it quickly can help limit any long-term problems. But long-term effects mostly depend on what caused the fluid buildup, how bad it gets, and how the baby responds to treatment.</p>
+      <p>When hydrocephalus doesn't occur until later in life, it is called acquired hydrocephalus. This topic focuses on hydrocephalus that is present at birth (congenital).</p>
+      <h3>What causes congenital hydrocephalus?</h3>
+      <p>This condition is caused by an imbalance between how much fluid the brain makes and how well the body is able to process it.</p>
+      <p>Normally, fluid flows through and out of chambers of the brain called ventricles, and then around the brain and spinal cord. The fluid is then absorbed by the thin tissue around the brain and spinal cord. But with hydrocephalus, the fluid can't move where it needs to or is not absorbed as it should be. And in rare cases the brain makes too much fluid.</p>
+      <p>Congenital hydrocephalus may happen because of:</p>
+      <ul>
+       <li>Bleeding in the <a href="http://www.webmd.com/hw-popup/fetus" onclick="return sl(this,'hw','embd-lnk');">fetus</a> before birth.</li>
+       <li>Certain infections in the mother, such as <a href="http://www.webmd.com/hw-popup/toxoplasmosis-7333" onclick="return sl(this,'hw','embd-lnk');">toxoplasmosis</a> or <a href="http://www.webmd.com/hw-popup/syphilis" onclick="return sl(this,'hw','embd-lnk');">syphilis</a>.</li>
+       <li> Other <a href="http://www.webmd.com/baby/tc/birth-defects-testing-what-are-birth-defects-tests" onclick="return sl(this,'','embd-lnk');">birth defects</a>, like <a href="http://www.webmd.com/hw-popup/spina-bifida" onclick="return sl(this,'hw','embd-lnk');">spina bifida</a>.</li>
+       <li>A <a href="http://www.webmd.com/hw-popup/gene" onclick="return sl(this,'hw','embd-lnk');">genetic defect</a>.</li>
+      </ul>
+      <h3>What are the symptoms?</h3>
+      <p>The clearest symptom of hydrocephalus is a head that is larger than normal. You and your doctor may notice it when the baby is born or within the first several months of life. It's normal for a baby's head to grow a lot during the first year. But with congenital hydrocephalus, the head may grow faster than the normal rate for a baby's height and <a href="http://www.webmd.com/diet/tc/healthy-weight-what-is-a-healthy-weight" onclick="return sl(this,'','embd-lnk');">weight</a>.</p>
+      <p>The condition may cause the <a href="http://www.webmd.com/hw-popup/soft-spots-fontanelles" onclick="return sl(this,'hw','embd-lnk');">soft spot</a> (fontanelle) on your baby’s head to feel firm or bulge out. Also, the areas between the skull bones (<a href="http://www.webmd.com/children/skull-sutures-in-infants-and-fetuses" onclick="return sl(this,'','embd-lnk');">sutures</a> <a href="http://www.webmd.com/children/skull-sutures-in-infants-and-fetuses" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>) may be larger than normal. </p>
+      <p>If pressure builds in the brain, your baby may:</p>
+      <ul>
+       <li> Be irritable.</li>
+       <li><a href="http://www.webmd.com/sleep-disorders/default.htm" onclick="return sl(this,'','embd-lnk');">Sleep</a> too much.</li>
+       <li> Vomit.</li>
+       <li> Eat very little.</li>
+      </ul>
+      <h3>How is congenital hydrocephalus diagnosed?</h3>
+      <p>A <a href="http://www.webmd.com/hw-popup/fetal-ultrasound" onclick="return sl(this,'hw','embd-lnk');">fetal ultrasound</a> can sometimes show the problem before birth. But most cases are found during a <a href="http://www.webmd.com/a-to-z-guides/annual-physical-examinations" onclick="return sl(this,'','embd-lnk');">physical exam</a> soon after birth. Your doctor may suspect that your baby has congenital hydrocephalus if your baby’s head is larger than normal. </p>
+      <p>Your baby may need imaging tests, such as a <a href="http://www.webmd.com/hw-popup/ct-or-cat-scan" onclick="return sl(this,'hw','embd-lnk');">CT scan</a>, an <a href="http://www.webmd.com/hw-popup/magnetic-resonance-imaging-mri" onclick="return sl(this,'hw','embd-lnk');">MRI</a>, or an <a href="http://www.webmd.com/hw-popup/ultrasound" onclick="return sl(this,'hw','embd-lnk');">ultrasound</a>, that can give a picture of the brain with more detail. Genetic tests may be done in some cases.</p>
+      <h3>How is it treated?</h3>
+      <p>Early treatment—before age 4 months—is important to help limit or prevent brain damage. Treatment focuses on reducing the amount of fluid in the brain to relieve pressure. </p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Frequently Asked Questions',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-frequently-asked-questions'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: January 24, 2012
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-topic-overview">Topic Overview</option><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-frequently-asked-questions">Frequently Asked Questions</option><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-related-information">Related Information</option><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-references">References</option><option value="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Congenital Hydrocephalus Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-frequently-asked-questions" onclick="return sl(this,'','topicNav_2');" title="Frequently Asked Questions">Frequently Asked Questions</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-other-places-to-get-help" onclick="return sl(this,'','topicNav_3');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-related-information" onclick="return sl(this,'','topicNav_4');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-references" onclick="return sl(this,'','topicNav_5');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/parenting/baby/tc/congenital-hydrocephalus-credits" onclick="return sl(this,'','topicNav_6');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1281181333&amp;tile=1795439642&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2786&amp;scent=1190&amp;pos=5000&amp;xpg=3609&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fparenting%2fbaby%2ftc%2fcongenital-hydrocephalus-topic-overview&amp;artid=091e9c5e80a76294&amp;inst=0&amp;leaf=2790&amp;cc=16&amp;tmg=1&amp;bc=_age122_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1281181333&amp;amp;tile=1795439642&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2786&amp;amp;scent=1190&amp;amp;pos=5000&amp;amp;xpg=3609&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fparenting%2fbaby%2ftc%2fcongenital-hydrocephalus-topic-overview&amp;amp;artid=091e9c5e80a76294&amp;amp;inst=0&amp;amp;leaf=2790&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age122_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3609";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1281181333&amp;tile=1795439642&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=2786&amp;scent=1190&amp;pos=5001&amp;xpg=3609&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fparenting%2fbaby%2ftc%2fcongenital-hydrocephalus-topic-overview&amp;artid=091e9c5e80a76294&amp;inst=0&amp;leaf=2790&amp;cc=16&amp;tmg=1&amp;bc=_age122_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1281181333&amp;amp;tile=1795439642&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=2786&amp;amp;scent=1190&amp;amp;pos=5001&amp;amp;xpg=3609&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fparenting%2fbaby%2ftc%2fcongenital-hydrocephalus-topic-overview&amp;amp;artid=091e9c5e80a76294&amp;amp;inst=0&amp;amp;leaf=2790&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age122_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3609";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

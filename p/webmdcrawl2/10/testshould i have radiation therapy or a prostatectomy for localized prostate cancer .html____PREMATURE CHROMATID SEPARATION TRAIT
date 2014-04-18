@@ -1,0 +1,898 @@
+<title>Should I have radiation therapy or a prostatectomy for localized prostate cancer?</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/cancer/slideshow-cancer-fighting-foods" class="type_ss" onclick="return sl(this,'','tools-res_1');">Try These Cancer-Fighting Foods<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','tools-res_2');">Assess Your Cancer Risk</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/prostate-cancer/slideshow-prostate-cancer-overview" class="type_ss" onclick="return sl(this,'','tools-res_3');">Prostate Cancer: A Visual Guide<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/prostate-cancer/prostate-cancer-quiz" onclick="return sl(this,'','tools-res_4');">Prostate Cancer: Myths vs. Facts</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/video/prostate-nerve-transplant" class="type_vid" onclick="return sl(this,'','tools-res_5');">Sex After Prostate Cancer<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/cancer/features/15-cancer-symptoms-men-ignore" onclick="return sl(this,'','tools-res_6');">15 Cancer Symptoms Men Ignore</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionset.js">
+</script> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="headerLink_fmt"> 
+      <a href="/www/decision-point" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;">What is a Decision Point?</a> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionsetTOC_decsion_pt.jpg" alt="decision point" width="77" height="20" class="headerImg_fmt" />Should I have radiation therapy or a prostatectomy for localized prostate cancer?</h2> 
+     <div class="decisionPoint_fmt"> 
+      <div class="section_fmt "> 
+       <div class="arrowFirst_fmt"> 
+        <div class="leftBorder_fmt"> 
+         <div class="rounded_fmt"> 
+          <div class="vertical1_fmt"> 
+           <div class="vertical2_fmt"> 
+            <div class="vertical3_fmt"> 
+             <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Introduction</a> 
+            </div> 
+           </div> 
+          </div> 
+          <a href="#" onclick="showDiv('detail1_fmt','DP1Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP1Arrw" alt="arrow" /> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail1_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tc1702-Intro"></a> 
+          <p>Radiation therapy and surgery are both used successfully to treat localized prostate cancer. The decision between surgery and radiation often is based on balancing the benefits with the possible side effects of each treatment option, including its effects on sexual activity, bladder control, and other aspects of your quality of life.</p> 
+          <ul> 
+           <li>If one of your biggest concerns is that prostate cancer might come back after treatment, you may want to have a radical prostatectomy. Your doctor will be able to evaluate your cancer more accurately by looking at it during surgery and taking tissue samples that can be tested. This information will help your doctor decide how likely it is that your cancer will return.</li> 
+           <li>If you already have bladder, bowel, or erection problems, talk with your doctor about the kind of radiation treatment that may be best for you.</li> 
+          </ul> 
+          <p xmlns:xalan="http://xml.apache.org/xalan">Treatment choices are different for prostate cancer that is more advanced (has grown or spread outside the prostate gland). For more information, see the topic Prostate Cancer, Advanced or Metastatic. </p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Medical Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail2_fmt','DP2Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP2Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail2_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tc1702-MedInfo"></a> 
+          <h4>What is localized prostate cancer?</h4> 
+          <p> Prostate cancer is the abnormal growth of cells in the tissues of the prostate gland . Localized prostate cancer is cancer than has not spread beyond the prostate gland. </p> 
+          <p>Prostate cancer is the most common cancer in men. Most men who get it are older than 65. If your father, brother, or son has had prostate cancer, you have a higher-than-average risk for developing the disease.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#tn10172" onclick="return sl(this,'','embd-lnk');">1</a></sup></p> 
+          <p>Unlike many other cancers, prostate cancer is usually slow-growing. Most men will die <b>with</b> prostate cancer but not <b>of</b> prostate cancer.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#uh1715" onclick="return sl(this,'','embd-lnk');">2</a></sup></p> 
+          <p> African-American men have higher rates of both prostate cancer and deaths caused by prostate cancer.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#tn10172" onclick="return sl(this,'','embd-lnk');">1</a></sup></p> 
+          <p>Early prostate cancer usually does not cause symptoms. When prostate cancer is diagnosed early, before it has spread outside the prostate gland, it may be cured with radiation or surgery to remove the prostate. As prostate cancer grows or spreads, symptoms may develop, including urinary problems (such as blood in the urine) and bone pain.</p> 
+          <p>Prostate cancer that has grown through the prostate is called advanced prostate cancer, and treatment choices are different for that <a href="http://www.webmd.com/prostate-cancer/staging-of-prostate-cancer" onclick="return sl(this,'hw','embd-lnk');">stage</a> of cancer. For more information, see the topic Prostate Cancer, Advanced or Metastatic. </p> 
+          <h4>What are the treatment choices for localized prostate cancer?</h4> 
+          <p>Localized prostate cancer may be treated with radiation therapy or surgery. You may also choose to watch and wait.</p> 
+          <ul> 
+           <li>Watchful waiting, also called surveillance or observation, means you are being monitored closely by your doctor, but you are not receiving active treatment such as surgery or radiation therapy as long as symptoms do not occur or get worse. </li> 
+           <li>Radical prostatectomy is an operation to remove the entire prostate as well as any nearby tissue that may contain cancer. It may be done as open surgery, by making a large incision, or as laparoscopic surgery, by making several very small incisions in the belly and using a tiny camera and special instruments to remove the prostate. Sometimes lymph nodes in the area also are removed so they can be checked for signs of cancer.</li> 
+           <li>Radiation therapy uses X-rays and other types of radiation to kill the cancer cells. This may be done with: 
+            <ul>
+             <li>External-beam radiation, in which a machine aims high-energy rays at the cancer.</li>
+             <li>Brachytherapy, in which tiny pellets of radioactive material are injected directly into or near the cancer.</li>
+             <li>A combination of external radiation and brachytherapy.</li>
+            </ul></li> 
+          </ul> 
+          <p>If you are young and in good health or if your prostate cancer is fast-growing (higher-<a href="http://www.webmd.com/prostate-cancer/grade-of-prostate-cancer" onclick="return sl(this,'hw','embd-lnk');">grade</a>), your doctor probably will recommend surgery and/or radiation therapy to remove or destroy the cancer. Even though prostate cancer is usually slow-growing, it may eventually spread and cause symptoms and may threaten your life.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#uh1717" onclick="return sl(this,'','embd-lnk');">3</a></sup></p> 
+          <p>Age is not a reason to not have surgery or other treatment. But if you are around 70 or older, it is important to consider other medical conditions you may have, such as heart disease, as you make your treatment decisions. </p> 
+          <h4>When is prostatectomy used to treat prostate cancer?</h4> 
+          <p>Radical prostatectomy is most often recommended when a man is in good general health and has a life expectancy of at least another 10 years. In addition, there should be an expectation that the cancer can be entirely removed. If testing suggests that the cancer may have spread outside the prostate, or if you have other health problems that may add to the risks of major surgery, prostatectomy usually is not recommended.</p> 
+          <p>Radical prostatectomy generally is effective in treating cancer that has not spread beyond the prostate gland. In follow-up PSA tests done in the years after prostatectomy, most men show no evidence of cancer.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#uh1717" onclick="return sl(this,'','embd-lnk');">3</a></sup></p> 
+          <p>Laparoscopic radical prostatectomy sometimes is used instead of open prostatectomy, which requires a larger cut in the belly.</p> 
+          <p>Some specially trained surgeons in large medical centers do robotic-assisted laparoscopic radical prostatectomy. The surgeon controls the arms that hold the surgery tools and laparoscope. There are reports that it helps the surgeon see very well and work with less error. </p> 
+          <h4>When is radiation therapy used to treat prostate cancer?</h4> 
+          <p>Radiation therapy is most effective in treating cancers that have not spread outside the prostate. It may be used alone or combined with hormonal treatment. In rare cases, it is used with surgery. Radiation therapy works as well as surgery for the treatment of early-stage localized prostate cancer.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#zx1092" onclick="return sl(this,'','embd-lnk');">4</a></sup> But for radiation therapy used alone in young men, there are concerns about cancer recurrence.</p> 
+          <h4>What are the risks of prostatectomy?</h4> 
+          <p>A radical prostatectomy is a surgical procedure and carries all the risks of any major surgery, including heart attack, pulmonary embolism, bleeding, infection, and reactions to anesthesia or medicines.</p> 
+          <p>Also, prostatectomy may cause bladder problems and erection problems. Increasingly, this surgery is done in a way that helps preserve the nerves that control erections. Most men who have nerve-sparing prostatectomies will regain the ability to have an erection within 4 to 6 months after surgery.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#uh1717" onclick="return sl(this,'','embd-lnk');">3</a></sup> It takes some men up to 2 years to regain full function.</p> 
+          <p> More than 30% of men who have a radical prostatectomy develop bladder problems, ranging from a need to wear pads to occasional dribbling during stressful activities. Between 2% and 5% still have severe problems 6 months after having a prostatectomy. After 1 year, 92% no longer have problems.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#zx1091" onclick="return sl(this,'','embd-lnk');">5</a>, </sup><sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#uh1705" onclick="return sl(this,'','embd-lnk');">6</a>, </sup><sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#uh1717" onclick="return sl(this,'','embd-lnk');">3</a></sup></p> 
+          <p>Other possible complications include scar tissue that may narrow the outlet to your bladder and injury to the rectum or the ureters.</p> 
+          <p>Evidence shows that the side effects of prostate surgery are reduced when the prostatectomy is done by a surgeon who is very experienced in this particular operation.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#zx1081" onclick="return sl(this,'','embd-lnk');">7</a></sup></p> 
+          <h4>What are the risks of radiation therapy?</h4> 
+          <p>About half of men who have external radiation develop erection problems within 5 years of treatment.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#uh1717" onclick="return sl(this,'','embd-lnk');">3</a></sup> Erection problems following radiation therapy increase over time.<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#uh1726" onclick="return sl(this,'','embd-lnk');">8</a></sup></p> 
+          <p>Most other side effects generally go away when treatment is finished. But in some cases they may become chronic. Other side effects include:<sup class="Reference"><a href="http://www.webmd.com/prostate-cancer/should-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer#zx1092" onclick="return sl(this,'','embd-lnk');">4</a></sup></p> 
+          <ul> 
+           <li>An irritated rectum and an urgent need to pass a stool. This is called proctitis.</li> 
+           <li>An inflamed bladder and urination problems. This is called cystitis. </li> 
+           <li>An inflamed intestine and diarrhea. This is called enteritis.</li> 
+           <li>Being unable to have an erection. This is called impotence.</li> 
+           <li>Being unable to control urination. This is called incontinence. </li> 
+           <li>Painful urination. This is called dysuria.</li> 
+          </ul> 
+          <h4>Follow-up treatment</h4> 
+          <p>Any type of treatment for prostate cancer will need to be followed by regular checkups. Your follow-up care probably will include physical exams, prostate-specific antigen (PSA) tests to monitor PSA levels and measure the speed of any changes, digital rectal exams, and biopsies as needed to examine suspicious tissue.</p> 
+          <p>For more information, see the topic Prostate Cancer.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Your Information</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail3_fmt','DP3Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP3Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail3_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tc1702-YourInfo"></a> 
+          <p> This discussion focuses your choice between:</p> 
+          <ul> 
+           <li>Having radiation therapy.</li> 
+           <li>Having a radical prostatectomy.</li> 
+          </ul> 
+          <p>The decision about whether to have surgery or radiation treatment takes into account your personal feelings and the medical facts.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <caption> 
+            <b>Deciding about treatment</b> 
+           </caption> 
+           <tbody>
+            <tr> 
+             <th scope="col" valign="top"> Type of treatment</th> 
+             <th scope="col" valign="top"> Reasons to choose</th> 
+             <th scope="col" valign="top"> Reasons to not choose</th> 
+            </tr> 
+            <tr> 
+             <td valign="top" width="20%"> <p> <b>Radiation therapy</b> </p> </td> 
+             <td valign="top" width="40%"> 
+              <ul> 
+               <li>External beam radiation does not require surgery or anesthesia and is an outpatient procedure. (Brachytherapy requires anesthesia.) </li> 
+               <li>Radiation therapy can be as effective as prostatectomy in controlling early prostate cancer. It is low-risk compared with major surgery.</li> 
+              </ul> <p>Are there other reasons you might want to choose radiation therapy?</p> </td> 
+             <td valign="top" width="40%"> 
+              <ul> 
+               <li>Treatment usually continues for 4 to 6 weeks. </li> 
+               <li>Without surgery, you will not have the lab report on the specific <a href="http://www.webmd.com/prostate-cancer/grade-of-prostate-cancer" onclick="return sl(this,'hw','embd-lnk');">grade</a> and <a href="http://www.webmd.com/prostate-cancer/staging-of-prostate-cancer" onclick="return sl(this,'hw','embd-lnk');">stage</a> of your cancer.</li> 
+               <li>Long-term side effects may include erection problems and rectal irritation.</li> 
+              </ul> <p>Are there other reasons you might not want to choose radiation therapy?</p> </td> 
+            </tr> 
+            <tr> 
+             <td valign="top" width="20%"> <p> <b>Prostatectomy</b> </p> </td> 
+             <td valign="top" width="40%"> 
+              <ul> 
+               <li>Surgery to remove the prostate may remove the cancer completely.</li> 
+               <li>Removing the prostate often improves long-term survival in younger men who have rapidly growing cancer. </li> 
+               <li>Because the cancer tissue and nearby lymph nodes are taken out and looked at under a microscope, doctors can predict whether the cancer is likely to spread or come back. </li> 
+               <li>Removing the prostate makes it easier to detect future rises in PSA levels and to treat recurring cancer.</li> 
+              </ul> <p>Are there other reasons you might want to choose prostatectomy?</p> </td> 
+             <td valign="top" width="40%"> 
+              <ul> 
+               <li>Side effects include urinary incontinence and erection problems. These may be temporary.</li> 
+               <li>Prostatectomy is major surgery which carries the risk of complications and death.</li> 
+               <li>It is not possible to determine before surgery whether the cancer is confined to the prostate.</li> 
+               <li>Even after the prostate is removed, cancer cells may remain in the area near the prostate.</li> 
+              </ul> <p>Are there other reasons you might not want to choose prostatectomy?</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <p>These personal stories may help you make your decision.</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">Wise Health Decision</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail4_fmt','DP4Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP4Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail4_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tc1702-WiseDecision"></a> 
+          <p> Use this worksheet to help you make your decision. After completing it, you should have a better idea of how you feel about choosing between prostatectomy or radiation therapy. Discuss the worksheet with your doctor.</p> 
+          <p>Circle the answer that best applies to you.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody> 
+            <tr> 
+             <td valign="top">My heart condition may mean that I should not have surgery.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%"> NA*</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">It is important to me that I can continue to be sexually active.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">Radiation therapy will fit into my busy life. </td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">My doctor says my cancer will probably not spread outside of my prostate in the next 10 to 15 years.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I may be too old to have major surgery.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I'm concerned that if I have radiation therapy, I may never regain my ability to have an erection.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">NA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">Surgery might keep me from my normal activities for too long a time.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I am willing to put up with urinary leakage if surgery will mean the cancer is gone and won't come back.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+            <tr> 
+             <td valign="top">I expect to live longer than 10 more years.</td> 
+             <td align="center" valign="top" width="10%">Yes</td> 
+             <td align="center" valign="top" width="10%">No</td> 
+             <td align="center" valign="top" width="10%">Unsure</td> 
+            </tr> 
+           </tbody> 
+          </table> 
+          <p> <i>*NA = Not applicable</i> </p> 
+          <p>Use the following space to list any other important concerns you have about this decision.</p> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top" width="98%"> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <h4>What is your overall impression?</h4> 
+          <p>Your answers in the above worksheet are meant to give you a general idea of where you stand on this decision. You may have one overriding reason to have or not have a prostatectomy or radiation therapy.</p> 
+          <p>Check the box below that represents your overall impression about your decision.</p> 
+          <table align="center" border="0" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td align="left" valign="top" width="25%"> <p> <b>Leaning toward prostatectomy</b> </p> </td> 
+             <td align="center" valign="top" width="50%">&nbsp;</td> 
+             <td align="right" valign="top" width="25%"> <p> <b>Leaning toward radiation therapy</b> </p> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <table align="center" border="1" cellpadding="5" cellspacing="0" width="90%"> 
+           <tbody>
+            <tr> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+             <td valign="top">&nbsp;</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt "> 
+       <div class="arrow_fmt"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;">References</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail5_fmt','DP5Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP5Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail5_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tc1702-Bib"></a> 
+          <blockquote> 
+           <h3>Citations</h3> 
+           <ol> 
+            <li> <p> <a name="tn10172"></a>American Cancer Society (2006). <u>Cancer Facts and Figures 2006</u>, pp. 1–56. Atlanta: American Cancer Society. Available online: http://www.cancer.org/docroot/STT/stt_0.asp. </p> </li> 
+            <li> <p> <a name="uh1715"></a>Frankel S, et al. (2003). Screening for prostate cancer. <u>Lancet</u>, 361(9363): 1122–1128.</p> </li> 
+            <li> <p> <a name="uh1717"></a>Ohori J, Scardino PT (2002). Localized prostate cancer. <u>Current Problems in Surgery</u>, 39(9): 837–957.</p> </li> 
+            <li> <p> <a name="zx1092"></a>National Cancer Institute (2007): <u>Prostate Cancer (PDQ): Treatment-Health Professional Version</u>. Available online: http://www.nci.nih.gov/cancertopics/pdq/treatment/prostate/healthprofessional.</p> </li> 
+            <li> <p> <a name="zx1091"></a>Wilt T (2004). Prostate cancer (non-metastatic). <u>Clinical Evidence</u> (11): 1169–1185. </p> </li> 
+            <li> <p> <a name="uh1705"></a>Jani AB, Hellman S (2003). Early prostate cancer: Clinical decision-making. <u>Lancet</u>, 361(9362): 1045–1053.</p> </li> 
+            <li> <p> <a name="zx1081"></a>Kantoff PW (2007). Prostate cancer. In DC Dale, DD Federman, eds., <u>ACP Medicine</u>, section 12, chap. 9. New York: WebMD.</p> </li> 
+            <li> <p> <a name="uh1726"></a>D'Amico AV, et al. (2007). Radiation therapy for prostate cancer. In AJ Wein et al., eds., <u>Campbell-Walsh Urology</u>, 9th ed., vol. 3, pp. 3006–3031. Philadelphia: Saunders Elsevier.</p> </li> 
+           </ol> 
+          </blockquote> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="section_fmt  last_fmt"> 
+       <div class="arrowLast_fmt" id="lastDiv"> 
+        <div class="vertical1_fmt"> 
+         <div class="vertical2_fmt"> 
+          <div class="vertical3_fmt"> 
+           <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;">Credits</a> 
+          </div> 
+         </div> 
+        </div> 
+        <a href="#" onclick="showDiv('detail6_fmt','DP6Arrw','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw_on.gif');lastDivSwap('lastDiv','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where.gif','http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_where_on.gif','arrowLast_fmt','arrowLast2_fmt');this.blur(); return false;" class="link_fmt"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_arrw.gif" class="arrw_fmt" id="DP6Arrw" alt="arrow" /> </a> 
+       </div> 
+      </div> 
+      <div class="detail_fmt" id="detail6_fmt"> 
+       <div class="border_fmt"> 
+        <div class="innerBorder_fmt"> 
+         <div class="content_fmt"> 
+          <a name="tc1702-Credits"></a> 
+          <table border="0" cellpadding="5"> 
+           <tbody>
+            <tr> 
+             <td valign="top"> <b>Author</b> </td> 
+             <td>Bets Davis, MFA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Editor</b> </td> 
+             <td>Maria Essig</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Editor</b> </td> 
+             <td>Susan Van Houten, RN, BSN, MBA</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Associate Editor</b> </td> 
+             <td>Pat Truman, MATC</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+             <td>E. Gregory Thompson, MD - Internal Medicine</td> 
+            </tr> 
+            <tr> 
+             <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+             <td>Christopher G. Wood, MD, FACS - Urology/Oncology</td> 
+            </tr> 
+            <tr> 
+             <td> <b>Last Updated</b> </td> 
+             <td>June 27, 2008</td> 
+            </tr> 
+           </tbody>
+          </table> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: June 27, 2008
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - DecisionPoint';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1097"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/cancer/bone-metastasis-11/common-cancers-metastasize-bone" onclick="return sl(this,'','rltd-p-1097_1');">Prostate Cancer's Link to Bone Metastasis</a> </li> 
+     <li id="x63"> <a href="http://men.webmd.com/picture-of-the-prostate" onclick="return sl(this,'','rltd-p-1097_2');">See a Detailed View of the Prostate</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/prostate-cancer/prostate-cancer-faq" onclick="return sl(this,'','rltd-p-1097_3');">Prostate Cancer: Frequently Asked Questions</a> </li> 
+     <li id="x65"> <a href="http://men.webmd.com/ss/slideshow-screening-tests-men" onclick="return sl(this,'','rltd-p-1097_4');">9 Tests Men Shouldn't Skip</a> </li> 
+     <li id="x66"> <a href="http://men.webmd.com/slideshow-foods-to-boost-male-health" onclick="return sl(this,'','rltd-p-1097_5');">Super Foods That May Protect Against Cancer </a> </li> 
+     <li id="x67" class="last"> <a href="http://exchanges.webmd.com/prostate-cancer-exchange" onclick="return sl(this,'','rltd-p-1097_6');">Join the Discussion in the Prostate Cancer Community</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1097_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e806a16ce" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e806a16ce</chronic_id><r_object_id>091e9c5e806a16ce</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e806a16ce.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/09/2010 17:31:04</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Prostate Cancer Health Center Template/template_Prostate Cancer Health Center Template_091e9c5e800247a8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800247a8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Prostate Cancer Treatments</name><link_title>Prostate Cancer Treatments</link_title><description>Prostate cancer can be a scary diagnosis, but treatments often are very effective in treating it. For some men, watchful waiting is the recommended method of dealing with prostate cancer.  Radiation (external beam, seeds, and proton therapy) can be effective in treating prostate cancer, as can surgery. Ultrasound, cryosurgery, hormone therapy, and combination treatments are used to treat prostate cancer also. Your doctor will help you determine the best treatment for your case. Follow the links below to find WebMD's comprehensive coverage about how prostate cancer is treated, what options are available, what to expect from treatment, and much more.</description><friendly_url>http://www.webmd.com/prostate-cancer/prostate-cancer-treatments-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e806c6ab3"><link_title>Slideshow: A Visual Guide to Prostate Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/ss/slideshow-prostate-cancer-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80011f10"><link_title>Is There a Prostate Cancer Diet?</link_title><friendly_url>http://www.webmd.com/prostate-cancer/features/is-there-prostate-cancer-diet</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1002</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8018200e"><link_title>Drug Fights Resistant Prostate Tumors</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20080218/drug-fights-resistant-prostate-tumors</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/February08/new_prostate_cancer_drug.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80182691"><link_title>Prostate Cancer Treatment Can Be Risky</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20080218/prostate-cancer-treatment-can-be-risky</friendly_url><thumbnail height="" width="" alt="Hormone Therapy Prostate Cancer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/February08/hormone_therapy_prostate_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8020d843"><link_title>Broccoli May Cut Prostate Cancer Risk</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20080701/broccoli-may-cut-prostate-cancer-risk</friendly_url><thumbnail height="" width="" alt="Broccoli Prevents Prostate Cancer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/July08/broccoli_prevents_prostate_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802134f7"><link_title>Prostate Cancer Therapy No Help</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20080708/prostate-cancer-therapy-no-help</friendly_url><thumbnail height="" width="" alt="hormone_therapy_and_prostate_cancer_survival.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/July08/hormone_therapy_and_prostate_cancer_survival.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802e8a28"><link_title>Drug May Help Prevent Prostate Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20090224/drug-may-help-prevent-prostate-cancer</friendly_url><thumbnail height="" width="" alt="better_prostate_ca_screening.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/Febuuary_2009/better_prostate_ca_screening.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802ea865"><link_title>Statins Cut Deaths From Prostate Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20090226/statins-cut-deaths-from-prostate-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802f1c1f"><link_title>"Male Lumpectomy" for Prostate Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20090310/male-lumpectomy-for-prostate-cancer</friendly_url><thumbnail height="" width="" alt="freezing_prostate_cancer.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/March_2009/freezing_prostate_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802fa71f"><link_title>Prostate Cancer: No Treatment OK for Some</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20090319/prostate-cancer-no-treatment-ok-for-some</friendly_url><thumbnail height="" width="" alt="prostate_cancer_watchful_waiting.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/March_2009/prostate_cancer_watchful_waiting.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8044b6cf"><link_title>Is Prostate Cancer Overtreated?</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20091103/prostate-cancer-overtreated</friendly_url><thumbnail height="" width="" alt="prostate_ca_hormones_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/november_2009/prostate_ca_hormones_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8045098e"><link_title>Aspirin May Prevent Prostate Cancer Recurrence</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20091106/aspirin-may-prevent-prostate-cancer-recurrence</friendly_url><thumbnail height="" width="" alt="anticoagulants_for_prostate_ca_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/november_2009/anticoagulants_for_prostate_ca_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80481d56"><link_title>Drug Eases Hormone Therapy Side Effect in Men</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20091207/drug-eases-hormone-therapy-side-effect</friendly_url><thumbnail height="" width="" alt="hormone_therapy_for_prostate_ca.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/december_2009/hormone_therapy_for_prostate_ca.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8050e948"><link_title>New Drug Fights Advanced Prostate Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20100303/new-drug-fights-advanced-prostate-cancer</friendly_url><thumbnail height="" width="" alt="chemo_drug_prostate_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/03_2010/chemo_drug_prostate_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80603f1a"><link_title>Aggressive Treatment for Prostate Cancer Is the Norm</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20100726/aggressive-treatment-for-prostate-cancer-is-the-norm</friendly_url><thumbnail height="" width="" alt="low_risk_prostate_ca_agressive_treatment_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/07_2010/low_risk_prostate_ca_agressive_treatment_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806998c8"><link_title>Targeted Radiation May Help Men Avoid Impotence</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20101105/targeted-radiation-may-help-men-avoid-impotence</friendly_url><thumbnail height="" width="" alt="Serious man looking away from camera">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_Proton_Therapy_Impotence_03.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807cfc5f"><link_title>FDA Approves Prostate Cancer Drug Zytiga</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20110428/fda-approves-prostate-cancer-drug</friendly_url><thumbnail height="" width="" alt="doctor and patient">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/04_2011/69x75_fda_zytiga_prostate_cancer_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80008a94"><link_title>Prostate Cancer: Radical Prostatectomy</link_title><friendly_url>http://www.webmd.com/prostate-cancer/prostate-cancer-radical-prostatectomy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800107a9"><link_title>Hormone Treatment Fights Prostate Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/features/hormone-therapy-for-prostate-cancer</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8007856b"><link_title>Prostate Cancer: Radiation</link_title><friendly_url>http://www.webmd.com/prostate-cancer/guide/prostate-cancer-radiation</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8007857d"><link_title>Prostate Cancer: Hormone Therapy</link_title><friendly_url>http://www.webmd.com/prostate-cancer/guide/prostate-cancer-hormone-therapy-index</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8015c5f2"><link_title>Hormones Delay Prostate Cancer Growth</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20080102/hormones-delay-prostate-cancer-growth</friendly_url><thumbnail height="" width="" alt="Hormones Slow Prostate Cancer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/January08/hormones_slow_prostate_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8018000a"><link_title>Finding the Right Prostate Cancer Diet</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20080215/finding-right-prostate-cancer-diet</friendly_url><thumbnail height="" width="" alt="Fighting PC Naturally">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/February08/fighting_pc_naturally.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80181ed3"><link_title>Statins, NSAIDs vs. Prostate Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20080218/statins-nsaids-vs-prostate-cancer</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/February08/nsaids_fight_pc.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801b744d"><link_title>Lipitor-Celebrex: Curb Prostate Cancer?</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20080414/llipitor-celebrex-curb-prostate-cancer</friendly_url><thumbnail height="" width="" alt="lipitor_celebrex_and_prostate_cancer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/April08/lipitor_celebrex_and_prostate_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80248949"><link_title>Hormone Therapy May Speed Prostate Cancer</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20080828/treatment-may-speed-prostate-cancer</friendly_url><thumbnail height="" width="" alt="Hormone Therapy Spurs Cancer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/August08/hormone_therapy_spurs_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8025901d"><link_title>NSAIDs May Cut Prostate Cancer Markers</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20080905/nsaids-may-cut-prostate-cancer-markers</friendly_url><thumbnail height="" width="" alt="NSAIDS Mask Prostate Cancer">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/September08/nsaids_mask_prostate_cancer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802af146"><link_title>Advancing Prostate Cancer: Combo Treatment Best</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20081215/prostate-cancer-combo-treatment-best</friendly_url><thumbnail height="" width="" alt="combined_prostate_ca_tx.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/December08/combined_prostate_ca_tx.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8042aeb9"><link_title>Robot Prostate Surgery: More ED, Incontinence</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20091013/robot-prostate-surgery-more-ed-incontinence</friendly_url><thumbnail height="" width="" alt="minimally__invasive_prostatectomy_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/october_2009/minimally__invasive_prostatectomy_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80683969"><link_title>Aspirin May Cut Prostate Cancer Deaths</link_title><friendly_url>http://www.webmd.com/prostate-cancer/news/20101025/aspirin-may-cut-prostate-cancer-deaths</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/prostate-cancer/ss/slideshow-prostate-cancer-overview" onclick="return sl(this,'','td-rltd-art_1');">Slideshow: A Visual Guide to Prostate Cancer</a></li>
+      <li><a href="http://www.webmd.com/prostate-cancer/features/is-there-prostate-cancer-diet" onclick="return sl(this,'','td-rltd-art_2');">Is There a Prostate Cancer Diet?</a></li>
+      <li><a href="http://www.webmd.com/prostate-cancer/prostate-cancer-radical-prostatectomy" onclick="return sl(this,'','td-rltd-art_3');">Prostate Cancer: Radical Prostatectomy</a></li>
+      <li><a href="http://www.webmd.com/prostate-cancer/features/hormone-therapy-for-prostate-cancer" onclick="return sl(this,'','td-rltd-art_4');">Hormone Treatment Fights Prostate Cancer</a></li>
+      <li><a href="http://www.webmd.com/prostate-cancer/guide/prostate-cancer-radiation" onclick="return sl(this,'','td-rltd-art_5');">Prostate Cancer: Radiation</a></li>
+      <li><a href="http://www.webmd.com/prostate-cancer/guide/prostate-cancer-hormone-therapy-index" onclick="return sl(this,'','td-rltd-art_6');">Prostate Cancer: Hormone Therapy</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/prostate-cancer/prostate-cancer-treatments-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Prostate Cancer Treatments Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=2143396788&tile=1448908045&tug=&pug=__&site=2&affiliate=20&hcent=1170&scent=848&pos=113&xpg=1688&sec=&amp;au1=2&au2=1&uri=%2fprostate-cancer%2fshould-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer&artid=091e9c5e8001cd03&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_gen1_cust4_c61_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'2143396788',
+                    tile:'1448908045',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1688";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2143396788&amp;tile=1448908045&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1170&amp;scent=848&amp;pos=5001&amp;xpg=1688&amp;sec=&amp;au1=2&amp;au2=1&amp;uri=%2fprostate-cancer%2fshould-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer&amp;artid=091e9c5e8001cd03&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_gen1_cust4_c61_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2143396788&amp;amp;tile=1448908045&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1170&amp;amp;scent=848&amp;amp;pos=5001&amp;amp;xpg=1688&amp;amp;sec=&amp;amp;au1=2&amp;amp;au2=1&amp;amp;uri=%2fprostate-cancer%2fshould-i-have-radiation-therapy-or-a-prostatectomy-for-localized-prostate-cancer&amp;amp;artid=091e9c5e8001cd03&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_gen1_cust4_c61_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1688";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,429 @@
+<title>WebMD Breast Cancer Center: Types, Symptoms, Causes, Genes, Staging, Tests, and Treatments</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/breast-cancer/advanced-bc-care-13/metastatic" onclick="return sl(this,'','prm-hc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/2011/12_2011/advanced_breast_cancer_treatments/493x335_advanced_breast_cancer_treatments.jpg" alt="breast cancer treatment center" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/breast-cancer/advanced-bc-care-13/metastatic" onclick="return sl(this,'','prm-hc_1');">Metastatic Breast Cancer</a> </h2> 
+        <a href="http://www.webmd.com/breast-cancer/advanced-bc-care-13/metastatic" onclick="return sl(this,'','prm-hc_1');">Treatments and tests.<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/breast-cancer/breast-cancer-health-check/default.htm" data-alt="dealing with breast cancer" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/health_checks/dealing_with_breast_cancer_healthcheck/493x335_dealing_with_breast_cancer_healthcheck.jpg" onclick="return sl(this,'','prm-hc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/breast-cancer/breast-cancer-health-check/default.htm" onclick="return sl(this,'','prm-hc_2');">Breast Cancer Tips</a> </h2> 
+        <a href="http://www.webmd.com/breast-cancer/breast-cancer-health-check/default.htm" onclick="return sl(this,'','prm-hc_2');">Get personalized information on your diagnosis and treatment.<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/breast-cancer/ss/slideshow-breast-cancer-overview" data-alt="Women Talking And Having Tea" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/breast_cancer_overview_slideshow/getty_rm_photo_of_women_having_tea.jpg" onclick="return sl(this,'','prm-hc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/breast-cancer/ss/slideshow-breast-cancer-overview" onclick="return sl(this,'','prm-hc_3');">Breast Cancer Guide</a> </h2> 
+        <a href="http://www.webmd.com/breast-cancer/ss/slideshow-breast-cancer-overview" onclick="return sl(this,'','prm-hc_3');" class="type_ss">Symptoms, stages, and more.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="teaser_fmt"> 
+    <h3>Breast Cancer Overview</h3> 
+    <p>The first sign of breast cancer often is a breast lump or an abnormal mammogram. Breast cancer stages range from early, curable breast cancer to metastatic breast cancer, with a variety of breast cancer treatments. Male breast cancer is not uncommon and must be taken seriously.</p> 
+   </div>
+   <div class="guideDropdown_rdr"> 
+    <form action="" id="qform1" onsubmit="window.location=guideNavDropdown.options[guideNavDropdown.options.selectedIndex].value; return false;"> 
+     <h4>Select a Chapter</h4> 
+     <select name="guideNavDropdown" class="listBox_fmt"> <option value="http://www.webmd.com/breast-cancer/guide/breast-cancer-overview-facts">Overview &amp; Facts</option> <option value="http://www.webmd.com/breast-cancer/guide/breast-cancer-symptoms-and-types">Symptoms &amp; Types</option> <option value="http://www.webmd.com/breast-cancer/guide/breast-cancer-diagnosis-tests">Diagnosis &amp; Tests</option> <option value="http://www.webmd.com/breast-cancer/guide/breast-cancer-treatment-care">Treatment &amp; Care</option> <option value="http://www.webmd.com/breast-cancer/guide/breast-cancer-living-managing">Living &amp; Managing</option> <option value="http://www.webmd.com/breast-cancer/guide/breast-cancer-support-resources">Support &amp; Resources</option> </select> 
+     <button onclick="wmdTrack('prm-dd-hc');" type="submit" name="goSingle" class="btn"> </button> 
+     <div class="clearing"> 
+     </div> 
+    </form> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="latest_headlines_rdr" id="head-hc"> 
+    <div class="lh_header"> 
+     <span class="lh_rss"> <a href="http://rssfeeds.webmd.com/rss/rss.aspx" class="lh_rss_link" id="rssFeedLink" onclick="return sl(this,'','head-p_rss');">Get News Updates</a> | <a href="http://www.webmd.com/rss/default.htm">RSS Help</a></span> 
+     <h2>latest headlines</h2> 
+    </div> 
+    <script type="text/javascript"><!--
+/* Create a feed to match the center_ID variable with the RSS FeedID to pass to the URL */
+var rssFeeds = [
+    {"centerName": "ADD/ADHD","centerID": "1178","feedID": "1001"},
+    {"centerName": "Allergies","centerID": "893","feedID": "1004"},
+    {"centerName": "Alzheimer's","centerID": "1030","feedID": "1005"},
+    {"centerName": "Anxiety & Panic Disorders","centerID": "648","feedID": "1007"},
+    {"centerName": "Arthritis","centerID": "1194","feedID": "1008"},
+    {"centerName": "Asthma","centerID": "947","feedID": "1009"},
+    {"centerName": "Back Pain","centerID": "972","feedID": "1010"},
+    {"centerName": "Bipolar Disorder","centerID": "694","feedID": "1013"},
+    {"centerName": "Breast Cancer","centerID": "1074","feedID": "1020"},
+    {"centerName": "Cancer","centerID": "848","feedID": "1022"},
+    {"centerName": "Cholesterol Management","centerID": "1017","feedID": "1026"},
+    {"centerName": "Cold & Flu","centerID": "1202","feedID": "1029"},
+    {"centerName": "Crohn's Disease","centerID": "1018","feedID": "1119"},
+    {"centerName": "Depression","centerID": "1020","feedID": "1032"},
+    {"centerName": "Diabetes","centerID": "1037","feedID": "1033"},
+    {"centerName": "Hearth Health","centerID": "948","feedID": "1056"},
+    {"centerName": "Heartburn/GERD","centerID": "1134","feedID": "1057"},
+    {"centerName": "Hypertension/High Blood Pressure","centerID": "1011","feedID": "1063"},
+    {"centerName": "Incontinence/OAB","centerID": "961","feedID": "1112"},
+    {"centerName": "Lupus","centerID": "829","feedID": "1073"},
+    {"centerName": "Menopause","centerID": "789","feedID": "1077"},
+    {"centerName": "Migraines/Headaches","centerID": "903","feedID": "1080"},
+    {"centerName": "Oral Health","centerID": "872","feedID": "1085"},
+    {"centerName": "Osteoporosis","centerID": "1166","feedID": "1088"},
+    {"centerName": "Skin Problems & Treatments","centerID": "1028","feedID": "1105"},
+    {"centerName": "Sleep Disorders","centerID": "1206","feedID": "1106"}
+];
+
+var feedID = "";
+    feedURL = document.getElementById('rssFeedLink');
+    for (i=0;i<rssFeeds.length;i++) {				
+        curCenter = rssFeeds[i].centerID;
+        if (curCenter == center_id) {
+        feedID = rssFeeds[i].feedID;
+        feedURL.href = feedURL.href + "?cid=" + feedID;
+        break;
+        }
+    }
+
+//--></script> 
+    <div class="lh_feature_story"> 
+     <div class="lh_feature_story_thumbnail"> 
+      <a href="http://www.webmd.com/breast-cancer/news/20140324/targeted-radiation-might-help-fight-advanced-breast-cancer-study" onclick="return sl(this,'','head-hc_1_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/healthday/2013/02/cancer2.jpg" alt="" border="0" /> </a> 
+     </div> 
+     <div class="lh_feature_story_desc"> 
+      <p> <a href="http://www.webmd.com/breast-cancer/news/20140324/targeted-radiation-might-help-fight-advanced-breast-cancer-study" onclick="return sl(this,'','head-hc_1_1');">Targeted Radiation Might Help Fight Advanced Breast Cancer: Study</a> </p> 
+      <p>Therapy kills small vessels that feed liver tumors linked to breast cancer's spread</p> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/breast-cancer/news/20140324/targeted-radiation-might-help-fight-advanced-breast-cancer-study" onclick="return sl(this,'','head-hc_1_1');">Read Full Article</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="lh_links"> 
+     <h3>Top Stories</h3> 
+     <ul> 
+      <li> <a href="http://www.webmd.com/breast-cancer/news/20140321/routine-mammograms-found-not-helpful-for-most-women-over-70" onclick="return sl(this,'','head-hc_1_2');">Routine Mammograms Found Not Helpful for Most Women Over 70</a> </li> 
+      <li> <a href="http://www.webmd.com/breast-cancer/news/20140218/more-breast-cancer-patients-choosing-reconstructive-surgery-study-finds" onclick="return sl(this,'','head-hc_1_3');">More Breast Cancer Patients Choosing Reconstructive Surgery, Study Finds</a> </li> 
+      <li> <a href="http://www.webmd.com/breast-cancer/news/20140211/annual-mammograms-dont-reduce-breast-cancer-deaths-study-contends" onclick="return sl(this,'','head-hc_1_4');">Annual Mammograms Don't Reduce Breast Cancer Deaths, Study Contends</a> </li> 
+      <li> <a href="http://www.webmd.com/breast-cancer/news/20140211/double-mastectomy-may-benefit-some-women-with-inherited-breast-cancer" onclick="return sl(this,'','head-hc_1_5');">Double Mastectomy May Benefit Some Women With Inherited Breast Cancer</a> </li> 
+      <li> <a href="http://www.webmd.com/cancer/news/20130131/which-cancer-tests" onclick="return sl(this,'','head-hc_1_6');">Which Cancer Tests Do You Really Need?</a> </li> 
+      <li> <a href="http://www.webmd.com/breast-cancer/features/breast-cancer-sex-and-intimacy" onclick="return sl(this,'','head-hc_1_7');">Sex and Intimacy After Breast Cancer</a> </li> 
+      <li> <a href="http://www.webmd.com/breast-cancer/features/5-things-young-women-must-know-about-breast-cancer" onclick="return sl(this,'','head-hc_1_8');">5 Things Young Women Must Know About Breast Cancer</a> </li> 
+      <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/breast-cancer/news-features" onclick="return sl(this,'','head-hc_2_more-articles');">More Articles</a> </li> 
+     </ul> 
+     <div class="moduleSpacer_rdr"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/aca-state-promo-core.js"></script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aca-state-promo-cw.css" /> 
+   <div class="aca-state-promo-cw"> 
+    <h4>Health Insurance in Your State</h4> 
+    <div class="bg"> 
+     <p>Learn about plans, benefits, and costs in your state's Marketplace.</p> 
+     <div id="names-dropdown-container"> 
+      <select name="names-dropdown" id="names-dropdown"> <option value="">Choose a state or territory</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IO">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="DC">Washington, D.C.</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> <option value="">--------</option> <option value="AS">American Samoa</option> <option value="GU">Guam</option> <option value="MP">Northern Mariana Islands</option> <option value="PR">Puerto Rico</option> <option value="VI">Virgin Islands</option> </select> 
+     </div> 
+    </div> 
+    <span class="jawsonly">From WebMD</span> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=896154049&amp;tile=2118507713&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1074&amp;scent=848&amp;pos=5000&amp;xpg=1662&amp;sec=1662&amp;au1=3&amp;au2=14|17|16|18|15|8&amp;uri=%2fbreast-cancer%2fdefault&amp;artid=091e9c5e80024876&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_cust013_gen2_cust4_c50_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=896154049&amp;amp;tile=2118507713&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1074&amp;amp;scent=848&amp;amp;pos=5000&amp;amp;xpg=1662&amp;amp;sec=1662&amp;amp;au1=3&amp;amp;au2=14|17|16|18|15|8&amp;amp;uri=%2fbreast-cancer%2fdefault&amp;amp;artid=091e9c5e80024876&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_cust013_gen2_cust4_c50_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1662";
+			var secTopId = "1662";
+		</script>
+   <div id="comm-grp" class="stacked_promo"> 
+    <h2>WebMD Breast Cancer Community<br /><a href="http://exchanges.webmd.com/breast-cancer-exchange" title="See All Breast Cancer Communities">Community. Experts. Support.</a></h2> 
+    <div class="promo_group"> 
+     <h3>Expert Blogs</h3> 
+     <ul> 
+      <li> <a href="http://blogs.webmd.com/cancer/2013/12/cancer-care-pitfalls.html" onclick="return sl(this,'','comm-grp_1-1');">Cancer Care: Avoid These Pitfalls <i> </i></a> </li> 
+      <li> <a href="http://blogs.webmd.com/cancer/2013/12/why-are-we-so-afraid-to-look.html" onclick="return sl(this,'','comm-grp_1-2');">Why Are We So Afraid to Look? <i> </i></a> </li> 
+      <li> <a href="http://blogs.webmd.com/cancer/2013/11/an-ounce-of-preparation-for-a-pound-of-cure.html" onclick="return sl(this,'','comm-grp_1-3');">&quot;Prepare for Surgery&quot; Classes <i> </i></a> </li> 
+     </ul> 
+    </div> 
+    <div class="promo_group"> 
+     <h3>Community</h3> 
+     <ul> 
+      <li> <a href="http://exchanges.webmd.com/breast-cancer-exchange" onclick="return sl(this,'','comm-grp_2-1');" class="expert">WebMD Breast Cancer Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/breast-cancer-friend-to-friend-and-pinkie-central" onclick="return sl(this,'','comm-grp_2-2');">Breast Cancer Friend to Friend and Pinkie Central <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/triple-negative-breast-cancer-support" onclick="return sl(this,'','comm-grp_2-3');">Triple Negative Breast Cancer Support <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/" onclick="return sl(this,'','comm-grp_2-4');">See All Communities <i> </i></a> </li> 
+      <li id="comm-grp_last_link"></li> 
+     </ul> 
+    </div> 
+   </div>
+   <div class="top_search_rdr" id="top-twlv"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top Search Terms for Breast Cancer</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/breast-cancer/guide/breast-cancer-symptoms-and-types" onclick="return sl(this,'','top-twlv_1');">Breast Cancer Symptoms</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/breast-cancer/guide/breast-cancer-overview-facts" onclick="return sl(this,'','top-twlv_2');">Causes of Breast Cancer</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/breast-cancer/guide/breast-cancer-treatment-by-stage" onclick="return sl(this,'','top-twlv_3');">Breast Cancer Stages</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/breast-cancer/guide/breast-cancer-treatment-care" onclick="return sl(this,'','top-twlv_4');">Breast Cancer Treatment</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/breast-cancer/tc/inflammatory-breast-cancer-topic-overview" onclick="return sl(this,'','top-twlv_5');">Inflammatory Breast Cancer</a> 
+      </div> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/breast-cancer/benign-breast-lumps" onclick="return sl(this,'','top-twlv_6');">Benign Breast Lumps</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/breast-cancer/male-treatment-options" onclick="return sl(this,'','top-twlv_7');">Male Breast Cancer</a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/women/breast-self-examination" onclick="return sl(this,'','top-twlv_8');">Breast Self-Exam</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/breast-cancer/tc/breast-cancer-metastatic-or-recurrent-symptoms" onclick="return sl(this,'','top-twlv_9');">Metastatic Breast Cancer</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/women/tc/breast-pain-mastalgia-topic-overview" onclick="return sl(this,'','top-twlv_10');">Breast Pain</a> 
+      </div> 
+      <div class="top_search_number">
+       11
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/breast-cancer/cosmetic-procedures-breast-reconstruction" onclick="return sl(this,'','top-twlv_11');">Breast Reconstruction</a> 
+      </div> 
+      <div class="top_search_number">
+       12
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/breast-cancer/tc/breast-cancer-what-increases-your-risk" onclick="return sl(this,'','top-twlv_12');">Breast Cancer Risk</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/breast-cancer/video/silver-cancer-sleep-problems" class="type_vid" onclick="return sl(this,'','tools-res_1');">Cancer and Sleep Problems<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/cancer/video/chemo-nausea-side-effect" class="type_vid" onclick="return sl(this,'','tools-res_2');">Chemotherapy Side Effects<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','tools-res_3');">Assess Your Cancer Risk</a></li>
+      <li id="x59"><a href="http://www.webmd.com/breast-cancer/guide/invasive-breast-cancer" onclick="return sl(this,'','tools-res_4');">Invasive Breast Cancer</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/cancer/features/15-cancer-symptoms-women-ignore" onclick="return sl(this,'','tools-res_5');">15 Cancer Symptoms Women Ignore</a></li>
+      <li id="x61"><a href="http://www.webmd.com/video/breast-cancer-screening-study" class="type_vid" onclick="return sl(this,'','tools-res_6');">Best Screening: Mammograms?<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20">
+   <!--
+updated 07/13/11 at 6:40 EWS
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e85f7d"><metadata_section><i_chronicle_id>091e9c5e80007ac8</i_chronicle_id><r_object_id>091e9c5e80e85f7d</r_object_id><title>Understanding Breast Cancer &#45;&#45; Symptoms</title><object_name>understanding_breast_cancer_symptoms.xml</object_name><content_template>consumer_article_Health_Ref.xml</content_template><r_object_id>091e9c5e80e85f7d</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80de8163</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>01/01/2014 00:00:00</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>01/01/2015 00:00:00</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80019138</r_object_id><wbmd_bus_comp_nm>WebMD</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e802a487f" directive="imageurl" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 2014 WebMD, LLC. All rights reserved.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>/content/article/8/1680_54287</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="2" wbmd_disp_nm="Disease &amp; Condition - Symptoms"></wbmd_med_ref_type><wbmd_wdw_ttl>Breast Cancer Symptoms </wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>03/12/2014 01:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e804aeeb1</r_object_id><wbmd_publ_name>WebMD Medical Reference</wbmd_publ_name><wbmd_publ_type>1</wbmd_publ_type><wbmd_publ_display>WebMD Medical Reference</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Get information on the symptoms of breast cancer from the experts at WebMD.</wbmd_desc_meta><wbmd_orig_pub_dt>02/01/2002 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Get information on the symptoms of breast cancer from the experts at WebMD.</wbmd_desc_user><wbmd_lk_ttl>Breast Cancer Symptoms </wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e80b6c178</r_object_id><wbmd_first_nm>Sujana</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Movva</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>breast cancer, symptoms, sign, lump, discharge, breast exam, mammogram, pain, lymph node</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>cust013</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>gen.2</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>C50</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>R52</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd></wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e85f7d</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1662" wbmd_disp_nm="Breast Cancer"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="15" wbmd_disp_nm="Adult (31-40)"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1662" wbmd_disp_nm="Breast Cancer"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="3" wbmd_disp_nm="Female"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl directive="imageurl" chronic_id="" path="/webmdNone" object_type="" wbmd_c_alt_tag="" wbmd_c_width="" wbmd_c_ht=""></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1020" wbmd_disp_nm="Breast Cancer"></wbmd_c_channel_id><wbmd_c_frnd_nm>understanding-breast-cancer-symptoms</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="091e9c5e80b6892c"></wbmd_c_mini_article></metadata_section><content_section><cons_health_ref><title>Understanding Breast Cancer &#45;&#45; Symptoms</title><pages><page><section_group><section_header>What Are the Symptoms of Breast Cancer?</section_header><section_text><p>In its early stages, <a href="/consumer_assets/editorial/articles/symptom_checker/breast_cancer.xml" directive="friendlyurl" chronic_id="091e9c5e808e7bda" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/symptom_checker/breast_cancer.xml">breast cancer</a> usually has no symptoms. As a tumor develops, you may note the following signs:</p><ul><li>A lump in the breast or underarm that persists after your menstrual cycle. This is often the first apparent symptom of breast cancer. Lumps associated with breast cancer are usually painless, although some may cause a prickly sensation. Lumps are usually visible on a mammogram long before they can be seen or felt.</li><li>Swelling in the armpit.</li><li>Pain or tenderness in the breast. Although lumps are usually painless, pain or tenderness can be a sign of breast cancer.</li><li>A noticeable flattening or indentation on the breast, which may indicate a tumor that cannot be seen or felt.</li><li>Any change in the size, contour, texture, or temperature of the breast. A reddish, pitted surface like the skin of an orange could be a sign of advanced breast cancer.</li><li>A change in the nipple, such as a nipple retraction, dimpling, itching, a burning sensation, or ulceration. A scaly rash of the nipple is symptomatic of Paget's disease, which may be associated with an underlying breast cancer.</li><li>Unusual discharge from the nipple that may be clear, bloody, or another color. It's usually caused by benign conditions but could be due to cancer in some cases.</li><li>A marble-like area under the skin.</li><li>An area that is distinctly different from any other area on either breast.</li></ul><p> </p></section_text></section_group><section_group><section_header>Call Your Doctor About Breast Cancer if:</section_header><section_text><ul><li>One or both breasts develop an abnormal lump or persistent pain, or look or feel abnormal. The cause often is something other than cancer but should be identified.</li><li>You have swollen lymph glands in your armpits. Any such swelling could be associated with cancer.</li></ul><p> </p></section_text></section_group></page></pages><citations><p>SOURCES:</p><p>American Cancer Society: "Learn about Cancer: Breast Cancer."</p><p>National Cancer Institute: "Breast Cancer."</p><p>CDC: "Breast Cancer."</p></citations><related_links_type>Community</related_links_type><related_links_header></related_links_header><related_links_text><p><a href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cancer Risk Health Check_091e9c5e8036b38b/page_Cancer Risk Health Check_091e9c5e8036b38b.xml" directive="friendlyurl" chronic_id="091e9c5e8036b38b" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cancer Risk Health Check_091e9c5e8036b38b/page_Cancer Risk Health Check_091e9c5e8036b38b.xml"><b>What Is Your Cancer Risk? Take the WebMD Cancer Health Check</b></a></p></related_links_text></cons_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/breast-cancer/guide/understanding-breast-cancer-symptoms" owner="false"><breadcrumb><bread piece="Cancer Health Center" prefix="www" friendlyurl="/cancer/default.htm"></bread><bread piece="Breast Cancer Health Center" prefix="www" friendlyurl="/breast-cancer/default.htm"></bread><bread piece="Breast Cancer Guide" prefix="www" friendlyurl="/breast-cancer/guide/default.htm"></bread></breadcrumb><centers><Topic id="1069" name="tmg" chronicid="091e9c5e8003373e" prefix="www" friendlyurl="/breast-cancer/guide/default.htm" type="Guide">Breast Cancer Guide</Topic><Health id="1074" name="health center" chronicid="091e9c5e80024876" prefix="www" friendlyurl="/breast-cancer/default.htm" type="">Breast Cancer</Health><Super id="848" name="super center" chronicid="091e9c5e80024a11" prefix="www" friendlyurl="/cancer/default.htm" type="">Cancer</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/understanding-breast-cancer-symptoms" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e808e7bda" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/symptom_checker/breast_cancer.wxml"><target siteid="3" name="" prefix="symptoms" friendlyurl="/breast-cancer" status="deleted"></target></object><object chronic_id="091e9c5e8036b38b" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cancer Risk Health Check_091e9c5e8036b38b/page_Cancer Risk Health Check_091e9c5e8036b38b.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/cancer/health-check-cancer-risk/default.htm"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects><object chronic_id="091e9c5e80b6892c" path="/webmd/consumer_assets/editorial/short_text/call_outs/fully_programmed/understanding_series/understanding_breast_cancer.wxml"><webmd_rendition_expanded><content_expanded><wbmd_asset_expanded object_type="wbmd_cons_shrt_txt" id="091e9c5e80b6892c"><metadata_section_expanded><i_chronicle_id>091e9c5e80b6892c</i_chronicle_id><r_object_id>091e9c5e80b6892c</r_object_id><title>Understanding Breast Cancer</title><object_name>understanding_breast_cancer.xml</object_name><content_template>consumer_article_ProgCallout.xml</content_template><r_object_id>091e9c5e80b6892c</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="104" wbmd_disp_nm="Article within Article"></wbmd_bus_ref><wbmd_cpyrt></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl></wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e802d4b12</r_object_id><wbmd_publ_name>WebMD Article Callout</wbmd_publ_name><wbmd_publ_display>WebMD Article Callout</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e802aad4b</r_object_id><wbmd_bus_comp_nm>WebMD Callout</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e801c9ba4" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta></wbmd_desc_meta><wbmd_orig_pub_dt>nulldate</wbmd_orig_pub_dt><wbmd_desc_user></wbmd_desc_user><wbmd_lk_ttl></wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords></wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80b6892c</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="8006" wbmd_disp_nm="Cymbalta - 8006"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><r_object_id>091e9c5e80b6892c</r_object_id><wbmd_c_cons_parent_obj_id></wbmd_c_cons_parent_obj_id><wbmd_c_cons_term>understanding-breast-cancer</wbmd_c_cons_term><wbmd_c_channel_id></wbmd_c_channel_id></metadata_section_expanded><content_section_expanded><prog_callout><callout_title_bar>Understanding Breast Cancer</callout_title_bar><component><component_title></component_title><component_thumbnail></component_thumbnail><component_thumbnail_link></component_thumbnail_link><component_text><p>Find out more about breast cancer:</p><p><a href="http://www.webmd.com/breast-cancer/guide/understanding-breast-cancer-basics" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/breast-cancer/guide/understanding-breast-cancer-basics">Basics</a></p><p><a href="http://www.webmd.com/breast-cancer/guide/understanding-breast-cancer-symptoms" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/breast-cancer/guide/understanding-breast-cancer-symptoms">Symptoms</a></p><p><a href="http://www.webmd.com/breast-cancer/understanding-breast-cancer-treatment" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/breast-cancer/understanding-breast-cancer-treatment">Diagnosis and Treatment</a></p><p><a href="http://www.webmd.com/breast-cancer/guide/understanding-breast-cancer-prevention" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/breast-cancer/guide/understanding-breast-cancer-prevention">Prevention</a></p></component_text><break_section>0</break_section></component></prog_callout></content_section_expanded></wbmd_asset_expanded></content_expanded><friendlyurls_expanded></friendlyurls_expanded><referenced_objects_expanded></referenced_objects_expanded><container_hierarchy></container_hierarchy><expanded_objects_expanded></expanded_objects_expanded></webmd_rendition_expanded></object></expanded_objects><module_data><relatedLinks>Off</relatedLinks><articleLinkView>Page Refresh</articleLinkView><articleTitle chronic_id="091e9c5e80007ac8" directive="friendlyurl" object_type="wbmd_cons_article" wbmd_lookup_type="" wbmd_storage_value=""></articleTitle></module_data></webmd_rendition>
+--> 
+   <div class="article_snippet_rdr">
+    <h3>Understanding Breast Cancer -- Symptoms</h3>
+    <div class="snippet_fmt" id="art-snp">
+     <h3>What Are the Symptoms of Breast Cancer?</h3>
+     <p>In its early stages, breast cancer usually has no symptoms. As a tumor develops, you may note the following signs:</p>
+     <ul>
+      <li>A lump in the breast or underarm that persists after your menstrual cycle. This is often the first apparent symptom of breast cancer. Lumps associated with breast cancer are usually painless, although some may cause a prickly sensation. Lumps are usually visible on a mammogram long before they can be seen or felt.</li>
+      <li>Swelling in the armpit.</li>
+      <li>Pain or tenderness in the breast. Although lumps are usually painless, pain or tenderness can be a sign of breast cancer.</li>
+      <li>A noticeable flattening or indentation on the breast, which may indicate a tumor that cannot be seen or felt.</li>
+      <li>Any change in the size, contour, texture, or temperature of the breast. A reddish, pitted surface like the skin of an orange could be a sign of advanced breast cancer.</li>
+      <li>A change in the nipple, such as a nipple retraction, dimpling, itching, a burning sensation, or ulceration. A scaly rash of the nipple is symptomatic of Paget's disease, which may be associated with an underlying breast cancer.</li>
+      <li>Unusual discharge from the nipple that may be clear, bloody, or another color. It's usually caused by benign conditions but could be due to cancer in some cases.</li>
+      <li>A marble-like area under the skin.</li>
+      <li>An area that is distinctly different from any other area on either breast.</li>
+     </ul>
+    </div>
+    <div class="snippet_link">
+     <a href="http://www.webmd.com/breast-cancer/guide/understanding-breast-cancer-symptoms" onclick="return sl(this,'','art-snp_1');">Understanding Breast Cancer -- Symptoms</a>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+ </div> 
+</div>

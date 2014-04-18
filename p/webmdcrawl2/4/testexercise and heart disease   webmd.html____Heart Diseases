@@ -1,0 +1,608 @@
+<title>Exercise and heart disease - WebMD</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/heart-disease/guide/what-to-do-after-a-heart-attack" onclick="return sl(this,'','lln-toolsres_1');">After a Heart Attack</a></li>
+      <li id="x57"><a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/heart-healthy-diet" onclick="return sl(this,'','lln-toolsres_2');">A Diet To Lower Cholesterol</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/heart-disease/slideshow-visual-guide-to-heart-disease" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">A Visual Guide to Heart Disease<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','lln-toolsres_4');">Test Your Cholesterol Smarts</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/heart-disease/exercising-for-a-healthy-heart" onclick="return sl(this,'','lln-toolsres_5');">Exercising for a Healthy Heart</a></li>
+      <li id="x61"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e8085e992&amp;promo=1" onclick="return sl(this,'','lln-toolsres_6');">Heart-Healthy Living With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="article_rdr"> 
+    <div id="readspeaker_area" style="display: none;"> 
+     <div id="readspeaker_button1" class="rs_skip"> 
+      <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5841&amp;lang=en_us&amp;readid=textArea" target="_blank" onclick="readpage(this.href, 'xp1'); return false;"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/article/readspeaker/listen_en_us.gif" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker" /> </a> 
+     </div> 
+     <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/readspeaker/en.js" type="text/javascript">
+    </script> 
+     <script type="text/javascript">
+                (function(){
+                    $(document).ready(function(){
+                        webmd.readspeakerPrep.init({pages:1});
+                    });
+                })();
+                </script> 
+     <div id="xp1"> 
+     </div> 
+    </div> 
+    <div id="textArea" class="copyNormal"> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt rs_skip"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" title="Small font" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" title="Medium font" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" title="Large font" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <h2>Safe Exercise for Someone With Heart Disease</h2> 
+     <div class="subhead_fmt"> 
+     </div> 
+     <h3></h3> 
+     <p align="left">When you've been diagnosed with heart disease or have had heart surgery, the doctor probably told you that exercise is an important part of keeping your condition under control. But is it safe to keep exercising like you have been, or do you need to make some changes? And what exercises are best?</p> 
+     <p align="left">Check with the doctor about:</p> 
+     <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" /> 
+     <div class="aia_rdr rs_skip"> 
+      <div class="aia_top_fmt"> 
+      </div> 
+      <div class="aia_border_fmt"> 
+       <div class="aia_title_bar_fmt"> 
+        <h4>Recommended Related to Heart Disease</h4> 
+        <div class="clearing_fmt"> 
+        </div> 
+       </div> 
+       <p class="aia_read_full_fmt"> <a href="http://www.webmd.com/heart-disease/features/heart-attacks-hit-middle-aged-women" onclick="return sl(this,'','aia-related');">Heart Attacks Hit Middle-Aged Women</a> </p> 
+       <div class="aia_section_fmt"> 
+        <div class="aia_content_fmt"> 
+         <p>&quot;I never thought it could happen to me.&quot; That's how Rose Rench reacted when doctors told her she was having a heart attack. At age 46, Rench was bewildered when she suddenly couldn't catch her breath while out for a walk on a sunny spring day. &quot;I was young, I was 130 pounds, and I'd quit smoking a month before. I was healthy. But I couldn't breathe.&quot; Rench tells WebMD that she somehow drove herself home, but couldn't rest; her mind raced as she tried to gasp for breath. &quot;I thought maybe I...</p> 
+        </div> 
+       </div> 
+       <p class="aia_read_full_fmt"> <a href="http://www.webmd.com/heart-disease/features/heart-attacks-hit-middle-aged-women" onclick="return sl(this,'','aia-related');">Read the Heart Attacks Hit Middle-Aged Women article &gt; &gt;</a> </p> 
+       <div class="clearing_fmt"> 
+       </div> 
+      </div> 
+      <div class="aia_bot_fmt"> 
+      </div> 
+     </div> 
+     <script type="text/javascript">$(function(){
+if(typeof(s_sponsor_program) != 'undefined' ){
+/* remove aia if in a sponsored program */
+if(s_sponsor_program != ""){$(".aia_rdr").remove()}
+}
+});</script> 
+     <p> <b>Medication changes.</b> New drugs can greatly affect your response to exercise. Find out if your normal exercise routine is still safe.</p> 
+     <p> <b>Heavy lifting.</b> Make sure that lifting or pushing heavy objects and chores such as raking, shoveling, mowing, or scrubbing aren't off limits. Chores around the house can be tiring for some people. Do only what you can do without getting tired.</p> 
+     <p> <b>Safe exercises.</b> Get the doctor's approval before you lift weights, use a weight machine, jog, or swim.</p> 
+     <h3>General Workout Tips for People With Heart Disease</h3> 
+     <p>Be sure any exercise is paced and balanced with rest.</p> 
+     <p>Ask your doctor about exercises such as push-ups and sit-ups. These isometric exercises involve straining muscles against other muscles or an immovable object. You may need to avoid them.</p> 
+     <p>Don't exercise outdoors when it is too cold, hot, or humid. High humidity may make you tire more quickly. Extreme temperatures can interfere with circulation, make breathing difficult, and cause chest pain. Better choices are indoor activities such as mall walking.</p> 
+     <p>Stay hydrated. Drink water even before you feel thirsty, especially on hot days.</p> 
+     <p>Skip extremely hot and cold showers or sauna baths after exercise. These extreme temperatures increase the workload on the heart.</p> 
+     <p>Steer clear of exercise in hilly areas. If you must walk in steep areas, slow down going uphill to avoid working too hard. Monitor your heart rate closely and talk to your doctor about what a safe heart rate is for you.</p> 
+     <p>If your exercise program gets interrupted for a few days (due to illness, vacation, or bad weather, for example), ease back into the routine. Start with a reduced level of activity, and gradually increase it until you're back where you started.</p> 
+     <h3>What to Watch for When Exercising</h3> 
+     <p>Stop the exercise if you become overly fatigued or short of breath. Tell your doctor about the symptoms or schedule an appointment.</p> 
+     <p>Don't exercise if you're not feeling well or have a fever. People with heart problems should wait a few days after all symptoms disappear before restarting an exercise program, unless your doctor gives other directions. </p> 
+     <p>Stop activity if you develop a rapid or irregular heartbeat or have heart palpitations. Check your pulse after you've rested for 15 minutes. If it's still above 100-120 beats per minute, call the doctor.</p> 
+     <p align="left">If you feel pain while exercising, don't ignore it. Stop when have chest pain or pain anywhere else in your body. You could cause stress or damage joints.</p> 
+     <p align="left">Stop and rest if you:</p> 
+     <ul> 
+      <li>Feel weak</li> 
+      <li>Are dizzy or lightheaded</li> 
+      <li>Have unexplained weight gain or swelling -- call the doctor right away</li> 
+      <li>Feel pressure or pain in your chest, neck, arm, jaw, or shoulder</li> 
+      <li>Are concerned for any reason</li> 
+     </ul> 
+     <p align="left">Call the doctor if the symptoms don't go away.</p> 
+     <p align="left">&nbsp;</p> 
+     <p class="text8">&nbsp;</p> 
+    </div> 
+   </div> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference</p> 
+     <div class="clearBoth_fmt"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt"> 
+     <div class="viewSource_fmt"> 
+      <a href="" onclick="toggle('sourceText_fmt','sources_sign_fmt'); return false;">View Article Sources <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/todaysNews_plusSign.gif" alt="Sources" align="top" border="0" id="sources_sign_fmt" /></a> 
+     </div> 
+     <div style="display:none;" id="sourceText_fmt"> 
+      <p>SOURCES:</p> 
+      <p>National Jewish Health: &quot;Cardiac Conditions: Safe Exercise for Patients with Heart Disease.&quot;</p> 
+      <p>NIH News: &quot;Exercise Is Safe, Improves Quality of Life in Patients With Chronic Heart Failure.&quot;</p> 
+      <p>National Heart Lung and Blood Institute: &quot;Your Guide to Living Well With Heart Disease.&quot;</p> 
+      <p>&nbsp;</p> 
+     </div> 
+    </div> 
+    <div class="sources_fmt"> 
+     <div class="reviewedBy_fmt">
+       Reviewed by 
+      <a onclick="return sl(this,'','prog-lnk');" href="http://www.webmd.com/beckerman-james">James Beckerman, MD, FACC</a> on February 12, 2014
+     </div> 
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 2014 WebMD, LLC. All rights reserved.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "editorial";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'WebMD Medical Reference';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1054"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/healthy-aging/medical-cost-disability-11/heart-disease" onclick="return sl(this,'','rltd-p-1054_1');">Heart Disease: What Are the Medical Costs?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','rltd-p-1054_2');">Quiz: Test Your Cholesterol Smarts</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/slideshow-living-with-a-fib" onclick="return sl(this,'','rltd-p-1054_3');">10 Tips for Living With Atrial Fibrillation</a> </li> 
+     <li id="x65"> <a href="http://men.webmd.com/erectile-dysfunction-11/myths-and-facts" onclick="return sl(this,'','rltd-p-1054_4');">Heart Problems and ED: What's the Link?</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/oral-health/answers-periodontal" onclick="return sl(this,'','rltd-p-1054_5');">Gum Disease: Linked to Heart Problems?</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/medication" onclick="return sl(this,'','rltd-p-1054_6');">Cholesterol Medications: Which Drug Is Right for You?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1054_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80b52be3" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb80</chronic_id><r_object_id>091e9c5e80b52be3</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8068fb80.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/30/2012 19:27:36</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Heart Disease Center/template_Heart Disease Health Center_091e9c5e8002329b.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002329b"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Heart-Healthy Exercises</name><link_title>Heart-Healthy Exercises</link_title><description>One of the many benefits of regular exercise is that it helps prevent heart disease. Aerobic activities increase heart rate, strengthen the heart muscle, lower blood pressure and cholesterol, reduce stress, and improve circulation, all of which are good for your heart. Exercise improves the heart function in other ways as well. If you have heart disease, your doctor can help you determine which exercises are right for you. Follow the links below to find WebMD's comprehensive coverage about how exercise helps the heart, which exercises are best, and much more.</description><friendly_url>http://www.webmd.com/heart/heart-healthy-exercises-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8062fe10"><link_title>Recall of Deli Meat Sold at Walmart Stores</link_title><friendly_url>http://www.webmd.com/food-recipes/food-poisoning/news/20100824/recall-of-deli-meat-sold-at-walmart-stores</friendly_url><thumbnail height="" width="" alt="deli_meat_recall_listeria_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/08_2010/deli_meat_recall_listeria_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007b4f"><link_title>Heart Failure Exercise Log</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-failure/heart-failure-exercise-log</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8012aca2"><link_title>The Post-Quadruple-Bypass Workout</link_title><friendly_url>http://www.webmd.com/heart-disease/features/post-quadruple-bypass-workout</friendly_url><thumbnail height="" width="" alt="The Post-Quadruple-Bypass Workout">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/Features/magazine/69x75_wm_exercise_for_heart.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80316b0f"><link_title>Heart Failure: Belly Fat Bad, Exercise Good</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-failure/news/20090407/heart-failure-belly-fat-bad-exercise-good</friendly_url><thumbnail height="" width="" alt="belly_fat_heart_failure.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/April_2009/belly_fat_heart_failure.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80033c5d"><link_title>The Baby Boomer Heart: Healing Fitness</link_title><friendly_url>http://www.webmd.com/fitness-exercise/features/baby-boomer-heart-healing-fitness</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001073d"><link_title>Exercise for a Healthy Heart</link_title><friendly_url>http://www.webmd.com/fitness-exercise/exercise-for-heart-health</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e806b2f4b"><link_title>Regular Exercise May Ward Off Dozens of Health Problems</link_title><friendly_url>http://www.webmd.com/fitness-exercise/news/20101116/regular-exercise-may-ward-off-dozens-of-health-problems</friendly_url><thumbnail height="" width="" alt="Elderly couple playing tennis">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/11_2010/69x75_exercise_reduces_health_risks_01.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000882d"><link_title>Exercise Precautions for Heart Disease Patients</link_title><friendly_url>http://www.webmd.com/fitness-exercise/exercise-precautions</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80008ee5"><link_title>Exercise for a Healthy Heart</link_title><friendly_url>http://www.webmd.com/fitness-exercise/guide/exercise-healthy-heart</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800105c1"><link_title>Heart Disease and Exercise</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-disease-prevention-exercise</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800088a7"><link_title>Safe Exercise for Heart Disease Patients</link_title><friendly_url>http://www.webmd.com/heart-disease/guide/safe-exercise-patients</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80985d55"><link_title>Quiz: Fitness Dos and Don’ts</link_title><friendly_url>http://www.webmd.com/fitness-exercise/rm-quiz-fitness-dos-donts</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1078</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000792f"><link_title>Exercise for a Healthy Heart</link_title><friendly_url>http://www.webmd.com/heart-disease/guide/exercise-healthy-heart</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d727"><link_title>Heart Disease: Exercising for a Healthy Heart</link_title><friendly_url>http://www.webmd.com/heart-disease/exercising-for-a-healthy-heart</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d6fc"><link_title>Heart Failure: Activity and Exercise</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-failure/activity-and-exercise-for-heart-failure</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d75d"><link_title>Heart Disease: Walking for a Healthy Heart</link_title><friendly_url>http://www.webmd.com/heart-disease/walking-for-a-healthy-heart</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007973"><link_title>Heart Failure and Your Heart Rate</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-failure/watching-rate-monitor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e801bd22d"><link_title>Tailored Workouts for Heart Disease?</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20080422/tailored-workouts-heart-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802f6e89"><link_title>3 Exercise Options After Heart Attack</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20090316/3-exercise-options-after-heart-attack</friendly_url><thumbnail height="" width="" alt="exercise_after_heart_attack.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/March_2009/exercise_after_heart_attack.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8033f15a"><link_title>Overweight Heart Patient? Try Long Walks</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20090512/overweight-heart-patient-try-long-walks</friendly_url><thumbnail height="75" width="69" alt="heart_patients_start_walking.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/May_2009/heart_patients_start_walking.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8034ad41"><link_title>Physical Fitness Cuts Heart, Death Risk</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20090520/physical-fitness-cuts-heart-death-risk</friendly_url><thumbnail height="75" width="69" alt="physically_fit_live_longer.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/May_2009/physically_fit_live_longer.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807c67e5"><link_title>Tai Chi Benefits Heart Patients</link_title><friendly_url>http://www.webmd.com/heart-disease/heart-failure/news/20110425/tai-chi-benefits-heart-patients</friendly_url><thumbnail height="" width="" alt="woman practicing tai chi">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/04_2011/69x75_tai_chi_heart_failure.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001154e"><link_title>Kick It Up With Cardio Exercise</link_title><friendly_url>http://www.webmd.com/fitness-exercise/guide/kick-up-with-cardio-exercise</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80033bf2"><link_title>Managing Your Condition With Exercise</link_title><friendly_url>http://www.webmd.com/fitness-exercise/guide/get-motivated-exercise</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8017826b"><link_title>Tips for Happy Holiday Hearts</link_title><friendly_url>http://www.webmd.com/fitness-exercise/features/tips-happy-holiday-hearts</friendly_url><thumbnail height="" width="" alt="holidays turkey ">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/Features/holidays/holidays_turkey.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80442902"><link_title>Truth About Heart Rate: Target Heart Rate, Monitors, and More</link_title><friendly_url>http://www.webmd.com/fitness-exercise/features/the-truth-about-heart-rate-and-exercise</friendly_url><thumbnail height="" width="" alt="truth_about_heart_rate_3.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/november_2009/truth_about_heart_rate_3.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80476901"><link_title>Cardiovascular Fitness May Sharpen Mind</link_title><friendly_url>http://www.webmd.com/fitness-exercise/news/20091130/cardiovascular-fitness-may-sharpen-mind</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80594cc1"><link_title>Wii Games Get Heart Group's Seal of Approval</link_title><friendly_url>http://www.webmd.com/fitness-exercise/news/20100517/wii-games-get-heart-groups-seal-of-approval</friendly_url><thumbnail height="" width="" alt="nintendo_and_aha_joint_announcement_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/05_2010/nintendo_and_aha_joint_announcement_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80790ca6"><link_title>Heart Rate Monitors: Help or Hindrance?</link_title><friendly_url>http://www.webmd.com/fitness-exercise/features/heart-rate-monitors-help-or-hindrance</friendly_url><thumbnail height="" width="" alt="Heart rate monitor">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/05_2011/69x75_heart_rate_monitor_help_or_hindrance.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000a2cd"><link_title>5 Steps to a Healthier Heart</link_title><friendly_url>http://www.webmd.com/heart-disease/features/5-steps-to-healthier-heart</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/heart-disease/heart-failure/heart-failure-exercise-log" onclick="return sl(this,'','lln-tdrelcon_1');">Heart Failure Exercise Log</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/features/post-quadruple-bypass-workout" onclick="return sl(this,'','lln-tdrelcon_2');">The Post-Quadruple-Bypass Workout</a></li>
+      <li><a href="http://www.webmd.com/fitness-exercise/features/baby-boomer-heart-healing-fitness" onclick="return sl(this,'','lln-tdrelcon_3');">The Baby Boomer Heart: Healing Fitness</a></li>
+      <li><a href="http://www.webmd.com/fitness-exercise/exercise-for-heart-health" onclick="return sl(this,'','lln-tdrelcon_4');">Exercise for a Healthy Heart</a></li>
+      <li><a href="http://www.webmd.com/fitness-exercise/exercise-precautions" onclick="return sl(this,'','lln-tdrelcon_5');">Exercise Precautions for Heart Disease Patients</a></li>
+      <li><a href="http://www.webmd.com/fitness-exercise/guide/exercise-healthy-heart" onclick="return sl(this,'','lln-tdrelcon_6');">Exercise for a Healthy Heart</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/heart-disease-prevention-exercise" onclick="return sl(this,'','lln-tdrelcon_7');">Heart Disease and Exercise</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/heart/heart-healthy-exercises-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Heart-Healthy Exercises Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1004318342&tile=1924345187&tug=&pug=__&site=2&affiliate=20&hcent=968&scent=948&pos=113&xpg=1675&sec=1676&amp;au1=1&au2=15&uri=%2fheart-disease%2fencouraging-safe-exercise&artid=091e9c5e80008518&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_i_fit_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1004318342',
+                    tile:'1924345187',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1675";
+      var secTopId = "1676";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1004318342&amp;tile=1924345187&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=968&amp;scent=948&amp;pos=5001&amp;xpg=1675&amp;sec=1676&amp;au1=1&amp;au2=15&amp;uri=%2fheart-disease%2fencouraging-safe-exercise&amp;artid=091e9c5e80008518&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_i_fit_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1004318342&amp;amp;tile=1924345187&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=968&amp;amp;scent=948&amp;amp;pos=5001&amp;amp;xpg=1675&amp;amp;sec=1676&amp;amp;au1=1&amp;amp;au2=15&amp;amp;uri=%2fheart-disease%2fencouraging-safe-exercise&amp;amp;artid=091e9c5e80008518&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_i_fit_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1675";
+			var secTopId = "1676";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

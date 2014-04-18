@@ -1,0 +1,414 @@
+<title>Hypertension (High Blood Pressure) Health Center – WebMD</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/cholesterol-management/ss/slideshow-dash-diet" onclick="return sl(this,'','prm-hc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/dash_diet_slideshow/493x335_dash_diet_slideshow.jpg" alt="bowl of yogurt with heart shape" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/cholesterol-management/ss/slideshow-dash-diet" onclick="return sl(this,'','prm-hc_1');">Tried the DASH Diet?</a> </h2> 
+        <a href="http://www.webmd.com/cholesterol-management/ss/slideshow-dash-diet" onclick="return sl(this,'','prm-hc_1');" class="type_ss">It could help lower cholesterol and blood pressure.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/heart-disease/ss/slideshow-foods-to-save-your-heart" data-alt="walnuts" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/foods_that_can_save_your_heart_slideshow/493x335_foods_that_can_save_your_heart_slideshow.jpg" onclick="return sl(this,'','prm-hc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/heart-disease/ss/slideshow-foods-to-save-your-heart" onclick="return sl(this,'','prm-hc_2');">Foods for Your Heart </a> </h2> 
+        <a href="http://www.webmd.com/heart-disease/ss/slideshow-foods-to-save-your-heart" onclick="return sl(this,'','prm-hc_2');" class="type_ss">Are you eating these 24 foods?<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/ss/slideshow-hypertension-overview" data-alt="Prehypertension Warning" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/hypertension_overview_slideshow/photolibrary_rf_photo_of_referee_blowing_whislte.jpg" onclick="return sl(this,'','prm-hc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/hypertension-high-blood-pressure/ss/slideshow-hypertension-overview" onclick="return sl(this,'','prm-hc_3');">High Blood Pressure</a> </h2> 
+        <a href="http://www.webmd.com/hypertension-high-blood-pressure/ss/slideshow-hypertension-overview" onclick="return sl(this,'','prm-hc_3');" class="type_ss">Learn about risk factors, warning signs, and treatments.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="teaser_fmt"> 
+    <h3>Hypertension Overview</h3> 
+    <p>High blood pressure or hypertension increases the risk of heart disease and stroke. Hypertension risk factors include obesity, drinking too much alcohol, smoking, and family history. Beta-blockers are a common treatment for hypertension.</p> 
+   </div>
+   <div class="guideDropdown_rdr"> 
+    <form action="" id="qform1" onsubmit="window.location=guideNavDropdown.options[guideNavDropdown.options.selectedIndex].value; return false;"> 
+     <h4>Select a Chapter</h4> 
+     <select name="guideNavDropdown" class="listBox_fmt"> <option value="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-overview-facts">Overview &amp; Facts</option> <option value="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-symptoms-types">Symptoms &amp; Types</option> <option value="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-diagnosis-tests">Diagnosis &amp; Tests</option> <option value="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-treatment-care">Treatment &amp; Care</option> <option value="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-living-managing">Living &amp; Managing</option> <option value="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-support-resources">Resources &amp; Tools</option> </select> 
+     <button onclick="wmdTrack('prm-dd-hc');" type="submit" name="goSingle" class="btn"> </button> 
+     <div class="clearing"> 
+     </div> 
+    </form> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="latest_headlines_rdr" id="head-hc"> 
+    <div class="lh_header"> 
+     <span class="lh_rss"> <a href="http://rssfeeds.webmd.com/rss/rss.aspx" class="lh_rss_link" id="rssFeedLink" onclick="return sl(this,'','head-p_rss');">Get News Updates</a> | <a href="http://www.webmd.com/rss/default.htm">RSS Help</a></span> 
+     <h2>latest headlines</h2> 
+    </div> 
+    <script type="text/javascript"><!--
+/* Create a feed to match the center_ID variable with the RSS FeedID to pass to the URL */
+var rssFeeds = [
+    {"centerName": "ADD/ADHD","centerID": "1178","feedID": "1001"},
+    {"centerName": "Allergies","centerID": "893","feedID": "1004"},
+    {"centerName": "Alzheimer's","centerID": "1030","feedID": "1005"},
+    {"centerName": "Anxiety & Panic Disorders","centerID": "648","feedID": "1007"},
+    {"centerName": "Arthritis","centerID": "1194","feedID": "1008"},
+    {"centerName": "Asthma","centerID": "947","feedID": "1009"},
+    {"centerName": "Back Pain","centerID": "972","feedID": "1010"},
+    {"centerName": "Bipolar Disorder","centerID": "694","feedID": "1013"},
+    {"centerName": "Breast Cancer","centerID": "1074","feedID": "1020"},
+    {"centerName": "Cancer","centerID": "848","feedID": "1022"},
+    {"centerName": "Cholesterol Management","centerID": "1017","feedID": "1026"},
+    {"centerName": "Cold & Flu","centerID": "1202","feedID": "1029"},
+    {"centerName": "Crohn's Disease","centerID": "1018","feedID": "1119"},
+    {"centerName": "Depression","centerID": "1020","feedID": "1032"},
+    {"centerName": "Diabetes","centerID": "1037","feedID": "1033"},
+    {"centerName": "Hearth Health","centerID": "948","feedID": "1056"},
+    {"centerName": "Heartburn/GERD","centerID": "1134","feedID": "1057"},
+    {"centerName": "Hypertension/High Blood Pressure","centerID": "1011","feedID": "1063"},
+    {"centerName": "Incontinence/OAB","centerID": "961","feedID": "1112"},
+    {"centerName": "Lupus","centerID": "829","feedID": "1073"},
+    {"centerName": "Menopause","centerID": "789","feedID": "1077"},
+    {"centerName": "Migraines/Headaches","centerID": "903","feedID": "1080"},
+    {"centerName": "Oral Health","centerID": "872","feedID": "1085"},
+    {"centerName": "Osteoporosis","centerID": "1166","feedID": "1088"},
+    {"centerName": "Skin Problems & Treatments","centerID": "1028","feedID": "1105"},
+    {"centerName": "Sleep Disorders","centerID": "1206","feedID": "1106"}
+];
+
+var feedID = "";
+    feedURL = document.getElementById('rssFeedLink');
+    for (i=0;i<rssFeeds.length;i++) {				
+        curCenter = rssFeeds[i].centerID;
+        if (curCenter == center_id) {
+        feedID = rssFeeds[i].feedID;
+        feedURL.href = feedURL.href + "?cid=" + feedID;
+        break;
+        }
+    }
+
+//--></script> 
+    <div class="lh_feature_story"> 
+     <div class="lh_feature_story_thumbnail"> 
+      <a href="http://www.webmd.com/hypertension-high-blood-pressure/news/20140224/vegetarian-diet-may-help-lower-blood-pressure-research-suggests" onclick="return sl(this,'','head-hc_1_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/healthday/2013/01/kids_vegetables.jpg" alt="" border="0" /> </a> 
+     </div> 
+     <div class="lh_feature_story_desc"> 
+      <p> <a href="http://www.webmd.com/hypertension-high-blood-pressure/news/20140224/vegetarian-diet-may-help-lower-blood-pressure-research-suggests" onclick="return sl(this,'','head-hc_1_1');">Vegetarian Diet May Help Lower Blood Pressure, Research Suggests</a> </p> 
+      <p>Japanese review of 39 studies shows a meatless menu might boost cardiovascular health, but the findings are preliminary</p> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/hypertension-high-blood-pressure/news/20140224/vegetarian-diet-may-help-lower-blood-pressure-research-suggests" onclick="return sl(this,'','head-hc_1_1');">Read Full Article</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="lh_links"> 
+     <h3>Top Stories</h3> 
+     <ul> 
+      <li> <a href="http://www.webmd.com/hypertension-high-blood-pressure/news/20140204/high-blood-pressure-in-young-adults-could-mean-heart-trouble-in-middle-age" onclick="return sl(this,'','head-hc_1_2');">High Blood Pressure in Young Adults Could Mean Heart Trouble in Middle Age</a> </li> 
+      <li> <a href="http://www.webmd.com/hypertension-high-blood-pressure/news/20140120/sunlight-might-be-good-for-your-blood-pressure-study" onclick="return sl(this,'','head-hc_1_3');">Sunlight Might Be Good for Your Blood Pressure: Study</a> </li> 
+      <li> <a href="http://www.webmd.com/hypertension-high-blood-pressure/news/20140113/green-tea-may-interfere-with-a-blood-pressure-medicine" onclick="return sl(this,'','head-hc_1_4');">Green Tea May Interfere With a Blood Pressure Medicine</a> </li> 
+      <li> <a href="http://www.webmd.com/hypertension-high-blood-pressure/news/20131223/too-few-americans-aware-of-their-high-blood-pressure-study" onclick="return sl(this,'','head-hc_1_5');">Too Few Americans Aware of Their High Blood Pressure: Study</a> </li> 
+      <li> <a href="http://www.webmd.com/heart-disease/rm-quiz-heart-myths" onclick="return sl(this,'','head-hc_1_6');">Heart Health: Can You Tell Myth From Fact?</a> </li> 
+      <li> <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-treatment-overview" onclick="return sl(this,'','head-hc_1_7');">High Blood Pressure Treatment Options</a> </li> 
+      <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/hypertension-high-blood-pressure/news-features" onclick="return sl(this,'','head-hc_2_more-articles');">More Articles</a> </li> 
+     </ul> 
+     <div class="moduleSpacer_rdr"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/aca-state-promo-core.js"></script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aca-state-promo-cw.css" /> 
+   <div class="aca-state-promo-cw"> 
+    <h4>Health Insurance in Your State</h4> 
+    <div class="bg"> 
+     <p>Learn about plans, benefits, and costs in your state's Marketplace.</p> 
+     <div id="names-dropdown-container"> 
+      <select name="names-dropdown" id="names-dropdown"> <option value="">Choose a state or territory</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IO">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="DC">Washington, D.C.</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> <option value="">--------</option> <option value="AS">American Samoa</option> <option value="GU">Guam</option> <option value="MP">Northern Mariana Islands</option> <option value="PR">Puerto Rico</option> <option value="VI">Virgin Islands</option> </select> 
+     </div> 
+    </div> 
+    <span class="jawsonly">From WebMD</span> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1223128140&amp;tile=1931116224&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1011&amp;scent=948&amp;pos=5000&amp;xpg=1817&amp;sec=1817&amp;au1=1&amp;au2=1&amp;uri=%2fhypertension-high-blood-pressure%2fdefault&amp;artid=091e9c5e800232f5&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_i10_cust4_age2_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1223128140&amp;amp;tile=1931116224&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1011&amp;amp;scent=948&amp;amp;pos=5000&amp;amp;xpg=1817&amp;amp;sec=1817&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fhypertension-high-blood-pressure%2fdefault&amp;amp;artid=091e9c5e800232f5&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_i10_cust4_age2_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1817";
+			var secTopId = "1817";
+		</script>
+   <div id="comm-grp" class="stacked_promo"> 
+    <h2>WebMD Hypertension Community<br /><a href="http://exchanges.webmd.com/Hypertension-and-high-blood-pressure-exchange" title="See All Hypertension Communities">Community. Experts. Support.</a></h2> 
+    <div class="promo_group"> 
+     <h3>Discussions</h3> 
+     <ul> 
+      <li> <a href="http://forums.webmd.com/3/hypertension-and-high-blood-pressure-exchange/forum/436/1" onclick="return sl(this,'','comm-grp_1-1');">What Blood Pressure Number Means Prehypertensive? <i> </i></a> </li> 
+      <li> <a href="http://forums.webmd.com/3/hypertension-and-high-blood-pressure-exchange/forum/348/3" onclick="return sl(this,'','comm-grp_1-2');">High Blood Pressure or BP Meds Causing Impotence? <i> </i></a> </li> 
+     </ul> 
+    </div> 
+    <div class="promo_group"> 
+     <h3>Expert Blogs</h3> 
+     <ul> 
+      <li> <a href="http://blogs.webmd.com/heart-disease/2010/03/could-your-health-use-stimulus-recovery.html" onclick="return sl(this,'','comm-grp_2-1');">Could Your Health Use a Stimulus Recovery Plan? <i> </i></a> </li> 
+      <li id="comm-grp_last_link"> <a href="http://exchanges.webmd.com/" onclick="return sl(this,'','comm-grp_2-2');">See All Communities <i> </i></a> </li> 
+     </ul> 
+    </div> 
+   </div>
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/hypertension-high-blood-pressure/tips-for-following-the-dietary-approaches-to-stop-hypertension-dash-diet" onclick="return sl(this,'','tools-res_1');">Hypertension DASH Diet</a></li>
+      <li id="x57"><a href="http://www.webmd.com/heart-disease/ss/slideshow-visual-guide-to-heart-disease" class="type_ss" onclick="return sl(this,'','tools-res_2');">A Visual Guide to Heart Disease<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/heart-disease/ss/slideshow-foods-to-save-your-heart" class="type_ss" onclick="return sl(this,'','tools-res_3');">24 Foods to Help Your Heart<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/hypertension-high-blood-pressure/sexual-health-assessment/sexual-health-assessment-old" onclick="return sl(this,'','tools-res_4');">BP &amp; ED: What's the Link?</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/hypertension-high-blood-pressure/monitoring-your-blood-pressure-at-home" onclick="return sl(this,'','tools-res_5');">Home-Monitor Your Blood Pressure </a></li>
+      <li id="x61"><a href="http://www.webmd.com/hypertension-high-blood-pressure/taking-your-high-blood-pressure-medications-properly" onclick="return sl(this,'','tools-res_6');">Blood Pressure Medication Tips</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="top_search_rdr" id="top-twlv"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top Search Terms for Hypertension</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-symptoms-high-blood-pressure" onclick="return sl(this,'','top-twlv_1');">High Blood Pressure Symptoms</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/understanding-high-blood-pressure-basics" onclick="return sl(this,'','top-twlv_2');">High Blood Pressure Causes</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertensive-crisis" onclick="return sl(this,'','top-twlv_3');">High Blood Pressure Warning Signs</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/heart/understanding-low-blood-pressure-basics" onclick="return sl(this,'','top-twlv_4');">Low Blood Pressure</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-treatment-medications" onclick="return sl(this,'','top-twlv_5');">Hypertension Drugs</a> 
+      </div> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/whypertension-diagnosing-high-blood-pressure" onclick="return sl(this,'','top-twlv_6');">High Blood Pressure Diagnosis</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/high-blood-pressure-tests" onclick="return sl(this,'','top-twlv_7');">Tests For High Blood Pressure</a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/secondary-hypertension-causes" onclick="return sl(this,'','top-twlv_8');">Secondary Hypertension</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/understanding-preeclampsia-eclampsia-basic-information" onclick="return sl(this,'','top-twlv_9');">Preeclampsia</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-treatment-overview" onclick="return sl(this,'','top-twlv_10');">High Blood Pressure Treatment</a> 
+      </div> 
+      <div class="top_search_number">
+       11
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/men/guide/high-blood-pressure" onclick="return sl(this,'','top-twlv_11');">High Blood Pressure in Men</a> 
+      </div> 
+      <div class="top_search_number">
+       12
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/dash-diet" onclick="return sl(this,'','top-twlv_12');">Dash Diet For High Blood Pressure</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20">
+   <!--
+updated 07/13/11 at 6:40 EWS
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80bb7dbe" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e80008fa7</i_chronicle_id><r_object_id>091e9c5e80bb7dbe</r_object_id><title>Symptoms of High Blood Pressure</title><object_name>hypertension_symptoms_high_blood_pressure.xml</object_name><content_template>consumer_article_Health_Ref.xml</content_template><r_object_id>091e9c5e80bb7dbe</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e8097910c</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>01/01/2012 00:00:00</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>01/01/2013 00:00:00</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80019138</r_object_id><wbmd_bus_comp_nm>WebMD</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e802a487f" directive="imageurl" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 2012 WebMD, LLC. All rights reserved.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>/content/article/96/103784</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="2" wbmd_disp_nm="Disease &amp; Condition - Symptoms"></wbmd_med_ref_type><wbmd_wdw_ttl>High Blood Pressure Symptoms - Hypertension Symptoms</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>05/19/2012 00:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e804aeeb1</r_object_id><wbmd_publ_name>WebMD Medical Reference</wbmd_publ_name><wbmd_publ_type>1</wbmd_publ_type><wbmd_publ_display>WebMD Medical Reference</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>The symptoms of hypertension are usually silent. WebMD tells you more.</wbmd_desc_meta><wbmd_orig_pub_dt>11/04/2004 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Symptoms of hypertension are usually silent. WebMD tells you more.</wbmd_desc_user><wbmd_lk_ttl>High Blood Pressure Symptoms - Hypertension Symptoms</wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e804467aa</r_object_id><wbmd_first_nm>James</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Beckerman</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id chronic_id="091e9c5e80233732" directive="friendlyurl" path="/webmd/consumer_assets/editorial/articles/biographies/b/beckerman_james.xml" object_type="wbmd_cons_article"></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="29" wbmd_disp_nm="FACC"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>High blood pressure, hypertension, hypertensive crisis, kidney disease, eye disease, heart disease, stroke, symptoms, headache, blood, fatigue, confusion, heartbeat, breathing, chest pain</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>I10</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>H</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>R52</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd></wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80bb7dbe</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1817" wbmd_disp_nm="Hypertension"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="15" wbmd_disp_nm="Adult (31-40)"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1063" wbmd_disp_nm="Hypertension"></wbmd_c_channel_id><wbmd_c_frnd_nm>hypertension-symptoms-high-blood-pressure</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="091e9c5e80d13182"></wbmd_c_mini_article></metadata_section><content_section><cons_health_ref><title>Symptoms of High Blood Pressure</title><pages><page><section_group><section_header></section_header><section_text><p>One of the most dangerous aspects of <a chronic_id="" crosslinkid="536" directive="friendlyurl" externalid="091e9c5e800232f5" href="http://www.webmd.com/hypertension-high-blood-pressure/default.htm" keywordid="21250" keywordsetid="1371" object_type="" path="/webmdhttp://www.webmd.com/hypertension-high-blood-pressure/default.htm">hypertension</a> is that you may not know that you have it. In fact, nearly one-third of people who have high blood pressure don't know it. The only way to know if your blood pressure is high is through regular checkups. This is especially important if you have a close relative who has high blood pressure.</p><p>If your blood pressure is extremely high, there may be certain symptoms to look out for, including:</p><ul><li>Severe headache</li><li>Fatigue or confusion</li><li>Vision problems</li><li>Chest pain</li><li>Difficulty breathing</li><li>Irregular heartbeat</li><li>Blood in the urine</li><li>Pounding in your chest, neck, or ears</li></ul><p>If you have any of these symptoms, see a doctor immediately. You could be having a hypertensive crisis that could lead to a <a chronic_id="" crosslinkid="23234" directive="friendlyurl" externalid="091e9c5e80012609" href="http://www.webmd.com/heart-disease/guide/heart_disease_heart_attacks" keywordid="26488" keywordsetid="8911" object_type="" path="/webmdhttp://www.webmd.com/heart-disease/guide/heart_disease_heart_attacks">heart attack</a> or stroke.</p><p>Untreated hypertension can lead to serious diseases, including <a href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/overview_types_of/hypertension_high_blood_pressure_stroke.xml" directive="friendlyurl" chronic_id="091e9c5e80007aec" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/overview_types_of/hypertension_high_blood_pressure_stroke.xml">stroke</a>, <a href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/risks/hypertension_hypertensive_heart_disease.xml" directive="friendlyurl" chronic_id="091e9c5e80008fa1" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/risks/hypertension_hypertensive_heart_disease.xml">heart disease</a>, <a href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/hypertension_related_kidney_disease.xml" directive="friendlyurl" chronic_id="091e9c5e80008e9a" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/hypertension_related_kidney_disease.xml">kidney failure</a> and <a href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/hypertension_high_blood_pressure_and_eye_disease.xml" directive="friendlyurl" chronic_id="091e9c5e80007800" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/hypertension_high_blood_pressure_and_eye_disease.xml">eye problems</a>.</p><p> </p></section_text></section_group></page></pages><citations><p>SOURCE: National Kidney and Urologic Diseases Information Clearinghouse, National Institutes of Health.</p></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/hypertension-symptoms-high-blood-pressure" owner="false"><breadcrumb><bread piece="Heart Health Center" prefix="www" friendlyurl="/heart/default.htm"></bread><bread piece="Hypertension / High Blood Pressure Health Center" prefix="www" friendlyurl="/hypertension-high-blood-pressure/default.htm"></bread><bread piece="Hypertension / High Blood Pressure Guide" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/default.htm"></bread></breadcrumb><centers><Topic id="942" name="tmg" chronicid="091e9c5e80030bfa" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/default.htm" type="Guide">Hypertension / High Blood Pressure Guide</Topic><Health id="1011" name="health center" chronicid="091e9c5e800232f5" prefix="www" friendlyurl="/hypertension-high-blood-pressure/default.htm" type="">Hypertension</Health><Super id="948" name="super center" chronicid="091e9c5e80027294" prefix="www" friendlyurl="/heart/default.htm" type="">Heart Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/hypertension-symptoms-high-blood-pressure" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e80233732" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/b/beckerman_james.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/beckerman-james"></target><target siteid="8" name="" prefix="www" friendlyurl="/beckerman-james"></target></object><object chronic_id="091e9c5e80007aec" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/brain_and_nervous_system/stroke/overview_types_of/hypertension_high_blood_pressure_stroke.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/hypertension-high-blood-pressure-stroke"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/hypertension-high-blood-pressure-stroke"></target></object><object chronic_id="091e9c5e80008fa1" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/risks/hypertension_hypertensive_heart_disease.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/hypertensive-heart-disease"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/hypertensive-heart-disease"></target></object><object chronic_id="091e9c5e80008e9a" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/hypertension_related_kidney_disease.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/hypertension-related-kidney-disease"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/hypertension-related-kidney-disease"></target></object><object chronic_id="091e9c5e80007800" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/hypertension_high_blood_pressure_and_eye_disease.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/eye-disease-high-blood-pressure"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/eye-disease-high-blood-pressure"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects><object chronic_id="091e9c5e80d13182" path="/webmd/consumer_assets/editorial/short_text/call_outs/fully_programmed/health_care_reform/aca_preventive_screenings_heart_diseasey.wxml"><webmd_rendition_expanded><content_expanded><wbmd_asset_expanded object_type="wbmd_cons_shrt_txt" id="091e9c5e80d50bce"><metadata_section_expanded><i_chronicle_id>091e9c5e80d13182</i_chronicle_id><r_object_id>091e9c5e80d50bce</r_object_id><title>ACA Preventive Screenings - Heart Disease</title><object_name>aca_preventive_screenings_heart_diseasey.xml</object_name><content_template>consumer_article_ProgCallout.xml</content_template><r_object_id>091e9c5e80d50bce</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="104" wbmd_disp_nm="Article within Article"></wbmd_bus_ref><wbmd_cpyrt></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl></wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta></wbmd_desc_meta><wbmd_orig_pub_dt>nulldate</wbmd_orig_pub_dt><wbmd_desc_user></wbmd_desc_user><wbmd_lk_ttl></wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords></wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80d50bce</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4241" wbmd_disp_nm="Health Insurance and Affordable Care Act"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><r_object_id>091e9c5e80d50bce</r_object_id><wbmd_c_cons_parent_obj_id></wbmd_c_cons_parent_obj_id><wbmd_c_cons_term></wbmd_c_cons_term><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_channel_id>1074</wbmd_c_channel_id></metadata_section_expanded><content_section_expanded><prog_callout><callout_title_bar>Did You Know?</callout_title_bar><component><component_title></component_title><component_thumbnail></component_thumbnail><component_thumbnail_link></component_thumbnail_link><component_text><p>Under the Affordable Care Act, many health insurance plans will cover preventive care services, including blood pressure and cholesterol screenings, at no cost to you. <a href="http://www.webmd.com/health-insurance/insurance-plans/health-reform-heart-disease-prevention-screening" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/health-insurance/insurance-plans/health-reform-heart-disease-prevention-screening">Learn more</a>.<b> </b></p><p><a href="http://www.webmd.com/health-insurance/default.htm" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/health-insurance/default.htm"><b>Health Insurance Center</b></a></p></component_text><break_section>0</break_section></component></prog_callout></content_section_expanded></wbmd_asset_expanded></content_expanded><friendlyurls_expanded></friendlyurls_expanded><referenced_objects_expanded></referenced_objects_expanded><container_hierarchy></container_hierarchy><expanded_objects_expanded></expanded_objects_expanded></webmd_rendition_expanded></object></expanded_objects><module_data><relatedLinks>Off</relatedLinks><articleLinkView>Page Refresh</articleLinkView><articleTitle chronic_id="091e9c5e80008fa7" directive="friendlyurl" object_type="wbmd_cons_article" wbmd_lookup_type="" wbmd_storage_value=""></articleTitle></module_data></webmd_rendition>
+--> 
+   <div class="article_snippet_rdr">
+    <h3>Symptoms of High Blood Pressure</h3>
+    <div class="snippet_fmt" id="art-snp">
+     <p xmlns:xalan="http://xml.apache.org/xalan">One of the most dangerous aspects of hypertension is that you may not know that you have it. In fact, nearly one-third of people who have high blood pressure don't know it. The only way to know if your blood pressure is high is through regular checkups. This is especially important if you have a close relative who has high blood pressure.</p>
+     <p xmlns:xalan="http://xml.apache.org/xalan">If your blood pressure is extremely high, there may be certain symptoms to look out for, including:</p>
+    </div>
+    <div class="snippet_link">
+     <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-symptoms-high-blood-pressure" onclick="return sl(this,'','art-snp_1');">Symptoms of High Blood Pressure</a>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+ </div> 
+</div>

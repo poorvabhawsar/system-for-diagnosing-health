@@ -1,0 +1,787 @@
+<title>Seasonal Affective Disorder: Using Light Therapy</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/depression/guide/depression-chronic-pain" onclick="return sl(this,'','lln-toolsres_1');">Depression and Chronic Pain</a></li>
+      <li id="x57"><a href="http://www.webmd.com/depression/depression-assessment/depression-health-check" onclick="return sl(this,'','lln-toolsres_2');">Check Your Depression Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/depression/guide/alternative-therapies-depression" onclick="return sl(this,'','lln-toolsres_3');">Home Remedies for Depression?</a></li>
+      <li id="x59"><a href="http://www.webmd.com/depression/guide/depression-types" onclick="return sl(this,'','lln-toolsres_4');">Depression Types</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/anxiety-panic/guide/mental-health-panic-disorder" onclick="return sl(this,'','lln-toolsres_5');">Panic Disorder</a></li>
+      <li id="x61"><a href="http://www.webmd.com/depression/guide/untreated-depression-effects" onclick="return sl(this,'','lln-toolsres_6');">Effects of Untreated Depression</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="actionset"> 
+    <div class="action_top"> 
+    </div> 
+    <div class="action_mid"> 
+     <div class="page page_1"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 1 of 6
+       </div> 
+       <a href="#6" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#2" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Seasonal Affective Disorder: Using Light Therapy
+       </div> 
+       <div class="as_content"> 
+        <h4>Key points</h4> 
+        <ul> 
+         <li>Bright light therapy is an effective treatment for <a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-topic-overview" onclick="return sl(this,'','embd-lnk');">seasonal affective disorder</a> (SAD).</li> 
+         <li>Light therapy is easy and safe. It has few side effects and can be done at home.</li> 
+         <li>People who have <a href="http://www.webmd.com/eye-health/common-eye-problems" onclick="return sl(this,'','embd-lnk');">eye problems</a> or who take medicines that cause sensitivity to light should not use light therapy without first consulting a doctor.</li> 
+        </ul> 
+        <p class="NoWebPrint">Return to topic:</p> 
+        <div class="NoWebPrint"> 
+         <p> <a href="http://www.webmd.com/a-to-z-guides/seasonal-affective-disorder-sad-topic-overview" onclick="return sl(this,'','embd-lnk');">Seasonal Affective Disorder</a> </p> 
+        </div> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#2" class="ac_next">What is light therapy?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_2" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 2 of 6
+       </div> 
+       <a href="#1" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#3" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        What is light therapy?
+       </div> 
+       <div class="as_content"> 
+        <p>Light therapy is treatment with a special type of light that is much brighter than a lamp or other light fixture in your home. The most common form of this therapy is done with a light box that contains fluorescent lights (not full-spectrum or ultraviolet light). The intensity of light usually ranges between 2,500 and 10,000 lux (10,000 lux is about 20 times as bright as normal indoor lighting).</p> 
+        <p> To use light therapy, you sit at a prescribed distance from the light box. The amount of exposure you need depends on the intensity of light you use. It could range from 30 minutes to 2 hours.</p> 
+        <p>Most lights used in light therapy can be found on the Internet. Look for lights made specifically to treat seasonal affective disorder (SAD). Beware of manufacturers that market inexpensive light therapy devices that have not been researched for effectiveness or documented for safety.</p> 
+        <p>Light boxes are the most common type of light therapy, but dawn simulation is also used. With dawn simulation, a low-intensity light gradually comes on while you're sleeping, about 2 hours before you usually wake up. </p> 
+        <p>If you have any eye problems, talk with your <a href="http://www.webmd.com/hw-popup/ophthalmologist" onclick="return sl(this,'hw','embd-lnk');">ophthalmologist</a> before you start light therapy. Also, make sure your doctor knows all of the medicines you are taking.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>The amount of time I need to sit in front of a light box depends on how strong a light I use.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0What');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0What');" />False
+         </form> 
+         <a name="fms_answer5"> </a> 
+         <div id="answer0What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />The amount of exposure you need depends on the intensity of light you use and could range anywhere from 30 minutes to 2 hours.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />The amount of exposure you need depends on the intensity of light you use and could range anywhere from 30 minutes to 2 hours.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a> <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');">Why is light therapy used to treat SAD?</a><br />Return to <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');">Seasonal Affective Disorder: Using Light Therapy</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#3" class="ac_next">Why is light therapy used to treat SAD?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_3" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 3 of 6
+       </div> 
+       <a href="#2" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#4" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Why is light therapy used to treat SAD?
+       </div> 
+       <div class="as_content"> 
+        <p>Most people who have seasonal affective disorder become depressed in the fall and winter, when days are shorter and sunlight is limited. Researchers are still studying the exact cause of SAD, but some believe lack of light may be the key. Seasonal changes in light may upset the body's 24-hour biological clock, which controls <a href="http://www.webmd.com/sleep-disorders/default.htm" onclick="return sl(this,'','embd-lnk');">sleep</a>-wake cycles and other <a href="http://www.webmd.com/hw-popup/circadian-rhythms" onclick="return sl(this,'hw','embd-lnk');">circadian rhythms</a>. Lack of light may also cause problems with serotonin, a <a href="http://www.webmd.com/hw-popup/neurotransmitters" onclick="return sl(this,'hw','embd-lnk');">brain chemical</a> that affects mood. Light therapy helps to reset your biological clock.</p> 
+        <p>Light therapy, which has few side effects, is also an alternative to taking medicines to treat <a href="http://www.webmd.com/depression/default.htm" onclick="return sl(this,'','embd-lnk');">depression</a>. It can also be used with medicines and counseling.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Professional counseling, medicine, or a combination of the two may still be needed even if I have light therapy.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0Why');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0Why');" />False
+         </form> 
+         <a name="fms_answer2"> </a> 
+         <div id="answer0Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Light therapy alone may be enough to make you feel better, but many people with depression also need professional counseling and medicine.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Light therapy alone may be enough to make you feel better, but many people with depression also need professional counseling and medicine.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a> <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');">How is light therapy done?</a><br />Return to <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');">Seasonal Affective Disorder: Using Light Therapy</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#4" class="ac_next">How is light therapy done?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_4" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 4 of 6
+       </div> 
+       <a href="#3" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#5" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        How is light therapy done?
+       </div> 
+       <div class="as_content"> 
+        <p>Place the light box on a desk or table, and sit in front of it at the specified distance. You can do this while you read, eat <a href="http://www.webmd.com/food-recipes/most-important-meal" onclick="return sl(this,'','embd-lnk');">breakfast</a>, or work at a computer. The light should reach your eyes, but don't stare at the light box. </p> 
+        <p>Light therapy is usually prescribed for 30 minutes to 2 hours a day, depending on the intensity of the light used and on whether you are starting out or have been using it for a while. </p> 
+        <p>Most light therapy is prescribed at 10,000 lux to be used in the early morning. Studies vary as to whether light therapy at other times of the day is less effective. But some people with SAD (perhaps those who wake up normally in the early morning) should do their light therapy for 1 to 2 hours in the evening, ending 1 hour before bedtime. Your doctor can help you decide which light exposure schedule will work best for you. </p> 
+        <p>Light therapy is usually started in the fall and continued through spring. </p> 
+        <p>When you begin light therapy, your first response will show you whether you need to adjust the intensity or duration. Many people respond to light therapy within 3 to 5 days. If you don't respond to treatment within the first week, you may notice improvement in the second week. </p> 
+        <p>The most common side effects of light therapy include <a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">headache</a>, eye strain, and <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting" onclick="return sl(this,'','embd-lnk');">nausea</a>. You may be tired during the first week because of changes in your sleep-wake patterns, but this will usually go away after about a week.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>I should receive 10,000 lux of light therapy each morning for about 30 minutes to 2 hours every day.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0How');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0How');" />False
+         </form> 
+         <a name="fms_answer6"> </a> 
+         <div id="answer0How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Your doctor will help you determine the most effective amount of time you need to be exposed to light therapy daily. You may want to start with 30 minutes to 2 hours of light therapy daily and adjust the time based on your first reaction and reduction of symptoms. You should not use a lamp that puts out more than 10,000 lux of light at a distance of 12 to 18 inches.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Your doctor will help you determine the most effective amount of time you need to be exposed to light therapy daily. You may want to start with 30 minutes to 2 hours of light therapy daily and adjust the time based on your first reaction and reduction of symptoms. You should not use a lamp that puts out more than 10,000 lux of light at a distance of 12 to 18 inches.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a> <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br />Return to <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');">Seasonal Affective Disorder: Using Light Therapy</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#5" class="ac_next">Where to go from here<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_5" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 5 of 6
+       </div> 
+       <a href="#4" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#6" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Where to go from here
+       </div> 
+       <div class="as_content"> 
+        <h4>Talk with your doctor</h4> 
+        <p>Take this information with you and work with your doctor to create a treatment plan that works for you. </p> 
+        <p class="NoWebPrint">Return to <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/depression/using-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad" onclick="return sl(this,'','embd-lnk');">Seasonal Affective Disorder: Using Light Therapy</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#6" class="ac_next">See More Popular Action Sets<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_6" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 6 of 6
+       </div> 
+       <a href="#5" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#1" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        See More Popular Action Sets
+       </div> 
+       <div id="lastslide"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="action_bot"> 
+    </div> 
+   </div> 
+   <div class="as_citations"> 
+    <blockquote> 
+     <h3>Other Works Consulted</h3> 
+     <ul> 
+      <li> <p>American Psychiatric Association (2010). Practice Guideline for the Treatment of Patients With Major Depressive Disorder, 3rd ed. Available online: http://psychiatryonline.org/guidelines.aspx.</p> </li> 
+     </ul> 
+    </blockquote> 
+   </div> 
+   <div class="dashed_fmt"> 
+   </div> 
+   <div class="subheadSpaced_fmt"> 
+   </div> 
+   <div class="credits_fmt"> 
+    <table border="0" cellpadding="5"> 
+     <tbody>
+      <tr> 
+       <td valign="top"> <b>By</b> </td> 
+       <td>Healthwise Staff</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+       <td>Kathleen Romito, MD - Family Medicine</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+       <td>Alfred Lewy, MD, PhD - Psychiatry</td> 
+      </tr> 
+      <tr> 
+       <td> <b>Last Revised</b> </td> 
+       <td>March 14, 2013</td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionsets.js">
+</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: March 14, 2013
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - ActionSet';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1032"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/depression/guide/optimizing-depression-medicines" onclick="return sl(this,'','rltd-p-1032_1');">What Is Major Depression?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/depression/managing-the-side-effects-of-antidepressants" onclick="return sl(this,'','rltd-p-1032_2');">Dealing With Antidepressant Side Effects</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/depression/guide/major-depression" onclick="return sl(this,'','rltd-p-1032_3');">Major Depression</a> </li> 
+     <li id="x65"> <a href="http://men.webmd.com/erectile-dysfunction-11/myths-and-facts" onclick="return sl(this,'','rltd-p-1032_4');">Erectile Dysfunction: Myths &amp; Facts</a> </li> 
+     <li id="x66"> <a href="http://teens.webmd.com/features/teen-depression" onclick="return sl(this,'','rltd-p-1032_5');">Teens &amp; Depression: Not Just a Bad Mood</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/depression/guide/causes-depression" onclick="return sl(this,'','rltd-p-1032_6');">Causes of Depression</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1032_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80abce20" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e80694f1e</chronic_id><r_object_id>091e9c5e80abce20</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e80694f1e.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>06/30/2012 11:41:35</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Depression Health Center/template_Depression Health Center_091e9c5e80022ed0.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80022ed0"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Seasonal Affective Disorder (SAD)</name><link_title>SAD</link_title><description>Seasonal affective disorder (SAD) is a form of depression that occurs seasonally.  Treatments include medications and therapies such as light therapy.  Follow the links below to find WebMD's comprehensive coverage about what causes SAD, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/depression/sad-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8040a6f9"><link_title>Holiday Depression Triggers</link_title><friendly_url>http://www.webmd.com/depression/holiday-depression-8/slideshow-depression-triggers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000e150"><link_title>Hunting the Cause of Winter Depression</link_title><friendly_url>http://www.webmd.com/depression/news/20020124/hunting-cause-of-winter-depression</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80005fd1"><link_title>What is Seasonal Affective Disorder/Winter Depression?</link_title><friendly_url>http://www.webmd.com/depression/features/seasonal-affective-disorder</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800069fb"><link_title>Seasonal Depression (Seasonal Affective Disorder)</link_title><friendly_url>http://www.webmd.com/depression/guide/seasonal-affective-disorder</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000b632"><link_title>FDA Approves First Drug for SAD</link_title><friendly_url>http://www.webmd.com/mental-health/news/20060612/fda-approves-first-drug-for-sad</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cb45"><link_title>Talk Therapy for Seasonal Affective Disorder?</link_title><friendly_url>http://www.webmd.com/depression/news/20051030/talk-therapy-for-seasonal-affective-disorder</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010926"><link_title>Foods That Fight Winter Depression</link_title><friendly_url>http://www.webmd.com/depression/features/foods-that-fight-winter-depression</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011590"><link_title>Beating Winter's Woes</link_title><friendly_url>http://www.webmd.com/depression/features/beating-winters-woes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80012525"><link_title>Sunshine for Seasonal Affective Disorder</link_title><friendly_url>http://www.webmd.com/depression/features/sunshine-for-sad-sufferers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8011137e"><link_title>Seasonal Depression Tied to Serotonin</link_title><friendly_url>http://www.webmd.com/mental-health/news/20070919/seasonal-depression-tied-to-serotonin</friendly_url><thumbnail height="" width="" alt="Seratonin and SAD">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/September07/serotonin_and_sad.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80277525"><link_title>Questions and Answers About Winter Depression</link_title><friendly_url>http://www.webmd.com/depression/winter-depression-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80277553"><link_title>Fending Off Depression Symptoms in Winter</link_title><friendly_url>http://www.webmd.com/depression/features/winter-depression-symptoms</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/Features</thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007496"><link_title>Ho, Ho, Ho-Hum: Holidays Not Always Filled With Joy</link_title><friendly_url>http://www.webmd.com/depression/news/19991226/ho-ho-ho-hum-holidays-not-always-filled-joy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800105da"><link_title>Tweaking the Body Clock to Ease SAD</link_title><friendly_url>http://www.webmd.com/depression/news/20060424/tweaking-body-clock-sad</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000748c"><link_title>Understanding the Basics of Seasonal Affective Disorder</link_title><friendly_url>http://www.webmd.com/depression/understanding-seasonal-affective-disorder-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000748e"><link_title>Understanding the Symptoms of Seasonal Affective Disorder (SAD)</link_title><friendly_url>http://www.webmd.com/depression/understanding-seasonal-affective-disorder-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000748a"><link_title>Understanding Treatment of Seasonal Affective Disorder (SAD)</link_title><friendly_url>http://www.webmd.com/depression/understanding-seasonal-affective-disorder-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8004481d"><link_title>Shedding Light on Seasonal Depression</link_title><friendly_url>http://www.webmd.com/depression/video/seasonal-affective-disorder-one-womans-struggle</friendly_url><thumbnail height="48" width="48" alt="distressed woman">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/mental-health/miscellaneous/seasonal-affective-disorder-one-womans-struggle/graphics/thumbnails/final/seasonal-affective-disorder-one-womans-struggle-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80093220"><link_title>Seasonal Affective Disorder (SAD)</link_title><friendly_url>http://teens.webmd.com/seasonal-affective-disorder</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8033a68e"><link_title>Tips for Summer Depression</link_title><friendly_url>http://www.webmd.com/depression/summer-depression</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001ad9d"><link_title>Seasonal Affective Disorder (SAD)-Health Tools</link_title><friendly_url>http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001aeac"><link_title>Seasonal Affective Disorder (SAD)-Home Treatment</link_title><friendly_url>http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ada8"><link_title>Seasonal Affective Disorder (SAD)-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ad57"><link_title>Seasonal Affective Disorder (SAD)-Symptoms</link_title><friendly_url>http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001aca5"><link_title>Seasonal Affective Disorder (SAD) Treatments, Couseling, and Therapies</link_title><friendly_url>http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ab8d"><link_title>Seasonal Affective Disorder (SAD)-Related Information</link_title><friendly_url>http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ad41"><link_title>Seasonal Affective Disorder (SAD) - Overview, Causes and Risk Factors</link_title><friendly_url>http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ae8c"><link_title>Seasonal Affective Disorder (SAD)-Exams and Tests</link_title><friendly_url>http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800a437d"><link_title>Light Plus Suction Promising for Acne</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/acne/news/20070412/light-plus-suction-promising-acne</friendly_url><thumbnail height="" width="" alt="Light Therapy Fights Acne">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/April07/light_therapy_fights_acne.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8027f26c"><link_title>Craving Carbs in Winter: Is It Depression?</link_title><friendly_url>http://www.webmd.com/depression/features/carbohydrate-craving</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/depression/holiday-depression-8/slideshow-depression-triggers" onclick="return sl(this,'','lln-tdrelcon_1');">Holiday Depression Triggers</a></li>
+      <li><a href="http://www.webmd.com/depression/features/seasonal-affective-disorder" onclick="return sl(this,'','lln-tdrelcon_2');">What is Seasonal Affective Disorder/Winter Depression?</a></li>
+      <li><a href="http://www.webmd.com/depression/guide/seasonal-affective-disorder" onclick="return sl(this,'','lln-tdrelcon_3');">Seasonal Depression (Seasonal Affective Disorder)</a></li>
+      <li><a href="http://www.webmd.com/depression/features/foods-that-fight-winter-depression" onclick="return sl(this,'','lln-tdrelcon_4');">Foods That Fight Winter Depression</a></li>
+      <li><a href="http://www.webmd.com/depression/features/beating-winters-woes" onclick="return sl(this,'','lln-tdrelcon_5');">Beating Winter's Woes</a></li>
+      <li><a href="http://www.webmd.com/depression/features/sunshine-for-sad-sufferers" onclick="return sl(this,'','lln-tdrelcon_6');">Sunshine for Seasonal Affective Disorder</a></li>
+      <li><a href="http://www.webmd.com/depression/winter-depression-treatment" onclick="return sl(this,'','lln-tdrelcon_7');">Questions and Answers About Winter Depression</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/depression/sad-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All SAD Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1840688040&tile=1537235365&tug=&pug=__&site=2&affiliate=20&hcent=1020&scent=964&pos=113&xpg=1663&sec=&amp;au1=1&au2=1&uri=%2fdepression%2fusing-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad&artid=091e9c5e8001d750&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_f335_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1840688040',
+                    tile:'1537235365',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1663";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1840688040&amp;tile=1537235365&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1020&amp;scent=964&amp;pos=5001&amp;xpg=1663&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fdepression%2fusing-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad&amp;artid=091e9c5e8001d750&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_f335_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1840688040&amp;amp;tile=1537235365&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1020&amp;amp;scent=964&amp;amp;pos=5001&amp;amp;xpg=1663&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fdepression%2fusing-light-therapy-at-home-to-treat-seasonal-affective-disorder-sad&amp;amp;artid=091e9c5e8001d750&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_f335_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1663";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

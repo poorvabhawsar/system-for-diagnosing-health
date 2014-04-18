@@ -1,0 +1,186 @@
+<title>Flu Symptoms, Types, and Complications of the Flu</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/allergies/picture-of-the-sinuses" onclick="return sl(this,'','tools-res_1');">What Sinuses Look Like</a></li>
+      <li id="x57"><a href="http://www.webmd.com/cold-and-flu/slideshow-anatomy-of-a-sore-throat" class="type_ss" onclick="return sl(this,'','tools-res_2');">Anatomy of a Sore Throat<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/allergies/slideshow-eye-allergies" class="type_ss" onclick="return sl(this,'','tools-res_3');">All About Eye Allergies<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cold-and-flu/health-tips-10/cold-comfort" onclick="return sl(this,'','tools-res_4');">15 Immune-Boosting Foods</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/cold-and-flu/ear-infection/ss/slideshow-ear-infection-anatomy" class="type_ss" onclick="return sl(this,'','tools-res_5');">Inside an Ear Infection<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-treat-child-cold-flu" onclick="return sl(this,'','tools-res_6');">When Your Child Has a Cold</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="article_rdr"> 
+    <div id="textArea" class="copyNormal"> 
+     <h2>Symptoms &amp; Types</h2> 
+     <div class="dotted_footer_fmt"> 
+     </div> 
+     <div class="share_bar"> 
+      <script>webmd.m.share.init();</script> 
+     </div> 
+     <div class="font_sizer_fmt"> 
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div> 
+      <div class="font_sizer_001_fmt"> 
+      </div> 
+      <div id="fs_01" class="font_sizer_002b_fmt"> 
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_02" class="font_sizer_002a_fmt"> 
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a> 
+      </div> 
+      <div id="fs_03" class="font_sizer_002a_fmt"> 
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a> 
+      </div> 
+      <div class="font_sizer_003_fmt"> 
+      </div> 
+     </div> 
+     <div class="font_sizer"> 
+      <script>webmd.m.fontSizer.init();</script> 
+     </div> 
+     <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/widgets/webmd.m.add_article_save.js">
+    </script> 
+     <p>Do you know the common flu symptoms? Do you know how flu is different from a cold? Learn more about flu symptoms and types so you’ll know what you’re up against this flu season. Find out the warning signs of more serious problems with flu so you can prevent flu complications.&nbsp;</p> 
+     <h2>Symptoms</h2> 
+     <div class="chapterList_fmt"> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/cold-and-flu/flu-guide/adult-flu-symptoms" onclick="return sl(this,'','dart_1');">Flu Symptoms: What You Might Feel</a> 
+      </div> 
+      <p>Flu symptoms make you feel miserable. Learn more about the main flu symptoms so you can treat these early on. Also, find out when to call the doctor about flu symptoms.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/cold-and-flu/flu-guide/is-it-cold-flu" onclick="return sl(this,'','dart_2');">Flu Symptoms or Cold?</a> 
+      </div> 
+      <p>Is it a cold or flu? How can you tell the difference? Discover the specific warning signs of cold and flu, and learn the best ways to treat cold and flu symptoms.</p> 
+     </div> 
+     <h2>Types</h2> 
+     <div class="chapterList_fmt"> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/cold-and-flu/flu-guide/advanced-reading-types-of-flu-viruses" onclick="return sl(this,'','dart_1');">Types of Flu</a> 
+      </div> 
+      <p>Want to learn more about the types of flu? What about bird flu or avian flu? Discover the different types of flu and how they are spread among people.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/cold-and-flu/flu-guide/h1n1-flu-virus-swine-flu" onclick="return sl(this,'','dart_2');">H1N1/Swine Flu</a> 
+      </div> 
+      <p>What is swine flu? What can we do about it? WebMD answers these questions and more.</p> 
+     </div> 
+     <h2>Complications</h2> 
+     <div class="chapterList_fmt"> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/cold-and-flu/flu-guide/flu-complications" onclick="return sl(this,'','dart_1');">Flu Complications</a> 
+      </div> 
+      <p>The flu can have serious complications ranging from sinus infections to life-threatening pneumonia. Get the latest information on flu complications. Learn what you can do right now to protect your health.</p> 
+      <div class="chapterTitle_fmt"> 
+       <a href="http://www.webmd.com/allergies/allergy-and-sinus-symptom-evaluator/default.htm" onclick="return sl(this,'','dart_2');">Assess Your Sinus Symptoms</a> 
+      </div> 
+      <p>How bad are your sinus problems? Find out with WebMD's Sinus Health Check.</p> 
+     </div> 
+     <div id="remoteAd_rdr"> 
+      <div class="centerAd_r1_rdr"> 
+       <div class="centerAd_BG_fmt"> 
+        <div class="conta" style="color:#737373; clear:both; display:none;">
+         Continue reading below...
+        </div> 
+        <div class="remoteAd_top_fmt"> 
+        </div> 
+        <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+         <div class="ad_placeholder"> 
+         </div> 
+        </div> 
+        <div class="remoteAd_bottom_fmt"> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="moduleSpacer_rdr"> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1348021641&amp;tile=943964514&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1202&amp;pos=5000&amp;xpg=4067&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fcold-and-flu%2fflu-guide%2fflu-symptoms-types&amp;artid=091e9c5e80016d60&amp;inst=0&amp;leaf=&amp;cc=97&amp;tmg=&amp;bc=_j10_fit_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1348021641&amp;amp;tile=943964514&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1202&amp;amp;pos=5000&amp;amp;xpg=4067&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fcold-and-flu%2fflu-guide%2fflu-symptoms-types&amp;amp;artid=091e9c5e80016d60&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=97&amp;amp;tmg=&amp;amp;bc=_j10_fit_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4067";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1348021641&amp;tile=943964514&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=1202&amp;pos=5001&amp;xpg=4067&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fcold-and-flu%2fflu-guide%2fflu-symptoms-types&amp;artid=091e9c5e80016d60&amp;inst=0&amp;leaf=&amp;cc=97&amp;tmg=&amp;bc=_j10_fit_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1348021641&amp;amp;tile=943964514&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=1202&amp;amp;pos=5001&amp;amp;xpg=4067&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fcold-and-flu%2fflu-guide%2fflu-symptoms-types&amp;amp;artid=091e9c5e80016d60&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=97&amp;amp;tmg=&amp;amp;bc=_j10_fit_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "4067";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

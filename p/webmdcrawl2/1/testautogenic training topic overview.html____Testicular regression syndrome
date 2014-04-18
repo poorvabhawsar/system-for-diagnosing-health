@@ -1,0 +1,655 @@
+<title>Autogenic Training-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/add-adhd/10-symptoms-adult-adhd" onclick="return sl(this,'','tools-res_1');">Symptoms of Adult ADHD</a></li>
+      <li id="x57"><a href="https://www.webmd.com/lupus/d2n-coping-with-lupus-11/default.htm?scene=evening&amp;vid=5" class="type_vid" onclick="return sl(this,'','tools-res_2');">Deep Breathing to Relieve Stress<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/diet/ss/slideshow-diet-for-stress-management" class="type_ss" onclick="return sl(this,'','tools-res_3');">Stress-Reducing Foods<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/balance/stress-management/stress-management-practicing-yoga-to-relax" onclick="return sl(this,'','tools-res_4');">Yoga for Relaxation</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/parenting/bedwetting-solutions-12/bedwetting-stress-anxiety" onclick="return sl(this,'','tools-res_5');">Can Anxiety Cause Bedwetting?</a></li>
+      <li id="x61"><a href="http://www.webmd.com/oral-health/healthy-teeth-2/stress-teeth" onclick="return sl(this,'','tools-res_6');">Can Stress Hurt Teeth?</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e8b240" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e8001d267</i_chronicle_id><r_object_id>091e9c5e80e8b240</r_object_id><title>Topic Overview</title><object_name>autogenic_training-topic_overview_special_tp21225.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e8b240</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_tp21225</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Autogenic Training-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is autogenic training?Autogenic training (AT) is a technique that teaches your body to respond to your verbal commands. These commands "tell" your body to relax and control breathing, blood pressure, heartbeat, and body temperature. The goal of AT is to achieve deep relaxation and reduce stress. After you learn the technique, you can use it whenever you need or want relief from symptoms of ..</wbmd_desc_meta><wbmd_orig_pub_dt>06/29/2011 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is autogenic training?Autogenic training (AT) is a technique that teaches your body to respond to your verbal commands. These commands "tell" your body to relax and control breathing, blood pressure, heartbeat, and body temperature. The goal of AT is to achieve deep relaxation and reduce stress. After you learn the technique, you can use it whenever you need or want relief from symptoms of ..</wbmd_desc_user><wbmd_lk_ttl>Autogenic Training-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Biofeedback, managing stress, Self-Hypnosis, stress management, stress reduction, tension relief</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>F43</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e8b240</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1668" wbmd_disp_nm="Alternative Medicine"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1081" wbmd_disp_nm="Mind, Body, Spirit"></wbmd_c_channel_id><wbmd_c_frnd_nm>Autogenic-Training-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is autogenic training?</section_header><section_type>SpecialSection</section_type><section_text><p>Autogenic training
+			 (AT) is a technique that teaches your body to respond to your verbal commands.
+			 These commands "tell" your body to relax and control breathing,
+			 <a chronic_id="091e9c5e8001b1bf" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/blood_pressure_definition_stb117053.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/blood_pressure_definition_stb117053.xml">blood pressure</a>, heartbeat, and body temperature. The
+			 goal of AT is to achieve deep relaxation and reduce
+			 <a chronic_id="091e9c5e8001b3de" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/stress_definition_sts15463.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stress_definition_sts15463.xml">stress</a>. After you learn the technique, you can use it
+			 whenever you need or want relief from <a chronic_id="091e9c5e8001d175" crossLinkId="49684" directive="friendlyurl" externalId="091e9c5e8001d175" href="/webmd/consumer_assets/controlled_content/healthwise/special/stress_management-measuring_stress_special_ta4301.xml" keywordId="40978" keywordSetId="9937" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/stress_management-measuring_stress_special_ta4301.xml">symptoms of stress</a>, or you can practice
+			 it regularly to enjoy the benefits of deep relaxation and prevent the effects
+			 of chronic stress.</p><p>Autogenic training consists of six standard
+			 exercises that make the body feel warm, heavy, and relaxed. For each <a chronic_id="091e9c5e80c1b43d" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80c1b43d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml" keywordId="35030" keywordSetId="8746" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml">exercise</a>,
+			 you get into a simple posture (sitting in a comfortable chair or reclining),
+			 concentrate without any goal, and then use visual imagination and verbal cues
+			 to relax your body in some specific way.</p><p>You learn each exercise
+			 by reading about it or watching a teacher, then practicing it for a few minutes
+			 several times a day. Learning the exercises, either from an instructor or on
+			 your own, usually moves at a slow, steady pace, taking 4 to 6 months to master
+			 all six exercises. </p><p>Without regular practice, autogenic training
+			 is not likely to have an effect. For this reason, only those people who are
+			 motivated and committed to learning it are likely to get any benefit from AT.
+			 But for those who master the technique, it works, and it can be an effective
+			 treatment for chronic stress. </p><p>The way AT works is not fully
+			 understood, but its effects on the body are measurable. Experts believe that AT
+			 works in ways that are similar to hypnosis and
+			 <a chronic_id="091e9c5e8001b584" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/biofeedback_definition_stb117100.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/biofeedback_definition_stb117100.xml">biofeedback</a>. The exercises allow communication between
+			 the mind and the body, allowing you to influence body reactions that cannot
+			 normally be controlled, such as <a chronic_id="091e9c5e802a073a" crossLinkId="59290" directive="friendlyurl" externalId="091e9c5e802a073a" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.xml" keywordId="31615" keywordSetId="8191" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.xml">blood pressure</a>, heartbeat, and body
+			 temperature.</p></section_text></section_group><section_group><section_header>What is autogenic training used for?</section_header><section_type>SpecialSection</section_type><section_text><p>Most people
+			 use autogenic training (AT) to relieve the symptoms of stress. It can also be
+			 helpful with problems such as <a chronic_id="091e9c5e80008063" crossLinkId="21972" directive="friendlyurl" externalId="091e9c5e80008063" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mental_health_general_anxiety_disorder.xml" keywordId="35613" keywordSetId="8856" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mental_health_general_anxiety_disorder.xml">generalized anxiety</a>, <a chronic_id="091e9c5e8001e577" crossLinkId="43920" directive="friendlyurl" externalId="091e9c5e8001e577" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/weakness_and_fatigue-topic_overview_symptom_hw90102.xml" keywordId="7389" keywordSetId="1192" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/weakness_and_fatigue-topic_overview_symptom_hw90102.xml">fatigue</a>, and irritability.
+			 Some people use it to <a chronic_id="" crossLinkId="31650" directive="friendlyurl" externalId="EEECAABF7C434AB1" href="http://www.webmd.com/pain-management/guide/pain-management-living-managing" keywordId="37539" keywordSetId="9215" object_type="" path="/webmdhttp://www.webmd.com/pain-management/guide/pain-management-living-managing">manage pain</a>, reduce sleeping disorders such as
+			 <a chronic_id="091e9c5e8001b0a2" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/insomnia_definition_zq1015.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/insomnia_definition_zq1015.xml">insomnia</a>, and increase their resistance to
+			 stress.</p><p>Also, AT has been shown to help treat:</p><ul><li><a chronic_id="091e9c5e8001b4c6" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/hyperventilation_definition_sth149997.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/hyperventilation_definition_sth149997.xml">Hyperventilation</a> (breathing that is deeper and more
+				rapid than normal).</li><li><a chronic_id="091e9c5e8001aff2" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/asthma_definition_sta123346.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/asthma_definition_sta123346.xml">Asthma</a> (inflammation in the tubes that carry air to
+				the <a chronic_id="091e9c5e803c50fe" crossLinkId="72327" directive="friendlyurl" externalId="091e9c5e803c50fe" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml" keywordId="60505" keywordSetId="26698" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.xml">lungs</a>, resulting in periodic episodes of difficulty breathing as well as
+				wheezing, chest tightness, and coughing).</li><li><a chronic_id="091e9c5e80009223" crossLinkId="5614" directive="friendlyurl" externalId="091e9c5e80009223" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_constipation.xml" keywordId="7161" keywordSetId="1029" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_constipation.xml">Constipation</a> and <a chronic_id="091e9c5e80007ea0" crossLinkId="5461" directive="friendlyurl" externalId="091e9c5e80007ea0" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_diarrhea.xml" keywordId="7253" keywordSetId="1090" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_diarrhea.xml">diarrhea</a>.</li><li><a chronic_id="091e9c5e8001b59e" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/gastritis_definition_stg124321.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/gastritis_definition_stg124321.xml">Gastritis</a> and <a chronic_id="091e9c5e8035ee80" crossLinkId="70401" directive="friendlyurl" externalId="091e9c5e8035ee80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_stomach.xml" keywordId="58694" keywordSetId="25972" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_stomach.xml">stomach</a> spasms.</li><li><a chronic_id="091e9c5e8001b356" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ulcer_definition_stu3195.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ulcer_definition_stu3195.xml">Ulcers</a> (sores on the <a chronic_id="091e9c5e80396037" crossLinkId="70837" directive="friendlyurl" externalId="091e9c5e80396037" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.xml" keywordId="60205" keywordSetId="26541" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.xml">skin</a> or on a
+				<a chronic_id="091e9c5e8001b08a" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/mucous_membranes_definition_stm159621.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/mucous_membranes_definition_stm159621.xml">mucous membrane</a>, such as inside the mouth, stomach, or
+				<a chronic_id="091e9c5e80390f7e" crossLinkId="70906" directive="friendlyurl" externalId="091e9c5e80390f7e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_intestines.xml" keywordId="60206" keywordSetId="26542" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_intestines.xml">intestines</a>).</li><li>Racing <a chronic_id="091e9c5e803739e7" crossLinkId="70400" directive="friendlyurl" externalId="091e9c5e803739e7" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.xml" keywordId="58691" keywordSetId="25969" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.xml">heart</a> and <a chronic_id="091e9c5e8084eeb7" crossLinkId="1534566" directive="friendlyurl" externalId="091e9c5e8084eeb7" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/heart_palpitations_.xml" keywordId="35967" keywordSetId="8916" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/heart_palpitations_.xml">irregular heartbeat</a>.</li><li><a chronic_id="091e9c5e8001b196" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/high_blood_pressure_hypertension_definition_sth149819.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/high_blood_pressure_hypertension_definition_sth149819.xml">High blood pressure</a>.</li><li>Cold hands or <a chronic_id="091e9c5e80586577" crossLinkId="1507667" directive="friendlyurl" externalId="091e9c5e80586577" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml" keywordId="62993" keywordSetId="28548" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.xml">feet</a>.</li><li><a chronic_id="091e9c5e8002394a" crossLinkId="189" directive="friendlyurl" externalId="091e9c5e8002394a" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml" keywordId="7522" keywordSetId="1291" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml">Headaches</a>.</li><li><a chronic_id="091e9c5e8001b3c5" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/thyroid_gland_definition_stt11591.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/thyroid_gland_definition_stt11591.xml">Thyroid</a> problems, such as an <a chronic_id="091e9c5e806de2b3" crossLinkId="1514954" directive="friendlyurl" externalId="091e9c5e806de2b3" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/endocrine_hormone_disorders/miscellaneous/Overactive_Thyroid_Hyperthyroidism.xml" keywordId="72333" keywordSetId="1372" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/endocrine_hormone_disorders/miscellaneous/Overactive_Thyroid_Hyperthyroidism.xml">overactive thyroid</a> (<a chronic_id="091e9c5e8001b4cb" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/hyperthyroidism_definition_sth149987.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/hyperthyroidism_definition_sth149987.xml">hyperthyroidism</a>).</li></ul></section_text></section_group><section_group><section_header>Is autogenic training safe?</section_header><section_type>SpecialSection</section_type><section_text><p>Autogenic training
+			 (AT) is safe for most people. Before beginning a program to learn AT, see your
+			 doctor for a <a chronic_id="091e9c5e80377b97" crossLinkId="70371" directive="friendlyurl" externalId="091e9c5e80377b97" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml" keywordId="58671" keywordSetId="25958" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml">physical exam</a> and discuss what physiological effects AT might have
+			 on you. If you have a serious disease such as
+			 <a chronic_id="091e9c5e8001b17f" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/diabetes_definition_std120744.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/diabetes_definition_std120744.xml">diabetes</a> or a heart condition, learn and use AT only
+			 under the supervision of your doctor.</p><p>Some people have a sharp
+			 increase or decrease in their blood pressure when they do AT exercises. If you
+			 have high or <a chronic_id="091e9c5e8000842e" crossLinkId="29854" directive="friendlyurl" externalId="091e9c5e8000842e" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/understanding_low_blood_pressure_basics.xml" keywordId="37648" keywordSetId="9238" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/understanding_low_blood_pressure_basics.xml">low blood pressure</a>, have your doctor or nurse check to see whether
+			 AT is bringing your blood pressure closer to normal.</p><p>If you use AT
+			 to help control any disease, including all heart and circulatory problems, do
+			 not use it to replace any conventional treatments, such as medicines. </p><p>AT is not recommended for:</p><ul><li>Children younger than age 5.</li><li>People with severe mental or emotional disorders.</li></ul><p>If you feel very anxious or restless during or after
+			 doing the exercises, stop AT or continue only under the supervision of a
+			 professional AT instructor.</p><p>Always tell your doctor if you are
+			 using an alternative therapy or if you are thinking about combining an
+			 alternative therapy with your conventional medical treatment. It may not be
+			 safe to forgo your conventional medical treatment and rely only on an
+			 alternative therapy.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/balance/tc/autogenic-training-topic-overview" owner="false"><breadcrumb><bread piece="Health &amp; Balance Center" prefix="www" friendlyurl="/balance/default.htm"></bread><bread piece="Health &amp; Balance Related Topics" prefix="www" friendlyurl="/balance/tc/default.htm"></bread></breadcrumb><centers><Topic id="1019" name="tmg" chronicid="091e9c5e8001d267" prefix="www" friendlyurl="/balance/tc/autogenic-training-topic-overview" type="Topic">Autogenic Training</Topic><Health id="840" name="health center" chronicid="091e9c5e80044ab8" prefix="www" friendlyurl="/balance/default.htm" type="">Health &amp; Balance</Health></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/autogenic-training-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e8001d267" prefix="www" friendlyurl="/a-to-z-guides/tc/autogenic-training-topic-overview" type="Topic">Autogenic Training</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001b1bf" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/blood_pressure_definition_stb117053.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/blood-pressure"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/blood-pressure"></target></object><object chronic_id="091e9c5e8001b3de" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stress_definition_sts15463.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/stress"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/stress"></target></object><object chronic_id="091e9c5e8001d175" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/stress_management-measuring_stress_special_ta4301.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/balance/stress-management/stress-management-evaluating-stress"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/stress-management-evaluating-stress"></target></object><object chronic_id="091e9c5e80c1b43d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target></object><object chronic_id="091e9c5e8001b584" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/biofeedback_definition_stb117100.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/biofeedback"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/biofeedback"></target></object><object chronic_id="091e9c5e802a073a" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/diastolic-and-systolic-blood-pressure-know-your-numbers"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/diastolic-and-systolic-blood-pressure-know-your-numbers"></target></object><object chronic_id="091e9c5e80008063" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/mental_health/miscellaneous/mental_health_general_anxiety_disorder.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/anxiety-panic/guide/generalized-anxiety-disorder"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/generalized-anxiety-disorder"></target></object><object chronic_id="091e9c5e8001e577" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/weakness_and_fatigue-topic_overview_symptom_hw90102.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/weakness-and-fatigue-topic-overview" status="deleted"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/weakness-and-fatigue-topic-overview" status="deleted"></target></object><object chronic_id="091e9c5e8001b0a2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/insomnia_definition_zq1015.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/insomnia"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/insomnia"></target></object><object chronic_id="091e9c5e8001b4c6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/hyperventilation_definition_sth149997.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/hyperventilation"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/hyperventilation"></target></object><object chronic_id="091e9c5e8001aff2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/asthma_definition_sta123346.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/asthma"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/asthma"></target></object><object chronic_id="091e9c5e803c50fe" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_lungs.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/picture-of-the-lungs"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-lungs"></target></object><object chronic_id="091e9c5e80009223" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_constipation.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-constipation"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-constipation"></target></object><object chronic_id="091e9c5e80007ea0" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_diarrhea.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-diarrhea"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-diarrhea"></target></object><object chronic_id="091e9c5e8001b59e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/gastritis_definition_stg124321.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/gastritis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/gastritis"></target></object><object chronic_id="091e9c5e8035ee80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_stomach.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-stomach"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-stomach"></target></object><object chronic_id="091e9c5e8001b356" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ulcer_definition_stu3195.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/ulcer"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/ulcer"></target></object><object chronic_id="091e9c5e80396037" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/picture-of-the-skin"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/picture-of-the-skin"></target></object><object chronic_id="091e9c5e8001b08a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/mucous_membranes_definition_stm159621.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/mucous-membranes"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/mucous-membranes"></target></object><object chronic_id="091e9c5e80390f7e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_intestines.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-intestines"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-intestines"></target></object><object chronic_id="091e9c5e803739e7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/picture-of-the-heart"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-heart"></target></object><object chronic_id="091e9c5e8084eeb7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/heart_palpitations_.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/guide/what-causes-heart-palpitations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/guide/what-causes-heart-palpitations"></target></object><object chronic_id="091e9c5e8001b196" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/high_blood_pressure_hypertension_definition_sth149819.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/high-blood-pressure-hypertension"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/high-blood-pressure-hypertension"></target></object><object chronic_id="091e9c5e80586577" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_feet.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/picture-of-the-feet"></target></object><object chronic_id="091e9c5e8002394a" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/migraines-headaches/default.htm"></target></object><object chronic_id="091e9c5e8001b3c5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/thyroid_gland_definition_stt11591.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/thyroid-gland-7329"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/thyroid-gland-7329"></target></object><object chronic_id="091e9c5e806de2b3" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/endocrine_hormone_disorders/miscellaneous/Overactive_Thyroid_Hyperthyroidism.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/overactive-thyroid-hyperthyroidism"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/overactive-thyroid-hyperthyroidism"></target></object><object chronic_id="091e9c5e8001b4cb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/hyperthyroidism_definition_sth149987.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/hyperthyroidism"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/hyperthyroidism"></target></object><object chronic_id="091e9c5e80377b97" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target></object><object chronic_id="091e9c5e8001b17f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/diabetes_definition_std120744.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/diabetes"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/diabetes"></target></object><object chronic_id="091e9c5e8000842e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/understanding_low_blood_pressure_basics.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/understanding-low-blood-pressure-basics"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/understanding-low-blood-pressure-basics"></target></object><object chronic_id="091e9c5e8001d267" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/autogenic_training-topic_overview_special_tp21225.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/balance/tc/autogenic-training-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/autogenic-training-topic-overview"></target></object><object chronic_id="091e9c5e8001d33d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/autogenic_training-related_information_special_ta7045spec-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/balance/tc/autogenic-training-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/autogenic-training-related-information"></target></object><object chronic_id="091e9c5e8013f0db" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/autogenic_training-references_special_ta7045spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/balance/tc/autogenic-training-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/autogenic-training-references"></target></object><object chronic_id="091e9c5e8001d06a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/autogenic_training-credits_special_ta7045spec-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/balance/tc/autogenic-training-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/autogenic-training-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e80023697" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/autogenic_training_special_ta7045spec.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d267" path="/webmd/consumer_assets/controlled_content/healthwise/special/autogenic_training-topic_overview_special_tp21225.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d33d" path="/webmd/consumer_assets/controlled_content/healthwise/special/autogenic_training-related_information_special_ta7045spec-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8013f0db" path="/webmd/consumer_assets/controlled_content/healthwise/special/autogenic_training-references_special_ta7045spec-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d06a" path="/webmd/consumer_assets/controlled_content/healthwise/special/autogenic_training-credits_special_ta7045spec-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Autogenic Training</title><dynamic_objects><callout_title>Recommended Related to Mind, Body, Spirit</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e8023f514"><metadata_section><i_chronicle_id>091e9c5e8014f6ee</i_chronicle_id><title>22 Live-Long Tricks</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>By Nancy Rones
+
+  
+
+
+  It only takes a few minutes a day to dramatically improve your health.
+And with our list of fun and easy good-for-you habits, you'll want to get
+started right away.
+
+Yeah, yeah — you know that exercising and eating right should be at the top
+of your daily to-do list. But let's face it: Some days there's barely enough
+time to sprint from the car to the pizza parlor to grab a pie to go. We're in
+no way suggesting you abandon those bigger long-term health goals, but...</p></section_text><link siteid="3" prefix="www" friendlyurl="/balance/features/22-live-long-tricks"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Autogenic Training - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What is autogenic training?</h3>
+      <p>Autogenic training (AT) is a technique that teaches your body to respond to your verbal commands. These commands &quot;tell&quot; your body to relax and control breathing, <a href="http://www.webmd.com/hw-popup/blood-pressure" onclick="return sl(this,'hw','embd-lnk');">blood pressure</a>, heartbeat, and body temperature. The goal of AT is to achieve deep relaxation and reduce <a href="http://www.webmd.com/hw-popup/stress" onclick="return sl(this,'hw','embd-lnk');">stress</a>. After you learn the technique, you can use it whenever you need or want relief from <a href="http://www.webmd.com/balance/stress-management/stress-management-evaluating-stress" onclick="return sl(this,'','embd-lnk');">symptoms of stress</a>, or you can practice it regularly to enjoy the benefits of deep relaxation and prevent the effects of chronic stress.</p>
+      <p xmlns:xalan="http://xml.apache.org/xalan">Autogenic training consists of six standard exercises that make the body feel warm, heavy, and relaxed. For each <a href="http://www.webmd.com/fitness-exercise/default.htm" onclick="return sl(this,'','embd-lnk');">exercise</a>, you get into a simple posture (sitting in a comfortable chair or reclining), concentrate without any goal, and then use visual imagination and verbal cues to relax your body in some specific way.</p>
+      <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" />
+      <div class="aia_rdr rs_skip">
+       <div class="aia_top_fmt"> 
+       </div>
+       <div class="aia_border_fmt">
+        <div class="aia_title_bar_fmt">
+         <h4>Recommended Related to Mind, Body, Spirit</h4>
+         <div class="clearing_fmt"> 
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/balance/features/22-live-long-tricks" onclick="return sl(this,'','aia-related');">22 Live-Long Tricks</a></p>
+        <div class="aia_section_fmt">
+         <div class="aia_content_fmt">
+          <p>By Nancy Rones It only takes a few minutes a day to dramatically improve your health. And with our list of fun and easy good-for-you habits, you'll want to get started right away. Yeah, yeah — you know that exercising and eating right should be at the top of your daily to-do list. But let's face it: Some days there's barely enough time to sprint from the car to the pizza parlor to grab a pie to go. We're in no way suggesting you abandon those bigger long-term health goals, but...</p>
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/balance/features/22-live-long-tricks" onclick="return sl(this,'','aia-related');">Read the 22 Live-Long Tricks article &gt; &gt;</a></p>
+        <div class="clearing_fmt"> 
+        </div>
+       </div>
+       <div class="aia_bot_fmt"> 
+       </div>
+      </div>
+      <script type="text/javascript">$(function(){
+  if(typeof(s_sponsor_program) != 'undefined' ){
+    /* remove aia if in a sponsored program */
+    if(s_sponsor_program != ""){$(".aia_rdr").remove()}
+  }
+});</script>
+      <p>You learn each exercise by reading about it or watching a teacher, then practicing it for a few minutes several times a day. Learning the exercises, either from an instructor or on your own, usually moves at a slow, steady pace, taking 4 to 6 months to master all six exercises. </p>
+      <p>Without regular practice, autogenic training is not likely to have an effect. For this reason, only those people who are motivated and committed to learning it are likely to get any benefit from AT. But for those who master the technique, it works, and it can be an effective treatment for chronic stress. </p>
+      <p>The way AT works is not fully understood, but its effects on the body are measurable. Experts believe that AT works in ways that are similar to hypnosis and <a href="http://www.webmd.com/hw-popup/biofeedback" onclick="return sl(this,'hw','embd-lnk');">biofeedback</a>. The exercises allow communication between the mind and the body, allowing you to influence body reactions that cannot normally be controlled, such as <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/diastolic-and-systolic-blood-pressure-know-your-numbers" onclick="return sl(this,'','embd-lnk');">blood pressure</a>, heartbeat, and body temperature.</p>
+      <h3>What is autogenic training used for?</h3>
+      <p>Most people use autogenic training (AT) to relieve the symptoms of stress. It can also be helpful with problems such as <a href="http://www.webmd.com/anxiety-panic/guide/generalized-anxiety-disorder" onclick="return sl(this,'','embd-lnk');">generalized anxiety</a>, <a href="http://www.webmd.com/a-to-z-guides/weakness-and-fatigue-topic-overview" onclick="return sl(this,'','embd-lnk');">fatigue</a>, and irritability. Some people use it to <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/pain-management/guide/pain-management-living-managing">manage pain</a>, reduce sleeping disorders such as <a href="http://www.webmd.com/hw-popup/insomnia" onclick="return sl(this,'hw','embd-lnk');">insomnia</a>, and increase their resistance to stress.</p>
+      <p>Also, AT has been shown to help treat:</p>
+      <ul>
+       <li><a href="http://www.webmd.com/hw-popup/hyperventilation" onclick="return sl(this,'hw','embd-lnk');">Hyperventilation</a> (breathing that is deeper and more rapid than normal).</li>
+       <li><a href="http://www.webmd.com/hw-popup/asthma" onclick="return sl(this,'hw','embd-lnk');">Asthma</a> (inflammation in the tubes that carry air to the <a href="http://www.webmd.com/lung/picture-of-the-lungs" onclick="return sl(this,'','embd-lnk');">lungs</a>, resulting in periodic episodes of difficulty breathing as well as wheezing, chest tightness, and coughing).</li>
+       <li><a href="http://www.webmd.com/digestive-disorders/digestive-diseases-constipation" onclick="return sl(this,'','embd-lnk');">Constipation</a> and <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-diarrhea" onclick="return sl(this,'','embd-lnk');">diarrhea</a>.</li>
+       <li><a href="http://www.webmd.com/hw-popup/gastritis" onclick="return sl(this,'hw','embd-lnk');">Gastritis</a> and <a href="http://www.webmd.com/digestive-disorders/picture-of-the-stomach" onclick="return sl(this,'','embd-lnk');">stomach</a> spasms.</li>
+       <li><a href="http://www.webmd.com/hw-popup/ulcer" onclick="return sl(this,'hw','embd-lnk');">Ulcers</a> (sores on the <a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-the-skin" onclick="return sl(this,'','embd-lnk');">skin</a> or on a <a href="http://www.webmd.com/hw-popup/mucous-membranes" onclick="return sl(this,'hw','embd-lnk');">mucous membrane</a>, such as inside the mouth, stomach, or <a href="http://www.webmd.com/digestive-disorders/picture-of-the-intestines" onclick="return sl(this,'','embd-lnk');">intestines</a>).</li>
+       <li>Racing <a href="http://www.webmd.com/heart/picture-of-the-heart" onclick="return sl(this,'','embd-lnk');">heart</a> and <a href="http://www.webmd.com/heart-disease/guide/what-causes-heart-palpitations" onclick="return sl(this,'','embd-lnk');">irregular heartbeat</a>.</li>
+       <li><a href="http://www.webmd.com/hw-popup/high-blood-pressure-hypertension" onclick="return sl(this,'hw','embd-lnk');">High blood pressure</a>.</li>
+       <li>Cold hands or <a href="http://www.webmd.com/pain-management/picture-of-the-feet" onclick="return sl(this,'','embd-lnk');">feet</a>.</li>
+       <li><a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">Headaches</a>.</li>
+       <li><a href="http://www.webmd.com/hw-popup/thyroid-gland-7329" onclick="return sl(this,'hw','embd-lnk');">Thyroid</a> problems, such as an <a href="http://www.webmd.com/a-to-z-guides/overactive-thyroid-hyperthyroidism" onclick="return sl(this,'','embd-lnk');">overactive thyroid</a> (<a href="http://www.webmd.com/hw-popup/hyperthyroidism" onclick="return sl(this,'hw','embd-lnk');">hyperthyroidism</a>).</li>
+      </ul>
+      <h3>Is autogenic training safe?</h3>
+      <p>Autogenic training (AT) is safe for most people. Before beginning a program to learn AT, see your doctor for a <a href="http://www.webmd.com/a-to-z-guides/annual-physical-examinations" onclick="return sl(this,'','embd-lnk');">physical exam</a> and discuss what physiological effects AT might have on you. If you have a serious disease such as <a href="http://www.webmd.com/hw-popup/diabetes" onclick="return sl(this,'hw','embd-lnk');">diabetes</a> or a heart condition, learn and use AT only under the supervision of your doctor.</p>
+      <p>Some people have a sharp increase or decrease in their blood pressure when they do AT exercises. If you have high or <a href="http://www.webmd.com/heart/understanding-low-blood-pressure-basics" onclick="return sl(this,'','embd-lnk');">low blood pressure</a>, have your doctor or nurse check to see whether AT is bringing your blood pressure closer to normal.</p>
+      <p>If you use AT to help control any disease, including all heart and circulatory problems, do not use it to replace any conventional treatments, such as medicines. </p>
+      <p>AT is not recommended for:</p>
+      <ul>
+       <li>Children younger than age 5.</li>
+       <li>People with severe mental or emotional disorders.</li>
+      </ul>
+      <p>If you feel very anxious or restless during or after doing the exercises, stop AT or continue only under the supervision of a professional AT instructor.</p>
+      <p>Always tell your doctor if you are using an alternative therapy or if you are thinking about combining an alternative therapy with your conventional medical treatment. It may not be safe to forgo your conventional medical treatment and rely only on an alternative therapy.</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/balance/tc/autogenic-training-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/balance/tc/autogenic-training-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/balance/tc/autogenic-training-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/balance/tc/autogenic-training-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: June 29, 2011
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/balance/tc/autogenic-training-topic-overview">Topic Overview</option><option value="http://www.webmd.com/balance/tc/autogenic-training-related-information">Related Information</option><option value="http://www.webmd.com/balance/tc/autogenic-training-references">References</option><option value="http://www.webmd.com/balance/tc/autogenic-training-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Autogenic Training Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/balance/tc/autogenic-training-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/balance/tc/autogenic-training-related-information" onclick="return sl(this,'','topicNav_2');" title="Related Information">Related Information</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/balance/tc/autogenic-training-references" onclick="return sl(this,'','topicNav_3');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/balance/tc/autogenic-training-credits" onclick="return sl(this,'','topicNav_4');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="related_reading_rdr" id="rltd-p-1081"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/parenting/raising-fit-kids/mood/depression-eating" onclick="return sl(this,'','rltd-p-1081_1');">Kids and Depression Eating: Ways You Can Help</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/sleep-disorders/excessive-sleepiness-10/sleepy-all-the-time" onclick="return sl(this,'','rltd-p-1081_2');">Always Tired? Find Out What's Wrong</a> </li> 
+     <li id="x64"> <a class="type_vid" href="https://www.webmd.com/lupus/d2n-coping-with-lupus-11/default.htm?scene=evening&amp;vid=5" onclick="return sl(this,'','rltd-p-1081_3');">Easy Exercises for Relieving Stress<i> </i></a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/balance/guide/the-health-benefits-of-yoga" onclick="return sl(this,'','rltd-p-1081_4');">Yoga: Health Benefits and Safety Tips</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/balance/massage-therapy-styles-and-health-benefits" onclick="return sl(this,'','rltd-p-1081_5');">What Type of Massage Is Best for You?</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/rheumatoid-arthritis/biologics-10/ra-stress-response" onclick="return sl(this,'','rltd-p-1081_6');">4 Tips for Reducing Stress With Rheumatoid Arthritis</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1081_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=164472402&amp;tile=1792417662&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=840&amp;scent=&amp;pos=5000&amp;xpg=1668&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fbalance%2ftc%2fautogenic-training-topic-overview&amp;artid=091e9c5e8001d267&amp;inst=0&amp;leaf=1019&amp;cc=16&amp;tmg=1&amp;bc=_f43_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=164472402&amp;amp;tile=1792417662&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=840&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=1668&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fbalance%2ftc%2fautogenic-training-topic-overview&amp;amp;artid=091e9c5e8001d267&amp;amp;inst=0&amp;amp;leaf=1019&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_f43_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1668";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=164472402&amp;tile=1792417662&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=840&amp;scent=&amp;pos=5001&amp;xpg=1668&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fbalance%2ftc%2fautogenic-training-topic-overview&amp;artid=091e9c5e8001d267&amp;inst=0&amp;leaf=1019&amp;cc=16&amp;tmg=1&amp;bc=_f43_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=164472402&amp;amp;tile=1792417662&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=840&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1668&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fbalance%2ftc%2fautogenic-training-topic-overview&amp;amp;artid=091e9c5e8001d267&amp;amp;inst=0&amp;amp;leaf=1019&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_f43_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1668";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

@@ -1,0 +1,456 @@
+<title>WebMD Vaccines Center – Adult Vaccination Information</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5"> 
+   <div id="vaccInt"> 
+    <ul id="vaccInt_nav"> 
+     <li class="vaccInt_adult"> <a href="#vaccInt_adult"> <span>Adult Vaccines</span> </a> </li> 
+     <li class="vaccInt_children"> <a href="#vaccInt_children"> <span>Children's Vaccines</span> </a> </li> 
+     <li class="vaccInt_travel"> <a href="#vaccInt_travel"> <span>Travel Information</span> </a> </li> 
+     <li class="vaccInt_all"> <a href="#vaccInt_all"> <span>All Vaccine Info</span> </a> </li> 
+    </ul> 
+    <div id="vaccInt_toc" class="vaccInt_tab_container"> 
+     <div class="vaccInt_tab active"> 
+      <h2>Which Vaccines Do You and Your Family Need?</h2> 
+      <p>Children need vaccines to protect them from childhood diseases. But did you know that teens and adults need vaccines, too? Vaccines not only help keep your family safe, but they also protect others by making diseases less likely to spread.</p> 
+      <h3>Are you looking for information on:</h3> 
+     </div> 
+     <div class="vaccInt_tab_top"></div> 
+     <div class="vaccInt_tab_side_left"></div> 
+     <div class="vaccInt_tab_side_right"></div> 
+     <div class="vaccInt_tab_bottom"></div> 
+    </div> 
+    <div id="vaccInt_adult" class="vaccInt_tab_container"> 
+     <div class="vaccInt_tab" style="display: none;"> 
+      <h2 class="tab">What do you need to do today?</h2> 
+      <p>Although we usually think of vaccines as something for kids, many adults still get sick each year from diseases that can be prevented with vaccines. Staying up to date on adult vaccinations can help protect you and your family, and can be especially important for any family members over 65.</p> 
+      <p class="header">What do you need to do today?</p> 
+      <form id="vaccInt_adult_1" action=""> 
+       <fieldset> 
+        <input type="radio" id="vaccInt_adult_action_1" name="vaccInt_adult_action" value="1" /> 
+        <label for="vaccInt_adult_action_1">Start keeping track of my family's vaccine schedules online</label> 
+        <input type="radio" id="vaccInt_adult_action_2" name="vaccInt_adult_action" value="2" /> 
+        <label for="vaccInt_adult_action_2">Get more information about vaccines we may need</label> 
+        <input type="radio" id="vaccInt_adult_action_3" name="vaccInt_adult_action" value="7" /> 
+        <label for="vaccInt_adult_action_3">Both</label> 
+       </fieldset> 
+       <input type="button" value="Submit" /> 
+      </form> 
+     </div> 
+     <div class="vaccInt_tab second" style="display: none;"> 
+      <h2 class="tab">How old are you?</h2> 
+      <p class="header">How old are you?</p> 
+      <form id="vaccInt_adult_2" action=""> 
+       <fieldset> 
+        <input type="radio" id="vaccInt_adult_age_1" name="vaccInt_adult_age" value="1" /> 
+        <label for="vaccInt_adult_age_1">19 - 26</label> 
+        <input type="radio" id="vaccInt_adult_age_2" name="vaccInt_adult_age" value="2" /> 
+        <label for="vaccInt_adult_age_2">27 - 49</label> 
+        <input type="radio" id="vaccInt_adult_age_3" name="vaccInt_adult_age" value="3" /> 
+        <label for="vaccInt_adult_age_3">50 - 64</label> 
+        <input type="radio" id="vaccInt_adult_age_4" name="vaccInt_adult_age" value="4" /> 
+        <label for="vaccInt_adult_age_4">65+</label> 
+       </fieldset> 
+       <input type="button" value="Submit" /> 
+      </form> 
+     </div> 
+     <div class="vaccInt_tab third"> 
+      <h2 class="tab">Adult Vaccines</h2> 
+      <h3>19 - 65+</h3> 
+      <p>Many vaccines are recommended for everyone. Your doctor may recommend additional vaccines depending on your overall health, what medications you take, and your family and medical history.</p> 
+      <!--
+				State 1: 19 - 26
+				State 2: 27 - 49
+				State 3: 50 - 64
+				State 4: 65+
+				--> 
+      <h4>Tools for you...</h4> 
+      <ol> 
+       <li class="item_1" data-state="{&quot;1&quot;:1}"> <a onclick="return sl(this,'','vaccInt-adult_1');" href="http://www.webmd.com/a-to-z-guides/meningococcal-vaccine-for-adults">Meningococcal Vaccine</a> </li> 
+       <li class="item_2" data-state="{&quot;1&quot;:2, &quot;2&quot;:1, &quot;3&quot;:2, &quot;4&quot;:3}"> <a onclick="return sl(this,'','vaccInt-adult_2');" href="http://www.webmd.com/a-to-z-guides/flu-shot-guidelines-for-adults">Flu Guidelines for Adults</a> </li> 
+       <li class="item_3" data-state="{&quot;1&quot;:3}"> <a onclick="return sl(this,'','vaccInt-adult_3');" href="http://www.webmd.com/a-to-z-guides/adult-hpv-vaccine-guidelines">HPV Guidelines</a> </li> 
+       <li class="item_4" data-state="{&quot;1&quot;:4, &quot;2&quot;:2, &quot;3&quot;:3, &quot;4&quot;:4}"> <a onclick="return sl(this,'','vaccInt-adult_4');" href="http://www.webmd.com/video/adult-vaccinations">Why Adults Need Booster Shots</a> </li> 
+       <li class="item_5" data-state="{&quot;1&quot;:5, &quot;2&quot;:3, &quot;3&quot;:4, &quot;4&quot;:5}"> <a onclick="return sl(this,'','vaccInt-adult_5');" href="https://vaccinetracker.webmd.com/">WebMD Vaccine Tracker: Manage Your Family's Vaccines</a> </li> 
+       <li class="item_6" data-state="{&quot;3&quot;:1, &quot;4&quot;:2}"> <a onclick="return sl(this,'','vaccInt-adult_6');" href="http://www.webmd.com/a-to-z-guides/features/shingles-vaccine-for-adults">Shingles Vaccine</a> </li> 
+       <li class="item_7" data-state="{&quot;4&quot;:1}"> <a onclick="return sl(this,'','vaccInt-adult_7');" href="http://www.webmd.com/a-to-z-guides/pneumococcal-vaccine-schedule">Adult Pneumococcal Vaccinations</a> </li> 
+      </ol> 
+      <div class="vaccInt_tab_topOfHead"></div> 
+     </div> 
+     <div class="vaccInt_tab_top"></div> 
+     <div class="vaccInt_tab_side_left"></div> 
+     <div class="vaccInt_tab_side_right"></div> 
+     <div class="vaccInt_tab_bottom"></div> 
+    </div> 
+    <div id="vaccInt_children" class="vaccInt_tab_container"> 
+     <div class="vaccInt_tab" style="display: none;"> 
+      <h2 class="tab">What do you need to do today?</h2> 
+      <p>Although many childhood diseases that were once common — such as mumps and measles — are now rare in the U.S., these diseases do still exist. And children who aren't protected by vaccines can get them. That's why it's important to understand and keep up with your kids' vaccine schedules.</p> 
+      <p class="header">What do you need to do today?</p> 
+      <form id="vaccInt_children_1" action=""> 
+       <fieldset> 
+        <input type="radio" id="vaccInt_children_action_1" name="vaccInt_children_action" value="1" /> 
+        <label for="vaccInt_children_action_1">Start keeping track of my family's vaccine schedules online</label> 
+        <input type="radio" id="vaccInt_children_action_2" name="vaccInt_children_action" value="2" /> 
+        <label for="vaccInt_children_action_2">Get more information about vaccines we may need</label> 
+        <input type="radio" id="vaccInt_children_action_3" name="vaccInt_children_action" value="4" /> 
+        <label for="vaccInt_children_action_3">Get information about vaccine safety</label> 
+        <input type="radio" id="vaccInt_children_action_4" name="vaccInt_children_action" value="7" /> 
+        <label for="vaccInt_children_action_4">All of the above</label> 
+       </fieldset> 
+       <input type="button" value="Submit" /> 
+      </form> 
+     </div> 
+     <div class="vaccInt_tab second" style="display: none;"> 
+      <h2 class="tab">How old are your children?</h2> 
+      <p class="header">How old are your children?</p> 
+      <p class="directions">(select all that apply)</p> 
+      <form id="vaccInt_children_2" action=""> 
+       <fieldset> 
+        <input type="checkbox" id="vaccInt_children_age_1" value="1" /> 
+        <label for="vaccInt_children_age_1">0 - 11 months</label> 
+        <input type="checkbox" id="vaccInt_children_age_2" value="2" /> 
+        <label for="vaccInt_children_age_2">12 - 23 months</label> 
+        <input type="checkbox" id="vaccInt_children_age_3" value="4" /> 
+        <label for="vaccInt_children_age_3">2 - 8 years</label> 
+        <input type="checkbox" id="vaccInt_children_age_4" value="8" /> 
+        <label for="vaccInt_children_age_4">9 - 18 years</label> 
+       </fieldset> 
+       <input type="button" value="Submit" /> 
+      </form> 
+     </div> 
+     <div class="vaccInt_tab third"> 
+      <h2 class="tab">Children's Vaccines</h2> 
+      <p>One of the most important things you can do to safeguard your children's health is to keep them up to date on their vaccines. But parents may worry about safety and side effects of vaccines. Find out more about what vaccines your children need, and how to weigh the risks and benefits of immunization.</p> 
+      <!--
+			State 1: 
+				IF ANSWER to Question 3 is 0-11 and/or 12-23 and/or 2-8 years 
+				AND Question 2 is: Get more information about vaccines we may need
+			State 2:
+				IF ANSWER to Question 3 is 0-11 and/or 12-23 and/or 2-8 years 
+				AND Question 2 is: Information about vaccine safety
+			State 3:
+				IF ANSWER to Question 3 is 0-11 and/or 12-23 and/or 2-8 years 
+				AND Question 2 is: All of the above
+			State 4:
+				IF ANSWER to IF ANSWER to Question 3 is 9-18 years ONLY 
+				ANY ANSWER to Question 2:
+			State 5:
+				IF ANSWER to IF ANSWER to Question 3 is 9-18 and any other age group
+				ANY ANSWER to Question 2:
+			--> 
+      <h4>Tools for you...</h4> 
+      <ol> 
+       <li class="item_1" data-state="{&quot;1&quot;:1, &quot;2&quot;:1, &quot;3&quot;:1, &quot;5&quot;:1}"> <a onclick="return sl(this,'','vaccInt-children_1');" href="http://www.webmd.com/children/vaccines/vaccines-what-todays-parents-should-know/default.htm">Vaccine Special Report: What Parents Should Know</a> </li> 
+       <li class="item_2" data-state="{&quot;2&quot;:2, &quot;3&quot;:3}"> <a onclick="return sl(this,'','vaccInt-children_2');" href="http://www.webmd.com/children/vaccines/vaccines-what-todays-parents-should-know/vaccine-guide-risks-vs-benefits/default.htm">Your Vaccine Guide: Risks &amp; Side Effects</a> </li> 
+       <li class="item_3" data-state="{&quot;1&quot;:2, &quot;2&quot;:4, &quot;3&quot;:2}"> <a onclick="return sl(this,'','vaccInt-children_3');" href="http://www.webmd.com/children/vaccines/immunization-charts-for-children-and-adults">Vaccine Schedule</a> </li> 
+       <li class="item_4" data-state="{&quot;1&quot;:3, &quot;2&quot;:3, &quot;3&quot;:4}"> <a onclick="return sl(this,'','vaccInt-children_4');" href="http://www.webmd.com/cold-and-flu/flu-guide/children-and-flu-influenza">FAQ: Children and Flu</a> </li> 
+       <li class="item_5" data-state="{&quot;4&quot;:1, &quot;5&quot;:2}"> <a onclick="return sl(this,'','vaccInt-children_5');" href="http://www.webmd.com/children/vaccines/features/should-your-child-get-hpv-vaccine ">Should Your Child Get the HPV Vaccine?</a> </li> 
+       <li class="item_6" data-state="{&quot;4&quot;:2, &quot;5&quot;:4}"> <a onclick="return sl(this,'','vaccInt-children_6');" href="http://www.webmd.com/children/vaccines/meningococcal-vaccine">Protecting Against Meningitis</a> </li> 
+       <li class="item_7" data-state="{&quot;4&quot;:3}"> <a onclick="return sl(this,'','vaccInt-children_7');" href="http://www.webmd.com/cold-and-flu/flu-guide/children-and-flu-influenza">Why Your Teen Needs a Flu Vaccine</a> </li> 
+       <li class="item_8" data-state="{&quot;4&quot;:4, &quot;5&quot;:3}"> <a onclick="return sl(this,'','vaccInt-children_8');" href="http://www.webmd.com/children/vaccines/dtap-and-tdap-vaccines">Which Boosters Does Your Tween or Teen Need?</a> </li> 
+       <li class="item_9" data-state="{&quot;1&quot;:4, &quot;2&quot;:5, &quot;3&quot;:5, &quot;4&quot;:5, &quot;5&quot;:5}"> <a onclick="return sl(this,'','vaccInt-children_9');" href="https://vaccinetracker.webmd.com/">WebMD Vaccine Tracker: Manage Your Family's Vaccines</a> </li> 
+      </ol> 
+     </div> 
+     <div class="vaccInt_tab_top"></div> 
+     <div class="vaccInt_tab_side_left"></div> 
+     <div class="vaccInt_tab_side_right"></div> 
+     <div class="vaccInt_tab_bottom"></div> 
+    </div> 
+    <div id="vaccInt_travel" class="vaccInt_tab_container"> 
+     <div class="vaccInt_tab"> 
+      <h2>Travel Health</h2> 
+      <p>Planning an international trip? Find out what vaccinations you may need before your trip, and how soon you need to see your doctor before you go.</p> 
+      <h4>Tools for you...</h4> 
+      <ol> 
+       <li class="item_1"><a onclick="return sl(this,'','vaccInt-travel_1');" href="http://www.webmd.com/vaccines/slideshow-travel-health">Travel Health: 25 Ways to Stay Well When Abroad</a></li> 
+       <li class="item_2"><a onclick="return sl(this,'','vaccInt-travel_2');" href="http://www.webmd.com/a-to-z-guides/travel-health-before-you-go">Travel Health: Before You Go</a></li> 
+       <li class="item_3"><a onclick="return sl(this,'','vaccInt-travel_3');" href="http://www.webmd.com/a-to-z-guides/travel-health-what-to-do-if-you-get-ill">Travel Health: What to Do if You Get Ill</a></li> 
+       <li class="item_4"><a onclick="return sl(this,'','vaccInt-travel_4');" href="http://www.webmd.com/a-to-z-guides/travel-health-precautions-along-the-way">Travel Health: Precautions Along the Way</a></li> 
+       <li class="item_5"><a onclick="return sl(this,'','vaccInt-travel_5');" href="http://www.webmd.com/a-to-z-guides/flu-shot-guidelines-for-adults">FAQ: Flu</a></li> 
+       <li class="item_6"><a onclick="return sl(this,'','vaccInt-travel_6');" href="https://vaccinetracker.webmd.com/">WebMD Vaccine Tracker: <br />Manage Your Family's Vaccines</a></li> 
+      </ol> 
+     </div> 
+     <div class="vaccInt_tab_top"></div> 
+     <div class="vaccInt_tab_side_left"></div> 
+     <div class="vaccInt_tab_side_right"></div> 
+     <div class="vaccInt_tab_bottom"></div> 
+    </div> 
+    <div id="vaccInt_all" class="vaccInt_tab_container"> 
+     <div class="vaccInt_tab"> 
+      <h2>More Vaccine Information</h2> 
+      <p>Learn more about which family members may need vaccines, and how you can keep track of everyone's immunizations.</p> 
+      <h4>Tools for you...</h4> 
+      <ol> 
+       <li class="item_1"><a onclick="return sl(this,'','vaccInt-all_1');" href="http://www.webmd.com/children/vaccines/vaccines-what-todays-parents-should-know/default.htm">Vaccine Special Report: What Parents Should Know</a></li> 
+       <li class="item_2"><a onclick="return sl(this,'','vaccInt-all_2');" href="http://www.webmd.com/children/vaccines/immunization-charts-for-children-and-adults">Vaccine Schedule</a></li> 
+       <li class="item_3"><a onclick="return sl(this,'','vaccInt-all_3');" href="http://www.webmd.com/cold-and-flu/flu-guide/children-and-flu-influenza">FAQ: Children and Flu</a></li> 
+       <li class="item_4"><a onclick="return sl(this,'','vaccInt-all_4');" href="http://www.webmd.com/a-to-z-guides/flu-shot-guidelines-for-adults">Flu Guidelines for Adults</a></li> 
+       <li class="item_5"><a onclick="return sl(this,'','vaccInt-all_5');" href="http://www.webmd.com/vaccines/slideshow-travel-health">Travel Health: 25 Ways to Stay Well When Abroad</a></li> 
+       <li class="item_6"><a onclick="return sl(this,'','vaccInt-all_6');" href="https://vaccinetracker.webmd.com/">WebMD Vaccine Tracker: Manage Your Family's Vaccines</a></li> 
+      </ol> 
+     </div> 
+     <div class="vaccInt_tab_top"></div> 
+     <div class="vaccInt_tab_side_left"></div> 
+     <div class="vaccInt_tab_side_right"></div> 
+     <div class="vaccInt_tab_bottom"></div> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+//<!--
+//Fix Flicker
+$('#vaccInt').addClass('js toc');
+//-->
+</script>
+  </div> 
+  <div id="ContentPane6">
+   <div id="ed-saud" class="segment_jumper"> 
+    <div class="segment_item segment_item_1"> 
+     <div class="segment_wrapper"> 
+      <span class="segment_icon"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/hc_redesign_2011/chapter_jumpers/icon_blocks_64x56.png" alt="icon_blocks_64x56" /> </span> 
+      <div class="segment_content"> 
+       <h3> <a href="http://www.webmd.com/children/vaccines/default.htm" onclick="return sl(this,'','ed-saud_1');">Children's Vaccines<i> </i></a> </h3> 
+       <p>Schedules, tips and important information.</p> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="segment_item segment_item_2"> 
+     <div class="segment_wrapper"> 
+      <span class="segment_icon"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/hc_redesign_2011/chapter_jumpers/icon_syringe_64x56.png" alt="icon_syringe_64x56" /> </span> 
+      <div class="segment_content"> 
+       <h3> <a href="http://www.webmd.com/children/vaccines/vaccines-what-todays-parents-should-know/vaccine-guide-risks-vs-benefits/default.htm" onclick="return sl(this,'','ed-saud_2');">Vaccine Guide<i> </i></a> </h3> 
+       <p>Vaccine benefits, side effects, and ingredients.</p> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="segment_item segment_item_3"> 
+     <div class="segment_wrapper"> 
+      <span class="segment_icon"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/hc_redesign_2011/chapter_jumpers/icon_suit_case_64x56.png" alt="icon_suit_case_64x56" /> </span> 
+      <div class="segment_content"> 
+       <h3> <a href="http://www.webmd.com/vaccines/slideshow-travel-health" onclick="return sl(this,'','ed-saud_3');">Travel Vaccines and More<i> </i></a> </h3> 
+       <p>Stay well abroad.</p> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="segment_item segment_item_4 last"> 
+     <div class="segment_wrapper"> 
+      <span class="segment_icon"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/hc_redesign_2011/chapter_jumpers/icon_question_64x56.png" alt="icon_question_64x56" /> </span> 
+      <div class="segment_content"> 
+       <h3> <a href="http://www.webmd.com/vaccines/flu-shot-guidelines-for-adults" onclick="return sl(this,'','ed-saud_4');">Flu FAQ<i> </i></a> </h3> 
+       <p>What you should know about the Flu Shot.</p> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane7">
+   <div class="latest-headlines"> 
+    <div class="subheaderBar"> 
+     <span class="rss"> <a id="rssFeedLink" class="rss_link" href="http://rssfeeds.webmd.com/rss/rss.aspx" onclick="return sl(this,'','nl-lcnwsftr_rss');">RSS Feed</a> | <a href="http://www.webmd.com/rss/default.htm" onclick="return sl(this,'','nl-lcnwsftr_hlp');">Help</a></span> 
+     <h2>Latest Headlines</h2> 
+    </div> 
+    <script type="text/javascript"><!--
+/* Create a feed to match the center_ID variable with the RSS FeedID to pass to the URL */
+var rssFeeds = [
+    {"centerName": "ADD/ADHD","centerID": "1178","feedID": "1001"},
+    {"centerName": "Allergies","centerID": "893","feedID": "1004"},
+    {"centerName": "Alzheimer's","centerID": "1030","feedID": "1005"},
+    {"centerName": "Anxiety & Panic Disorders","centerID": "648","feedID": "1007"},
+    {"centerName": "Arthritis","centerID": "1194","feedID": "1008"},
+    {"centerName": "Asthma","centerID": "947","feedID": "1009"},
+    {"centerName": "Back Pain","centerID": "972","feedID": "1010"},
+	{"centerName": "Balance","centerID": "840","feedID": "1081"},
+    {"centerName": "Bipolar Disorder","centerID": "694","feedID": "1013"},
+    {"centerName": "Breast Cancer","centerID": "1074","feedID": "1020"},
+    {"centerName": "Cancer","centerID": "848","feedID": "1022"},
+	{"centerName": "Cats","centerID": "2935","feedID": "1698"},
+    {"centerName": "Cholesterol Management","centerID": "1017","feedID": "1026"},
+    {"centerName": "Cold & Flu","centerID": "1202","feedID": "1029"},
+    {"centerName": "Crohn's Disease","centerID": "1018","feedID": "1119"},
+    {"centerName": "Depression","centerID": "1020","feedID": "1032"},
+    {"centerName": "Diabetes","centerID": "1037","feedID": "1033"},
+	{"centerName": "Diet & Weight Loss","centerID": "1004","feedID": "1115"},
+	{"centerName": "Dogs","centerID": "2936","feedID": "1697"},
+	{"centerName": "Fitness & Exercise","centerID": "960","feedID": "1046"},
+	{"centerName": "Food & Cooking","centerID": "745","feedID": "1047"},
+    {"centerName": "Hearth Health","centerID": "948","feedID": "1056"},
+    {"centerName": "Heartburn/GERD","centerID": "1134","feedID": "1057"},
+    {"centerName": "Hypertension/High Blood Pressure","centerID": "1011","feedID": "1063"},
+    {"centerName": "Incontinence/OAB","centerID": "961","feedID": "1112"},
+    {"centerName": "Lupus","centerID": "829","feedID": "1073"},
+    {"centerName": "Menopause","centerID": "789","feedID": "1077"},
+    {"centerName": "Migraines/Headaches","centerID": "903","feedID": "1080"},
+    {"centerName": "Oral Health","centerID": "872","feedID": "1085"},
+    {"centerName": "Osteoporosis","centerID": "1166","feedID": "1088"},
+	{"centerName": "Parenting","centerID": "1190","feedID": "1091"},
+	{"centerName": "Pets","centerID": "2934","feedID": "1696"},
+	{"centerName": "Pregnancy","centerID": "793","feedID": "1096"},
+	{"centerName": "Sex & Relationships","centerID": "865","feedID": "1101"},
+	{"centerName": "Skin & Beauty","centerID": "1013","feedID": "1011"},
+    {"centerName": "Skin Problems & Treatments","centerID": "1028","feedID": "1105"},
+    {"centerName": "Sleep Disorders","centerID": "1206","feedID": "1106"}
+];
+
+var feedID = "";
+    feedURL = document.getElementById('rssFeedLink');
+    for (i=0;i<rssFeeds.length;i++) {				
+        curCenter = rssFeeds[i].centerID;
+        if (curCenter == center_id) {
+        feedID = rssFeeds[i].feedID;
+        if(feedID=="1696"||feedID=="1697"||feedID=="1698"){
+			feedURL.href = feedURL.href + "?list=pets&channel=" + feedID;
+		}else{
+			feedURL.href = feedURL.href + "?cid=" + feedID;
+		}
+        break;
+        }
+    }
+
+//--></script> 
+    <div class="editorial"> 
+     <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/healthday/2013/02/vaccination.jpg" alt="Thumbnail Image:States May Be Getting Stricter on Child Vaccine Exemptions" class="icon" /> 
+     <h3> <a href="http://www.webmd.com/children/vaccines/news/20140211/states-may-be-getting-stricter-on-child-vaccine-exemptions" onclick="return sl(this,'','nl-lcnwsftr_1-1');">States May Be Getting Stricter on Child Vaccine Exemptions</a> </h3> 
+     <p>Study finds bills to expand parental opt-outs are failing, while others to limit them have passed</p> 
+     <p> <a class="read_link" href="http://www.webmd.com/children/vaccines/news/20140211/states-may-be-getting-stricter-on-child-vaccine-exemptions" onclick="return sl(this,'','nl-lcnwsftr_1-more');">Read More</a> </p> 
+    </div> 
+    <div class="features"> 
+     <div class="features_grp col_1"> 
+      <h4 class="title">Top Stories</h4> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/vaccines/news/20140206/many-us-adults-not-getting-key-vaccines-cdc" onclick="return sl(this,'','nl-lcnwsftr_2-1');">Many U.S. Adults Not Getting Key Vaccines: CDC</a> </li> 
+       <li> <a href="http://www.webmd.com/children/vaccines/features/whooping-cough-rising-despite-new-vaccine" onclick="return sl(this,'','nl-lcnwsftr_2-2');">Why Whooping Cough Is Rising Despite a New Vaccine</a> </li> 
+       <li> <a href="http://www.webmd.com/children/vaccines/news/20131205/measles-still-a-threat-us-health-officials-warn" onclick="return sl(this,'','nl-lcnwsftr_2-3');">Measles Still a Threat, U.S. Health Officials Warn</a> </li> 
+       <li class="more"> <a href="http://www.webmd.com/vaccines/news-features" onclick="return sl(this,'','nl-lcnwsftr_2-more');">More Top Stories</a> </li> 
+      </ul> 
+     </div> 
+     <div class="features_grp col_2"> 
+      <h4 class="title">Related Links</h4> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/baby/pregnancy-is-it-safe-to-get-vaccinations" onclick="return sl(this,'','nl-lcnwsftr_3-1');">Is It Safe to Get Vaccines During Pregnancy?</a> </li> 
+       <li> <a href="http://www.webmd.com/vaccines/what-you-should-know-11/quiz-adult-vaccines" onclick="return sl(this,'','nl-lcnwsftr_3-2');">Preventable Diseases: Do You Know the Stakes?</a> </li> 
+       <li> <a href="http://www.webmd.com/children/vaccines/flu-shot-nasal-spray" onclick="return sl(this,'','nl-lcnwsftr_3-3');">Flu Shot vs. Nasal Spray </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9">
+   <div class="multi-grp-linked-list"> 
+    <h3 class="no_description">Top Vaccine Searches</h3> 
+    <div class="ord-lists layout_3_col"> 
+     <div class="col_1"> 
+      <ul> 
+       <li> <span class="number">1</span> <a href="http://www.webmd.com/vaccines/features/shingles-vaccine-for-adults" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_1');">Shingles Vaccine</a> </li> 
+       <li> <span class="number">2</span> <a href="http://www.webmd.com/vaccines/features/whooping-cough-vaccine-for-adults" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_2');">Whooping Cough Vaccine</a> </li> 
+       <li> <span class="number">3</span> <a href="http://www.webmd.com/vaccines/adult-hpv-vaccine-guidelines" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_3');">HPV Vaccine</a> </li> 
+       <li> <span class="number">4</span> <a class="type_ss" href="http://www.webmd.com/vaccines/slideshow-travel-health" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_4');">Travel Vaccines<i> </i></a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_2"> 
+      <ul> 
+       <li> <span class="number">5</span> <a href="http://www.webmd.com/vaccines/chickenpox-varicella-vaccine-guidelines-for-adults" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_5');">Chickenpox Vaccine</a> </li> 
+       <li> <span class="number">6</span> <a href="http://www.webmd.com/baby/pregnancy-is-it-safe-to-get-vaccinations" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_6');">Vaccines and Pregnancy</a> </li> 
+       <li> <span class="number">7</span> <a href="http://www.webmd.com/vaccines/flu-shot-guidelines-for-adults" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_7');">Flu Shot</a> </li> 
+       <li> <span class="number">8</span> <a href="http://www.webmd.com/vaccines/meningococcal-vaccine-for-adults" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_8');">Meningococcal Vaccine</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_3"> 
+      <ul> 
+       <li> <span class="number">9</span> <a href="http://www.webmd.com/vaccines/adult-mmr-vaccine-guidelines" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_9');">MMR Vaccine</a> </li> 
+       <li> <span class="number">10</span> <a href="http://www.webmd.com/vaccines/tc/smallpox-frequently-asked-questions" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_10');">Smallpox Vaccine</a> </li> 
+       <li> <span class="number">11</span> <a class="type_vid" href="http://www.webmd.com/video/pneumonia-vaccine" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_11');">Pneumonia Vaccine<i> </i></a> </li> 
+       <li> <span class="number">12</span> <a href="http://www.webmd.com/vaccines/hepatitis-a-vaccine-for-adults" onclick="return sl(this,'Page Refresh(Default)','lln-topsrch_12');">Hepatitis A Vaccine</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane10">
+   <div id="commgrp" class="community two_col"> 
+    <h2>WebMD Community: Vaccine Conversations</h2> 
+    <h3 class="tagline"><a href="" onclick="">Community. Experts. Support.</a> </h3> 
+    <div class="layout_col_1"> 
+     <div class="community_grp"> 
+      <h3>Community</h3> 
+      <ul> 
+       <li> <a href="http://exchanges.webmd.com/parenting-exchange" onclick="return sl(this,'','commgrp_1-1');">WebMD Parenting Community</a> </li> 
+       <li> <a href="http://exchanges.webmd.com/cold-and-flu-exchange" onclick="return sl(this,'','commgrp_1-2');">WebMD Cold and Flu Community</a> </li> 
+       <li class="see_all_link"> <a href="http://exchanges.webmd.com/default.htm" onclick="return sl(this,'','commgrp_1-mr');">See All Communities</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="layout_col_2"> 
+     <div class="community_grp"> 
+      <h3>Expert Blogs</h3> 
+      <ul> 
+       <li> <a href="http://blogs.webmd.com/webmd-guests/2013/10/to-vaccinate-or-not-to-vaccinate-is-that-really-a-question.html" onclick="return sl(this,'','commgrp_2-1');">The Case for Vaccinations </a> </li> 
+       <li> <a href="http://blogs.webmd.com/all-ears/2011/06/shorter-needles-for-flu-vaccine-thats-ok-with-me.html" onclick="return sl(this,'','commgrp_2-2');">Shorter Needles -- That's OK With Me</a> </li> 
+       <li> <a href="http://exchanges.webmd.com/webmd-exchanges/blogs" onclick="return sl(this,'','commgrp_2-3');">See All Blogs</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane11">
+   <div> 
+    <div id="rightAd_fmt"> 
+     <iframe title="Right ICM" width="308" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=933907903&amp;tile=920309625&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=12404&amp;scent=&amp;pos=5003&amp;xpg=6034&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fvaccines%2fdefault&amp;artid=091e9c5e807a4a1c&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_gen1_vac_b01_b02_j10_b05_b06_b26_k7_cust1_age2_a630_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=933907903&amp;amp;tile=920309625&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=12404&amp;amp;scent=&amp;amp;pos=5003&amp;amp;xpg=6034&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fvaccines%2fdefault&amp;amp;artid=091e9c5e807a4a1c&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_gen1_vac_b01_b02_j10_b05_b06_b26_k7_cust1_age2_a630_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#rightAd_Iframe_r1").load(function() { $("#rightAd_top_fmt").addClass("loaded"); $(".rightAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "6034";
+			var secTopId = "";
+		</script>
+   <div id="ad-cw" class="cw_btm_300x250_rdr"> 
+    <div class="cw_btm_ad_top_fmt"> 
+    </div> 
+    <div id="cw_btm_ad_300x250" class="cw_btm_ad_BG_fmt"> 
+     <iframe id="cw_btm_300x250Ad_Iframe" title="Bottom Advertisement Frame" width="300" height="250" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=933907903&amp;tile=920309625&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=12404&amp;scent=&amp;pos=404&amp;xpg=6034&amp;sec=&amp;au1=&amp;au2=&amp;uri=%2fvaccines%2fdefault&amp;artid=091e9c5e807a4a1c&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_gen1_vac_b01_b02_j10_b05_b06_b26_k7_cust1_age2_a630_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=933907903&amp;amp;tile=920309625&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=12404&amp;amp;scent=&amp;amp;pos=404&amp;amp;xpg=6034&amp;amp;sec=&amp;amp;au1=&amp;amp;au2=&amp;amp;uri=%2fvaccines%2fdefault&amp;amp;artid=091e9c5e807a4a1c&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_gen1_vac_b01_b02_j10_b05_b06_b26_k7_cust1_age2_a630_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#cw_btm_300x250Ad_Iframe").load(function() { $("#cw_btm_ad_top_fmt").addClass("loaded"); $(".cw_btm_ad_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+    <div class="cw_btm_ad_bottom_fmt"> 
+    </div> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "6034";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16">
+   <!--
+updated 07/13/11 at 6:40 EWS
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e43504"><metadata_section><i_chronicle_id>091e9c5e807397c0</i_chronicle_id><r_object_id>091e9c5e80e43504</r_object_id><title>Vaccine Schedule for Adults</title><object_name>Vaccine_Schedule_for_Adults.xml</object_name><content_template>consumer_article_Health_Ref.xml</content_template><r_object_id>091e9c5e80e43504</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80bdc812</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>01/01/2013 00:00:00</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>01/01/2014 00:00:00</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80019138</r_object_id><wbmd_bus_comp_nm>WebMD</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e802a487f" directive="imageurl" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 2013 WebMD, LLC. All rights reserved.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="11" wbmd_disp_nm="Disease &amp; Condition - Prevention / Wellness"></wbmd_med_ref_type><wbmd_wdw_ttl>Vaccine Schedule for Adults: Types of Vaccines and When You Need Them</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>03/21/2013 23:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e804aeeb1</r_object_id><wbmd_publ_name>WebMD Medical Reference</wbmd_publ_name><wbmd_publ_type>1</wbmd_publ_type><wbmd_publ_display>WebMD Medical Reference</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>WebMD provides a vaccine schedule for adults that includes the key immunizations you should get.
+</wbmd_desc_meta><wbmd_orig_pub_dt>01/27/2011 23:00:00</wbmd_orig_pub_dt><wbmd_desc_user>WebMD provides a vaccine schedule for adults that includes the key immunizations you should get.
+</wbmd_desc_user><wbmd_lk_ttl>Vaccine Schedule for Adults: Types of Vaccines and When You Need Them</wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e80d043c3</r_object_id><wbmd_first_nm>David</wbmd_first_nm><wbmd_middle_name>T.</wbmd_middle_name><wbmd_lst_nm>Derrer</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id chronic_id="091e9c5e80c66d2f" directive="friendlyurl" path="/webmd/consumer_assets/editorial/articles/biographies/d/derrer_david.xml" object_type="wbmd_cons_article"></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>adult vaccines, vaccine schedule, adult vaccinations, vaccines for adults, hepatitis a, hepatitis b, flu shot, shingles, menengitis, pneumonia, tetanus, whooping cough, hpv, mmr, chicken pox</wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim><r_object_id>091e9c5e8028122f</r_object_id><wbmd_first_nm>Mary Anne</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Dunkin</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id></wbmd_bio_obj_id><wbmd_person_suffix_group></wbmd_person_suffix_group></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>B15</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>B16</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>gen.1</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>vac</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>B01</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>B02</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>J10</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>A33</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>B05</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>B06</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>B26</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>K7</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>H16</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>R05</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>Age.2</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>A63.0</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e43504</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="6034" wbmd_disp_nm="Adult Vaccines"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="1" wbmd_disp_nm="Prevention"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="8" wbmd_disp_nm="&gt; 70"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="18" wbmd_disp_nm="Elder adult (61-70)"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="17" wbmd_disp_nm="Older adult (51-60)"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="16" wbmd_disp_nm="Mid-adult (41-50)"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="15" wbmd_disp_nm="Adult (31-40)"></wbmd_c_audnc_age><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="14" wbmd_disp_nm="Young adult (18-30)"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="11" wbmd_disp_nm="All USA"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4286" wbmd_disp_nm="Infection"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1172" wbmd_disp_nm="Adult Vaccines"></wbmd_c_channel_id><wbmd_c_frnd_nm>adult-vaccine-schedule</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="091e9c5e80d13181"></wbmd_c_mini_article></metadata_section><content_section><cons_health_ref><title>Vaccine Schedule for Adults</title><pages><page><section_group><section_header></section_header><section_text><p>The need for vaccinations doesn’t stop when you become an adult. Adult vaccinations, just like <a chronic_id="091e9c5e8001d4d2" crosslinkid="43106" directive="friendlyurl" externalid="091e9c5e8001d4d2" href="/webmd/consumer_assets/controlled_content/healthwise/special/Immunizations-Childhood_Immunizations.xml" keywordid="28415" keywordsetid="7409" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/Immunizations-Childhood_Immunizations.xml">childhood immunizations</a>, are important for lifelong good health. While some vaccinations are prescribed only for adults, others are for adults who did not receive the vaccines &#45;&#45; or in some cases, the illnesses they were designed to protect against &#45;&#45; in childhood.</p><p>WebMD presents this vaccine schedule, offering basic information about the most common vaccines for adults. In you are traveling to developing countries, your doctor may recommend others. On the other hand, if you are <a chronic_id="091e9c5e80042fa3" crosslinkid="507" directive="friendlyurl" externalid="091e9c5e80042fa3" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Pregnancy and Baby Center/page_Pregnancy and Baby Center_091e9c5e80042fa3.xml" keywordid="28283" keywordsetid="6185" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Pregnancy and Baby Center/page_Pregnancy and Baby Center_091e9c5e80042fa3.xml">pregnant</a> or have certain health problems or <a chronic_id="091e9c5e80022f86" crosslinkid="492" directive="friendlyurl" externalid="091e9c5e80022f86" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Allergies Health Center/page_Allergies Health Center_091e9c5e80022f86.xml" keywordid="16266" keywordsetid="4348" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Allergies Health Center/page_Allergies Health Center_091e9c5e80022f86.xml">allergies</a>, not all of these vaccinations may be right for you.</p><p>Your health care provider is the best source of information about the vaccinations you need.</p></section_text></section_group><section_group><section_header>Flu Vaccine Schedule</section_header><section_text><p><b>How it’s given: </b>By injection or nasal spray.</p><p><b>How often/when to get it: </b>Once a year, typically starting in September through the end of the flu season. The earlier you receive it, the better your protection.</p><p><b>Who should get it: </b>All adults should receive the vaccine in some form. The nasal spray vaccine is approved for adults up to age 49 who are in good health and not pregnant. <span style=" background-color: #ffffff;">There are also options such as egg-free shots for those with severe egg allergies, shots using smaller needles that don't penetrate as deeply, and high-dose injections for the </span><span><span style=" background-color: #ffffff;">more vulnerable</span></span><span style=" background-color: #ffffff;"> elderly.</span></p></section_text></section_group><section_group><section_header>Pneumococcal Vaccine Schedule</section_header><section_text><p><b>How it is given: </b>By injection.</p><p><b>How often/when to get it: </b>One-time vaccination for healthy adults. Re-vaccination after five years is recommended for people with chronic kidney failure or other conditions that lower resistance to infection and for people over 65 who received the first vaccination before age 65.</p><p><b>Who should get it: </b>All adults 65 years of age and older; adults 64 and younger who:</p><ul><li>Have chronic health problems such as <a chronic_id="091e9c5e8002337e" crosslinkid="503" directive="friendlyurl" externalid="091e9c5e8002337e" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Heart Disease Health Center/page_Heart Disease Health Center_091e9c5e8002337e.xml" keywordid="20803" keywordsetid="5338" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Heart Disease Health Center/page_Heart Disease Health Center_091e9c5e8002337e.xml">heart disease</a>, <a chronic_id="091e9c5e803c43a7" crosslinkid="71454" directive="friendlyurl" externalid="091e9c5e803c43a7" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/lung_diseases_overview.xml" keywordid="60243" keywordsetid="26553" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/lung_diseases_overview.xml">lung disease</a>, <a chronic_id="091e9c5e8001dc03" crosslinkid="1511386" directive="friendlyurl" externalid="091e9c5e8001dc03" href="/webmd/consumer_assets/controlled_content/healthwise/major/Sickle_Cell_Disease-Topic_Overview.xml" keywordid="26945" keywordsetid="6866" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/Sickle_Cell_Disease-Topic_Overview.xml">sickle cell</a> disease, <a chronic_id="091e9c5e80024621" crosslinkid="520" directive="friendlyurl" externalid="091e9c5e80024621" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diabetes Health Center/page_Diabetes Health Center_091e9c5e80024621.xml" keywordid="19051" keywordsetid="4961" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diabetes Health Center/page_Diabetes Health Center_091e9c5e80024621.xml">diabetes</a>, <a chronic_id="091e9c5e800b9214" crosslinkid="135" directive="friendlyurl" externalid="091e9c5e800b9214" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Alcohol Abuse Health Center/page_Alcohol Abuse Health Center_091e9c5e800b9214.xml" keywordid="16237" keywordsetid="4340" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Alcohol Abuse Health Center/page_Alcohol Abuse Health Center_091e9c5e800b9214.xml">alcoholism</a>, <a chronic_id="091e9c5e800079b2" crosslinkid="2113" directive="friendlyurl" externalid="091e9c5e800079b2" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_cirrhosis_liver.xml" keywordid="63098" keywordsetid="28622" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_cirrhosis_liver.xml">cirrhosis</a>, leaks of cerebrospinal fluid, or a cochlear implant</li><li>Have a disease that lowers the body’s resistance to infection, including lymphoma or <a chronic_id="091e9c5e800091fa" crosslinkid="6006" directive="friendlyurl" externalid="091e9c5e800091fa" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/other_cancers/overview_types_of/understanding_leukemia_basics.xml" keywordid="22029" keywordsetid="5642" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/other_cancers/overview_types_of/understanding_leukemia_basics.xml">leukemia</a>, kidney failure, HIV infection, or AIDS</li><li>Take <a chronic_id="" crosslinkid="31476" directive="friendlyurl" externalid="09D1C68D81D74991" href="http://www.webmd.com/drugs/index-drugs.aspx" keywordid="26920" keywordsetid="7054" object_type="" path="/webmdhttp://www.webmd.com/drugs/index-drugs.aspx">medication</a> or treatment that lowers resistance to infection, including steroids, some cancer drugs, and <a chronic_id="091e9c5e804d6f9a" crosslinkid="1049001" directive="friendlyurl" externalid="091e9c5e804d6f9a" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_to_expect_from_radiation_therapy.xml" keywordid="61839" keywordsetid="27678" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_to_expect_from_radiation_therapy.xml">radiation</a> therapy</li><li>Smoke or have asthma</li><li>Live in a nursing home or long-term care facility</li></ul><p> </p></section_text></section_group><section_group><section_header>Tetanus, Diphtheria, Pertussis (Td, Tdap) Vaccine Schedule</section_header><section_text><p><b>How it is given: </b>As a single injection that offers protection against all three diseases.</p><p><b>How often/when to get it:</b> One-time Tdap vaccination followed by Td booster every 10 years.</p><p><b>Who should get it? </b>Adults up to age 64 who have not previously had a Tdap vaccination in place of Td and adults age 65 and older who have not previously received Tdap and have or anticipate having close contact with an <a chronic_id="091e9c5e802f409a" crosslinkid="69852" directive="friendlyurl" externalid="091e9c5e802f409a" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Baby Center TOC/page_Baby Center TOC_091e9c5e802f409a.xml" keywordid="28183" keywordsetid="7345" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Baby Center TOC/page_Baby Center TOC_091e9c5e802f409a.xml">infant</a> less than 12 months of age. All adults should receive subsequent Td boosters. Also, pregnant women are advised to receive the Tdap vaccine, preferably between 27 and 36 weeks' gestation, <span style=" background-color: #ffffff;">with each pregnancy.</span></p><p> </p></section_text></section_group></page><page><section_group><section_header>Hepatitis A Vaccine Schedule</section_header><section_text><p><b>How it is given: </b>By injection.</p><p><b>How often/when to get it: </b>First dose any time after age 1; second dose at least six months later.</p><p><b>Who should get it? </b>People of all ages who:</p><ul><li>Live in a community with a high rate of <a chronic_id="091e9c5e80033ae0" crosslinkid="59" directive="friendlyurl" externalid="091e9c5e80033ae0" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hepatitis Health Center/page_Hepatitis Health Center_091e9c5e80033ae0.xml" keywordid="20885" keywordsetid="5361" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hepatitis Health Center/page_Hepatitis Health Center_091e9c5e80033ae0.xml">hepatitis</a> A</li><li>Are men having sex with other men</li><li>Use street drugs</li><li>Work in or travel to countries with high rates of hepatitis A</li><li>Have chronic <a chronic_id="091e9c5e80348a30" crosslinkid="73851" directive="friendlyurl" externalid="091e9c5e80348a30" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/liver_2.xml" keywordid="42790" keywordsetid="10463" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/liver_2.xml">liver</a> disease</li><li>Receive <a chronic_id="091e9c5e8056ea80" crosslinkid="1506783" directive="friendlyurl" externalid="091e9c5e8056ea80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml" keywordid="62984" keywordsetid="28542" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml">blood</a> products to help with clotting</li><li>Work with hepatitis A-infected animals or in a hepatitis A research setting</li></ul><p> </p></section_text></section_group><section_group><section_header>Hepatitis B Vaccine</section_header><section_text><p><b>How it is given: </b>By injection.</p><p><b>How often/when to get it:</b> In a series of three injections. The second is given one month after the first dose; the third dose should be given at least two months after the second, but at least four months after the first dose.</p><p><b>Who should get it? </b>Adults of all ages at risk for hepatitis B infection, including those who:</p><ul><li>Have diabetes</li><li>Have sex with or live in the same house with an infected person</li><li>Have sex with more than one partner</li><li>Are men having sex with other men</li><li>Seek treatment in a clinical for sexually transmitted diseases, <a chronic_id="" crosslinkid="31551" directive="friendlyurl" externalid="5C4BE2A4A9F6450B" href="http://www.webmd.com/hiv-aids/guide/HIV-AIDS-diagnosis-tests" keywordid="19385" keywordsetid="5006" object_type="" path="/webmdhttp://www.webmd.com/hiv-aids/guide/HIV-AIDS-diagnosis-tests">HIV testing</a> or treatment, or drug treatment</li><li>Inject drugs</li><li>Have end-stage kidney disease or are on hemodialysis</li><li>Have HIV infection</li><li>Work in or are a client of an institution for the developmentally disabled</li><li>Have chronic liver disease</li><li>Live in or travel for six months to a year in countries where hepatitis B is common</li><li>Are prisoners in correctional facilities</li></ul><p> </p></section_text></section_group><section_group><section_header>HPV vaccine (Human Papillomavirus) Schedule</section_header><section_text><p><b>How it is given: </b>In a series of three injections.</p><p><b>How often/when to get it: </b>Preferably in preteen years. The second shot is given one to two months after the first; the third shot is given six months after the first.</p><p><b>Who should get it? </b>Young women<span style=" background-color: #ffffff;"> and some men </span>up to age 26 who did not receive it as <a chronic_id="091e9c5e8001d402" crosslinkid="44394" directive="friendlyurl" externalid="091e9c5e8001d402" href="/webmd/consumer_assets/controlled_content/healthwise/special/Growth_and_Development_Ages_11_to_14_Years-Overview.xml" keywordid="23977" keywordsetid="6199" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/Growth_and_Development_Ages_11_to_14_Years-Overview.xml">preteens</a> or teenagers, preferably before they have become sexually active.</p></section_text></section_group><section_group><section_header>MMR vaccine (Measles, Mumps, Rubella) Schedule</section_header><section_text><p><b>How it is given: </b>By a single injection that offers protection against <a chronic_id="091e9c5e8001ab30" crosslinkid="48704" directive="friendlyurl" externalid="091e9c5e8001ab30" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Measles_Rubeola-Topic_Overview.xml" keywordid="26747" keywordsetid="7022" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Measles_Rubeola-Topic_Overview.xml">measles</a>, <a chronic_id="091e9c5e8001aba1" crosslinkid="48702" directive="friendlyurl" externalid="091e9c5e8001aba1" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Mumps-Topic_Overview.xml" keywordid="23102" keywordsetid="5943" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Mumps-Topic_Overview.xml">mumps</a>, and <a chronic_id="091e9c5e8001ab35" crosslinkid="43984" directive="friendlyurl" externalid="091e9c5e8001ab35" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Rubella_German_Measles-Topic_Overview.xml" keywordid="63052" keywordsetid="28585" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Rubella_German_Measles-Topic_Overview.xml">rubella</a>.</p><p><b>How often/when to get it: </b>One injection, in some cases followed by a booster four weeks later.</p><p><b>Who should get it? </b>Non-pregnant adults who were born after 1957 and have not had measles, mumps, and rubella or do not have lab evidence of immunity should receive one or more doses.</p></section_text></section_group><section_group><section_header>Varicella (Chickenpox) Schedule</section_header><section_text><p><b>How it is given: </b>By injection.</p><p><b>How often/when to get it</b>: Any time, in two doses given at least four weeks apart.</p><p><b>Who should get it? </b>Healthy, non-pregnant adults who have not previously had chickenpox and have no evidence of immunity to chickenpox.</p></section_text></section_group></page><page><section_group><section_header>Meningococcal Vaccine Schedule</section_header><section_text><p><b>How it is given: </b>By injection.</p><p><b>How often/when to get it: </b>One-time immunization, typically in adolescence, with boosters as recommended by doctor.</p><p><b>Who should get it? </b>Adults who have not been vaccinated should receive the vaccination if they:</p><ul type="disc"><li>Are a college freshman living in a dormitory</li><li>Are a military recruit</li><li>Have a damaged <a chronic_id="091e9c5e8034e3f1" crosslinkid="70311" directive="friendlyurl" externalid="091e9c5e8034e3f1" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_spleen.xml" keywordid="58450" keywordsetid="25859" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_spleen.xml">spleen</a> or their spleen has been removed</li><li>Have terminal complement deficiency</li><li>Are a microbiologist routinely exposed to <i>Neisseria meningitidis </i>(the bacterium that causes <a chronic_id="091e9c5e80008554" crosslinkid="7470" directive="friendlyurl" externalid="091e9c5e80008554" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/miscellaneous/understanding_meningitis_basics.xml" keywordid="22811" keywordsetid="5865" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/miscellaneous/understanding_meningitis_basics.xml">meningitis</a>)</li><li>Are traveling to or living in countries in which the disease is common</li></ul><p> </p></section_text></section_group><section_group><section_header>Shingles Vaccine Schedule</section_header><section_text><p><b>How it is given: </b>By injection.</p><p><b>How often/when to get it: </b>Once, at age 60 or later.</p><p><b>Who should get it? </b>All people age 60 or older unless they have health problems or receive medications or treatments that affect the body’s ability to fight infection.</p></section_text></section_group></page></pages><citations><p>SOURCES:<br></br>
+News release, FDA.</p><p>CDC web site: ''Key Facts About Seasonal Flu Vaccine,'' ''Pneumococcal Disease In-Short,'' ''Hepatitis A In-Short,'' ''Hepatitis B In-Short,'' ''HPV Vaccine - Questions &amp; Answers,'' ''Meningococcal: Who Needs to be Vaccinated?'' ''Shingles Vaccination: What You Need to Know,'' and ''Varicella (Chickenpox) Vaccine Q&amp;A.'' <i>Morbidity and Mortality Weekly Report</i>: ''Updated Recommendations for Use of Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis (Tdap) Vaccine from the Advisory Committee on Immunization Practices, 2010.'' ''Adult Immunization Schedules, United States, 2013.''</p><p> Immunization Action Coalition: ''Vaccinations for Adults.''</p><p>CDC Advisory Committee on Immunization Practices. </p></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/vaccines/adult-vaccine-schedule" owner="false"><breadcrumb><bread piece="Vaccines Health Center" prefix="www" friendlyurl="/vaccines/default.htm"></bread></breadcrumb><centers><Health id="12404" name="health center" chronicid="091e9c5e807a4a1c" prefix="www" friendlyurl="/vaccines/default.htm" type="">Adult Vaccines</Health></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/adult-vaccine-schedule" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e80c66d2f" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/biographies/d/derrer_david.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/david-derrer"></target><target siteid="8" name="" prefix="www" friendlyurl="/david-derrer"></target></object><object chronic_id="091e9c5e8001d4d2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/immunizations-childhood_immunizations_special_hw254923.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/vaccines/tc/immunizations-childhood-immunizations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/immunizations-childhood-immunizations"></target></object><object chronic_id="091e9c5e80042fa3" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Pregnancy and Baby Center/page_Pregnancy and Baby Center_091e9c5e80042fa3.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/baby/pregnancy-toc-old"></target><target siteid="8" name="" prefix="www" friendlyurl="/baby/default.htm" umtchronicleid="091e9c5e80688ded"></target></object><object chronic_id="091e9c5e80022f86" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Allergies Health Center/page_Allergies Health Center_091e9c5e80022f86.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/allergies/default.htm" umtchronicleid="091e9c5e80686cc0"></target><target siteid="8" name="" prefix="www" friendlyurl="/allergies/default.htm" umtchronicleid="091e9c5e80686cc0"></target></object><object chronic_id="091e9c5e8002337e" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Heart Disease Health Center/page_Heart Disease Health Center_091e9c5e8002337e.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/heart-disease/default.htm"></target><target siteid="8" name="" prefix="www" friendlyurl="/heart-disease/default.htm" umtchronicleid="091e9c5e80688800"></target></object><object chronic_id="091e9c5e803c43a7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/lung_diseases_overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/lung/lung-diseases-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/lung-diseases-overview"></target></object><object chronic_id="091e9c5e8001dc03" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/sickle_cell_disease-topic_overview_major_hw254176.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/sickle-cell-disease-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/sickle-cell-disease-topic-overview"></target></object><object chronic_id="091e9c5e80024621" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diabetes Health Center/page_Diabetes Health Center_091e9c5e80024621.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/diabetes/default.htm"></target><target siteid="8" name="" prefix="www" friendlyurl="/diabetes/default.htm" umtchronicleid="091e9c5e80686ee4"></target></object><object chronic_id="091e9c5e800b9214" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Alcohol Abuse Health Center/page_Alcohol Abuse Health Center_091e9c5e800b9214.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/mental-health/alcohol-abuse/default.htm"></target></object><object chronic_id="091e9c5e800079b2" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_cirrhosis_liver.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/cirrhosis-liver"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/cirrhosis-liver"></target></object><object chronic_id="091e9c5e800091fa" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/other_cancers/overview_types_of/understanding_leukemia_basics.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cancer/understanding-leukemia-basics"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/understanding-leukemia-basics"></target></object><object chronic_id="091e9c5e804d6f9a" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/cancer/miscellaneous/what_to_expect_from_radiation_therapy.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cancer/what-to-expect-from-radiation-therapy"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/what-to-expect-from-radiation-therapy"></target></object><object chronic_id="091e9c5e802f409a" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Baby Center TOC/page_Baby Center TOC_091e9c5e802f409a.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/parenting/baby/baby-toc-old"></target></object><object chronic_id="091e9c5e80033ae0" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hepatitis Health Center/page_Hepatitis Health Center_091e9c5e80033ae0.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/hepatitis/default.htm"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/ss/slideshow-hepatitis-overview" umtchronicleid="091e9c5e8066989b"></target></object><object chronic_id="091e9c5e80348a30" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/liver_2.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-liver"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-liver"></target></object><object chronic_id="091e9c5e8056ea80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/anatomy-picture-of-blood"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/anatomy-picture-of-blood"></target></object><object chronic_id="091e9c5e8001d402" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/growth_and_development_ages_11_to_14_years-topic_overview_special_te7234.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/growth-and-development-ages-11-to-14-years-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/growth-and-development-ages-11-to-14-years-overview"></target></object><object chronic_id="091e9c5e8001ab30" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Measles_Rubeola-Topic_Overview.wxml"><target siteid="3" name="" prefix="children" friendlyurl="/tc/measles-rubeola-topic-overview" status="deleted"></target><target siteid="8" name="" prefix="www" friendlyurl="/children/tc/measles-rubeola-topic-overview" status="deleted"></target></object><object chronic_id="091e9c5e8001aba1" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Mumps-Topic_Overview.wxml"><target siteid="3" name="" prefix="children" friendlyurl="/tc/mumps-topic-overview" status="deleted"></target><target siteid="8" name="" prefix="www" friendlyurl="/children/tc/mumps-topic-overview" status="deleted"></target></object><object chronic_id="091e9c5e8001ab35" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Rubella_German_Measles-Topic_Overview.wxml"><target siteid="3" name="" prefix="children" friendlyurl="/tc/rubella-german-measles-topic-overview" status="deleted"></target><target siteid="8" name="" prefix="www" friendlyurl="/children/tc/rubella-german-measles-topic-overview" status="deleted"></target></object><object chronic_id="091e9c5e8034e3f1" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_spleen.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-spleen"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-spleen"></target></object><object chronic_id="091e9c5e80008554" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/infectious_disease/miscellaneous/understanding_meningitis_basics.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/understanding-meningitis-basics"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/understanding-meningitis-basics"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects><object chronic_id="091e9c5e80d13181" path="/webmd/consumer_assets/editorial/short_text/call_outs/fully_programmed/health_care_reform/aca_preventive_screenings_all_adults.wxml"><webmd_rendition_expanded><content_expanded><wbmd_asset_expanded object_type="wbmd_cons_shrt_txt" id="091e9c5e80d1394e"><metadata_section_expanded><i_chronicle_id>091e9c5e80d13181</i_chronicle_id><r_object_id>091e9c5e80d1394e</r_object_id><title>ACA Preventive Screenings - All Adults</title><object_name>aca_preventive_screenings_all_adults.xml</object_name><content_template>consumer_article_ProgCallout.xml</content_template><r_object_id>091e9c5e80d1394e</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="104" wbmd_disp_nm="Article within Article"></wbmd_bus_ref><wbmd_cpyrt></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type></wbmd_med_ref_type><wbmd_wdw_ttl></wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta></wbmd_desc_meta><wbmd_orig_pub_dt>nulldate</wbmd_orig_pub_dt><wbmd_desc_user></wbmd_desc_user><wbmd_lk_ttl></wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords></wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80d1394e</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="4241" wbmd_disp_nm="Health Insurance and Affordable Care Act"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><r_object_id>091e9c5e80d1394e</r_object_id><wbmd_c_cons_parent_obj_id></wbmd_c_cons_parent_obj_id><wbmd_c_cons_term></wbmd_c_cons_term><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_channel_id>1074</wbmd_c_channel_id></metadata_section_expanded><content_section_expanded><prog_callout><callout_title_bar>Did You Know?</callout_title_bar><component><component_title></component_title><component_thumbnail></component_thumbnail><component_thumbnail_link></component_thumbnail_link><component_text><p>Under the Affordable Care Act, many health insurance plans will cover preventive care services, including checkups, vaccinations and screening tests, at no cost to you. <a href="http://www.webmd.com/health-insurance/at-a-glance-free-preventive-care" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/health-insurance/at-a-glance-free-preventive-care">Learn more</a>.</p><p><a href="http://www.webmd.com/health-insurance/default.htm" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.webmd.com/health-insurance/default.htm"><b>Health Insurance Center</b></a></p></component_text><break_section>0</break_section></component></prog_callout></content_section_expanded></wbmd_asset_expanded></content_expanded><friendlyurls_expanded></friendlyurls_expanded><referenced_objects_expanded></referenced_objects_expanded><container_hierarchy></container_hierarchy><expanded_objects_expanded></expanded_objects_expanded></webmd_rendition_expanded></object></expanded_objects><module_data><relatedLinks>Off</relatedLinks><articleLinkView>Page Refresh</articleLinkView><articleTitle chronic_id="091e9c5e807397c0" directive="friendlyurl" object_type="wbmd_cons_article" wbmd_lookup_type="" wbmd_storage_value=""></articleTitle></module_data></webmd_rendition>
+--> 
+   <div class="article_snippet_rdr">
+    <h3>Vaccine Schedule for Adults</h3>
+    <div class="snippet_fmt" id="asnip">
+     <p>The need for vaccinations doesn’t stop when you become an adult. Adult vaccinations, just like childhood immunizations, are important for lifelong good health. While some vaccinations are prescribed only for adults, others are for adults who did not receive the vaccines -- or in some cases, the illnesses they were designed to protect against -- in childhood.</p>
+     <p>WebMD presents this vaccine schedule, offering basic information about the most common vaccines for adults. In you are traveling to developing countries, your doctor may recommend others. On the other hand, if you are pregnant or have certain health problems or allergies, not all of these vaccinations may be right for you.</p>
+    </div>
+    <div class="snippet_link">
+     <a href="http://www.webmd.com/vaccines/adult-vaccine-schedule" onclick="return sl(this,'','asnip_1');">Vaccine Schedule for Adults</a>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

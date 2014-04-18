@@ -1,0 +1,689 @@
+<title>Using Nitroglycerin for Angina-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/heart-disease/guide/what-to-do-after-a-heart-attack" onclick="return sl(this,'','lln-toolsres_1');">After a Heart Attack</a></li>
+      <li id="x57"><a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/heart-healthy-diet" onclick="return sl(this,'','lln-toolsres_2');">A Diet To Lower Cholesterol</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/heart-disease/slideshow-visual-guide-to-heart-disease" class="type_ss" onclick="return sl(this,'','lln-toolsres_3');">A Visual Guide to Heart Disease<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','lln-toolsres_4');">Test Your Cholesterol Smarts</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/heart-disease/exercising-for-a-healthy-heart" onclick="return sl(this,'','lln-toolsres_5');">Exercising for a Healthy Heart</a></li>
+      <li id="x61"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e8085e992&amp;promo=1" onclick="return sl(this,'','lln-toolsres_6');">Heart-Healthy Living With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80ea66a2"><metadata_section><i_chronicle_id>091e9c5e8001d4e7</i_chronicle_id><r_object_id>091e9c5e80ea66a2</r_object_id><title>Topic Overview</title><object_name>using_nitroglycerin_for_angina-topic_overview_special_tp21161.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80ea66a2</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>special_tp21161</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Using Nitroglycerin for Angina-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378513</r_object_id><publ_i_chronicle_id>091e9c5e8001915d</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Special</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is nitroglycerin?Nitroglycerin is a vasodilator, a medicine that opens blood vessels to improve blood flow. It is used to treat angina-a type of chest pain-that happens when there is not enough blood flowing to the heart. To improve blood flow to the heart, nitroglycerin opens up (dilates) the arteries in the heart (coronary arteries), which improves symptoms and reduces how hard the heart ..</wbmd_desc_meta><wbmd_orig_pub_dt>02/13/2013 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is nitroglycerin?Nitroglycerin is a vasodilator, a medicine that opens blood vessels to improve blood flow. It is used to treat angina-a type of chest pain-that happens when there is not enough blood flowing to the heart. To improve blood flow to the heart, nitroglycerin opens up (dilates) the arteries in the heart (coronary arteries), which improves symptoms and reduces how hard the heart ..</wbmd_desc_user><wbmd_lk_ttl>Using Nitroglycerin for Angina-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Angina, Angina pectoris, chest discomfort, chest pain, nitroglycerin patch, nitroglycerin pill, nitroglycerin spray, sublingual nitroglycerin</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>R52</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80ea66a2</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1675" wbmd_disp_nm="Heart Disease"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1054" wbmd_disp_nm="Heart Disease"></wbmd_c_channel_id><wbmd_c_frnd_nm>Using-Nitroglycerin-for-Sudden-Chest-Pain-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is nitroglycerin?</section_header><section_type>SpecialSection</section_type><section_text><p><a chronic_id="" crossLinkId="66820" directive="friendlyurl" externalId="18030" href="http://www.webmd.com/drugs/drug-18030-nitroglycerin+oral.aspx" keywordId="55293" keywordSetId="22853" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-18030-nitroglycerin+oral.aspx">Nitroglycerin</a> is a
+			 vasodilator, a medicine that opens <a chronic_id="091e9c5e8056ea80" crossLinkId="1506783" directive="friendlyurl" externalId="091e9c5e8056ea80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml" keywordId="62987" keywordSetId="28544" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml">blood</a> vessels to improve blood flow. It is
+			 used to treat
+			 <a chronic_id="091e9c5e8001afe4" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/angina_definition_sta123258.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/angina_definition_sta123258.xml">angina</a> symptoms, such as <a chronic_id="091e9c5e80521096" crossLinkId="1514340" directive="friendlyurl" externalId="091e9c5e80521096" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/whats_causing_my_chest_pain.xml" keywordId="32938" keywordSetId="8361" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/whats_causing_my_chest_pain.xml">chest pain</a> or discomfort that happens when there
+			 is not enough blood flowing to the <a chronic_id="091e9c5e803739e7" crossLinkId="70400" directive="friendlyurl" externalId="091e9c5e803739e7" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.xml" keywordId="58691" keywordSetId="25969" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.xml">heart</a>. To improve blood flow to the heart,
+			 nitroglycerin opens up (dilates) the <a chronic_id="091e9c5e809d6a7d" crossLinkId="1551808" directive="friendlyurl" externalId="091e9c5e809d6a7d" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/arteries.xml" keywordId="70854" keywordSetId="31982" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/arteries.xml">arteries</a> in the heart (<a chronic_id="091e9c5e8001b084" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/coronary_arteries_definition_ue5252.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/coronary_arteries_definition_ue5252.xml">coronary arteries</a>), which improves symptoms and
+			 reduces how hard the heart has to work.</p><p>Nitroglycerin comes in
+			 quick-acting forms and long-acting forms.</p><p>Quick-acting forms of
+			 nitroglycerin are used to relieve <a chronic_id="091e9c5e800092ca" crossLinkId="23253" directive="friendlyurl" externalId="091e9c5e800092ca" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/Heart_Disease_Angina.xml" keywordId="6829" keywordSetId="794" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/Heart_Disease_Angina.xml">angina</a> or used just before
+			 activities that typically cause angina. The quick-acting forms include
+			 tablets or oral sprays. The tablets are placed under the <a chronic_id="091e9c5e8036685c" crossLinkId="70379" directive="friendlyurl" externalId="091e9c5e8036685c" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_tongue_2.xml" keywordId="58700" keywordSetId="25979" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_tongue_2.xml">tongue</a> (sublingual) or
+			 between the cheek and gum (buccal). The spray is used on or under the tongue.
+			 This topic covers these quick-acting forms of nitroglycerin.</p><p>Long-acting forms of nitroglycerin are used to prevent angina from
+			 happening. They are not used to stop sudden symptoms of angina. These long-acting forms
+			 include pills, tablets, <a chronic_id="091e9c5e80396037" crossLinkId="70837" directive="friendlyurl" externalId="091e9c5e80396037" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.xml" keywordId="60205" keywordSetId="26541" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.xml">skin</a> ointment, and skin patches. This topic does
+			 <b>not</b> cover these long-acting forms of
+			 nitroglycerin.</p><p>Your doctor will prescribe the right amount for you.
+			 Do not use another person's nitroglycerin.</p></section_text></section_group><section_group><section_header>When do I use quick-acting nitroglycerin?</section_header><section_type>SpecialSection</section_type><section_text><p>Your
+			 doctor will advise you when to use your nitroglycerin. In general, quick-acting
+			 nitroglycerin is used: </p><ul><li>To relieve sudden angina.</li><li>Before
+				stressful activities that can cause angina, such as walking uphill or having
+				sexual intercourse. </li></ul></section_text></section_group><section_group><section_header>How do I use quick-acting nitroglycerin?</section_header><section_type>SpecialSection</section_type><section_text><ul><li>Sit or lie down to take your nitroglycerin.
+				If you are driving, pull over and park the car. Taking nitroglycerin can lower
+				your <a chronic_id="091e9c5e802a073a" crossLinkId="59290" directive="friendlyurl" externalId="091e9c5e802a073a" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.xml" keywordId="31615" keywordSetId="8191" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.xml">blood pressure</a>, which could cause you to pass out if you are standing up.
+				</li><li> For sudden episodes of angina, use nitroglycerin in a tablet or
+				liquid spray form. 
+				<ul><li>Place the under-the-tongue (sublingual)
+					 tablet under your tongue. Leave it there until it dissolves. If you
+					 accidentally swallow the tablet, take another. The medicine won't work if it is
+					 swallowed.</li><li>Place the between-cheek-and-gum (buccal) tablet between
+					 your cheek and gum. Leave it there until it dissolves. If you accidentally
+					 swallow the tablet, take another. The medicine won't work if it is
+					 swallowed.</li><li>Use the spray under your tongue or on top of your
+					 tongue. Push the spray canister button once. Close your mouth right
+					 away.</li></ul></li><li>Take one tablet or spray dose. If after 5
+				minutes the chest pain is not better or gets worse, <b>call</b><inline.emer-num></inline.emer-num><b>or other emergency services immediately</b>.</li><li>After you call
+				<inline.emer-num></inline.emer-num>, continue to stay on the phone with
+				the emergency operator. He or she will give you further
+				instructions.</li><li>Regardless of what happens, you should let your
+				doctor know that you had an episode of angina. If this is unusual for you, if your
+				angina episodes are occurring more frequently or lasting longer, or if you need
+				more medicine to control them, tell your doctor. Report any change in your
+				angina symptoms (<a chronic_id="091e9c5e8001b4e7" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/unstable_angina_definition_stu3088.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/unstable_angina_definition_stu3088.xml">unstable angina</a>) to your doctor.</li></ul></section_text></section_group></page><page><section_group><section_header>Are there side effects or interactions with other drugs that I should be aware of?</section_header><section_type>SpecialSection</section_type><section_text><p>Normal, temporary side effects of
+			 nitroglycerin include a warm or flushed feeling, <a chronic_id="091e9c5e8002394a" crossLinkId="189" directive="friendlyurl" externalId="091e9c5e8002394a" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml" keywordId="7521" keywordSetId="1291" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml">headache</a>, dizziness, or
+			 lightheadedness. You may also feel a burning sensation under your
+			 tongue.</p><p>Do not take the erection-enhancing medicine sildenafil
+			 (<a chronic_id="" crossLinkId="31432" directive="friendlyurl" externalId="7417" href="http://www.webmd.com/drugs/drug-7417-Viagra+Oral.aspx?drugid=7417&amp;drugname=Viagra+Oral" keywordId="8583" keywordSetId="2082" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-7417-Viagra+Oral.aspx?drugid=7417&amp;drugname=Viagra+Oral">Viagra</a>), <a chronic_id="" crossLinkId="68753" directive="friendlyurl" externalId="77875" href="http://www.webmd.com/drugs/drug-77875-tadalafil+oral.aspx" keywordId="57226" keywordSetId="24754" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-77875-tadalafil+oral.aspx">tadalafil</a> (<a chronic_id="" crossLinkId="31203" directive="friendlyurl" externalId="77881" href="http://www.webmd.com/drugs/drug-77881-CIALIS+Oral.aspx?drugid=77881&amp;drugname=CIALIS+Oral" keywordId="7111" keywordSetId="995" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-77881-CIALIS+Oral.aspx?drugid=77881&amp;drugname=CIALIS+Oral">Cialis</a>), or <a chronic_id="" crossLinkId="69458" directive="friendlyurl" externalId="76762" href="http://www.webmd.com/drugs/drug-76762-vardenafil+oral.aspx" keywordId="57935" keywordSetId="25450" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-76762-vardenafil+oral.aspx">vardenafil</a> (<a chronic_id="" crossLinkId="65901" directive="friendlyurl" externalId="76765" href="http://www.webmd.com/drugs/drug-76765-levitra+oral.aspx" keywordId="54376" keywordSetId="21962" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-76765-levitra+oral.aspx">Levitra</a>) if you are taking
+			 nitroglycerin. Combining nitroglycerin with any of these medicines can cause a
+			 life-threatening drop in blood pressure. If you develop chest pain and have
+			 taken one of these erection-enhancing medicines, be sure to tell your doctor so
+			 that you are not given nitroglycerin or another nitrate medicine. </p><p>Do not take the
+			 <a chronic_id="091e9c5e8001b5dc" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/pulmonary_hypertension_definition_zw1020.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pulmonary_hypertension_definition_zw1020.xml">pulmonary hypertension</a> medicine sildenafil (Revatio)
+			 if you are taking nitroglycerin or another nitrate medicine. </p></section_text></section_group><section_group><section_header>How should I store nitroglycerin?</section_header><section_type>SpecialSection</section_type><section_text><p>Store
+			 nitroglycerin pills in a dark-colored (such as brown), airtight, glass
+			 container that you cannot see through. Keep the container tightly closed. Keep
+			 nitroglycerin pills and liquid spray away from heat or moisture. </p></section_text></section_group><section_group><section_header>Can nitroglycerin get old and lose potency?</section_header><section_type>SpecialSection</section_type><section_text><p>Nitroglycerin can get old. And when it is old, it may not work. If your
+			 nitroglycerin supply is past its expiration date, get a new prescription as
+			 soon as possible. Keep your nitroglycerin in the container it came in and
+			 tightly closed. Do not open your sublingual nitroglycerin until you need a
+			 dose. Replace your tablets every 3 to 6 months. A nitroglycerin spray may last
+			 up to 2 years before it expires.</p><p>You may get a headache when you
+			 use nitroglycerin. Or you may feel burning or tingling under your tongue with
+			 nitroglycerin that is used under the tongue. But if you don't have a headache
+			 or feel burning or tingling under your tongue, it does not mean the medicine is
+			 not working.</p></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-topic-overview" owner="false"><breadcrumb><bread piece="Heart Health Center" prefix="www" friendlyurl="/heart/default.htm"></bread><bread piece="Heart Disease Health Center" prefix="www" friendlyurl="/heart-disease/default.htm"></bread><bread piece="Heart Disease Related Topics" prefix="www" friendlyurl="/heart-disease/tc/default.htm"></bread></breadcrumb><centers><Topic id="899" name="tmg" chronicid="091e9c5e8001d4e7" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-topic-overview" type="Topic">Using Nitroglycerin for Angina</Topic><Health id="968" name="health center" chronicid="091e9c5e80688800" prefix="www" friendlyurl="/heart-disease/default.htm" type="">Heart Disease</Health><Super id="948" name="super center" chronicid="091e9c5e80027294" prefix="www" friendlyurl="/heart/default.htm" type="">Heart Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-topic-overview" owner="false"><breadcrumb><bread piece="Heart Disease Health Center" prefix="www" friendlyurl="/heart-disease/default.htm"></bread><bread piece="Heart Disease Related Topics" prefix="www" friendlyurl="/heart-disease/tc/default.htm"></bread></breadcrumb><centers><Topic id="11108" name="tmg" chronicid="091e9c5e8001d4e7" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-topic-overview" type="Topic">Using Nitroglycerin for Angina</Topic><Health id="11105" name="health center" chronicid="091e9c5e80688800" prefix="www" friendlyurl="/heart-disease/default.htm" type="">Heart Disease</Health></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8056ea80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/anatomy-picture-of-blood"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/anatomy-picture-of-blood"></target></object><object chronic_id="091e9c5e8001afe4" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/angina_definition_sta123258.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/angina"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/angina"></target></object><object chronic_id="091e9c5e80521096" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/pain_management/miscellaneous/whats_causing_my_chest_pain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/pain-management/guide/whats-causing-my-chest-pain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/pain-management/guide/whats-causing-my-chest-pain"></target></object><object chronic_id="091e9c5e803739e7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_heart.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/picture-of-the-heart"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-heart"></target></object><object chronic_id="091e9c5e809d6a7d" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/arteries.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/picture-of-the-arteries"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-arteries"></target></object><object chronic_id="091e9c5e8001b084" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/coronary_arteries_definition_ue5252.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/coronary-arteries"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/coronary-arteries"></target></object><object chronic_id="091e9c5e800092ca" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/Heart_Disease_Angina.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/guide/heart-disease-angina"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/guide/heart-disease-angina"></target></object><object chronic_id="091e9c5e8036685c" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_tongue_2.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/oral-health/picture-of-the-tongue"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/oral-health/picture-of-the-tongue"></target></object><object chronic_id="091e9c5e80396037" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_skin.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/skin-problems-and-treatments/picture-of-the-skin"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/skin-problems-and-treatments/picture-of-the-skin"></target></object><object chronic_id="091e9c5e802a073a" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/diastolic-and-systolic-blood-pressure-know-your-numbers"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/diastolic-and-systolic-blood-pressure-know-your-numbers"></target></object><object chronic_id="091e9c5e8001b4e7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/unstable_angina_definition_stu3088.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/unstable-angina"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/unstable-angina"></target></object><object chronic_id="091e9c5e8002394a" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/migraines-headaches/default.htm"></target></object><object chronic_id="091e9c5e8001b5dc" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pulmonary_hypertension_definition_zw1020.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/pulmonary-hypertension"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/pulmonary-hypertension"></target></object><object chronic_id="091e9c5e8001d4e7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/using_nitroglycerin_for_angina-topic_overview_special_tp21161.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-topic-overview"></target></object><object chronic_id="091e9c5e8001d2bf" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/using_nitroglycerin_for_angina-related_information_special_hw85228spec-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-related-information"></target></object><object chronic_id="091e9c5e803ec979" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/using_nitroglycerin_for_angina-references_special_hw85228spec-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-references"></target></object><object chronic_id="091e9c5e8001ce72" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/using_nitroglycerin_for_angina-credits_special_hw85228spec-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e80023751" path="/webmd/consumer_assets/controlled_content/healthwise/toc/special/using_nitroglycerin_for_angina_special_hw85228spec.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>SpecialSection</section_type><section_link directive="article" chronic_id="091e9c5e8001d4e7" path="/webmd/consumer_assets/controlled_content/healthwise/special/using_nitroglycerin_for_angina-topic_overview_special_tp21161.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d2bf" path="/webmd/consumer_assets/controlled_content/healthwise/special/using_nitroglycerin_for_angina-related_information_special_hw85228spec-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e803ec979" path="/webmd/consumer_assets/controlled_content/healthwise/special/using_nitroglycerin_for_angina-references_special_hw85228spec-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001ce72" path="/webmd/consumer_assets/controlled_content/healthwise/special/using_nitroglycerin_for_angina-credits_special_hw85228spec-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Using Nitroglycerin for Angina</title><dynamic_objects><callout_title>Recommended Related to Heart Disease</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80a5fee8"><metadata_section><i_chronicle_id>091e9c5e80008826</i_chronicle_id><title>Glossary of Heart Disease Terms</title><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl></metadata_section><section_text><p>
+  Angina &#45;&#45; Discomfort, pain, or pressure in the chest caused by an inadequate blood supply to the heart. Pain may also be felt in the neck, jaw, or arms.
+
+  Angiogram (cardiac catheterization) &#45;&#45; A test used to diagnose heart disease. During the procedure a catheter is inserted into an artery, usually in the leg, and contrast dye is injected into the arteries and heart. X-rays of the arteries and heart are taken.
+
+  Anticoagulant &#45;&#45; A medication that prevents blood from clotting; used for...</p></section_text><link siteid="3" prefix="www" friendlyurl="/heart-disease/glossary-heart-disease-terms"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Using Nitroglycerin for Angina - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <h3>What is nitroglycerin?</h3>
+      <p><a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-18030-nitroglycerin+oral.aspx">Nitroglycerin</a> is a vasodilator, a medicine that opens <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> vessels to improve blood flow. It is used to treat <a href="http://www.webmd.com/hw-popup/angina" onclick="return sl(this,'hw','embd-lnk');">angina</a> symptoms, such as <a href="http://www.webmd.com/pain-management/guide/whats-causing-my-chest-pain" onclick="return sl(this,'','embd-lnk');">chest pain</a> or discomfort that happens when there is not enough blood flowing to the <a href="http://www.webmd.com/heart/picture-of-the-heart" onclick="return sl(this,'','embd-lnk');">heart</a>. To improve blood flow to the heart, nitroglycerin opens up (dilates) the <a href="http://www.webmd.com/heart/picture-of-the-arteries" onclick="return sl(this,'','embd-lnk');">arteries</a> in the heart (<a href="http://www.webmd.com/hw-popup/coronary-arteries" onclick="return sl(this,'hw','embd-lnk');">coronary arteries</a>), which improves symptoms and reduces how hard the heart has to work.</p>
+      <p>Nitroglycerin comes in quick-acting forms and long-acting forms.</p>
+      <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aia_styles2.css" />
+      <div class="aia_rdr rs_skip">
+       <div class="aia_top_fmt"> 
+       </div>
+       <div class="aia_border_fmt">
+        <div class="aia_title_bar_fmt">
+         <h4>Recommended Related to Heart Disease</h4>
+         <div class="clearing_fmt"> 
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/heart-disease/glossary-heart-disease-terms" onclick="return sl(this,'','aia-related');">Glossary of Heart Disease Terms</a></p>
+        <div class="aia_section_fmt">
+         <div class="aia_content_fmt">
+          <p> Angina -- Discomfort, pain, or pressure in the chest caused by an inadequate blood supply to the heart. Pain may also be felt in the neck, jaw, or arms. Angiogram (cardiac catheterization) -- A test used to diagnose heart disease. During the procedure a catheter is inserted into an artery, usually in the leg, and contrast dye is injected into the arteries and heart. X-rays of the arteries and heart are taken. Anticoagulant -- A medication that prevents blood from clotting; used for...</p>
+         </div>
+        </div>
+        <p class="aia_read_full_fmt"><a href="http://www.webmd.com/heart-disease/glossary-heart-disease-terms" onclick="return sl(this,'','aia-related');">Read the Glossary of Heart Disease Terms article &gt; &gt;</a></p>
+        <div class="clearing_fmt"> 
+        </div>
+       </div>
+       <div class="aia_bot_fmt"> 
+       </div>
+      </div>
+      <script type="text/javascript">$(function(){
+  if(typeof(s_sponsor_program) != 'undefined' ){
+    /* remove aia if in a sponsored program */
+    if(s_sponsor_program != ""){$(".aia_rdr").remove()}
+  }
+});</script>
+      <p>Quick-acting forms of nitroglycerin are used to relieve <a href="http://www.webmd.com/heart-disease/guide/heart-disease-angina" onclick="return sl(this,'','embd-lnk');">angina</a> or used just before activities that typically cause angina. The quick-acting forms include tablets or oral sprays. The tablets are placed under the <a href="http://www.webmd.com/oral-health/picture-of-the-tongue" onclick="return sl(this,'','embd-lnk');">tongue</a> (sublingual) or between the cheek and gum (buccal). The spray is used on or under the tongue. This topic covers these quick-acting forms of nitroglycerin.</p>
+      <p>Long-acting forms of nitroglycerin are used to prevent angina from happening. They are not used to stop sudden symptoms of angina. These long-acting forms include pills, tablets, <a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-the-skin" onclick="return sl(this,'','embd-lnk');">skin</a> ointment, and skin patches. This topic does <b>not</b> cover these long-acting forms of nitroglycerin.</p>
+      <p>Your doctor will prescribe the right amount for you. Do not use another person's nitroglycerin.</p>
+      <h3>When do I use quick-acting nitroglycerin?</h3>
+      <p>Your doctor will advise you when to use your nitroglycerin. In general, quick-acting nitroglycerin is used: </p>
+      <ul>
+       <li>To relieve sudden angina.</li>
+       <li>Before stressful activities that can cause angina, such as walking uphill or having sexual intercourse. </li>
+      </ul>
+      <h3>How do I use quick-acting nitroglycerin?</h3>
+      <ul>
+       <li>Sit or lie down to take your nitroglycerin. If you are driving, pull over and park the car. Taking nitroglycerin can lower your <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/diastolic-and-systolic-blood-pressure-know-your-numbers" onclick="return sl(this,'','embd-lnk');">blood pressure</a>, which could cause you to pass out if you are standing up. </li>
+       <li> For sudden episodes of angina, use nitroglycerin in a tablet or liquid spray form. 
+        <ul>
+         <li>Place the under-the-tongue (sublingual) tablet under your tongue. Leave it there until it dissolves. If you accidentally swallow the tablet, take another. The medicine won't work if it is swallowed.</li>
+         <li>Place the between-cheek-and-gum (buccal) tablet between your cheek and gum. Leave it there until it dissolves. If you accidentally swallow the tablet, take another. The medicine won't work if it is swallowed.</li>
+         <li>Use the spray under your tongue or on top of your tongue. Push the spray canister button once. Close your mouth right away.</li>
+        </ul></li>
+       <li>Take one tablet or spray dose. If after 5 minutes the chest pain is not better or gets worse, <b>call</b><span class="red_fmt">911</span><b>or other emergency services immediately</b>.</li>
+       <li>After you call <span class="red_fmt">911</span>, continue to stay on the phone with the emergency operator. He or she will give you further instructions.</li>
+       <li>Regardless of what happens, you should let your doctor know that you had an episode of angina. If this is unusual for you, if your angina episodes are occurring more frequently or lasting longer, or if you need more medicine to control them, tell your doctor. Report any change in your angina symptoms (<a href="http://www.webmd.com/hw-popup/unstable-angina" onclick="return sl(this,'hw','embd-lnk');">unstable angina</a>) to your doctor.</li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: February 13, 2013
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-topic-overview">Topic Overview</option><option value="http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-related-information">Related Information</option><option value="http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-references">References</option><option value="http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Using Nitroglycerin for Angina Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-related-information" onclick="return sl(this,'','topicNav_2');" title="Related Information">Related Information</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-references" onclick="return sl(this,'','topicNav_3');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/tc/using-nitroglycerin-for-sudden-chest-pain-credits" onclick="return sl(this,'','topicNav_4');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Special';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1054"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/healthy-aging/medical-cost-disability-11/heart-disease" onclick="return sl(this,'','rltd-p-1054_1');">Heart Disease: What Are the Medical Costs?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/cholesterol-management/rm-quiz-test-smarts" onclick="return sl(this,'','rltd-p-1054_2');">Quiz: Test Your Cholesterol Smarts</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/slideshow-living-with-a-fib" onclick="return sl(this,'','rltd-p-1054_3');">10 Tips for Living With Atrial Fibrillation</a> </li> 
+     <li id="x65"> <a href="http://men.webmd.com/erectile-dysfunction-11/myths-and-facts" onclick="return sl(this,'','rltd-p-1054_4');">Heart Problems and ED: What's the Link?</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/oral-health/answers-periodontal" onclick="return sl(this,'','rltd-p-1054_5');">Gum Disease: Linked to Heart Problems?</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/cholesterol-management/good-cholesterol-12/medication" onclick="return sl(this,'','rltd-p-1054_6');">Cholesterol Medications: Which Drug Is Right for You?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1054_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80b52be3" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb80</chronic_id><r_object_id>091e9c5e80b52be3</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8068fb80.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/30/2012 19:27:36</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Heart Disease Center/template_Heart Disease Health Center_091e9c5e8002329b.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002329b"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Angina</name><link_title>Angina</link_title><description>The most common symptom of coronary artery disease is angina or "angina pectoris," also known simply as chest pain. Angina can be described as a discomfort, heaviness, pressure, aching, burning, fullness, squeezing, or  a painful feeling. Often, it can be mistaken for indigestion. If you have symptoms of angina, take notice. If you've never been diagnosed with heart disease, you should seek treatment immediately. If you've had angina before, use your angina medications as directed by your doctor and try to determine if this is your regular pattern of angina or if the symptoms are worse. Follow the links below to find WebMD's comprehensive coverage about angina, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/heart-disease/angina-directory</friendly_url></topic_dir><related_assets><asset id=""><link_title>What is variant angina in the chest?</link_title><friendly_url>http://answers.webmd.com/answers/1196417/what-is-variant-angina-in-the</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006983"><link_title>Travel Checklist for Heart Patients</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040719/new-air-travel-checklist-for-heart-patients</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80007c25"><link_title>Sudden Death in Athletes&#45;&#45; Preventable?</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20050501/sudden-death-althletes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800092ca"><link_title>Heart Disease and Angina (Chest Pain)</link_title><friendly_url>http://www.webmd.com/heart-disease/guide/heart-disease-angina</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000a9cc"><link_title>Overcoming Cardiovascular Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/features/overcoming-cardiovascular-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ca57"><link_title>Drug for Chest Pain May Promote Vessel Damage</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040206/drug-for-chest-pain-may-promote-vessel-damage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ca65"><link_title>Don't Wait to Treat Chest Pain</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20050118/dont-wait-to-treat-chest-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ce09"><link_title>Chest Pain? Statins May Save Heart</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040823/chest-pain-statins-may-save-heart</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d875"><link_title>Angina Treatments Weighed in Elderly</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040830/angina-treatments-weighed-in-elderly</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000dcbc"><link_title>FDA Approves New Angina Drug</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20060207/fda-approves-new-angina-drug</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000dd8c"><link_title>Women Match Men in Stable Angina</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20060321/women-match-men-in-stable-angina</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ddc6"><link_title>Laser Heart Therapy Brings Hope to Chest Pain Patients With Few Options</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20000313/laser-heart-therapy-brings-hope-to-chest-pain-patients-with-few-options</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f25f"><link_title>Women's Chest Pain Treatments Getting Better</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20050218/womens-chest-pain-treatments-getting-better</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fb95"><link_title>Gene Therapy Safe and Effective for Chest Pain</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20020225/gene-therapy-safe-effective-for-chest-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fda5"><link_title>Quick Facts on Chest Pain</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040903/quick-facts-on-chest-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ff92"><link_title>Male Hormone Gives Pain Relief to Some Men With Angina</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20001016/male-hormone-gives-pain-relief-to-some-men-with-angina</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001024e"><link_title>The Polymeal: Recipe for a Healthy Heart</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20041216/polymeal-recipe-for-healthy-heart</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800125ed"><link_title>Symptoms of Heart Disease</link_title><friendly_url>http://www.webmd.com/heart-disease/heart_disease_symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8013236d"><link_title>Dark Chocolate Fights Heart Woes</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20071105/dark-chocolate-fights-heart-woes</friendly_url><thumbnail height="" width="" alt="Dark Chocolate Helps Heart">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/November07/dark_chocolate_helps_heart.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801a020f"><link_title>Chest Pain More Common in Women</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20080317/chest-pain-more-common-in-women</friendly_url><thumbnail height="" width="" alt="">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/March08/women_more_stable_angina.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801a756a"><link_title>Coronary Calcium Score Color-blind?</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20080326/coronary-calcium-score-colorblind</friendly_url><thumbnail height="" width="" alt="Coronary Calcium Heart Risk">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/March08/coronary_calcium_heart_risk.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80269d5d"><link_title>Toni Braxton's Microvascular Angina (Cardiac Syndrome X): FAQ</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20080923/toni-braxton-microvascular-angina-faq</friendly_url><thumbnail height="" width="" alt="toni_braxton_faq.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/September08/toni_braxton_faq.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80349f72"><link_title>Bone Marrow Cells Improve Heart Function</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20090519/bone-marrow-cells-improve-heart-function</friendly_url><thumbnail height="75" width="69" alt="bone_marrow_heart_disease.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/May_2009/bone_marrow_heart_disease.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806f8a26"><link_title>Family Stress Linked to Angina Pain</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20101223/family-stress-linked-to-angina-pain</friendly_url><thumbnail height="" width="" alt="teen upset while parents argue in background">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/12_2010/69x75_worries_angina_risk_03.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f3b7"><link_title>Angina Drug Safe for Long-Term Use</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20040830/angina-drug-safe-for-long-term-use</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d286"><link_title>Hypnosis Treats Unexplained Chest Pain</link_title><friendly_url>http://www.webmd.com/heart/news/20060419/hypnosis-treats-unexplained-chest-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fb6f"><link_title>Experimental Drug Looks Good for Treating Chest Pain</link_title><friendly_url>http://www.webmd.com/heart-disease/news/20010524/experimental-drug-looks-good-for-treating-chest-pain</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802d4bec"><link_title>The New Heart Tests: Which Ones Should You Have?</link_title><friendly_url>http://www.webmd.com/heart-disease/features/the-new-heart-tests-which-ones-should-you-have</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80218098"><link_title>Chest Pain Treatment</link_title><friendly_url>http://www.webmd.com/first-aid/angina-pectoris-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006dc2"><link_title>Spinning Needle Touted as Treatment for Severe Angina</link_title><friendly_url>http://www.webmd.com/heart-disease/news/19991215/spinning-needle-treatment-severe-angina</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://answers.webmd.com/answers/1196417/what-is-variant-angina-in-the" onclick="return sl(this,'','lln-tdrelcon_1');">What is variant angina in the chest?</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/guide/heart-disease-angina" onclick="return sl(this,'','lln-tdrelcon_2');">Heart Disease and Angina (Chest Pain)</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/features/overcoming-cardiovascular-disease" onclick="return sl(this,'','lln-tdrelcon_3');">Overcoming Cardiovascular Disease</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/heart_disease_symptoms" onclick="return sl(this,'','lln-tdrelcon_4');">Symptoms of Heart Disease</a></li>
+      <li><a href="http://www.webmd.com/heart-disease/features/the-new-heart-tests-which-ones-should-you-have" onclick="return sl(this,'','lln-tdrelcon_5');">The New Heart Tests: Which Ones Should You Have?</a></li>
+      <li><a href="http://www.webmd.com/first-aid/angina-pectoris-treatment" onclick="return sl(this,'','lln-tdrelcon_6');">Chest Pain Treatment</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/heart-disease/angina-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Angina Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=353112756&amp;tile=724280911&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=968&amp;scent=948&amp;pos=5000&amp;xpg=1675&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fheart-disease%2ftc%2fusing-nitroglycerin-for-sudden-chest-pain-topic-overview&amp;artid=091e9c5e8001d4e7&amp;inst=0&amp;leaf=899&amp;cc=16&amp;tmg=1&amp;bc=_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=353112756&amp;amp;tile=724280911&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=968&amp;amp;scent=948&amp;amp;pos=5000&amp;amp;xpg=1675&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fheart-disease%2ftc%2fusing-nitroglycerin-for-sudden-chest-pain-topic-overview&amp;amp;artid=091e9c5e8001d4e7&amp;amp;inst=0&amp;amp;leaf=899&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1675";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=353112756&amp;tile=724280911&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=968&amp;scent=948&amp;pos=5001&amp;xpg=1675&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fheart-disease%2ftc%2fusing-nitroglycerin-for-sudden-chest-pain-topic-overview&amp;artid=091e9c5e8001d4e7&amp;inst=0&amp;leaf=899&amp;cc=16&amp;tmg=1&amp;bc=_r52_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=353112756&amp;amp;tile=724280911&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=968&amp;amp;scent=948&amp;amp;pos=5001&amp;amp;xpg=1675&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fheart-disease%2ftc%2fusing-nitroglycerin-for-sudden-chest-pain-topic-overview&amp;amp;artid=091e9c5e8001d4e7&amp;amp;inst=0&amp;amp;leaf=899&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_r52_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1675";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

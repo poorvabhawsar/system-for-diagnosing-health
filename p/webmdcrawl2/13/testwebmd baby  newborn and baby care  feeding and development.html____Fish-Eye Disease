@@ -1,0 +1,625 @@
+<title>WebMD Baby: Newborn and Baby Care, Feeding and Development </title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="news_links" id="top-news"> 
+    <div class="subheaderBar"> 
+     <h3>Top News</h3> 
+     <span class="rss"> <a id="rssFeedLink" class="rss_link" href="http://rssfeeds.webmd.com/rss/rss.aspx" onclick="return sl(this,'','top-news_rss');">RSS Feed</a> </span> 
+    </div> 
+    <script type="text/javascript">requirejs(['rss/1/get_feed'],function(){ $('#top-news').getFeed(); });</script> 
+    <ul> 
+     <li> <a onclick="return sl(this,'','more-news_1');" href="http://www.webmd.com/parenting/baby/features/weaning-from-breast">Making the Change From Breast to Bottle Feeding</a> </li> 
+     <li> <a onclick="return sl(this,'','more-news_2');" href="http://www.webmd.com/parenting/baby/news/20140303/baby-sleep-machines-could-damage-hearing-study-suggests">Baby 'Sleep Machines' Could Damage Hearing, Study Suggests</a> </li> 
+     <li> <a onclick="return sl(this,'','more-news_3');" href="http://www.webmd.com/parenting/baby/features/baby-bathing">Newborn Baths 101</a> </li> 
+    </ul> 
+    <p> <a class="morelink" onclick="return sl(this,'','more-news_more');" href="http://www.webmd.com/news">More News</a> </p> 
+   </div> 
+   <script type="text/javascript">
+                $('.morelink').attr('href','news-features');
+                </script>
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/parenting/baby/infant-development-9/slideshow-baby-development" onclick="return sl(this,'','promo-wc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/baby_development_slideshow/getty_rf_photo_of_baby_with_bead_toy.jpg" alt="Smiling Baby Reaching for Beads" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/parenting/baby/infant-development-9/slideshow-baby-development" onclick="return sl(this,'','promo-wc_1');">How Your Baby Grows</a> </h2> 
+        <a href="http://www.webmd.com/parenting/baby/infant-development-9/slideshow-baby-development" onclick="return sl(this,'','promo-wc_1');" class="type_ss">Month-by-month development milestones.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/parenting/baby/ss/slideshow-baby-skin-care" data-alt="Newborn baby sleeping on fluffy blanket" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/baby_skin_care_slideshow/istock_photo_of_sleeping_newborn.jpg" onclick="return sl(this,'','promo-wc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/parenting/baby/ss/slideshow-baby-skin-care" onclick="return sl(this,'','promo-wc_2');">Baby Skin Care</a> </h2> 
+        <a href="http://www.webmd.com/parenting/baby/ss/slideshow-baby-skin-care" onclick="return sl(this,'','promo-wc_2');" class="type_ss">Tips to keep your infant's skin healthy. <i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/parenting/baby/ss/slideshow-baby-proofing-essentials" data-alt="baby standing in crib" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/baby_proofing_essentials_slideshow/corbis_rf_photo_of_baby_in_crib.jpg" onclick="return sl(this,'','promo-wc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/parenting/baby/ss/slideshow-baby-proofing-essentials" onclick="return sl(this,'','promo-wc_3');">Baby Proofing Your Home</a> </h2> 
+        <a href="http://www.webmd.com/parenting/baby/ss/slideshow-baby-proofing-essentials" onclick="return sl(this,'','promo-wc_3');" class="type_ss">Protect your little one from hidden dangers. <i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x11"> 
+     <div class="slide" id="prm-hp_n4s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/parenting/baby/crying-colic-9/slideshow-treating-colic" data-alt="Mother Holding Baby " data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/health_tools/soothing_your_baby_slideshow/getty_rm_photo_of_mother_with_child.jpg" onclick="return sl(this,'','promo-wc_4-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/parenting/baby/crying-colic-9/slideshow-treating-colic" onclick="return sl(this,'','promo-wc_4');">Hush, Little Baby</a> </h2> 
+        <a href="http://www.webmd.com/parenting/baby/crying-colic-9/slideshow-treating-colic" onclick="return sl(this,'','promo-wc_4');" class="type_ss">10 tips to soothe a crying infant.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','promo-wc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','promo-wc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','promo-wc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','promo-wc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','promo-wc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_n4"> <span class="jawsonly">Slide 4</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane6">
+   <div id="ed-tools" class="hc2012hslider hc2012hslider4panel"> 
+    <div class="hc2012hslider_head"> 
+     <h3>Tools and Quizzes</h3> 
+    </div> 
+    <div class="hc2012hslider_nav"> 
+     <a href="" class="hc2012hslider_nav_prev" onclick="wmdPageLink('ed-tools_prev'); return false;"> <span class="jawsonly">Previous</span> </a> 
+     <a href="" class="hc2012hslider_nav_next" onclick="wmdPageLink('ed-tools_next'); return false;"> <span class="jawsonly">Next</span> </a> 
+    </div> 
+    <div class="hc2012hslider_slides"> 
+     <div class="hc2012hslider_slide"> 
+      <div id="x32" class="hc2012hslider_slide_panel hc2012hslider_slide_panel1"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/infant-development-9/slideshow-baby-development" onclick="return sl(this,'','ed-tools_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/baby_development_slideshow/110x70_baby_development_slideshow.jpg" alt="Baby eye" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/parenting/baby/infant-development-9/slideshow-baby-development" onclick="return sl(this,'','ed-tools_1');">Help Your Baby Learn</a> 
+       </div> 
+      </div> 
+      <div id="x33" class="hc2012hslider_slide_panel hc2012hslider_slide_panel2"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/baby-food-nutrition-9/slideshow-baby-food" onclick="return sl(this,'','ed-tools_2');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/baby_food_first_year_slideshow/110x70_baby_food_first_year_slideshow.jpg" alt="baby being fed" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/parenting/baby/baby-food-nutrition-9/slideshow-baby-food" onclick="return sl(this,'','ed-tools_2');">Ready for Solid Food?</a> 
+       </div> 
+      </div> 
+      <div id="x34" class="hc2012hslider_slide_panel hc2012hslider_slide_panel3"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/crying-colic-9/slideshow-treating-colic" onclick="return sl(this,'','ed-tools_3');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/soothe_your_baby_slideshow/110x70_soothe_your_baby_slideshow.jpg" alt="Mother with child" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/parenting/baby/crying-colic-9/slideshow-treating-colic" onclick="return sl(this,'','ed-tools_3');">How to Soothe a Crying Baby</a> 
+       </div> 
+      </div> 
+      <div id="x35" class="hc2012hslider_slide_panel hc2012hslider_slide_panel4"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/rm-quiz-newborn-typical" onclick="return sl(this,'','ed-tools_4');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/is_my_baby_normal_rmq/110x70_is_my_baby_normal_rmq.jpg" alt="baby acne" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        QUIZ
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_quiz"> 
+        <a href="http://www.webmd.com/parenting/baby/rm-quiz-newborn-typical" onclick="return sl(this,'','ed-tools_4');">Is Your Newborn Typical?</a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="hc2012hslider_slide"> 
+      <div id="x36" class="hc2012hslider_slide_panel hc2012hslider_slide_panel1"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/sleep-naps-12/slideshow-naps" onclick="return sl(this,'','ed-tools_5');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/baby_napping_slideshow/110x70_baby_napping_slideshow.jpg" alt="baby napping" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/parenting/baby/sleep-naps-12/slideshow-naps" onclick="return sl(this,'','ed-tools_5');">Baby Napping Dos and Don’ts</a> 
+       </div> 
+      </div> 
+      <div id="x37" class="hc2012hslider_slide_panel hc2012hslider_slide_panel2"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/ss/slideshow-baby-proofing-essentials" onclick="return sl(this,'','ed-tools_6');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/baby_proofing_essentials_slideshow/110x70_baby_proofing_essentials_slideshow.jpg" alt="baby standing in crib" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/parenting/baby/ss/slideshow-baby-proofing-essentials" onclick="return sl(this,'','ed-tools_6');">Baby-Proofing Your Home</a> 
+       </div> 
+      </div> 
+      <div id="x38" class="hc2012hslider_slide_panel hc2012hslider_slide_panel3"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/ss/slideshow-top-surprises-of-parenthood" onclick="return sl(this,'','ed-tools_7');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/life_after_baby_top_new_parent_surprises_slideshow/110x70_life_after_baby_top_new_parent_surprises_slideshow.jpg" alt="Mother with baby" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/parenting/baby/ss/slideshow-top-surprises-of-parenthood" onclick="return sl(this,'','ed-tools_7');">Parenthood: What to Expect</a> 
+       </div> 
+      </div> 
+      <div id="x39" class="hc2012hslider_slide_panel hc2012hslider_slide_panel4"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/ss/slideshow-bottle-feeding" onclick="return sl(this,'','ed-tools_8');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/the_facts_about_bottle_feeding_slideshow/110x70_the_facts_about_bottle_feeding_slideshow.jpg" alt="feeding baby" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        SLIDESHOW
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_ss"> 
+        <a href="http://www.webmd.com/parenting/baby/ss/slideshow-bottle-feeding" onclick="return sl(this,'','ed-tools_8');">Tips for Bottle Feeding</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script class="oas_template" id="health-center-slider_ed-tools" type="text/html">
+  <div class="attr {attr_active}">
+    <a class="{attr_link}" onclick="return sl(this,'sp','disclaimer');" href="{attr_link}">{attr_text}</a>
+    <span>{attr}</span>
+  </div>
+  <div class="hc2012hslider_slide_panel_img">
+    <a onclick="return sl(this,'','ed-tools_{link_position}');" href="{href}">
+      <img src="{img}" alt="{alt_text}" />
+    </a>
+  </div>
+  <div class="hc2012hslider_slide_panel_text">{text}</div>
+  <div class="hc2012hslider_slide_panel_link type_{type}">
+    <a onclick="return sl(this,'','ed-tools_{link_position}');" href="{href}">{alt}</a>
+  </div>
+</script> 
+   <script type="text/javascript">
+ 				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {};
+			webmd.oas.mapping['health-center-slider_ed-tools'] = ['x32','x33','x34','x35','x36','x37','x38','x39']; </script>
+  </div> 
+  <div id="ContentPane7">
+   <div id="ex-tips" class="two-col-editorial"> 
+    <h2 class="no_description">Connect with Parents and Experts</h2> 
+    <div class="col_1_layout"> 
+     <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/toc_page/parenting_baby_community_module_experts_toc_page/79x79_parenting_baby_community_module_experts_toc_page.jpg" alt="doctor examining childs ear" class="icon" /> 
+     <div class="editorial"> 
+      <h3>Experts</h3> 
+      <ul class="articles"> 
+       <li> <a class="type_com" href="http://blogs.webmd.com/sleep-disorders/2013/08/regular-bedtimes-for-children-aid-development.html" onclick="return sl(this,'','ex-tips_1-2');">The Importance of Regular Bedtimes<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://blogs.webmd.com/all-ears/2013/02/new-ear-infection-guidelines-will-everyone-listen.html" onclick="return sl(this,'','ex-tips_1-3');">Treating Ear Infections<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://blogs.webmd.com/all-ears/" onclick="return sl(this,'','ex-tips_1-4');">Family Webicine<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://blogs.webmd.com/childrens-health/" onclick="return sl(this,'','ex-tips_1-5');">Your Children’s Health<i> </i></a> </li> 
+       <li class="see_all_link"> <a class="type_com" href="
+          http://exchanges.webmd.com/webmd-exchanges/health-experts" onclick="return sl(this,'','ex-tips_1-6');">See all experts<i> </i></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="col_2_layout"> 
+     <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/toc_page/parenting_baby_community_module_toc_page/79x79_parenting_baby_community_module_toc_page.jpg" alt="cute baby sticking out tongue" class="icon" /> 
+     <div class="editorial"> 
+      <h3>Newborn &amp; Baby Communities</h3> 
+      <ul class="articles"> 
+       <li> <a class="type_com" href="http://exchanges.webmd.com/newborn-and-baby-exchange" onclick="return sl(this,'','ex-tips_2-2');">Baby’s First Year Community<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://exchanges.webmd.com/breastfeeding-support-group-exchange" onclick="return sl(this,'','ex-tips_2-3');">Breastfeeding Support Group<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://exchanges.webmd.com/parenting-3-6-month-olds-exchange" onclick="return sl(this,'','ex-tips_2-4');">Parenting: 3- to 6-Month Olds<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://exchanges.webmd.com/parenting-6-9-months-exchange" onclick="return sl(this,'','ex-tips_2-5');">Parenting: 6- to 9-Month Olds<i> </i></a> </li> 
+       <li> <a class="type_com" href="http://exchanges.webmd.com/parenting-9-12-months-exchange" onclick="return sl(this,'','ex-tips_2-6');">Parenting: 9- to 12-Month Olds<i> </i></a> </li> 
+       <li class="see_all_link"> <a class="type_com" href="
+          http://exchanges.webmd.com/webmd-exchanges/parenting-exchanges" onclick="return sl(this,'','ex-tips_2-7');">See all communities<i> </i></a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane8">
+   <div id="ed-baby" class="hc2012hslider hc2012hslider4panel"> 
+    <div class="hc2012hslider_head"> 
+     <h3>Popular Baby Topics</h3> 
+    </div> 
+    <div class="hc2012hslider_nav"> 
+     <a href="" class="hc2012hslider_nav_prev" onclick="wmdPageLink('ed-baby_prev'); return false;"> <span class="jawsonly">Previous</span> </a> 
+     <a href="" class="hc2012hslider_nav_next" onclick="wmdPageLink('ed-baby_next'); return false;"> <span class="jawsonly">Next</span> </a> 
+    </div> 
+    <div class="hc2012hslider_slides"> 
+     <div class="hc2012hslider_slide"> 
+      <div id="x86" class="hc2012hslider_slide_panel hc2012hslider_slide_panel1"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/breastfeeding-9/breast-feeding-diet" onclick="return sl(this,'','ed-baby_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/12_foods_for_new_moms_ref_guide/110x70_12_foods_for_new_moms_ref_guide.jpg" alt="salmon on the grill" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/parenting/baby/breastfeeding-9/breast-feeding-diet" onclick="return sl(this,'','ed-baby_1');">12 Best Foods for New Moms</a> 
+       </div> 
+      </div> 
+      <div id="x87" class="hc2012hslider_slide_panel hc2012hslider_slide_panel2"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/features/to-work-or-not-to-work-the-new-mom-dillema" onclick="return sl(this,'','ed-baby_2');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/_2012/11_2012/to_work_or_not_to_work_features/110x70_to_work_or_not_to_work_features.jpg" alt="working mother with baby" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/parenting/baby/features/to-work-or-not-to-work-the-new-mom-dillema" onclick="return sl(this,'','ed-baby_2');">Back to Work After Baby?</a> 
+       </div> 
+      </div> 
+      <div id="x88" class="hc2012hslider_slide_panel hc2012hslider_slide_panel3"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/features/25-ways-to-handle-the-stress-of-a-new-baby" onclick="return sl(this,'','ed-baby_3');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/_2013/02_2013/25_ways_to_handle_the_stress_of_new_baby_features/110x70_25_ways_to_handle_the_stress_of_new_baby_features.jpg" alt="mother and her newborn" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/parenting/baby/features/25-ways-to-handle-the-stress-of-a-new-baby" onclick="return sl(this,'','ed-baby_3');">How to Deal with New Baby Stress</a> 
+       </div> 
+      </div> 
+      <div id="x89" class="hc2012hslider_slide_panel hc2012hslider_slide_panel4"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/infant-development-9/raising-twins" onclick="return sl(this,'','ed-baby_4');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/_2012/11_2012/7_things_you_didnt_know_about_raising_newborn_twins_features/110x70_7_things_you_didnt_know_about_raising_newborn_twins_features.jpg" alt="newborn twins" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/parenting/baby/infant-development-9/raising-twins" onclick="return sl(this,'','ed-baby_4');">7 Things You Don’t Know About Twins</a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="hc2012hslider_slide"> 
+      <div id="x90" class="hc2012hslider_slide_panel hc2012hslider_slide_panel1"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/tc/teething-topic-overview" onclick="return sl(this,'','ed-baby_5');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/is_your_baby_teething_ref_guide/110x70_is_your_baby_teething_ref_guide.jpg" alt="teething baby" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/parenting/baby/tc/teething-topic-overview" onclick="return sl(this,'','ed-baby_5');">The Truth About Teething</a> 
+       </div> 
+      </div> 
+      <div id="x91" class="hc2012hslider_slide_panel hc2012hslider_slide_panel2"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/6-exercises-for-new-moms" onclick="return sl(this,'','ed-baby_6');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/six_exercises_for_new_moms_ref_guide/110x70_six_exercises_for_new_moms_ref_guide.jpg" alt="woman walking with stroller" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/parenting/6-exercises-for-new-moms" onclick="return sl(this,'','ed-baby_6');">6 Get-Your-Body-Back Exercises </a> 
+       </div> 
+      </div> 
+      <div id="x92" class="hc2012hslider_slide_panel hc2012hslider_slide_panel3"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/understanding-diaper-rash-symptoms" onclick="return sl(this,'','ed-baby_7');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/understanding_diaper_rash_symptoms_ref_guide/110x70_understanding_diaper_rash_symptoms_ref_guide.jpg" alt="woman changing diaper" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/parenting/understanding-diaper-rash-symptoms" onclick="return sl(this,'','ed-baby_7');">Is That Diaper Rash?</a> 
+       </div> 
+      </div> 
+      <div id="x93" class="hc2012hslider_slide_panel hc2012hslider_slide_panel4"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/crying-colic-9/using-pacifiers" onclick="return sl(this,'','ed-baby_8');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/features/_2012/11_2012/pacifiers_pros_and_cons_features/110x70_pacifiers_pros_and_cons_features.jpg" alt="baby sleeping with pacifier" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        ARTICLE
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/parenting/baby/crying-colic-9/using-pacifiers" onclick="return sl(this,'','ed-baby_8');">Pros and Cons of Pacifiers</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script class="oas_template" id="health-center-slider_ed-baby" type="text/html">
+  <div class="attr {attr_active}">
+    <a class="{attr_link}" onclick="return sl(this,'sp','disclaimer');" href="{attr_link}">{attr_text}</a>
+    <span>{attr}</span>
+  </div>
+  <div class="hc2012hslider_slide_panel_img">
+    <a onclick="return sl(this,'','ed-baby_{link_position}');" href="{href}">
+      <img src="{img}" alt="{alt_text}" />
+    </a>
+  </div>
+  <div class="hc2012hslider_slide_panel_text">{text}</div>
+  <div class="hc2012hslider_slide_panel_link type_{type}">
+    <a onclick="return sl(this,'','ed-baby_{link_position}');" href="{href}">{alt}</a>
+  </div>
+</script> 
+   <script type="text/javascript">
+ 				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {};
+			webmd.oas.mapping['health-center-slider_ed-baby'] = ['x86','x87','x88','x89','x90','x91','x92','x93']; </script>
+  </div> 
+  <div id="ContentPane9">
+   <div class="multi-grp-linked-list"> 
+    <h3 class="no_description">Popular Searches</h3> 
+    <div class="ord-lists layout_2_col"> 
+     <div class="col_1"> 
+      <ul> 
+       <li> <span class="number">1</span> <a href="http://www.webmd.com/parenting/baby/breastfeeding-directory" onclick="return sl(this,'Page Refresh(Default)','top-twlv_1');">Breastfeeding</a> </li> 
+       <li> <span class="number">2</span> <a href="http://www.webmd.com/children/rsv-in-children-directory" onclick="return sl(this,'Page Refresh(Default)','top-twlv_2');">RSV</a> </li> 
+       <li> <span class="number">3</span> <a href="http://www.webmd.com/parenting/baby/colic-directory" onclick="return sl(this,'Page Refresh(Default)','top-twlv_3');">Colic</a> </li> 
+       <li> <span class="number">4</span> <a href="http://www.webmd.com/parenting/baby/teething-directory" onclick="return sl(this,'Page Refresh(Default)','top-twlv_4');">Teething</a> </li> 
+       <li> <span class="number">5</span> <a href="http://www.webmd.com/digestive-disorders/understanding-hernia-basics" onclick="return sl(this,'Page Refresh(Default)','top-twlv_5');">Hernia</a> </li> 
+       <li> <span class="number">6</span> <a href="http://www.webmd.com/first-aid/rashes-children" onclick="return sl(this,'Page Refresh(Default)','top-twlv_6');">Rashes</a> </li> 
+       <li> <span class="number">7</span> <a href="http://www.webmd.com/parenting/baby/tc/congenital-torticollis-topic-overview" onclick="return sl(this,'Page Refresh(Default)','top-twlv_7');">Torticollis</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_2"> 
+      <ul> 
+       <li> <span class="number">8</span> <a href="http://www.webmd.com/parenting/baby/tc/hydrocele-topic-overview" onclick="return sl(this,'Page Refresh(Default)','top-twlv_8');">Hydrocele</a> </li> 
+       <li> <span class="number">9</span> <a href="http://www.webmd.com/parenting/baby/jaundice-directory" onclick="return sl(this,'Page Refresh(Default)','top-twlv_9');">Jaundice</a> </li> 
+       <li> <span class="number">10</span> <a href="http://www.webmd.com/parenting/baby/cradle-cap-directory" onclick="return sl(this,'Page Refresh(Default)','top-twlv_10');">Cradle Cap</a> </li> 
+       <li> <span class="number">11</span> <a href="http://www.webmd.com/parenting/baby/weaning-directory" onclick="return sl(this,'Page Refresh(Default)','top-twlv_11');">Weaning</a> </li> 
+       <li> <span class="number">12</span> <a href="http://www.webmd.com/parenting/baby/diaper-rash-directory" onclick="return sl(this,'Page Refresh(Default)','top-twlv_12');">Diaper Rash</a> </li> 
+       <li> <span class="number">13</span> <a href="http://www.webmd.com/parenting/baby/tc/umbilical-hernia-in-children-topic-overview" onclick="return sl(this,'Page Refresh(Default)','top-twlv_13');">Umbilical Hernia</a> </li> 
+       <li> <span class="number">14</span> <a href="http://www.webmd.com/parenting/baby/baby-food-nutrition-9/starting-solid-food" onclick="return sl(this,'Page Refresh(Default)','top-twlv_14');">Baby Food</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="linked_image" id="x51"> 
+    <a href="http://www.webmd.com/webmdbabyapp" onclick="return sl(this,'','prm-babyapp_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/mobile/iphone/img/ads/client/baby_app/300x250_baby_app_ad_5c.jpg" alt="baby app ad" border="0" /> </a> 
+   </div> 
+   <script class="oas_template" id="oas_linked_image" type="text/html">
+  <a onclick="return sl(this,'','prm-babyapp_{link_position}');" href="{href}">
+    <img src="{img}" alt="{alt_text}" border="0" />
+  </a>
+</script> 
+   <script type="text/javascript">webmd.oas.mapping['oas_linked_image'] = ['x51'];</script>
+  </div> 
+  <div id="ContentPane10">
+   <div id="ed-vid" class="hc2012hslider hc2012hslider4panel"> 
+    <div class="hc2012hslider_head"> 
+     <h3>Baby Videos</h3> 
+    </div> 
+    <div class="hc2012hslider_nav"> 
+     <a href="" class="hc2012hslider_nav_prev" onclick="wmdPageLink('ed-vid_prev'); return false;"> <span class="jawsonly">Previous</span> </a> 
+     <a href="" class="hc2012hslider_nav_next" onclick="wmdPageLink('ed-vid_next'); return false;"> <span class="jawsonly">Next</span> </a> 
+    </div> 
+    <div class="hc2012hslider_slides"> 
+     <div class="hc2012hslider_slide"> 
+      <div class="hc2012hslider_slide_panel hc2012hslider_slide_panel1"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/video/bathing-newborns" onclick="return sl(this,'','ed-vid_1');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/bathing_newborns_video/110x70_bathing_newborns_video.jpg" alt="newborn baby being bathed" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/parenting/baby/video/bathing-newborns" onclick="return sl(this,'','ed-vid_1');">How to Bathe Your Newborn</a> 
+       </div> 
+      </div> 
+      <div class="hc2012hslider_slide_panel hc2012hslider_slide_panel2"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/video/cradles-or-cosleepers" onclick="return sl(this,'','ed-vid_2');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/cradles_or_cosleepers_video/110x70_cradles_or_cosleepers_video.jpg" alt="sleeping baby" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/parenting/baby/video/cradles-or-cosleepers" onclick="return sl(this,'','ed-vid_2');">Should Your Baby Sleep With You?</a> 
+       </div> 
+      </div> 
+      <div class="hc2012hslider_slide_panel hc2012hslider_slide_panel3"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/video/how-to-diaper-baby" onclick="return sl(this,'','ed-vid_3');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/diapering_your_newborn_slideshow/110x70_diapering_your_newborn_slideshow.jpg" alt="woman diapering a baby" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/parenting/baby/video/how-to-diaper-baby" onclick="return sl(this,'','ed-vid_3');">Secrets of Diapering a Baby</a> 
+       </div> 
+      </div> 
+      <div class="hc2012hslider_slide_panel hc2012hslider_slide_panel4"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/video/how-to-trim-baby-fingernails" onclick="return sl(this,'','ed-vid_4');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/how_to_trim_baby_fingernails_video/110x70_how_to_trim_baby_fingernails_video.jpg" alt="baby fingernails" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/parenting/baby/video/how-to-trim-baby-fingernails" onclick="return sl(this,'','ed-vid_4');">How to Trim Your Baby’s Nails</a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="hc2012hslider_slide"> 
+      <div class="hc2012hslider_slide_panel hc2012hslider_slide_panel1"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/how-to-diaper-rash-11/diaper-bag-essentials" onclick="return sl(this,'','ed-vid_5');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/how_to_stock_a_diaper_bag_video/110x70_how_to_stock_a_diaper_bag_video.jpg" alt="Pacifier, baby clothes, diaper bag" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_tool"> 
+        <a href="http://www.webmd.com/parenting/how-to-diaper-rash-11/diaper-bag-essentials" onclick="return sl(this,'','ed-vid_5');">Essentials for Your Diaper Bag</a> 
+       </div> 
+      </div> 
+      <div class="hc2012hslider_slide_panel hc2012hslider_slide_panel2"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/video/breastfeeding-tips-and-treating-problems" onclick="return sl(this,'','ed-vid_6');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/breastfeeding_tips_video/110x70_breastfeeding_tips_video.jpg" alt="mother breastfeeding child" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/parenting/baby/video/breastfeeding-tips-and-treating-problems" onclick="return sl(this,'','ed-vid_6');">Breastfeeding Problems?</a> 
+       </div> 
+      </div> 
+      <div class="hc2012hslider_slide_panel hc2012hslider_slide_panel3"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/video/sick-baby-when-to-call-my-pediatrician-or-911" onclick="return sl(this,'','ed-vid_7');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/video/sick_baby_call_pediatrician_or_911_video/110x70_sick_baby_call_pediatrician_or_911_video.jpg" alt="mother on phone holding baby" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/parenting/video/sick-baby-when-to-call-my-pediatrician-or-911" onclick="return sl(this,'','ed-vid_7');">Baby Emergency? When to Call 911</a> 
+       </div> 
+      </div> 
+      <div class="hc2012hslider_slide_panel hc2012hslider_slide_panel4"> 
+       <div class="hc2012hslider_slide_panel_img"> 
+        <a href="http://www.webmd.com/parenting/baby/video/does-your-baby-have-a-fever" onclick="return sl(this,'','ed-vid_8');"> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/your_babys_temperature_and_fever_ref_guide/110x70_your_babys_temperature_and_fever_ref_guide.jpg" alt="mother checking babys temperature" /> </a> 
+       </div> 
+       <div class="hc2012hslider_slide_panel_text">
+        VIDEO
+       </div> 
+       <div class="hc2012hslider_slide_panel_link type_vid"> 
+        <a href="http://www.webmd.com/parenting/baby/video/does-your-baby-have-a-fever" onclick="return sl(this,'','ed-vid_8');">Does Your Baby Have a Fever?</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane11">
+   <div class="multi-grp-linked-list"> 
+    <h3 class="no_description">Your Baby's Development - Month by Month</h3> 
+    <div class="unord-lists layout_4_col"> 
+     <div class="col_1"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-development-1-month" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_1');">Your 1-Month-Old</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-development-2-month-old" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_2');">Your 2-Month-Old</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-development-3-months" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_3');">Your 3-Month-Old</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-development-4-month-old" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_4');">Your 4-Month-Old</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-development-5-months" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_5');">Your 5-Month-Old</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-development-6-month-old" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_6');">Your 6-Month-Old</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_2"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/parenting/baby/features/baby-development-your-7-month-old" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_7');">Your 7-Month-Old</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-development-8-month-old" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_8');">Your 8-Month-Old</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/features/baby-development-your-9-month-old" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_9');">Your 9-Month-Old</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/features/baby-development-your-10-month-old" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_10');">Your 10-Month-Old</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/features/baby-development-11-month-old" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_11');">Your 11-Month-Old</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/features/baby-development-your-one-year-old" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_12');">Your 1-Year-Old</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_3"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/parenting/baby/infant-development-9/default.htm" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_13');">Baby Development</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-food-nutrition-9/default.htm" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_14');">Baby Nutrition</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/breastfeeding-9/default.htm" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_15');">Breastfeeding</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/diapering-a-baby-9/default.htm" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_16');">Diapering</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/sleep-naps-12/default.htm" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_17');">Sleeping and Napping</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-skin-10/default.htm" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_18');">Your Baby’s Skin</a> </li> 
+      </ul> 
+     </div> 
+     <div class="col_4"> 
+      <ul> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-gear-guide-9/default.htm" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_19');">Baby Gear</a> </li> 
+       <li> <a class="type_ss" href="http://www.webmd.com/parenting/baby/ss/slideshow-bottle-feeding" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_20');">Bottle Feeding<i> </i></a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/crying-colic-9/default.htm" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_21');">Crying and Colic</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-digestion-and-reflux-directory" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_22');">Digestion</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/breastfeeding-9/breast-feeding-diet" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_23');">TLC for New Moms</a> </li> 
+       <li> <a href="http://www.webmd.com/parenting/baby/baby-food-nutrition-9/starting-solid-food" onclick="return sl(this,'Page Refresh(Default)','grpd-lnk-mnth_24');">Starting Solids</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

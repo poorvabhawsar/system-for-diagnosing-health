@@ -1,0 +1,874 @@
+<title>Chickenpox: Controlling the Itch</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/parenting/features/inside-look-at-the-teen-brain" onclick="return sl(this,'','tools-res_1');">What Makes Your Teen Tick?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/bedwetting-solutions-12/default.htm" onclick="return sl(this,'','tools-res_2');">How to Stop Bedwetting</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" class="type_ss" onclick="return sl(this,'','tools-res_3');">Allergy Relief: What You Need<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/children/digestion-in-children-11/constipation-treatment" onclick="return sl(this,'','tools-res_4');">Treating Constipation in Kids</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/preventative-health-vaccines" onclick="return sl(this,'','tools-res_5');">Protect Your Kids: Get Your Shots</a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-strep-symptoms" onclick="return sl(this,'','tools-res_6');">Strep Throat Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <div class="actionset"> 
+    <div class="action_top"> 
+    </div> 
+    <div class="action_mid"> 
+     <div class="page page_1"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 1 of 6
+       </div> 
+       <a href="#6" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#2" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Chickenpox: Controlling the Itch
+       </div> 
+       <div class="as_content"> 
+        <p> When you or your child has <a href="http://www.webmd.com/hw-popup/chickenpox-8250" onclick="return sl(this,'hw','embd-lnk');">chickenpox</a>, the <a href="http://www.webmd.com/children/vaccines/chickenpox" onclick="return sl(this,'','embd-lnk');">rash</a> <a href="http://www.webmd.com/children/vaccines/chickenpox" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" align="" style="" /></a> that develops can be very uncomfortable. </p> 
+        <h4>Key points</h4> 
+        <ul> 
+         <li>Although the severity of the <a href="http://www.webmd.com/skin-problems-and-treatments/tc/rash-age-12-and-older-topic-overview" onclick="return sl(this,'','embd-lnk');">rash</a> varies from person to person, all people with chickenpox need to minimize scratching the rash to prevent: 
+          <ul>
+           <li> Infection from bacteria under your fingernails or on the <a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-the-skin" onclick="return sl(this,'','embd-lnk');">skin</a> of your hands.</li>
+           <li>Scarring.</li>
+          </ul></li> 
+         <li>You can treat <a href="http://www.webmd.com/skin-problems-and-treatments/guide/skin-conditions-pruritus" onclick="return sl(this,'','embd-lnk');">itching</a> from the chickenpox rash at home with baths and certain <a href="http://www.webmd.com/hw-popup/nonprescription-medications" onclick="return sl(this,'hw','embd-lnk');">over-the-counter</a> medicines and lotions.</li> 
+         <li>Check with your child's doctor before giving these medicines to your child.</li> 
+        </ul> 
+        <p> <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/what.gif" alt="what.gif" align="" style="" /> </a>&nbsp;<a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">What is the chickenpox rash?</a><br /><a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">Why is it important to avoid scratching the chickenpox rash?</a><br /><a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">How can you reduce itching?</a><br /><a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br /></p> 
+        <div class="NoWebPrint"> 
+         <p> <a href="http://www.webmd.com/vaccines/tc/chickenpox-varicella-home-treatment" onclick="return sl(this,'','embd-lnk');">Chickenpox</a> </p> 
+        </div> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#2" class="ac_next">What is the chickenpox rash?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_2" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 2 of 6
+       </div> 
+       <a href="#1" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#3" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        What is the chickenpox rash?
+       </div> 
+       <div class="as_content"> 
+        <p>Chickenpox (varicella) is a common contagious illness caused by the varicella-<a href="http://www.webmd.com/skin-problems-and-treatments/shingles/default.htm" onclick="return sl(this,'','embd-lnk');">zoster virus</a>, a type of <a href="http://www.webmd.com/genital-herpes/default.htm" onclick="return sl(this,'','embd-lnk');">herpes</a> virus. The first symptoms are typical of other minor infections, such as a fever, loss of appetite, <a href="http://www.webmd.com/a-to-z-guides/weakness-and-fatigue-topic-overview" onclick="return sl(this,'','embd-lnk');">fatigue</a>, <a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">headache</a>, and <a href="http://www.webmd.com/cold-and-flu/tc/sore-throat-topic-overview" onclick="return sl(this,'','embd-lnk');">sore throat</a>. The chickenpox rash usually appears 1 or 2 days later.</p> 
+        <p>The chickenpox rash is very itchy and begins with red spots or bumps that change into <a href="http://www.webmd.com/skin-problems-and-treatments/guide/understanding-blisters-basics" onclick="return sl(this,'','embd-lnk');">blisters</a> that are filled with a clear or cloudy liquid and that look like pimples. The blisters eventually break or burst, causing the fluid to leak. As the sores heal, a dry crust forms and protects the skin.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Scratching a rash from chickenpox is okay as long as I keep my fingernails short.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0What');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0What');" />False
+         </form> 
+         <a name="fms_answer2"> </a> 
+         <div id="answer0What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />You should try to avoid scratching as much as possible, regardless of the length of your fingernails. Bacteria can spread from your skin or from under your nails (even short nails) and infect the rash. Scratching also can lead to increased scarring.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />You should try to avoid scratching as much as possible, regardless of the length of your fingernails. Bacteria can spread from your skin or from under your nails (even short nails) and infect the rash. Scratching also can lead to increased scarring.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>When my child or I get the rash from chickenpox, I will need a prescription to stop the itching. </p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1What');" />True
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1What');" />False
+         </form> 
+         <a name="fms_answer2"> </a> 
+         <div id="answer1What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Most healthy children and adults can treat the chickenpox rash at home with baths and certain over-the-counter medicines and lotions. Home treatment can help ease the discomfort and control itching.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Most healthy children and adults can treat the chickenpox rash at home with baths and certain over-the-counter medicines and lotions. Home treatment can help ease the discomfort and control itching.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a> <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">Why is it important to avoid scratching the chickenpox rash?</a><br />Return to <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">Chickenpox: Controlling the Itch</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#3" class="ac_next">Why is it important to avoid scratching the chickenpox rash?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_3" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 3 of 6
+       </div> 
+       <a href="#2" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#4" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Why is it important to avoid scratching the chickenpox rash?
+       </div> 
+       <div class="as_content"> 
+        <p>The most common complication of chickenpox is a skin infection. When you scratch the blisters that develop from the chickenpox rash, they can become infected from the bacteria on your hands and under your fingernails, especially when the sores break open. If you get a skin infection, you will likely need to see a doctor for a prescription medicine to treat the infection.</p> 
+        <p>Scratching the rash also can cause scars. </p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>The most common complication of chickenpox is skin infection, which can be caused by scratching the rash.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0Why');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0Why');" />False
+         </form> 
+         <a name="fms_answer2"> </a> 
+         <div id="answer0Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Even otherwise healthy children and adults can get a skin infection from scratching a chickenpox rash. Because the rash itches a lot and can be very uncomfortable, skin infection is a common side effect of chickenpox.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Even otherwise healthy children and adults can get a skin infection from scratching a chickenpox rash. Because the rash itches a lot and can be very uncomfortable, skin infection is a common side effect of chickenpox.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Although it may cause a skin infection, scratching the chickenpox rash will not make it worse.</p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1Why');" />True
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1Why');" />False
+         </form> 
+         <a name="fms_answer2"> </a> 
+         <div id="answer1Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />In addition to causing a skin infection, scratching the chickenpox rash can create open sores, make the rash more severe, and cause scars. </p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />In addition to causing a skin infection, scratching the chickenpox rash can create open sores, make the rash more severe, and cause scars. </p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a> <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">How can you reduce itching?</a><br />Return to <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">Chickenpox: Controlling the Itch</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#4" class="ac_next">How can you reduce itching?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_4" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 4 of 6
+       </div> 
+       <a href="#3" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#5" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        How can you reduce itching?
+       </div> 
+       <div class="as_content"> 
+        <p>Home treatment methods can help reduce the itchiness of the chickenpox rash. Try the following suggestions to make you or your child more comfortable and keep scratching under control. </p> 
+        <h4>Baths</h4> 
+        <p>Warm to cool baths can help relieve itching. Take baths for 20 to 30 minutes as often as needed to stay clean and soothe your itchy skin. <b>Always stay with young children when they are in a bathtub.</b></p> 
+        <ul> 
+         <li>Do not use soap, or use only a mild soap. Soaps that are made for sensitive skin or recommended for babies are usually mild. </li> 
+         <li>You can add soothing ingredients to the bath. 
+          <ul>
+           <li>Oatmeal baths such as <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-13933-aveeno+top.aspx">Aveeno</a> and Actibath can be bought in most food and drugstores.</li>
+           <li>You can make your own oatmeal bath by mixing <span class="Measurement">1 cup (240 mL)</span> of oatmeal with <span class="Measurement">3 cups (720 mL)</span> cold water and adding it to the bath water.</li>
+           <li>Other ingredients, such as cornstarch [about <span class="Measurement">2 cups (480 mL)</span> per bath] or baking soda can also be added to the bath to help soothe skin.</li>
+          </ul></li> 
+         <li>Blot the skin dry after bathing. Don't rub the skin.</li> 
+        </ul> 
+        <h4>Compresses</h4> 
+        <p>You can apply cool compresses to itchy areas. </p> 
+        <ul> 
+         <li>Use a soft, absorbent cloth, such as a soft washcloth. Wet the cloth with cool water and apply the cool compress directly to the skin. </li> 
+         <li>You can also make an oatmeal paste and apply it to itchy areas.</li> 
+        </ul> 
+        <h4>Lotions</h4> 
+        <p>You can apply soothing lotions that can help dry chickenpox blisters. But talk to your doctor before using lotions that contain <a href="http://www.webmd.com/allergies/guide/antihistamines-for-allergies" onclick="return sl(this,'','embd-lnk');">antihistamines</a>. You could try lotions with: </p> 
+        <ul> 
+         <li> Phenol, menthol, and camphor, such as <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-14271-calamine+top.aspx">calamine</a> lotion.</li> 
+         <li>Oatmeal, such as Aveeno Lotion.</li> 
+        </ul> 
+        <h4>Prevent skin irritation</h4> 
+        <p>Some general hygiene practices can help prevent skin irritation and scratching.</p> 
+        <ul> 
+         <li>Wear loose-fitting cotton clothing.</li> 
+         <li>Change clothes and bedsheets daily.</li> 
+         <li>Use a mild laundry detergent if clothes or linens seem to be irritating the skin.</li> 
+        </ul> 
+        <h4>Antihistamines</h4> 
+        <p>Lotions or creams that contain antihistamines should not be used for chickenpox. But sometimes antihistamines that are taken by mouth will help relieve itching.</p> 
+        <ul> 
+         <li>Antihistamines taken by mouth may help prevent you or your child from scratching the rash and blisters, especially during <a href="http://www.webmd.com/sleep-disorders/default.htm" onclick="return sl(this,'','embd-lnk');">sleep</a>.</li> 
+         <li>Some antihistamines can be bought <a href="http://www.webmd.com/hw-popup/nonprescription-medications" onclick="return sl(this,'hw','embd-lnk');">over-the-counter</a>. If you use them, carefully follow the directions on the label. Check with your child's doctor before you give them to your child.</li> 
+        </ul> 
+        <h4>Help children avoid scratching and infection</h4> 
+        <p>It can be especially challenging to control a child's scratching. Try the following methods to help keep your child from itching the rash or help prevent skin infection that can result from scratching:</p> 
+        <ul> 
+         <li>Clean and closely trim the child's fingernails.</li> 
+         <li>Have a small child wear mittens or clean cotton socks on his or her hands to prevent scratching. Or use light bandages over open blisters.</li> 
+         <li>Wash the child's hands often.</li> 
+         <li>Distract the child when you find him or her scratching.</li> 
+        </ul> 
+        <h4>Use caution</h4> 
+        <p>Take general precautions to control itching and to prevent additional problems. </p> 
+        <ul> 
+         <li>Avoid getting hot and <a href="http://www.webmd.com/skin-problems-and-treatments/hyperhidrosis2" onclick="return sl(this,'','embd-lnk');">sweating</a>, because these trigger itching. Stay out of sunlight. A child can play outside in the shade.</li> 
+         <li>Avoid using antihistamine lotions. You may accidentally apply too much medicine, which can be harmful. Ingredients to avoid include: 
+          <ul>
+           <li>Diphenhydramine.</li>
+           <li><a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-76896-lidocaine-hc+top.aspx">Lidocaine</a>.</li>
+           <li><a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-6057-pramoxine+top.aspx">Pramoxine</a>.</li>
+          </ul></li> 
+        </ul> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Baths are a good way to help soothe a chickenpox rash and help control itching. </p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0How');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0How');" />False
+         </form> 
+         <a name="fms_answer22"> </a> 
+         <div id="answer0How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Warm to cool baths cleanse the skin and help soothe itching. You or your child can soak in water with nothing added to it, or add a mild soap or oatmeal product (such as Aveeno) to help you feel more comfortable and possibly delay more itching. </p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Warm to cool baths cleanse the skin and help soothe itching. You or your child can soak in water with nothing added to it, or add a mild soap or oatmeal product (such as Aveeno) to help you feel more comfortable and possibly delay more itching. </p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Give children nonprescription antihistamine medicines and lotions as much as needed to help control itching. </p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1How');" />True
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1How');" />False
+         </form> 
+         <a name="fms_answer22"> </a> 
+         <div id="answer1How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Talk to your doctor before you give any antihistamine product to a child. It's hard to monitor the amount of both oral and topical (lotion) antihistamine medicines being given and how much a small body absorbs. These products can be harmful to a child, especially when not given properly.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Talk to your doctor before you give any antihistamine product to a child. It's hard to monitor the amount of both oral and topical (lotion) antihistamine medicines being given and how much a small body absorbs. These products can be harmful to a child, especially when they are not given properly.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a> <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br />Return to <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">Chickenpox: Controlling the Itch</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#5" class="ac_next">Where to go from here<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_5" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 5 of 6
+       </div> 
+       <a href="#4" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#6" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Where to go from here
+       </div> 
+       <div class="as_content"> 
+        <p> <b>Talk with your doctor</b> </p> 
+        <p>Call your doctor right away if you or your child has a severe headache or constant <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting" onclick="return sl(this,'','embd-lnk');">vomiting</a>, sensitivity to bright light, unusual sleepiness or confusion, <a href="http://www.webmd.com/lung/breathing-problems-causes-tests-treatments" onclick="return sl(this,'','embd-lnk');">trouble breathing</a>, or coughing that won't go away. Call your doctor if you notice <a href="http://www.webmd.com/hw-popup/symptoms-of-a-skin-infection" onclick="return sl(this,'hw','embd-lnk');">signs of skin infection</a>, such as a continued high fever, increasingly reddening or swollen skin, bigger open sores, or unusual discharge or smell from chickenpox sores. </p> 
+        <p>If you are older than age 12 and have not had chickenpox or the chickenpox vaccine, call your doctor if you have been in contact with someone who has chickenpox. This is especially important for <a href="http://www.webmd.com/baby/default.htm" onclick="return sl(this,'','embd-lnk');">pregnant</a> women and for people with <a href="http://www.webmd.com/hw-popup/impaired-immune-system" onclick="return sl(this,'hw','embd-lnk');">impaired immune systems</a>, no matter what age they are.</p> 
+        <p class="NoWebPrint">Return to <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/children/how-to-control-itching-from-the-chickenpox-rash" onclick="return sl(this,'','embd-lnk');">Chickenpox: Controlling the Itch</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#6" class="ac_next">See More Popular Action Sets<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_6" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 6 of 6
+       </div> 
+       <a href="#5" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#1" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        See More Popular Action Sets
+       </div> 
+       <div id="lastslide"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="action_bot"> 
+    </div> 
+   </div> 
+   <div class="dashed_fmt"> 
+   </div> 
+   <div class="subheadSpaced_fmt"> 
+   </div> 
+   <div class="credits_fmt"> 
+    <table border="0" cellpadding="5"> 
+     <tbody>
+      <tr> 
+       <td valign="top"> <b>By</b> </td> 
+       <td>Healthwise Staff</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+       <td>John Pope, MD - Pediatrics</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+       <td>Thomas Emmett Francoeur, MD, MDCM, CSPQ, FRCPC - Pediatrics</td> 
+      </tr> 
+      <tr> 
+       <td> <b>Last Revised</b> </td> 
+       <td>October 13, 2011</td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionsets.js">
+</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: October 13, 2011
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - ActionSet';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-859"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/parenting/bedwetting-solutions-12/bedwetting-stress-anxiety" onclick="return sl(this,'','rltd-p-859_1');">Can Stress Lead to Bedwetting?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/healthy-aging/drug-costs-12/save-money-prescription-drugs" onclick="return sl(this,'','rltd-p-859_2');">How to Save Money on Prescriptions</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/parenting/answers-health/answers-sick-from-school" onclick="return sl(this,'','rltd-p-859_3');">When Is a Child Too Sick for School?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0812&amp;ch=3" onclick="return sl(this,'','rltd-p-859_4');">How Important Is Fluoride for Kids' Teeth?</a> </li> 
+     <li id="x66"> <a href="http://children.webmd.com/digestion-in-children-11/fiber-rich-lunch" onclick="return sl(this,'','rltd-p-859_5');">Fiber-Rich Lunch Ideas for Kids</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0001" onclick="return sl(this,'','rltd-p-859_6');">What Causes Ringworm?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-859_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e808b8d13" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb82</chronic_id><r_object_id>091e9c5e808b8d13</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8068fb82.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/12/2011 11:02:27</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Childrens Health Portal Template/template_Childrens Health Portal Template_091e9c5e80024677.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80024677"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Chickenpox</name><link_title>Chickenpox</link_title><description>Chickenpox is a highly contagious childhood infection caused by the varicella zoster virus. The condition causes a very itchy, blistery rash and usually a fever. The chickenpox virus spreads through the air, such as when an infected person sneezes or coughs, and by direct contact. Chickenpox once was very common, but the number of those infected has significantly dropped since the development of a vaccine to prevent the infection. Being exposed to the chickenpox virus also raises your risk for a painful condition called shingles later in life. Follow the links below to find WebMD's comprehensive coverage about how chickenpox is contracted, what it looks like, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/children/chickenpox-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8042e575"><link_title>Picture of Varicella Chickenpox</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-varicella-chickenpox</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is chickenpox?</link_title><friendly_url>http://answers.webmd.com/answers/1178949/what-is-chickenpox</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80668b27"><link_title>Slideshow: Scabies Symptoms, Cause, and Treatments</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/ss/slideshow-scabies-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008616"><link_title>The Basics of Blisters</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/guide/understanding-blisters-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8032a480"><link_title>Slideshow: Baby Skin Care &#45;&#45; Simple Tips to Keep Baby's Skin Healthy</link_title><friendly_url>http://www.webmd.com/parenting/baby/ss/slideshow-baby-skin-care</friendly_url><thumbnail height="" width="" alt="Baby in bath">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/baby_skin_care/69x75_baby_skin_care.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8072ca85"><link_title>Slideshow: A Visual Guide to Eczema</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/eczema/ss/slideshow-eczema-overview</friendly_url><thumbnail height="" width="" alt="Eczema on arm">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/eczema_overview_slideshow/69x75_eczema_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8009e12e"><link_title>Young Childhood Immunizations</link_title><friendly_url>http://www.webmd.com/children/vaccines/young-childhood-immunizations</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804d6fb0"><link_title>Slideshow: Newborn Skin Care</link_title><friendly_url>http://www.webmd.com/parenting/baby/baby-skin-10/slideshow-newborn-skin-care</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80435239"><link_title>Picture of Cercarial Dermatitis: Swimmer's Itch</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/picture-of-cercarial-dermatitis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800086a1"><link_title>Understanding the Basics of Chickenpox</link_title><friendly_url>http://www.webmd.com/skin-problems-and-treatments/guide/understanding-chickenpox-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800086ff"><link_title>Understanding Chickenpox Symptoms</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/understanding-chickenpox-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008703"><link_title>Understanding Chickenpox Treatment</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/understanding-chickenpox-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008753"><link_title>Understanding Chickenpox Prevention</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/understanding-chickenpox-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001a9a3"><link_title>Antiviral Medicines for Chickenpox</link_title><friendly_url>http://www.webmd.com/children/vaccines/antiviral-medications-for-chickenpox</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001aa2e"><link_title>Antihistamines for Itching From Chickenpox</link_title><friendly_url>http://www.webmd.com/children/vaccines/antihistamines-for-itching-from-chickenpox</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d7fb"><link_title>Chickenpox (Varicella)-Medications</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-medications</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d96f"><link_title>Chickenpox (Varicella)-Treatment Overview</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d994"><link_title>Chickenpox (Varicella)-Prevention</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dcf3"><link_title>Chickenpox (Varicella)-Exams and Tests</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dfb0"><link_title>Chickenpox (Varicella)-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e09c"><link_title>Chickenpox (Varicella)-Symptoms</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e2ba"><link_title>Chickenpox (Varicella)-What Increases Your Risk</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-what-increases-your-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e314"><link_title>Chickenpox (Varicella)-Home Treatment</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d14d"><link_title>Immunizations-Adolescent Immunizations</link_title><friendly_url>http://www.webmd.com/children/vaccines/tc/immunizations-adolescent-immunizations</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d9f9"><link_title>Chickenpox (Varicella)-Topic Overview</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e1e9"><link_title>Chickenpox (Varicella)-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001da12"><link_title>Chickenpox (Varicella)-Health Tools</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d9bc"><link_title>Chickenpox (Varicella)-Related Information</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e041"><link_title>Chickenpox (Varicella)-What Happens</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-what-happens</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e042"><link_title>Chickenpox (Varicella)-Cause</link_title><friendly_url>http://www.webmd.com/vaccines/tc/chickenpox-varicella-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-varicella-chickenpox" onclick="return sl(this,'','td-rltd-art_1');">Picture of Varicella Chickenpox</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/ss/slideshow-scabies-overview" onclick="return sl(this,'','td-rltd-art_2');">Slideshow: Scabies Symptoms, Cause, and Treatments</a></li>
+      <li><a href="http://answers.webmd.com/answers/1178949/what-is-chickenpox" onclick="return sl(this,'','td-rltd-art_3');">What is chickenpox?</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/guide/understanding-blisters-basics" onclick="return sl(this,'','td-rltd-art_4');">The Basics of Blisters</a></li>
+      <li><a href="http://www.webmd.com/children/vaccines/young-childhood-immunizations" onclick="return sl(this,'','td-rltd-art_5');">Young Childhood Immunizations</a></li>
+      <li><a href="http://www.webmd.com/skin-problems-and-treatments/guide/understanding-chickenpox-basics" onclick="return sl(this,'','td-rltd-art_6');">Understanding the Basics of Chickenpox</a></li>
+      <li><a href="http://www.webmd.com/a-to-z-guides/understanding-chickenpox-symptoms" onclick="return sl(this,'','td-rltd-art_7');">Understanding Chickenpox Symptoms</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/children/chickenpox-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Chickenpox Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=511282041&tile=2107948033&tug=&pug=__&site=2&affiliate=20&hcent=&scent=859&pos=113&xpg=3609&sec=&amp;au1=1&au2=1&uri=%2fchildren%2fhow-to-control-itching-from-the-chickenpox-rash&artid=091e9c5e8001d742&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_age1_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'511282041',
+                    tile:'2107948033',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "3609";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=511282041&amp;tile=2107948033&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5001&amp;xpg=3609&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fchildren%2fhow-to-control-itching-from-the-chickenpox-rash&amp;artid=091e9c5e8001d742&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=511282041&amp;amp;tile=2107948033&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5001&amp;amp;xpg=3609&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fchildren%2fhow-to-control-itching-from-the-chickenpox-rash&amp;amp;artid=091e9c5e8001d742&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3609";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

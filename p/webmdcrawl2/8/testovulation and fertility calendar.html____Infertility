@@ -1,0 +1,274 @@
+<title>Ovulation and Fertility Calendar</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5"></div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <script type="text/javascript">
+    var capps_server = 'https://opc.webmd.com';
+    function Ovul_Window(){
+        window.open(capps_server + "/baby_calendars/ovulation_calendar.aspx?service=ov", "ovul_window", "toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,copyhistory=0,width=640,height=526");
+    }
+    
+    function Ovul_join_Window(){
+        var customRegisterURL = 'https://member.webmd.com/register.aspx?appid=2&returl=' + capps_server + '/baby_calendars/ovulation_calendar.aspx?service=ov';
+        window.open(customRegisterURL, "dfj_window", "toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,copyhistory=0,width=640,height=526");
+    }
+</script>
+   <div id="ovulation_calender_promo"> 
+    <div id="ovulation_cal_top"> 
+     <h2>WebMD Ovulation Calendar</h2> 
+     <p>Want to boost your chances of getting pregnant? Tracking your menstrual<br />cycle is a simple way to predict when you’re most likely to conceive.</p> 
+     <p><strong>Our Ovulation Calendar tells you:</strong></p> 
+     <ul> 
+      <li>Which days you’re most fertile.</li> 
+      <li>The earliest day you can effectively use<br />a home pregnancy test.</li> 
+      <li>What you can do to increase the odds of<br />conceiving a girl.</li> 
+      <li>How to improve your chances of having a boy.</li> 
+     </ul> 
+    </div> 
+    <div id="ovulation_cal_btm"> 
+     <div class="ovulation_cal_sign_in"> 
+      <h3>Sign In</h3> 
+      <p>Already a WebMD member?<br /> Sign in to view your calendar.<br /><br /></p> 
+      <div class="signin" id="signin_btn">
+       <a class="webmd-btn webmd-btn-pr webmd-btn-s" id="signin-submit" onclick="return sl(this,'nw','ovul-cal_sgnin');" href="https://member.webmd.com/signin?appid=31&amp;returl=https%3a%2f%2fopc.webmd.com%2fbaby_calendars%2fovulation_calendar.aspx%3Fservice%3Dov">Sign In</a>
+      </div> 
+      <div class="helpers"> 
+       <a onclick="return sl(this,'scp','ovul-cal_fgpsw');" href="https://member.webmd.com/recover_password.aspx?appid=31">Forgot your password?</a>
+       <br /> 
+      </div> 
+     </div> 
+     <div class="ovulation_cal_create_acc"> 
+      <h3>Create Account</h3> 
+      <p>Don't have a WebMD account? <br />Sign up now - save your calendar and use all of WebMD's free tools, apps and newsletters. </p> 
+      <div id="signup_button"> 
+       <a class="webmd-btn webmd-btn-pr webmd-btn-m" onclick="return sl(this,'nw','ovul-cal_sgnup');" href="https://member.webmd.com/register?appid=31&amp;returl=https%3a%2f%2fopc.webmd.com%2fbaby_calendars%2fovulation_calendar.aspx%3Fservice%3Dov" id="overlay_signup_butn">Sign Up Now</a> 
+      </div> 
+     </div> 
+     <div class="ovulation_cal_view_cal"> 
+      <a id="view-my-calendar" class="webmd-btn webmd-btn-pr webmd-btn-l" onclick="return sl(this,'nw','ovul-cal_sgnup');" href="https://opc.webmd.com/baby_calendars/ovulation_calendar.aspx?service=ov">View My Calendar</a> 
+      <p>Calendar application will open in new window.</p> 
+     </div> 
+     <div class="clear_div"></div> 
+    </div> 
+    <div class="clear_div"></div> 
+   </div> 
+   <div id="ovulation_calendar_disclaimer"> 
+    <p>This tool cannot and should not be used to prevent pregnancy. The ovulation calendar is intended to help you figure out the best times to conceive.</p> 
+   </div> 
+   <script>
+(function(){
+
+	var appid, dest, url;
+
+	appid = '31';
+	dest = 'https://opc.webmd.com/baby_calendars/ovulation_calendar.aspx?service=ov';
+
+	// Check i user is signed in
+	if(webmd.cookie.exists("WBMD_AUTH")){
+
+		// Add a class that will hide some of the links and show others
+		$('#ovulation_calender_promo').addClass("signed_in");
+
+		// TEMPORARY FIX
+		// Since calendar requires a screen name, and some accounts might not have one,
+		// Check if user is missing screenname and redirect through additional info page if necessary
+		if (!window.nickname || window.nickname.indexOf('@') != -1) {
+			url = 'https://member' + webmd.url.getEnv() + '.webmd.com/additional-info';
+			url = webmd.url.setParam('appid', appid, url);
+			url = webmd.url.setParam('returl', dest, url);
+			$('#view-my-calendar').attr('href', url);
+		}
+	}
+})();
+</script> 
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div id="tool-sources" class="attribution_footer"> 
+    <p id="reviewer_text"> </p> 
+    <div id="view_sources"> 
+     <a class="hidden" href="">View Sources</a> 
+     <div id="sources_list" class="hidden"> 
+      <p>SOURCES: Celia Esther Dominguez M.D. Division of Reproductive Endocrinology and Infertility, Department of Gynecology and Obstetrics Emory University</p> 
+     </div> 
+    </div> 
+    <div id="view_disclaimer"> 
+     <a href="" id="disclaimer_button" class="hidden">This tool does not provide medical advice. See additional information:</a> 
+     <div id="disclaimer_text" class="hidden"> 
+      <p>THIS TOOL DOES NOT PROVIDE MEDICAL ADVICE. &nbsp;It is intended for general informational purposes only and does not address individual circumstances. It is not a substitute for professional medical advice, diagnosis or treatment and should not be relied on to make decisions about your health. Never ignore professional medical advice in seeking treatment because of something you have read on the WebMD Site. If you think you may have a medical emergency, immediately call your doctor or dial 911.</p> 
+     </div> 
+    </div> 
+    <p id="copyright_text">&copy; 2008 WebMD, LLC. All rights reserved.</p> 
+   </div> 
+   <script type="text/javascript">$('#view_sources a, #view_disclaimer a').click(function() {
+          $(this).toggleClass('hidden').next().toggleClass('hidden');
+          return false;
+        });</script>
+  </div> 
+  <div id="ContentPane12">
+   <div id="rightAd_rdr"> 
+    <div class="rightAd_top_fmt"> 
+    </div> 
+    <div id="rightAd_fmt" class="rightAd_BG_fmt"> 
+     <div style="height: 250px;" class="ad_placeholder"> 
+     </div> 
+    </div> 
+    <div class="rightAd_bottom_fmt"> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+                  // grabs pageview id out of global scope and makes sure it exists as we need to pass it to ads in that case
+                  var pageviewId = window.s_pageview_id || '';
+
+                  var iframeURLOutOfPB = '//as.webmd.com/html.ng/transactionID=164873082&tile=2067694258&tug=&pug=__&site=2&affiliate=20&hcent=793&scent=&pos=121&xpg=3607&sec=&amp;au1=&au2=&uri=%2fbaby%2fhealthtool-ovulation-calendar&artid=091e9c5e801f81cc&inst=0&amp;leaf=2047&segm=0&cc=100&tmg=&bc=__&mcent=&micro=&pvid=' + pageviewId;
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'right',
+                    adURL:cleanIframeURL,  
+                    trans:'164873082',
+                    tile:'2067694258',
+                    pos:'121'
+                  };
+
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);                 
+                  }
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "3607";
+      var secTopId = "";
+    </script>
+   <div class="gen_ll" id="rltd-to-bby"> 
+    <h3> <a href="http://www.webmd.com/baby/directory-index" onclick="return sl(this,'','rltd-to-bby_head');">Related to Pregnancy</a> </h3> 
+    <ul> 
+     <li class="first"> <a href="http://www.webmd.com/baby/gestational-diabetes-directory" onclick="return sl(this,'','rltd-to-bby_1');">Gestational Diabetes</a> </li> 
+     <li class="odd"> <a href="http://www.webmd.com/baby/tc/labor-delivery-and-postpartum-period-topic-overview" onclick="return sl(this,'','rltd-to-bby_2');">Labor and Delivery</a> </li> 
+     <li> <a href="http://www.webmd.com/baby/pregnancy-multiples-twins-directory" onclick="return sl(this,'','rltd-to-bby_3');">Multiples and Twins</a> </li> 
+     <li class="odd"> <a href="http://www.webmd.com/parenting/baby/baby-toc-old" onclick="return sl(this,'','rltd-to-bby_4');">Newborns</a> </li> 
+     <li> <a href="http://www.webmd.com/baby/pregnancy-nutrition-directory" onclick="return sl(this,'','rltd-to-bby_5');">Pregnancy Nutrition</a> </li> 
+     <li class="odd"> <a href="http://www.webmd.com/baby/pregnancy-tests-directory" onclick="return sl(this,'','rltd-to-bby_6');">Pregnancy Tests</a> </li> 
+     <li class="last"> <a href="http://www.webmd.com/baby/directory-index" onclick="return sl(this,'','rltd-to-bby_7');">More Related Topics</a> </li> 
+    </ul> 
+   </div>
+  </div> 
+  <div id="ContentPane13">
+   <div id="cdsnl"></div> 
+   <script>
+$(window).load(function() {
+require(['newsletter/1/cds-newsletter', 'css!newsletter/1/cds-newsletter.css'], function(module){
+ module.init();
+});
+});
+</script>
+   <div class="top_search_rdr" id="top-twlv-ttc"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top 12 Topics</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/baby/guide/pregnancy-am-i-pregnant" onclick="return sl(this,'','top-twlv-ttc_1');">Early Pregnancy Signs</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/baby/guide/8-ways-to-boost-your-fertility" onclick="return sl(this,'','top-twlv-ttc_2');">Boosting Fertility</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/baby/tc/getting-pregnant-after-stopping-birth-control-topic-overview" onclick="return sl(this,'','top-twlv-ttc_3');">Stopping Birth Control</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://exchanges.webmd.com/could-i-be-pregnant-exchange" onclick="return sl(this,'','top-twlv-ttc_4');">‘Could I Be Pregnant?’</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/baby/guide/prenatal-vitamins" onclick="return sl(this,'','top-twlv-ttc_5');">Prenatal Vitamins</a> 
+      </div> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/baby/guide/understanding-conception" onclick="return sl(this,'','top-twlv-ttc_6');">Understanding Conception</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/baby/features/cost-of-having-a-baby" onclick="return sl(this,'','top-twlv-ttc_7');">Costs of a Baby</a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/baby/guide/getting-started-on-getting-pregnant" onclick="return sl(this,'','top-twlv-ttc_8');">What Are Your Odds?</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://exchanges.webmd.com/infertility-and-reproduction-exchange" onclick="return sl(this,'','top-twlv-ttc_9');">Trying to Conceive</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/baby/features/whats-the-best-age-to-have-a-baby" onclick="return sl(this,'','top-twlv-ttc_10');">Best Age to Have a Baby</a> 
+      </div> 
+      <div class="top_search_number">
+       11
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/baby/charting-your-fertility-cycle" onclick="return sl(this,'','top-twlv-ttc_11');">Charting Your Cycle</a> 
+      </div> 
+      <div class="top_search_number">
+       12
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/infertility-and-reproduction/ss/slideshow-which-treatment-is-for-you" onclick="return sl(this,'','top-twlv-ttc_12');">Fertility Treatments</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

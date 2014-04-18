@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="./cssimages/style.css" />
+<script src="./cssimages/jquery-1.8.0.min.js"></script>
+
+<title>Health Diagnosing System</title>
+
+<script type="text/javascript">
+function sympage(){
+        window.location='./symptoms.jsp';
+    }
+
+</script>
+
+</head>
+
+<body>
+    <div id="page">
+		
+        <div id="header">
+        	<h1>Health Diagnosing System</h1>
+            <h2>Ask your online doctor</h2>
+            
+	      </div>
+		<div id="bar">
+		    <ul>
+		        <li><a href="./index.html">Home</a></li>
+		        <li><a href="#">Diagnosing system</a></li>
+		        <li><a href="./index.html">Contact</a></li>
+		    </ul>
+	      </div>
+		<div class="contentTitle"><h1>Symptom checker</h1></div>
+		
+		<div class="contentText" name="contentText" id="contentText">
+		  <p>Take the first step and see what could be causing your symptoms. </p>
+		  <p>Please enter the Body part related to your symptom :</p>
+
+		
+		<p>Click on human body to identify body part</p>
+
+		<img src="./cssimages/A-Picture-Of-A-Human-Body.jpg" alt="HumanBody" usemap="#human"/>
+
+		<map id="human" name="human" class="human">
+		  <area shape="rect" coords="79,121,171,268" alt="torso" onclick="">
+		  <area shape="circle" coords="121,53,50" alt="head" href="mercur.htm">
+		  <area shape="poly" coords="65,115,75,126,61,230,35,310,38,370,17,339,40,216,47,136,65,115" alt="lefthand" href="venus.htm">
+		  <area shape="poly" coords="176,117,194,129,192,177,201,213,226,337,207,368,206,306,172,186,165,127,176,117" alt="righthand" href="venus.htm">
+		  <area shape="poly" coords="71,259,120,284,168,259,141,292,120,319,97,295,71,259" alt="pelvis" href="venus.htm">
+		  <area shape="poly" coords="115,323,108,378,96,467,99,517,101,597,93,633,66,629,78,591,58,499,65,499,65,298,115,323" alt="leftleg" href="mercur.htm">
+		  <area shape="poly" coords="177,297,177,412,178,458,183,493,165,595,177,629,146,633,142,595,143,519,146,475,125,326,177,297" alt="rightleg" href="venus.htm">
+		</map>
+
+		<div id="options" style="height:600px;width:400px;float:right;">
+		
+			<form action="form_action.asp">
+                            <p> Please select body parts </p> <br>
+                            <select name="bodyparts" multiple id="bodyparts">
+                               <!-- <option value="Chest">Chest</option>
+                                <option value="Heart">Heart</option>
+                                <option value="Liver">Liver</option>
+                                <option value="Spleen">Spleen</option>
+                                <option value="Kidney">Kidney</option>
+                                <option value="Esophagus">Esophagus</option>
+                                <option value="Stomach">Stomach</option>
+                                <option value="Pancreas">Pancreas</option>
+                                <option value="Intestines">Intestines</option> -->
+                            </select>
+			<br>
+			<input type="submit">
+			</form>
+
+		<button type="button" onclick="sympage()" style="float:right;">Next</button>
+		</div>
+
+
+          
+</div>
+</div>
+</body>
+</html>

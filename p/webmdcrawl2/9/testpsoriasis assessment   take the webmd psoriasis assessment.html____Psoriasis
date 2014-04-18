@@ -1,0 +1,126 @@
+<title>Psoriasis Assessment - Take the WebMD Psoriasis Assessment</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5"></div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9">
+   <div id="healthcheck" class="healthcheck startscreen"> 
+    <div class="toolbar"> 
+     <ul> 
+      <li><a href="#" class="retake"><i></i>Retake Assessment</a></li> 
+      <li><a href="#" class="email"><i></i>Email Results</a></li> 
+      <li><a href="#" class="print"><i></i>Print Results</a></li> 
+     </ul> 
+    </div> 
+    <form class="content"> 
+     <section class="section clearfix"> 
+      <div class="header"> 
+       <!-- If no start screen, blank the contents of the h2, but leave the tags --> 
+       <h2>Can You Make Living<br />With Psoriasis Easier?</h2> 
+      </div> 
+      <div class="body clearfix"> 
+       <!-- Start screen content, you can put your own code here if you need to. --> 
+       <!-- CHANGE --> 
+       <!--p>Descriptive text</p--> 
+       <!-- Make sure your button or whatever is used to start the assessment has the "next" class on it so that the functionality can be bound to it. --> 
+       <a href="#" class="webmd-btn webmd-btn-pr webmd-btn-m next">Get Started</a> 
+       <h3>Answer a few questions, and you'll get:</h3> 
+       <ul> 
+        <li class="check two-line">Guidance for finding the best treatment</li> 
+        <li class="clipboard two-line">Advice on avoiding flare-ups</li> 
+        <li class="download two-line">Tips for soothing and improving skin</li> 
+       </ul> 
+       <!-- If there is no start screen... --> 
+       <!--div class="loading_large">Loading ...</div--> 
+       <!-- /CHANGE --> 
+      </div> 
+     </section> 
+     <div class="npnav"> 
+      <a href="#" class="prev" id="hc-prevbtn"><span>Back</span></a> 
+      <a href="#" class="next loading" id="hc-nextbtn"><span>Continue</span><i class="spinner"></i></a> 
+     </div> 
+     <div class="progress"> 
+      <!-- Progress bar --> 
+      <div class="progress-fill"></div> 
+     </div> 
+    </form> 
+   </div> 
+  </div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19">
+   <div id="sources" class="attribution_footer"> 
+    <p id="reviewer_text">Reviewed by <a onclick="return sl(this,'','review-lnk');" target="_blank" href="http://www.webmd.com/h-debra-jaliman">Debra Jaliman, MD</a> on July 30, 2013</p> 
+    <div id="view_sources"> 
+     <a class="hidden" href="">View Sources</a> 
+     <div id="sources_list" class="hidden"> 
+      <p>AMA Amednews.com: &quot;Psoriasis may Reflect Systemic Inflammation, Heart Disease.&quot;</p> 
+      <p>AMA PsoriasisNet: “Psoriasis Treatment: Medicine that Works throughout the Body.”</p> 
+      <p>AMA PsoriasisNet: “Psoriasis Treatment: Medicine Applied to the Skin.”</p> 
+      <p>American Cancer Society: &quot;Cancer Prevention.&quot;</p> 
+      <p>American Cancer Society: &quot;Guide to Quitting.&quot;</p> 
+      <p>Arthritis Foundation: &quot;Bracing for Arthritis.&quot;</p> 
+      <p>Arthritis Foundation: &quot;Making a Well-Rounded Workout.&quot;</p> 
+      <p>Arthritis Foundation: &quot;Psoriatic Arthritis: Treatment Options.&quot;</p> 
+      <p>Behnam, S. <i>Cutis,</i> September 2005; vol 76: pp 181-185.</p> 
+      <p>Cleveland Clinic: &quot;Occupational and Physical Therapy for Arthritis.&quot;</p> 
+      <p>Yang, Y. Chen, C. Chen, Y. Lin, H. Psoriasis and pregnancy outcomes: A&nbsp;nationwide population-based study. <i>Journal of the American Academy of Dermatology</i>; 2011; Volume 64 (1); pp71-77.</p> 
+      <p>Drugs.com: &quot;Corticosteroid--Medium- to Very-High-Potency- Topical Application.&quot;</p> 
+      <p>Drugs.com: &quot;Anthralin Cream.&quot;</p> 
+      <p>Drugs.com: &quot;What Is Protopic?&quot;</p> 
+      <p>Familydoctor.org: &quot;Mind/Body Connection: How Your Emotions Affect Your Health.&quot;</p> 
+      <p>Gerdes, S. <i>Dermatology,</i> December 2009; vol 220: pp 38-43.</p> 
+      <p>KidsHealth.org: &quot;Childhood Stress.&quot;</p> 
+      <p>Kimball, A. <i>Journal of the American Academy of Dermatology</i>, June 2008; vol 58: pp 1031-1042.</p> 
+      <p>Luba, K., <i>American Family Physician,</i> February 2006; vol 73: pp 636-644, 646.</p> 
+      <p>Medline Plus: &quot;Acitretin.&quot;</p> 
+      <p>Medline Plus: &quot;Cyclosporine.&quot;</p> 
+      <p>Medline Plus: &quot;Major Depression.&quot;</p> 
+      <p>Medline Plus: &quot;Methotrexate.&quot;</p> 
+      <p>Medline Plus: &quot;Newer Drug More Effective in Psoriasis Treatment.&quot;</p> 
+      <p>MedlinePlus: &quot;Adalimumab.&quot;</p> 
+      <p>MedlinePlus: &quot;Alefacept.&quot;</p> 
+      <p>Menter, A. <i>Journal of the American Academy of Dermatology</i>, 2009; vol 60: pp 643-659.&nbsp;</p> 
+      <p>National Cancer Institute: &quot;Quitting Smoking: Why To Quit and How To Get Help.&quot;</p> 
+      <p>National Institute of Alcohol Abuse and Alcoholism: &quot;How to Cut Down on Your Drinking.&quot;</p> 
+      <p>National Institute of Mental Health: &quot;Depression.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;Emotions: Coping With Psoriasis.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;Systemic Medications for Psoriasis and Psoriatic Arthritis Including Biologics.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;Erythrodermic psoriasis.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;Pustular Psoriasis.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;A Handbook for Teens With Psoriasis.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;About Psoriasis in Children.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;An Overview of Psoriasis and Arthritic Psoriasis.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;Causes of Psoriasis.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;Communication.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;Conception and Pregnancy.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;Dating and Relationships.&quot;</p> 
+      <p>National Psoriasis Foundation: &quot;Discrimination and ADA.&quot;</p> 
+      <p>Setty AR, Curhan G, Choi HK. Obesity, waist circumference, weight change, and the risk of psoriasis in women: Nurses' Health Study II. <i>Arch Intern Med. </i>2007 Aug 13-27;167(15):1670-5.</p> 
+     </div> 
+    </div> 
+    <div id="view_disclaimer"> 
+     <a href="" id="disclaimer_button" class="hidden">This tool does not provide medical advice. See additional information:</a> 
+     <div id="disclaimer_text" class="hidden"> 
+      <p>THIS TOOL DOES NOT PROVIDE MEDICAL ADVICE. &nbsp;It is intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis or treatment. Never ignore professional medical advice in seeking treatment because of something you have read on the WebMD Site. If you think you may have a medical emergency, immediately call your doctor or dial 911.</p> 
+     </div> 
+    </div> 
+    <p id="copyright_text">&copy; 2013 WebMD, LLC. All rights reserved.</p> 
+   </div> 
+   <script type="text/javascript">$('#view_sources a, #view_disclaimer a').click(function() {
+          $(this).toggleClass('hidden').next().toggleClass('hidden');
+          return false;
+        });</script>
+  </div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

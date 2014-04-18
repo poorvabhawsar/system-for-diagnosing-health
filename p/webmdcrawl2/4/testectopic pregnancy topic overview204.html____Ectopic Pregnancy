@@ -1,0 +1,735 @@
+<title>Ectopic Pregnancy-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Pregnancy Essentials</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/baby/video/morning-sickness-treatments" class="type_vid" onclick="return sl(this,'','tools-res_1');">Managing Morning Sickness<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/baby/video/eddleman-what-expect-during-labor" class="type_vid" onclick="return sl(this,'','tools-res_2');">What to Expect During Labor<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/baby/rm-quiz-pregnancy-food-facts" onclick="return sl(this,'','tools-res_3');">Pregnancy Food Facts: What's Safe?</a></li>
+      <li id="x59"><a href="http://www.webmd.com/baby/video/amniocentesis" class="type_vid" onclick="return sl(this,'','tools-res_4');">What Is Amniocentesis?<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/baby/video/pregnancy-vitamin-d" class="type_vid" onclick="return sl(this,'','tools-res_5');"> Pregnancy and Vitamin D<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/beauty/answers-hair/answers-hair-thicker-pregnant" onclick="return sl(this,'','tools-res_6');">Q&amp;A: Pregnancy and Your Hair</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e90905"><metadata_section><i_chronicle_id>091e9c5e8001de43</i_chronicle_id><r_object_id>091e9c5e80e90905</r_object_id><title>Topic Overview</title><object_name>ectopic_pregnancy-topic_overview_major_hw144923.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80e90905</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>major_hw144923</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Ectopic Pregnancy-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e803784ff</r_object_id><publ_i_chronicle_id>091e9c5e80019167</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Major</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Ectopic pregnancy - In about 2% of pregnancies, the fertilized egg attaches to an area outside of the uterus, which results in an ectopic pregnancy (also known as a tubal pregnancy).</wbmd_desc_meta><wbmd_orig_pub_dt>04/26/2013 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Ectopic pregnancy - In about 2% of pregnancies, the fertilized egg attaches to an area outside of the uterus, which results in an ectopic pregnancy (also known as a tubal pregnancy).</wbmd_desc_user><wbmd_lk_ttl>Ectopic Pregnancy-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>ectopic pregnancy, tubal pregnancy, extrauterine pregnancy, complications of pregnancy, Pregnancy, pregnancy complications, pregnancy disorder, pregnancy-related problems, Pregnant, Women's Health, fallopian tubes, baby, infant, embryo, fetus, fetal, risk, complications, cause, causes, symptoms, treatments</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>Age.122</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e90905</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3608" wbmd_disp_nm="Pregnancy"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="3" wbmd_disp_nm="Female"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1096" wbmd_disp_nm="Pregnancy"></wbmd_c_channel_id><wbmd_c_frnd_nm>Ectopic-Pregnancy-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header>What is an ectopic pregnancy?</section_header><section_type>Overview</section_type><section_text><p>In a normal
+			 <a chronic_id="091e9c5e80c2b07d" crossLinkId="507" directive="friendlyurl" externalId="091e9c5e80c2b07d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Baby_091e9c5e80c2b07d/page_Health and Baby_091e9c5e80c2b07d.xml" keywordId="8123" keywordSetId="1742" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Baby_091e9c5e80c2b07d/page_Health and Baby_091e9c5e80c2b07d.xml">pregnancy</a>, a fertilized egg travels through a
+			 <a chronic_id="091e9c5e8001b033" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/fallopian_tubes_definition_stf124085.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fallopian_tubes_definition_stf124085.xml">fallopian tube</a> to the
+			 <a chronic_id="091e9c5e8001afee" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/uterus_definition_stu3215.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/uterus_definition_stu3215.xml">uterus</a>. The egg attaches in the uterus and starts to
+			 grow. But in an <a chronic_id="091e9c5e8001e965" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/ectopic_pregnancy_multimedia_tp12396.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/ectopic_pregnancy_multimedia_tp12396.xml">ectopic pregnancy</a><a chronic_id="091e9c5e8001e965" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/ectopic_pregnancy_multimedia_tp12396.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/ectopic_pregnancy_multimedia_tp12396.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>, the fertilized egg attaches (or implants)
+			 someplace other than the uterus, most often in the fallopian tube. (This is why
+			 it is sometimes called a tubal pregnancy.) In rare cases, the egg implants in
+			 an ovary, the <a chronic_id="091e9c5e809d8058" crossLinkId="1587097" directive="friendlyurl" externalId="091e9c5e809d8058" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/cervix.xml" keywordId="70866" keywordSetId="31988" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/cervix.xml">cervix</a>, or the belly.</p><p>There is no way to save an <a chronic_id="091e9c5e80008ae6" crossLinkId="1554330" directive="friendlyurl" externalId="091e9c5e80008ae6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/womens_health/pregnancy/risks/Pregnancy_Ectopic_Pregnancy.xml" keywordId="34825" keywordSetId="8706" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/womens_health/pregnancy/risks/Pregnancy_Ectopic_Pregnancy.xml">ectopic pregnancy</a>. It
+			 cannot turn into a normal pregnancy. If the egg keeps growing in the fallopian
+			 tube, it can damage or burst the tube and cause heavy bleeding that could be
+			 deadly. If you have an ectopic pregnancy, you will need quick treatment to end
+			 it before it causes dangerous problems. </p></section_text></section_group><section_group><section_header>What causes an ectopic pregnancy?</section_header><section_type>Overview</section_type><section_text><p>An ectopic
+			 pregnancy is often caused by damage to the fallopian tubes. A fertilized egg
+			 may have trouble passing through a damaged tube, causing the egg to implant and
+			 grow in the tube. </p><p> Things that make you more likely to have
+			 fallopian tube damage and an ectopic pregnancy include:</p><ul><li><a chronic_id="091e9c5e800ab373" crossLinkId="451" directive="friendlyurl" externalId="091e9c5e800ab373" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml" keywordId="40038" keywordSetId="9788" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.xml">Smoking</a>. The more you smoke, the higher your
+				risk of an ectopic pregnancy.</li><li><a chronic_id="091e9c5e8001b525" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/pelvic_inflammatory_disease_definition_stp1500.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pelvic_inflammatory_disease_definition_stp1500.xml">Pelvic inflammatory disease (PID)</a>. This is often the
+				result of an infection such as
+				<a chronic_id="091e9c5e8001b214" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/chlamydia_definition_stc123684.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/chlamydia_definition_stc123684.xml">chlamydia</a> or
+				<a chronic_id="091e9c5e8001b028" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/gonorrhea_definition_stg124257.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/gonorrhea_definition_stg124257.xml">gonorrhea</a>.</li><li><a chronic_id="091e9c5e8001b0d8" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/endometriosis_definition_ste122087.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/endometriosis_definition_ste122087.xml">Endometriosis</a>,
+				which can cause scar tissue in or around the fallopian tubes.</li><li>
+				Being exposed to the chemical
+				<a chronic_id="091e9c5e8001b181" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/diethylstilbestrol_des_definition_std120880.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/diethylstilbestrol_des_definition_std120880.xml">DES</a> before you were born.</li></ul><p>Some medical treatments can increase your risk of ectopic
+			 pregnancy. These include:</p><ul><li> Surgery on the fallopian tubes or in the
+				pelvic area. </li><li><a chronic_id="" crossLinkId="31614" directive="friendlyurl" externalId="D24D96CDABED4B73" href="http://www.webmd.com/infertility-and-reproduction/guide/infertility-reproduction-treatment-care" keywordId="42053" keywordSetId="9050" object_type="" path="/webmdhttp://www.webmd.com/infertility-and-reproduction/guide/infertility-reproduction-treatment-care">Fertility treatments</a> such as
+				<a chronic_id="091e9c5e8001b493" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/assisted_reproductive_technology_definition_sta123331.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/assisted_reproductive_technology_definition_sta123331.xml">in vitro fertilization</a>.</li></ul></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>Overview</section_type><section_text><p>In the first few weeks, an
+			 ectopic pregnancy usually causes the same symptoms as a normal pregnancy, such
+			 as a missed menstrual period, <a chronic_id="091e9c5e8001e577" crossLinkId="43920" directive="friendlyurl" externalId="091e9c5e8001e577" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/weakness_and_fatigue-topic_overview_symptom_hw90102.xml" keywordId="7389" keywordSetId="1192" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/weakness_and_fatigue-topic_overview_symptom_hw90102.xml">fatigue</a>, <a chronic_id="091e9c5e800079b6" crossLinkId="5629" directive="friendlyurl" externalId="091e9c5e800079b6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml" keywordId="38405" keywordSetId="9410" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml">nausea</a>, and sore breasts. </p><p>The key signs of an ectopic pregnancy are:</p><ul><li> Pelvic or belly pain. It may be sharp on one
+				side at first and then spread through your belly. It may be worse when you move
+				or strain.</li><li><a chronic_id="091e9c5e8001e704" crossLinkId="1588126" directive="friendlyurl" externalId="091e9c5e8001e704" href="/webmd/consumer_assets/controlled_content/healthwise/symptom/abnormal_vaginal_bleeding-topic_overview_symptom_hw63221.xml" keywordId="41483" keywordSetId="10044" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/abnormal_vaginal_bleeding-topic_overview_symptom_hw63221.xml">Vaginal bleeding</a>. </li></ul><p>If you think you are pregnant and you have these
+			 symptoms, see your doctor right away. </p></section_text></section_group><section_group><section_header>How is an ectopic pregnancy diagnosed?</section_header><section_type>Overview</section_type><section_text><p>A urine
+			 test can show if you are pregnant. To find out if you have an ectopic
+			 pregnancy, your doctor will likely do:</p><ul><li> A pelvic exam to check the size of your
+				uterus and feel for growths or tenderness in your belly.</li><li> A <a chronic_id="091e9c5e8056ea80" crossLinkId="1506783" directive="friendlyurl" externalId="091e9c5e8056ea80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml" keywordId="62987" keywordSetId="28544" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml">blood</a>
+				test that checks the level of the pregnancy hormone (hCG). This test is
+				repeated 2 days later. During early pregnancy, the level of this hormone
+				doubles every 2 days. Low levels suggest a problem, such as ectopic pregnancy.
+				</li><li> An
+				<a chronic_id="091e9c5e8001b2d6" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ultrasound_test_definition_stu3177.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ultrasound_test_definition_stu3177.xml">ultrasound</a>. This test can show pictures of what is
+				inside your belly. With <a chronic_id="091e9c5e80743115" crossLinkId="1523137" directive="friendlyurl" externalId="091e9c5e80743115" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/miscellaneous/What_Is_an_Ultrasound.xml" keywordId="41424" keywordSetId="10032" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/miscellaneous/What_Is_an_Ultrasound.xml">ultrasound</a>, a doctor can usually see a pregnancy in the
+				uterus 6 weeks after your last menstrual period.</li></ul></section_text></section_group></page><page><section_group><section_header>How is it treated?</section_header><section_type>Overview</section_type><section_text><p>The most common treatments are
+			 medicine and surgery. In most cases, a doctor will treat an ectopic pregnancy
+			 right away to prevent harm to the woman. </p><p>Medicine can be used if
+			 the pregnancy is found early, before the tube is damaged. In most cases, one or
+			 more shots of a medicine called <a chronic_id="" crossLinkId="66357" directive="friendlyurl" externalId="3441" href="http://www.webmd.com/drugs/drug-3441-methotrexate+anti-rheumatic+oral.aspx" keywordId="54830" keywordSetId="7739" object_type="" path="/webmdhttp://www.webmd.com/drugs/drug-3441-methotrexate+anti-rheumatic+oral.aspx">methotrexate</a> will end the pregnancy. Taking the
+			 shot lets you avoid surgery, but it can cause side effects. You will need to
+			 see your doctor for follow-up blood tests to make sure the shot worked.</p><p>For a pregnancy that has gone beyond the first few weeks, surgery is
+			 safer and more likely to work than medicine. If possible, the surgery will be
+			 <a chronic_id="091e9c5e8001b124" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/laparoscopy_definition_stl158061.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/laparoscopy_definition_stl158061.xml">laparoscopy</a> (say "lap-uh-ROSS-kuh-pee"). This type of
+			 surgery is done through one or more small cuts (incisions) in your belly. If
+			 you need emergency surgery, you may have a larger incision.</p></section_text></section_group><section_group><section_header>What can you expect after an ectopic pregnancy?</section_header><section_type>Overview</section_type><section_text><p>Losing a pregnancy is always hard, no matter how early it happened. Take
+			 time to grieve your loss, and get the support you need to make it through this
+			 time. </p><p> You could be at risk for
+			 <a chronic_id="091e9c5e8001b599" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/depression_definition_std120700.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/depression_definition_std120700.xml">depression</a> after an ectopic pregnancy. If you have
+			 <a chronic_id="" crossLinkId="31695" directive="friendlyurl" externalId="B50DFC0E198F4D76" href="http://www.webmd.com/depression/guide/depression-symptoms-and-types" keywordId="40482" keywordSetId="9877" object_type="" path="/webmdhttp://www.webmd.com/depression/guide/depression-symptoms-and-types">symptoms of depression</a> that last for more than a couple of weeks, be sure to
+			 tell your doctor so you can get the help you need.</p><p>It is common to
+			 worry about your fertility after an ectopic pregnancy. Having an ectopic
+			 pregnancy does not mean that you can't have a normal pregnancy in the future.
+			 But it does mean that:</p><ul><li> You may have trouble getting pregnant.
+				</li><li> You are more likely to have another ectopic pregnancy.</li></ul><p>If you get pregnant again, be sure your doctor knows that
+			 you had an ectopic pregnancy before. Regular testing in the first weeks of
+			 pregnancy can find a problem early or let you know that the pregnancy is
+			 normal. </p></section_text></section_group><section_group><section_header>Frequently Asked Questions</section_header><section_type>Overview</section_type><section_text><table cellpadding="0" cellspacing="0"><col><tr><td valign="top"><p><b>Learning about ectopic pregnancy:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001b381" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/ectopic_pregnancy_definition_ste122039.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ectopic_pregnancy_definition_ste122039.xml">What is an ectopic pregnancy?</a></li><li><a chronic_id="091e9c5e8001daa2" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-symptoms_major_hw144958.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-symptoms_major_hw144958.xml">What are the symptoms?</a></li><li><a chronic_id="091e9c5e8001dc54" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-what_increases_your_risk_major_tp20654.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-what_increases_your_risk_major_tp20654.xml">What increases my risk of having an ectopic pregnancy?</a></li><li><a chronic_id="091e9c5e8001d86b" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-what_happens_major_tp20653.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-what_happens_major_tp20653.xml">What are the dangers of an ectopic pregnancy?</a></li></ul></td></tr><tr><td valign="top"><p><b>Being diagnosed:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001deee" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-when_to_call_a_doctor_major_tp20655.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-when_to_call_a_doctor_major_tp20655.xml">When should I see a doctor about a possible ectopic pregnancy?</a></li><li><a chronic_id="091e9c5e8001d85f" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-exams_and_tests_major_hw144972.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-exams_and_tests_major_hw144972.xml">How does a doctor diagnose an ectopic pregnancy?</a></li></ul></td></tr><tr><td valign="top"><p><b>Getting treatment:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001e1ea" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-treatment_overview_major_hw144988.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-treatment_overview_major_hw144988.xml">How is an ectopic pregnancy treated?</a></li></ul></td></tr><tr><td valign="top"><p><b>Ongoing concerns:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e80e6aa4b" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/ectopic_pregnancy_getting_pregnant_again-topic_overview_special_aa83417-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/ectopic_pregnancy_getting_pregnant_again-topic_overview_special_aa83417-sec.xml">How does an ectopic pregnancy affect my chances of having a healthy pregnancy in the future?</a></li></ul></td></tr></table></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-topic-overview" owner="false"><breadcrumb><bread piece="Health &amp; Pregnancy Center" prefix="www" friendlyurl="/baby/default.htm"></bread><bread piece="Health &amp; Pregnancy Related Topics" prefix="www" friendlyurl="/baby/tc/default.htm"></bread></breadcrumb><centers><Topic id="950" name="tmg" chronicid="091e9c5e8001de43" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-topic-overview" type="Topic">Ectopic Pregnancy</Topic><Health id="793" name="health center" chronicid="091e9c5e80c2b07d" prefix="www" friendlyurl="/baby/default.htm" type="">Health &amp; Baby</Health></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-topic-overview" owner="false"><breadcrumb><bread piece="Health &amp; Pregnancy Center" prefix="www" friendlyurl="/baby/default.htm"></bread><bread piece="Health &amp; Pregnancy Related Topics" prefix="www" friendlyurl="/baby/tc/default.htm"></bread></breadcrumb><centers><Topic id="11169" name="tmg" chronicid="091e9c5e8001de43" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-topic-overview" type="Topic">Ectopic Pregnancy</Topic><Health id="11166" name="health center" chronicid="091e9c5e80688ded" prefix="www" friendlyurl="/baby/default.htm" type="">Health &amp; Pregnancy</Health></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e80c2b07d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Baby_091e9c5e80c2b07d/page_Health and Baby_091e9c5e80c2b07d.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/default.htm" umtchronicleid="091e9c5e80688ded"></target><target siteid="8" name="" prefix="www" friendlyurl="/baby/default.htm" umtchronicleid="091e9c5e80688ded"></target></object><object chronic_id="091e9c5e8001b033" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fallopian_tubes_definition_stf124085.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/fallopian-tubes"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/fallopian-tubes"></target></object><object chronic_id="091e9c5e8001afee" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/uterus_definition_stu3215.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/uterus"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/uterus"></target></object><object chronic_id="091e9c5e8001e965" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/ectopic_pregnancy_multimedia_tp12396.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/ectopic-pregnancy"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/ectopic-pregnancy"></target></object><object chronic_id="091e9c5e809d8058" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/cervix.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/picture-of-the-cervix"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/picture-of-the-cervix"></target></object><object chronic_id="091e9c5e80008ae6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/womens_health/pregnancy/risks/Pregnancy_Ectopic_Pregnancy.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/guide/pregnancy-ectopic-pregnancy"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/guide/pregnancy-ectopic-pregnancy"></target></object><object chronic_id="091e9c5e800ab373" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Smoking Cessation Health Center/page_Smoking Cessation Health Center_091e9c5e800ab373.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/smoking-cessation/default.htm"></target></object><object chronic_id="091e9c5e8001b525" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/pelvic_inflammatory_disease_definition_stp1500.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/pelvic-inflammatory-disease"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/pelvic-inflammatory-disease"></target></object><object chronic_id="091e9c5e8001b214" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/chlamydia_definition_stc123684.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/chlamydia"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/chlamydia"></target></object><object chronic_id="091e9c5e8001b028" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/gonorrhea_definition_stg124257.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/gonorrhea"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/gonorrhea"></target></object><object chronic_id="091e9c5e8001b0d8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/endometriosis_definition_ste122087.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/endometriosis-8106"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/endometriosis-8106"></target></object><object chronic_id="091e9c5e8001b181" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/diethylstilbestrol_des_definition_std120880.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/diethylstilbestrol-des"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/diethylstilbestrol-des"></target></object><object chronic_id="091e9c5e8001b493" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/assisted_reproductive_technology_definition_sta123331.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/assisted-reproductive-technology"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/assisted-reproductive-technology"></target></object><object chronic_id="091e9c5e8001e577" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/weakness_and_fatigue-topic_overview_symptom_hw90102.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/weakness-and-fatigue-topic-overview" status="deleted"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/weakness-and-fatigue-topic-overview" status="deleted"></target></object><object chronic_id="091e9c5e800079b6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-nausea-vomiting"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-nausea-vomiting"></target></object><object chronic_id="091e9c5e8001e704" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/symptom/abnormal_vaginal_bleeding-topic_overview_symptom_hw63221.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/women/tc/abnormal-vaginal-bleeding-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/women/tc/abnormal-vaginal-bleeding-topic-overview"></target></object><object chronic_id="091e9c5e8056ea80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/anatomy-picture-of-blood"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/anatomy-picture-of-blood"></target></object><object chronic_id="091e9c5e8001b2d6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ultrasound_test_definition_stu3177.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/ultrasound"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/ultrasound"></target></object><object chronic_id="091e9c5e80743115" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/miscellaneous/What_Is_an_Ultrasound.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/what-is-an-ultrasound"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/what-is-an-ultrasound"></target></object><object chronic_id="091e9c5e8001b124" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/laparoscopy_definition_stl158061.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/laparoscopy"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/laparoscopy"></target></object><object chronic_id="091e9c5e8001b599" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/depression_definition_std120700.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/depression"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/depression"></target></object><object chronic_id="091e9c5e8001b381" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/ectopic_pregnancy_definition_ste122039.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/ectopic-pregnancy-8123"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/ectopic-pregnancy-8123"></target></object><object chronic_id="091e9c5e8001daa2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-symptoms_major_hw144958.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-symptoms"></target></object><object chronic_id="091e9c5e8001dc54" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-what_increases_your_risk_major_tp20654.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001d86b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-what_happens_major_tp20653.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-what-happens"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-what-happens"></target></object><object chronic_id="091e9c5e8001deee" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-when_to_call_a_doctor_major_tp20655.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001d85f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-exams_and_tests_major_hw144972.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-exams-and-tests"></target></object><object chronic_id="091e9c5e8001e1ea" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-treatment_overview_major_hw144988.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-treatment-overview"></target></object><object chronic_id="091e9c5e80e6aa4b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/ectopic_pregnancy_getting_pregnant_again-topic_overview_special_aa83417-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/ectopic-pregnancy-getting-pregnant-again-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/ectopic-pregnancy-getting-pregnant-again-topic-overview"></target></object><object chronic_id="091e9c5e8001de43" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-topic_overview_major_hw144923.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-topic-overview"></target></object><object chronic_id="091e9c5e8001e1a7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-cause_major_tp20652.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-cause"></target></object><object chronic_id="091e9c5e8001daa2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-symptoms_major_hw144958.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-symptoms"></target></object><object chronic_id="091e9c5e8001d86b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-what_happens_major_tp20653.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-what-happens"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-what-happens"></target></object><object chronic_id="091e9c5e8001dc54" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-what_increases_your_risk_major_tp20654.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001deee" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-when_to_call_a_doctor_major_tp20655.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001d85f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-exams_and_tests_major_hw144972.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-exams-and-tests"></target></object><object chronic_id="091e9c5e8001e1ea" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-treatment_overview_major_hw144988.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-treatment-overview"></target></object><object chronic_id="091e9c5e8001db6f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-prevention_major_tp20656.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-prevention"></target></object><object chronic_id="091e9c5e8001dc44" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-home_treatment_major_hw145010.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-home-treatment"></target></object><object chronic_id="091e9c5e8001df60" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-medications_major_tp20657.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-medications"></target></object><object chronic_id="091e9c5e8001db20" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-surgery_major_tp20659.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-surgery"></target></object><object chronic_id="091e9c5e8001e263" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-other_places_to_get_help_major_hw144921-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001d8f5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-related_information_major_hw144921-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-related-information"></target></object><object chronic_id="091e9c5e8001e1ef" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-references_major_hw144921-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-references"></target></object><object chronic_id="091e9c5e8001e256" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-credits_major_hw144921-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/baby/tc/ectopic-pregnancy-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e8002127e" path="/webmd/consumer_assets/controlled_content/healthwise/toc/major/ectopic_pregnancy-toc_major_hw144921.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>Overview</section_type><section_link directive="article" chronic_id="091e9c5e8001de43" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-topic_overview_major_hw144923.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Cause</section_title><section_type>Cause</section_type><section_link directive="article" chronic_id="091e9c5e8001e1a7" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-cause_major_tp20652.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>Symptoms</section_type><section_link directive="article" chronic_id="091e9c5e8001daa2" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-symptoms_major_hw144958.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Happens</section_title><section_type>WhatHappens</section_type><section_link directive="article" chronic_id="091e9c5e8001d86b" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-what_happens_major_tp20653.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Increases Your Risk</section_title><section_type>WhatIncreasesYourRisk</section_type><section_link directive="article" chronic_id="091e9c5e8001dc54" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-what_increases_your_risk_major_tp20654.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>When To Call a Doctor</section_title><section_type>WhenToCall</section_type><section_link directive="article" chronic_id="091e9c5e8001deee" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-when_to_call_a_doctor_major_tp20655.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>ExamsAndTests</section_type><section_link directive="article" chronic_id="091e9c5e8001d85f" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-exams_and_tests_major_hw144972.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>TreatmentOverview</section_type><section_link directive="article" chronic_id="091e9c5e8001e1ea" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-treatment_overview_major_hw144988.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Prevention</section_title><section_type>Prevention</section_type><section_link directive="article" chronic_id="091e9c5e8001db6f" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-prevention_major_tp20656.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Home Treatment</section_title><section_type>HomeTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001dc44" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-home_treatment_major_hw145010.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Medications</section_title><section_type>Medications</section_type><section_link directive="article" chronic_id="091e9c5e8001df60" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-medications_major_tp20657.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Surgery</section_title><section_type>Surgery</section_type><section_link directive="article" chronic_id="091e9c5e8001db20" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-surgery_major_tp20659.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001e263" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-other_places_to_get_help_major_hw144921-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001d8f5" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-related_information_major_hw144921-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001e1ef" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-references_major_hw144921-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001e256" path="/webmd/consumer_assets/controlled_content/healthwise/major/ectopic_pregnancy-credits_major_hw144921-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Ectopic Pregnancy</title><dynamic_objects><callout_title>Recommended Related to Pregnancy</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e806edad7"><metadata_section><i_chronicle_id>091e9c5e801ebd4b</i_chronicle_id><title>11 Things You Didn't Know About Twin Pregnancies</title><wbmd_c_art_thmbnl directive="imageurl" chronic_id="091e9c5e801eb9cf" path="/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/June08/twin_pregnancy_101.jpg" object_type="wbmd_cons_img"></wbmd_c_art_thmbnl></metadata_section><section_text><p>If you are expecting twins and don't know what to expect, you are not alone. Many women pregnant with twins have no idea what to expect, but that doesn't mean they &#45;&#45; and you &#45;&#45; can't learn. So here is some information to help you understand what's happening when you're expecting twins.
+A twin pregnancy is a double blessing, but it can also carry greater risks than singleton pregnancies.
+In the U.S, about three in every 100 pregnant women give birth to twins or triplets, according to the Mayo Clinic...</p></section_text><link siteid="3" prefix="www" friendlyurl="/baby/features/11-things-you-didnt-know-about-twin-pregnancies"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Ectopic Pregnancy - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <p>In a normal <a href="http://www.webmd.com/baby/default.htm" onclick="return sl(this,'','embd-lnk');">pregnancy</a>, a fertilized egg travels through a <a href="http://www.webmd.com/hw-popup/fallopian-tubes" onclick="return sl(this,'hw','embd-lnk');">fallopian tube</a> to the <a href="http://www.webmd.com/hw-popup/uterus" onclick="return sl(this,'hw','embd-lnk');">uterus</a>. The egg attaches in the uterus and starts to grow. But in an <a href="http://www.webmd.com/baby/ectopic-pregnancy" onclick="return sl(this,'','embd-lnk');">ectopic pregnancy</a> <a href="http://www.webmd.com/baby/ectopic-pregnancy" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>, the fertilized egg attaches (or implants) someplace other than the uterus, most often in the fallopian tube. (This is why it is sometimes called a tubal pregnancy.) In rare cases, the egg implants in an ovary, the <a href="http://www.webmd.com/women/picture-of-the-cervix" onclick="return sl(this,'','embd-lnk');">cervix</a>, or the belly.</p>
+      <p>There is no way to save an <a href="http://www.webmd.com/baby/guide/pregnancy-ectopic-pregnancy" onclick="return sl(this,'','embd-lnk');">ectopic pregnancy</a>. It cannot turn into a normal pregnancy. If the egg keeps growing in the fallopian tube, it can damage or burst the tube and cause heavy bleeding that could be deadly. If you have an ectopic pregnancy, you will need quick treatment to end it before it causes dangerous problems. </p>
+      <p>An ectopic pregnancy is often caused by damage to the fallopian tubes. A fertilized egg may have trouble passing through a damaged tube, causing the egg to implant and grow in the tube. </p>
+      <p> Things that make you more likely to have fallopian tube damage and an ectopic pregnancy include:</p>
+      <ul>
+       <li><a href="http://www.webmd.com/smoking-cessation/default.htm" onclick="return sl(this,'','embd-lnk');">Smoking</a>. The more you smoke, the higher your risk of an ectopic pregnancy.</li>
+       <li><a href="http://www.webmd.com/hw-popup/pelvic-inflammatory-disease" onclick="return sl(this,'hw','embd-lnk');">Pelvic inflammatory disease (PID)</a>. This is often the result of an infection such as <a href="http://www.webmd.com/hw-popup/chlamydia" onclick="return sl(this,'hw','embd-lnk');">chlamydia</a> or <a href="http://www.webmd.com/hw-popup/gonorrhea" onclick="return sl(this,'hw','embd-lnk');">gonorrhea</a>.</li>
+       <li><a href="http://www.webmd.com/hw-popup/endometriosis-8106" onclick="return sl(this,'hw','embd-lnk');">Endometriosis</a>, which can cause scar tissue in or around the fallopian tubes.</li>
+       <li> Being exposed to the chemical <a href="http://www.webmd.com/hw-popup/diethylstilbestrol-des" onclick="return sl(this,'hw','embd-lnk');">DES</a> before you were born.</li>
+      </ul>
+      <p>Some medical treatments can increase your risk of ectopic pregnancy. These include:</p>
+      <ul>
+       <li> Surgery on the fallopian tubes or in the pelvic area. </li>
+       <li><a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/infertility-and-reproduction/guide/infertility-reproduction-treatment-care">Fertility treatments</a> such as <a href="http://www.webmd.com/hw-popup/assisted-reproductive-technology" onclick="return sl(this,'hw','embd-lnk');">in vitro fertilization</a>.</li>
+      </ul>
+      <p>In the first few weeks, an ectopic pregnancy usually causes the same symptoms as a normal pregnancy, such as a missed menstrual period, <a href="http://www.webmd.com/a-to-z-guides/weakness-and-fatigue-topic-overview" onclick="return sl(this,'','embd-lnk');">fatigue</a>, <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting" onclick="return sl(this,'','embd-lnk');">nausea</a>, and sore breasts. </p>
+      <p>The key signs of an ectopic pregnancy are:</p>
+      <ul>
+       <li> Pelvic or belly pain. It may be sharp on one side at first and then spread through your belly. It may be worse when you move or strain.</li>
+       <li><a href="http://www.webmd.com/women/tc/abnormal-vaginal-bleeding-topic-overview" onclick="return sl(this,'','embd-lnk');">Vaginal bleeding</a>. </li>
+      </ul>
+      <p>If you think you are pregnant and you have these symptoms, see your doctor right away. </p>
+      <p>A urine test can show if you are pregnant. To find out if you have an ectopic pregnancy, your doctor will likely do:</p>
+      <ul>
+       <li> A pelvic exam to check the size of your uterus and feel for growths or tenderness in your belly.</li>
+       <li> A <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> test that checks the level of the pregnancy hormone (hCG). This test is repeated 2 days later. During early pregnancy, the level of this hormone doubles every 2 days. Low levels suggest a problem, such as ectopic pregnancy. </li>
+       <li> An <a href="http://www.webmd.com/hw-popup/ultrasound" onclick="return sl(this,'hw','embd-lnk');">ultrasound</a>. This test can show pictures of what is inside your belly. With <a href="http://www.webmd.com/a-to-z-guides/what-is-an-ultrasound" onclick="return sl(this,'','embd-lnk');">ultrasound</a>, a doctor can usually see a pregnancy in the uterus 6 weeks after your last menstrual period.</li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Cause',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-cause'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-symptoms'
+			});
+            
+			topics.push({
+			title : 'What Happens',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-what-happens'
+			});
+            
+			topics.push({
+			title : 'What Increases Your Risk',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-what-increases-your-risk'
+			});
+            
+			topics.push({
+			title : 'When To Call a Doctor',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-when-to-call-a-doctor'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-prevention'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Medications',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-medications'
+			});
+            
+			topics.push({
+			title : 'Surgery',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-surgery'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/baby/tc/ectopic-pregnancy-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: April 26, 2013
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-topic-overview">Topic Overview</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-cause">Cause</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-symptoms">Symptoms</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-what-happens">What Happens</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-what-increases-your-risk">What Increases Your Risk</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-when-to-call-a-doctor">When To Call a Doctor</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-prevention">Prevention</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-home-treatment">Home Treatment</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-medications">Medications</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-surgery">Surgery</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-related-information">Related Information</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-references">References</option><option value="http://www.webmd.com/baby/tc/ectopic-pregnancy-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Ectopic Pregnancy Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-cause" onclick="return sl(this,'','topicNav_2');" title="Cause">Cause</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-symptoms" onclick="return sl(this,'','topicNav_3');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-what-happens" onclick="return sl(this,'','topicNav_4');" title="What Happens">What Happens</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-what-increases-your-risk" onclick="return sl(this,'','topicNav_5');" title="What Increases Your Risk">What Increases Your Risk</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-when-to-call-a-doctor" onclick="return sl(this,'','topicNav_6');" title="When To Call a Doctor">When To Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-exams-and-tests" onclick="return sl(this,'','topicNav_7');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-treatment-overview" onclick="return sl(this,'','topicNav_8');" title="Treatment Overview">Treatment Overview</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-prevention" onclick="return sl(this,'','topicNav_9');" title="Prevention">Prevention</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-home-treatment" onclick="return sl(this,'','topicNav_10');" title="Home Treatment">Home Treatment</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-medications" onclick="return sl(this,'','topicNav_11');" title="Medications">Medications</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-surgery" onclick="return sl(this,'','topicNav_12');" title="Surgery">Surgery</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-other-places-to-get-help" onclick="return sl(this,'','topicNav_13');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-related-information" onclick="return sl(this,'','topicNav_14');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-references" onclick="return sl(this,'','topicNav_15');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-credits" onclick="return sl(this,'','topicNav_16');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Major';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="related_reading_rdr" id="rltd-p-1096"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/baby/skin-conditions-pregnancy" onclick="return sl(this,'','rltd-p-1096_1');">Skin Conditions in Pregnancy</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/baby/features/7-embarrassing-pregnancy-symptoms" onclick="return sl(this,'','rltd-p-1096_2');">7 Embarrassing Pregnancy Symptoms</a> </li> 
+     <li id="x64"> <a class="type_vid" href="http://www.webmd.com/baby/video/dangers-inducing-labor-pregnancy" onclick="return sl(this,'','rltd-p-1096_3');">The Downside of Inducing Labor<i> </i></a> </li> 
+     <li id="x65"> <a class="type_ss" href="http://www.webmd.com/baby/ss/slideshow-pregnant-beauty" onclick="return sl(this,'','rltd-p-1096_4');">How to Look and Feel Your Best in Pregnancy<i> </i></a> </li> 
+     <li id="x66"> <a class="type_vid" href="http://www.webmd.com/baby/video/eddleman-which-foods-unsafe-during-pregnancy" onclick="return sl(this,'','rltd-p-1096_5');">Which Foods Are Unsafe During Pregnancy?<i> </i></a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/baby/understanding-labor-delivery-complications-prevention" onclick="return sl(this,'','rltd-p-1096_6');">Labor and Delivery Complications</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1096_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e8068f9a6" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068f9a6</chronic_id><r_object_id>091e9c5e8068f9a6</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8068f9a6.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/02/2010 12:12:24</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Pregnancy/template_Pregnancy_091e9c5e80042f2b.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80042f2b"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Ectopic Pregnancy</name><link_title>Ectopic Pregnancy</link_title><description>Ectopic pregnancy is a life-threatening pregnancy complication in which a fertilized egg attaches outside of the mother's womb (uterus), usually in a fallopian tube.  Follow the links below to find WebMD's comprehensive coverage about how ectopic pregnancy occurs, what the symptoms are, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/baby/ectopic-pregnancy-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80008ae6"><link_title>Ectopic Pregnancy</link_title><friendly_url>http://www.webmd.com/baby/guide/pregnancy-ectopic-pregnancy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000c3b3"><link_title>Hormone the Best Predictor of Success in Treating Ectopic Pregnancy</link_title><friendly_url>http://www.webmd.com/baby/news/19991222/hormone-best-predictor-of-success-in-treating-ectopic-pregnancy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8001e098"><link_title>Ectopic Pregnancy-Other Treatment</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-other-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001a87f"><link_title>Methotrexate for Ectopic Pregnancy</link_title><friendly_url>http://www.webmd.com/baby/methotrexate-for-ectopic-pregnancy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001db20"><link_title>Ectopic Pregnancy-Surgery</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d85f"><link_title>Ectopic Pregnancy-Exams and Tests</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001db6f"><link_title>Ectopic Pregnancy-Prevention</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001df60"><link_title>Ectopic Pregnancy-Medications</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-medications</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d8f5"><link_title>Ectopic Pregnancy-Related Information</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e1a7"><link_title>Ectopic Pregnancy-Cause</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dc44"><link_title>Ectopic Pregnancy-Home Treatment</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001daa2"><link_title>Ectopic Pregnancy-Symptoms</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e1ea"><link_title>Ectopic Pregnancy-Treatment Overview</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d86b"><link_title>Ectopic Pregnancy-What Happens</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-what-happens</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dc54"><link_title>Ectopic Pregnancy-What Increases Your Risk</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-what-increases-your-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001deee"><link_title>Ectopic Pregnancy-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/baby/tc/ectopic-pregnancy-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e808f599f"><link_title>Amniotic Banding Syndrome</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/amniotic-banding-syndrome</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What causes bleeding in the first trimester of pregnancy?</link_title><friendly_url>http://answers.webmd.com/answers/1194504/what-causes-bleeding-in-the-first</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8018eb4e"><link_title>How Your Thyroid Affects a Pregnancy</link_title><friendly_url>http://www.webmd.com/baby/video/eddleman-thyroid-affects-pregnancy</friendly_url><thumbnail height="48" width="48" alt="pregnant woman on beach">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/womens-health/pregnancy/eddleman-thyroid-affects-pregnancy/graphics/thumbnails/final/eddleman-thyroid-affects-pregnancy-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006cf7"><link_title>Benign Fibroids May Complicate Pregnancy</link_title><friendly_url>http://www.webmd.com/baby/news/20000601/benign-uterine-tumor-complicate-pregnancy</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000751e"><link_title>The first trimester: your baby's growth and development in early pregnancy</link_title><friendly_url>http://www.webmd.com/baby/1to3-months</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000853a"><link_title>First trimester tests during pregnancy</link_title><friendly_url>http://www.webmd.com/baby/guide/first-trimester-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008c6c"><link_title>Tips to choosing the right heath care provider for your pregnancy and delivery.</link_title><friendly_url>http://www.webmd.com/baby/guide/pregnancy-choosing-obstetric-health-care-provider</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008f00"><link_title>The Symptoms of Placenta Previa</link_title><friendly_url>http://www.webmd.com/baby/understanding-placenta-previa-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80009296"><link_title>Pregnancy and prenatal vitamins</link_title><friendly_url>http://www.webmd.com/baby/guide/prenatal-vitamins</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000c159"><link_title>Pregnancy-Induced Hypertension Raises Later Stroke Risk</link_title><friendly_url>http://www.webmd.com/baby/news/20030417/pregnancy-problem-ups-later-stroke-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cb07"><link_title>Should Mom See Her Stillborn Baby?</link_title><friendly_url>http://www.webmd.com/baby/news/20020711/should-mom-see-her-stillborn-baby</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cee0"><link_title>Some Women More at Risk of Pregnancy Problem</link_title><friendly_url>http://www.webmd.com/baby/news/20050310/some-women-more-at-risk-of-pregnancy-problem</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d59d"><link_title>Elevated Levels of Hormone Linked to Increased Risk of Stillbirth and Placenta Abnormalities</link_title><friendly_url>http://www.webmd.com/baby/news/19991229/elevated-levels-of-hormone-linked-to-increased-risk-of-stillbirth-placenta-abnormalities</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d911"><link_title>New Clue to Pregnancy Complication</link_title><friendly_url>http://www.webmd.com/baby/news/20060906/new-clue-to-pregnancy-complication</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://answers.webmd.com/answers/1194504/what-causes-bleeding-in-the-first" onclick="return sl(this,'','td-rltd-art_1');">What causes bleeding in the first trimester of pregnancy?</a></li>
+      <li><a href="http://www.webmd.com/baby/guide/pregnancy-ectopic-pregnancy" onclick="return sl(this,'','td-rltd-art_2');">Ectopic Pregnancy</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-other-treatment" onclick="return sl(this,'','td-rltd-art_3');">Ectopic Pregnancy-Other Treatment</a></li>
+      <li><a href="http://www.webmd.com/baby/methotrexate-for-ectopic-pregnancy" onclick="return sl(this,'','td-rltd-art_4');">Methotrexate for Ectopic Pregnancy</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-surgery" onclick="return sl(this,'','td-rltd-art_5');">Ectopic Pregnancy-Surgery</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-exams-and-tests" onclick="return sl(this,'','td-rltd-art_6');">Ectopic Pregnancy-Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/baby/tc/ectopic-pregnancy-prevention" onclick="return sl(this,'','td-rltd-art_7');">Ectopic Pregnancy-Prevention</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/baby/ectopic-pregnancy-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Ectopic Pregnancy Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+   <div id="preg-module"> 
+    <h4>Pregnancy Week-By-Week Newsletter</h4> 
+    <p class="desc">Delivered right to your inbox, get pictures and facts on<br />what to expect each week of your pregnancy.</p> 
+    <a onclick="return sl(this,'','nl-preg');" href="https://member.webmd.com/newsletters/newsletters.aspx"><img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/layout/shared/nl/modules/signup_btn.gif" border="0" width="75" height="27" /></a> 
+   </div>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1622472735&amp;tile=128243018&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=793&amp;scent=&amp;pos=5000&amp;xpg=3608&amp;sec=&amp;au1=3&amp;au2=1&amp;uri=%2fbaby%2ftc%2fectopic-pregnancy-topic-overview&amp;artid=091e9c5e8001de43&amp;inst=0&amp;leaf=950&amp;cc=16&amp;tmg=1&amp;bc=_age122_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1622472735&amp;amp;tile=128243018&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=793&amp;amp;scent=&amp;amp;pos=5000&amp;amp;xpg=3608&amp;amp;sec=&amp;amp;au1=3&amp;amp;au2=1&amp;amp;uri=%2fbaby%2ftc%2fectopic-pregnancy-topic-overview&amp;amp;artid=091e9c5e8001de43&amp;amp;inst=0&amp;amp;leaf=950&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age122_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3608";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1622472735&amp;tile=128243018&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=793&amp;scent=&amp;pos=5001&amp;xpg=3608&amp;sec=&amp;au1=3&amp;au2=1&amp;uri=%2fbaby%2ftc%2fectopic-pregnancy-topic-overview&amp;artid=091e9c5e8001de43&amp;inst=0&amp;leaf=950&amp;cc=16&amp;tmg=1&amp;bc=_age122_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1622472735&amp;amp;tile=128243018&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=793&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=3608&amp;amp;sec=&amp;amp;au1=3&amp;amp;au2=1&amp;amp;uri=%2fbaby%2ftc%2fectopic-pregnancy-topic-overview&amp;amp;artid=091e9c5e8001de43&amp;amp;inst=0&amp;amp;leaf=950&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_age122_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3608";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

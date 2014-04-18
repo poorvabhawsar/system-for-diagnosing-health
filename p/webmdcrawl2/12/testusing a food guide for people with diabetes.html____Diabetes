@@ -1,0 +1,856 @@
+<title>Using a food guide for people with diabetes</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/diabetes/diabetes-health-check/diabetes-health-check-old" onclick="return sl(this,'','lln-toolsres_1');">Is Your Diabetes Under Control?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Tips: Stay Healthy With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853920" onclick="return sl(this,'','lln-toolsres_3');">How to Count Carbs With Diabetes</a></li>
+      <li id="x59"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/preventing-complications" onclick="return sl(this,'','lln-toolsres_4');">Preventing Diabetes Complications</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853926" onclick="return sl(this,'','lln-toolsres_5');">Diabetes Menu Plan</a></li>
+      <li id="x61"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/taking-care" onclick="return sl(this,'','lln-toolsres_6');">4 Every Day Tips for Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="actionset"> 
+    <div class="action_top"> 
+    </div> 
+    <div class="action_mid"> 
+     <div class="page page_1"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 1 of 6
+       </div> 
+       <a href="#6" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#2" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Diabetes: Using a Food Guide
+       </div> 
+       <div class="as_content"> 
+        <a name="tp16413"></a> 
+        <p>A food guide is a tool for planning a balanced diet. A healthy diet provides the nutrients your body needs and decreases your risk for heart disease and other conditions. </p> 
+        <h4>Key points</h4> 
+        <ul> 
+         <li>A food guide contains the same foods your family eats. You do not have to eat special foods.</li> 
+         <li>You can successfully follow this method by: 
+          <ul>
+           <li>Planning your family meals ahead of time so you can enjoy the same foods as other family members.</li>
+           <li>Providing lots of variety in the foods you eat so it's easier to follow your plan.</li>
+           <li>Testing your blood sugar after meals to see what effect different foods have on your blood sugar level.</li>
+          </ul></li> 
+         <li>Women with diabetes who are pregnant or breast-feeding need the same nutrition as pregnant or breast-feeding women who do not have diabetes. Pregnant women need more of all nutrients, but they especially need iron and folic acid and should get supplements of these. During the second and third trimester, you also need about 300 calories a day more than you did before pregnancy. Regular meals and snacks are important to prevent low blood sugar during pregnancy and breast-feeding. Talk to your registered dietitian or certified diabetes educator about changes you may need to make to your food plan.</li> 
+        </ul> 
+        <p>More information about diabetes can be found in these topics:</p> 
+        <ul> 
+         <li>Type 1 Diabetes</li> 
+         <li>Type 1 Diabetes: Children Living With the Disease</li> 
+         <li>Type 2 Diabetes</li> 
+         <li>Type 2 Diabetes in Children</li> 
+         <li>Gestational Diabetes</li> 
+        </ul> 
+        <div class="NoWebPrint"> 
+        </div> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#2" class="ac_next">What is a food guide for people with diabetes?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_2" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 2 of 6
+       </div> 
+       <a href="#1" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#3" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        What is a food guide for people with diabetes?
+       </div> 
+       <div class="as_content"> 
+        <a name="tp16578"></a> 
+        <p>A food guide is a way to plan a healthy diet.</p> 
+        <ul> 
+         <li>Foods within each group have similar nutrient content. For example, the foods in the milk and milk products group have similar amounts of calcium, protein, vitamin D, and riboflavin.</li> 
+         <li>Each group has a recommended number of servings.</li> 
+        </ul> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>A food guide for people with diabetes is used to:</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0What');" />Record my daily food intake.
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0What');" />Choose special foods.
+          <br />
+          <input type="radio" name="answer_0" value="2" onclick="gradeAnswer(this.value, 'answer0What');" />Plan my diet.
+          <br />
+          <input type="radio" name="answer_0" value="3" onclick="gradeAnswer(this.value, 'answer0What');" />Develop an exchange list.
+         </form> 
+         <a name="fms_answer3"> </a> 
+         <div id="answer0What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />A food guide for people with diabetes is not used to record your daily food intake. The correct answer is c. A food guide is a tool for meal planning for diabetes. People who have diabetes need to pay close attention to the amount of carbohydrate in their diet.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />A food guide for people with diabetes is not used to choose special foods. The correct answer is c. A food guide is a tool for meal planning for diabetes. People who have diabetes need to pay close attention to the amount of carbohydrate in their diet.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />A food guide is a tool for meal planning for diabetes. People who have diabetes need to pay close attention to the amount of carbohydrate in their diet.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />A food guide is not used to develop an exchange list. The correct answer is c. A food guide is a tool for meal planning for diabetes. People who have diabetes need to pay close attention to the amount of carbohydrate in their diet.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>One of the advantages of using a food guide for people with diabetes is that you can eat the same food as everyone else in your family.</p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1What');" />True
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1What');" />False
+         </form> 
+         <a name="fms_answer3"> </a> 
+         <div id="answer1What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />One of the advantages of using a food guide for people with diabetes is that you can eat the same food as everyone else in your family.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />One of the advantages of using a food guide for people with diabetes is that you can eat the same food as everyone else in your family.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#3" class="ac_next">Why use a food guide for diabetes?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_3" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 3 of 6
+       </div> 
+       <a href="#2" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#4" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Why use a food guide for diabetes?
+       </div> 
+       <div class="as_content"> 
+        <a name="tp16585"></a> 
+        <p>Carbohydrate is the nutrient that most affects your blood sugar level. The more carbohydrate you eat at one time, the higher your blood sugar level will rise. Spreading carbohydrate intake throughout the day helps keep your blood sugar levels within your target range. A food guide for diabetes can help you plan your diet accordingly.</p> 
+        <p>Eating the recommended number of servings from each food group every day gives you the proper amount of nutrients to meet your needs and reduces your risk for heart disease and other conditions. Eating regular meals can help you spread carbohydrate intake throughout the day.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>A food guide for people with diabetes:</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0Why');" />Lists special foods I should eat.
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0Why');" />Outlines the way to count the nutrients in my diet.
+          <br />
+          <input type="radio" name="answer_0" value="2" onclick="gradeAnswer(this.value, 'answer0Why');" />Guides the planning of daily meals and snacks.
+         </form> 
+         <a name="fms_answer3"> </a> 
+         <div id="answer0Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />A food guide does not list special foods you should eat. You do not need to eat special foods if you have diabetes. The correct answer is c. A food guide helps you plan meals and snacks to spread carbohydrate throughout the day.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />A food guide does not outline the way to count nutrients in your diet. It is a guide for planning a balanced diet for people with diabetes. The correct answer is c. A food guide helps you spread carbohydrate throughout the day.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />A food guide helps you plan daily meals and snacks to spread carbohydrate throughout the day.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#4" class="ac_next">How to use a food guide in your diet for diabetes<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_4" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 4 of 6
+       </div> 
+       <a href="#3" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#5" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        How to use a food guide in your diet for diabetes
+       </div> 
+       <div class="as_content"> 
+        <a name="tp16589"></a> 
+        <p>Here are some ways to start using a food guide for diabetes.</p> 
+        <h4>Eat regular meals</h4> 
+        <p>Eat 4 to 6 smaller meals and snacks throughout the day to spread your intake of food throughout the day. Plan several meals at a time. Plan to double some recipes and freeze the leftovers to use for other meals. Reuse menu plans.</p> 
+        <h4>Use the food guide</h4> 
+        <p>The food guide for diabetes can help you:</p> 
+        <ul> 
+         <li>Become familiar with the different food groups. Post a copy of the groups in a food guide for diabetes in a convenient place, such as on your refrigerator door.</li> 
+         <li>Plan meals to include food from all the groups. A registered dietitian can help you plan the food groups to include in each meal and snack. 
+          <ul>
+           <li>Breakfast usually includes food from the milk, fruit, and grains food groups. Meat and vegetables also may be eaten at breakfast.</li>
+           <li>Lunch and dinner usually include foods from most or all food groups.</li>
+           <li>Snacks may include only one or two food groups (usually a fruit or bread).</li>
+           <li>Milk and milk products are a separate group. If you don't like or can't drink milk, you will need to find a way to add to your diet more calcium, vitamin D, and other nutrients that milk provides. Talk with a registered dietitian about how to get enough calcium and other nutrients. If you are pregnant, you need extra calcium and may need to take supplements.</li>
+          </ul></li> 
+         <li>Eat standard portions. Sometimes what you may consider a serving is much larger than the recommended serving size. For example, if you eat a plateful of spaghetti (about 2 cups), you have eaten 6 servings from the grain group in a food guide. It's easy to eat more servings from a food group than are recommended for a balanced diet. You don't always need to measure and weigh the food you eat, but it may be helpful when you are first learning what makes a standard portion. It can also be helpful to know what a serving size looks like. 
+          <ul>
+           <li>1 ounce (1 oz) </li>
+           <li>3 ounces (3 oz) </li>
+           <li>� cup </li>
+           <li>1 cup </li>
+           <li><a href="http://www.webmd.com/food-recipes/1-teaspoon" onclick="return sl(this,'','embd-lnk');">1 teaspoon (1 tsp)</a> <a href="http://www.webmd.com/food-recipes/1-teaspoon" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" align="" style="" /></a></li>
+           <li><a href="http://www.webmd.com/food-recipes/1-tablespoon" onclick="return sl(this,'','embd-lnk');">1 tablespoon (1 Tbsp)</a> <a href="http://www.webmd.com/food-recipes/1-tablespoon" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" align="" style="" /></a></li>
+          </ul></li> 
+        </ul> 
+        <h4>Other suggestions</h4> 
+        <p>Other suggestions for helping you be successful in using a food guide include:</p> 
+        <ul> 
+         <li>Checking your blood sugar level before and 1 to 2 hours after a meal to see how food affects your blood sugar.</li> 
+         <li>Recording what you eat on a food record form. Review your record with your registered dietitian or certified diabetes educator at each visit and whenever you think your plan needs adjusting. See an example of a <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa16693.pdf">food record form</a><span class="NoWebPrint"><a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa16693.pdf"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/form.gif" alt="form.gif" align="" style="" /></a></span><span class="NoWebPrint"><span class="Size1">(What is a PDF document?)</span></span>.</li> 
+         <li>Getting more help. The American Diabetes Association has information and a poster on the food guide for people with diabetes. See the Where to Go From Here section below for the address, phone number, and website of the American Diabetes Association. But you will still need to talk with a registered dietitian to set up a plan that fits your needs.</li> 
+        </ul> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>How many of the food groups are in a breakfast containing 2 ounces cold cereal, 8 ounces 1% milk, and 4 ounces orange juice? (You may need to review the food groups in a guide for diabetes.)</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0How');" />The breakfast contains food from the grain and milk group only.
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0How');" />The breakfast contains food from the grain, milk, and fruit groups.
+         </form> 
+         <a name="fms_answer10"> </a> 
+         <div id="answer0How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />The breakfast (2 ounces cold cereal, 8 ounces 1% milk, and 4 ounces orange juice) contains food from the grain and milk groups as well as the fruit group. The correct answer is b. The breakfast contains food from the grain, milk, and fruit groups.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />The breakfast contains food from the grain, milk, and fruit groups.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>How many servings from each food group are in a breakfast containing 2 ounces cold cereal, 8 ounces 1% milk, and 4 ounces orange juice? (You may need to review the food groups in a guide for diabetes.)</p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1How');" />The breakfast contains 1 grain, 2 milk, and 1 fruit.
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1How');" />The breakfast contains 2 grains, 1 milk, and 1 fruit.
+          <br />
+          <input type="radio" name="answer_1" value="2" onclick="gradeAnswer(this.value, 'answer1How');" />The breakfast contains 3 grains, 1 milk, and 2 fruits.
+         </form> 
+         <a name="fms_answer10"> </a> 
+         <div id="answer1How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />The breakfast does not contain 1 grain, 2 milk, and 1 fruit. The correct answer is b. The breakfast contains 2 grains, 1 milk, and 1 fruit. Review the serving sizes in food groups in a guide for diabetes if you are having trouble with this question.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />The breakfast contains 2 grains, 1 milk, and 1 fruit. Review the serving sizes in food groups in a guide for diabetes if you are having trouble with this question.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />The breakfast does not contain 3 grains, 1 milk, and 2 fruits. The correct answer is b. The breakfast contains 2 grains, 1 milk, and 1 fruit. Review the serving sizes in food groups in a guide for diabetes if you are having trouble with this question.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#5" class="ac_next">Where to go from here<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_5" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 5 of 6
+       </div> 
+       <a href="#4" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#6" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Where to go from here
+       </div> 
+       <div class="as_content"> 
+        <a name="tp16599"></a> 
+        <p>Now that you have read this information, you may feel ready to start planning and eating regular meals using a food guide for diabetes.</p> 
+        <p> <b>Talk with your doctor, registered dietitian, or certified diabetes educator</b> </p> 
+        <p>If you have questions about this information, take it with you when you visit your registered dietitian or certified diabetes educator. He or she can explain a food guide for diabetes and help you plan meals.</p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#6" class="ac_next">See More Popular Action Sets<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_6" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 6 of 6
+       </div> 
+       <a href="#5" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#1" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        See More Popular Action Sets
+       </div> 
+       <div id="lastslide"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="action_bot"> 
+    </div> 
+   </div> 
+   <div class="dashed_fmt"> 
+   </div> 
+   <div class="subheadSpaced_fmt"> 
+   </div> 
+   <div class="credits_fmt"> 
+    <a name="aa16467-Credits"></a> 
+    <table border="0"> 
+     <tbody>
+      <tr> 
+       <td valign="top"> <b>By</b> </td> 
+       <td>Healthwise Staff</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+       <td>Adam Husney, MD, MD - Family Medicine</td> 
+      </tr> 
+      <tr> 
+       <td> <b>Last Revised</b> </td> 
+       <td>July 19, 2011</td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionsets.js">
+</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: July 19, 2011
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - ActionSet';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1037"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','rltd-p-1037_1');">Diabetes? Get Tips to Avoid Health Problems</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1037_2');">Images of Diabetic Retinopathy and Other Vision Problems</a> </li> 
+     <li id="x64"> <a href="http://diabetes.webmd.com/diabetes-health-check/default.htm" onclick="return sl(this,'','rltd-p-1037_3');">Is Your Type 2 Diabetes Under Control?</a> </li> 
+     <li id="x65"> <a href="http://diabetes.webmd.com/diabetes-your-menu-6/alcohol" onclick="return sl(this,'','rltd-p-1037_4');">Dos and Don'ts: Diabetes and Alcohol Consumption</a> </li> 
+     <li id="x66"> <a href="http://diabetes.webmd.com/treating-diabetes-11/insulin-questions" onclick="return sl(this,'','rltd-p-1037_5');">Your Insulin Management Questions Answered</a> </li> 
+     <li id="x67" class="last"> <a href="http://arthritis.webmd.com/living-with-chronic-gout-11/gout-and-diabetes" onclick="return sl(this,'','rltd-p-1037_6');">Diabetes and Gout: Know the Risk Factors</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1037_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80a7df5a" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069325b</chronic_id><r_object_id>091e9c5e80a7df5a</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8069325b.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>05/30/2012 23:35:23</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Diabetes Health Center/template_Diabetes Health Center_091e9c5e800245f8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800245f8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Diabetes Diet</name><link_title>Diabetes Diet</link_title><description>While it is true that there really is no such thing as a general "diabetic diet" for everyone with diabetes , there are healthier food choices available to help with diabetes management. Follow the links below to find WebMD's comprehensive coverage about healthy dietary choices for people with diabetes, eating low glycemic index foods, and controlling your blood sugar with diet.  Explore menu ideas, healthy snacks, and more.</description><friendly_url>http://www.webmd.com/diabetes/diabetes-diet-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e804baf2d"><link_title>Slideshow: 12 Lifestyle Tips to Avoid Diabetes Complications</link_title><friendly_url>http://www.webmd.com/diabetes/diabetes-complications-10/slideshow-avoid-damage</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id=""><link_title>Can diet really make a difference with diabetes?</link_title><friendly_url>http://answers.webmd.com/answers/1180313/can-diet-really-make-a-difference</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000f720"><link_title>Successful Dieting Diabetics Do Well</link_title><friendly_url>http://www.webmd.com/diabetes/news/20001109/successful-dieting-diabetics-do-well</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000a31d"><link_title>Stock Your Kitchen for Diabetes Health</link_title><friendly_url>http://www.webmd.com/diabetes/features/stock-your-kitchen-for-diabetes-health</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000f209"><link_title>Diabetics, Put That Burger Down!</link_title><friendly_url>http://www.webmd.com/diabetes/news/20010712/diabetics-put-that-burger-down</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80066a67"><link_title>7 Healthy Desserts for Your Diabetes Diet</link_title><friendly_url>http://www.webmd.com/diabetes/features/7-healthy-desserts-for-your-diabetes-diet</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80066b15"><link_title>Diabetic Diet: 6 Foods That May Help Control Blood Sugar</link_title><friendly_url>http://www.webmd.com/diabetes/features/diabetic-diet-6-foods-control-blood-sugar</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801910a6"><link_title>How Does My Diet Affect Diabetes?</link_title><friendly_url>http://www.webmd.com/diabetes/video/kahn-how-does-diet-affect-diabetes</friendly_url><thumbnail height="48" width="48" alt="vegetables">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/dam/editorial/diabetes/miscellaneous/kahn-how-does-diet-affect-diabetes/graphics/thumbnails/final/kahn-how-does-diet-affect-diabetes-48x48.jpg</thumbnail><collection_category_val>1009</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802a51c4"><link_title>Type 2 Diabetes Diet and Nutrition Tips: Healthy Eating and Exercise &#45;&#45; Interview With Hope Warshaw, MMSc, RD</link_title><friendly_url>http://www.webmd.com/diabetes/features/expert-q-and-a-a-healthy-diet-for-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802baf58"><link_title>How a 'Diabetes Diet' Protects Your Health</link_title><friendly_url>http://www.webmd.com/diabetes/features/how-a-diabetes-diet-protects-your-health</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80008490"><link_title>A Healthy Type 2 Diabetes Diet</link_title><friendly_url>http://www.webmd.com/diabetes/guide/eating-right</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8011982e"><link_title>Is One Diabetes Diet Better Than Others?</link_title><friendly_url>http://www.webmd.com/diabetes/diabetes-diet-frequently-asked-questions</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800db10f"><link_title>The Basics of a Healthy Diabetes Diet</link_title><friendly_url>http://www.webmd.com/diabetes/guide/diabetes-diet-healthy-diet-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000aa30"><link_title>4 Systems for Diabetes Meal Planning</link_title><friendly_url>http://www.webmd.com/diabetes/features/4-systems-for-diabetes-meal-planning</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000cf72"><link_title>Evidence Builds for Use of Glycemic Index to Control Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/news/20010719/evidence-builds-for-use-of-glycemic-index-to-control-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80092829"><link_title>10 Diabetes Diet Myths</link_title><friendly_url>http://www.webmd.com/diabetes/10-diabetes-diet-myths</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804ceb3d"><link_title>Slideshow: Diabetes Management in 10 Minutes</link_title><friendly_url>http://www.webmd.com/diabetes/active-life/slideshow-managing-diabetes-10-tips</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800a6c0c"><link_title>Healthy Diet Basics for Diabetes</link_title><friendly_url>http://www.webmd.com/diet/healthy-diet-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802ac3d0"><link_title>Slideshow: A Visual Guide to Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-type-2-diabetes-overview</friendly_url><thumbnail height="" width="" alt="Diabetic tools">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/type_2_diabetes_overview_slideshow/69x75_type_2_diabetes_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001c02f"><link_title>Reading food labels when you have diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/reading-food-labels-when-you-have-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d71e"><link_title>Diabetes: Counting Carbs if You Use Insulin</link_title><friendly_url>http://www.webmd.com/diabetes/carbohydrate-counting-for-people-who-use-insulin</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d74a"><link_title>Diabetes: Using a Plate Format to Plan Meals</link_title><friendly_url>http://www.webmd.com/diabetes/using-a-plate-format-for-people-with-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d707"><link_title>Diabetes: Counting Carbs if You Don't Use Insulin</link_title><friendly_url>http://www.webmd.com/diabetes/carbohydrate-counting-for-people-with-diabetes-who-do-not-use-insulin</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d6f8"><link_title>Diabetes in Children: Counting Carbs</link_title><friendly_url>http://www.webmd.com/diabetes/carbohydrate-counting-for-children-with-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is type 2 diabetes?</link_title><friendly_url>http://answers.webmd.com/answers/1192786/what-is-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What kind of snacks would you recommend for people who are diabetic?</link_title><friendly_url>http://answers.webmd.com/answers/1199394/what-kind-of-snacks-would-you-recommend-for-people-who-are-diabetic</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What sort of diet should I follow if I have diabetes?</link_title><friendly_url>http://answers.webmd.com/answers/1180311/what-sort-of-diet-should-i</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006d03"><link_title>Most Type 2 Diabetics Don't Know Disease Cause</link_title><friendly_url>http://www.webmd.com/diabetes/news/19991201/type-2-diabetics-dont-know-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000e490"><link_title>Caffeine Disturbs Blood Sugar Hormone</link_title><friendly_url>http://www.webmd.com/diabetes/news/20020206/caffeine-disturbs-blood-sugar-hormone</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ec3a"><link_title>IOM Admits Possible Link Between Agent Orange and Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/news/20001013/iom-admits-possible-link-between-agent-orange-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/diabetes/diabetes-complications-10/slideshow-avoid-damage" onclick="return sl(this,'','lln-tdrelcon_1');">Slideshow: 12 Lifestyle Tips to Avoid Diabetes Complications</a></li>
+      <li><a href="http://www.webmd.com/diabetes/active-life/slideshow-managing-diabetes-10-tips" onclick="return sl(this,'','lln-tdrelcon_2');">Slideshow: Diabetes Management in 10 Minutes</a></li>
+      <li><a href="http://answers.webmd.com/answers/1180313/can-diet-really-make-a-difference" onclick="return sl(this,'','lln-tdrelcon_3');">Can diet really make a difference with diabetes?</a></li>
+      <li><a href="http://www.webmd.com/diabetes/features/stock-your-kitchen-for-diabetes-health" onclick="return sl(this,'','lln-tdrelcon_4');">Stock Your Kitchen for Diabetes Health</a></li>
+      <li><a href="http://www.webmd.com/diabetes/features/7-healthy-desserts-for-your-diabetes-diet" onclick="return sl(this,'','lln-tdrelcon_5');">7 Healthy Desserts for Your Diabetes Diet</a></li>
+      <li><a href="http://www.webmd.com/diabetes/features/diabetic-diet-6-foods-control-blood-sugar" onclick="return sl(this,'','lln-tdrelcon_6');">Diabetic Diet: 6 Foods That May Help Control Blood Sugar</a></li>
+      <li><a href="http://www.webmd.com/diabetes/video/kahn-how-does-diet-affect-diabetes" onclick="return sl(this,'','lln-tdrelcon_7');">How Does My Diet Affect Diabetes?</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/diabetes/diabetes-diet-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Diabetes Diet Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=249008885&tile=1664648595&tug=&pug=_2148_&site=2&affiliate=20&hcent=1037&scent=&pos=113&xpg=1667&sec=3630&amp;au1=1&au2=1&uri=%2fdiabetes%2fusing-a-food-guide-for-people-with-diabetes&artid=091e9c5e8001d73a&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_i_food_diet_h16_bty21_e10_age2_age1_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'249008885',
+                    tile:'1664648595',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1667";
+      var secTopId = "3630";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=249008885&amp;tile=1664648595&amp;tug=&amp;pug=_2148_&amp;site=2&amp;affiliate=20&amp;hcent=1037&amp;scent=&amp;pos=5001&amp;xpg=1667&amp;sec=3630&amp;au1=1&amp;au2=1&amp;uri=%2fdiabetes%2fusing-a-food-guide-for-people-with-diabetes&amp;artid=091e9c5e8001d73a&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_i_food_diet_h16_bty21_e10_age2_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=249008885&amp;amp;tile=1664648595&amp;amp;tug=&amp;amp;pug=_2148_&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1037&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1667&amp;amp;sec=3630&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fdiabetes%2fusing-a-food-guide-for-people-with-diabetes&amp;amp;artid=091e9c5e8001d73a&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_i_food_diet_h16_bty21_e10_age2_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1667";
+			var secTopId = "3630";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

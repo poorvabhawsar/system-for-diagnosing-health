@@ -1,0 +1,386 @@
+<title>Lung Cancer Center: Stages, Symptoms, Causes, Tests, and Treatments (like Radiation and Chemo)</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="spromo" style="visibility:hidden;"> 
+    <div id="x08"> 
+     <div class="slide" id="prm-hp_n1s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/cancer/ss/slideshow-cancer-fighting-foods" onclick="return sl(this,'','prm-hc_1-img');"> 
+        <div class="corners"> 
+        </div> <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/cancer_fighting_foods_slideshow/493x335_cancer_fighting_foods_slideshow.jpg" alt="sauteed cherry tomatoes" />  </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/cancer/ss/slideshow-cancer-fighting-foods" onclick="return sl(this,'','prm-hc_1');">Cancer Fighting Foods</a> </h2> 
+        <a href="http://www.webmd.com/cancer/ss/slideshow-cancer-fighting-foods" onclick="return sl(this,'','prm-hc_1');" class="type_ss">Have you tried them?<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x09"> 
+     <div class="slide" id="prm-hp_n2s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/smoking-cessation/ss/slideshow-13-best-quit-smoking-tips-ever" data-alt="ashtray" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/quit_smoking_slideshow/493x335_quit_smoking_slideshow.jpg" onclick="return sl(this,'','prm-hc_2-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/smoking-cessation/ss/slideshow-13-best-quit-smoking-tips-ever" onclick="return sl(this,'','prm-hc_2');">Quit Smoking</a> </h2> 
+        <a href="http://www.webmd.com/smoking-cessation/ss/slideshow-13-best-quit-smoking-tips-ever" onclick="return sl(this,'','prm-hc_2');" class="type_ss">13 of the best tips.<i><span class="jawsonly">Slideshow</span> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="x10"> 
+     <div class="slide" id="prm-hp_n3s"> 
+      <div class="prm_slide"> 
+       <a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" data-alt="man with a doctor" data-src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/health_checks/concerned_about_cancer_risk_healthcheck/493x335_concerned_about_cancer_risk_healthcheck.jpg" onclick="return sl(this,'','prm-hc_3-img');"> </a> 
+      </div> 
+      <div class="prm_right"> 
+       <img src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg" alt="Clear" width="188" height="27" />  
+       <div class="prm_txt"> 
+        <h2> <a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','prm-hc_3');">Cancer</a> </h2> 
+        <a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','prm-hc_3');">What's your risk?<i> </i></a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <script class="oas_template" id="standardPromoHCfirst" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position}-img" href="{href}">
+          <div class="corners">
+          </div>
+          <img alt="{alt}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','prm-hc_{link_position}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script class="oas_template" id="standardPromoHC" type="text/html">
+    <div class="slide" id="prm-hp_n{link_position_plus_one}s">
+      <div class="prm_slide">
+        <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}-img" data-src="{img}" data-alt="{alt}" href="{href}">
+          <div class="corners">
+          </div>
+          <img href="{href}" src="{img}">
+          </img>
+        </a>
+      </div>
+      <div class="prm_right">
+        <img width="188" height="27" alt="Clear" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/dlclear_2013.jpg">
+        </img>
+        <div class="prm_txt">
+          <h2>
+            <a onclick="return sl(this,'','prm-hc_{link_position_plus_one}');" href="{href}">{alt}</a>
+          </h2>
+          <a class="type_{type}" onclick="return sl(this,'','thumb-link{link_position_plus_one}');" href="{href}">{text}<i /></a>
+        </div>
+      </div>
+    </div>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHCfirst'] = ['x08'];
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['standardPromoHC'] = ['x09','x10','x11','x12','x13'];
+				</script> 
+    <script type="text/javascript">
+					setTimeout("$('.spromo').css('visibility','visible');", 1000);
+					</script> 
+    <div class="nav"> 
+     <div class="nav_links"> 
+      <ul> 
+       <li> <a id="prm-hp_left"> <span class="jawsonly">Previous Slide</span> </a> </li> 
+       <li> <a id="prm-hp_n1"> <span class="jawsonly">Slide 1</span> </a> </li> 
+       <li> <a id="prm-hp_n2"> <span class="jawsonly">Slide 2</span> </a> </li> 
+       <li> <a id="prm-hp_n3"> <span class="jawsonly">Slide 3</span> </a> </li> 
+       <li> <a id="prm-hp_right"> <span class="jawsonly">Next Slide</span> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div>
+   <div class="teaser_fmt"> 
+    <h3>Lung Cancer</h3> 
+    <p>Lung cancer and smoking often, but not always, go hand in hand. As lung cancer stages advance, lung cancer symptoms include coughing, wheezing, shortness of breath, and bloody mucus. Treatment includes surgery, chemotherapy, and/or radiation. </p> 
+   </div>
+   <div class="guideDropdown_rdr"> 
+    <form action="" id="qform1" onsubmit="window.location=guideNavDropdown.options[guideNavDropdown.options.selectedIndex].value; return false;"> 
+     <h4>Select a Chapter</h4> 
+     <select name="guideNavDropdown" class="listBox_fmt"> <option value="http://www.webmd.com/lung-cancer/guide/lung-cancer-overview-facts">Overview &amp; Facts</option> <option value="http://www.webmd.com/lung-cancer/guide/lung-cancer-symptoms-types">Symptoms &amp; Types</option> <option value="http://www.webmd.com/lung-cancer/guide/lung-cancer-diagnosis-tests">Diagnosis &amp; Tests</option> <option value="http://www.webmd.com/lung-cancer/guide/consumer-guide-chapter-outline">Treatment &amp; Care</option> <option value="http://www.webmd.com/lung-cancer/guide/lung-cancer-support-resources">Support &amp; Resources</option> </select> 
+     <button onclick="wmdTrack('prm-dd-hc');" type="submit" name="goSingle" class="btn"> </button> 
+     <div class="clearing"> 
+     </div> 
+    </form> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <div class="subheaderBar_rdr">
+    Latest Headlines
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainEditorial_rdr"> 
+    <a href="http://www.webmd.com/lung-cancer/news/20140128/breath-test-may-detect-signs-of-lung-cancer-study" onclick="return sl(this,'','head-hc_1_1');"> <img class="mainEditorial_photo_fmt" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/news/healthday/2013/01/lungs78.jpg" border="0" alt="" width="69" /> </a> 
+    <div class="mainEditorial_photo_text_fmt"> 
+     <a href="http://www.webmd.com/lung-cancer/news/20140128/breath-test-may-detect-signs-of-lung-cancer-study" onclick="return sl(this,'','head-hc_1_1');">Breath Test May Detect Signs of Lung Cancer: Study</a> 
+     <br />Examining breath samples from patients with suspicious growths might help determine who needs surgery
+    </div> 
+    <p class="mainEditorial_read_link_fmt"> <a href="http://www.webmd.com/lung-cancer/news/20140128/breath-test-may-detect-signs-of-lung-cancer-study" onclick="return sl(this,'','head-hc_1_1');"> Read Full Article </a> </p> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="mainLinks_rdr latestHeadlines_fmt"> 
+    <h4 class="latestHeadlinesTitle_fmt">Top Stories</h4> 
+    <ul> 
+     <li> <a href="http://www.webmd.com/lung-cancer/news/20140109/us-lung-cancer-rates-continue-to-drop-cdc" onclick="return sl(this,'','head-hc_1_2');">U.S. Lung Cancer Rates Continue to Drop: CDC</a> </li> 
+     <li> <a href="http://www.webmd.com/lung-cancer/news/20131230/us-panel-backs-routine-lung-ct-scans-for-older-heavy-smokers" onclick="return sl(this,'','head-hc_1_3');">U.S. Panel Backs Routine Lung CT Scans for Older, Heavy Smokers</a> </li> 
+     <li> <a href="http://www.webmd.com/lung-cancer/news/20131209/many-lung-cancer-tumors-may-prove-harmless-study-finds" onclick="return sl(this,'','head-hc_1_4');">Many Lung Cancer Tumors May Prove Harmless, Study Finds</a> </li> 
+     <li> <a href="http://www.webmd.com/lung-cancer/guide/stages-of-lung-cancer" onclick="return sl(this,'','head-hc_2_1');">What Are The Stages of Lung Cancer?</a> </li> 
+     <li class="mainLinks_more_fmt"> <a href="http://www.webmd.com/lung-cancer/news-features" onclick="return sl(this,'','head-hc_2_more-articles');">More Articles</a> </li> 
+    </ul> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+   <script type="text/javascript" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/aca-state-promo-core.js"></script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/css/aca-state-promo-cw.css" /> 
+   <div class="aca-state-promo-cw"> 
+    <h4>Health Insurance in Your State</h4> 
+    <div class="bg"> 
+     <p>Learn about plans, benefits, and costs in your state's Marketplace.</p> 
+     <div id="names-dropdown-container"> 
+      <select name="names-dropdown" id="names-dropdown"> <option value="">Choose a state or territory</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IO">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="DC">Washington, D.C.</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> <option value="">--------</option> <option value="AS">American Samoa</option> <option value="GU">Guam</option> <option value="MP">Northern Mariana Islands</option> <option value="PR">Puerto Rico</option> <option value="VI">Virgin Islands</option> </select> 
+     </div> 
+    </div> 
+    <span class="jawsonly">From WebMD</span> 
+   </div>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=632529057&amp;tile=150999979&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=918&amp;scent=848&amp;pos=5000&amp;xpg=1822&amp;sec=1822&amp;au1=1&amp;au2=17|16|18|15|8&amp;uri=%2flung-cancer%2fdefault&amp;artid=091e9c5e800234a0&amp;inst=0&amp;leaf=&amp;cc=95&amp;tmg=&amp;bc=_cust4_c34_sex2_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=632529057&amp;amp;tile=150999979&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=918&amp;amp;scent=848&amp;amp;pos=5000&amp;amp;xpg=1822&amp;amp;sec=1822&amp;amp;au1=1&amp;amp;au2=17|16|18|15|8&amp;amp;uri=%2flung-cancer%2fdefault&amp;amp;artid=091e9c5e800234a0&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=95&amp;amp;tmg=&amp;amp;bc=_cust4_c34_sex2_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1822";
+			var secTopId = "1822";
+		</script>
+   <div id="comm-grp" class="stacked_promo"> 
+    <h2>WebMD Lung Cancer Community<br /><a href="http://exchanges.webmd.com/lung-cancer-exchange" title="See All Lung Cancer Communities">Community. Experts. Support.</a></h2> 
+    <div class="promo_group"> 
+     <h3>Discussions</h3> 
+     <ul> 
+      <li> <a href="http://forums.webmd.com/3/lung-cancer-exchange/forum/208" onclick="return sl(this,'','comm-grp_1-1');">Fighting Lung Cancer at 73 Years Old <i> </i></a> </li> 
+      <li> <a href="http://forums.webmd.com/3/lung-cancer-exchange/forum/200" onclick="return sl(this,'','comm-grp_1-2');">Stage IV Small Cell - Now Terminal <i> </i></a> </li> 
+      <li> <a href="http://forums.webmd.com/3/lung-cancer-exchange/forum/141" onclick="return sl(this,'','comm-grp_1-3');">Survival Rates for Lung Cancer? <i> </i></a> </li> 
+     </ul> 
+    </div> 
+    <div class="promo_group"> 
+     <h3>Blogs</h3> 
+     <ul> 
+      <li> <a href="http://health-insurance-navigator.blogs.webmd.com/2010/11/climbing-out-from-under-medical-debt.html" onclick="return sl(this,'','comm-grp_2-1');" class="expert">Climbing Out from Under Medical Debt <i> </i></a> </li> 
+      <li> <a href="http://blogs.webmd.com/health-ehome/2010/01/you-cant-see-smell-or-taste-it-but.html" onclick="return sl(this,'','comm-grp_2-2');" class="expert">Radon: You Can't See, Smell or Taste It, But… <i> </i></a> </li> 
+      <li> <a href="http://blogs.webmd.com/breaking-news/2010/07/can-a-cigarette-really-be-light.html" onclick="return sl(this,'','comm-grp_2-3');" class="expert">Can A Cigarette Really Be &quot;Light&quot;? <i> </i></a> </li> 
+     </ul> 
+    </div> 
+    <div class="promo_group"> 
+     <h3>Community</h3> 
+     <ul> 
+      <li> <a href="http://exchanges.webmd.com/lung-cancer-exchange" onclick="return sl(this,'','comm-grp_3-1');">WebMD Lung Cancer Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/cancer-community" onclick="return sl(this,'','comm-grp_3-2');">WebMD Cancer Community <i> </i></a> </li> 
+      <li> <a href="http://exchanges.webmd.com/smoking-cessation-exchange" onclick="return sl(this,'','comm-grp_3-3');">WebMD Smoking Cessation Community <i> </i></a> </li> 
+      <li id="comm-grp_last_link"> <a href="http://exchanges.webmd.com/webmd-exchanges/cancer-exchanges" onclick="return sl(this,'','comm-grp_3-4');">See All Communities <i> </i></a> </li> 
+     </ul> 
+    </div> 
+   </div>
+   <div class="pop_toolst_rdr" id="tool-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/lung-cancer/slideshow-lung-cancer-overview" class="type_ss" onclick="return sl(this,'','tool-res_1');">Lung Cancer: A Visual Guide<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/lung-cancer/chemotherapy-non-small-cell-10/slideshow-lung-cancer-risks" class="type_ss" onclick="return sl(this,'','tool-res_2');">Lung Cancer Risks: Myth vs. Fact<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/cancer/slideshow-cancer-fighting-foods" class="type_ss" onclick="return sl(this,'','tool-res_3');">Try These Cancer-Fighting Foods<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/cancer/health-check-cancer-risk/default.htm" onclick="return sl(this,'','tool-res_4');">Assess Your Cancer Risk</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/video/lung-cancer-men-vs-women" class="type_vid" onclick="return sl(this,'','tool-res_5');">Lung Cancer: Men vs. Women<i> </i></a></li>
+      <li id="x61"><a href="http://www.webmd.com/smoking-cessation/slideshow-13-best-quit-smoking-tips-ever" class="type_ss" onclick="return sl(this,'','tool-res_6');">13 Best Quit-Smoking Tips Ever<i> </i></a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tool-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14">
+   <div class="top_search_rdr" id="top-twlv"> 
+    <div class="top_search_heading_fmt"> 
+     <h3>Top Search Terms for Lung Cancer</h3> 
+    </div> 
+    <div class="top_search_body_fmt"> 
+     <div class="col_1_fmt"> 
+      <div class="top_search_number">
+       1
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung-cancer/guide/lung-cancer-symptoms-types" onclick="return sl(this,'','top-twlv_1');">Symptoms of Lung Cancer</a> 
+      </div> 
+      <div class="top_search_number">
+       2
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung-cancer/guide/consumer-guide-chapter-outline" onclick="return sl(this,'','top-twlv_2');">Lung Cancer Treatments</a> 
+      </div> 
+      <div class="top_search_number">
+       3
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung-cancer/small-cell-lung-cancer" onclick="return sl(this,'','top-twlv_3');">Small Cell Lung Cancer</a> 
+      </div> 
+      <div class="top_search_number">
+       4
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung-cancer/tc/radon-topic-overview" onclick="return sl(this,'','top-twlv_4');">Radon</a> 
+      </div> 
+      <div class="top_search_number">
+       5
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung-cancer/guide/lung-cancer-types" onclick="return sl(this,'','top-twlv_5');">Types of Lung Cancer</a> 
+      </div> 
+      <div class="top_search_number">
+       6
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/cancer/mesothelioma-11211" onclick="return sl(this,'','top-twlv_6');">Mesothelioma</a> 
+      </div> 
+     </div> 
+     <div class="col_2_fmt"> 
+      <div class="top_search_number">
+       7
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung-cancer/non-small-cell-lung-cancer" onclick="return sl(this,'','top-twlv_7');">Non-Small Cell Lung Cancer</a> 
+      </div> 
+      <div class="top_search_number">
+       8
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung-cancer/guide/lung-cancer-overview-facts" onclick="return sl(this,'','top-twlv_8');">Causes of Lung Cancer</a> 
+      </div> 
+      <div class="top_search_number">
+       9
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/asbestos-exposure" onclick="return sl(this,'','top-twlv_9');">Asbestos</a> 
+      </div> 
+      <div class="top_search_number">
+       10
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung-cancer/lung-surgery-thoracotomy-for-lung-cancer" onclick="return sl(this,'','top-twlv_10');">Lung Cancer Surgery</a> 
+      </div> 
+      <div class="top_search_number">
+       11
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung/lung-biopsy" onclick="return sl(this,'','top-twlv_11');">Lung Biopsy</a> 
+      </div> 
+      <div class="top_search_number">
+       12
+      </div> 
+      <div class="top_search_item"> 
+       <a href="http://www.webmd.com/lung-cancer/guide/lung-cancer-diagnosis-tests" onclick="return sl(this,'','top-twlv_12');">Diagnosing Lung Cancer</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18"></div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20">
+   <!--
+updated 07/13/11 at 6:40 EWS
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e785b6" xmlns:xalan="http://xml.apache.org/xalan"><metadata_section><i_chronicle_id>091e9c5e80011e79</i_chronicle_id><r_object_id>091e9c5e80e785b6</r_object_id><title>Lung Cancer Symptoms</title><object_name>lung_cancer_symptoms.xml</object_name><content_template>consumer_article_Health_Ref.xml</content_template><r_object_id>091e9c5e80e785b6</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80de8163</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>01/01/2014 00:00:00</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>01/01/2015 00:00:00</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80019138</r_object_id><wbmd_bus_comp_nm>WebMD</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="6" wbmd_disp_nm="Internal"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e802a487f" directive="imageurl" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/logos/webmd/web/webmd_logo_53x12.gif"></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 2014 WebMD, LLC. All rights reserved.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id></wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="2" wbmd_disp_nm="Disease &amp; Condition - Symptoms"></wbmd_med_ref_type><wbmd_wdw_ttl>Lung Cancer: Symptoms &amp; Signs of Lung Cancer</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>09/23/2012 00:00:00</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>03/02/2014 00:00:00</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80579dcf</r_object_id><wbmd_publ_name>WebMD Medical Reference from eMedicineHealth</wbmd_publ_name><wbmd_publ_type>1</wbmd_publ_type><wbmd_publ_display>WebMD Medical Reference from eMedicineHealth</wbmd_publ_display><wbmd_publ_bus_entity></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Learn more from WebMD about symptoms of lung cancer. </wbmd_desc_meta><wbmd_orig_pub_dt>01/01/2007 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Learn more from WebMD about symptoms of lung cancer. </wbmd_desc_user><wbmd_lk_ttl>Lung Cancer</wbmd_lk_ttl><wbmd_disclmr></wbmd_disclmr><wbmd_prim_med_revr><r_object_id>091e9c5e80b6c178</r_object_id><wbmd_first_nm>Sujana</wbmd_first_nm><wbmd_middle_name></wbmd_middle_name><wbmd_lst_nm>Movva</wbmd_lst_nm><wbmd_person_prof_ttl></wbmd_person_prof_ttl><wbmd_bio_obj_id></wbmd_bio_obj_id><wbmd_person_suffix_group><wbmd_person_suffix object_type="wbmd_lookup" wbmd_lookup_type="person_suffix" wbmd_storage_val="48" wbmd_disp_nm="MD"></wbmd_person_suffix></wbmd_person_suffix_group></wbmd_prim_med_revr><wbmd_keywords>lung cancer, lung cancer symptoms, coughing up blood, cough, smoker, lung cancer spread, bronchitis, respiratory infections, shortness of breath</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>J44</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>R05</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>C34</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd></wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80e785b6</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1822" wbmd_disp_nm="Lung Cancer"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>08/10/2005 00:00:00</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl directive="imageurl" chronic_id="" path="/webmdNone" object_type="" wbmd_c_alt_tag="" wbmd_c_width="" wbmd_c_ht=""></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1071" wbmd_disp_nm="Lung Cancer"></wbmd_c_channel_id><wbmd_c_frnd_nm>lung-cancer-symptoms</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser></wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_health_ref><title>Lung Cancer Symptoms</title><pages><page><section_group><section_header></section_header><section_text><p><span style=" background-color: #ffffff;">One fourth of all people with <a chronic_id="091e9c5e800234a0" crosslinkid="448" directive="friendlyurl" externalid="091e9c5e800234a0" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Lung Cancer Health Center/page_Lung Cancer Health Center_091e9c5e800234a0.xml" keywordid="7801" keywordsetid="1497" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Lung Cancer Health Center/page_Lung Cancer Health Center_091e9c5e800234a0.xml">lung cancer</a> have no symptoms when the <a chronic_id="" crosslinkid="31192" directive="friendlyurl" externalid="9A13E96B1FF14D08" href="http://www.webmd.com/cancer/" keywordid="17120" keywordsetid="4593" object_type="" path="/webmdhttp://www.webmd.com/cancer/">cancer</a> is diagnosed. These cancers are usually identified incidentally when a chest X-ray is performed for another reason. The other three-fourths of people develop some symptoms. The symptoms are due to direct effects of the primary tumor; to effects of cancer spread to other parts of the body (metastases); or to disturbances of hormones, blood, or other systems.<br></br>
+Symptoms of  <a chronic_id="" crosslinkid="72327" directive="friendlyurl" externalid="091e9c5e803c50fe" href="http://www.webmd.com/lung/picture-of-the-lungs" keywordid="60503" keywordsetid="26697" object_type="" path="/webmdhttp://www.webmd.com/lung/picture-of-the-lungs">lung</a> cancer include <a chronic_id="" crosslinkid="23486" directive="friendlyurl" externalid="091e9c5e8001e44e" href="http://www.webmd.com/cold-and-flu/tc/coughs-topic-overview" keywordid="26687" keywordsetid="4892" object_type="" path="/webmdhttp://www.webmd.com/cold-and-flu/tc/coughs-topic-overview">cough</a>, coughing up blood or rusty-colored phlegm, fatigue, unexplained weight loss, recurrent respiratory infections, hoarseness, new wheezing, and shortness of breath.</span></p><ul><li><span style=" background-color: #ffffff;">A new cough in a smoker or a former smoker should raise concern for lung cancer.</span></li><li><span style=" background-color: #ffffff;">A cough that does not go away or gets worse over time should be evaluated by a health care provider.</span></li><li><span style=" background-color: #ffffff;">Coughing up blood (hemoptysis) occurs in a significant number of people who have <a chronic_id="" crosslinkid="448" directive="friendlyurl" externalid="091e9c5e800234a0" href="http://www.webmd.com/lung-cancer/default.htm" keywordid="22496" keywordsetid="5758" object_type="" path="/webmdhttp://www.webmd.com/lung-cancer/default.htm">lung cancer</a>. Any amount of coughed-up blood should be evaluated by a health care provider.</span></li><li><a chronic_id="" crosslinkid="47596" directive="friendlyurl" externalid="091e9c5e8001e4ea" href="http://www.webmd.com/heart-disease/tc/chest-pain-topic-overview" keywordid="28000" keywordsetid="7283" object_type="" path="/webmdhttp://www.webmd.com/heart-disease/tc/chest-pain-topic-overview"><span style=" background-color: #ffffff;">Pain</span></a><span style=" background-color: #ffffff;"> in the chest area is a symptom in about one fourth of people with lung cancer. The pain is dull, aching, and persistent.</span></li><li><span style=" background-color: #ffffff;">Shortness of breath usually results from a blockage in part of the lung, collection of fluid around the lung (pleural effusion), or the spread of tumor through the lungs.</span></li><li><span style=" background-color: #ffffff;">Wheezing or hoarseness may signal blockage or inflammation in the lungs that may go along with cancer.</span></li><li><span style=" background-color: #ffffff;">Repeated respiratory infections, such as <a chronic_id="091e9c5e80009206" crosslinkid="5708" directive="friendlyurl" externalid="091e9c5e80009206" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/understanding_bronchitis_basics.xml" keywordid="7020" keywordsetid="925" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/understanding_bronchitis_basics.xml">bronchitis</a> or <a chronic_id="" crosslinkid="28267" directive="friendlyurl" externalid="091e9c5e8001daa4" href="http://www.webmd.com/lung/tc/pneumonia-topic-overview" keywordid="23852" keywordsetid="6158" object_type="" path="/webmdhttp://www.webmd.com/lung/tc/pneumonia-topic-overview">pneumonia</a>, can be a sign of lung cancer.</span></li></ul><p><span style=" background-color: #ffffff;">Symptoms of metastatic cancer depend on the extent and location of the cancer spread. About 30-40% of people with lung cancer have some symptoms or signs of metastatic disease.</span></p><ul><li><span style=" background-color: #ffffff;">Lung cancer most often spreads to the <a chronic_id="" crosslinkid="70284" directive="friendlyurl" externalid="091e9c5e80348a30" href="http://www.webmd.com/digestive-disorders/picture-of-the-liver" keywordid="42790" keywordsetid="10463" object_type="" path="/webmdhttp://www.webmd.com/digestive-disorders/picture-of-the-liver">liver</a>, the bones, and the <a chronic_id="" crosslinkid="72930" directive="friendlyurl" externalid="091e9c5e8041fa4e" href="http://www.webmd.com/brain/picture-of-the-brain" keywordid="60486" keywordsetid="26676" object_type="" path="/webmdhttp://www.webmd.com/brain/picture-of-the-brain">brain</a>.</span></li><li><span style=" background-color: #ffffff;">Metastatic lung cancer in the liver may cause yellowing of the skin and eyes (jaundice), but it may not cause any noticeable symptoms at the time of diagnosis.</span></li><li><span style=" background-color: #ffffff;">Lung cancer that has metastasized to the bone causes bone pain, usually in the bones of the spine (vertebrae), the thigh bones, and the ribs.</span></li><li><span style=" background-color: #ffffff;">Lung cancer that spreads to the brain can cause difficulties with <a chronic_id="" crosslinkid="166" directive="friendlyurl" externalid="091e9c5e800302ce" href="http://www.webmd.com/eye-health/default.htm" keywordid="20084" keywordsetid="5161" object_type="" path="/webmdhttp://www.webmd.com/eye-health/default.htm">vision</a>, weakness on one side of the body, and/or seizures.</span></li></ul><p><span style=" background-color: #ffffff;">Paraneoplastic syndromes are the remote, indirect effects of cancer not related to direct invasion. Symptoms include the following:</span></p><ul><li><span style=" background-color: #ffffff;">New bone formation (particularly in the fingertips) that can be painful</span></li><li><span style=" background-color: #ffffff;">High levels of calcium in the blood</span></li><li><span style=" background-color: #ffffff;">Blood clots</span></li><li><span style=" background-color: #ffffff;">Low sodium levels in the blood</span></li></ul><p><span style=" background-color: #ffffff;"> </span></p></section_text></section_group></page></pages><citations><p><span style=" background-color: #ffffff;">SOURCES:</span></p><p><span style=" background-color: #ffffff;">American Cancer Society. </span></p><p><span style=" background-color: #ffffff;">American Lung Association.</span></p><p><span style=" background-color: #ffffff;"><a href="http://www.emedicinehealth.com/lung_cancer/page3_em.htm#lung_cancer_symptoms_and_signs" directive="friendlyurl" chronic_id="" object_type="" path="/webmdhttp://www.emedicinehealth.com/lung_cancer/page3_em.htm#lung_cancer_symptoms_and_signs">Lung Cancer Symptoms</a> from eMedicineHealth.</span></p></citations><related_links_type>Community</related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/lung-cancer/lung-cancer-symptoms" owner="false"><breadcrumb><bread piece="Cancer Health Center" prefix="www" friendlyurl="/cancer/default.htm"></bread><bread piece="Lung Cancer Health Center" prefix="www" friendlyurl="/lung-cancer/default.htm"></bread></breadcrumb><centers><Health id="918" name="health center" chronicid="091e9c5e800234a0" prefix="www" friendlyurl="/lung-cancer/default.htm" type="">Lung Cancer</Health><Super id="848" name="super center" chronicid="091e9c5e80024a11" prefix="www" friendlyurl="/cancer/default.htm" type="">Cancer</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/lung-cancer-symptoms" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread></breadcrumb><centers></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e800234a0" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Lung Cancer Health Center/page_Lung Cancer Health Center_091e9c5e800234a0.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/lung-cancer/default.htm"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/lung-cancer-non-small-cell-directory" umtchronicleid="091e9c5e8071e15b"></target></object><object chronic_id="091e9c5e80009206" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/respiratory_disorders/lung_disorders/overview_types_of/understanding_bronchitis_basics.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/lung/understanding-bronchitis-basics"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/understanding-bronchitis-basics"></target></object></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><module_data><relatedLinks>Off</relatedLinks><articleLinkView>Page Refresh</articleLinkView><articleTitle chronic_id="091e9c5e80011e79" directive="friendlyurl" object_type="wbmd_cons_article" wbmd_lookup_type="" wbmd_storage_value=""></articleTitle></module_data></webmd_rendition>
+--> 
+   <div class="article_snippet_rdr">
+    <h3>Lung Cancer Symptoms</h3>
+    <div class="snippet_fmt" id="art-snp">
+     <p xmlns:xalan="http://xml.apache.org/xalan"><span style=" background-color: #ffffff;">One fourth of all people with lung cancer have no symptoms when the cancer is diagnosed. These cancers are usually identified incidentally when a chest X-ray is performed for another reason. The other three-fourths of people develop some symptoms. The symptoms are due to direct effects of the primary tumor; to effects of cancer spread to other parts of the body (metastases); or to disturbances of hormones, blood, or other systems.<br /><br /> Symptoms of &nbsp;lung cancer include cough, coughing up blood or rusty-colored phlegm, fatigue, unexplained weight loss, recurrent respiratory infections, hoarseness, new wheezing, and shortness of breath.</span></p>
+     <ul xmlns:xalan="http://xml.apache.org/xalan">
+      <li><span style=" background-color: #ffffff;">A new cough in a smoker or a former smoker should raise concern for lung cancer.</span></li>
+      <li><span style=" background-color: #ffffff;">A cough that does not go away or gets worse over time should be evaluated by a health care provider.</span></li>
+      <li><span style=" background-color: #ffffff;">Coughing up blood (hemoptysis) occurs in a significant number of people who have lung cancer. Any amount of coughed-up blood should be evaluated by a health care provider.</span></li>
+      <li><span style=" background-color: #ffffff;">Pain</span><span style=" background-color: #ffffff;"> in the chest area is a symptom in about one fourth of people with lung cancer. The pain is dull, aching, and persistent.</span></li>
+      <li><span style=" background-color: #ffffff;">Shortness of breath usually results from a blockage in part of the lung, collection of fluid around the lung (pleural effusion), or the spread of tumor through the lungs.</span></li>
+      <li><span style=" background-color: #ffffff;">Wheezing or hoarseness may signal blockage or inflammation in the lungs that may go along with cancer.</span></li>
+      <li><span style=" background-color: #ffffff;">Repeated respiratory infections, such as bronchitis or pneumonia, can be a sign of lung cancer.</span></li>
+     </ul>
+    </div>
+    <div class="snippet_link">
+     <a href="http://www.webmd.com/lung-cancer/lung-cancer-symptoms" onclick="return sl(this,'','art-snp_1');">Lung Cancer Symptoms</a>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"> 
+   </div>
+  </div> 
+ </div> 
+</div>

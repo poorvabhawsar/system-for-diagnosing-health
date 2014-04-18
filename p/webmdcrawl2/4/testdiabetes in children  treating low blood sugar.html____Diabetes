@@ -1,0 +1,888 @@
+<title>Diabetes in Children: Treating Low Blood Sugar</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/diabetes/diabetes-health-check/diabetes-health-check-old" onclick="return sl(this,'','lln-toolsres_1');">Is Your Diabetes Under Control?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Tips: Stay Healthy With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853920" onclick="return sl(this,'','lln-toolsres_3');">How to Count Carbs With Diabetes</a></li>
+      <li id="x59"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/preventing-complications" onclick="return sl(this,'','lln-toolsres_4');">Preventing Diabetes Complications</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853926" onclick="return sl(this,'','lln-toolsres_5');">Diabetes Menu Plan</a></li>
+      <li id="x61"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/taking-care" onclick="return sl(this,'','lln-toolsres_6');">4 Every Day Tips for Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="actionset"> 
+    <div class="action_top"> 
+    </div> 
+    <div class="action_mid"> 
+     <div class="page page_1"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 1 of 6
+       </div> 
+       <a href="#6" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#2" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Diabetes in Children: Treating Low Blood Sugar
+       </div> 
+       <div class="as_content"> 
+        <p> <a href="http://www.webmd.com/diabetes/diabetes-hypoglycemia" onclick="return sl(this,'','embd-lnk');">Low blood sugar</a>, also called hypoglycemia, occurs when the sugar (glucose) level in the <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> of a person with <a href="http://www.webmd.com/diabetes/default.htm" onclick="return sl(this,'','embd-lnk');">diabetes</a> drops below what the body needs to function normally. Taking too much <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-5233-Insulin+Regular+Human+Inj.aspx?drugid=5233&amp;drugname=Insulin+Regular+Human+Inj">insulin</a>, not eating enough food or skipping meals, or <a href="http://www.webmd.com/fitness-exercise/default.htm" onclick="return sl(this,'','embd-lnk');">exercising</a> more than usual can cause <a href="http://www.webmd.com/diabetes/blood-glucose" onclick="return sl(this,'','embd-lnk');">blood sugar levels</a> to drop rapidly.</p> 
+        <p>If your child's <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/diabetes/blood-glucose">blood sugar</a> level drops very low and he or she does not get help, your child could have a <a href="http://www.webmd.com/hw-popup/seizure" onclick="return sl(this,'hw','embd-lnk');">seizure</a> or go into a <a href="http://www.webmd.com/brain/coma-types-causes-treatments-prognosis" onclick="return sl(this,'','embd-lnk');">coma</a> and possibly die.</p> 
+        <p>These four simple steps might save your child's life:</p> 
+        <ul> 
+         <li>Test your child's blood sugar as suggested by his or her doctor so that you do not have to guess when your child's blood sugar is low.</li> 
+         <li>Be alert to the early signs of low blood sugar: <a href="http://www.webmd.com/skin-problems-and-treatments/hyperhidrosis2" onclick="return sl(this,'','embd-lnk');">sweating</a>, shakiness, <a href="http://www.webmd.com/diet/features/top-10-ways-to-deal-with-hunger" onclick="return sl(this,'','embd-lnk');">hunger</a>, blurred <a href="http://www.webmd.com/eye-health/default.htm" onclick="return sl(this,'','embd-lnk');">vision</a>, and <a href="http://www.webmd.com/brain/tc/dizziness-lightheadedness-and-vertigo-topic-overview" onclick="return sl(this,'','embd-lnk');">dizziness</a>.</li> 
+         <li>Have your child keep some hard candy, raisins, or other foods that contain sugar with him or her at all times. Your child should eat some at the first sign of low blood sugar.</li> 
+         <li>Teach all of your child's caregivers what to do if your child's blood sugar is very low.</li> 
+        </ul> 
+        <p> <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/what.gif" alt="what.gif" align="" style="" /> </a>&nbsp;<a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">What is low blood sugar?</a><br /><a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">Why is low blood sugar a problem?</a><br /><a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">How do you deal with low blood sugar?</a><br /><a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br /></p> 
+        <p>More information about children and diabetes can be found in these topics:</p> 
+        <ul> 
+         <li> <a href="http://www.webmd.com/diabetes/tc/type-1-diabetes-children-living-with-the-disease-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 1 Diabetes: Children Living With the Disease</a> </li> 
+         <li> <a href="http://www.webmd.com/diabetes/tc/type-2-diabetes-in-children-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 2 Diabetes in Children</a> </li> 
+        </ul> 
+        <p class="NoWebPrint">Return to topic:</p> 
+        <div class="NoWebPrint"> 
+         <ul> 
+          <li> <a href="http://www.webmd.com/diabetes/tc/diabetes-related-high-and-low-blood-sugar-levels-topic-overview" onclick="return sl(this,'','embd-lnk');">Diabetes-Related High and Low Blood Sugar Levels</a> </li> 
+          <li> <a href="http://www.webmd.com/diabetes/tc/type-1-diabetes-children-living-with-the-disease-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 1 Diabetes: Children Living With the Disease</a> </li> 
+          <li> <a href="http://www.webmd.com/diabetes/tc/type-2-diabetes-in-children-home-treatment" onclick="return sl(this,'','embd-lnk');">Type 2 Diabetes in Children</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#2" class="ac_next">What is low blood sugar?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_2" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 2 of 6
+       </div> 
+       <a href="#1" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#3" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        What is low blood sugar?
+       </div> 
+       <div class="as_content"> 
+        <p>Low blood sugar means that the level of sugar (glucose) in your child's blood has dropped below what his or her body needs to function normally. When your child's blood sugar level drops below 70 milligrams per deciliter (mg/dL), he or she most likely will have symptoms, such as feeling tired, weak, or shaky. Very low blood sugar levels (below 20 mg/dL) can develop quickly and are emergency situations that require immediate care. You can give your child a glucagon shot to bring his or her blood sugar back up. Follow the instructions that come with the glucagon kit. </p> 
+        <p>Sometimes children who have type 1 diabetes and children with type 2 diabetes who take insulin develop low blood sugar levels during the night. If your child's level drops during the night, he or she may wake up in a cold sweat and feel weak. But some children sleep through it because the body uses stored sugar to raise their blood sugar level back to their target range. If this happens, your child may wake up in the morning with only a <a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">headache</a> and possibly high blood sugar. </p> 
+        <h4>What causes low blood sugar?</h4> 
+        <p>Very low blood sugar can develop rapidly (within minutes). It can occur if your child:</p> 
+        <ul> 
+         <li>Gets too much insulin.</li> 
+         <li>Skips or delays a meal or snack.</li> 
+         <li>Exercises too much without eating enough food.</li> 
+        </ul> 
+        <p>Children may have symptoms of low blood sugar if their blood sugar drops to a lower level than usual. For example, if your child's level has been in the 300s for a week and it drops suddenly to 100, he or she may have symptoms of low blood sugar. Even though 100 is in the normal range, it is much lower than your child is used to. It is also possible that your child may not have symptoms of low blood sugar until the level is very low. When the blood sugar level is very low, your child may be too confused to remember how to treat low blood sugar.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Low blood sugar means that the level of sugar in the blood has dropped below what the body needs to function normally (usually below 70 mg/dL).</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0What');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0What');" />False
+         </form> 
+         <a name="fms_answer6"> </a> 
+         <div id="answer0What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Low blood sugar means that the level of sugar in the blood has dropped below what the body needs to function normally, usually below 70 mg/dL. When your child's blood sugar level drops below 70 mg/dL, he or she most likely will have symptoms, such as feeling tired, weak, or shaky.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Low blood sugar means that the level of sugar in the blood has dropped below what the body needs to function normally, usually below 70 mg/dL. When your child's blood sugar level drops below 70 mg/dL, he or she most likely will have symptoms, such as feeling tired, weak, or shaky.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Very low blood sugar levels (below 20 mg/dL) are emergency situations and require immediate care, such as giving your child a glucagon shot. </p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1What');" />True
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1What');" />False
+         </form> 
+         <a name="fms_answer6"> </a> 
+         <div id="answer1What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Very low blood sugar levels (below 20 mg/dL) are emergencies, and your child needs care immediately. You can give your child a glucagon shot to bring his or her blood sugar back up. Follow the instructions that come with the glucagon kit. If your child does not receive immediate care, a very low blood sugar level could lead to coma and death.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Very low blood sugar levels (below 20 mg/dL) are emergencies, and your child needs care immediately. You can give your child a glucagon shot to bring his or her blood sugar back up. Follow the instructions that come with the glucagon kit. If your child does not receive immediate care, a very low blood sugar level could lead to coma and death.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">Why is low blood sugar a problem?</a><br />Return to <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">Diabetes in Children: Treating Low Blood Sugar</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#3" class="ac_next">Why is low blood sugar a problem?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_3" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 3 of 6
+       </div> 
+       <a href="#2" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#4" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Why is low blood sugar a problem?
+       </div> 
+       <div class="as_content"> 
+        <p>When children's blood sugar levels fall below 70 mg/dL, their bodies react the same as when they are very afraid, angry, or anxious. These symptoms of mild low blood sugar often last for only a short time if your child eats or drinks food containing sugar. An emergency situation will not likely develop, and your child won't have any lasting effects.</p> 
+        <p> If your child's blood sugar continues to drop (below 40 mg/dL), the <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a> may receive too little sugar to work properly, and judgment and muscle coordination are affected. Children may not realize that their blood sugar is too low and may not think they need to eat food to raise the level. You or someone else may have to help your child eat or drink something.</p> 
+        <p> If your child's blood sugar level continues to drop (below 20 mg/dL), he or she can have a <a href="http://www.webmd.com/hw-popup/seizure" onclick="return sl(this,'hw','embd-lnk');">seizure</a> or lose consciousness. If your child doesn't receive prompt emergency care, such as a glucagon shot, he or she may go into a coma and possibly die.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>If your child's blood sugar level drops very low (below 20 mg/dL):</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0Why');" />He or she could fall into a coma and possibly die.
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0Why');" />He or she will seem normal.
+          <br />
+          <input type="radio" name="answer_0" value="2" onclick="gradeAnswer(this.value, 'answer0Why');" />He or she will be able to eat or drink something to raise it.
+          <br />
+          <input type="radio" name="answer_0" value="3" onclick="gradeAnswer(this.value, 'answer0Why');" />He or she can still function if needed.
+         </form> 
+         <a name="fms_answer3"> </a> 
+         <div id="answer0Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Blood sugar levels in children who take insulin can drop very rapidly (within minutes). If your child's blood sugar level drops to 20 mg/dL or lower, he or she could fall into a coma and possibly die. A glucagon shot will be necessary. Prompt emergency care is needed. </p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Blood sugar levels in children who take insulin can drop very rapidly (within minutes). If your child's blood sugar level drops to 20 mg/dL or lower, he or she won't seem normal. Your child could fall into a coma and possibly die. A glucagon shot will be necessary. Prompt emergency care is needed.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Blood sugar levels in children who take insulin can drop very rapidly (within minutes). If your child's blood sugar level drops to 20 mg/dL or lower, he or she won't be able to eat or drink something to raise it. Your child could fall into a coma and possibly die. A glucagon shot will be necessary. Prompt emergency care is needed.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Blood sugar levels in children who take insulin can drop very rapidly (within minutes). If your child's blood sugar level drops to 20 mg/dL or lower, he or she will not be able to function if needed. Your child could fall into a coma and possibly die. A glucagon shot will be necessary. Prompt emergency care is needed.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">How do you deal with low blood sugar?</a><br />Return to <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">Diabetes in Children: Treating Low Blood Sugar</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#4" class="ac_next">How do you deal with low blood sugar?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_4" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 4 of 6
+       </div> 
+       <a href="#3" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#5" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        How do you deal with low blood sugar?
+       </div> 
+       <div class="as_content"> 
+        <p>Low blood sugar levels can develop rapidly, within minutes. <a href="http://www.webmd.com/a-to-z-guides/diabetes-dealing-with-low-blood-sugar-topic-overview" onclick="return sl(this,'','embd-lnk');">Treat low blood sugar</a> symptoms as soon as you notice them.</p> 
+        <p>Here are some ways to manage a low blood sugar emergency.</p> 
+        <h4>Be prepared</h4> 
+        <ul> 
+         <li>Keep some <a href="http://www.webmd.com/diabetes/tc/quick-sugar-foods-topic-overview" onclick="return sl(this,'','embd-lnk');">quick-sugar food</a> with your child at all times. Quick-sugar food can raise your child's blood sugar level by 30 mg/dL in 15 minutes.</li> 
+         <li>Know the <a href="http://www.webmd.com/a-to-z-guides/symptoms-of-low-blood-sugar-topic-overview" onclick="return sl(this,'','embd-lnk');">symptoms of low blood sugar</a>. Post these symptoms where the list can be seen often, and have your child carry a copy at all times. Add any symptoms that your child has that aren't on the list.</li> 
+         <li>Have your child wear medical identification, such as a <a href="http://www.webmd.com/epilepsy/medical-alert-bracelet" onclick="return sl(this,'','embd-lnk');">medical alert bracelet</a> <a href="http://www.webmd.com/epilepsy/medical-alert-bracelet" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" align="" style="" /></a> or a medical alert temporary tattoo, in case your child's blood sugar drops very low and he or she needs help.</li> 
+         <li>Keep <a href="http://www.webmd.com/hw-popup/glucagon" onclick="return sl(this,'hw','embd-lnk');">glucagon</a> on hand. If your child becomes unconscious when his or her blood sugar is very low, someone may need to give your child an injection of glucagon to raise the blood sugar level. Keep the instructions for <a href="http://www.webmd.com/diabetes/tc/diabetes-how-to-give-glucagon-topic-overview" onclick="return sl(this,'','embd-lnk');">how to give glucagon</a> with your child's glucagon. Also, check the expiration date on the glucagon—most glucagon kits need to be replaced every 6 months to a year.</li> 
+         <li>Teach your child's caregivers how to check blood sugar. Have instructions for using the blood sugar meter stored with the meter so the caregiver can review the instructions if needed.</li> 
+         <li>Post the <a href="http://www.webmd.com/a-to-z-guides/low-blood-sugar-emergency-care-topic-overview" onclick="return sl(this,'','embd-lnk');">emergency care for low blood sugar</a> instructions in a convenient place at home and at school.</li> 
+        </ul> 
+        <h4>Treat low blood sugar early</h4> 
+        <ul> 
+         <li>Check your child's blood sugar level if you think it may be low, even if you don't see any symptoms. Follow the <a href="http://www.webmd.com/a-to-z-guides/diabetes-dealing-with-low-blood-sugar-topic-overview" onclick="return sl(this,'','embd-lnk');">steps for treating low blood sugar</a> when your child develops symptoms of low blood sugar or when your child's blood sugar is below his or her target range. </li> 
+         <li>Write down your child's symptoms and what you did. Use the <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_uq2705.pdf">low blood sugar level record</a><span class="NoWebPrint"><a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_uq2705.pdf"></a></span><span class="NoWebPrint"><span class="Size1">(What is a <a href="http://www.webmd.com/hw-popup/pdf-document" onclick="return sl(this,'hw','embd-lnk');">PDF</a> document?)</span></span>.</li> 
+         <li> Let the doctor know if your child is having frequent low blood sugar problems. His or her medicine or insulin pump may need to be changed or adjusted.</li> 
+        </ul> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p>Answer the following questions to see whether you understand how to deal with low blood sugar levels.</p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>In preparation for a low blood sugar emergency, my child needs to carry:</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0How');" />His or her insulin.
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0How');" /> Some quick-sugar foods.
+          <br />
+          <input type="radio" name="answer_0" value="2" onclick="gradeAnswer(this.value, 'answer0How');" />A note from my child's doctor.
+         </form> 
+         <a name="fms_answer6"> </a> 
+         <div id="answer0How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />To be prepared for a low blood sugar emergency, your child doesn't need to carry insulin. Taking insulin will make your child's blood sugar drop lower. To be prepared for a low blood sugar emergency, always have your child carry some quick-sugar foods with him or her. Review the list of quick-sugar foods.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />To be prepared for a low blood sugar emergency, your child needs to carry some quick-sugar foods with him or her at all times. Review the list of quick-sugar foods.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />To be prepared for a low blood sugar emergency, your child doesn't need to carry a note from his or her doctor. To be prepared for a low blood sugar emergency, always have your child carry some quick-sugar foods with him or her. Review the list of quick-sugar foods.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>To prevent a low blood sugar emergency, your child needs to treat symptoms of low blood sugar as soon as they are noticed. To treat low blood sugar before it becomes an emergency, your child needs to:</p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1How');" />Take an extra dose of insulin.
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1How');" />Go to sleep and rest.
+          <br />
+          <input type="radio" name="answer_1" value="2" onclick="gradeAnswer(this.value, 'answer1How');" />Eat some food that contains sugar.
+         </form> 
+         <a name="fms_answer6"> </a> 
+         <div id="answer1How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />To treat low blood sugar before it becomes an emergency, your child doesn't need to take an extra dose of insulin. Taking insulin will make your child's blood sugar drop lower. Your child needs to eat some food that contains sugar to raise his or her blood sugar level and prevent an emergency.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />To treat low blood sugar before it becomes an emergency, your child shouldn't go to sleep and rest. Your child's blood sugar level may continue to drop, leading to an emergency situation. Your child needs to eat some food that contains sugar to raise his or her blood sugar level and prevent an emergency.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />To treat low blood sugar before it becomes an emergency, your child needs to eat some food that contains sugar. Food that contains sugar will raise your child's blood sugar level and prevent an emergency.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br />Return to <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">Diabetes in Children: Treating Low Blood Sugar</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#5" class="ac_next">Where to go from here<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_5" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 5 of 6
+       </div> 
+       <a href="#4" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#6" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Where to go from here
+       </div> 
+       <div class="as_content"> 
+        <h4>Talk with your child's doctor</h4> 
+        <p>If you have questions about this information, take it with you and discuss it with the doctor. You may want to mark areas or make notes in the margins of the pages where you have questions.</p> 
+        <p>If you don't already have glucagon at home, ask your child's doctor for a prescription. Make sure your child's caregivers know how to give a glucagon shot if an emergency develops.</p> 
+        <p>If you would like more information on dealing with low blood sugar levels, the following resources are available:</p> 
+        <h3>Organization</h3> 
+        <table border="0"> 
+         <tbody>
+          <tr> 
+           <td colspan="2"> <b>American Diabetes Association (ADA)</b> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">1701 North Beauregard Street</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">Alexandria, VA&nbsp;&nbsp;22311</td> 
+          </tr> 
+          <tr> 
+           <td>Phone: </td> 
+           <td>1-800-DIABETES (1-800-342-2383)</td> 
+          </tr> 
+          <tr> 
+           <td>Email: </td> 
+           <td>AskADA@diabetes.org</td> 
+          </tr> 
+          <tr> 
+           <td>Web Address: </td> 
+           <td>www.diabetes.org</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">&nbsp;</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2"> <p>The American Diabetes Association (ADA) is a national organization for health professionals and consumers. Almost every state has a local office. ADA sets the standards for the care of people with diabetes. Its focus is on research for the prevention and treatment of all types of diabetes. ADA provides patient and professional education mainly through its publications, which include the monthly magazine <i>Diabetes Forecast</i>, books, brochures, cookbooks and meal planning guides, and pamphlets. ADA also provides information for parents about caring for a child with diabetes.</p> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="2"> <br /> </td> 
+          </tr> 
+         </tbody>
+        </table> 
+        <p> </p> 
+        <p class="NoWebPrint">Return to <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-when-your-child-takes-insulin" onclick="return sl(this,'','embd-lnk');">Diabetes in Children: Treating Low Blood Sugar</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#6" class="ac_next">See More Popular Action Sets<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_6" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 6 of 6
+       </div> 
+       <a href="#5" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#1" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        See More Popular Action Sets
+       </div> 
+       <div id="lastslide"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="action_bot"> 
+    </div> 
+   </div> 
+   <div class="dashed_fmt"> 
+   </div> 
+   <div class="subheadSpaced_fmt"> 
+   </div> 
+   <div class="credits_fmt"> 
+    <table border="0" cellpadding="5"> 
+     <tbody>
+      <tr> 
+       <td valign="top"> <b>By</b> </td> 
+       <td>Healthwise Staff</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+       <td>John Pope, MD - Pediatrics</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+       <td>Stephen LaFranchi, MD - Pediatrics, Pediatric Endocrinology</td> 
+      </tr> 
+      <tr> 
+       <td> <b>Last Revised</b> </td> 
+       <td>December 4, 2012</td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionsets.js">
+</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: December 04, 2012
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - ActionSet';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1037"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','rltd-p-1037_1');">Diabetes? Get Tips to Avoid Health Problems</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1037_2');">Images of Diabetic Retinopathy and Other Vision Problems</a> </li> 
+     <li id="x64"> <a href="http://diabetes.webmd.com/diabetes-health-check/default.htm" onclick="return sl(this,'','rltd-p-1037_3');">Is Your Type 2 Diabetes Under Control?</a> </li> 
+     <li id="x65"> <a href="http://diabetes.webmd.com/diabetes-your-menu-6/alcohol" onclick="return sl(this,'','rltd-p-1037_4');">Dos and Don'ts: Diabetes and Alcohol Consumption</a> </li> 
+     <li id="x66"> <a href="http://diabetes.webmd.com/treating-diabetes-11/insulin-questions" onclick="return sl(this,'','rltd-p-1037_5');">Your Insulin Management Questions Answered</a> </li> 
+     <li id="x67" class="last"> <a href="http://arthritis.webmd.com/living-with-chronic-gout-11/gout-and-diabetes" onclick="return sl(this,'','rltd-p-1037_6');">Diabetes and Gout: Know the Risk Factors</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1037_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80a7df5a" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069325b</chronic_id><r_object_id>091e9c5e80a7df5a</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8069325b.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>05/30/2012 23:35:23</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Diabetes Health Center/template_Diabetes Health Center_091e9c5e800245f8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800245f8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Hypoglycemia</name><link_title>Hypoglycemia</link_title><description>Hypoglycemia is low blood sugar. It is considered a symptom, not a disease. Hypoglycemia most commonly occurs in people who take certain diabetes medications. However, low blood sugar may also be due to abnormal hormone levels or sensitivity to certain body hormones, gastric surgery, a tumor of the pancreas, and genetic disorders that interfere with the body's ability to breakdown certain food substances, such as fruit sugar.  Symptoms of hypoglycemia include shakiness, hunger, lightheadedness, and sweating. People with severe hypoglycemia may pass out. Meal plan or medication changes may help treat hypoglycemia.  Follow the links below to find WebMD's comprehensive coverage about how hypoglycermia occurs, what the symptoms are, how to treat it, and much more.</description><friendly_url>http://www.webmd.com/diabetes/hypoglycemia-directory</friendly_url></topic_dir><related_assets><asset id=""><link_title>What causes hypoglycemia?</link_title><friendly_url>http://answers.webmd.com/answers/1190425/what-causes-hypoglycemia</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006bb4"><link_title>Small Amounts of Alcohol Slightly Increases Risk of Low Blood Sugar</link_title><friendly_url>http://www.webmd.com/diabetes/news/19991213/small-amounts-alcohol-increases-risk-low-blood-sugar</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80011ecf"><link_title>Low Blood Sugar Linked to Weight Loss Surgery?</link_title><friendly_url>http://www.webmd.com/diabetes/news/20050720/low-blood-sugar-linked-to-weight-loss-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807b7358"><link_title>Slideshow: Control Your Blood Sugars</link_title><friendly_url>http://www.webmd.com/diabetes/controlling-diabetes-11/slideshow-control-your-blood-sugars</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000842c"><link_title>Hypoglycemia and Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/diabetes-hypoglycemia</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007f6d"><link_title>The NIDDK on Hypoglycemia</link_title><friendly_url>http://www.webmd.com/diabetes/hypoglycemia-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804ceb3d"><link_title>Slideshow: Diabetes Management in 10 Minutes</link_title><friendly_url>http://www.webmd.com/diabetes/active-life/slideshow-managing-diabetes-10-tips</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80686910"><link_title>Slideshow: Blood Sugar Control and Insulin</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-blood-sugar-insulin</friendly_url><thumbnail height="" width="" alt="Assorted healthy whole foods">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/how_you_can_control_blood_sugar_and_manage_insulin/69x75_how_you_can_control_blood_sugar_and_manage_insulin.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802ac3d0"><link_title>Slideshow: A Visual Guide to Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-type-2-diabetes-overview</friendly_url><thumbnail height="" width="" alt="Diabetic tools">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/type_2_diabetes_overview_slideshow/69x75_type_2_diabetes_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d711"><link_title>Dealing with low blood sugar in children taking only oral medication for diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-in-children-taking-only-oral-medication-for-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ae7c"><link_title>Hypoglycemia (Low Blood Sugar)-Topic Overview</link_title><friendly_url>http://www.webmd.com/diabetes/tc/hypoglycemia-low-blood-sugar-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d6f1"><link_title>Diabetes: Dealing With Low Blood Sugar From Medicines</link_title><friendly_url>http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-from-medications-for-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8049069c"><link_title>Hypoglycemia</link_title><friendly_url>http://www.webmd.com/diabetes/hypoglycemia</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061b152"><link_title>Symptoms of Low Blood Sugar-Topic Overview</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/symptoms-of-low-blood-sugar-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061b153"><link_title>Symptoms of Low Blood Sugar-Related Information</link_title><friendly_url>http://www.webmd.com/a-to-z-guides/symptoms-of-low-blood-sugar-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id=""><link_title>How can hypoglycemia be prevented?</link_title><friendly_url>http://answers.webmd.com/answers/1199861/how-can-hypoglycemia-be-prevented</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>How is hypoglycemia treated?</link_title><friendly_url>http://answers.webmd.com/answers/1190427/how-is-hypoglycemia-treated</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is hypoglycemia?</link_title><friendly_url>http://answers.webmd.com/answers/1190424/what-is-hypoglycemia</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>What is type 2 diabetes?</link_title><friendly_url>http://answers.webmd.com/answers/1192786/what-is-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id=""><link_title>Why should people with diabetes test their blood sugar levels?</link_title><friendly_url>http://answers.webmd.com/answers/1180314/why-should-people-with-diabetes-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006d03"><link_title>Most Type 2 Diabetics Don't Know Disease Cause</link_title><friendly_url>http://www.webmd.com/diabetes/news/19991201/type-2-diabetics-dont-know-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000ec3a"><link_title>IOM Admits Possible Link Between Agent Orange and Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/news/20001013/iom-admits-possible-link-between-agent-orange-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000efdd"><link_title>Many Insulin Users Don't Use Prescribed Dose</link_title><friendly_url>http://www.webmd.com/diabetes/news/20050105/many-insulin-users-dont-use-prescribed-dose</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000efe9"><link_title>Insulin Therapy for Early Type 2 Diabetes?</link_title><friendly_url>http://www.webmd.com/diabetes/news/20030821/insulin-for-early-type-2-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000fbc1"><link_title>U.S. Diabetes Control Dangerously Poor</link_title><friendly_url>http://www.webmd.com/diabetes/news/20050518/us-diabetes-control-dangerously-poor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000feea"><link_title>Smoking May Increase Diabetes Risk</link_title><friendly_url>http://www.webmd.com/smoking-cessation/news/20050926/smoking-may-increase-diabetes-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80057ded"><link_title>Type 2 Diabetes Resources</link_title><friendly_url>http://www.webmd.com/diabetes/guide/type-2-diabetes-resources</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80100f2b"><link_title>Brain Link Seen in Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/news/20070828/brain-link-seen-in-type-2-diabetes</friendly_url><thumbnail height="" width="" alt="Diabetes and Heart Attacks">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/August07/diabetes_heart_attacks.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8011a751"><link_title>Red Wine Compound May Curb Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/news/20071002/red-wine-compound-may-curb-diabetes</friendly_url><thumbnail height="" width="" alt="Red Wine Fights Diabetes">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/October_07/red_wine_fights_diabetes.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8012ac61"><link_title>Type 2 Diabetes: How to Start Insulin</link_title><friendly_url>http://www.webmd.com/diabetes/news/20071024/type-2-diabetes-how-to-start-insulin</friendly_url><thumbnail height="" width="" alt="Insulin for Type 2">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/October_07/insulin_for_type_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/diabetes/controlling-diabetes-11/slideshow-control-your-blood-sugars" onclick="return sl(this,'','lln-tdrelcon_1');">Slideshow: Control Your Blood Sugars</a></li>
+      <li><a href="http://www.webmd.com/diabetes/active-life/slideshow-managing-diabetes-10-tips" onclick="return sl(this,'','lln-tdrelcon_2');">Slideshow: Diabetes Management in 10 Minutes</a></li>
+      <li><a href="http://answers.webmd.com/answers/1190425/what-causes-hypoglycemia" onclick="return sl(this,'','lln-tdrelcon_3');">What causes hypoglycemia?</a></li>
+      <li><a href="http://www.webmd.com/diabetes/diabetes-hypoglycemia" onclick="return sl(this,'','lln-tdrelcon_4');">Hypoglycemia and Diabetes</a></li>
+      <li><a href="http://www.webmd.com/diabetes/hypoglycemia-overview" onclick="return sl(this,'','lln-tdrelcon_5');">The NIDDK on Hypoglycemia</a></li>
+      <li><a href="http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-in-children-taking-only-oral-medication-for-diabetes" onclick="return sl(this,'','lln-tdrelcon_6');">Dealing with low blood sugar in children taking only oral medication for diabetes</a></li>
+      <li><a href="http://www.webmd.com/diabetes/tc/hypoglycemia-low-blood-sugar-topic-overview" onclick="return sl(this,'','lln-tdrelcon_7');">Hypoglycemia (Low Blood Sugar)-Topic Overview</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/diabetes/hypoglycemia-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Hypoglycemia Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=892463526&tile=1412383384&tug=&pug=_2147_&site=2&affiliate=20&hcent=1037&scent=&pos=113&xpg=1667&sec=8006&amp;au1=1&au2=&uri=%2fdiabetes%2fdealing-with-low-blood-sugar-when-your-child-takes-insulin&artid=091e9c5e8001d706&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_age1_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'892463526',
+                    tile:'1412383384',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1667";
+      var secTopId = "8006";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=892463526&amp;tile=1412383384&amp;tug=&amp;pug=_2147_&amp;site=2&amp;affiliate=20&amp;hcent=1037&amp;scent=&amp;pos=5001&amp;xpg=1667&amp;sec=8006&amp;au1=1&amp;au2=&amp;uri=%2fdiabetes%2fdealing-with-low-blood-sugar-when-your-child-takes-insulin&amp;artid=091e9c5e8001d706&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=892463526&amp;amp;tile=1412383384&amp;amp;tug=&amp;amp;pug=_2147_&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1037&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1667&amp;amp;sec=8006&amp;amp;au1=1&amp;amp;au2=&amp;amp;uri=%2fdiabetes%2fdealing-with-low-blood-sugar-when-your-child-takes-insulin&amp;amp;artid=091e9c5e8001d706&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1667";
+			var secTopId = "8006";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

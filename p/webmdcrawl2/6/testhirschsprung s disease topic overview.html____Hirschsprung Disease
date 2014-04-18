@@ -1,0 +1,688 @@
+<title>Hirschsprung's Disease-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/parenting/features/inside-look-at-the-teen-brain" onclick="return sl(this,'','tools-res_1');">What Makes Your Teen Tick?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/parenting/bedwetting-solutions-12/default.htm" onclick="return sl(this,'','tools-res_2');">How to Stop Bedwetting</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/allergies/ss/slideshow-allergy-medicines" class="type_ss" onclick="return sl(this,'','tools-res_3');">Allergy Relief: What You Need<i> </i></a></li>
+      <li id="x59"><a href="http://www.webmd.com/children/digestion-in-children-11/constipation-treatment" onclick="return sl(this,'','tools-res_4');">Treating Constipation in Kids</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/vaccines/what-you-should-know-11/preventative-health-vaccines" onclick="return sl(this,'','tools-res_5');">Protect Your Kids: Get Your Shots</a></li>
+      <li id="x61"><a href="http://www.webmd.com/parenting/answers-health/answers-strep-symptoms" onclick="return sl(this,'','tools-res_6');">Strep Throat Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e8081b473"><metadata_section><i_chronicle_id>091e9c5e8001ad62</i_chronicle_id><r_object_id>091e9c5e8081b473</r_object_id><title>Topic Overview</title><object_name>Hirschsprungs_Disease-Topic_Overview.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e8081b473</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>mini_hw183348</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Hirschsprung's Disease-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378505</r_object_id><publ_i_chronicle_id>091e9c5e80019163</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Mini</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>Hirschsprung's disease (congenital aganglionic megacolon) is a birth defect in which nerve cells in the wall of the colon (large intestine) do not develop.</wbmd_desc_meta><wbmd_orig_pub_dt>09/09/2010 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>Hirschsprung's disease (congenital aganglionic megacolon) is a birth defect in which nerve cells in the wall of the colon (large intestine) do not develop.</wbmd_desc_user><wbmd_lk_ttl>Hirschsprung's Disease-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>congenital megacolon, megacolon</wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>O</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>A08.0</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>K</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>Age.121</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e8081b473</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3609" wbmd_disp_nm="Parenting"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1025" wbmd_disp_nm="Children"></wbmd_c_channel_id><wbmd_c_frnd_nm>Hirschsprungs-Disease-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>Overview</section_type><section_text><a name="hw183348"></a><h4>What is Hirschsprung's disease?</h4><p>Hirschsprung's disease is a birth defect that affects the nerve cells in the large
+			 intestine. These nerve cells control the muscles that normally push food and
+			 waste through the large intestine.</p><p>But in babies who have
+			 Hirschsprung's disease, the muscles in the wall of the large intestine don't
+			 relax, which prevents stool from passing. This can lead to trapped stool,
+			 infection, pain and swelling, and bowel problems.</p><p>Most of the time,
+			 the disease is found soon after birth in about 1 out of every 5,000 newborns.
+			 It is most common in male babies.<sup class="Reference"><a bookmark="aa50009" document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-References.xml" directive="friendlyurl" chronic_id="091e9c5e8001ac5f" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-References.xml">1</a></sup></p><p>In
+			 rare cases, the disease can be life-threatening.</p><h4>What causes Hirschsprung's disease?</h4><p>Doctors don't
+			 know what causes the disease, but it tends to run in families. It may also be
+			 linked to other medical problems, such as
+			 <a bookmark="std120885-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Down_syndrome.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Down_syndrome.xml">Down syndrome</a> and
+			 <a bookmark="stc123771-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Congenital_heart_defects.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Congenital_heart_defects.xml">congenital heart disease</a>.</p><h4>What are the symptoms?</h4><p>Symptoms include a swollen
+			 belly and problems passing stool. Newborns with the disease may not pass their
+			 first stool until at least 48 hours after birth.</p><p>Other symptoms
+			 depend on a child’s age, but can include <a chronic_id="091e9c5e800079b6" crossLinkId="5629" directive="friendlyurl" externalId="091e9c5e800079b6" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml" keywordId="38407" keywordSetId="9410" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.xml">vomiting</a>, having a poor appetite,
+			 refusing to eat, and not growing or <a chronic_id="091e9c5e80046694" crossLinkId="440" directive="friendlyurl" externalId="091e9c5e80046694" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet Center TOC/page_Diet Center_091e9c5e80046694.xml" keywordId="41661" keywordSetId="7928" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet Center TOC/page_Diet Center_091e9c5e80046694.xml">gaining weight</a>.</p><h4>How is Hirschsprung's disease diagnosed?</h4><p>Most
+			 children are diagnosed with Hirschsprung’s disease during their first year. A
+			 doctor may think that a child has the disease based on the child's symptoms and
+			 the results of a <a chronic_id="091e9c5e80377b97" crossLinkId="70371" directive="friendlyurl" externalId="091e9c5e80377b97" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml" keywordId="58671" keywordSetId="25958" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.xml">physical exam</a>. </p><p>Other tests may be done to
+			 confirm the diagnosis, such as:</p><ul><li>A tissue sample from the rectum
+				<a bookmark="stb117050-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Biopsy.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Biopsy.xml">(biopsy)</a>.</li><li>An abdominal
+				<a bookmark="tu6485-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/X-ray.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/X-ray.xml">X-ray</a>.</li><li>An X-ray of the large intestine
+				<a bookmark="stb117016-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Barium_enema.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Barium_enema.xml">(barium enema)</a>.</li></ul><p>If there is a delay in diagnosing Hirschsprung’s disease,
+			 the child could end up with serious, life-threatening complications. </p><h4>How is it treated?</h4><p> Children with Hirschsprung’s
+			 disease need surgery to remove the diseased part of the large intestine.
+			 Surgery is often done within the first days or month of life, soon after the
+			 disease is found. Children with Hirschsprung’s disease need one or two
+			 surgeries.</p><p>Long-term (chronic) problems with stomachaches and
+			 bowel problems are common after surgery. But most of the time, these problems
+			 are not severe. Depending on the problem, there are a number of treatment
+			 options. These include medicine, behavior modification,
+			 <a bookmark="stb117100-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Biofeedback.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Biofeedback.xml">biofeedback</a>,
+			 <a bookmark="stc17236-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Cognitive-behavioral_therapy.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Cognitive-behavioral_therapy.xml">cognitive-behavioral therapy</a>, and more surgery.</p><p>In a few cases, emergency surgery may be needed if a dangerous problem
+			 such as serious swelling of the small and large <a chronic_id="091e9c5e80390f7e" crossLinkId="70906" directive="friendlyurl" externalId="091e9c5e80390f7e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_intestines.xml" keywordId="60206" keywordSetId="26542" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_intestines.xml">intestines</a> (enterocolitis)
+			 occurs.</p><p><b>Frequently Asked Questions</b></p><table cellpadding="0" cellspacing="0"><col><tr><td valign="top"><p><b>Learning about Hirschsprung's disease:</b></p></td><td valign="top"><ul><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Topic_Overview.xml" directive="friendlyurl" chronic_id="091e9c5e8001ad62" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Topic_Overview.xml">What is Hirschsprung's disease?</a></li><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Symptoms.xml" directive="friendlyurl" chronic_id="091e9c5e8001ad06" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Symptoms.xml">What are the symptoms?</a></li></ul></td></tr><tr><td valign="top"><p><b>Being diagnosed:</b></p></td><td valign="top"><ul><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Exams_and_Tests.xml" directive="friendlyurl" chronic_id="091e9c5e8001addc" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Exams_and_Tests.xml">How is it diagnosed?</a></li></ul></td></tr><tr><td valign="top"><p><b>Getting treatment:</b></p></td><td valign="top"><ul><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Treatment_Overview.xml" directive="friendlyurl" chronic_id="091e9c5e8001ad9b" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Treatment_Overview.xml">How is it treated?</a></li></ul></td></tr><tr><td valign="top"><p><b>Living with Hirschsprung's disease:</b></p></td><td valign="top"><ul><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Home_Treatment.xml" directive="friendlyurl" chronic_id="091e9c5e8001ab63" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Home_Treatment.xml">What can I do at home to help my child recover from surgery?</a></li><li><a bookmark="ug2172" document-type="Actionset" href="/webmd/consumer_assets/controlled_content/healthwise/actionset/Caring_for_your_ostomy.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/actionset/Caring_for_your_ostomy.xml"><img alt="actionset.gif" border="0" height="27" src="/webmd/consumer_assets/site_images/media/interface/actionset.gif" type="interface" width="78" directive="imageurl" chronic_id="091e9c5e80019c58" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/actionset.gif"></a><a bookmark="ug2172" document-type="Actionset" href="/webmd/consumer_assets/controlled_content/healthwise/actionset/Caring_for_your_ostomy.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/actionset/Caring_for_your_ostomy.xml">What kind of care is needed for an ostomy?</a></li></ul></td></tr></table></section_text></section_group></page></pages><citations></citations></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-topic-overview" owner="false"><breadcrumb><bread piece="Children's Health" prefix="www" friendlyurl="/children/default.htm"></bread><bread piece="Children's Health Related Topics" prefix="www" friendlyurl="/children/tc/default.htm"></bread></breadcrumb><centers><Topic id="1262" name="tmg" chronicid="091e9c5e8001ad62" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-topic-overview" type="Topic">Hirschsprung's Disease</Topic><Super id="859" name="super center" chronicid="091e9c5e80024767" prefix="www" friendlyurl="/children/default.htm" type="">Children's Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-topic-overview" owner="false"><breadcrumb><bread piece="Children's Health" prefix="www" friendlyurl="/children/default.htm"></bread><bread piece="Children's Health Related Topics" prefix="www" friendlyurl="/children/tc/default.htm"></bread></breadcrumb><centers><Topic id="11180" name="tmg" chronicid="091e9c5e8001ad62" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-topic-overview" type="Topic">Hirschsprung's Disease</Topic><Super id="11177" name="super center" chronicid="091e9c5e8068d722" prefix="www" friendlyurl="/children/default.htm" type="">Children</Super></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001ac5f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-References.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-references"></target><target siteid="8" name="" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-references"></target></object><object chronic_id="091e9c5e800079b6" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/digestive_disorders/miscellaneous/digestive_diseases_nausea_vomiting.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/digestive-diseases-nausea-vomiting"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/digestive-diseases-nausea-vomiting"></target></object><object chronic_id="091e9c5e80046694" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet Center TOC/page_Diet Center_091e9c5e80046694.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diet/old-diet-toc" umtchronicleid="091e9c5e8068a387"></target><target siteid="8" name="" prefix="www" friendlyurl="/diet/default.htm" umtchronicleid="091e9c5e8068a387"></target></object><object chronic_id="091e9c5e80377b97" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/miscellaneous/annual_physical_examinations.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/annual-physical-examinations"></target></object><object chronic_id="091e9c5e80390f7e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_intestines.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/digestive-disorders/picture-of-the-intestines"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-intestines"></target></object><object chronic_id="091e9c5e8001ad62" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Topic_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-topic-overview"></target></object><object chronic_id="091e9c5e8001ad06" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Symptoms.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-symptoms"></target><target siteid="8" name="" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-symptoms"></target></object><object chronic_id="091e9c5e8001addc" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Exams_and_Tests.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-exams-and-tests"></target></object><object chronic_id="091e9c5e8001ad9b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Treatment_Overview.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-treatment-overview"></target><target siteid="8" name="" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-treatment-overview"></target></object><object chronic_id="091e9c5e8001ab63" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Home_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-home-treatment"></target></object><object chronic_id="091e9c5e8001ad62" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Topic_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-topic-overview"></target></object><object chronic_id="091e9c5e8001aaf0" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Health_Tools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-health-tools"></target></object><object chronic_id="091e9c5e8001ad06" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Symptoms.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-symptoms"></target></object><object chronic_id="091e9c5e8001addc" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Exams_and_Tests.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-exams-and-tests"></target></object><object chronic_id="091e9c5e8001ad9b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Treatment_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-treatment-overview"></target></object><object chronic_id="091e9c5e8001ab63" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Home_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-home-treatment"></target></object><object chronic_id="091e9c5e807f1479" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Other_Places_To_Get_Help__hw183346-ConRes.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-other-places-to-get-help"></target></object><object chronic_id="091e9c5e800e00e2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Related_Information__hw183346-RelInfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-related-information"></target></object><object chronic_id="091e9c5e8001ac5f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-References.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-references"></target></object><object chronic_id="091e9c5e8001ac83" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/children/tc/hirschsprungs-disease-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e800235f9" path="/webmd/consumer_assets/controlled_content/healthwise/toc/mini/Hirschsprungs_Disease-TOC.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>Overview</section_type><section_link directive="article" chronic_id="091e9c5e8001ad62" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Topic_Overview.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e8001aaf0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Health_Tools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>Symptoms</section_type><section_link directive="article" chronic_id="091e9c5e8001ad06" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Symptoms.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>ExamsAndTests</section_type><section_link directive="article" chronic_id="091e9c5e8001addc" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Exams_and_Tests.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>TreatmentOverview</section_type><section_link directive="article" chronic_id="091e9c5e8001ad9b" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Treatment_Overview.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Home Treatment</section_title><section_type>HomeTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001ab63" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Home_Treatment.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e807f1479" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Other_Places_To_Get_Help__hw183346-ConRes.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e800e00e2" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Related_Information__hw183346-RelInfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001ac5f" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-References.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001ac83" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Hirschsprungs_Disease-Credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Hirschsprung's Disease</title><dynamic_objects><callout_title>Recommended Related to Children</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e809e5273"><metadata_section><i_chronicle_id>091e9c5e8012adb9</i_chronicle_id><title>Marlo Thomas: Championing Kids' Care</title><wbmd_c_art_thmbnl directive="imageurl" chronic_id="091e9c5e8012a9a7" path="/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/Features/magazine/69x75_wm_marlo_thomas.jpg" object_type="wbmd_cons_img"></wbmd_c_art_thmbnl></metadata_section><section_text><p>This Thanksgiving has special meaning for Emmy Award-winning actor, producer, and author Marlo Thomas. It’s the 50th anniversary of her family’s fundraising for St. Jude Children’s Research Hospital, located in Memphis, Tenn.
+St. Jude began as the dream of Marlo’s father, the late, great funnyman Danny Thomas, in 1957 and has been going strong ever since. Since his death in 1991, Marlo, along with her sister, Terre, and brother, Tony, has been at the forefront of the center’s fundraising.
+Focusing...</p></section_text><link siteid="3" prefix="www" friendlyurl="/children/features/marlo-thomas-championing-kids-care"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Hirschsprung's Disease - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <a name="hw183348"></a>
+      <h4>What is Hirschsprung's disease?</h4>
+      <p>Hirschsprung's disease is a birth defect that affects the nerve cells in the large intestine. These nerve cells control the muscles that normally push food and waste through the large intestine.</p>
+      <p>But in babies who have Hirschsprung's disease, the muscles in the wall of the large intestine don't relax, which prevents stool from passing. This can lead to trapped stool, infection, pain and swelling, and bowel problems.</p>
+      <p>Most of the time, the disease is found soon after birth in about 1 out of every 5,000 newborns. It is most common in male babies.<sup class="Reference"><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-references#aa50009" onclick="return sl(this,'','embd-lnk');">1</a></sup></p>
+      <p>In rare cases, the disease can be life-threatening.</p>
+      <h4>What causes Hirschsprung's disease?</h4>
+      <p>Doctors don't know what causes the disease, but it tends to run in families. It may also be linked to other medical problems, such as Down syndrome and congenital heart disease.</p>
+      <h4>What are the symptoms?</h4>
+      <p>Symptoms include a swollen belly and problems passing stool. Newborns with the disease may not pass their first stool until at least 48 hours after birth.</p>
+      <p>Other symptoms depend on a child’s age, but can include <a href="http://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting" onclick="return sl(this,'','embd-lnk');">vomiting</a>, having a poor appetite, refusing to eat, and not growing or <a href="http://www.webmd.com/diet/old-diet-toc" onclick="return sl(this,'','embd-lnk');">gaining weight</a>.</p>
+      <h4>How is Hirschsprung's disease diagnosed?</h4>
+      <p>Most children are diagnosed with Hirschsprung’s disease during their first year. A doctor may think that a child has the disease based on the child's symptoms and the results of a <a href="http://www.webmd.com/a-to-z-guides/annual-physical-examinations" onclick="return sl(this,'','embd-lnk');">physical exam</a>. </p>
+      <p>Other tests may be done to confirm the diagnosis, such as:</p>
+      <ul>
+       <li>A tissue sample from the rectum (biopsy).</li>
+       <li>An abdominal X-ray.</li>
+       <li>An X-ray of the large intestine (barium enema).</li>
+      </ul>
+      <p>If there is a delay in diagnosing Hirschsprung’s disease, the child could end up with serious, life-threatening complications. </p>
+      <h4>How is it treated?</h4>
+      <p> Children with Hirschsprung’s disease need surgery to remove the diseased part of the large intestine. Surgery is often done within the first days or month of life, soon after the disease is found. Children with Hirschsprung’s disease need one or two surgeries.</p>
+      <p>Long-term (chronic) problems with stomachaches and bowel problems are common after surgery. But most of the time, these problems are not severe. Depending on the problem, there are a number of treatment options. These include medicine, behavior modification, biofeedback, cognitive-behavioral therapy, and more surgery.</p>
+      <p>In a few cases, emergency surgery may be needed if a dangerous problem such as serious swelling of the small and large <a href="http://www.webmd.com/digestive-disorders/picture-of-the-intestines" onclick="return sl(this,'','embd-lnk');">intestines</a> (enterocolitis) occurs.</p>
+      <p><b>Frequently Asked Questions</b></p>
+      <table cellpadding="0" cellspacing="0">
+       <colgroup>
+        <col />
+       </colgroup>
+       <tbody>
+        <tr>
+         <td valign="top"><p><b>Learning about Hirschsprung's disease:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-topic-overview" onclick="return sl(this,'','embd-lnk');">What is Hirschsprung's disease?</a></li>
+           <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-symptoms" onclick="return sl(this,'','embd-lnk');">What are the symptoms?</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td valign="top"><p><b>Being diagnosed:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-exams-and-tests" onclick="return sl(this,'','embd-lnk');">How is it diagnosed?</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td valign="top"><p><b>Getting treatment:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-treatment-overview" onclick="return sl(this,'','embd-lnk');">How is it treated?</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td valign="top"><p><b>Living with Hirschsprung's disease:</b></p></td>
+         <td valign="top">
+          <ul>
+           <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-home-treatment" onclick="return sl(this,'','embd-lnk');">What can I do at home to help my child recover from surgery?</a></li>
+           <li> What kind of care is needed for an ostomy?</li>
+          </ul></td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span></span>
+      <div class="outline_fmt right">
+       <a href=""> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+							.pagination_fmt .center_fmt { width: 375px !important;}
+                            .pagination_fmt .pages_fmt { display: none; }
+							.articlesPulldownWide_fmt { display: none; }
+                            .topicArtNav_rdr { display: none; }
+							.attribution_rdr .pagination_fmt { display: none; }
+                            </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/children/tc/hirschsprungs-disease-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/children/tc/hirschsprungs-disease-health-tools'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/children/tc/hirschsprungs-disease-symptoms'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/children/tc/hirschsprungs-disease-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/children/tc/hirschsprungs-disease-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/children/tc/hirschsprungs-disease-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/children/tc/hirschsprungs-disease-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/children/tc/hirschsprungs-disease-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/children/tc/hirschsprungs-disease-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/children/tc/hirschsprungs-disease-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: September 09, 2010
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/children/tc/hirschsprungs-disease-topic-overview">Topic Overview</option><option value="http://www.webmd.com/children/tc/hirschsprungs-disease-health-tools">Health Tools</option><option value="http://www.webmd.com/children/tc/hirschsprungs-disease-symptoms">Symptoms</option><option value="http://www.webmd.com/children/tc/hirschsprungs-disease-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/children/tc/hirschsprungs-disease-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/children/tc/hirschsprungs-disease-home-treatment">Home Treatment</option><option value="http://www.webmd.com/children/tc/hirschsprungs-disease-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/children/tc/hirschsprungs-disease-related-information">Related Information</option><option value="http://www.webmd.com/children/tc/hirschsprungs-disease-references">References</option><option value="http://www.webmd.com/children/tc/hirschsprungs-disease-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Hirschsprung's Disease Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-symptoms" onclick="return sl(this,'','topicNav_3');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-exams-and-tests" onclick="return sl(this,'','topicNav_4');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-treatment-overview" onclick="return sl(this,'','topicNav_5');" title="Treatment Overview">Treatment Overview</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-home-treatment" onclick="return sl(this,'','topicNav_6');" title="Home Treatment">Home Treatment</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-other-places-to-get-help" onclick="return sl(this,'','topicNav_7');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-related-information" onclick="return sl(this,'','topicNav_8');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-references" onclick="return sl(this,'','topicNav_9');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-credits" onclick="return sl(this,'','topicNav_10');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Mini';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane6"></div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-859"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/parenting/bedwetting-solutions-12/bedwetting-stress-anxiety" onclick="return sl(this,'','rltd-p-859_1');">Can Stress Lead to Bedwetting?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/healthy-aging/drug-costs-12/save-money-prescription-drugs" onclick="return sl(this,'','rltd-p-859_2');">How to Save Money on Prescriptions</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/parenting/answers-health/answers-sick-from-school" onclick="return sl(this,'','rltd-p-859_3');">When Is a Child Too Sick for School?</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/oral-health/healthy-teeth-1/default.htm?vid=liveEvent0812&amp;ch=3" onclick="return sl(this,'','rltd-p-859_4');">How Important Is Fluoride for Kids' Teeth?</a> </li> 
+     <li id="x66"> <a href="http://children.webmd.com/digestion-in-children-11/fiber-rich-lunch" onclick="return sl(this,'','rltd-p-859_5');">Fiber-Rich Lunch Ideas for Kids</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/skin-problems-and-treatments/fungal-infections-12/default.htm?vid=vd-1137-hzim-0001" onclick="return sl(this,'','rltd-p-859_6');">What Causes Ringworm?</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-859_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e808b8d13" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8068fb82</chronic_id><r_object_id>091e9c5e808b8d13</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8068fb82.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>09/12/2011 11:02:27</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Childrens Health Portal Template/template_Childrens Health Portal Template_091e9c5e80024677.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e80024677"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Hirschsprung's Disease</name><link_title>Hirschsprung's Disease</link_title><description>Hirschsprung's disease is a developmental disorder that results in a lack of nerves within the gastrointestinal tract. With Hirschsprung's disease, the colonic nerves that normally push out waste malfunction and prevent that waste from escaping. This causes pain, infection, and constipation. Hirschsprung's disease may be genetic and may be related to other birth defects. Surgery can remove the affected area of the intestines in infants, which usually clears up the problem, though mild symptoms may persist for a while. Follow the links below to find WebMD's comprehensive coverage about how Hirschsprung's disease is caused, what the symptoms and treatments are, and much more.</description><friendly_url>http://www.webmd.com/parenting/baby/hirschsprungs-disease-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e8001aaf0"><link_title>Hirschsprung's Disease-Health Tools</link_title><friendly_url>http://www.webmd.com/children/tc/hirschsprungs-disease-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001addc"><link_title>Hirschsprung's Disease-Exams and Tests</link_title><friendly_url>http://www.webmd.com/children/tc/hirschsprungs-disease-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ab63"><link_title>Hirschsprung's Disease-Home Treatment</link_title><friendly_url>http://www.webmd.com/children/tc/hirschsprungs-disease-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ad06"><link_title>Hirschsprung's Disease-Symptoms</link_title><friendly_url>http://www.webmd.com/children/tc/hirschsprungs-disease-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001ad9b"><link_title>Hirschsprung's Disease-Treatment Overview</link_title><friendly_url>http://www.webmd.com/children/tc/hirschsprungs-disease-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800e00e2"><link_title>Hirschsprung's Disease-Related Information</link_title><friendly_url>http://www.webmd.com/children/tc/hirschsprungs-disease-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80490686"><link_title>Hirschsprung's Disease</link_title><friendly_url>http://www.webmd.com/digestive-disorders/hirschsprungs-disease</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800a419c"><link_title>Why Baby Gets Upset During Bowel Movements</link_title><friendly_url>http://www.webmd.com/parenting/baby/upset-when-pooping</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800059a1"><link_title>Encopresis in Children</link_title><friendly_url>http://www.webmd.com/digestive-disorders/encopresis</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800a415e"><link_title>Your Baby's Bowels and Constipation</link_title><friendly_url>http://www.webmd.com/parenting/baby/baby-constipation</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e4c9"><link_title>Constipation, Age 11 and Younger-Topic Overview</link_title><friendly_url>http://www.webmd.com/children/tc/constipation-age-11-and-younger-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e547"><link_title>Constipation, Age 11 and Younger-Check Your Symptoms</link_title><friendly_url>http://www.webmd.com/children/tc/constipation-age-11-and-younger-check-your-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e552"><link_title>Constipation, Age 11 and Younger-Related Information</link_title><friendly_url>http://www.webmd.com/children/tc/constipation-age-11-and-younger-related-information</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e772"><link_title>Constipation, Age 11 and Younger-Preparing For Your Appointment</link_title><friendly_url>http://www.webmd.com/children/tc/constipation-age-11-and-younger-preparing-for-your-appointment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e513"><link_title>Constipation, Age 11 and Younger-Home Treatment</link_title><friendly_url>http://www.webmd.com/children/tc/constipation-age-11-and-younger-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e658"><link_title>Constipation, Age 11 and Younger-Prevention</link_title><friendly_url>http://www.webmd.com/children/tc/constipation-age-11-and-younger-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-health-tools" onclick="return sl(this,'','td-rltd-art_1');">Hirschsprung's Disease-Health Tools</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-exams-and-tests" onclick="return sl(this,'','td-rltd-art_2');">Hirschsprung's Disease-Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-home-treatment" onclick="return sl(this,'','td-rltd-art_3');">Hirschsprung's Disease-Home Treatment</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-symptoms" onclick="return sl(this,'','td-rltd-art_4');">Hirschsprung's Disease-Symptoms</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-treatment-overview" onclick="return sl(this,'','td-rltd-art_5');">Hirschsprung's Disease-Treatment Overview</a></li>
+      <li><a href="http://www.webmd.com/children/tc/hirschsprungs-disease-related-information" onclick="return sl(this,'','td-rltd-art_6');">Hirschsprung's Disease-Related Information</a></li>
+      <li><a href="http://www.webmd.com/digestive-disorders/hirschsprungs-disease" onclick="return sl(this,'','td-rltd-art_7');">Hirschsprung's Disease</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/parenting/baby/hirschsprungs-disease-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Hirschsprung's Disease Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2044230915&amp;tile=770319000&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5000&amp;xpg=3609&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fchildren%2ftc%2fhirschsprungs-disease-topic-overview&amp;artid=091e9c5e8001ad62&amp;inst=0&amp;leaf=1262&amp;cc=16&amp;tmg=1&amp;bc=_o_a080_k_age121_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2044230915&amp;amp;tile=770319000&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5000&amp;amp;xpg=3609&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fchildren%2ftc%2fhirschsprungs-disease-topic-overview&amp;amp;artid=091e9c5e8001ad62&amp;amp;inst=0&amp;amp;leaf=1262&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_o_a080_k_age121_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3609";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=2044230915&amp;tile=770319000&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=&amp;scent=859&amp;pos=5001&amp;xpg=3609&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fchildren%2ftc%2fhirschsprungs-disease-topic-overview&amp;artid=091e9c5e8001ad62&amp;inst=0&amp;leaf=1262&amp;cc=16&amp;tmg=1&amp;bc=_o_a080_k_age121_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=2044230915&amp;amp;tile=770319000&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=&amp;amp;scent=859&amp;amp;pos=5001&amp;amp;xpg=3609&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fchildren%2ftc%2fhirschsprungs-disease-topic-overview&amp;amp;artid=091e9c5e8001ad62&amp;amp;inst=0&amp;amp;leaf=1262&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_o_a080_k_age121_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3609";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

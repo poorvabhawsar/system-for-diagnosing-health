@@ -1,0 +1,724 @@
+<title>Transient Ischemic Attack (TIA)-Topic Overview</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="tools-res"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2></h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/stroke/ss/slideshow-stroke-overview" class="type_ss" onclick="return sl(this,'','tools-res_1');">Stroke: A Visual Guide<i> </i></a></li>
+      <li id="x57"><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-topic-overview" onclick="return sl(this,'','tools-res_2');">What Is a TIA?</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/stroke/tc/stroke-rehabilitation-what-to-expect-after-a-stroke" onclick="return sl(this,'','tools-res_3');">Stroke Rehab: What to Expect</a></li>
+      <li id="x59"><a href="http://www.webmd.com/stroke/tc/stroke-symptoms" onclick="return sl(this,'','tools-res_4');">Most Common Stroke Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/heart/atrial-fibrillation-stroke-11/signs-of-stroke" onclick="return sl(this,'','tools-res_5');">The Warning Signs of Stroke</a></li>
+      <li id="x61"><a href="http://www.webmd.com/stroke/guide/understanding-stroke-prevention" onclick="return sl(this,'','tools-res_6');">Preventing Strokes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','tools-res_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80ea5a83"><metadata_section><i_chronicle_id>091e9c5e8001df3d</i_chronicle_id><r_object_id>091e9c5e80ea5a83</r_object_id><title>Topic Overview</title><object_name>transient_ischemic_attack_tia-topic_overview_major_hw226609.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e80ea5a83</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>major_hw226609</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Transient Ischemic Attack (TIA)-Topic Overview</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e803784ff</r_object_id><publ_i_chronicle_id>091e9c5e80019167</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Major</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>What is a transient ischemic attack (TIA)? Some people call a transient ischemic attack (TIA) a mini - stroke, because the symptoms are like those of a stroke but do not last long.</wbmd_desc_meta><wbmd_orig_pub_dt>02/05/2013 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>What is a transient ischemic attack (TIA)? Some people call a transient ischemic attack (TIA) a mini - stroke, because the symptoms are like those of a stroke but do not last long.</wbmd_desc_user><wbmd_lk_ttl>Transient Ischemic Attack (TIA)-Topic Overview</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>arterial plaque, brain and nerves, brain disorder, Cardiovascular Disease, cardiovascular disorder, cardiovascular system, disease or condition overview, heart and circulation, Ischemic stroke, mini strokes, nervous system, neurological system, TIA, trans</wbmd_keywords><wbmd_relv1_subj_cd_group><wbmd_relv1_subj_cd></wbmd_relv1_subj_cd></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group><wbmd_authr_prim></wbmd_authr_prim></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group><wbmd_relv2_subj_cd></wbmd_relv2_subj_cd></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>sex.3</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e80ea5a83</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="3053" wbmd_disp_nm="Stroke"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group><wbmd_c_sec_authr></wbmd_c_sec_authr></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="5" wbmd_disp_nm="Any"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group><wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1108" wbmd_disp_nm="Stroke"></wbmd_c_channel_id><wbmd_c_frnd_nm>Transient-Ischemic-Attack-TIA-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>Overview</section_type><section_text><p><img align="left" alt="neuro_01.jpg" height="120" src="/webmd/consumer_assets/site_images/media/medical/hw/neuro_01.jpg" type="medical" width="130" directive="imageurl" chronic_id="091e9c5e800199f5" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/medical/hw/neuro_01.jpg"></p></section_text></section_group><section_group><section_header>What is a transient ischemic attack (TIA)?</section_header><section_type>Overview</section_type><section_text><p>Some
+			 people call a <a chronic_id="091e9c5e8001df3d" crossLinkId="43538" directive="friendlyurl" externalId="091e9c5e8001df3d" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-topic_overview_major_hw226609.xml" keywordId="41254" keywordSetId="9997" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-topic_overview_major_hw226609.xml">transient ischemic attack</a> (TIA) a mini-<a chronic_id="091e9c5e80025270" crossLinkId="159" directive="friendlyurl" externalId="091e9c5e80025270" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Stroke Health Center/page_Stroke Health Center_091e9c5e80025270.xml" keywordId="8354" keywordSetId="1914" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Stroke Health Center/page_Stroke Health Center_091e9c5e80025270.xml">stroke</a>, because the
+			 symptoms are like those of a
+			 <a chronic_id="091e9c5e8001b089" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/stroke_definition_sts15140.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stroke_definition_sts15140.xml">stroke</a> but don't last long. A TIA happens when <a chronic_id="091e9c5e8001e8f7" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/transient_ischemic_attack_tia_multimedia_hw264881.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/transient_ischemic_attack_tia_multimedia_hw264881.xml">blood
+			 flow to part of the brain is blocked or reduced</a><a chronic_id="091e9c5e8001e8f7" directive="friendlyurl" document-type="MultiMedia" href="/webmd/consumer_assets/controlled_content/healthwise/multimedia/transient_ischemic_attack_tia_multimedia_hw264881.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/transient_ischemic_attack_tia_multimedia_hw264881.xml"><img alt="camera.gif" border="0" height="13" src="/webmd/consumer_assets/site_images/media/interface/camera.gif" type="interface" width="22" directive="imageurl" chronic_id="091e9c5e80019c5c" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/camera.gif"></a>, often by a <a chronic_id="091e9c5e80739ca7" crossLinkId="1522657" directive="friendlyurl" externalId="091e9c5e80739ca7" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/blood_disorders/miscellaneous/Blood_Clots.xml" keywordId="63689" keywordSetId="28898" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/blood_disorders/miscellaneous/Blood_Clots.xml">blood clot</a>. After a
+			 short time, <a chronic_id="091e9c5e8056ea80" crossLinkId="1506783" directive="friendlyurl" externalId="091e9c5e8056ea80" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml" keywordId="62987" keywordSetId="28544" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.xml">blood</a> flows again and the symptoms go away. With a stroke, the
+			 blood flow stays blocked, and the <a chronic_id="091e9c5e8041fa4e" crossLinkId="73853" directive="friendlyurl" externalId="091e9c5e8041fa4e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml" keywordId="60487" keywordSetId="26677" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml">brain</a> has permanent damage.</p><p>A
+			 TIA is a warning: it means you are likely to have a stroke in the future. If
+			 you think you are having a TIA, <b>call </b><inline.emer-num></inline.emer-num>. Early treatment can help prevent a
+			 stroke. If you think you have had a TIA but your symptoms have gone away, you
+			 still need to call your doctor right away.</p></section_text></section_group><section_group><section_header>What are the symptoms?</section_header><section_type>Overview</section_type><section_text><p>Symptoms of a TIA are the same as symptoms of a stroke. But symptoms of a TIA occur suddenly and don't last very long. Most of the time, they go away in 10 to 20 minutes. They may include:</p><ul><li> Sudden numbness, tingling, weakness, or paralysis in your face, arm, or leg, especially on only one side of your body.</li><li>Sudden <a chronic_id="091e9c5e800302ce" crossLinkId="166" directive="friendlyurl" externalId="091e9c5e800302ce" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml" keywordId="35136" keywordSetId="1184" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.xml">vision</a> changes.</li><li>Sudden trouble speaking.</li><li>Sudden confusion or trouble understanding simple statements.</li><li>Sudden problems with walking or balance.</li><li>A sudden, severe <a chronic_id="091e9c5e8002394a" crossLinkId="189" directive="friendlyurl" externalId="091e9c5e8002394a" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml" keywordId="7521" keywordSetId="1291" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.xml">headache</a> that is different from past headaches.</li></ul></section_text></section_group><section_group><section_header>What causes a transient ischemic attack?</section_header><section_type>Overview</section_type><section_text><p>A blood
+			 clot is the most common cause of a TIA. Blood clots can be the result of
+			 hardening of the <a chronic_id="091e9c5e809d6a7d" crossLinkId="1551808" directive="friendlyurl" externalId="091e9c5e809d6a7d" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/arteries.xml" keywordId="70854" keywordSetId="31982" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/arteries.xml">arteries</a> (<a chronic_id="091e9c5e8012c561" crossLinkId="31736" directive="friendlyurl" externalId="091e9c5e8012c561" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/what_is_atherosclerosis.xml" keywordId="42050" keywordSetId="10170" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/what_is_atherosclerosis.xml">atherosclerosis</a>),
+			 <a chronic_id="091e9c5e80012609" crossLinkId="1575935" directive="friendlyurl" externalId="091e9c5e80012609" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/heart_disease_heart_attacks.xml" keywordId="35941" keywordSetId="8911" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/heart_disease_heart_attacks.xml">heart attack</a>, or
+			 <a chronic_id="091e9c5e8001af88" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/abnormal_heartbeat_arrhythmia_definition_sti150629.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/abnormal_heartbeat_arrhythmia_definition_sti150629.xml">abnormal heart rhythms</a>. Brain cells are affected
+			 within seconds of the blockage. That causes symptoms in the parts of the body
+			 controlled by those cells. After the clot dissolves, blood flow returns, and the
+			 symptoms go away.</p><p>Sometimes a TIA is caused by a sharp drop in
+			 <a chronic_id="091e9c5e802a073a" crossLinkId="59290" directive="friendlyurl" externalId="091e9c5e802a073a" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.xml" keywordId="31615" keywordSetId="8191" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.xml">blood pressure</a> that reduces blood flow to the brain. This is called a
+			 "low-flow" TIA. It is not as common as other types.</p></section_text></section_group><section_group><section_header>What tests do you need after a TIA?</section_header><section_type>Overview</section_type><section_text><p>Your doctor will
+			 do tests to look at your heart and blood vessels. You may need:</p><ul><li>Tests that show pictures of your brain and blood vessels, such
+				as a
+				<a chronic_id="091e9c5e8001f058" crossLinkId="44946" directive="friendlyurl" externalId="091e9c5e8001f058" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/computed_tomography_ct_scan_of_the_body_medicaltest_hw233596.xml" keywordId="7212" keywordSetId="1060" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/computed_tomography_ct_scan_of_the_body_medicaltest_hw233596.xml">CT scan</a>, an
+				<a chronic_id="091e9c5e8001f07f" crossLinkId="1511381" directive="friendlyurl" externalId="091e9c5e8001f07f" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/magnetic_resonance_imaging_mri_medicaltest_hw214278.xml" keywordId="37777" keywordSetId="7728" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/magnetic_resonance_imaging_mri_medicaltest_hw214278.xml">MRI</a>, a
+				<a chronic_id="091e9c5e8001b22d" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_angiogram_mra_definition_stm159531.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_angiogram_mra_definition_stm159531.xml">magnetic resonance angiogram (MRA)</a>, or an
+				<a chronic_id="091e9c5e8001b1f7" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/angiogram_definition_sta123362.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/angiogram_definition_sta123362.xml">angiogram</a>. </li><li>A test that uses sound to
+				check your blood flow (Doppler ultrasound). </li><li>An
+				<a chronic_id="091e9c5e8001b14c" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/echocardiogram_echo_definition_ste122026.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/echocardiogram_echo_definition_ste122026.xml">echocardiogram (echo)</a> to check your heart's shape and
+				its blood flow. </li><li>An
+				<a chronic_id="091e9c5e8001b439" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/electrocardiogram_ekg_or_ecg_definition_ste122045.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/electrocardiogram_ekg_or_ecg_definition_ste122045.xml">electrocardiogram (EKG, ECG)</a> to measure your heart
+				rhythm. </li><li>Blood tests, including a <a chronic_id="091e9c5e8001af91" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/complete_blood_count_cbc_definition_stc123724.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/complete_blood_count_cbc_definition_stc123724.xml">complete blood count</a> and a <a chronic_id="091e9c5e8001b627" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/fasting_blood_test_definition_stf124124.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fasting_blood_test_definition_stf124124.xml">fasting blood test</a> to check for problems that could be causing your symptoms.</li></ul><p>Your doctor will also check to see if something else is
+			 causing your symptoms.</p></section_text></section_group></page><page><section_group><section_header>How is a TIA treated?</section_header><section_type>Overview</section_type><section_text><p>Your doctor will start you on
+			 medicines to help prevent a stroke. You may need to take several
+			 medicines.</p><p> If tests show that the blood vessels (carotid arteries) in your neck are too narrow, you may
+			 need surgery to open them up (carotid endarterectomy). This can help prevent
+			 blood clots that block blood flow to your brain. </p><p>Another type of surgery is
+			 carotid artery stenting. During this surgery, the doctor puts a small tube
+			 called a
+			 <a chronic_id="091e9c5e8001b23d" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/stent_definition_sts15241.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stent_definition_sts15241.xml">stent</a> inside your <a chronic_id="091e9c5e809d805c" crossLinkId="1551818" directive="friendlyurl" externalId="091e9c5e809d805c" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/carotid_artery.xml" keywordId="72732" keywordSetId="32800" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/carotid_artery.xml">carotid artery</a>. This helps keep the
+			 artery open. Carotid artery stenting is not as common as endarterectomy.
+			 </p></section_text></section_group><section_group><section_header>How can you prevent another TIA or stroke?</section_header><section_type>Overview</section_type><section_text><p>After you have had a
+			 TIA, you are at risk for having another TIA or a stroke. But you can make some important
+			 lifestyle changes that can reduce your risk of stroke and improve your overall
+			 health.</p></section_text></section_group><section_group><section_header>Treat any health problems you have</section_header><section_type>Overview</section_type><section_text><ul><li>Manage <a chronic_id="091e9c5e800232f5" crossLinkId="536" directive="friendlyurl" externalId="091e9c5e800232f5" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hypertension Health Center/page_Hypertension Health Center_091e9c5e800232f5.xml" keywordId="36407" keywordSetId="8998" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hypertension Health Center/page_Hypertension Health Center_091e9c5e800232f5.xml">high blood pressure</a> or <a chronic_id="091e9c5e80022f64" crossLinkId="192" directive="friendlyurl" externalId="091e9c5e80022f64" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cholesterol Health Center/page_Cholesterol Health Center_091e9c5e80022f64.xml" keywordId="33045" keywordSetId="988" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cholesterol Health Center/page_Cholesterol Health Center_091e9c5e80022f64.xml">high cholesterol</a> by working with your doctor.</li><li><a chronic_id="" crossLinkId="31628" directive="friendlyurl" externalId="6B3B47D8043743E1" href="http://diabetes.webmd.com/guide/diabetes_living_managing" keywordId="37360" keywordSetId="9179" object_type="" path="/webmdhttp://diabetes.webmd.com/guide/diabetes_living_managing">Manage diabetes</a>. Keep your <a chronic_id="091e9c5e8001f039" crossLinkId="1582276" directive="friendlyurl" externalId="091e9c5e8001f039" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/blood_glucose_medicaltest_hw8252.xml" keywordId="42505" keywordSetId="10316" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/blood_glucose_medicaltest_hw8252.xml">blood sugar levels</a> within a target range.</li><li>If your doctor recommends that you take <a chronic_id="" crossLinkId="62757" directive="friendlyurl" externalId="3" href="http://www.webmd.com/drugs/mono-3-ASPIRIN+-+ORAL.aspx?drugid=1082&amp;drugname=Aspirin+Oral" keywordId="51236" keywordSetId="18875" object_type="" path="/webmdhttp://www.webmd.com/drugs/mono-3-ASPIRIN+-+ORAL.aspx?drugid=1082&amp;drugname=Aspirin+Oral">aspirin</a> or a blood thinner, take it. This can help prevent a stroke.</li><li>Take your medicine exactly as prescribed. Call your doctor if you think you are having a problem with your medicine.
+</li></ul></section_text></section_group><section_group><section_header>Adopt a healthy lifestyle</section_header><section_type>Overview</section_type><section_text><ul><li>Don't smoke or allow others to smoke around you.</li><li>Limit alcohol to 2 drinks a day for men and 1 drink a day for women.</li><li>Stay at a <a chronic_id="091e9c5e8001d084" crossLinkId="50064" directive="friendlyurl" externalId="091e9c5e8001d084" href="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.xml" keywordId="35918" keywordSetId="8910" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.xml">healthy weight</a>. Being <a chronic_id="091e9c5e80008af3" crossLinkId="1554725" directive="friendlyurl" externalId="091e9c5e80008af3" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/overview_types_of/weight_loss_what_is_obesity.xml" keywordId="38553" keywordSetId="1635" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/overview_types_of/weight_loss_what_is_obesity.xml">overweight</a> makes it more likely that you will develop high blood pressure, heart problems, and diabetes. These conditions make a stroke more likely.</li><li>Do activities that raise your <a chronic_id="091e9c5e8001f11f" crossLinkId="43408" directive="friendlyurl" externalId="091e9c5e8001f11f" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/pulse_measurement_medicaltest_hw233473.xml" keywordId="72096" keywordSetId="32540" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/pulse_measurement_medicaltest_hw233473.xml">heart rate</a>. Get at least 30 minutes of <a chronic_id="091e9c5e80c1b43d" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80c1b43d" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml" keywordId="35030" keywordSetId="8746" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.xml">exercise</a> on most days of the week. Walking is a good choice. You also may want to do other activities, such as running, <a chronic_id="091e9c5e800bfc1f" crossLinkId="16745" directive="friendlyurl" externalId="091e9c5e800bfc1f" href="/webmd/consumer_assets/editorial/articles/features/healthy_living/fitness_and_exercise/Fitness_Basics_Swimming_Is_For_Everyone.xml" keywordId="40287" keywordSetId="9851" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/features/healthy_living/fitness_and_exercise/Fitness_Basics_Swimming_Is_For_Everyone.xml">swimming</a>, cycling, or playing tennis or team sports.</li><li>Eat heart-healthy foods. These include fruits, vegetables, high-fiber foods, fish, and foods that are low in sodium, saturated fat, <a chronic_id="091e9c5e801ef52c" crossLinkId="55484" directive="friendlyurl" externalId="091e9c5e801ef52c" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/overview_types_of/understanding_trans)fats.xml" keywordId="41251" keywordSetId="1992" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/overview_types_of/understanding_trans)fats.xml">trans fat</a>, and cholesterol.</li></ul></section_text></section_group><section_group><section_header>Frequently Asked Questions</section_header><section_type>Overview</section_type><section_text><table cellpadding="0" cellspacing="0" width="95%"><col><tr><td valign="top"><p><b>Learning about TIA:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001b3a9" directive="friendlyurl" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/transient_ischemic_attack_tia_definition_stt11103.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/definition/transient_ischemic_attack_tia_definition_stt11103.xml">What is a transient ischemic attack (TIA)?</a></li><li><a chronic_id="091e9c5e8001e0ba" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-cause_major_hw226618.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-cause_major_hw226618.xml">What causes a TIA?</a></li><li><a chronic_id="091e9c5e8001e1da" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-what_increases_your_risk_major_hw226665.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-what_increases_your_risk_major_hw226665.xml">What increases my risk for a TIA?</a></li><li><a chronic_id="091e9c5e8001de85" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-prevention_major_hw226781.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-prevention_major_hw226781.xml">Can a TIA be prevented?</a></li><li><a chronic_id="091e9c5e80e6a3d2" directive="friendlyurl" document-type="Special" href="/webmd/consumer_assets/controlled_content/healthwise/special/stroke_and_tia_who_is_affected-topic_overview_special_hw222841-sec.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/special/stroke_and_tia_who_is_affected-topic_overview_special_hw222841-sec.xml">Who is affected by TIAs?</a></li></ul></td></tr><tr><td valign="top"><p><b>Being diagnosed:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001e01a" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-symptoms_major_hw226640.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-symptoms_major_hw226640.xml">What are the symptoms of a TIA?</a></li><li><a chronic_id="091e9c5e8001dbff" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-exams_and_tests_major_hw226727.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-exams_and_tests_major_hw226727.xml">What tests will I need?</a></li></ul></td></tr><tr><td valign="top"><p><b>Getting treatment:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001d7cb" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-treatment_overview_major_hw226765.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-treatment_overview_major_hw226765.xml">What is the treatment for a TIA?</a></li><li><a chronic_id="091e9c5e8001dd49" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-medications_major_hw226815.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-medications_major_hw226815.xml">What medicines will I need?</a></li><li><a chronic_id="091e9c5e8001d87b" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-surgery_major_hw226841.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-surgery_major_hw226841.xml">Will I need surgery?</a></li></ul></td></tr><tr><td valign="top"><p><b>Ongoing concerns:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001e28d" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-what_happens_major_hw226650.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-what_happens_major_hw226650.xml">Will a TIA lead to a stroke?</a></li></ul></td></tr><tr><td valign="top"><p><b>Living with TIA:</b></p></td><td valign="top"><ul><li><a chronic_id="091e9c5e8001dacb" directive="friendlyurl" document-type="Major" href="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-home_treatment_major_hw226803.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-home_treatment_major_hw226803.xml">Will I have to make lifestyle changes after a TIA?</a></li><li><a chronic_id="091e9c5e800e010c" directive="friendlyurl" document-type="Actionset" href="/webmd/consumer_assets/controlled_content/healthwise/actionset/healthy_eating_eating_heart-healthy_foods_actionset_tb1869.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/actionset/healthy_eating_eating_heart-healthy_foods_actionset_tb1869.xml"><img alt="actionset.gif" border="0" height="27" src="/webmd/consumer_assets/site_images/media/interface/actionset.gif" type="interface" width="78" directive="imageurl" chronic_id="091e9c5e80019c58" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/actionset.gif"></a><a chronic_id="091e9c5e800e010c" directive="friendlyurl" document-type="Actionset" href="/webmd/consumer_assets/controlled_content/healthwise/actionset/healthy_eating_eating_heart-healthy_foods_actionset_tb1869.xml" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/actionset/healthy_eating_eating_heart-healthy_foods_actionset_tb1869.xml">How can I eat a heart-healthy diet?</a></li></ul></td></tr></table></section_text></section_group></page></pages><citations></citations><related_links_type></related_links_type><related_links_header></related_links_header><related_links_text></related_links_text></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-topic-overview" owner="false"><breadcrumb><bread piece="Brain &amp; Nervous System Health Center" prefix="www" friendlyurl="/brain/default.htm"></bread><bread piece="Stroke Health Center" prefix="www" friendlyurl="/stroke/default.htm"></bread><bread piece="Stroke Related Topics" prefix="www" friendlyurl="/stroke/tc/default.htm"></bread></breadcrumb><centers><Topic id="1063" name="tmg" chronicid="091e9c5e8001df3d" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-topic-overview" type="Topic">Transient Ischemic Attack (TIA)</Topic><Health id="878" name="health center" chronicid="091e9c5e80025270" prefix="www" friendlyurl="/stroke/default.htm" type="">Stroke</Health><Super id="740" name="super center" chronicid="091e9c5e80025343" prefix="www" friendlyurl="/brain/default.htm" type="">Brain and Nervous System</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-topic-overview" owner="false"><breadcrumb><bread piece="A to Z Guides" prefix="www" friendlyurl="/a-to-z-guides/default.htm"></bread><bread piece="Related Topics" prefix="www" friendlyurl="/a-to-z-guides/tc/default.htm"></bread></breadcrumb><centers><Topic id="11198" name="tmg" chronicid="091e9c5e8001df3d" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-topic-overview" type="Topic">Transient Ischemic Attack (TIA)</Topic></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e8001df3d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-topic_overview_major_hw226609.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-topic-overview"></target></object><object chronic_id="091e9c5e80025270" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Stroke Health Center/page_Stroke Health Center_091e9c5e80025270.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/stroke/default.htm"></target></object><object chronic_id="091e9c5e8001b089" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stroke_definition_sts15140.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/stroke-7439"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/stroke-7439"></target></object><object chronic_id="091e9c5e8001e8f7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/multimedia/transient_ischemic_attack_tia_multimedia_hw264881.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/transient-ischemic-attack-tia-15880"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/transient-ischemic-attack-tia-15880"></target></object><object chronic_id="091e9c5e80739ca7" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/blood_disorders/miscellaneous/Blood_Clots.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/blood-clots"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/blood-clots"></target></object><object chronic_id="091e9c5e8056ea80" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/anatomy_picture_of_blood.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/anatomy-picture-of-blood"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/anatomy-picture-of-blood"></target></object><object chronic_id="091e9c5e8041fa4e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/picture-of-the-brain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-brain"></target></object><object chronic_id="091e9c5e800302ce" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Eye Health Center/page_Eye Health Topic Centers_091e9c5e800302ce.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target><target siteid="8" name="" prefix="www" friendlyurl="/eye-health/default.htm" umtchronicleid="091e9c5e806866a2"></target></object><object chronic_id="091e9c5e8002394a" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/MigrainesHeadaches Health Center/page_Migraines and Headaches Health Center_091e9c5e8002394a.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/migraines-headaches/default.htm"></target></object><object chronic_id="091e9c5e809d6a7d" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/arteries.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/picture-of-the-arteries"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-arteries"></target></object><object chronic_id="091e9c5e8012c561" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/miscellaneous/what_is_atherosclerosis.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/what-is-atherosclerosis"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/what-is-atherosclerosis"></target></object><object chronic_id="091e9c5e80012609" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/heart_disease/overview_types_of/heart_disease_heart_attacks.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/guide/heart-disease-heart-attacks"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/guide/heart-disease-heart-attacks"></target></object><object chronic_id="091e9c5e8001af88" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/abnormal_heartbeat_arrhythmia_definition_sti150629.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/abnormal-heartbeat-arrhythmia"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/abnormal-heartbeat-arrhythmia"></target></object><object chronic_id="091e9c5e802a073a" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/heart_and_blood_vessels/hypertension/overview_types_of/diastolic_and_systolic_blood_pressure_know_your_numbers.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/guide/diastolic-and-systolic-blood-pressure-know-your-numbers"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/diastolic-and-systolic-blood-pressure-know-your-numbers"></target></object><object chronic_id="091e9c5e8001f058" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/computed_tomography_ct_scan_of_the_body_medicaltest_hw233596.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/computed-tomography-ct-scan-of-the-body"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/computed-tomography-ct-scan-of-the-body"></target></object><object chronic_id="091e9c5e8001f07f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/magnetic_resonance_imaging_mri_medicaltest_hw214278.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/magnetic-resonance-imaging-mri"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/magnetic-resonance-imaging-mri"></target></object><object chronic_id="091e9c5e8001b22d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/magnetic_resonance_angiogram_mra_definition_stm159531.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/magnetic-resonance-angiogram-mra"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/magnetic-resonance-angiogram-mra"></target></object><object chronic_id="091e9c5e8001b1f7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/angiogram_definition_sta123362.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/arteriogram"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/arteriogram"></target></object><object chronic_id="091e9c5e8001b14c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/echocardiogram_echo_definition_ste122026.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/echocardiogram-echo"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/echocardiogram-echo"></target></object><object chronic_id="091e9c5e8001b439" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/electrocardiogram_ekg_or_ecg_definition_ste122045.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/electrocardiogram-ekg-or-ecg"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/electrocardiogram-ekg-or-ecg"></target></object><object chronic_id="091e9c5e8001af91" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/complete_blood_count_cbc_definition_stc123724.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/complete-blood-count-cbc"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/complete-blood-count-cbc"></target></object><object chronic_id="091e9c5e8001b627" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/fasting_blood_test_definition_stf124124.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/fasting-blood-test"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/fasting-blood-test"></target></object><object chronic_id="091e9c5e8001b23d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/stent_definition_sts15241.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/stent"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/stent"></target></object><object chronic_id="091e9c5e809d805c" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/carotid_artery.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart/picture-of-the-carotid-artery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-carotid-artery"></target></object><object chronic_id="091e9c5e800232f5" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Hypertension Health Center/page_Hypertension Health Center_091e9c5e800232f5.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hypertension-high-blood-pressure/default.htm" umtchronicleid="091e9c5e807bd3c1"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/high-blood-pressure-treatment-directory" umtchronicleid="091e9c5e807bd3c1"></target></object><object chronic_id="091e9c5e80022f64" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Cholesterol Health Center/page_Cholesterol Health Center_091e9c5e80022f64.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/cholesterol-management/default.htm" umtchronicleid="091e9c5e8083a32d"></target><target siteid="8" name="" prefix="www" friendlyurl="/a-to-z-guides/cholesterol-treatments-directory" umtchronicleid="091e9c5e8083a32d"></target></object><object chronic_id="091e9c5e8001f039" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/blood_glucose_medicaltest_hw8252.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diabetes/blood-glucose"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diabetes/blood-glucose"></target></object><object chronic_id="091e9c5e8001d084" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/weight_management-are_you_at_a_healthy_weight_special_aa126305.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diet/tc/healthy-weight-what-is-a-healthy-weight"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diet/tc/healthy-weight-what-is-a-healthy-weight"></target></object><object chronic_id="091e9c5e80008af3" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/overview_types_of/weight_loss_what_is_obesity.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diet/what-is-obesity"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/diet/what-is-obesity"></target></object><object chronic_id="091e9c5e8001f11f" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/pulse_measurement_medicaltest_hw233473.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/pulse-measurement"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/pulse-measurement"></target></object><object chronic_id="091e9c5e80c1b43d" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Fitness Future TOC_091e9c5e80c1b43d/page_Fitness Future TOC_091e9c5e80c1b43d.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target></object><object chronic_id="091e9c5e800bfc1f" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/features/healthy_living/fitness_and_exercise/Fitness_Basics_Swimming_Is_For_Everyone.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/fitness-exercise/features/fitness-basics-swimming-is-for-everyone"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/features/fitness-basics-swimming-is-for-everyone"></target></object><object chronic_id="091e9c5e801ef52c" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/healthy_living/diet_and_nutrition/overview_types_of/understanding_trans)fats.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/food-recipes/understanding-trans-fats"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/food-recipes/understanding-trans-fats"></target></object><object chronic_id="091e9c5e8001b3a9" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/definition/transient_ischemic_attack_tia_definition_stt11103.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/hw-popup/transient-ischemic-attack-tia"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/hw-popup/transient-ischemic-attack-tia"></target></object><object chronic_id="091e9c5e8001e0ba" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-cause_major_hw226618.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-cause"></target></object><object chronic_id="091e9c5e8001e1da" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-what_increases_your_risk_major_hw226665.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001de85" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-prevention_major_hw226781.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-prevention"></target></object><object chronic_id="091e9c5e80e6a3d2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/special/stroke_and_tia_who_is_affected-topic_overview_special_hw222841-sec.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/a-to-z-guides/stroke-and-tia-who-is-affected-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/stroke-and-tia-who-is-affected-topic-overview"></target></object><object chronic_id="091e9c5e8001e01a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-symptoms_major_hw226640.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-symptoms"></target></object><object chronic_id="091e9c5e8001dbff" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-exams_and_tests_major_hw226727.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-exams-and-tests"></target></object><object chronic_id="091e9c5e8001d7cb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-treatment_overview_major_hw226765.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-treatment-overview"></target></object><object chronic_id="091e9c5e8001dd49" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-medications_major_hw226815.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-medications"></target></object><object chronic_id="091e9c5e8001d87b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-surgery_major_hw226841.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-surgery"></target></object><object chronic_id="091e9c5e8001e28d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-what_happens_major_hw226650.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-what-happens"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-what-happens"></target></object><object chronic_id="091e9c5e8001dacb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-home_treatment_major_hw226803.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-home-treatment"></target></object><object chronic_id="091e9c5e800e010c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/actionset/healthy_eating_eating_heart-healthy_foods_actionset_tb1869.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/heart-disease/eating-a-heart-healthy-diet"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/heart-disease/eating-a-heart-healthy-diet"></target></object><object chronic_id="091e9c5e8001df3d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-topic_overview_major_hw226609.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-topic-overview"></target></object><object chronic_id="091e9c5e8001dc23" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-health_tools_major_hw226606-healthtools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-health-tools"></target></object><object chronic_id="091e9c5e8001e0ba" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-cause_major_hw226618.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-cause"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-cause"></target></object><object chronic_id="091e9c5e8001e01a" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-symptoms_major_hw226640.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-symptoms"></target></object><object chronic_id="091e9c5e8001e28d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-what_happens_major_hw226650.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-what-happens"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-what-happens"></target></object><object chronic_id="091e9c5e8001e1da" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-what_increases_your_risk_major_hw226665.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-what-increases-your-risk"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-what-increases-your-risk"></target></object><object chronic_id="091e9c5e8001db61" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-when_to_call_a_doctor_major_hw226706.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-when-to-call-a-doctor"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-when-to-call-a-doctor"></target></object><object chronic_id="091e9c5e8001dbff" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-exams_and_tests_major_hw226727.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-exams-and-tests"></target></object><object chronic_id="091e9c5e8001d7cb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-treatment_overview_major_hw226765.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-treatment-overview"></target></object><object chronic_id="091e9c5e8001de85" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-prevention_major_hw226781.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-prevention"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-prevention"></target></object><object chronic_id="091e9c5e8001dacb" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-home_treatment_major_hw226803.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-home-treatment"></target></object><object chronic_id="091e9c5e8001dd49" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-medications_major_hw226815.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-medications"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-medications"></target></object><object chronic_id="091e9c5e8001d87b" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-surgery_major_hw226841.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-surgery"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-surgery"></target></object><object chronic_id="091e9c5e8001df06" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-other_treatment_major_hw226864.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-other-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-other-treatment"></target></object><object chronic_id="091e9c5e8001e383" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-other_places_to_get_help_major_hw226606-conres.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001de6e" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-related_information_major_hw226606-relinfo.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-related-information"></target></object><object chronic_id="091e9c5e8001dba3" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-references_major_hw226606-bib.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-references"></target></object><object chronic_id="091e9c5e8001d7b2" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-credits_major_hw226606-credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/stroke/tc/transient-ischemic-attack-tia-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/tc/transient-ischemic-attack-tia-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e8002129c" path="/webmd/consumer_assets/controlled_content/healthwise/toc/major/transient_ischemic_attack_tia-toc_major_hw226606.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>Overview</section_type><section_link directive="article" chronic_id="091e9c5e8001df3d" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-topic_overview_major_hw226609.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e8001dc23" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-health_tools_major_hw226606-healthtools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Cause</section_title><section_type>Cause</section_type><section_link directive="article" chronic_id="091e9c5e8001e0ba" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-cause_major_hw226618.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>Symptoms</section_type><section_link directive="article" chronic_id="091e9c5e8001e01a" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-symptoms_major_hw226640.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Happens</section_title><section_type>WhatHappens</section_type><section_link directive="article" chronic_id="091e9c5e8001e28d" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-what_happens_major_hw226650.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>What Increases Your Risk</section_title><section_type>WhatIncreasesYourRisk</section_type><section_link directive="article" chronic_id="091e9c5e8001e1da" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-what_increases_your_risk_major_hw226665.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>When To Call a Doctor</section_title><section_type>WhenToCall</section_type><section_link directive="article" chronic_id="091e9c5e8001db61" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-when_to_call_a_doctor_major_hw226706.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>ExamsAndTests</section_type><section_link directive="article" chronic_id="091e9c5e8001dbff" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-exams_and_tests_major_hw226727.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>TreatmentOverview</section_type><section_link directive="article" chronic_id="091e9c5e8001d7cb" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-treatment_overview_major_hw226765.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Prevention</section_title><section_type>Prevention</section_type><section_link directive="article" chronic_id="091e9c5e8001de85" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-prevention_major_hw226781.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Home Treatment</section_title><section_type>HomeTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001dacb" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-home_treatment_major_hw226803.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Medications</section_title><section_type>Medications</section_type><section_link directive="article" chronic_id="091e9c5e8001dd49" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-medications_major_hw226815.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Surgery</section_title><section_type>Surgery</section_type><section_link directive="article" chronic_id="091e9c5e8001d87b" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-surgery_major_hw226841.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Treatment</section_title><section_type>OtherMedicalTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001df06" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-other_treatment_major_hw226864.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001e383" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-other_places_to_get_help_major_hw226606-conres.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001de6e" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-related_information_major_hw226606-relinfo.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001dba3" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-references_major_hw226606-bib.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001d7b2" path="/webmd/consumer_assets/controlled_content/healthwise/major/transient_ischemic_attack_tia-credits_major_hw226606-credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Transient Ischemic Attack (TIA)</title><dynamic_objects><callout_title>Recommended Related to Stroke</callout_title><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e80e7fba4"><metadata_section><i_chronicle_id>091e9c5e80008e3d</i_chronicle_id><title>Understanding Stroke &#45;&#45; Symptoms</title><wbmd_c_art_thmbnl directive="imageurl" chronic_id="" path="/webmdNone" object_type=""></wbmd_c_art_thmbnl></metadata_section><section_text><p>You should consider these symptoms warning signs and consult your health care provider:
+
+  Sudden weakness or numbness in the face, arm, or leg on one side of the body.
+  Abrupt loss of vision, strength, coordination, sensation, speech, or the ability to understand speech. These symptoms may become worse over time.
+  Sudden dimness of vision, especially in one eye.
+  Sudden loss of balance, possibly accompanied by vomiting, nausea, fever, hiccups, or trouble with swallowing.
+  Sudden and severe...</p></section_text><link siteid="3" prefix="www" friendlyurl="/stroke/guide/understanding-stroke-symptoms"></wbmd_asset></dynamic_objects></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Transient Ischemic Attack (TIA) - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <p><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/medical/hw/neuro_01.jpg" alt="neuro_01.jpg" align="left" /></p>
+      <p>Some people call a <a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-topic-overview" onclick="return sl(this,'','embd-lnk');">transient ischemic attack</a> (TIA) a mini-<a href="http://www.webmd.com/stroke/default.htm" onclick="return sl(this,'','embd-lnk');">stroke</a>, because the symptoms are like those of a <a href="http://www.webmd.com/hw-popup/stroke-7439" onclick="return sl(this,'hw','embd-lnk');">stroke</a> but don't last long. A TIA happens when <a href="http://www.webmd.com/brain/transient-ischemic-attack-tia-15880" onclick="return sl(this,'','embd-lnk');">blood flow to part of the brain is blocked or reduced</a> <a href="http://www.webmd.com/brain/transient-ischemic-attack-tia-15880" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" /></a>, often by a <a href="http://www.webmd.com/a-to-z-guides/blood-clots" onclick="return sl(this,'','embd-lnk');">blood clot</a>. After a short time, <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> flows again and the symptoms go away. With a stroke, the blood flow stays blocked, and the <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a> has permanent damage.</p>
+      <p>A TIA is a warning: it means you are likely to have a stroke in the future. If you think you are having a TIA, <b>call </b><span class="red_fmt">911</span>. Early treatment can help prevent a stroke. If you think you have had a TIA but your symptoms have gone away, you still need to call your doctor right away.</p>
+      <p>Symptoms of a TIA are the same as symptoms of a stroke. But symptoms of a TIA occur suddenly and don't last very long. Most of the time, they go away in 10 to 20 minutes. They may include:</p>
+      <ul>
+       <li> Sudden numbness, tingling, weakness, or paralysis in your face, arm, or leg, especially on only one side of your body.</li>
+       <li>Sudden <a href="http://www.webmd.com/eye-health/default.htm" onclick="return sl(this,'','embd-lnk');">vision</a> changes.</li>
+       <li>Sudden trouble speaking.</li>
+       <li>Sudden confusion or trouble understanding simple statements.</li>
+       <li>Sudden problems with walking or balance.</li>
+       <li>A sudden, severe <a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">headache</a> that is different from past headaches.</li>
+      </ul>
+      <p>A blood clot is the most common cause of a TIA. Blood clots can be the result of hardening of the <a href="http://www.webmd.com/heart/picture-of-the-arteries" onclick="return sl(this,'','embd-lnk');">arteries</a> (<a href="http://www.webmd.com/heart-disease/what-is-atherosclerosis" onclick="return sl(this,'','embd-lnk');">atherosclerosis</a>), <a href="http://www.webmd.com/heart-disease/guide/heart-disease-heart-attacks" onclick="return sl(this,'','embd-lnk');">heart attack</a>, or <a href="http://www.webmd.com/hw-popup/abnormal-heartbeat-arrhythmia" onclick="return sl(this,'hw','embd-lnk');">abnormal heart rhythms</a>. Brain cells are affected within seconds of the blockage. That causes symptoms in the parts of the body controlled by those cells. After the clot dissolves, blood flow returns, and the symptoms go away.</p>
+      <p>Sometimes a TIA is caused by a sharp drop in <a href="http://www.webmd.com/hypertension-high-blood-pressure/guide/diastolic-and-systolic-blood-pressure-know-your-numbers" onclick="return sl(this,'','embd-lnk');">blood pressure</a> that reduces blood flow to the brain. This is called a &quot;low-flow&quot; TIA. It is not as common as other types.</p>
+      <p>Your doctor will do tests to look at your heart and blood vessels. You may need:</p>
+      <ul>
+       <li>Tests that show pictures of your brain and blood vessels, such as a <a href="http://www.webmd.com/a-to-z-guides/computed-tomography-ct-scan-of-the-body" onclick="return sl(this,'','embd-lnk');">CT scan</a>, an <a href="http://www.webmd.com/a-to-z-guides/magnetic-resonance-imaging-mri" onclick="return sl(this,'','embd-lnk');">MRI</a>, a <a href="http://www.webmd.com/hw-popup/magnetic-resonance-angiogram-mra" onclick="return sl(this,'hw','embd-lnk');">magnetic resonance angiogram (MRA)</a>, or an <a href="http://www.webmd.com/hw-popup/arteriogram" onclick="return sl(this,'hw','embd-lnk');">angiogram</a>. </li>
+       <li>A test that uses sound to check your blood flow (Doppler ultrasound). </li>
+       <li>An <a href="http://www.webmd.com/hw-popup/echocardiogram-echo" onclick="return sl(this,'hw','embd-lnk');">echocardiogram (echo)</a> to check your heart's shape and its blood flow. </li>
+       <li>An <a href="http://www.webmd.com/hw-popup/electrocardiogram-ekg-or-ecg" onclick="return sl(this,'hw','embd-lnk');">electrocardiogram (EKG, ECG)</a> to measure your heart rhythm. </li>
+       <li>Blood tests, including a <a href="http://www.webmd.com/hw-popup/complete-blood-count-cbc" onclick="return sl(this,'hw','embd-lnk');">complete blood count</a> and a <a href="http://www.webmd.com/hw-popup/fasting-blood-test" onclick="return sl(this,'hw','embd-lnk');">fasting blood test</a> to check for problems that could be causing your symptoms.</li>
+      </ul>
+      <p>Your doctor will also check to see if something else is causing your symptoms.</p>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-health-tools'
+			});
+            
+			topics.push({
+			title : 'Cause',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-cause'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-symptoms'
+			});
+            
+			topics.push({
+			title : 'What Happens',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-what-happens'
+			});
+            
+			topics.push({
+			title : 'What Increases Your Risk',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-what-increases-your-risk'
+			});
+            
+			topics.push({
+			title : 'When To Call a Doctor',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-when-to-call-a-doctor'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Prevention',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-prevention'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Medications',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-medications'
+			});
+            
+			topics.push({
+			title : 'Surgery',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-surgery'
+			});
+            
+			topics.push({
+			title : 'Other Treatment',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-other-treatment'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: February 05, 2013
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-topic-overview">Topic Overview</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-health-tools">Health Tools</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-cause">Cause</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-symptoms">Symptoms</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-what-happens">What Happens</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-what-increases-your-risk">What Increases Your Risk</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-when-to-call-a-doctor">When To Call a Doctor</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-prevention">Prevention</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-home-treatment">Home Treatment</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-medications">Medications</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-surgery">Surgery</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-other-treatment">Other Treatment</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-related-information">Related Information</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-references">References</option><option value="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Transient Ischemic Attack (TIA) Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-cause" onclick="return sl(this,'','topicNav_3');" title="Cause">Cause</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-symptoms" onclick="return sl(this,'','topicNav_4');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-what-happens" onclick="return sl(this,'','topicNav_5');" title="What Happens">What Happens</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-what-increases-your-risk" onclick="return sl(this,'','topicNav_6');" title="What Increases Your Risk">What Increases Your Risk</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-when-to-call-a-doctor" onclick="return sl(this,'','topicNav_7');" title="When To Call a Doctor">When To Call a Doctor</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-exams-and-tests" onclick="return sl(this,'','topicNav_8');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-treatment-overview" onclick="return sl(this,'','topicNav_9');" title="Treatment Overview">Treatment Overview</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-prevention" onclick="return sl(this,'','topicNav_10');" title="Prevention">Prevention</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-home-treatment" onclick="return sl(this,'','topicNav_11');" title="Home Treatment">Home Treatment</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-medications" onclick="return sl(this,'','topicNav_12');" title="Medications">Medications</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-surgery" onclick="return sl(this,'','topicNav_13');" title="Surgery">Surgery</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-other-treatment" onclick="return sl(this,'','topicNav_14');" title="Other Treatment">Other Treatment</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-other-places-to-get-help" onclick="return sl(this,'','topicNav_15');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-related-information" onclick="return sl(this,'','topicNav_16');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-references" onclick="return sl(this,'','topicNav_17');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-credits" onclick="return sl(this,'','topicNav_18');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Major';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8">
+   <div class="related_reading_rdr" id="rltd-p-1108"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/stroke/slideshow-stroke-overview" onclick="return sl(this,'','rltd-p-1108_1');">Slideshow: Understanding Stroke</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-topic-overview" onclick="return sl(this,'','rltd-p-1108_2');">What Is a TIA?</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/video/botox-for-stroke-patients" onclick="return sl(this,'','rltd-p-1108_3');">Video: Botox for Stroke Recovery</a> </li> 
+     <li id="x65"> <a href="http://www.webmd.com/drug-medication/medicationawareness/default.htm" onclick="return sl(this,'','rltd-p-1108_4');">What You Don't Know About Your Medication</a> </li> 
+     <li id="x66"> <a href="http://www.webmd.com/stroke/stroke-risks-quiz" onclick="return sl(this,'','rltd-p-1108_5');">Check Your Stroke Risk</a> </li> 
+     <li id="x67" class="last"> <a href="http://exchanges.webmd.com/stroke-exchange" onclick="return sl(this,'','rltd-p-1108_6');">Join the Discussion in the Stroke Community</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1108_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e8069e2d1" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069e2d1</chronic_id><r_object_id>091e9c5e8069e2d1</r_object_id><title>td-rltd-art</title><object_name>module_td-rltd-art_091e9c5e8069e2d1.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>11/08/2010 14:52:55</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Stroke Health Center/template_Stroke Health Center_091e9c5e8002521a.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e8002521a"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Transient Ischemic Attack (TIA)</name><link_title>Transient Ischemic Attack (TIA)</link_title><description>A transient ischemic attack (TIA) is a temporary blockage of blood flow in the brain that causes brief stroke symptoms. A transient ischemic attack is often called a mini-stroke. It is considered a warning sign that a more serious stoke will happen in the future. Transient ischemic attack symptoms do not last long. They may include weakness on one side of the body, dizziness, blurred vision, confusion, and speech problems. A TIA is a medical emergency. Follow the links below to find WebMD's comprehensive coverage about transient ischemic attacks (TIA), how they occur, what the symptoms are, how to treat a TIA, and much more.</description><friendly_url>http://www.webmd.com/stroke/transient-ischemic-attack-tia-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e80006f0d"><link_title>Ominous 'Mini-Strokes' Often Dismissed by Primary Care Doctors</link_title><friendly_url>http://www.webmd.com/stroke/news/20000210/ominous-mini-strokes-often-dismissed-by-primary-care-doctors</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c7aa"><link_title>Stroke Warning Signs May Start Days Earlier</link_title><friendly_url>http://www.webmd.com/stroke/news/20050307/stroke-warning-signs-may-start-days-earlier</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000d0fa"><link_title>Transient Ischemic Attacks ('Ministrokes') Need Immediate Attention</link_title><friendly_url>http://www.webmd.com/stroke/news/20060330/ministroke-needs-immediate-attention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8011f72a"><link_title>Ministroke: Quick Care Pays Off</link_title><friendly_url>http://www.webmd.com/stroke/news/20071008/ministroke-quick-care-pays-off</friendly_url><thumbnail height="" width="" alt="Quick Stroke Treatment">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/October_07/quick_stroke_treatment_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8013758b"><link_title>TIA: It's an Emergency</link_title><friendly_url>http://www.webmd.com/stroke/news/20071112/tia-its-an-emergency</friendly_url><thumbnail height="" width="" alt="Major Minor Strokes">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/November07/major_minor_strokesjpg.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80159a0d"><link_title>'Benign' Brain Events May Signal Stroke</link_title><friendly_url>http://www.webmd.com/brain/news/20071227/benign-brain-events-may-signal-stroke</friendly_url><thumbnail height="" width="" alt="Neurological Problems and Stroke Risk">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/December07/neurological_problems_and_stroke_risk.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8079433c"><link_title>‘Mini-Strokes’ May Increase Risk of Heart Attack</link_title><friendly_url>http://www.webmd.com/stroke/news/20110324/mini-strokes-may-increase-risk-of-heart-attacks</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000c991"><link_title>Ministroke, Not A Small Matter</link_title><friendly_url>http://www.webmd.com/stroke/news/20040209/ministroke-not-small-matter</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010fd5"><link_title>Drug May Aid Aspirin After Ministroke</link_title><friendly_url>http://www.webmd.com/stroke/news/20060518/antiplatelet-drug-aid-aspirin-ministroke</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80056a3e"><link_title>Are You a Klutz?</link_title><friendly_url>http://www.webmd.com/balance/news/20060918/are-you-klutz</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802181c7"><link_title>Transient Ischemic Attack (Mini-stroke) Treatment</link_title><friendly_url>http://www.webmd.com/first-aid/transient-ischemic-attack-mini-stroke-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8061afdc"><link_title>Should I have carotid endarterectomy for stroke or transient ischemic attack (TIA)?</link_title><friendly_url>http://www.webmd.com/stroke/should-i-have-carotid-endarterectomy-for-stroke-or-transient-ischemic</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e0ba"><link_title>Transient Ischemic Attack (TIA)-Cause</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-cause</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dc23"><link_title>Transient Ischemic Attack (TIA)-Health Tools</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dd49"><link_title>Transient Ischemic Attack (TIA)-Medications</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-medications</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001df06"><link_title>Transient Ischemic Attack (TIA)-Other Treatment</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-other-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001de85"><link_title>Transient Ischemic Attack (TIA)-Prevention</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d87b"><link_title>Transient Ischemic Attack (TIA)-Surgery</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-surgery</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d7cb"><link_title>Transient Ischemic Attack (TIA)-Treatment Overview</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-treatment-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e28d"><link_title>Transient Ischemic Attack (TIA)-What Happens</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-what-happens</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001db61"><link_title>Transient Ischemic Attack (TIA)-When To Call a Doctor</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-when-to-call-a-doctor</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dbff"><link_title>Transient Ischemic Attack (TIA)-Exams and Tests</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-exams-and-tests</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001dacb"><link_title>Transient Ischemic Attack (TIA)-Home Treatment</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-home-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e383"><link_title>Transient Ischemic Attack (TIA)-Other Places To Get Help</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-other-places-to-get-help</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e01a"><link_title>Transient Ischemic Attack (TIA)-Symptoms</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e1da"><link_title>Transient Ischemic Attack (TIA)-What Increases Your Risk</link_title><friendly_url>http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-what-increases-your-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8076c246"><link_title>Stressful Choices for Surrogate Treatment Decision Makers</link_title><friendly_url>http://www.webmd.com/stroke/news/20110301/stressful-choices-for-surrogate-treatment-decision-makers</friendly_url><thumbnail height="" width="" alt="senior man in hospital talking with doctor">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/02_2011/69x75_surrogates_decision_making_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80742bb4"><link_title>Rare Form of Stroke Affects Young People</link_title><friendly_url>http://www.webmd.com/stroke/news/20110202/rare-form-of-stroke-affects-young-people</friendly_url><thumbnail height="" width="" alt="30 year old woman">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/02_2011/69x75_rare_form_of_stroke_treatment_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80775db4"><link_title>Atrial Fibrillation May Have Link to Dementia</link_title><friendly_url>http://www.webmd.com/heart-disease/atrial-fibrillation/news/20110307/atrial-fibrillation-may-have-link-to-dementia</friendly_url><thumbnail height="" width="" alt="senior woman in hospital with nurse">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/03_2011/69x75_stroke_dementia_risk_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800071b2"><link_title>Stroke &#45;&#45; preventative surgeries</link_title><friendly_url>http://www.webmd.com/stroke/news/20040506/carotid-artery-surgery-stroke-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/first-aid/transient-ischemic-attack-mini-stroke-treatment" onclick="return sl(this,'','td-rltd-art_1');">Transient Ischemic Attack (Mini-stroke) Treatment</a></li>
+      <li><a href="http://www.webmd.com/stroke/should-i-have-carotid-endarterectomy-for-stroke-or-transient-ischemic" onclick="return sl(this,'','td-rltd-art_2');">Should I have carotid endarterectomy for stroke or transient ischemic attack (TIA)?</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-cause" onclick="return sl(this,'','td-rltd-art_3');">Transient Ischemic Attack (TIA)-Cause</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-health-tools" onclick="return sl(this,'','td-rltd-art_4');">Transient Ischemic Attack (TIA)-Health Tools</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-medications" onclick="return sl(this,'','td-rltd-art_5');">Transient Ischemic Attack (TIA)-Medications</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-other-treatment" onclick="return sl(this,'','td-rltd-art_6');">Transient Ischemic Attack (TIA)-Other Treatment</a></li>
+      <li><a href="http://www.webmd.com/stroke/tc/transient-ischemic-attack-tia-prevention" onclick="return sl(this,'','td-rltd-art_7');">Transient Ischemic Attack (TIA)-Prevention</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/stroke/transient-ischemic-attack-tia-directory" onclick="return sl(this,'','td-rltd-art_all');">See All Transient Ischemic Attack (TIA) Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=169286403&amp;tile=746964924&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=878&amp;scent=740&amp;pos=5000&amp;xpg=3053&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fstroke%2ftc%2ftransient-ischemic-attack-tia-topic-overview&amp;artid=091e9c5e8001df3d&amp;inst=0&amp;leaf=1063&amp;cc=16&amp;tmg=1&amp;bc=_sex3_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=169286403&amp;amp;tile=746964924&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=878&amp;amp;scent=740&amp;amp;pos=5000&amp;amp;xpg=3053&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fstroke%2ftc%2ftransient-ischemic-attack-tia-topic-overview&amp;amp;artid=091e9c5e8001df3d&amp;amp;inst=0&amp;amp;leaf=1063&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_sex3_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3053";
+			var secTopId = "";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=169286403&amp;tile=746964924&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=878&amp;scent=740&amp;pos=5001&amp;xpg=3053&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fstroke%2ftc%2ftransient-ischemic-attack-tia-topic-overview&amp;artid=091e9c5e8001df3d&amp;inst=0&amp;leaf=1063&amp;cc=16&amp;tmg=1&amp;bc=_sex3_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=169286403&amp;amp;tile=746964924&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=878&amp;amp;scent=740&amp;amp;pos=5001&amp;amp;xpg=3053&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fstroke%2ftc%2ftransient-ischemic-attack-tia-topic-overview&amp;amp;artid=091e9c5e8001df3d&amp;amp;inst=0&amp;amp;leaf=1063&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_sex3_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3053";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

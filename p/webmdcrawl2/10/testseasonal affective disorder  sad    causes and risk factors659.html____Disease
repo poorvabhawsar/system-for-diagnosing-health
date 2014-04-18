@@ -1,0 +1,668 @@
+<title>Seasonal Affective Disorder (SAD) - Causes and Risk Factors</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/depression/guide/depression-chronic-pain" onclick="return sl(this,'','lln-toolsres_1');">Depression and Chronic Pain</a></li>
+      <li id="x57"><a href="http://www.webmd.com/depression/depression-assessment/depression-health-check" onclick="return sl(this,'','lln-toolsres_2');">Check Your Depression Symptoms</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://www.webmd.com/depression/guide/alternative-therapies-depression" onclick="return sl(this,'','lln-toolsres_3');">Home Remedies for Depression?</a></li>
+      <li id="x59"><a href="http://www.webmd.com/depression/guide/depression-types" onclick="return sl(this,'','lln-toolsres_4');">Depression Types</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://www.webmd.com/anxiety-panic/guide/mental-health-panic-disorder" onclick="return sl(this,'','lln-toolsres_5');">Panic Disorder</a></li>
+      <li id="x61"><a href="http://www.webmd.com/depression/guide/untreated-depression-effects" onclick="return sl(this,'','lln-toolsres_6');">Effects of Untreated Depression</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <!--
+    Updated at 03/2/12 at 12:00pm VDT
+<webmd_rendition><content><wbmd_asset object_type="wbmd_cons_article" id="091e9c5e8081ba1c"><metadata_section><i_chronicle_id>091e9c5e8001ad41</i_chronicle_id><r_object_id>091e9c5e8081ba1c</r_object_id><title>Topic Overview</title><object_name>Seasonal_Affective_Disorder_SAD-Topic_Overview.xml</object_name><content_template>consumer_import_health_ref.xml</content_template><r_object_id>091e9c5e8081ba1c</r_object_id><wbmd_archive_bool>0</wbmd_archive_bool><wbmd_bus_ref object_type="wbmd_lookup" wbmd_lookup_type="business_reference" wbmd_storage_val="16" wbmd_disp_nm="Medical Reference"></wbmd_bus_ref><wbmd_cpyrt><r_object_type>wbmd_copyright</r_object_type><r_object_id>091e9c5e80e6443d</r_object_id><wbmd_legal_revw_dt>nulldate</wbmd_legal_revw_dt><wbmd_copyright_strt_dt>nulldate</wbmd_copyright_strt_dt><wbmd_copyright_end_dt>nulldate</wbmd_copyright_end_dt><wbmd_copyright_holder><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_copyright_holder><wbmd_legal_revr></wbmd_legal_revr><wbmd_copyright><wbmd_copyright_statement>© 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.</wbmd_copyright_statement></wbmd_copyright></wbmd_cpyrt><wbmd_ext_id>mini_hw169555</wbmd_ext_id><wbmd_med_ref_type object_type="wbmd_lookup" wbmd_lookup_type="health_ref_type" wbmd_storage_val="1" wbmd_disp_nm="Disease &amp; Condition - Overview / Definition / Fact / Statistic"></wbmd_med_ref_type><wbmd_wdw_ttl>Seasonal Affective Disorder (SAD) - Causes and Risk Factors</wbmd_wdw_ttl><wbmd_site_archv_ovrd_dt>nulldate</wbmd_site_archv_ovrd_dt><wbmd_prim_revw_dt>nulldate</wbmd_prim_revw_dt><wbmd_publ><r_object_type>wbmd_publication</r_object_type><r_object_id>091e9c5e80378505</r_object_id><publ_i_chronicle_id>091e9c5e80019163</publ_i_chronicle_id><wbmd_publ_name>Healthwise - Mini</wbmd_publ_name><wbmd_publ_display>WebMD Medical Reference from Healthwise</wbmd_publ_display><wbmd_publ_bus_entity><r_object_type>wbmd_company</r_object_type><r_object_id>091e9c5e80041b32</r_object_id><wbmd_bus_comp_nm>Healthwise</wbmd_bus_comp_nm><wbmd_comp_type object_type="wbmd_lookup" wbmd_lookup_type="company_type" wbmd_storage_val="5" wbmd_disp_nm="Third Party Vendor"></wbmd_comp_type><wbmd_bus_logo chronic_id="091e9c5e80019c57" directive="imageurl" object_type="wbmd_cons_img" path=""></wbmd_bus_logo></wbmd_publ_bus_entity></wbmd_publ><wbmd_prim_subj_cd></wbmd_prim_subj_cd><wbmd_desc_meta>WebMD explains seasonal affective disorder (SAD) including who gets it, causes, symptoms, diagnosis, and treatments. Seasonal affective disorder is a seasonal depression that affects you during the same season each year. </wbmd_desc_meta><wbmd_orig_pub_dt>07/07/2010 00:00:00</wbmd_orig_pub_dt><wbmd_desc_user>WebMD explains seasonal affective disorder (SAD) including who gets it, causes, symptoms, diagnosis, and treatments. Seasonal affective disorder is a seasonal depression that affects you during the same season each year. </wbmd_desc_user><wbmd_lk_ttl>Seasonal Affective Disorder (SAD) - Overview, Causes and Risk Factors</wbmd_lk_ttl><wbmd_disclmr><r_object_type>wbmd_disclaimer</r_object_type><r_object_id>091e9c5e800cc78f</r_object_id><wbmd_lgl_revw_dt>nulldate</wbmd_lgl_revw_dt><wbmd_lgl_revr></wbmd_lgl_revr><wbmd_disclaimer><disclaimer_statement><p>This information is not intended to replace the advice of a doctor.
+Healthwise disclaims any liability for the decisions you make based on this
+information.</p></disclaimer_statement></wbmd_disclaimer></wbmd_disclmr><wbmd_prim_med_revr></wbmd_prim_med_revr><wbmd_keywords>Depression, down in the dumps, feeling blue, feeling depressed, SAD, Seasonal Affective Disorder, seasonal depression, winter depression</wbmd_keywords><wbmd_relv1_subj_cd_group></wbmd_relv1_subj_cd_group><wbmd_authr_prim_group></wbmd_authr_prim_group><wbmd_relv2_subj_cd_group></wbmd_relv2_subj_cd_group><wbmd_relv3_subj_cd_group><wbmd_relv3_subj_cd>cust4</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>A08.0</wbmd_relv3_subj_cd><wbmd_relv3_subj_cd>F33.5</wbmd_relv3_subj_cd></wbmd_relv3_subj_cd_group><r_object_id>091e9c5e8081ba1c</r_object_id><wbmd_c_cons_edtr></wbmd_c_cons_edtr><wbmd_c_cons_cpy_edtr></wbmd_c_cons_cpy_edtr><wbmd_c_cons_revw_dt>nulldate</wbmd_c_cons_revw_dt><wbmd_c_sec_med_revw_dt>nulldate</wbmd_c_sec_med_revw_dt><wbmd_c_sec_med_revr></wbmd_c_sec_med_revr><wbmd_c_prim_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="1663" wbmd_disp_nm="Depression"></wbmd_c_prim_top_id><wbmd_c_edtr_revr_dt>nulldate</wbmd_c_edtr_revr_dt><wbmd_c_stg_of_cond object_type="wbmd_lookup" wbmd_lookup_type="consumer_stage_of_condition" wbmd_storage_val="6" wbmd_disp_nm="None"></wbmd_c_stg_of_cond><wbmd_c_sec_authr_group></wbmd_c_sec_authr_group><wbmd_c_audnc_age_group><wbmd_c_audnc_age object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_age" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_age></wbmd_c_audnc_age_group><wbmd_c_audnc_geo_group><wbmd_c_audnc_geo object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_geographic" wbmd_storage_val="1" wbmd_disp_nm="All Countries"></wbmd_c_audnc_geo></wbmd_c_audnc_geo_group><wbmd_c_sec_top_id_group><wbmd_c_sec_top_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_topic_id" wbmd_storage_val="8006" wbmd_disp_nm="Cymbalta - 8006"></wbmd_c_sec_top_id></wbmd_c_sec_top_id_group><wbmd_c_audnc_gndr_group><wbmd_c_audnc_gndr object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_gender" wbmd_storage_val="1" wbmd_disp_nm="Both"></wbmd_c_audnc_gndr></wbmd_c_audnc_gndr_group><wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_lfstyl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_lifestyle" wbmd_storage_val="6" wbmd_disp_nm="Any"></wbmd_c_audnc_lfstyl></wbmd_c_audnc_lfstyl_group><wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_read_lvl object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_reading_level" wbmd_storage_val="1" wbmd_disp_nm="Basic (high school)"></wbmd_c_audnc_read_lvl></wbmd_c_audnc_read_lvl_group><wbmd_c_audnc_ethn_group><wbmd_c_audnc_ethn object_type="wbmd_lookup" wbmd_lookup_type="consumer_audience_ethnicity" wbmd_storage_val="1" wbmd_disp_nm="All"></wbmd_c_audnc_ethn></wbmd_c_audnc_ethn_group><wbmd_c_tm_of_yr_group><wbmd_c_tm_of_yr object_type="wbmd_lookup" wbmd_lookup_type="consumer_time_of_year" wbmd_storage_val="4" wbmd_disp_nm="Winter"></wbmd_c_tm_of_yr></wbmd_c_tm_of_yr_group><wbmd_c_clncl_tgt_pop_group></wbmd_c_clncl_tgt_pop_group><wbmd_c_art_thmbnl></wbmd_c_art_thmbnl><wbmd_c_channel_id object_type="wbmd_lookup" wbmd_lookup_type="consumer_channel_id" wbmd_storage_val="1032" wbmd_disp_nm="Depression"></wbmd_c_channel_id><wbmd_c_frnd_nm>Seasonal-Affective-Disorder-SAD-Topic-Overview</wbmd_c_frnd_nm><wbmd_c_asset_name></wbmd_c_asset_name><wbmd_c_teaser>Topic Overview</wbmd_c_teaser><wbmd_c_mini_article object_type="wbmd_cons_shrt_txt" directive="expand" chronic_id="0000000000000000"></wbmd_c_mini_article></metadata_section><content_section><cons_import_health_ref><title>Topic Overview</title><pages><page><section_group><section_header></section_header><section_type>Overview</section_type><section_text><a name="hw169555"></a><h4>What is seasonal affective disorder (SAD)?</h4><p>Seasonal affective disorder, or SAD, is a type of
+			 <a bookmark="std120700-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Depression.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Depression.xml">depression</a> that affects a person during the same
+			 season each year. If you get depressed in the winter but feel much better in
+			 spring and summer, you may have SAD. </p><p>Anyone can get SAD, but it
+			 is more common in:</p><ul><li> People who live in areas where winter days
+				are very short or there are big changes in the amount of daylight in different
+				seasons.</li><li> Women.</li><li> People between the ages of 15 and 55.
+				The risk of getting SAD for the first time goes down as you age.</li><li>
+				People who have a close relative with SAD.</li></ul><h4>What causes SAD?</h4><p>Experts are not sure what causes
+			 SAD, but they think it may be caused by a lack of sunlight. Lack of light may
+			 upset your <a chronic_id="091e9c5e800251e7" crossLinkId="491" directive="friendlyurl" externalId="091e9c5e800251e7" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml" keywordId="40012" keywordSetId="1872" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.xml">sleep</a>-wake cycle and other
+			 <a bookmark="ty4224-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Circadian_rhythms.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Circadian_rhythms.xml">circadian rhythms</a>. And it may cause problems with a
+			 <a bookmark="tv5462-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Neurotransmitters.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Neurotransmitters.xml">brain chemical</a> called serotonin that affects
+			 mood.</p><h4>What are the symptoms?</h4><p>If you have SAD, you
+			 may:</p><ul><li> Feel sad, grumpy, moody, or
+				anxious.</li><li> Lose interest in your usual activities.</li><li> Eat
+				more and crave
+				<a bookmark="stc15525-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Carbohydrate.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Carbohydrate.xml">carbohydrates</a>, such as bread and pasta.</li><li><a chronic_id="091e9c5e80046694" crossLinkId="440" directive="friendlyurl" externalId="091e9c5e80046694" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet Center TOC/page_Diet Center_091e9c5e80046694.xml" keywordId="41660" keywordSetId="7928" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet Center TOC/page_Diet Center_091e9c5e80046694.xml">Gain weight</a>.</li><li> Sleep more and feel drowsy during the daytime.</li></ul><p>Symptoms come and go at about the same time each year.
+			 For most people with SAD, symptoms start in September or October and end in
+			 April or May. </p><h4>How is SAD diagnosed?</h4><p>It can sometimes be hard to
+			 tell the difference between nonseasonal <a chronic_id="091e9c5e80732fb0" crossLinkId="65" directive="friendlyurl" externalId="091e9c5e80732fb0" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.xml" keywordId="7244" keywordSetId="1082" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.xml">depression</a> and SAD, because many of the
+			 symptoms are the same. To diagnose SAD, your doctor will want to know
+			 if:</p><ul><li> You have been depressed during the same
+				season and have gotten better when the seasons changed for at least 2 years in
+				a row. </li><li> You have symptoms that often occur with SAD, such as being
+				very hungry (especially craving carbohydrates), gaining <a chronic_id="" crossLinkId="50064" directive="friendlyurl" externalId="091e9c5e8001d084" href="/webmd/consumer_assets/controlled_content/healthwise/special/Healthy_Weight-What_Is_a_Healthy_Weight.xml" keywordId="35927" keywordSetId="8910" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/special/Healthy_Weight-What_Is_a_Healthy_Weight.xml">weight</a>, and sleeping
+				more than usual.</li><li> A close relative-a parent, brother, or sister-has
+				had SAD.</li></ul><h4>How is it treated?</h4><p>Doctors often prescribe
+			 <a bookmark="stl158156-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Light_therapy__stl158156.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Light_therapy__stl158156.xml">light therapy</a> to treat SAD. There are two types of
+			 light therapy: </p><ul><li> Bright light treatment. For this treatment,
+				you sit in front of a "light box" for half an hour or longer, usually in the
+				morning.</li><li> Dawn simulation. For this treatment, a dim light goes on
+				in the morning while you sleep, and it gets brighter over time, like a sunrise.
+				</li></ul><p>Light therapy works well for most people with SAD, and it
+			 is easy to use. You may start to feel better within a week or so after you
+			 start light therapy. But you need to stick with it and use it every day until
+			 the season changes. If you don't, your depression could come back. </p><p>Other treatments that may help include:</p><ul><li><a chronic_id="091e9c5e8004c603" crossLinkId="1552" directive="friendlyurl" externalId="091e9c5e8004c603" href="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/indices/depression_medications_antidepressents.xml" keywordId="31048" keywordSetId="8067" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/indices/depression_medications_antidepressents.xml">Antidepressants</a>. These medicines can improve
+				the balance of <a chronic_id="091e9c5e8041fa4e" crossLinkId="73853" directive="friendlyurl" externalId="091e9c5e8041fa4e" href="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml" keywordId="60487" keywordSetId="26677" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.xml">brain</a> chemicals that affect mood.</li><li> Counseling. Some
+				types of counseling, such as
+				<a bookmark="stc17236-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Cognitive-behavioral_therapy.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Cognitive-behavioral_therapy.xml">cognitive-behavioral therapy</a>, can help you learn more
+				about SAD and how to manage your symptoms.</li></ul></section_text></section_group></page><page><section_group><section_header is_continued="true"> continued...</section_header><section_type>Overview</section_type><section_text><p>If your doctor prescribes antidepressants, be sure you
+			 take them the way you are told to. Do not stop taking them just because you
+			 feel better. This could cause side effects or make your depression worse. When
+			 you are ready to stop, your doctor can help you slowly reduce the dose to
+			 prevent problems.</p><p>You may feel better if you get regular <a chronic_id="091e9c5e80044b2e" crossLinkId="501" directive="friendlyurl" externalId="091e9c5e80044b2e" href="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Fitness Center TOC Page/page_Health and Fitness Center_091e9c5e80044b2e.xml" keywordId="35030" keywordSetId="8746" object_type="wbmd_pb_page" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Fitness Center TOC Page/page_Health and Fitness Center_091e9c5e80044b2e.xml">exercise</a>.
+			 Being active during the daytime, especially first thing in the morning, may
+			 help you have more energy and feel less depressed.
+			 <a bookmark="zj1418-sec" document-type="Definition" href="/webmd/consumer_assets/controlled_content/healthwise/definition/Moderate-intensity_aerobic_fitness__zj1418.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/definition/Moderate-intensity_aerobic_fitness__zj1418.xml">Moderate exercise</a> such as walking, riding a stationary
+			 bike, or <a chronic_id="091e9c5e800bfc1f" crossLinkId="16745" directive="friendlyurl" externalId="091e9c5e800bfc1f" href="/webmd/consumer_assets/editorial/articles/features/healthy_living/fitness_and_exercise/Fitness_Basics_Swimming_Is_For_Everyone.xml" keywordId="40287" keywordSetId="9851" object_type="wbmd_cons_article" path="/webmd/consumer_assets/editorial/articles/features/healthy_living/fitness_and_exercise/Fitness_Basics_Swimming_Is_For_Everyone.xml">swimming</a> is a good way to get started.</p><h4>Frequently Asked Questions</h4><table cellpadding="0" cellspacing="0"><tr><td valign="top"><p><b>Learning about <a chronic_id="091e9c5e8001ad41" crossLinkId="48824" directive="friendlyurl" externalId="091e9c5e8001ad41" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Topic_Overview.xml" keywordId="8251" keywordSetId="1833" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Topic_Overview.xml">seasonal affective disorder</a> (SAD):</b></p></td><td valign="top"><ul><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Topic_Overview.xml" directive="friendlyurl" chronic_id="091e9c5e8001ad41" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Topic_Overview.xml">What is seasonal affective disorder (SAD)?</a></li><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Symptoms.xml" directive="friendlyurl" chronic_id="091e9c5e8001ad57" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Symptoms.xml">What are the symptoms?</a></li><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Topic_Overview.xml" directive="friendlyurl" chronic_id="091e9c5e8001ad41" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Topic_Overview.xml">What causes it?</a></li><li><a bookmark="ty4212-sec" document-type="Frame" href="/webmd/consumer_assets/controlled_content/healthwise/frame/Who_is_affected_by_seasonal_affective_disorder_SAD.xml" directive="friendlyurl" chronic_id="091e9c5e8001c9cf" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Who_is_affected_by_seasonal_affective_disorder_SAD.xml">Who gets it?</a></li></ul></td></tr><tr><td valign="top"><p><b>Being diagnosed:</b></p></td><td valign="top"><ul><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Exams_and_Tests.xml" directive="friendlyurl" chronic_id="091e9c5e8001ae8c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Exams_and_Tests.xml">How is SAD diagnosed?</a></li><li><a bookmark="tp16777" document-type="MedicalTest" href="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Mental_Health_Assessment.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/medicaltest/Mental_Health_Assessment.xml">What is a mental health assessment?</a></li></ul></td></tr><tr><td valign="top"><p><b>Getting treatment:</b></p></td><td valign="top"><ul><li><a document-type="Mini" href="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Treatment_Overview.xml" directive="friendlyurl" chronic_id="091e9c5e8001aca5" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Treatment_Overview.xml">How is SAD treated?</a></li><li><a bookmark="tp7002-sec" document-type="Frame" href="/webmd/consumer_assets/controlled_content/healthwise/frame/Antidepressant_medications_for_the_treatment_of_seasonal_affective_disorder_SAD.xml" directive="friendlyurl" chronic_id="091e9c5e8001ba3c" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Antidepressant_medications_for_the_treatment_of_seasonal_affective_disorder_SAD.xml">What medicines will I need to take?</a></li><li><a bookmark="aa111200-sec" document-type="Frame" href="/webmd/consumer_assets/controlled_content/healthwise/frame/Light_therapy.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Light_therapy.xml">What is light therapy?</a></li></ul></td></tr><tr><td valign="top"><p><b>Living with SAD:</b></p></td><td valign="top"><ul><li><a bookmark="ty6703" document-type="Actionset" href="/webmd/consumer_assets/controlled_content/healthwise/actionset/Using_light_therapy_at_home_to_treat_seasonal_affective_disorder_SAD.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/actionset/Using_light_therapy_at_home_to_treat_seasonal_affective_disorder_SAD.xml"><img alt="actionset.gif" border="0" height="27" src="/webmd/consumer_assets/site_images/media/interface/actionset.gif" type="interface" width="78" directive="imageurl" chronic_id="091e9c5e80019c58" object_type="wbmd_cons_img" path="/webmd/consumer_assets/site_images/media/interface/actionset.gif"></a><a bookmark="ty6703" document-type="Actionset" href="/webmd/consumer_assets/controlled_content/healthwise/actionset/Using_light_therapy_at_home_to_treat_seasonal_affective_disorder_SAD.xml" directive="friendlyurl" chronic_id="" object_type="" path="/webmd/consumer_assets/controlled_content/healthwise/actionset/Using_light_therapy_at_home_to_treat_seasonal_affective_disorder_SAD.xml">How do I use light therapy for SAD?</a></li><li><a bookmark="ty4320-sec" document-type="Frame" href="/webmd/consumer_assets/controlled_content/healthwise/frame/How_to_help_a_person_with_SAD.xml" directive="friendlyurl" chronic_id="091e9c5e8001c6d6" object_type="wbmd_cons_article" path="/webmd/consumer_assets/controlled_content/healthwise/frame/How_to_help_a_person_with_SAD.xml">How can I help someone who has SAD?</a></li></ul></td></tr></table></section_text></section_group></page></pages><citations></citations></cons_import_health_ref></content_section></wbmd_asset></content><friendlyurls><target siteid="3" name="WebMD" issearchable="true" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-topic-overview" owner="false"><breadcrumb><bread piece="Mental Health Center" prefix="www" friendlyurl="/mental-health/default.htm"></bread><bread piece="Depression Health Center" prefix="www" friendlyurl="/depression/default.htm"></bread><bread piece="Depression Related Topics" prefix="www" friendlyurl="/depression/tc/default.htm"></bread></breadcrumb><centers><Topic id="1095" name="tmg" chronicid="091e9c5e8001ad41" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-topic-overview" type="Topic">Seasonal Affective Disorder (SAD)</Topic><Health id="1020" name="health center" chronicid="091e9c5e80732fb0" prefix="www" friendlyurl="/depression/default.htm" type="">Depression</Health><Super id="964" name="super center" chronicid="091e9c5e800249f0" prefix="www" friendlyurl="/mental-health/default.htm" type="">Mental Health</Super></centers></target><target siteid="8" name="WebMD_Mobile" issearchable="true" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-topic-overview" owner="false"><breadcrumb><bread piece="Depression Health Center" prefix="www" friendlyurl="/depression/default.htm"></bread><bread piece="Depression Related Topics" prefix="www" friendlyurl="/depression/tc/default.htm"></bread></breadcrumb><centers><Topic id="11068" name="tmg" chronicid="091e9c5e8001ad41" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-topic-overview" type="Topic">Seasonal Affective Disorder (SAD)</Topic><Health id="11065" name="health center" chronicid="091e9c5e80732fb0" prefix="www" friendlyurl="/depression/default.htm" type="">Depression</Health></centers></target></friendlyurls><referenced_objects><object chronic_id="091e9c5e800251e7" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Sleep Disorders Health Center/page_Sleep Disorders Health Center_091e9c5e800251e7.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target><target siteid="8" name="" prefix="www" friendlyurl="/sleep-disorders/default.htm" umtchronicleid="091e9c5e80693f33"></target></object><object chronic_id="091e9c5e80046694" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Diet Center TOC/page_Diet Center_091e9c5e80046694.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/diet/old-diet-toc" umtchronicleid="091e9c5e8068a387"></target><target siteid="8" name="" prefix="www" friendlyurl="/diet/default.htm" umtchronicleid="091e9c5e8068a387"></target></object><object chronic_id="091e9c5e80732fb0" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Depression Health Center_091e9c5e80732fb0/page_Depression Health Center_091e9c5e80732fb0.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/default.htm" umtchronicleid="091e9c5e806934ca"></target><target siteid="8" name="" prefix="www" friendlyurl="/depression/default.htm" umtchronicleid="091e9c5e806934ca"></target></object><object chronic_id="091e9c5e8004c603" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/health_and_medical_reference/indices/depression_medications_antidepressents.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/depression-medications-antidepressants"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/depression-medications-antidepressants"></target></object><object chronic_id="091e9c5e8041fa4e" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/image_collections/anatomy_pages/picture_of_the_brain.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/brain/picture-of-the-brain"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/picture-of-the-brain"></target></object><object chronic_id="091e9c5e80044b2e" thmbnl="" pointer="0" path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Pages/Health and Fitness Center TOC Page/page_Health and Fitness Center_091e9c5e80044b2e.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/fitness-exercise/fitness-toc-old" umtchronicleid="091e9c5e80688e40"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/default.htm" umtchronicleid="091e9c5e80688e40"></target></object><object chronic_id="091e9c5e800bfc1f" thmbnl="" pointer="0" path="/webmd/consumer_assets/editorial/articles/features/healthy_living/fitness_and_exercise/Fitness_Basics_Swimming_Is_For_Everyone.wxml"><target siteid="3" name="" prefix="www" friendlyurl="/fitness-exercise/features/fitness-basics-swimming-is-for-everyone"></target><target siteid="8" name="" prefix="www" friendlyurl="/fitness-exercise/features/fitness-basics-swimming-is-for-everyone"></target></object><object chronic_id="091e9c5e8001ad41" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Topic_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-topic-overview"></target></object><object chronic_id="091e9c5e8001ad57" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Symptoms.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-symptoms"></target></object><object chronic_id="091e9c5e8001c9cf" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Who_is_affected_by_seasonal_affective_disorder_SAD.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/mental-health/who-is-affected-by-seasonal-affective-disorder-sad"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/who-is-affected-by-seasonal-affective-disorder-sad"></target></object><object chronic_id="091e9c5e8001ae8c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Exams_and_Tests.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-exams-and-tests"></target></object><object chronic_id="091e9c5e8001aca5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Treatment_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-treatment-overview"></target></object><object chronic_id="091e9c5e8001ba3c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/frame/Antidepressant_medications_for_the_treatment_of_seasonal_affective_disorder_SAD.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/antidepressant-medications-for-the-treatment-of-seasonal-affective-disorder-sad"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/antidepressant-medications-for-the-treatment-of-seasonal-affective-disorder-sad"></target></object><object chronic_id="091e9c5e8001c6d6" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/frame/How_to_help_a_person_with_SAD.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/mental-health/how-to-help-a-person-with-sad"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/a-to-z-guides/how-to-help-a-person-with-sad"></target></object><object chronic_id="091e9c5e8001ad41" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Topic_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-topic-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-topic-overview"></target></object><object chronic_id="091e9c5e8001ad9d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Health_Tools.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-health-tools"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-health-tools"></target></object><object chronic_id="091e9c5e8001ad57" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Symptoms.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-symptoms"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-symptoms"></target></object><object chronic_id="091e9c5e8001ae8c" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Exams_and_Tests.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-exams-and-tests"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-exams-and-tests"></target></object><object chronic_id="091e9c5e8001aca5" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Treatment_Overview.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-treatment-overview"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-treatment-overview"></target></object><object chronic_id="091e9c5e8001aeac" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Home_Treatment.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-home-treatment"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-home-treatment"></target></object><object chronic_id="091e9c5e8001ada8" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Other_Places_To_Get_Help.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-other-places-to-get-help"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-other-places-to-get-help"></target></object><object chronic_id="091e9c5e8001ab8d" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Related_Information.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-related-information"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-related-information"></target></object><object chronic_id="091e9c5e8001aeea" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-References.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-references"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-references"></target></object><object chronic_id="091e9c5e8001aaf7" thmbnl="" pointer="0" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Credits.wxml"><target siteid="3" name="WebMD" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-credits"></target><target siteid="8" name="WebMD_Mobile" prefix="www" friendlyurl="/depression/tc/seasonal-affective-disorder-sad-credits"></target></object></referenced_objects><container_hierarchy></container_hierarchy><topic_outline chronic_id="091e9c5e80023614" path="/webmd/consumer_assets/controlled_content/healthwise/toc/mini/Seasonal_Affective_Disorder_SAD-TOC.wxml"></topic_outline><expanded_objects></expanded_objects><cons_topic_outline><section_groups><section_group><section_title>Topic Overview</section_title><section_type>Overview</section_type><section_link directive="article" chronic_id="091e9c5e8001ad41" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Topic_Overview.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Health Tools</section_title><section_type>HealthTools</section_type><section_link directive="article" chronic_id="091e9c5e8001ad9d" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Health_Tools.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Symptoms</section_title><section_type>Symptoms</section_type><section_link directive="article" chronic_id="091e9c5e8001ad57" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Symptoms.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Exams and Tests</section_title><section_type>ExamsAndTests</section_type><section_link directive="article" chronic_id="091e9c5e8001ae8c" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Exams_and_Tests.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Treatment Overview</section_title><section_type>TreatmentOverview</section_type><section_link directive="article" chronic_id="091e9c5e8001aca5" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Treatment_Overview.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Home Treatment</section_title><section_type>HomeTreatment</section_type><section_link directive="article" chronic_id="091e9c5e8001aeac" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Home_Treatment.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Other Places To Get Help</section_title><section_type>ConsumerResource</section_type><section_link directive="article" chronic_id="091e9c5e8001ada8" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Other_Places_To_Get_Help.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Related Information</section_title><section_type>RelatedInformation</section_type><section_link directive="article" chronic_id="091e9c5e8001ab8d" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Related_Information.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>References</section_title><section_type>References</section_type><section_link directive="article" chronic_id="091e9c5e8001aeea" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-References.xml" object_type="wbmd_cons_article"></section_link></section_group><section_group><section_title>Credits</section_title><section_type>Credits</section_type><section_link directive="article" chronic_id="091e9c5e8001aaf7" path="/webmd/consumer_assets/controlled_content/healthwise/mini/Seasonal_Affective_Disorder_SAD-Credits.xml" object_type="wbmd_cons_article"></section_link></section_group></section_groups></cons_topic_outline><title>Seasonal Affective Disorder (SAD)</title></webmd_rendition>
+--> 
+   <div class="article_rdr">
+    <div id="textArea" class="copyNormal">
+     <div class="share_bar">
+      <script>webmd.m.share.init();</script>
+     </div>
+     <div class="font_sizer_fmt rs_skip">
+      <div class="font_sizer_text_fmt">
+       Font Size
+      </div>
+      <div class="font_sizer_001_fmt"></div>
+      <div id="fs_01" class="font_sizer_002b_fmt">
+       <a class="copyA_fmt" href="javascript:setClass('textArea', 'copyNormal');javascript:setClass('fs_01', 'font_sizer_002b_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_02" class="font_sizer_002a_fmt">
+       <a class="copyB_fmt" href="javascript:setClass('textArea', 'copyMedium');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002b_fmt');javascript:setClass('fs_03', 'font_sizer_002a_fmt');">A</a>
+      </div>
+      <div id="fs_03" class="font_sizer_002a_fmt">
+       <a class="copyC_fmt" href="javascript:setClass('textArea', 'copyLarge');javascript:setClass('fs_01', 'font_sizer_002a_fmt');javascript:setClass('fs_02', 'font_sizer_002a_fmt');javascript:setClass('fs_03', 'font_sizer_002b_fmt');">A</a>
+      </div>
+      <div class="font_sizer_003_fmt"></div>
+     </div>
+     <div class="font_sizer">
+      <script>webmd.m.fontSizer.init();</script>
+     </div>
+     <h2>Seasonal Affective Disorder (SAD) - Topic Overview</h2>
+     <div class="hwDefinition_fmt">
+      <a name="hw169555"></a>
+      <h4>What is seasonal affective disorder (SAD)?</h4>
+      <p>Seasonal affective disorder, or SAD, is a type of depression that affects a person during the same season each year. If you get depressed in the winter but feel much better in spring and summer, you may have SAD. </p>
+      <p>Anyone can get SAD, but it is more common in:</p>
+      <ul>
+       <li> People who live in areas where winter days are very short or there are big changes in the amount of daylight in different seasons.</li>
+       <li> Women.</li>
+       <li> People between the ages of 15 and 55. The risk of getting SAD for the first time goes down as you age.</li>
+       <li> People who have a close relative with SAD.</li>
+      </ul>
+      <h4>What causes SAD?</h4>
+      <p>Experts are not sure what causes SAD, but they think it may be caused by a lack of sunlight. Lack of light may upset your <a href="http://www.webmd.com/sleep-disorders/default.htm" onclick="return sl(this,'','embd-lnk');">sleep</a>-wake cycle and other circadian rhythms. And it may cause problems with a brain chemical called serotonin that affects mood.</p>
+      <h4>What are the symptoms?</h4>
+      <p>If you have SAD, you may:</p>
+      <ul>
+       <li> Feel sad, grumpy, moody, or anxious.</li>
+       <li> Lose interest in your usual activities.</li>
+       <li> Eat more and crave carbohydrates, such as bread and pasta.</li>
+       <li><a href="http://www.webmd.com/diet/old-diet-toc" onclick="return sl(this,'','embd-lnk');">Gain weight</a>.</li>
+       <li> Sleep more and feel drowsy during the daytime.</li>
+      </ul>
+      <p>Symptoms come and go at about the same time each year. For most people with SAD, symptoms start in September or October and end in April or May. </p>
+      <h4>How is SAD diagnosed?</h4>
+      <p>It can sometimes be hard to tell the difference between nonseasonal <a href="http://www.webmd.com/depression/default.htm" onclick="return sl(this,'','embd-lnk');">depression</a> and SAD, because many of the symptoms are the same. To diagnose SAD, your doctor will want to know if:</p>
+      <ul>
+       <li> You have been depressed during the same season and have gotten better when the seasons changed for at least 2 years in a row. </li>
+       <li> You have symptoms that often occur with SAD, such as being very hungry (especially craving carbohydrates), gaining weight, and sleeping more than usual.</li>
+       <li> A close relative-a parent, brother, or sister-has had SAD.</li>
+      </ul>
+      <h4>How is it treated?</h4>
+      <p>Doctors often prescribe light therapy to treat SAD. There are two types of light therapy: </p>
+      <ul>
+       <li> Bright light treatment. For this treatment, you sit in front of a &quot;light box&quot; for half an hour or longer, usually in the morning.</li>
+       <li> Dawn simulation. For this treatment, a dim light goes on in the morning while you sleep, and it gets brighter over time, like a sunrise. </li>
+      </ul>
+      <p>Light therapy works well for most people with SAD, and it is easy to use. You may start to feel better within a week or so after you start light therapy. But you need to stick with it and use it every day until the season changes. If you don't, your depression could come back. </p>
+      <p>Other treatments that may help include:</p>
+      <ul>
+       <li><a href="http://www.webmd.com/depression/depression-medications-antidepressants" onclick="return sl(this,'','embd-lnk');">Antidepressants</a>. These medicines can improve the balance of <a href="http://www.webmd.com/brain/picture-of-the-brain" onclick="return sl(this,'','embd-lnk');">brain</a> chemicals that affect mood.</li>
+       <li> Counseling. Some types of counseling, such as cognitive-behavioral therapy, can help you learn more about SAD and how to manage your symptoms.</li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt"></div>
+     <div class="right_fmt">
+      <span class="current_fmt">1</span>
+      <span class="pipe_fmt">|</span>
+      <a href="?page=2">2</a>
+      <div class="outline_fmt right">
+       <a href="?page=2">Next Page <span class="symbol_fmt">&gt;</span></a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attributionTR_rdr">
+    <div class="pagination_fmt">
+     <div class="left_fmt">
+      <div class="outline_fmt">
+       <a href=""> &lt; Previous </a>
+      </div>
+     </div>
+     <div class="right_fmt">
+      <span class="pages_fmt"><span class="current_fmt">1</span><span class="pipe_fmt">|</span><a href="?page=2">2</a></span>
+      <div class="outline_fmt right">
+       <a href="?page=2"> Next <span class="symbol_fmt">&gt;</span></a>
+      </div>
+      <style type="text/css">
+								.pagination_fmt .pages_fmt { display: none; }
+                                .articlesPulldownWide_fmt { display: none; }
+                                .topicArtNav_rdr { display: none; }
+								.attribution_rdr .pagination_fmt { display: none; }
+                                </style>
+     </div>
+    </div>
+   </div>
+   <script>$(function() {
+
+	var currentPage = 1, ct = 0, currentTopic, a_hrefr, a_hrefl, pageParam, totalPages = 1, topics = [];
+	
+	/* set currentPage */
+	pageParam = parseInt( webmd.url.getParam("page") );
+	if ( pageParam ) {
+		currentPage = pageParam;
+	}
+	
+	/* set topics */
+	
+			topics.push({
+			title : 'Topic Overview',
+			href : 'http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-topic-overview'
+			});
+            
+			topics.push({
+			title : 'Health Tools',
+			href : 'http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-health-tools'
+			});
+            
+			topics.push({
+			title : 'Symptoms',
+			href : 'http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-symptoms'
+			});
+            
+			topics.push({
+			title : 'Exams and Tests',
+			href : 'http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-exams-and-tests'
+			});
+            
+			topics.push({
+			title : 'Treatment Overview',
+			href : 'http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-treatment-overview'
+			});
+            
+			topics.push({
+			title : 'Home Treatment',
+			href : 'http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-home-treatment'
+			});
+            
+			topics.push({
+			title : 'Other Places To Get Help',
+			href : 'http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-other-places-to-get-help'
+			});
+            
+			topics.push({
+			title : 'Related Information',
+			href : 'http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-related-information'
+			});
+            
+			topics.push({
+			title : 'References',
+			href : 'http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-references'
+			});
+            
+			topics.push({
+			title : 'Credits',
+			href : 'http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-credits'
+			});
+            	
+	
+	/* set Current topic */	
+	jQuery.each(topics, function(i, val) {
+    if (window.location.href.indexOf(topics[i].href) > -1){
+	   currentTopic = i;
+	   }
+    });
+	
+
+	/* if on the first article in a set, remove the previous navigation */
+		if ( currentTopic == 0 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").hide();
+		}
+		if ( window.location.href.indexOf("page=") > 1 ) {
+			$(".pagination_fmt .left_fmt .outline_fmt").show();
+		}
+
+	
+	/* if on the last article in a set, remove the next navigation */
+	if ( (currentTopic + 1) == topics.length) {
+			$(".pagination_fmt .right_fmt .outline_fmt").hide();
+		
+		}
+
+/* Inserting Previous */
+   if (currentTopic != 0){
+   var a_hrefl = $('.pagination_fmt .left_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefl) === "undefined"){
+   	$(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , a_hrefl);
+   } else {
+    $(".pagination_fmt .left_fmt .outline_fmt a").attr("href" , topics[currentTopic - 1].href);
+    }
+    }
+
+
+		
+	/* Inserting Next */
+   if ( (currentTopic + 1) != topics.length ) {
+   var a_hrefr = $('.pagination_fmt .right_fmt .outline_fmt a').attr('href');
+   if (typeof(a_hrefr) === "undefined"){
+   $(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , a_hrefr);
+   }
+   else if ( window.location.href.indexOf("check-your-symptoms") > -1 ) {
+			$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);
+		}
+   else if (a_hrefr.indexOf('page') != -1 ) {}
+   else {$(".pagination_fmt .right_fmt .outline_fmt a").attr("href" , topics[currentTopic + 1].href);}
+	}
+   
+			
+	/* Secondary pages with no data move to the next page.  */
+			
+	/* adding metrics to nav */
+	$(".right_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_next');
+	});
+	$(".left_fmt a").on("click", function() {
+		return sl(this,'','pagenum-art_prev');
+	});
+	
+});</script>
+   <div class="moduleSpacer_rdr"></div>
+   <div class="attribution_rdr">
+    <div class="medicalRef_fmt">
+     <p>WebMD Medical Reference from Healthwise</p>
+     <div class="clearBoth_fmt"></div>
+    </div>
+    <div class="sources_fmt">
+     Last Updated: July 07, 2010
+    </div>
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div>
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div>
+    <div class="basefooter_fmt"></div>
+   </div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div class="articlesPulldown_fmt articlesPulldownWide_fmt">
+    <script type="text/javascript" language="javascript">
+        var externalUrlList = new Array(
+      'xxx');
+    </script>
+    <form onsubmit="return submitNavForm(externalUrlList,'NextTopicPulldown',true)">
+      Next Article: 
+     <select name="next_pulldown" id="NextTopicPulldown" class="pulldown_fmt"><option value="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-topic-overview">Topic Overview</option><option value="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-health-tools">Health Tools</option><option value="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-symptoms">Symptoms</option><option value="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-exams-and-tests">Exams and Tests</option><option value="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-treatment-overview">Treatment Overview</option><option value="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-home-treatment">Home Treatment</option><option value="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-other-places-to-get-help">Other Places To Get Help</option><option value="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-related-information">Related Information</option><option value="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-references">References</option><option value="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-credits">Credits</option></select>
+     <input class="submit-btn_fmt" name="submit" value="" alt="Go" type="submit" />
+    </form>
+   </div>
+   <script type="text/javascript" language="JavaScript">
+        selectNextArticle('NextTopicPulldown',s_furl.toLowerCase());
+    </script>
+   <div class="topicArtNav_rdr" id="TopicListCenter">
+    <h4>Seasonal Affective Disorder (SAD) Topics </h4>
+    <div class="dash_fmt"></div>
+    <div class="leftCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-topic-overview" onclick="return sl(this,'','topicNav_1');" title="Topic Overview">Topic Overview</a></li>
+      <li><a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-health-tools" onclick="return sl(this,'','topicNav_2');" title="Health Tools">Health Tools</a></li>
+      <li><a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-symptoms" onclick="return sl(this,'','topicNav_3');" title="Symptoms">Symptoms</a></li>
+      <li><a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-exams-and-tests" onclick="return sl(this,'','topicNav_4');" title="Exams and Tests">Exams and Tests</a></li>
+      <li><a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-treatment-overview" onclick="return sl(this,'','topicNav_5');" title="Treatment Overview">Treatment Overview</a></li>
+     </ul>
+    </div>
+    <div class="rightCol_fmt">
+     <ul>
+      <li><a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-home-treatment" onclick="return sl(this,'','topicNav_6');" title="Home Treatment">Home Treatment</a></li>
+      <li><a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-other-places-to-get-help" onclick="return sl(this,'','topicNav_7');" title="Other Places To Get Help">Other Places To Get Help</a></li>
+      <li><a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-related-information" onclick="return sl(this,'','topicNav_8');" title="Related Information">Related Information</a></li>
+      <li><a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-references" onclick="return sl(this,'','topicNav_9');" title="References">References</a></li>
+      <li><a href="http://www.webmd.com/depression/tc/seasonal-affective-disorder-sad-credits" onclick="return sl(this,'','topicNav_10');" title="Credits">Credits</a></li>
+     </ul>
+    </div>
+   </div>
+   <script language="javascript" type="text/javascript">
+        highlightCenter();
+  </script>
+   <div class="moduleSpacer_rdr"></div>
+   <div id="remoteAd_rdr">
+    <div class="centerAd_r1_rdr">
+     <div class="centerAd_BG_fmt">
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div>
+      <div class="remoteAd_top_fmt"></div>
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt">
+       <div class="ad_placeholder"></div>
+      </div>
+      <div class="remoteAd_bottom_fmt"></div>
+     </div>
+    </div>
+    <div class="moduleSpacer_rdr"></div>
+   </div>
+   <div id="triggerFlyin"></div>
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script>
+   <div class="moduleSpacer_rdr"></div>
+   <script language="javascript1.2" type="text/javascript">
+        /* Array of Partner Names */
+        var partnerNames=[
+        "Good Housekeeping",
+        "Redbook",
+        "Esquire",
+        "Country Living",
+        "Marie Claire",
+        "Oxmoor House",
+        "\"Health",
+        "Southern Living",
+        "Psychology Today",
+        "EatingWell",
+        "DrGreene.com",
+        "Men's Health",
+        "Women's Health",
+        "Prevention",
+        "eDiets",
+        "Feature from \"body",
+        "Runner's World",
+        "Men's Fitness\" Magazine",
+        "Shape\" Magazine",
+        "Fit Pregnancy\" Magazine",
+        "Natural Health\" Magazine",
+        "\"Best Life\" Magazine"
+        ]
+
+        /* Array of names that go with files in partners node */
+        var partnerScripts=[
+        "goodHousekeeping",
+        "redbook",
+        "esquire",
+        "countryLiving",
+        "marieClaire",
+        "cookingLight",
+        "health",
+        "southernLiving",
+        "psychToday",
+        "eatingWell",
+        "drGreene",
+        "mensHealth",
+        "womensHealth",
+        "prevention",
+        "eDiets",
+        "bodySoul",
+        "runnersWorld",
+        "mensFitness",
+        "shapeMag",
+        "fitPregnancy",
+        "naturalHealth",
+        "bestLife"
+        ]
+
+        /* Variables for whether a partner exists and which one in the array it is */
+        var isThere;
+        var whichOne = -1;
+
+        /* Pulls the pub source out of the XML */
+        var pubSource = 'Healthwise - Mini';
+
+        /* Runs through the different partners and sees if one of them exists in the pub source */
+        for (var i=0; i <= partnerNames.length-1; i++) {
+          isThere = pubSource.search(partnerNames[i]);
+          if (isThere != -1)
+            {whichOne = i}
+        }
+
+        /* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+        if (whichOne != -1) {
+
+          document.write('<scr' + 'ipt src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js"' + '></scr' + 'ipt>');
+
+          var moduleCenter = "ContentPane8";
+          var moduleRight = "ContentPane25";
+
+          addLoadEvent(function() {
+              document.getElementById(moduleCenter).innerHTML += writePartnerCenter();
+              document.getElementById(moduleRight).innerHTML = writePartnerRight() + document.getElementById(moduleRight).innerHTML;
+          })
+
+        }
+
+      </script>
+   <script type="text/javascript">
+        if (document.getElementById("headerLinks_print")) {
+        setClass('headerLinks_print','headerLinks_fmt_on');
+        };
+      </script>
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" />
+   <style media="screen">
+        #url_reference {display: none};
+        </style>
+   <style media="print">
+        #url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+        #logo_rdr img { visibility: visible; }
+        .titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+        </style>
+   <script type="text/javascript">
+          var insert1 = document.getElementById("ContentPane2");
+          var urlDiv = articleUrl();
+          if (insert1) {
+            insert1.appendChild(urlDiv);
+            }
+        </script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11">
+   <div class="related_reading_rdr" id="rltd-p-1032"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://www.webmd.com/depression/guide/optimizing-depression-medicines" onclick="return sl(this,'','rltd-p-1032_1');">What Is Major Depression?</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/depression/managing-the-side-effects-of-antidepressants" onclick="return sl(this,'','rltd-p-1032_2');">Dealing With Antidepressant Side Effects</a> </li> 
+     <li id="x64"> <a href="http://www.webmd.com/depression/guide/major-depression" onclick="return sl(this,'','rltd-p-1032_3');">Major Depression</a> </li> 
+     <li id="x65"> <a href="http://men.webmd.com/erectile-dysfunction-11/myths-and-facts" onclick="return sl(this,'','rltd-p-1032_4');">Erectile Dysfunction: Myths &amp; Facts</a> </li> 
+     <li id="x66"> <a href="http://teens.webmd.com/features/teen-depression" onclick="return sl(this,'','rltd-p-1032_5');">Teens &amp; Depression: Not Just a Bad Mood</a> </li> 
+     <li id="x67" class="last"> <a href="http://www.webmd.com/depression/guide/causes-depression" onclick="return sl(this,'','rltd-p-1032_6');">Causes of Depression</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1032_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+  </div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17"></div> 
+  <div id="ContentPane18">
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=677359721&amp;tile=253125222&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1020&amp;scent=964&amp;pos=5000&amp;xpg=1663&amp;sec=8006&amp;au1=1&amp;au2=1&amp;uri=%2fdepression%2ftc%2fseasonal-affective-disorder-sad-topic-overview&amp;artid=091e9c5e8001ad41&amp;inst=0&amp;leaf=1095&amp;cc=16&amp;tmg=1&amp;bc=_cust4_a080_f335_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=677359721&amp;amp;tile=253125222&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1020&amp;amp;scent=964&amp;amp;pos=5000&amp;amp;xpg=1663&amp;amp;sec=8006&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fdepression%2ftc%2fseasonal-affective-disorder-sad-topic-overview&amp;amp;artid=091e9c5e8001ad41&amp;amp;inst=0&amp;amp;leaf=1095&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_cust4_a080_f335_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1663";
+			var secTopId = "8006";
+		</script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=677359721&amp;tile=253125222&amp;tug=&amp;pug=__&amp;site=2&amp;affiliate=20&amp;hcent=1020&amp;scent=964&amp;pos=5001&amp;xpg=1663&amp;sec=8006&amp;au1=1&amp;au2=1&amp;uri=%2fdepression%2ftc%2fseasonal-affective-disorder-sad-topic-overview&amp;artid=091e9c5e8001ad41&amp;inst=0&amp;leaf=1095&amp;cc=16&amp;tmg=1&amp;bc=_cust4_a080_f335_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=677359721&amp;amp;tile=253125222&amp;amp;tug=&amp;amp;pug=__&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1020&amp;amp;scent=964&amp;amp;pos=5001&amp;amp;xpg=1663&amp;amp;sec=8006&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fdepression%2ftc%2fseasonal-affective-disorder-sad-topic-overview&amp;amp;artid=091e9c5e8001ad41&amp;amp;inst=0&amp;amp;leaf=1095&amp;amp;cc=16&amp;amp;tmg=1&amp;amp;bc=_cust4_a080_f335_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1663";
+			var secTopId = "8006";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

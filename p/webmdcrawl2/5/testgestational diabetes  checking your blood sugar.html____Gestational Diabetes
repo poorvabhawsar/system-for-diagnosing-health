@@ -1,0 +1,883 @@
+<title>Gestational Diabetes: Checking Your Blood Sugar</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/diabetes/diabetes-health-check/diabetes-health-check-old" onclick="return sl(this,'','lln-toolsres_1');">Is Your Diabetes Under Control?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Tips: Stay Healthy With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853920" onclick="return sl(this,'','lln-toolsres_3');">How to Count Carbs With Diabetes</a></li>
+      <li id="x59"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/preventing-complications" onclick="return sl(this,'','lln-toolsres_4');">Preventing Diabetes Complications</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853926" onclick="return sl(this,'','lln-toolsres_5');">Diabetes Menu Plan</a></li>
+      <li id="x61"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/taking-care" onclick="return sl(this,'','lln-toolsres_6');">4 Every Day Tips for Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="actionset"> 
+    <div class="action_top"> 
+    </div> 
+    <div class="action_mid"> 
+     <div class="page page_1"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 1 of 6
+       </div> 
+       <a href="#6" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#2" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Gestational Diabetes: Checking Your Blood Sugar
+       </div> 
+       <div class="as_content"> 
+        <p>If you have <a href="http://www.webmd.com/baby/guide/understanding-gestational-diabetes-basics" onclick="return sl(this,'','embd-lnk');">gestational diabetes</a>, you need to know when your <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> sugar level is outside the <a href="http://www.webmd.com/diabetes/tc/diabetes-blood-sugar-levels-topic-overview" onclick="return sl(this,'','embd-lnk');">target range</a>. Fortunately, you can see what your <a href="http://www.webmd.com/diabetes/blood-glucose" onclick="return sl(this,'','embd-lnk');">blood sugar</a> level is anywhere and anytime by using a home blood sugar meter. Within a minute or two, you can know what your blood sugar level is.</p> 
+        <h4>Key points</h4> 
+        <ul> 
+         <li>Knowing your blood sugar level helps you treat low or high blood sugar before it becomes an emergency.</li> 
+         <li>Knowing your blood sugar level also helps you know how <a href="http://www.webmd.com/fitness-exercise/default.htm" onclick="return sl(this,'','embd-lnk');">exercise</a> and food affect your blood sugar and how much <a href="http://www.webmd.com/hw-popup/insulin" onclick="return sl(this,'hw','embd-lnk');">insulin</a> to take (if you take <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-5233-Insulin+Regular+Human+Inj.aspx?drugid=5233&amp;drugname=Insulin+Regular+Human+Inj">insulin</a>). </li> 
+         <li>Checking your blood sugar helps you feel more in control of your <a href="http://www.webmd.com/diabetes/default.htm" onclick="return sl(this,'','embd-lnk');">diabetes</a> during your <a href="http://www.webmd.com/baby/default.htm" onclick="return sl(this,'','embd-lnk');">pregnancy</a>.</li> 
+         <li>Four keys to success in monitoring your blood sugar are: 
+          <ul>
+           <li>Keep your meter and supplies with you at all times.</li>
+           <li>Make it a habit to check your blood sugar level. Build it into your routine.</li>
+           <li>Prick the sides of your fingers, not the tips. The tip of a finger is more sensitive than its sides.</li>
+           <li>Check your blood sugar meter's accuracy when you visit your doctor. Compare your results with your doctor's results.</li>
+          </ul></li> 
+        </ul> 
+        <p> <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/what.gif" alt="what.gif" align="" style="" /> </a>&nbsp;<a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">What is home blood sugar monitoring?</a><br /><a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">Why monitor your blood sugar?</a><br /><a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">How to test your blood sugar</a><br /><a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br /></p> 
+        <ul> 
+         <li> <a href="http://www.webmd.com/diabetes/tc/type-1-diabetes-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 1 Diabetes</a> </li> 
+         <li> <a href="http://www.webmd.com/diabetes/tc/type-2-diabetes-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 2 Diabetes</a> </li> 
+         <li> <a href="http://www.webmd.com/baby/tc/gestational-diabetes-topic-overview" onclick="return sl(this,'','embd-lnk');">Gestational Diabetes</a> </li> 
+        </ul> 
+        <div class="NoWebPrint"> 
+         <ul> 
+          <li> <a href="http://www.webmd.com/baby/tc/gestational-diabetes-home-treatment" onclick="return sl(this,'','embd-lnk');">Gestational Diabetes</a> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#2" class="ac_next">What is home blood sugar monitoring?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_2" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 2 of 6
+       </div> 
+       <a href="#1" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#3" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        What is home blood sugar monitoring?
+       </div> 
+       <div class="as_content"> 
+        <p>You need to check your blood sugar every day to make sure it is staying in a target range. If it is staying too high, you may need to adjust your treatment, or you may need to start taking insulin if you are not taking it already. You can know what your blood sugar level is at any time by using a home blood sugar meter. This is often referred to as home blood sugar monitoring or self-testing. </p> 
+        <p>You will need to test your blood sugar if you feel faint, dizzy, unusually tired, nervous, or jittery; if you break out in a cold sweat; if you have a <a href="http://www.webmd.com/migraines-headaches/default.htm" onclick="return sl(this,'','embd-lnk');">headache</a>; and/or if you feel sick to your <a href="http://www.webmd.com/digestive-disorders/picture-of-the-stomach" onclick="return sl(this,'','embd-lnk');">stomach</a>.</p> 
+        <p>If you are using an insulin pump or if you use insulin more than once a day, you will need to test your blood sugar often. The number of times that you test may change every day, depending on when you eat, what you do, and how you feel. For example, you may need to test your blood sugar 5 times one day and 10 times the next day.</p> 
+        <p>To <a href="http://www.webmd.com/diabetes/measuring-your-blood-sugar" onclick="return sl(this,'','embd-lnk');">test your blood sugar level</a> <a href="http://www.webmd.com/diabetes/measuring-your-blood-sugar" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/slideshow.gif" alt="slideshow.gif" align="" style="" /></a> using a blood sugar meter, prick your finger with a small needle called a lancet to collect a drop of blood. Follow the instructions to prepare your test strip and meter to receive the blood sample. Within a few seconds to 2 minutes, the meter shows the results of your test. </p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Home blood sugar monitoring involves:</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0What');" />Testing the amount of sugar in a sample of blood drawn from a vein.
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0What');" />Testing the amount of sugar in a drop of blood from your finger.
+          <br />
+          <input type="radio" name="answer_0" value="2" onclick="gradeAnswer(this.value, 'answer0What');" />Testing the amount of sugar in a urine sample.
+         </form> 
+         <a name="fms_answer4"> </a> 
+         <div id="answer0What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />You don't have to draw blood from a vein to do home blood sugar monitoring. Home blood sugar monitoring involves using a drop of blood from your finger.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Home blood sugar monitoring does involve using a drop of blood from your finger.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Home blood sugar monitoring doesn't involve testing the amount of sugar in a urine sample. It involves using a drop of blood from your finger.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">Why monitor your blood sugar?</a><br />Return to <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">Gestational Diabetes: Checking Your Blood Sugar</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#3" class="ac_next">Why monitor your blood sugar?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_3" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 3 of 6
+       </div> 
+       <a href="#2" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#4" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Why monitor your blood sugar?
+       </div> 
+       <div class="as_content"> 
+        <p>Monitoring your blood sugar level at home helps put your mind at ease by helping you:</p> 
+        <ul> 
+         <li>Know when your blood sugar is low. Most women who have gestational diabetes do not experience low <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/diabetes/blood-glucose">blood sugar levels</a>. If your blood sugar drops just below your target level and you quickly eat something that contains sugar, your blood sugar will not drop to a level that is dangerous for you and your baby.</li> 
+         <li>Know when your blood sugar is high. Frequent high blood sugar levels may lead to <a href="http://www.webmd.com/hw-popup/high-blood-pressure-hypertension" onclick="return sl(this,'hw','embd-lnk');">high blood pressure</a>, your baby growing too large to be delivered naturally, and your baby having <a href="http://www.webmd.com/diabetes/diabetes-hypoglycemia" onclick="return sl(this,'','embd-lnk');">low blood sugar</a> levels (<a href="http://www.webmd.com/hw-popup/hypoglycemia" onclick="return sl(this,'hw','embd-lnk');">hypoglycemia</a>) soon after birth.</li> 
+         <li>Know what your blood sugar level is before a meal. If you take insulin, you can use your results to determine how much insulin to take.</li> 
+         <li>Know how exercise affects your blood sugar. Exercise usually lowers your blood sugar level.</li> 
+         <li>Know what your blood sugar is when you are sick. Severe illness or stress usually causes higher-than-normal blood sugar levels.</li> 
+         <li>Know when the foods you eat or the amount of insulin you take (if you take insulin) needs to be adjusted. </li> 
+        </ul> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Home blood sugar monitoring helps you know how exercise has affected your blood sugar.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0Why');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0Why');" />False
+         </form> 
+         <a name="fms_answer2"> </a> 
+         <div id="answer0Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Home blood sugar monitoring does help you know how exercise has affected your blood sugar. Checking your blood sugar after exercising will help you know whether your blood sugar levels are staying within a target range.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Home blood sugar monitoring does help you know how exercise has affected your blood sugar. Checking your blood sugar after exercising will help you know whether your blood sugar levels are staying within a target range.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">How to test your blood sugar</a><br />Return to <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">Gestational Diabetes: Checking Your Blood Sugar</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#4" class="ac_next">How to test your blood sugar<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_4" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 4 of 6
+       </div> 
+       <a href="#3" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#5" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        How to test your blood sugar
+       </div> 
+       <div class="as_content"> 
+        <p>Here is a simple way to monitor your blood sugar at home.</p> 
+        <h4>Get organized</h4> 
+        <p>Before you start testing your blood sugar:</p> 
+        <ul> 
+         <li>Talk with your doctor about how often and when you should test. Record this information on the <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa95576.pdf">blood sugar testing times form</a><span class="NoWebPrint"><a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa95576.pdf"></a></span><span class="NoWebPrint"><span class="Size1">(What is a <a href="http://www.webmd.com/hw-popup/pdf-document" onclick="return sl(this,'hw','embd-lnk');">PDF</a> document?)</span></span>.</li> 
+         <li>Link testing your blood sugar with other daily activities, such as preparing <a href="http://www.webmd.com/food-recipes/most-important-meal" onclick="return sl(this,'','embd-lnk');">breakfast</a>. This will help you establish the habit of self-testing.</li> 
+         <li>Use the <a href="http://www.webmd.com/diabetes/list-of-supplies-for-testing-blood-sugar" onclick="return sl(this,'hw','embd-lnk');">list of supplies</a> to gather the things you need to test your blood sugar. Keep your supplies together so that you can do a test quickly if you need to.</li> 
+         <li>Check your equipment before doing each test. 
+          <ul>
+           <li>Check the expiration date on your testing strips. If you use test strips after the expiration date, you may not get accurate results.</li>
+           <li>Make sure the code numbers on the testing strips bottle match the numbers on your meter. If the numbers do not match, follow the instructions that come with your meter for changing the code numbers.</li>
+           <li>Check the accuracy of your meter's results. Use the sugar control solution made by your meter's manufacturer. Follow the instructions that came with your meter for using the control solution.</li>
+          </ul></li> 
+         <li>Take care of your equipment. Put a copy of the <a href="http://www.webmd.com/a-to-z-guides/diabetes-care-of-blood-sugar-test-supplies-topic-overview" onclick="return sl(this,'','embd-lnk');">care of blood sugar supplies</a> with your bag or kit to remind you.</li> 
+        </ul> 
+        <h4>Do the test</h4> 
+        <p>The more often you <a href="http://www.webmd.com/diabetes/measuring-your-blood-sugar" onclick="return sl(this,'','embd-lnk');">test your blood sugar</a> <a href="http://www.webmd.com/diabetes/measuring-your-blood-sugar" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/slideshow.gif" alt="slideshow.gif" align="" style="" /></a>, the more you will know about how well your treatment is working. </p> 
+        <p>Follow these steps when you test your blood sugar:</p> 
+        <ol> 
+         <li>Wash your hands with warm soapy water, and dry them well with a clean towel.</li> 
+         <li>Put a clean needle (lancet) in the lancet device. The lancet device is a pen-sized holder for the lancet. It holds and positions the lancet and controls how deeply the lancet goes into your <a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-the-skin" onclick="return sl(this,'','embd-lnk');">skin</a>.</li> 
+         <li>Get a test strip from your bottle of testing strips. Put the lid back on the bottle immediately to prevent moisture from affecting your other strips.</li> 
+         <li>Get your blood sugar meter ready. Follow the manufacturer's instructions for your specific meter.</li> 
+         <li>Use the lancet device to stick the side of your fingertip with the lancet.</li> 
+         <li>Put a drop of blood on the correct spot of the test strip, covering the test area well.</li> 
+         <li>Using a clean cotton ball, apply pressure to the place where you stuck your finger to stop the bleeding.</li> 
+         <li>Wait for the results. Some meters take only a few seconds to give you the results.</li> 
+        </ol> 
+        <h4>Record the results</h4> 
+        <p>Recording your blood sugar results is very important. Your doctor will use this record to see how well your treatment is working and to know if anything needs to be changed or if insulin needs to be started. Be sure to take your record with you on each visit to your doctor or diabetes educator.</p> 
+        <p>To record your results, you can:</p> 
+        <ul> 
+         <li>Use a <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_tb1867.pdf">blood sugar diary</a><span class="NoWebPrint"><a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_tb1867.pdf"></a></span><span class="NoWebPrint"><span class="Size1">(What is a <a href="http://www.webmd.com/hw-popup/pdf-document" onclick="return sl(this,'hw','embd-lnk');">PDF</a> document?)</span></span>. You can record other information such as your exercise and what you have eaten.</li> 
+         <li>Use your blood sugar meter, if possible. Some blood sugar meters can store blood sugar results, and some can calculate your average blood sugar for a period of time, such as over a few weeks or a month. Also, some blood sugar meters can transmit your results over the Internet to websites that store and track your results.</li> 
+        </ul> 
+        <h4>Preventing sore fingers</h4> 
+        <p>Your fingertips may get sore from testing your blood sugar so often. Here are some tips to help prevent sore fingers:</p> 
+        <ul> 
+         <li>Do not prick the tip of your finger. It is more painful and harder to get enough blood to do the test accurately. Also, do not prick your toes, because your <a href="http://www.webmd.com/pain-management/picture-of-the-feet" onclick="return sl(this,'','embd-lnk');">feet</a> can become infected.</li> 
+         <li>Don't squeeze your fingertip. If you have trouble getting a drop of blood large enough to cover the test area of the strip, hang your hand down below your waist and count to 5, or place your finger in warm water for a minute or so.</li> 
+         <li>Use a different finger each time. Set a pattern for which finger you stick so that you will not use some fingers more than others. Avoid for a few days any fingers that are sore.</li> 
+         <li>Use a different lancet. Some lancet devices can be set to prick your skin deeply or lightly depending on the thickness of your skin and where on your body you are getting the blood. If you use your lancet more than once, it will get more dull each time, which can be more painful. It is recommended you only use your lancet once and then throw it away.</li> 
+        </ul> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>To test your blood sugar, you need to put a drop of blood on the test strip used with your home blood sugar meter.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0How');" /> True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0How');" />False
+         </form> 
+         <a name="fms_answer15"> </a> 
+         <div id="answer0How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />To test your blood sugar at home, you need to put a drop of blood on a test strip. Within seconds to 2 minutes after you place the test strip into the meter, the meter will provide the results of your blood sugar test.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />To test your blood sugar at home, you do need to put a drop of blood on a test strip. Within seconds to 2 minutes after you place the test strip into the meter, the meter will provide the results of your blood sugar test.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br />Return to <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">Gestational Diabetes: Checking Your Blood Sugar</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#5" class="ac_next">Where to go from here<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_5" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 5 of 6
+       </div> 
+       <a href="#4" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#6" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Where to go from here
+       </div> 
+       <div class="as_content"> 
+        <p>Now that you have read this information, you are ready to start monitoring your blood sugar levels at home.</p> 
+        <h4>Talk with your doctor</h4> 
+        <p>If you have questions about this information, take it with you when you visit your doctor.</p> 
+        <p>If you haven't talked with your doctor about when and how often to test your blood sugar, do so during your next visit. On the <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa95576.pdf">blood sugar testing times form</a><span class="NoWebPrint"><a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa95576.pdf"></a></span><span class="NoWebPrint"><span class="Size1">(What is a <a href="http://www.webmd.com/hw-popup/pdf-document" onclick="return sl(this,'hw','embd-lnk');">PDF</a> document?)</span></span>, record the times you need to check your blood sugar each day, and record when you are stressed or ill.</p> 
+        <h4>Computerized records</h4> 
+        <p>Many blood sugar meter manufacturers offer computer software programs that allow blood sugar test results to be compiled and analyzed on your home computer. The computer results can then be printed out and carried with you when you visit your doctor. Some programs allow you to send the information to the doctor electronically.</p> 
+        <h3>Organization</h3> 
+        <table border="0"> 
+         <tbody>
+          <tr> 
+           <td colspan="2"> <b>American Diabetes Association (ADA)</b> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">1701 North Beauregard Street</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">Alexandria, VA&nbsp;&nbsp;22311</td> 
+          </tr> 
+          <tr> 
+           <td>Phone: </td> 
+           <td>1-800-DIABETES (1-800-342-2383)</td> 
+          </tr> 
+          <tr> 
+           <td>Email: </td> 
+           <td>AskADA@diabetes.org</td> 
+          </tr> 
+          <tr> 
+           <td>Web Address: </td> 
+           <td>www.diabetes.org</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">&nbsp;</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2"> <p>The American Diabetes Association (ADA) is a national organization for health professionals and consumers. Almost every state has a local office. ADA sets the standards for the care of people with diabetes. Its focus is on research for the prevention and treatment of all types of diabetes. ADA provides patient and professional education mainly through its publications, which include the monthly magazine <i>Diabetes Forecast</i>, books, brochures, cookbooks and meal planning guides, and pamphlets. ADA also provides information for parents about caring for a child with diabetes.</p> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="2"> <br /> </td> 
+          </tr> 
+         </tbody>
+        </table> 
+        <p> </p> 
+        <p class="NoWebPrint">Return to <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/home-blood-sugar-monitoring-when-you-have-gestational-diabetes" onclick="return sl(this,'','embd-lnk');">Gestational Diabetes: Checking Your Blood Sugar</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#6" class="ac_next">See More Popular Action Sets<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_6" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 6 of 6
+       </div> 
+       <a href="#5" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#1" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        See More Popular Action Sets
+       </div> 
+       <div id="lastslide"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="action_bot"> 
+    </div> 
+   </div> 
+   <div class="dashed_fmt"> 
+   </div> 
+   <div class="subheadSpaced_fmt"> 
+   </div> 
+   <div class="credits_fmt"> 
+    <table border="0" cellpadding="5"> 
+     <tbody>
+      <tr> 
+       <td valign="top"> <b>By</b> </td> 
+       <td>Healthwise Staff</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+       <td>Sarah Marshall, MD - Family Medicine</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+       <td>Rhonda O'Brien, MS, RD, CDE - Certified Diabetes Educator</td> 
+      </tr> 
+      <tr> 
+       <td> <b>Last Revised</b> </td> 
+       <td>January 23, 2013</td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionsets.js">
+</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: January 23, 2013
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - ActionSet';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1037"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','rltd-p-1037_1');">Diabetes? Get Tips to Avoid Health Problems</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1037_2');">Images of Diabetic Retinopathy and Other Vision Problems</a> </li> 
+     <li id="x64"> <a href="http://diabetes.webmd.com/diabetes-health-check/default.htm" onclick="return sl(this,'','rltd-p-1037_3');">Is Your Type 2 Diabetes Under Control?</a> </li> 
+     <li id="x65"> <a href="http://diabetes.webmd.com/diabetes-your-menu-6/alcohol" onclick="return sl(this,'','rltd-p-1037_4');">Dos and Don'ts: Diabetes and Alcohol Consumption</a> </li> 
+     <li id="x66"> <a href="http://diabetes.webmd.com/treating-diabetes-11/insulin-questions" onclick="return sl(this,'','rltd-p-1037_5');">Your Insulin Management Questions Answered</a> </li> 
+     <li id="x67" class="last"> <a href="http://arthritis.webmd.com/living-with-chronic-gout-11/gout-and-diabetes" onclick="return sl(this,'','rltd-p-1037_6');">Diabetes and Gout: Know the Risk Factors</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1037_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80a7df5a" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069325b</chronic_id><r_object_id>091e9c5e80a7df5a</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8069325b.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>05/30/2012 23:35:23</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Diabetes Health Center/template_Diabetes Health Center_091e9c5e800245f8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800245f8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Gestational Diabetes</name><link_title>Gestational Diabetes</link_title><description>Gestational diabetes &#45;&#45; diabetes that develops during pregnancy &#45;&#45; is relatively common, affecting about 4% of all pregnant women. If untreated, gestational diabetes can cause serious complications for your baby. But with proper prenatal care, gestational diabetes can be detected and treated. Follow the links below to find WebMD's comprehensive coverage about gestational diabetes, including its causes, treatment, and much more.</description><friendly_url>http://www.webmd.com/baby/gestational-diabetes-directory</friendly_url></topic_dir><related_assets><asset id=""><link_title>What is gestational diabetes?</link_title><friendly_url>http://answers.webmd.com/answers/1178998/what-is-gestational-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80010b7e"><link_title>Are You at Risk for Gestational Diabetes?</link_title><friendly_url>http://www.webmd.com/diabetes/guide/are-you-at-risk-gestational-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802251d5"><link_title>Gestational Diabetes Ups Risk of Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/news/20080728/gestatational-diabetes-ups-risk-of-type-2</friendly_url><thumbnail height="" width="" alt="gestational_diabetes-and_type_2_risk.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/July08/gestational_diabetes-and_type_2_risk.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801e5a52"><link_title>Insulin and Healthy Blood Sugar Levels - WebMD</link_title><friendly_url>http://www.webmd.com/diabetes/healthy-blood-sugar-levels-quiz</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1078</collection_category_val><archive>0</archive></asset><asset id="091e9c5e807b7358"><link_title>Slideshow: Control Your Blood Sugars</link_title><friendly_url>http://www.webmd.com/diabetes/controlling-diabetes-11/slideshow-control-your-blood-sugars</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000780e"><link_title>Understanding the Symptoms of Gestational Diabetes</link_title><friendly_url>http://www.webmd.com/baby/understanding-gestational-diabetes-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80007810"><link_title>Understanding Prevention of Gestational Diabetes</link_title><friendly_url>http://www.webmd.com/baby/understanding-gestational-diabetes-prevention</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000d22a"><link_title>Diabetes in Pregnancy Signals Future Trouble</link_title><friendly_url>http://www.webmd.com/diabetes/news/20040607/diabetes-in-pregnancy-signals-future-trouble</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80010b78"><link_title>What Causes Gestational Diabetes?</link_title><friendly_url>http://www.webmd.com/baby/what-causes-gestational-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800be03b"><link_title>Can Pregnancy Weight Loss Be Good?</link_title><friendly_url>http://www.webmd.com/baby/news/20070614/can-pregnancy-loss-be-good</friendly_url><thumbnail height="" width="" alt="Obese Pregnancy Weight Loss">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/June07/obese_pregnancy_weight_loss.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800c1e83"><link_title>Mother's Blood Sugar Threatens Fetus</link_title><friendly_url>http://www.webmd.com/baby/news/20070622/mothers-blood-sugar-threatens-fetus</friendly_url><thumbnail height="" width="" alt="Gestational Diabetes Riskier">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/June07/gestational_diabetes_riskier.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801306d7"><link_title>New Gestational Diabetes Clue</link_title><friendly_url>http://www.webmd.com/baby/news/20071101/new-gestational-diabetes-clue</friendly_url><thumbnail height="" width="" alt="Gestational Diabetes Cause">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/November07/gestational_diabetes_cause.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801bdb34"><link_title>Ominous Rise in Pre-Pregnancy Diabetes</link_title><friendly_url>http://www.webmd.com/baby/news/20080423/ominous-rise-in-prepregnancy-diabetes</friendly_url><thumbnail height="" width="" alt="prepregnancy diabetes">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/April08/prepregnancy_diabetes.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801cad01"><link_title>Pregnancy: High Normal Blood Sugar Risky</link_title><friendly_url>http://www.webmd.com/baby/news/20080507/pregnancy-high-normal-blood-sugar-risky</friendly_url><thumbnail height="" width="" alt="High Blood Sugar and Pregnancy">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/May08/high_blood_sugar_and_pregnancy.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e802e853b"><link_title>Diabetes in Pregnancy Tied to Depression</link_title><friendly_url>http://www.webmd.com/depression/postpartum-depression/news/20090224/diabetes-in-pregnancy-tied-to-depression</friendly_url><thumbnail height="" width="" alt="diabetes_pregnancy_depression.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/Febuuary_2009/diabetes_pregnancy_depression.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8035a078"><link_title>Gestational Diabetes: Link to Sugary Drinks?</link_title><friendly_url>http://www.webmd.com/baby/news/20090608/gestational-diabetes-sugary-drink-link</friendly_url><thumbnail height="75" width="69" alt="soda_women_reproductive_age.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/June_2009/soda_women_reproductive_age.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80415916"><link_title>Treat Gestational Diabetes for Baby's Sake</link_title><friendly_url>http://www.webmd.com/baby/news/20090930/treat-gestational-diabetes-for-babys-sake</friendly_url><thumbnail height="" width="" alt="treat_mild_gestational_diabetes.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/September_2009/treat_mild_gestational_diabetes.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805021c6"><link_title>Early Pregnancy Weight Gain Ups Diabetes Risk</link_title><friendly_url>http://www.webmd.com/baby/news/20100222/early-pregnancy-weight-gain-ups-diabetes-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80507b0b"><link_title>Gestational Diabetes Underdiagnosed</link_title><friendly_url>http://www.webmd.com/baby/news/20100226/gestational-diabetes-underdiagnosed</friendly_url><thumbnail height="" width="" alt="lower_gestational_diabetes_rates_2.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/02_2010/lower_gestational_diabetes_rates_2.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e805ec6f3"><link_title>Study Measures Gestational Diabetes Risk</link_title><friendly_url>http://www.webmd.com/baby/news/20100712/study-measures-gestational-diabetes-risk</friendly_url><thumbnail height="" width="" alt="recurring_gestational_diabetes_1.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/07_2010/recurring_gestational_diabetes_1.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e807fdaa5"><link_title>Gaining Weight Between Pregnancies Raises Gestational Diabetes Risk</link_title><friendly_url>http://www.webmd.com/baby/news/20110523/weight-gain-between-pregnancies-raises-gestational-diabetes-risk</friendly_url><thumbnail height="" width="" alt="Woman squeezing into jeans">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/05_2011/69x75_weight_gain_between_pregnancies.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e80a974f6"><link_title>Gestational Diabetes: Can I Lower My Risk?</link_title><friendly_url>http://www.webmd.com/baby/gestational-diabetes-can-i-lower-my-risk</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80100ab3"><link_title>Gestational Diabetes Ups Child Obesity</link_title><friendly_url>http://www.webmd.com/baby/news/20070828/gestational-diabetes-ups-child-obesity</friendly_url><thumbnail height="" width="" alt="Gestational Diabetes Childhood Obesity">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/August07/gestational_diabetes_childhood_obesity.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000767c"><link_title>Diabetes Overview</link_title><friendly_url>http://www.webmd.com/diabetes/diabetes-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804ceb3d"><link_title>Slideshow: Diabetes Management in 10 Minutes</link_title><friendly_url>http://www.webmd.com/diabetes/active-life/slideshow-managing-diabetes-10-tips</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000845f"><link_title>Glossary of Diabetes Terms</link_title><friendly_url>http://www.webmd.com/diabetes/diabetes-glossary-terms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80686910"><link_title>Slideshow: Blood Sugar Control and Insulin</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-blood-sugar-insulin</friendly_url><thumbnail height="" width="" alt="Assorted healthy whole foods">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/how_you_can_control_blood_sugar_and_manage_insulin/69x75_how_you_can_control_blood_sugar_and_manage_insulin.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802ac3d0"><link_title>Slideshow: A Visual Guide to Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-type-2-diabetes-overview</friendly_url><thumbnail height="" width="" alt="Diabetic tools">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/type_2_diabetes_overview_slideshow/69x75_type_2_diabetes_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e803043ab"><link_title>Slideshow: Celebrities With Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-celebrities-with-diabetes</friendly_url><thumbnail height="" width="" alt="Tom Hanks">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/celebrities_with_diabetes/69x75_celebrities_with_diabetes.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000780a"><link_title>The Basics of Gestational Diabetes</link_title><friendly_url>http://www.webmd.com/baby/guide/understanding-gestational-diabetes-basics</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/diabetes/controlling-diabetes-11/slideshow-control-your-blood-sugars" onclick="return sl(this,'','lln-tdrelcon_1');">Slideshow: Control Your Blood Sugars</a></li>
+      <li><a href="http://www.webmd.com/diabetes/active-life/slideshow-managing-diabetes-10-tips" onclick="return sl(this,'','lln-tdrelcon_2');">Slideshow: Diabetes Management in 10 Minutes</a></li>
+      <li><a href="http://answers.webmd.com/answers/1178998/what-is-gestational-diabetes" onclick="return sl(this,'','lln-tdrelcon_3');">What is gestational diabetes?</a></li>
+      <li><a href="http://www.webmd.com/diabetes/guide/are-you-at-risk-gestational-diabetes" onclick="return sl(this,'','lln-tdrelcon_4');">Are You at Risk for Gestational Diabetes?</a></li>
+      <li><a href="http://www.webmd.com/diabetes/healthy-blood-sugar-levels-quiz" onclick="return sl(this,'','lln-tdrelcon_5');">Insulin and Healthy Blood Sugar Levels - WebMD</a></li>
+      <li><a href="http://www.webmd.com/baby/understanding-gestational-diabetes-symptoms" onclick="return sl(this,'','lln-tdrelcon_6');">Understanding the Symptoms of Gestational Diabetes</a></li>
+      <li><a href="http://www.webmd.com/baby/understanding-gestational-diabetes-prevention" onclick="return sl(this,'','lln-tdrelcon_7');">Understanding Prevention of Gestational Diabetes</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/baby/gestational-diabetes-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Gestational Diabetes Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=1079848702&tile=568789271&tug=&pug=_2147_&site=2&affiliate=20&hcent=1037&scent=&pos=113&xpg=1667&sec=&amp;au1=3&au2=1&uri=%2fdiabetes%2fhome-blood-sugar-monitoring-when-you-have-gestational-diabetes&artid=091e9c5e8001d724&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_o24_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'1079848702',
+                    tile:'568789271',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "1667";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=1079848702&amp;tile=568789271&amp;tug=&amp;pug=_2147_&amp;site=2&amp;affiliate=20&amp;hcent=1037&amp;scent=&amp;pos=5001&amp;xpg=1667&amp;sec=&amp;au1=3&amp;au2=1&amp;uri=%2fdiabetes%2fhome-blood-sugar-monitoring-when-you-have-gestational-diabetes&amp;artid=091e9c5e8001d724&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_o24_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=1079848702&amp;amp;tile=568789271&amp;amp;tug=&amp;amp;pug=_2147_&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1037&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=1667&amp;amp;sec=&amp;amp;au1=3&amp;amp;au2=1&amp;amp;uri=%2fdiabetes%2fhome-blood-sugar-monitoring-when-you-have-gestational-diabetes&amp;amp;artid=091e9c5e8001d724&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_o24_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "1667";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>

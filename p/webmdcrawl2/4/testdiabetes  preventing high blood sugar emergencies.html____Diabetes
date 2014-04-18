@@ -1,0 +1,922 @@
+<title>Diabetes: Preventing High Blood Sugar Emergencies</title>
+<div id="mainContent_ctr"> 
+ <div id="middleContent_fmt"> 
+  <div id="ContentPane5">
+   <div class="pop_toolst_rdr" id="lln-toolsres"> 
+    <script type="text/javascript">
+		//Removes Popular Tools from TOC pages or where www.webmd.com is followed by "news-features"
+		if (window.s_topic.substring(0,1) != "7" && window.s_publication_source != "WebMD Image Collection" && (window.s_business_reference != "TOC" || window.s_channel_health == "Health Insurance and Medicare") && window.s_business_reference != "TOC - Mini-Center Topic" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "TOC - Guide" && window.s_business_reference != "Nav - A-Z page" && window.s_business_reference != "Glossary"){
+			$('.pop_toolst_rdr').css('display','block');
+			webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_tools_and_resources'] = ['x56','x57','x58','x59','x60','x61'];
+		}
+		</script> 
+    <div class="pop_toolst_top_fmt">
+     <h2>Tools &amp; Resources</h2>
+     <ul>
+      <li id="x56"><a href="http://www.webmd.com/diabetes/diabetes-health-check/diabetes-health-check-old" onclick="return sl(this,'','lln-toolsres_1');">Is Your Diabetes Under Control?</a></li>
+      <li id="x57"><a href="http://www.webmd.com/diabetes/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','lln-toolsres_2');">Tips: Stay Healthy With Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x58"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853920" onclick="return sl(this,'','lln-toolsres_3');">How to Count Carbs With Diabetes</a></li>
+      <li id="x59"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/preventing-complications" onclick="return sl(this,'','lln-toolsres_4');">Preventing Diabetes Complications</a></li>
+      <div class="breaker_fmt"></div>
+      <li id="x60"><a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm?article=091e9c5e80853926" onclick="return sl(this,'','lln-toolsres_5');">Diabetes Menu Plan</a></li>
+      <li id="x61"><a href="http://www.webmd.com/diabetes/diabetes-body-care-6/taking-care" onclick="return sl(this,'','lln-toolsres_6');">4 Every Day Tips for Diabetes</a></li>
+      <div class="breaker_fmt"></div>
+     </ul>
+     <div class="breaker"></div>
+    </div>
+    <script class="oas_template" id="oas_tools_and_resources" type="text/html"><a class="{type_prefix}{type}" onclick="return sl(this,'','lln-toolsres_{link_position}');" href="{href}">{alt}{i_tag}</a></script>
+    <div class="pop_toolst_bot_fmt"></div>
+   </div> 
+   <script type="text/javascript">
+if (window.$) { 
+	$(document).ready(function() {
+		// produce array from value(s) of 'secTopId'
+		var mySplitResultsecTopId = secTopId.split("|");
+		var wloop = mySplitResultsecTopId.length;
+		
+		//Hides the Pop Tools list on pages with a sensitive secondary topic id. 
+		for (i = 0; i < wloop; i++) {
+			if (mySplitResultsecTopId[i].substring(0,1) == 7){
+				$('.pop_toolst_rdr').css('display','none');
+			}
+		}
+		//Hides the Pop Tools list on Actionset Pages
+		if ($('.actionset').length) {
+			$('.pop_toolst_rdr').css('display','none');
+		}
+	});
+}
+</script> 
+  </div> 
+  <div id="ContentPane6">
+   <div class="actionset"> 
+    <div class="action_top"> 
+    </div> 
+    <div class="action_mid"> 
+     <div class="page page_1"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 1 of 6
+       </div> 
+       <a href="#6" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#2" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Diabetes: Preventing High Blood Sugar Emergencies
+       </div> 
+       <div class="as_content"> 
+        <p>High <a href="http://www.webmd.com/diabetes/blood-glucose" onclick="return sl(this,'','embd-lnk');">blood sugar</a> (hyperglycemia) in <a href="http://www.webmd.com/diabetes/default.htm" onclick="return sl(this,'','embd-lnk');">diabetes</a> occurs when the sugar (glucose) level in the <a href="http://www.webmd.com/heart/anatomy-picture-of-blood" onclick="return sl(this,'','embd-lnk');">blood</a> rises above normal. For a person who has diabetes, high blood sugar may be caused by not getting <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/drugs/drug-5233-Insulin+Regular+Human+Inj.aspx?drugid=5233&amp;drugname=Insulin+Regular+Human+Inj">insulin</a>, missing your diabetes medicine, eating too much food, skipping <a href="http://www.webmd.com/fitness-exercise/default.htm" onclick="return sl(this,'','embd-lnk');">exercise</a>, or being ill or stressed.</p> 
+        <p>Unlike <a href="http://www.webmd.com/diabetes/diabetes-hypoglycemia" onclick="return sl(this,'','embd-lnk');">low blood sugar</a>, high blood sugar usually develops slowly over hours or days. <a onclick="return sl(this,'','embd-lnk');" href="http://www.webmd.com/diabetes/blood-glucose">Blood sugar levels</a> well above your target range may make you feel tired and thirsty. If your blood sugar level stays higher than your target range, your body will adjust to that level. If your blood sugar continues to rise, your <a href="http://www.webmd.com/urinary-incontinence-oab/picture-of-the-kidneys" onclick="return sl(this,'','embd-lnk');">kidneys</a> will produce more urine and you can become <a href="http://www.webmd.com/hw-popup/dehydration" onclick="return sl(this,'hw','embd-lnk');">dehydrated</a>. <a href="http://www.webmd.com/a-to-z-guides/dehydration-adults" onclick="return sl(this,'','embd-lnk');">Signs of dehydration</a> include being thirstier than usual and having darker urine than usual. If you become severely dehydrated, you can go into a <a href="http://www.webmd.com/brain/coma-types-causes-treatments-prognosis" onclick="return sl(this,'','embd-lnk');">coma</a> and possibly die. Over time, high blood sugar damages the <a href="http://www.webmd.com/eye-health/picture-of-the-eyes" onclick="return sl(this,'','embd-lnk');">eyes</a>, <a href="http://www.webmd.com/heart/picture-of-the-heart" onclick="return sl(this,'','embd-lnk');">heart</a>, kidneys, blood vessels, and nerves.</p> 
+        <p>Unless you fail to notice the symptoms, you usually have time to treat high blood sugar so that you can prevent an emergency. Three things can help you prevent high blood sugar problems:</p> 
+        <ul> 
+         <li>Test your blood sugar often, especially if you are sick or not following your normal routine. You can see when your blood sugar is above your target range, even if you don't have symptoms of high blood sugar (increased thirst, increased urination, and <a href="http://www.webmd.com/a-to-z-guides/weakness-and-fatigue-topic-overview" onclick="return sl(this,'','embd-lnk');">fatigue</a>). Then you can treat it early.</li> 
+         <li>Call your doctor if you have frequent high blood sugar or your blood sugar is consistently above your target range. Your medicine may need to be adjusted or changed.</li> 
+         <li>Drink extra water or noncaffeinated, nonsugared drinks to prevent dehydration.</li> 
+        </ul> 
+        <p> <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/what.gif" alt="what.gif" align="" style="" /> </a>&nbsp;<a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">What is a high blood sugar emergency?</a><br /><a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">Why do you need to treat high blood sugar?</a><br /><a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">How do you prevent high blood sugar emergencies?</a><br /><a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a>&nbsp;<a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br /></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#2" class="ac_next">What is a high blood sugar emergency?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_2" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 2 of 6
+       </div> 
+       <a href="#1" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#3" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        What is a high blood sugar emergency?
+       </div> 
+       <div class="as_content"> 
+        <h4>High blood sugar</h4> 
+        <p>High blood sugar (hyperglycemia) means that the level of sugar (glucose) in your blood is above your <a href="http://www.webmd.com/diabetes/tc/diabetes-blood-sugar-levels-topic-overview" onclick="return sl(this,'','embd-lnk');">target range</a>. Symptoms of high blood sugar usually develop over a period of hours or days.</p> 
+        <p>You may feel tired and thirsty when your blood sugar is well above your target range. But some people's bodies adjust to a high level. They may not have obvious <a href="http://www.webmd.com/a-to-z-guides/symptoms-of-high-blood-sugar-topic-overview" onclick="return sl(this,'','embd-lnk');">symptoms of high blood sugar</a> until their levels are very high. So it is important to check your blood sugar often.</p> 
+        <ul> 
+         <li>If your blood sugar is between 80 milligrams per deciliter (mg/dL) and 200 mg/dL, you most likely will not have symptoms. If you do have symptoms, they will most likely be very mild (such as fatigue).</li> 
+         <li>If your blood sugar is between 200 mg/dL and 350 mg/dL, you may have mild symptoms of high blood sugar. You may be thirsty and urinate more often than usual. Some people may not notice any symptoms when their blood sugar is in this range.</li> 
+         <li>If your blood sugar rises above 350 mg/dL, you may feel weak and drowsy, have blurred <a href="http://www.webmd.com/eye-health/default.htm" onclick="return sl(this,'','embd-lnk');">vision</a>, and sometimes you may lose your appetite. You may not have these symptoms if your body gets used to the higher blood sugar levels.</li> 
+         <li>If your blood sugar becomes very high, you can become confused and severely <a href="http://www.webmd.com/hw-popup/dehydration" onclick="return sl(this,'hw','embd-lnk');">dehydrated</a> and go into a coma. Very high blood sugar leads to changes in the chemical processes of the body (metabolism), causing an emergency.</li> 
+        </ul> 
+        <h4>What causes high blood sugar?</h4> 
+        <p>High blood sugar develops when there is too little insulin or when your body fails to respond properly to the insulin in your blood. High blood sugar emergencies often develop because of some condition that may not be obvious, such as a <a href="http://www.webmd.com/heart-disease/guide/heart-disease-heart-attacks" onclick="return sl(this,'','embd-lnk');">heart attack</a>, infection, surgery, or <a href="http://www.webmd.com/baby/default.htm" onclick="return sl(this,'','embd-lnk');">pregnancy</a>.</p> 
+        <p>Your blood sugar can rise to an unsafe level when you:</p> 
+        <ul> 
+         <li>Skip a dose of diabetes medicine, or you don't get enough insulin.</li> 
+         <li>Eat too much food.</li> 
+         <li>Do not get enough exercise.</li> 
+         <li>Feel a lot of stress.</li> 
+         <li>Are sick (such as a severe case of the <a href="http://www.webmd.com/cold-and-flu/default.htm" onclick="return sl(this,'','embd-lnk');">flu</a>) or have an infection, even if you are not eating a lot of food.</li> 
+         <li>Take <a href="http://www.webmd.com/a-to-z-guides/medicines-that-can-raise-blood-sugar-as-a-side-effect-topic-overview" onclick="return sl(this,'','embd-lnk');">medicines that can raise your blood sugar</a>.</li> 
+        </ul> 
+        <p>Sometimes, you may have very high blood sugar in the morning. This can be caused by the <a href="http://www.webmd.com/diabetes/tc/dawn-phenomenon-and-the-somogyi-effect-" onclick="return sl(this,'','embd-lnk');">dawn phenomenon or the Somogyi effect</a>.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>High blood sugar means that the amount of sugar in my blood is above my target range.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0What');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0What');" />False
+         </form> 
+         <a name="fms_answer9"> </a> 
+         <div id="answer0What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />High blood sugar means that the amount of sugar (glucose) in your blood is above your target range. Very high blood sugar levels usually develop slowly over hours or days.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />High blood sugar does mean that the amount of sugar (glucose) in your blood is above your target range. Very high blood sugar levels usually develop slowly over hours or days.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>Symptoms of high blood sugar include hunger, nervousness, and sweating.</p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1What');" />True
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1What');" />False
+         </form> 
+         <a name="fms_answer9"> </a> 
+         <div id="answer1What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Hunger, nervousness, and sweating are symptoms of low blood sugar. Symptoms of high blood sugar are extreme thirst, frequent urination, and weakness.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Hunger, nervousness, and sweating are symptoms of low blood sugar. Symptoms of high blood sugar are extreme thirst, frequent urination, and weakness.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>A high blood sugar emergency occurs when the blood sugar level rises high enough to lead to severe dehydration and certain changes in the chemical processes of the body (metabolism).</p> </span> 
+         <form name="testKnowledge3"> 
+          <input type="radio" name="answer_2" value="0" onclick="gradeAnswer(this.value, 'answer2What');" />True
+          <br />
+          <input type="radio" name="answer_2" value="1" onclick="gradeAnswer(this.value, 'answer2What');" />False
+         </form> 
+         <a name="fms_answer9"> </a> 
+         <div id="answer2What" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />Symptoms of a high blood sugar emergency usually develop over a period of hours or days. Unless you fail to notice the symptoms, you usually have time to get early treatment. A high blood sugar emergency occurs when high blood sugar levels lead to severe dehydration and changes in the normal body processes (metabolism).</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />Symptoms of a high blood sugar emergency usually develop over a period of hours or days. Unless you fail to notice the symptoms, you usually have time to get early treatment. A high blood sugar emergency occurs when high blood sugar levels lead to severe dehydration and changes in the normal body processes (metabolism).</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/why.gif" alt="why.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">Why do you need to treat high blood sugar?</a><br />Return to <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">Diabetes: Preventing High Blood Sugar Emergencies</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#3" class="ac_next">Why do you need to treat high blood sugar?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_3" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 3 of 6
+       </div> 
+       <a href="#2" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#4" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Why do you need to treat high blood sugar?
+       </div> 
+       <div class="as_content"> 
+        <p>High blood sugar levels that are somewhat higher than your <a href="http://www.webmd.com/diabetes/tc/diabetes-blood-sugar-levels-topic-overview" onclick="return sl(this,'','embd-lnk');">target range</a> may cause symptoms such as increased thirst and increased urination. If early high blood sugar is not treated, the level may continue to rise very high. This can be a life-threatening situation.</p> 
+        <p>When your blood sugar level rises above 200 mg/dL, your kidneys will eliminate some of the extra sugar through your urine. Along with sugar, the kidneys release large amounts of fluid, which causes increased urination. If your blood sugar level continues to rise and you do not drink enough liquids to replace the lost fluids, you can become <a href="http://www.webmd.com/hw-popup/dehydration" onclick="return sl(this,'hw','embd-lnk');">dehydrated</a>. Dehydration can lead to a high blood sugar emergency.</p> 
+        <p> Both of the following high blood sugar emergencies can become life-threatening:</p> 
+        <ul> 
+         <li>If you have type 2 diabetes, you are at risk for a high blood sugar emergency called a <a href="http://www.webmd.com/hw-popup/hyperosmolar-state" onclick="return sl(this,'hw','embd-lnk');">hyperosmolar state</a>. A hyperosmolar state can develop if your blood sugar is consistently very high, such as above 600 mg/dL, and you become dehydrated. It is easy to overlook early symptoms of a hyperosmolar state. Typically, you have increased urination for several days before a hyperosmolar state develops. You may not always have increased thirst and may become dehydrated from not drinking enough liquids.</li> 
+         <li>If you have <a onclick="return sl(this,'','embd-lnk');" href="http://diabetes.webmd.com/guide/diabetes-type-1-diabetes">type 1 diabetes</a>, you are at risk for a condition called <a href="http://www.webmd.com/hw-popup/diabetic-ketoacidosis-dka" onclick="return sl(this,'hw','embd-lnk');">diabetic ketoacidosis</a> (DKA). People with type 2 diabetes whose bodies produce little or no insulin are also at risk for DKA. DKA can occur if your blood sugar levels are consistently high, such as above 250 mg/dL, and you become dehydrated. In ketoacidosis, your body burns protein and fat rather than sugar for energy, causing acids and <a href="http://www.webmd.com/hw-popup/ketones" onclick="return sl(this,'hw','embd-lnk');">ketones</a> to build up in your blood. These ketones can be partially released into your urine. If ketoacidosis develops, you need emergency care immediately to keep the condition from getting worse.</li> 
+        </ul> 
+        <p>High blood sugar emergencies often develop because of some condition that may not be obvious, such as a heart attack, infection, surgery, pregnancy, or undiagnosed diabetes.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>I have type 1 diabetes and my body produces little or no insulin. A high blood sugar emergency can occur if my blood sugar level continues to rise above 250 mg/dL.</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0Why');" />True
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0Why');" />False
+         </form> 
+         <a name="fms_answer5"> </a> 
+         <div id="answer0Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />If you have type 1 diabetes, your body produces little or no insulin. A high blood sugar emergency (ketoacidosis) can occur if your blood sugar level continues to rise above 250 mg/dL and you become dehydrated. If ketoacidosis develops, you need emergency care immediately to keep the condition from getting worse. </p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />If you have type 1 diabetes, your body produces little or no insulin. A high blood sugar emergency (ketoacidosis) can occur if your blood sugar level continues to rise above 250 mg/dL and you become dehydrated. If ketoacidosis develops, you need emergency care immediately to keep the condition from getting worse.</p> 
+          </div> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>I have type 2 diabetes. A high blood sugar emergency can occur if my blood sugar level rises very high, such as above 600 mg/dL.</p> </span> 
+         <form name="testKnowledge2"> 
+          <input type="radio" name="answer_1" value="0" onclick="gradeAnswer(this.value, 'answer1Why');" />True
+          <br />
+          <input type="radio" name="answer_1" value="1" onclick="gradeAnswer(this.value, 'answer1Why');" />False
+         </form> 
+         <a name="fms_answer5"> </a> 
+         <div id="answer1Why" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />If you have type 2 diabetes, you are at risk for developing a high blood sugar emergency. If your blood sugar levels are consistently very high, such as above 600 mg/dL, and you become dehydrated, you can go into a hyperosmolar state.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />If you have type 2 diabetes, you are at risk for developing a high blood sugar emergency. If your blood sugar levels are consistently very high, such as above 600 mg/dL, and you become dehydrated, you can go into a hyperosmolar state.</p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/how.gif" alt="how.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">How do you prevent high blood sugar emergencies?</a><br />Return to <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">Diabetes: Preventing High Blood Sugar Emergencies</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#4" class="ac_next">How do you prevent high blood sugar emergencies?<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_4" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 4 of 6
+       </div> 
+       <a href="#3" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#5" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        How do you prevent high blood sugar emergencies?
+       </div> 
+       <div class="as_content"> 
+        <p>The best way to prevent a high blood sugar emergency is to keep it from developing.</p> 
+        <h4>Treat infections early</h4> 
+        <p>Untreated infections (such as <a href="http://www.webmd.com/a-to-z-guides/urinary-tract-infections-in-teens-and-adults-topic-overview" onclick="return sl(this,'','embd-lnk');">urinary tract infections</a>, <a href="http://www.webmd.com/lung/tc/pneumonia-topic-overview" onclick="return sl(this,'','embd-lnk');">pneumonia</a>, and <a href="http://www.webmd.com/skin-problems-and-treatments/picture-of-the-skin" onclick="return sl(this,'','embd-lnk');">skin</a> infections) can increase your risk for a high blood sugar emergency.</p> 
+        <h4>Be prepared</h4> 
+        <ul> 
+         <li>Know the <a href="http://www.webmd.com/a-to-z-guides/symptoms-of-high-blood-sugar-topic-overview" onclick="return sl(this,'','embd-lnk');">symptoms of high blood sugar</a>, such as increased thirst, increased urination, and fatigue. Post a list of the symptoms in a place where you can see it often, such as on your refrigerator door. Add any symptoms you have noticed that may not be on the list. Make sure other people know the symptoms and what to do in case of an emergency.</li> 
+         <li>Check your blood sugar at home often, especially if you are sick or not following your normal routine. If you don't have a home blood sugar meter (<a href="http://www.webmd.com/diabetes/guidelines-for-buying-and-using-diabetes-supplies" onclick="return sl(this,'','embd-lnk');">glucose meter</a>), talk with your doctor about getting one. It is easy to overlook early symptoms, especially if you have increased urination without increased thirst. Testing your blood sugar at home will help you know when it is high, even if you do not notice symptoms.</li> 
+         <li>Teach others (at work and at home) the symptoms of high blood sugar. Teach others to call <span class="red_fmt">911</span> if you are unconscious or too sick to check your own blood sugar. </li> 
+         <li>Wear medical identification. Have a <a href="http://www.webmd.com/epilepsy/medical-alert-bracelet" onclick="return sl(this,'','embd-lnk');">medical alert bracelet</a> <a href="http://www.webmd.com/epilepsy/medical-alert-bracelet" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/camera.gif" alt="camera.gif" align="" style="" /></a> or other form of medical jewelry with you at all times. This is very important in case you are too sick or injured to speak for yourself. You can find medical identification at a pharmacy or on the Internet.</li> 
+         <li>Have ketone test strips on hand. Test your <a href="http://www.webmd.com/a-to-z-guides/urine-test-for-ketones-topic-overview" onclick="return sl(this,'','embd-lnk');">urine for ketones</a> if your blood sugar level is above 300 mg/dL.</li> 
+         <li>Develop a plan. Usually people who take insulin need to take extra fast-acting insulin when their blood sugar levels are high. Talk with your doctor about how much to take, depending on your blood sugar level (sliding scale).</li> 
+         <li>Take your medicines as prescribed. Don't skip diabetes medicine or insulin doses without first talking with your doctor.</li> 
+        </ul> 
+        <h4>Treat high blood sugar early</h4> 
+        <p>The best way to prevent high blood sugar emergencies is to treat high blood sugar as soon as you have symptoms or when your blood sugar is significantly above a target range (200 mg/dL or higher).</p> 
+        <ul> 
+         <li>Follow your doctor's instructions for the <a href="http://www.webmd.com/a-to-z-guides/steps-for-dealing-with-high-blood-sugar-in-a-child-topic-overview" onclick="return sl(this,'','embd-lnk');">steps for dealing with high blood sugar</a>. Post a list of the steps in a convenient place at home and work. Make sure other people know what to do if you are unable to treat high blood sugar.</li> 
+         <li> <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa21125.pdf">Keep a record</a> <span class="NoWebPrint"> <a href="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/pdf/hw/form_aa21125.pdf"> </a> </span> <span class="NoWebPrint"> <span class="Size1">(What is a <a href="http://www.webmd.com/hw-popup/pdf-document" onclick="return sl(this,'hw','embd-lnk');">PDF</a> document?)</span> </span> of high blood sugar levels. Write down your symptoms and how you treated them, and take it with you when you visit your doctor. </li> 
+         <li>Call your doctor. Let your doctor know if you are having high blood sugar problems. Your diabetes medicine may need to be adjusted or changed. If you are taking insulin, your dose of insulin may need to be increased.</li> 
+        </ul> 
+        <h4>Drink plenty of liquids</h4> 
+        <p>If your blood sugar levels are above your target range, drink extra liquids to replace the fluids lost through your urine. Water and <a href="http://www.webmd.com/diet/default.htm" onclick="return sl(this,'','embd-lnk');">diet</a> drinks are best. Avoid caffeinated drinks, alcohol, and soda pop and other liquids that contain a lot of sugar.</p> 
+        <div class="as_question"> 
+         <div class="prompt"> 
+          <p> <b>Test Your Knowledge</b> </p> 
+          <p>Complete the following:</p> 
+         </div> 
+         <span class="answerBoxLabel_fmt"> <p>If I have symptoms of mild high blood sugar, I should:</p> </span> 
+         <form name="testKnowledge1"> 
+          <input type="radio" name="answer_0" value="0" onclick="gradeAnswer(this.value, 'answer0How');" />Call .
+          <br />
+          <input type="radio" name="answer_0" value="1" onclick="gradeAnswer(this.value, 'answer0How');" />Follow the steps for dealing with high blood sugar.
+          <br />
+          <input type="radio" name="answer_0" value="2" onclick="gradeAnswer(this.value, 'answer0How');" />Take an extra dose of my diabetes medicine.
+         </form> 
+         <a name="fms_answer10"> </a> 
+         <div id="answer0How" class="answer"> 
+          <div class="answerBoxContainer_fmt"> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />If you have symptoms of mild high blood sugar, you don't need to call . Follow the steps for dealing with high blood sugar. Treat high blood sugar levels early to prevent an emergency situation from developing.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text_cor">correct</span>. </span> </span> <br />If you think you are having symptoms of mild high blood sugar, follow the steps for dealing with high blood sugar. Treat high blood sugar levels early to prevent an emergency situation from developing.</p> 
+           <p class="answerDisplay_fmt" style="display:none;"> <span class="answerBoxLabel_fmt"> <span class="prompt"> This answer is <span class="answer_text">incorrect</span>. </span> </span> <br />If you think you are having symptoms of mild high blood sugar, you don't need to take an extra dose of your diabetes medicine. Follow the steps for dealing with high blood sugar. Treat high blood sugar levels early to prevent an emergency situation from developing. </p> 
+          </div> 
+         </div> 
+        </div> 
+        <p class="NoWebPrint">Continue to <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/where.gif" alt="where.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">Where to go from here</a><br />Return to <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">Diabetes: Preventing High Blood Sugar Emergencies</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#5" class="ac_next">Where to go from here<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_5" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 5 of 6
+       </div> 
+       <a href="#4" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#6" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        Where to go from here
+       </div> 
+       <div class="as_content"> 
+        <p>Now that you have read this information, you are ready to start preventing high blood sugar emergencies effectively.</p> 
+        <h4>Talk with your doctor</h4> 
+        <p>If you haven't talked with your doctor about checking your blood sugar at home, do this at your next visit. Home blood sugar meters (glucose meters) make checking your blood sugar level at home easy and quick. Using a home blood sugar meter can take the guesswork out of treating high blood sugar levels.</p> 
+        <p>If you would like more information on diabetes and high blood sugar, the following resources are available:</p> 
+        <h3>Organization</h3> 
+        <table border="0"> 
+         <tbody>
+          <tr> 
+           <td colspan="2"> <b>American Diabetes Association (ADA)</b> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">1701 North Beauregard Street</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">Alexandria, VA&nbsp;&nbsp;22311</td> 
+          </tr> 
+          <tr> 
+           <td>Phone: </td> 
+           <td>1-800-DIABETES (1-800-342-2383)</td> 
+          </tr> 
+          <tr> 
+           <td>Email: </td> 
+           <td>AskADA@diabetes.org</td> 
+          </tr> 
+          <tr> 
+           <td>Web Address: </td> 
+           <td>www.diabetes.org</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2">&nbsp;</td> 
+          </tr> 
+          <tr> 
+           <td colspan="2"> <p>The American Diabetes Association (ADA) is a national organization for health professionals and consumers. Almost every state has a local office. ADA sets the standards for the care of people with diabetes. Its focus is on research for the prevention and treatment of all types of diabetes. ADA provides patient and professional education mainly through its publications, which include the monthly magazine <i>Diabetes Forecast</i>, books, brochures, cookbooks and meal planning guides, and pamphlets. ADA also provides information for parents about caring for a child with diabetes.</p> </td> 
+          </tr> 
+          <tr> 
+           <td colspan="2"> <br /> </td> 
+          </tr> 
+         </tbody>
+        </table> 
+        <p> </p> 
+        <p>More information about diabetes can be found in these topics:</p> 
+        <ul> 
+         <li> <a href="http://www.webmd.com/diabetes/tc/type-1-diabetes-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 1 Diabetes</a> </li> 
+         <li> <a href="http://www.webmd.com/diabetes/tc/type-1-diabetes-children-living-with-the-disease-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 1 Diabetes: Children Living With the Disease</a> </li> 
+         <li> <a href="http://www.webmd.com/diabetes/tc/type-2-diabetes-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 2 Diabetes</a> </li> 
+         <li> <a href="http://www.webmd.com/diabetes/tc/type-2-diabetes-in-children-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 2 Diabetes in Children</a> </li> 
+         <li> <a href="http://www.webmd.com/baby/tc/gestational-diabetes-topic-overview" onclick="return sl(this,'','embd-lnk');">Gestational Diabetes</a> </li> 
+        </ul> 
+        <p class="NoWebPrint">Return to topic:</p> 
+        <div class="NoWebPrint"> 
+         <ul> 
+          <li> <a href="http://www.webmd.com/diabetes/tc/diabetes-related-high-and-low-blood-sugar-levels-topic-overview" onclick="return sl(this,'','embd-lnk');">Diabetes-Related High and Low Blood Sugar Levels</a> </li> 
+          <li> <a href="http://www.webmd.com/diabetes/tc/type-1-diabetes-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 1 Diabetes</a> </li> 
+          <li> <a href="http://www.webmd.com/diabetes/tc/type-2-diabetes-topic-overview" onclick="return sl(this,'','embd-lnk');">Type 2 Diabetes</a> </li> 
+         </ul> 
+        </div> 
+        <p class="NoWebPrint">Return to <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');"><img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/media/interface/actionset.gif" alt="actionset.gif" align="" style="" /></a> <a href="http://www.webmd.com/diabetes/preventing-high-blood-sugar-emergencies-from-diabetes" onclick="return sl(this,'','embd-lnk');">Diabetes: Preventing High Blood Sugar Emergencies</a></p> 
+       </div> 
+       <div class="as_upnext"> 
+        <div class="upnext">
+         Up Next in This Action Set: 
+        </div> 
+        <div class="upnext_text"> 
+         <a href="#6" class="ac_next">See More Popular Action Sets<img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next_sm.gif" /></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="page page_6" style="display:none;"> 
+      <div class="as_navigation"> 
+       <div class="step">
+        Step 6 of 6
+       </div> 
+       <a href="#5" class="ac_previous"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_previous.gif" /> </a> 
+       <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_spacer.gif" /> 
+       <a href="#1" class="ac_next"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_next.gif" /> </a> 
+      </div> 
+      <div class="as_title"> 
+       <img class="logo" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_logo.gif" /> 
+       <div class="as_title1">
+        Action Set
+        <a href="/www/action-set" onclick="window.open(this.href, 'popup','width=530,height=490,scrollbars=no,resizeable=no,status=yes');return false;"> <img border="0" src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/modules/actionset_questionmark.gif" /></a>
+       </div> 
+       <div class="as_title2">
+        See More Popular Action Sets
+       </div> 
+       <div id="lastslide"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="action_bot"> 
+    </div> 
+   </div> 
+   <div class="as_citations"> 
+    <blockquote> 
+     <h3>Other Works Consulted</h3> 
+     <ul> 
+      <li> <p>Inzucchi SE, et al. (2012). Management of hyperglycemia in type 2 diabetes: A patient-centered approach. Diabetes Care, 35(6): 1364–1379.</p> </li> 
+      <li> <p>Kitabchi AE, et al. (2009). Hyperglycemic crises in adult patients with diabetes. Diabetes Care, 32(7): 1335–1343.</p> </li> 
+     </ul> 
+    </blockquote> 
+   </div> 
+   <div class="dashed_fmt"> 
+   </div> 
+   <div class="subheadSpaced_fmt"> 
+   </div> 
+   <div class="credits_fmt"> 
+    <table border="0" cellpadding="5"> 
+     <tbody>
+      <tr> 
+       <td valign="top"> <b>By</b> </td> 
+       <td>Healthwise Staff</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Primary Medical Reviewer</b> </td> 
+       <td>E. Gregory Thompson, MD - Internal Medicine</td> 
+      </tr> 
+      <tr> 
+       <td valign="top"> <b>Specialist Medical Reviewer</b> </td> 
+       <td>Jennifer Hone, MD - Endocrinology, Diabetes and Metabolism</td> 
+      </tr> 
+      <tr> 
+       <td> <b>Last Revised</b> </td> 
+       <td>September 20, 2012</td> 
+      </tr> 
+     </tbody>
+    </table> 
+   </div> 
+   <script src="http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/actionsets.js">
+</script> 
+   <div class="attribution_rdr"> 
+    <div class="medicalRef_fmt"> 
+     <p>WebMD Medical Reference from Healthwise</p> 
+     <div class="clearBoth_fmt clearing-div"> 
+     </div> 
+    </div> 
+    <div class="sources_fmt">
+     Last Updated: September 20, 2012
+    </div> 
+    <div class="warning_fmt">
+     This information is not intended to replace the advice of a doctor. Healthwise disclaims any liability for the decisions you make based on this information.
+    </div> 
+    <div class="copyright_fmt">
+     &copy; 1995-2014 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.
+    </div> 
+    <div class="basefooter_fmt"> 
+    </div> 
+   </div> 
+   <div id="remoteAd_rdr"> 
+    <div class="centerAd_r1_rdr"> 
+     <div class="centerAd_BG_fmt"> 
+      <div class="conta" style="color:#737373; clear:both; display:none;">
+       Continue reading below...
+      </div> 
+      <div class="remoteAd_top_fmt"> 
+      </div> 
+      <div id="remoteAd_fmt" class="remoteAd_BG_fmt"> 
+       <div class="ad_placeholder"> 
+       </div> 
+      </div> 
+      <div class="remoteAd_bottom_fmt"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="moduleSpacer_rdr"> 
+    </div> 
+   </div> 
+   <div id="triggerFlyin"> 
+   </div> 
+   <script type="text/javascript">
+	require(['fly_in/1/fly_in'], function(flyIn){
+		flyIn.init('#triggerFlyin');
+	});
+	</script> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="javascript1.2" type="text/javascript">
+
+function getPubType() {
+return "undefined";
+}
+
+function checkPartners(){
+
+/* Array of Partner Names */
+var partnerNames=[
+"Good Housekeeping",
+"Redbook",
+"Esquire",
+"Country Living",
+"Marie Claire",
+"Oxmoor House",
+"\"Health",
+"Southern Living",
+"Psychology Today",
+"EatingWell",
+"DrGreene.com",
+"Men's Health",
+"Women's Health",
+"Prevention",
+"eDiets",
+"soul\" Magazine",
+"Runner's World",
+"Men's Fitness\" Magazine",
+"Shape\" Magazine",
+"Fit Pregnancy\" Magazine",
+"Natural Health\" Magazine",
+"\"Best Life\" Magazine",
+"\"Cure\" Magazine",
+"WebMD Veterinary Reference from the ASPCA",
+"WebMD Veterinary Reference from ASPCA Virtual Pet Behaviorist",
+"COPD Foundation",
+"Elle",
+"Woman's Day"
+]
+
+/* Array of names that go with files in partners node */
+var partnerScripts=[
+"goodHousekeeping",
+"redbook",
+"esquire",
+"countryLiving",
+"marieClaire",
+"cookingLight",
+"health",
+"southernLiving",
+"psychToday",
+"eatingWell",
+"drGreene",
+"mensHealth",
+"womensHealth",
+"prevention",
+"eDiets",
+"bodySoul",
+"runnersWorld",
+"mensFitness",
+"shapeMag",
+"fitPregnancy",
+"naturalHealth",
+"bestLife",
+"cure",
+"aspca",
+"aspca",
+"copdf",
+"elle",
+"womansDay"
+]
+
+/* Variables for whether a partner exists and which one in the array it is */
+var isThere;
+var whichOne = -1;
+
+/* Pulls the pub source out of the XML */
+var pubSource = 'Healthwise - ActionSet';
+
+/* Runs through the different partners and sees if one of them exists in the pub source */
+for (var i=0; i <= partnerNames.length-1; i++) { isThere = pubSource.search(partnerNames[i]); if (isThere != -1) {whichOne = i} }
+
+/* If it found one, makes the JS calls and also populates the correct divs with the files out of partners node */
+if (whichOne != -1) {
+
+var JSCall = 'ht' + 'tp://img.web' + 'md.com/dtmcms/live/webmd/consumer_assets/site_images/javascript/partners/' + partnerScripts[whichOne] + '.js';
+
+var JSElement = document.createElement("script");
+JSElement.type = "text/javascript";
+JSElement.src = JSCall;
+
+document.getElementsByTagName("head")[0].appendChild(JSElement);
+
+var moduleCenter = "ContentPane8";
+var moduleRight = "ContentPane25";
+
+addLoadEvent(function() {
+$('#'+moduleCenter).append(writePartnerCenter());
+$('#'+moduleRight).prepend(writePartnerRight());
+})
+}
+}
+
+checkPartners();
+
+</script> 
+   <script type="text/javascript">
+if (document.getElementById("headerLinks_print")) {
+setClass('headerLinks_print','headerLinks_fmt_on');
+};
+</script> 
+   <link rel="stylesheet" type="text/css" href="http://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/CSS/print.css" media="print" /> 
+   <style media="screen">
+#url_reference {display: none};
+</style> 
+   <style media="print">
+#url_reference { display: block; line-height: 150%; margin-bottom: 10px; }
+#logo_rdr img { visibility: visible; }
+.titleBar_rdr .titleBarMiddle_fmt { padding-top: 1.5em !important;}
+</style> 
+   <script type="text/javascript">
+var insert1 = document.getElementById("ContentPane2");
+var urlDiv = articleUrl();
+if (insert1) {
+insert1.appendChild(urlDiv);
+}
+</script>
+  </div> 
+  <div id="ContentPane7"></div> 
+  <div id="ContentPane8"></div> 
+  <div id="ContentPane9"></div> 
+  <div id="ContentPane10"></div> 
+  <div id="ContentPane11"></div> 
+  <div id="ContentPane12"></div> 
+  <div id="ContentPane13"></div> 
+  <div id="ContentPane14"></div> 
+  <div id="ContentPane15"></div> 
+  <div id="ContentPane16"></div> 
+  <div id="ContentPane17">
+   <div class="related_reading_rdr" id="rltd-p-1037"> 
+    <h4>Top Picks</h4> 
+    <ul> 
+     <li id="x62" class="first"> <a href="http://diabetes.webmd.com/h2t-managing-diabetes-11/default.htm" onclick="return sl(this,'','rltd-p-1037_1');">Diabetes? Get Tips to Avoid Health Problems</a> </li> 
+     <li id="x63"> <a href="http://www.webmd.com/eye-health/ss/slideshow-eye-conditions-overview" onclick="return sl(this,'','rltd-p-1037_2');">Images of Diabetic Retinopathy and Other Vision Problems</a> </li> 
+     <li id="x64"> <a href="http://diabetes.webmd.com/diabetes-health-check/default.htm" onclick="return sl(this,'','rltd-p-1037_3');">Is Your Type 2 Diabetes Under Control?</a> </li> 
+     <li id="x65"> <a href="http://diabetes.webmd.com/diabetes-your-menu-6/alcohol" onclick="return sl(this,'','rltd-p-1037_4');">Dos and Don'ts: Diabetes and Alcohol Consumption</a> </li> 
+     <li id="x66"> <a href="http://diabetes.webmd.com/treating-diabetes-11/insulin-questions" onclick="return sl(this,'','rltd-p-1037_5');">Your Insulin Management Questions Answered</a> </li> 
+     <li id="x67" class="last"> <a href="http://arthritis.webmd.com/living-with-chronic-gout-11/gout-and-diabetes" onclick="return sl(this,'','rltd-p-1037_6');">Diabetes and Gout: Know the Risk Factors</a> </li> 
+    </ul> 
+    <script class="oas_template" id="oas_top_picks" type="text/html">
+    <a class="{type_prefix}{type}" onclick="return sl(this,'','rltd-p-1037_{link_position}');" href="{href}">{alt}{i_tag}</a>
+  </script> 
+    <script type="text/javascript">
+				webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {}; webmd.oas.mapping['oas_top_picks'] = ['x62','x63','x64','x65','x66','x67'];
+			</script> 
+   </div> 
+   <script type="text/javascript"> 
+				function moveMustSeeArticles() {
+					/* make the swap function available internally */
+					function doSwap() {	
+						/* get must-see articles, remove from the DOM */
+						var msa = $('#mainContentContainer_area .related_reading_rdr').clone();
+						$('#mainContentContainer_area .related_reading_rdr').remove();
+						
+						/* get the pagination if it exists */
+						var pagination = $('.attribution_rdr .pagination_fmt');
+						var contextual = $('.other_context_links_rdr');
+						var article = $('.article_rdr');
+						
+						/* certain pages use another format:
+						// the top picks module is in .related_wrapper .dyn_related
+						// as the second div with this class.
+						// it has an id, unlike the other div */
+						var dyn_related = $('.related_wrapper .dyn_related[id]');
+						
+						/* if dyn_related, it is handled one way */
+						if(dyn_related.html()) {
+							/* on last page, .related_wrapper is displayed and "Top Picks" should stay
+							// on other pages, it should move down */
+							if(dyn_related.parent().css('display') === 'none') {
+								var dyn_related_clone = dyn_related.clone();
+								dyn_related.remove();
+								$(pagination).after('<div class="related_wrapper" style="display: block;" id="related_wrapper_2"></div>')
+								$('#related_wrapper_2').append(dyn_related_clone);
+							}
+						/* if not dyn_related, it is handled   this way */
+						} else {
+							/* if pagination exists, insert must-see articles before the pagination,
+							else insert before the next node after the contextual related links,
+							else insert before the next node after the article */
+							if (pagination.html()) {
+								$(pagination).after(msa);
+								msa.css('padding-top','30px');
+							} else if (contextual.html()) {
+								$(contextual).after(msa);
+							} else {
+								$(article).after(msa);
+							}
+						}
+						
+						/* show */
+						$('#mainContentContainer_area .related_reading_rdr').show();
+                        
+					}
+                    
+                    
+					
+                    /* do the swap unless the function getPubType exists and returns the value 'third_party', unless it is Healthy Day content */
+					if (s_publication_source = 'WebMD News from HealthDay'){
+                    	doSwap();
+                    } else if(typeof(getPubType) == 'function') {
+						(getPubType() == 'third_party') ? null : doSwap();
+					} else {
+						doSwap();
+					}
+				}
+                                if (window.$) { 
+					moveMustSeeArticles();
+					$('.share_rdr').hide();
+					}
+                    
+                     $(document).ready(function() 
+                     {
+                    	$('.related_wrapper').css('display','block');
+                        $('.dyn_related').css('padding-top','0px');  
+                     });  
+			</script>
+   <!--Topic Directory Related Articles Module-->
+   <!--
+updated 09/20/10 15:17
+<webmd_rendition><content><wbmd_asset object_type="wbmd_pb_module" id="091e9c5e80a7df5a" xmlns:xalan="http://xml.apache.org/xalan" xmlns:fn="http://www.w3.org/2005/02/xpath-functions"><webmd_module><module_settings><chronic_id>091e9c5e8069325b</chronic_id><r_object_id>091e9c5e80a7df5a</r_object_id><title>lln-tdrelcon</title><object_name>module_td-rltd-art_091e9c5e8069325b.xml</object_name><object_type>wbmd_pb_templatemodule</object_type><wbmd_pb_module_category></wbmd_pb_module_category><wbmd_pb_module_tier>0</wbmd_pb_module_tier><wbmd_pb_cache_duration>1440</wbmd_pb_cache_duration><r_modify_date>05/30/2012 23:35:23</r_modify_date><wbmd_pb_asset_css path="/webmd/PageBuilder_Assets/CSS/TopicDirectoryRelatedArticles/Related Articles/Standard Health Center_091e9c5e806829f6.css" object_type="wbmd_pb_css" chronic_id="091e9c5e806829f6"></wbmd_pb_asset_css><wbmd_pb_module_xsl path="/webmd/PageBuilder_Assets/XSL/TopicDirectoryRelatedArticles/Related Articles_091e9c5e806829f5.xsl" object_type="wbmd_pb_xsl" chronic_id="091e9c5e806829f5"></wbmd_pb_module_xsl><wbmd_pb_moduledataschema path="/webmd_uk/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_moduledataschema path="/webmd/PageBuilder_Assets/schemas/module_schemas/TopicDirectoryRelatedArticles.xsd" object_type="wbmd_pb_schemas" chronic_id="091e9c5e80680965"></wbmd_pb_moduledataschema><wbmd_pb_owner_page_id path="/webmd/PageBuilder_Assets/scopemaps/WebMD Consumer/Templates/Diabetes Health Center/template_Diabetes Health Center_091e9c5e800245f8.xml" object_type="wbmd_pb_template" chronic_id="091e9c5e800245f8"></wbmd_pb_owner_page_id><dnn_id>0</dnn_id><class>TopicDirectoryRelatedArticles</class></module_settings><module_data><collection_categories></collection_categories></module_data></webmd_module></wbmd_asset></content><friendlyurls></friendlyurls><referenced_objects></referenced_objects><container_hierarchy></container_hierarchy><expanded_objects></expanded_objects><topic_dirs><topic_dir><name>Blood Sugar (Glucose)</name><link_title>Blood Sugar (Glucose)</link_title><description>Blood glucose (often called blood sugar) is normally regulated by insulin. Your blood sugar levels change throughout the day but usually don't get extremely high or low. Too high levels can damage your body's organs. Too low levels can cause dementia and even a coma or death. For those with diabetes, the pancreas doesn't produce the right amount of insulin, so blood sugar levels depend greatly on diet, and these levels must be regularly monitored. Follow the links below to find WebMD's comprehensive coverage about blood sugar and glucose levels, complications of abnormal blood sugar levels, and much more.</description><friendly_url>http://www.webmd.com/diabetes/blood-sugar-glucose-directory</friendly_url></topic_dir><related_assets><asset id="091e9c5e807b7358"><link_title>Slideshow: Control Your Blood Sugars</link_title><friendly_url>http://www.webmd.com/diabetes/controlling-diabetes-11/slideshow-control-your-blood-sugars</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80686910"><link_title>Slideshow: Blood Sugar Control and Insulin</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-blood-sugar-insulin</friendly_url><thumbnail height="" width="" alt="Assorted healthy whole foods">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/how_you_can_control_blood_sugar_and_manage_insulin/69x75_how_you_can_control_blood_sugar_and_manage_insulin.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id=""><link_title>Why should people with diabetes test their blood sugar levels?</link_title><friendly_url>http://answers.webmd.com/answers/1180314/why-should-people-with-diabetes-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1012</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802b9c34"><link_title>High Blood Sugar Linked to Memory Loss</link_title><friendly_url>http://www.webmd.com/alzheimers/news/20081230/high-blood-sugar-linked-memory-loss</friendly_url><thumbnail height="" width="" alt="blood_sugar_cognitive_aging.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2008/December08/blood_sugar_cognitive_aging.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e806f78ac"><link_title>Recall of Defective Glucose Test Strips</link_title><friendly_url>http://www.webmd.com/diabetes/news/20101222/recall-of-defective-glucose-test-strips</friendly_url><thumbnail height="" width="" alt="glucose monitor and test strip">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2010/12_2010/69x75_glucose_test_strips_recalled_02.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e800078e5"><link_title>Checking Blood Glucose Levels</link_title><friendly_url>http://www.webmd.com/diabetes/checking-blood-glucose-levels</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800092d0"><link_title>Diabetes and Blood Sugar Numbers</link_title><friendly_url>http://www.webmd.com/diabetes/know-blood-sugar-numbers</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802399b9"><link_title>How the Blood Sugar of Diabetes Affects the Body</link_title><friendly_url>http://www.webmd.com/diabetes/how-sugar-affects-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008635"><link_title>Continuous Glucose Monitoring for Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/continuous-glucose-monitoring</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80008653"><link_title>Diabetes and Morning High Blood Sugar Levels</link_title><friendly_url>http://www.webmd.com/diabetes/morning-high-blood-sugar-levels</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e807d1282"><link_title>Dangerous Blood Sugar Levels: How to Wreck Your Blood Sugar</link_title><friendly_url>http://www.webmd.com/diabetes/features/how-to-wreck-your-blood-sugar</friendly_url><thumbnail height="" width="" alt="woman checking blood sugar">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2011/04_2011/69x75_how_to_wreck_your_blood_sugar_level.jpg</thumbnail><collection_category_val>1003</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800068b2"><link_title>Too High or Low Blood Sugar</link_title><friendly_url>http://www.webmd.com/diabetes/blood-sugar-levels</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80322578"><link_title>Very Low Blood Sugar Linked to Dementia</link_title><friendly_url>http://www.webmd.com/diabetes/news/20090417/very-low-blood-sugar-linked-to-dementia</friendly_url><thumbnail height="75" width="69" alt="low_blood_sugar_dementia_risk.jpg">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/thumbnails_daily_images/2009/April_2009/low_blood_sugar_dementia_risk.jpg</thumbnail><collection_category_val>1005</collection_category_val><archive>1</archive></asset><asset id="091e9c5e801e5a52"><link_title>Insulin and Healthy Blood Sugar Levels - WebMD</link_title><friendly_url>http://www.webmd.com/diabetes/healthy-blood-sugar-levels-quiz</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1078</collection_category_val><archive>0</archive></asset><asset id="091e9c5e80006a5e"><link_title>Glucose Tolerance Testing</link_title><friendly_url>http://www.webmd.com/diabetes/guide/oral-glucose-tolerance-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802124e5"><link_title>Low Blood Sugar (Hypoglycemia) Treatment</link_title><friendly_url>http://www.webmd.com/first-aid/low-blood-sugar-hypoglycemia-treatment</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000865d"><link_title>Diabetes and Blood Sugar Control</link_title><friendly_url>http://www.webmd.com/diabetes/blood-glucose-control</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8000a664"><link_title>A1c Test May Be Better for Long-Term Diabetes Care</link_title><friendly_url>http://www.webmd.com/diabetes/features/beyond-blood-sugar-testing-a1c</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1003</collection_category_val><archive>1</archive></asset><asset id="091e9c5e8000868e"><link_title>Diabetes and Blood Sugar Testing</link_title><friendly_url>http://www.webmd.com/diabetes/how-test-blood-glucose</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e800bb526"><link_title>Diabetes and Ways to Test Your Blood Sugar</link_title><friendly_url>http://www.webmd.com/diabetes/home-blood-glucose-testing</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e804ceb3d"><link_title>Slideshow: Diabetes Management in 10 Minutes</link_title><friendly_url>http://www.webmd.com/diabetes/active-life/slideshow-managing-diabetes-10-tips</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e802ac3d0"><link_title>Slideshow: A Visual Guide to Type 2 Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-type-2-diabetes-overview</friendly_url><thumbnail height="" width="" alt="Diabetic tools">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/type_2_diabetes_overview_slideshow/69x75_type_2_diabetes_overview_slideshow.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e803043ab"><link_title>Slideshow: Celebrities With Diabetes</link_title><friendly_url>http://www.webmd.com/diabetes/ss/slideshow-celebrities-with-diabetes</friendly_url><thumbnail height="" width="" alt="Tom Hanks">http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/celebrities_with_diabetes/69x75_celebrities_with_diabetes.jpg</thumbnail><collection_category_val>1008</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e4c8"><link_title>Diabetes-Related High and Low Blood Sugar Levels-Check Your Symptoms</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetes-related-high-and-low-blood-sugar-levels-check-your-symptoms</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d746"><link_title>Diabetes: Dealing With Low Blood Sugar From Insulin</link_title><friendly_url>http://www.webmd.com/diabetes/dealing-with-low-blood-sugar-from-insulin-for-diabetes</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e6d3"><link_title>Diabetes-Related High and Low Blood Sugar Levels-Health Tools</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetes-related-high-and-low-blood-sugar-levels-health-tools</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001f039"><link_title>Blood Glucose</link_title><friendly_url>http://www.webmd.com/diabetes/blood-glucose</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001d723"><link_title>Diabetes: Checking Your Blood Sugar</link_title><friendly_url>http://www.webmd.com/diabetes/home-blood-sugar-monitoring</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001e761"><link_title>Diabetes-Related High and Low Blood Sugar Levels-Topic Overview</link_title><friendly_url>http://www.webmd.com/diabetes/tc/diabetes-related-high-and-low-blood-sugar-levels-topic-overview</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset><asset id="091e9c5e8001f071"><link_title>Home Blood Glucose Test</link_title><friendly_url>http://www.webmd.com/diabetes/home-blood-glucose-test</friendly_url><thumbnail height="" width="" alt=""></thumbnail><collection_category_val>1006</collection_category_val><archive>0</archive></asset></related_assets></topic_dirs></webmd_rendition>
+--> 
+   <div class="related_wrapper">
+    <div class="dyn_related">
+     <h4 class="JS-TEST3">Further Reading:</h4>
+     <ul>
+      <li><a href="http://www.webmd.com/diabetes/controlling-diabetes-11/slideshow-control-your-blood-sugars" onclick="return sl(this,'','lln-tdrelcon_1');">Slideshow: Control Your Blood Sugars</a></li>
+      <li><a href="http://www.webmd.com/diabetes/ss/slideshow-blood-sugar-insulin" onclick="return sl(this,'','lln-tdrelcon_2');">Slideshow: Blood Sugar Control and Insulin</a></li>
+      <li><a href="http://answers.webmd.com/answers/1180314/why-should-people-with-diabetes-test" onclick="return sl(this,'','lln-tdrelcon_3');">Why should people with diabetes test their blood sugar levels?</a></li>
+      <li><a href="http://www.webmd.com/diabetes/checking-blood-glucose-levels" onclick="return sl(this,'','lln-tdrelcon_4');">Checking Blood Glucose Levels</a></li>
+      <li><a href="http://www.webmd.com/diabetes/know-blood-sugar-numbers" onclick="return sl(this,'','lln-tdrelcon_5');">Diabetes and Blood Sugar Numbers</a></li>
+      <li><a href="http://www.webmd.com/diabetes/how-sugar-affects-diabetes" onclick="return sl(this,'','lln-tdrelcon_6');">How the Blood Sugar of Diabetes Affects the Body</a></li>
+      <li><a href="http://www.webmd.com/diabetes/continuous-glucose-monitoring" onclick="return sl(this,'','lln-tdrelcon_7');">Continuous Glucose Monitoring for Diabetes</a></li>
+      <li class="last_link"><a href="http://www.webmd.com/diabetes/blood-sugar-glucose-directory" onclick="return sl(this,'','lln-tdrelcon_all');">See All Blood Sugar (Glucose) Topics</a></li>
+     </ul>
+    </div>
+   </div>
+   <script type="text/javascript"> 
+                    	$('.related_wrapper').css('display','block');  
+			</script>
+  </div> 
+  <div id="ContentPane18">
+   <script>
+
+
+            // self executing function for scope
+                (function(){
+
+				  // Moving the ad up into the article:
+                  // Finds all possible locations to insert, moves the ad location up into the article, before handling the Ad Seed Call
+                    
+                    // Updates Paragraphs
+                    $( ".article_rdr p" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    // Updates Unordered Lists
+                    $( ".article_rdr .copyNormal ul" ).each(function() {
+                        $(this).addClass( "node" );
+                    });
+                    
+                    
+                    //Removes nodes from paragraphs where it shouldnt be?
+                    $( ".article_rdr .share_bar p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .share_bar ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .aia_rdr ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".contextual_links_fmt p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr table p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .verifiedBox_rdr p" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    $( ".article_rdr .copyNormal table ul" ).each(function() {
+                        $(this).removeClass( "node" );
+                    });
+                    
+                    // Finds the number of paragraphs / List items within the article. 
+                    sbposition = ($('.article_rdr .node').length);
+                    
+                    //Is this Healthwise Content??
+                    if( s_publication_source.indexOf( "Healthwise" ) != -1 ){
+    					//Healthwise Steps, if different;
+                        }
+    				else {
+                    //Moves the sponsor box placeholder up into the document
+					if (sbposition >= 8) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(5)');
+                        }
+			  		if (sbposition == 7) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 6) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 5) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(4)');
+                        }
+			  		if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }
+                    if (sbposition == 4) {
+                    	$('#remoteAd_rdr').insertAfter('.node:eq(3)');
+                        }  
+                  //End else    
+					}
+
+				
+				setTimeout(function (){
+                  var iframeURLOutOfPB = 'http://as.webmd.com/html.ng/transactionID=253626816&tile=1638313280&tug=&pug=_2148_&site=2&affiliate=20&hcent=1037&scent=&pos=113&xpg=3629&sec=&amp;au1=1&au2=1&uri=%2fdiabetes%2fpreventing-high-blood-sugar-emergencies-from-diabetes&artid=091e9c5e8001d734&inst=0&amp;leaf=&segm=0&cc=16&tmg=&bc=_age1_&mcent=&micro=';
+
+                  var cleanIframeURL = iframeURLOutOfPB.replace(/&amp;/g, '&');
+
+                  var ad = {
+                    adLocation:'remote',
+                    adURL:cleanIframeURL,  
+                    trans:'253626816',
+                    tile:'1638313280',
+                    pos:'5000'
+                  };
+                    
+                  // check to make sure this seed call functionality exists, if it does, dooo it
+                  if(webmd.object.exists('webmd.ads.handleAdSeedCall')) {
+                    webmd.ads.handleAdSeedCall(ad);
+                    setTimeout(function (){
+					updateRemoteAd();  
+                    }, 2000);             
+                  }
+                    }, 2000);
+                  
+				  
+				  function updateRemoteAd(){
+                  	$('.chapterList_fmt #remoteAd_rdr').css('position', 'relative');
+					$('.chapterList_fmt #remoteAd_rdr').css('left', '-14px');
+    				$('#remoteAd_Iframe').contents().find( "body" ).attr('id', 'mainContent_area');
+                    	if ($('#remoteAd_Iframe').contents().find('body').text().length && sbposition >= 4) {
+                            $('.conta').css('display','block');
+                            $('#remoteAd_rdr').css('display','block');
+						}
+				 }
+                   
+                })();
+
+
+        </script> 
+   <script type="text/javascript">
+      var priTopId = "3629";
+      var secTopId = "";
+    </script>
+   <div class="centerAd_r1_rdr"> 
+    <div id="centerAd_fmt" class="centerAd_BG_fmt"> 
+     <iframe title="Center ICM" width="494" height="1" marginwidth="0" marginheight="0" style="margin:0;" frameborder="0" scrolling="no" src="http://as.webmd.com/html.ng/transactionID=253626816&amp;tile=1638313280&amp;tug=&amp;pug=_2148_&amp;site=2&amp;affiliate=20&amp;hcent=1037&amp;scent=&amp;pos=5001&amp;xpg=3629&amp;sec=&amp;au1=1&amp;au2=1&amp;uri=%2fdiabetes%2fpreventing-high-blood-sugar-emergencies-from-diabetes&amp;artid=091e9c5e8001d734&amp;inst=0&amp;leaf=&amp;cc=16&amp;tmg=&amp;bc=_age1_&amp;mcent=&amp;micro="> &lt;script language=&quot;JavaScript1.2&quot; type=&quot;text/javascript&quot; charset=&quot;ISO-8859-1&quot; src=&quot;http://as.webmd.com/js.ng/Params.richmedia=yes&amp;amp;transactionID=253626816&amp;amp;tile=1638313280&amp;amp;tug=&amp;amp;pug=_2148_&amp;amp;site=2&amp;amp;affiliate=20&amp;amp;hcent=1037&amp;amp;scent=&amp;amp;pos=5001&amp;amp;xpg=3629&amp;amp;sec=&amp;amp;au1=1&amp;amp;au2=1&amp;amp;uri=%2fdiabetes%2fpreventing-high-blood-sugar-emergencies-from-diabetes&amp;amp;artid=091e9c5e8001d734&amp;amp;inst=0&amp;amp;leaf=&amp;amp;cc=16&amp;amp;tmg=&amp;amp;bc=_age1_&amp;amp;mcent=&amp;amp;micro=&quot;&gt; &lt;/script&gt; </iframe> 
+     <script type="text/javascript">
+					$("#centerAd_Iframe_c1").load(function() { $("#centerAd_top_fmt").addClass("loaded"); $(".centerAd_top_fmt").addClass("loaded"); });
+				</script> 
+    </div> 
+   </div> 
+   <div class="moduleSpacer_rdr"> 
+   </div> 
+   <script language="JavaScript1.2" type="text/javascript">
+			var priTopId = "3629";
+			var secTopId = "";
+		</script>
+  </div> 
+  <div id="ContentPane19"></div> 
+  <div id="ContentPane20"></div> 
+ </div> 
+</div>
